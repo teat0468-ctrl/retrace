@@ -1,0 +1,469 @@
+{
+  "search_metadata": {
+    "id": "6ab11147ff7aa20829d98aef",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tdURhMJQKFNeKzmlBwBo3jwqZPuuZbaQ50fjDKBK0wU/6ab11147ff7aa20829d98aef.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tdURhMJQKFNeKzmlBwBo3jwqZPuuZbaQ50fjDKBK0wU/6ab11147ff7aa20829d98aef.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/tdURhMJQKFNeKzmlBwBo3jwqZPuuZbaQ50fjDKBK0wU/6ab11147ff7aa20829d98aef.json_with_pixel_position",
+    "created_at": "2026-09-21 11:13:11 UTC",
+    "processed_at": "2026-09-21 11:13:11 UTC",
+    "google_url": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&oq=did+apple+really+just+introduce+iphone+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/tdURhMJQKFNeKzmlBwBo3jwqZPuuZbaQ50fjDKBK0wU/6ab11147ff7aa20829d98aef.html",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "did apple really just introduce iphone before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "did apple really just introduce iphone before:2026-01-01",
+    "total_results": 130000000,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "FKHxjHiczVXdkqI4FH6AfY71xlHBf7uKmkoQFNq_2Nutzg0FgQ4oGJtg2_TdPMvuU-3TbMA_dKV7Zi62NqUmJt85OYdzPr7vf_neevX3b3-6UbRhd5XKbrcrE0qJ75QxDSomi9e48kx9FmL3K6PbEDueLWE3pIFTiF-lWgEzSSg4njR9672ZtBkOsKGuJtqEbcKaB1AhdSEZlsmcJb_hbckqRoX_rH6vdfmfMis767I5f1Tq3_qPeozKVaFaK48rZsAB4L8bCwLkZH4ASj6IH2k_5A0hIGtZTxCmk3ze2aU4oJD0BCbr23fKez-am_4CMHHXDZdxE3qE9HPjgNlw4eIQ3CK9DxAEPkr2hrd9DgRc53Jj5GSDLlyAXuYo1x8E5CJODiQy7AsAHd2QC7yMstcriQHcI8YION02cAn5oIzcQB0C_AA0-bNiU1lrw-NVKuP9qlVswhtXqFghn8SKh12cLkKW9LP8R0eginEf64OtB3rw6clRx-9QX5Qmiu3M_F0FWxznU9N2bMM1hK_pf7EqNoROrdX-khIJsxOTWJZJ8juynlFEOhEuD8pQPNJIPrXt1TPmvQVuJgnlA_TCIC3CUD53TXJ6MCdmBqidrBUEht6Vn0cnqcbwvNGtAlCXL2t2uuEWjfbr8zKh0T4QTjwFHMufQfBdPeMnkzPcgX8NeL3RhcfoNEiugZetrhHlAZwThpe9ybGeqyQdm3DgCacx4WwHp-8YTbsKJHk_8KIoysnNAZuO3jkffqKitOXdhDfkESfkUQ4NnxhMweldtOfByZhkwsgWbMa_qvsJ4XMH_RzCaXPgy1X7Z2mjvsah-qKxeoRGAzvqunZNFVqvoaev0W2a0MD6CcXB_ysi7fVIO-hRPpG0HyISQnK-Hu2XZz1KAoEIoRwiyXqOHtWPkLMeXRMJDjJEcj_Wo58lkvwhkY7P5CaR5NXhNEskOY9IRz3KEsnTuR4tznqUJdJZj05E-iU9or-mRymvnP10KU7bJckVKXU0jXelxrjqvg-qnXFVJ6zWnHRKoTBCn4rUcxDdBabtfzE8-w5W9Si2vxh8g945duFFsj27aG42vlMMHdP34-Jyy6Kit45Cam-xU_Q2Ll07Rct5pqFzx-nZLAki_xQCP6SSYNa3Oh5Y65f4dQMUSsZKb9ByN75vyRPj2zvu9SdCh-5qJdaJEBRq9RkImN8Yk5a-uR_1t_F8LmLUIM_NBz_YLvuz-1JbHI0a2mK-DAfMru9WDzP3abiBYndOJtMXvO1PgsmbP39_s31hapitabvrDH1VZYbdbsVzmkbGJIuNOqHb36wEpRCEWOKdUSdghMCM8N6UF7ypCHg0KZ93APWaACmwwLBpOOxVsrDVaVZbWMANWxQ6rUJAongj1cUCW4eS-A8-0U1W",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FKHxjHiczVXdkqI4FH6AfY71xlHBf7uKmkoQFNq_2Nutzg0FgQ4oGJtg2_TdPMvuU-3TbMA_dKV7Zi62NqUmJt85OYdzPr7vf_neevX3b3-6UbRhd5XKbrcrE0qJ75QxDSomi9e48kx9FmL3K6PbEDueLWE3pIFTiF-lWgEzSSg4njR9672ZtBkOsKGuJtqEbcKaB1AhdSEZlsmcJb_hbckqRoX_rH6vdfmfMis767I5f1Tq3_qPeozKVaFaK48rZsAB4L8bCwLkZH4ASj6IH2k_5A0hIGtZTxCmk3ze2aU4oJD0BCbr23fKez-am_4CMHHXDZdxE3qE9HPjgNlw4eIQ3CK9DxAEPkr2hrd9DgRc53Jj5GSDLlyAXuYo1x8E5CJODiQy7AsAHd2QC7yMstcriQHcI8YION02cAn5oIzcQB0C_AA0-bNiU1lrw-NVKuP9qlVswhtXqFghn8SKh12cLkKW9LP8R0eginEf64OtB3rw6clRx-9QX5Qmiu3M_F0FWxznU9N2bMM1hK_pf7EqNoROrdX-khIJsxOTWJZJ8juynlFEOhEuD8pQPNJIPrXt1TPmvQVuJgnlA_TCIC3CUD53TXJ6MCdmBqidrBUEht6Vn0cnqcbwvNGtAlCXL2t2uuEWjfbr8zKh0T4QTjwFHMufQfBdPeMnkzPcgX8NeL3RhcfoNEiugZetrhHlAZwThpe9ybGeqyQdm3DgCacx4WwHp-8YTbsKJHk_8KIoysnNAZuO3jkffqKitOXdhDfkESfkUQ4NnxhMweldtOfByZhkwsgWbMa_qvsJ4XMH_RzCaXPgy1X7Z2mjvsah-qKxeoRGAzvqunZNFVqvoaev0W2a0MD6CcXB_ysi7fVIO-hRPpG0HyISQnK-Hu2XZz1KAoEIoRwiyXqOHtWPkLMeXRMJDjJEcj_Wo58lkvwhkY7P5CaR5NXhNEskOY9IRz3KEsnTuR4tznqUJdJZj05E-iU9or-mRymvnP10KU7bJckVKXU0jXelxrjqvg-qnXFVJ6zWnHRKoTBCn4rUcxDdBabtfzE8-w5W9Si2vxh8g945duFFsj27aG42vlMMHdP34-Jyy6Kit45Cam-xU_Q2Ll07Rct5pqFzx-nZLAki_xQCP6SSYNa3Oh5Y65f4dQMUSsZKb9ByN75vyRPj2zvu9SdCh-5qJdaJEBRq9RkImN8Yk5a-uR_1t_F8LmLUIM_NBz_YLvuz-1JbHI0a2mK-DAfMru9WDzP3abiBYndOJtMXvO1PgsmbP39_s31hapitabvrDH1VZYbdbsVzmkbGJIuNOqHb36wEpRCEWOKdUSdghMCM8N6UF7ypCHg0KZ93APWaACmwwLBpOOxVsrDVaVZbWMANWxQ6rUJAongj1cUCW4eS-A8-0U1W"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Apple Reinvents the Phone with iPhone",
+      "link": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFYFuds6xhFP0YBGTejXzL_j69hVbA7I-_KP5MM6MwqiModIJ9CPdYypSrywPSWgq9pxLtRHCfzTPgvehAsSCMc0F6p1irAVwcAwmDyWBPykzc_vHbosrc4ETEu79ZNDYpcqKdRcKEZ0c6PWXyBO2h3LoVUVsrKpGTVtimJI1wN1sP84&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › newsroom › 2007/01 › 09Appl...",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp",
+      "date": "Jan 9, 2007",
+      "snippet": "MACWORLD SAN FRANCISCO—January 9, 2007—Apple® today introduced iPhone, combining three products—a revolutionary mobile phone, a widescreen iPod® with touch ...",
+      "snippet_highlighted_words": [
+        "Apple",
+        "introduced iPhone"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "MACWORLD SAN FRANCISCO—January 9, 2007—Apple® today introduced iPhone, combining three products—a revolutionary mobile phone, a widescreen iPod® with touch ...",
+          "source_info_link": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZRnVkczZ4aEZQMFlCR1Rlalh6TF9qNjloVmJBN0ktX0tQNU1NNk13cWlNb2RJSjlDUGRZeXBTcnl3UFNXZ3E5cHhMdFJIQ2Z6VFBndmVoQXNTQ01jMEY2cDFpckFWd2NBd21EeVdCUHlremNfdkhib3NyYzRFVEV1NzlaTkRZcGNxS2RSY0tFWjBjNlBXWHlCTzJoM0xvVlVWc3JLcEdUVnRpbUpJMXdOMXNQODQSBBoCCAAavwYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJAjAYIABAAGAAgACojCgNkaWQVAAAAABoCZG8aBGRvZXMaB3dhcyB0aGUaBHdpbGwqDAoFYXBwbGUVlAIMQSovCgZyZWFsbHkVAAAAABoIYWN0dWFsbHkaCWV4dHJlbWVseRoFdHJ1bHkaBHZlcnkqGQoEanVzdBXOAwg_GgRvbmx5GgZzaW1wbHkqmwEKCWludHJvZHVjZRUAAAAAGgllc3RhYmxpc2gaBWludHJvGgppbnRyb2R1Y2VkGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGgZsYXVuY2gaDml2O3A7aW50cm9kdWNlGgVmaXJzdBoHcmVsZWFzZRoIbGF1bmNoZXMaCWxhdW5jaGluZxoJYW5ub3VuY2VkGghzdGFydGluZyobCgZpcGhvbmUVKOWaQBoDaW9zGgdpcGhvbmVzMsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZRnVkczZ4aEZQMFlCR1Rlalh6TF9qNjloVmJBN0ktX0tQNU1NNk13cWlNb2RJSjlDUGRZeXBTcnl3UFNXZ3E5cHhMdFJIQ2Z6VFBndmVoQXNTQ01jMEY2cDFpckFWd2NBd21EeVdCUHlremNfdkhib3NyYzRFVEV1NzlaTkRZcGNxS2RSY0tFWjBjNlBXWHlCTzJoM0xvVlVWc3JLcEdUVnRpbUpJMXdOMXNQODQ6MzxiPkFwcGxlPC9iPiBSZWludmVudHMgdGhlIFBob25lIHdpdGggPGI-aVBob25lPC9iPkK6AU1BQ1dPUkxEIFNBTiBGUkFOQ0lTQ0_igJRKYW51YXJ5IDksIDIwMDfigJQ8Yj5BcHBsZTwvYj7CriB0b2RheSA8Yj5pbnRyb2R1Y2VkIGlQaG9uZTwvYj4sIGNvbWJpbmluZyB0aHJlZSBwcm9kdWN0c-KAlGEgcmV2b2x1dGlvbmFyeSBtb2JpbGUgcGhvbmUsIGEgd2lkZXNjcmVlbiBpUG9kwq4gd2l0aCB0b3VjaCZuYnNwOy4uLlIEb25seVICZG9SBHdpbGwiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZRnVkczZ4aEZQMFlCR1Rlalh6TF9qNjloVmJBN0ktX0tQNU1NNk13cWlNb2RJSjlDUGRZeXBTcnl3UFNXZ3E5cHhMdFJIQ2Z6VFBndmVoQXNTQ01jMEY2cDFpckFWd2NBd21EeVdCUHlremNfdkhib3NyYzRFVEV1NzlaTkRZcGNxS2RSY0tFWjBjNlBXWHlCTzJoM0xvVlVWc3JLcEdUVnRpbUpJMXdOMXNQODQSBBoCCAAavwYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJAjAYIABAAGAAgACojCgNkaWQVAAAAABoCZG8aBGRvZXMaB3dhcyB0aGUaBHdpbGwqDAoFYXBwbGUVlAIMQSovCgZyZWFsbHkVAAAAABoIYWN0dWFsbHkaCWV4dHJlbWVseRoFdHJ1bHkaBHZlcnkqGQoEanVzdBXOAwg_GgRvbmx5GgZzaW1wbHkqmwEKCWludHJvZHVjZRUAAAAAGgllc3RhYmxpc2gaBWludHJvGgppbnRyb2R1Y2VkGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGgZsYXVuY2gaDml2O3A7aW50cm9kdWNlGgVmaXJzdBoHcmVsZWFzZRoIbGF1bmNoZXMaCWxhdW5jaGluZxoJYW5ub3VuY2VkGghzdGFydGluZyobCgZpcGhvbmUVKOWaQBoDaW9zGgdpcGhvbmVzMsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZRnVkczZ4aEZQMFlCR1Rlalh6TF9qNjloVmJBN0ktX0tQNU1NNk13cWlNb2RJSjlDUGRZeXBTcnl3UFNXZ3E5cHhMdFJIQ2Z6VFBndmVoQXNTQ01jMEY2cDFpckFWd2NBd21EeVdCUHlremNfdkhib3NyYzRFVEV1NzlaTkRZcGNxS2RSY0tFWjBjNlBXWHlCTzJoM0xvVlVWc3JLcEdUVnRpbUpJMXdOMXNQODQ6MzxiPkFwcGxlPC9iPiBSZWludmVudHMgdGhlIFBob25lIHdpdGggPGI-aVBob25lPC9iPkK6AU1BQ1dPUkxEIFNBTiBGUkFOQ0lTQ0_igJRKYW51YXJ5IDksIDIwMDfigJQ8Yj5BcHBsZTwvYj7CriB0b2RheSA8Yj5pbnRyb2R1Y2VkIGlQaG9uZTwvYj4sIGNvbWJpbmluZyB0aHJlZSBwcm9kdWN0c-KAlGEgcmV2b2x1dGlvbmFyeSBtb2JpbGUgcGhvbmUsIGEgd2lkZXNjcmVlbiBpUG9kwq4gd2l0aCB0b3VjaCZuYnNwOy4uLlIEb25seVICZG9SBHdpbGwiAhABSABYAGgA",
+      "source": "Apple",
+      "read_more_link": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/#:~:text=MACWORLD%20SAN%20FRANCISCO%E2%80%94January%209%2C%202007%E2%80%94Apple%C2%AE,a%20widescreen%20iPod%C2%AE%20with%20touch"
+    },
+    {
+      "position": 2,
+      "title": "Steve Jobs introduces iPhone in 2007",
+      "link": "https://www.youtube.com/watch?v=MnrJzXM7a6o",
+      "displayed_link": "50.9M+ views · 14 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab11147ff7aa20829d98aef/images/ZqqVNV3JwB3yGH-RZJDFILUFzWfezC9lZSFmbgs04zg.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "Steve Jobs made the claim that it was 5 years ahead of any other phone. AppleTV was also introduced that day.",
+      "duration": "10:20",
+      "key_moments": [
+        {
+          "time": "03:30",
+          "title": "What is a smartphone?",
+          "link": "https://www.youtube.com/watch?v=MnrJzXM7a6o&t=210"
+        },
+        {
+          "time": "04:47",
+          "title": "IPhone user interface",
+          "link": "https://www.youtube.com/watch?v=MnrJzXM7a6o&t=287"
+        },
+        {
+          "time": "05:01",
+          "title": "Why do we need a revolutionary user interface?",
+          "link": "https://www.youtube.com/watch?v=MnrJzXM7a6o&t=301"
+        },
+        {
+          "time": "07:06",
+          "title": "Multitouch technology",
+          "link": "https://www.youtube.com/watch?v=MnrJzXM7a6o&t=426"
+        },
+        {
+          "time": "08:27",
+          "title": "Software breakthrough",
+          "link": "https://www.youtube.com/watch?v=MnrJzXM7a6o&t=507"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Steve Jobs made the claim that it was 5 years ahead of any other phone. AppleTV was also introduced that day.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkk5S2VHV2NjNEZtTERuUzZrdS1WcnNvY205ZWhZMHR5SEUtNmpHTkZpb0Y2MUJNY0FSVTBjOVBmQVJtVGlUdmthb3ZHb2xucHd3bTNSRlRzWXY4bmZJaUJIVzVsYUNtLTVkQVROemp3TEc2YWhhbVVYQU0zSGozMDJHVkxIdxIhChUKBAgwSAIKBAhISAIKAgg_CgMIgAESBAoCCFoaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkk5S2VHV2NjNEZtTERuUzZrdS1WcnNvY205ZWhZMHR5SEUtNmpHTkZpb0Y2MUJNY0FSVTBjOVBmQVJtVGlUdmthb3ZHb2xucHd3bTNSRlRzWXY4bmZJaUJIVzVsYUNtLTVkQVROemp3TEc2YWhhbVVYQU0zSGozMDJHVkxIdxIhChUKBAgwSAIKBAhISAIKAgg_CgMIgAESBAoCCFoaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTgswzGzpexgLSaa9cXbonSe1g8FMXWptOgdw",
+      "source": "YouTube · John Schroter"
+    },
+    {
+      "position": 3,
+      "title": "Introducing iPhone Air, a powerful new ...",
+      "link": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFYw3C7JirS55BXIxXQ-WpN4Nq3B_Ff93lJrlVFmcwEX512S3l4V-fMIGHN5_tbd4fY00zqMatHZthy9_DsO-na8xjveW4zfuimBo_yEETdY6ywMcKJLHZhQZIoj1WcMlHwnAW9EyogKXvdpuONFiI8VP_RKoVpFDx0bBu4QCaLtoKJYGYpgEekkNmpKyqGyT7W_GbEzbwe6WGRGJnduactx8Jg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › newsroom › 2025/09 › introduc...",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp",
+      "date": "Sep 9, 2025",
+      "snippet": "Apple today debuted the all-new iPhone Air, the thinnest iPhone ever made, with pro performance.",
+      "snippet_highlighted_words": [
+        "Apple today debuted the all-new iPhone Air"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple today debuted the all-new iPhone Air, the thinnest iPhone ever made, with pro performance.",
+          "source_info_link": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZZdzNDN0ppclM1NUJYSXhYUS1XcE40TnEzQl9GZjkzbEpybFZGbWN3RVg1MTJTM2w0Vi1mTUlHSE41X3RiZDRmWTAwenFNYXRIWnRoeTlfRHNPLW5hOHhqdmVXNHpmdWltQm9feUVFVGRZNnl3TWNLSkxIWmhRWklvajFXY01sSHduQVc5RXlvZ0tYdmRwdU9ORmlJOFZQX1JLb1ZwRkR4MGJCdTRRQ2FMdG9LSllHWXBnRWVra05tcEt5cUd5VDdXX0diRXpid2U2V0dSR0puZHVhY3R4OEpnEgQaAggAGrgGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoNCAESCWFwcGxlLmNvbXIAegCCQIUGCAAQABgAIAAqIwoDZGlkFQAAAAAaAmRvGgRkb2VzGgd3YXMgdGhlGgR3aWxsKgwKBWFwcGxlFYx9DkEqLwoGcmVhbGx5FeRByTwaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5KhkKBGp1c3QV3zPIPRoEb25seRoGc2ltcGx5KpsBCglpbnRyb2R1Y2UVAAAAABoJZXN0YWJsaXNoGgVpbnRybxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZRoFZmlyc3QaB3JlbGVhc2UaCGxhdW5jaGVzGglsYXVuY2hpbmcaCWFubm91bmNlZBoIc3RhcnRpbmcqGwoGaXBob25lFd3glEAaA2lvcxoHaXBob25lczLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGWXczQzdKaXJTNTVCWEl4WFEtV3BONE5xM0JfRmY5M2xKcmxWRm1jd0VYNTEyUzNsNFYtZk1JR0hONV90YmQ0ZlkwMHpxTWF0SFp0aHk5X0RzTy1uYTh4anZlVzR6ZnVpbUJvX3lFRVRkWTZ5d01jS0pMSFpoUVpJb2oxV2NNbEh3bkFXOUV5b2dLWHZkcHVPTkZpSThWUF9SS29WcEZEeDBiQnU0UUNhTHRvS0pZR1lwZ0Vla2tObXBLeXFHeVQ3V19HYkV6YndlNldHUkdKbmR1YWN0eDhKZzpVPGI-SW50cm9kdWNpbmcgaVBob25lPC9iPiBBaXIsIGEgcG93ZXJmdWwgbmV3IDxiPmlQaG9uZTwvYj4gd2l0aCBhIC4uLiAtIDxiPkFwcGxlPC9iPkJnPGI-QXBwbGUgdG9kYXkgZGVidXRlZCB0aGUgYWxsLW5ldyBpUGhvbmUgQWlyPC9iPiwgdGhlIHRoaW5uZXN0IGlQaG9uZSBldmVyIG1hZGUsIHdpdGggcHJvIHBlcmZvcm1hbmNlLlIEd2lsbFICZG9SBG9ubHkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZZdzNDN0ppclM1NUJYSXhYUS1XcE40TnEzQl9GZjkzbEpybFZGbWN3RVg1MTJTM2w0Vi1mTUlHSE41X3RiZDRmWTAwenFNYXRIWnRoeTlfRHNPLW5hOHhqdmVXNHpmdWltQm9feUVFVGRZNnl3TWNLSkxIWmhRWklvajFXY01sSHduQVc5RXlvZ0tYdmRwdU9ORmlJOFZQX1JLb1ZwRkR4MGJCdTRRQ2FMdG9LSllHWXBnRWVra05tcEt5cUd5VDdXX0diRXpid2U2V0dSR0puZHVhY3R4OEpnEgQaAggAGrgGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoNCAESCWFwcGxlLmNvbXIAegCCQIUGCAAQABgAIAAqIwoDZGlkFQAAAAAaAmRvGgRkb2VzGgd3YXMgdGhlGgR3aWxsKgwKBWFwcGxlFYx9DkEqLwoGcmVhbGx5FeRByTwaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5KhkKBGp1c3QV3zPIPRoEb25seRoGc2ltcGx5KpsBCglpbnRyb2R1Y2UVAAAAABoJZXN0YWJsaXNoGgVpbnRybxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZRoFZmlyc3QaB3JlbGVhc2UaCGxhdW5jaGVzGglsYXVuY2hpbmcaCWFubm91bmNlZBoIc3RhcnRpbmcqGwoGaXBob25lFd3glEAaA2lvcxoHaXBob25lczLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGWXczQzdKaXJTNTVCWEl4WFEtV3BONE5xM0JfRmY5M2xKcmxWRm1jd0VYNTEyUzNsNFYtZk1JR0hONV90YmQ0ZlkwMHpxTWF0SFp0aHk5X0RzTy1uYTh4anZlVzR6ZnVpbUJvX3lFRVRkWTZ5d01jS0pMSFpoUVpJb2oxV2NNbEh3bkFXOUV5b2dLWHZkcHVPTkZpSThWUF9SS29WcEZEeDBiQnU0UUNhTHRvS0pZR1lwZ0Vla2tObXBLeXFHeVQ3V19HYkV6YndlNldHUkdKbmR1YWN0eDhKZzpVPGI-SW50cm9kdWNpbmcgaVBob25lPC9iPiBBaXIsIGEgcG93ZXJmdWwgbmV3IDxiPmlQaG9uZTwvYj4gd2l0aCBhIC4uLiAtIDxiPkFwcGxlPC9iPkJnPGI-QXBwbGUgdG9kYXkgZGVidXRlZCB0aGUgYWxsLW5ldyBpUGhvbmUgQWlyPC9iPiwgdGhlIHRoaW5uZXN0IGlQaG9uZSBldmVyIG1hZGUsIHdpdGggcHJvIHBlcmZvcm1hbmNlLlIEd2lsbFICZG9SBG9ubHkiAhABSABYAGgA",
+      "source": "Apple"
+    },
+    {
+      "position": 4,
+      "title": "Apple Event — September 9, 2025",
+      "link": "https://www.youtube.com/watch?v=H3KnMyojEQU",
+      "displayed_link": "32M+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab11147ff7aa20829d98aef/images/ZqqVNV3JwB3yGH-RZJDFICTra2ERPAiip4850-kZP38.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "Watch the special Apple Event to learn about iPhone 17, iPhone Air, and iPhone 17 Pro. Introducing iPhone Duo and more",
+      "duration": "1:11:57",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=0"
+        },
+        {
+          "time": "02:59",
+          "title": "AirPods Pro 3",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=179"
+        },
+        {
+          "time": "13:07",
+          "title": "Apple Watch Introduction",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=787"
+        },
+        {
+          "time": "17:32",
+          "title": "Apple Watch Series 11",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=1052"
+        },
+        {
+          "time": "23:05",
+          "title": "Apple Watch SE 3",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=1385"
+        },
+        {
+          "time": "25:35",
+          "title": "Apple Watch Ultra 3",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=1535"
+        },
+        {
+          "time": "29:43",
+          "title": "iPhone 17",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=1783"
+        },
+        {
+          "time": "40:37",
+          "title": "iPhone Air",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=2437"
+        },
+        {
+          "time": "54:15",
+          "title": "iPhone 17 Pro",
+          "link": "https://www.youtube.com/watch?v=H3KnMyojEQU&t=3255"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Watch the special Apple Event to learn about iPhone 17, iPhone Air, and iPhone 17 Pro. Introducing iPhone Duo and more",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk5YY3k5RlZwVmZENHBZb0RmbU1aT2NkSUo4YllNOVRCVlBFRWdTYjVXbTZ4T2lqMVhCQmkzOGNEN3FMeGRhZlc0N1BieVNGRkJrcjR5ZXEwQ0Q1alVTaTFGVTdKUzhHc1huc0RQRy15ZnJpNDhUSTlNQ0JFQ1A2S3l6VGUtdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk5YY3k5RlZwVmZENHBZb0RmbU1aT2NkSUo4YllNOVRCVlBFRWdTYjVXbTZ4T2lqMVhCQmkzOGNEN3FMeGRhZlc0N1BieVNGRkJrcjR5ZXEwQ0Q1alVTaTFGVTdKUzhHc1huc0RQRy15ZnJpNDhUSTlNQ0JFQ1A2S3l6VGUtdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTlaUwZkSlDzk7alNXqq8ywXMGYxvxNyWnzPg",
+      "source": "YouTube · Apple"
+    },
+    {
+      "position": 5,
+      "title": "Apple's big iPhone launch is coming on September 9. What ...",
+      "link": "https://www.reddit.com/r/apple/comments/1n20vzx/apples_big_iphone_launch_is_coming_on_september_9/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFb9xWVnkQLLKdvPufjlf-OZ8-O2N35oAIXTc-AO1wmrgdqSEi7s81THlj40UPrzSC-0h_ijv1PZoV171dj_Agr0RqiaBrcHLv2_4jJJ2_lINRHn_CTe1bQQJf-G85IEKTMYayRbGpX4f2VT7LXiSnnVnUIs9aNtVX_blrTucF6vKO2bB9HWfa_uZpd8Bd-IFURjOQgs3&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQFnoECCMQAQ&uoh=1",
+      "displayed_link": "310+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Apple's big iPhone launch is coming on September 9. This is pretty accurate... Where every Apple device looks exactly as it did 5 years ago. AI could really make ...",
+      "snippet_highlighted_words": [
+        "Apple's big iPhone launch is coming on September 9"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple's big iPhone launch is coming on September 9. This is pretty accurate... Where every Apple device looks exactly as it did 5 years ago. AI could really make ...",
+          "source_info_link": "https://www.reddit.com/r/apple/comments/1n20vzx/apples_big_iphone_launch_is_coming_on_september_9/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZiOXhXVm5rUUxMS2R2UHVmamxmLU9aOC1PMk4zNW9BSVhUYy1BTzF3bXJnZHFTRWk3czgxVEhsajQwVVByelNDLTBoX2lqdjFQWm9WMTcxZGpfQWdyMFJxaWFCcmNITHYyXzRqSkoyX2xJTlJIbl9DVGUxYlFRSmYtRzg1SUVLVE1ZYXlSYkdwWDRmMlZUN0xYaVNublZuVUlzOWFOdFZYX2JsclR1Y0Y2dktPMmJCOUhXZmFfdVpwZDhCZC1JRlVSak9RZ3MzEgQaAggAGuIGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL4GCAAQABgAIAAqIwoDZGlkFTIcqj4aAmRvGgRkb2VzGgd3YXMgdGhlGgR3aWxsKgwKBWFwcGxlFQDylUAqLwoGcmVhbGx5FcAfkz4aCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5KhkKBGp1c3QVJg73PhoEb25seRoGc2ltcGx5KpsBCglpbnRyb2R1Y2UVAAAAABoJZXN0YWJsaXNoGgVpbnRybxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZRoFZmlyc3QaB3JlbGVhc2UaCGxhdW5jaGVzGglsYXVuY2hpbmcaCWFubm91bmNlZBoIc3RhcnRpbmcqGwoGaXBob25lFVbfWUAaA2lvcxoHaXBob25lczLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGYjl4V1Zua1FMTEtkdlB1ZmpsZi1PWjgtTzJOMzVvQUlYVGMtQU8xd21yZ2RxU0VpN3M4MVRIbGo0MFVQcnpTQy0waF9panYxUFpvVjE3MWRqX0FncjBScWlhQnJjSEx2Ml80akpKMl9sSU5SSG5fQ1RlMWJRUUpmLUc4NUlFS1RNWWF5UmJHcFg0ZjJWVDdMWGlTbm5WblVJczlhTnRWWF9ibHJUdWNGNnZLTzJiQjlIV2ZhX3VacGQ4QmQtSUZVUmpPUWdzMzpRPGI-QXBwbGUmIzM5O3M8L2I-IGJpZyA8Yj5pUGhvbmUgbGF1bmNoPC9iPiBpcyBjb21pbmcgb24gU2VwdGVtYmVyIDkgLi4uIC0gUmVkZGl0QrUBPGI-QXBwbGUmIzM5O3MgYmlnIGlQaG9uZSBsYXVuY2ggaXMgY29taW5nIG9uIFNlcHRlbWJlciA5PC9iPi4gVGhpcyBpcyBwcmV0dHkgYWNjdXJhdGUuLi4gV2hlcmUgZXZlcnkgQXBwbGUgZGV2aWNlIGxvb2tzIGV4YWN0bHkgYXMgaXQgZGlkIDUgeWVhcnMgYWdvLiBBSSBjb3VsZCByZWFsbHkgbWFrZSZuYnNwOy4uLlIEd2lsbFICZG9SBG9ubHkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZiOXhXVm5rUUxMS2R2UHVmamxmLU9aOC1PMk4zNW9BSVhUYy1BTzF3bXJnZHFTRWk3czgxVEhsajQwVVByelNDLTBoX2lqdjFQWm9WMTcxZGpfQWdyMFJxaWFCcmNITHYyXzRqSkoyX2xJTlJIbl9DVGUxYlFRSmYtRzg1SUVLVE1ZYXlSYkdwWDRmMlZUN0xYaVNublZuVUlzOWFOdFZYX2JsclR1Y0Y2dktPMmJCOUhXZmFfdVpwZDhCZC1JRlVSak9RZ3MzEgQaAggAGuIGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL4GCAAQABgAIAAqIwoDZGlkFTIcqj4aAmRvGgRkb2VzGgd3YXMgdGhlGgR3aWxsKgwKBWFwcGxlFQDylUAqLwoGcmVhbGx5FcAfkz4aCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5KhkKBGp1c3QVJg73PhoEb25seRoGc2ltcGx5KpsBCglpbnRyb2R1Y2UVAAAAABoJZXN0YWJsaXNoGgVpbnRybxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZRoFZmlyc3QaB3JlbGVhc2UaCGxhdW5jaGVzGglsYXVuY2hpbmcaCWFubm91bmNlZBoIc3RhcnRpbmcqGwoGaXBob25lFVbfWUAaA2lvcxoHaXBob25lczLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGYjl4V1Zua1FMTEtkdlB1ZmpsZi1PWjgtTzJOMzVvQUlYVGMtQU8xd21yZ2RxU0VpN3M4MVRIbGo0MFVQcnpTQy0waF9panYxUFpvVjE3MWRqX0FncjBScWlhQnJjSEx2Ml80akpKMl9sSU5SSG5fQ1RlMWJRUUpmLUc4NUlFS1RNWWF5UmJHcFg0ZjJWVDdMWGlTbm5WblVJczlhTnRWWF9ibHJUdWNGNnZLTzJiQjlIV2ZhX3VacGQ4QmQtSUZVUmpPUWdzMzpRPGI-QXBwbGUmIzM5O3M8L2I-IGJpZyA8Yj5pUGhvbmUgbGF1bmNoPC9iPiBpcyBjb21pbmcgb24gU2VwdGVtYmVyIDkgLi4uIC0gUmVkZGl0QrUBPGI-QXBwbGUmIzM5O3MgYmlnIGlQaG9uZSBsYXVuY2ggaXMgY29taW5nIG9uIFNlcHRlbWJlciA5PC9iPi4gVGhpcyBpcyBwcmV0dHkgYWNjdXJhdGUuLi4gV2hlcmUgZXZlcnkgQXBwbGUgZGV2aWNlIGxvb2tzIGV4YWN0bHkgYXMgaXQgZGlkIDUgeWVhcnMgYWdvLiBBSSBjb3VsZCByZWFsbHkgbWFrZSZuYnNwOy4uLlIEd2lsbFICZG9SBG9ubHkiAhABSABYAGgA",
+      "source": "Reddit · r/apple"
+    },
+    {
+      "position": 6,
+      "title": "11 years ago, Steve Jobs 'scrolling' on the first iPhone drew ...",
+      "link": "https://www.reddit.com/r/apple/comments/9kahkr/11_years_ago_steve_jobs_scrolling_on_the_first/",
+      "displayed_link": "1.8K+ comments · 7 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab11147ff7aa20829d98aef/images/ZqqVNV3JwB3yGH-RZJDFIO2ozUrPJZhGHzOkRpw7G-w.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "That first iPhone was revolutionary. When apple creates something that will change the way people live and work, they will get the audible gasps again.",
+      "about_this_result": {
+        "source": {
+          "description": "That first iPhone was revolutionary. When apple creates something that will change the way people live and work, they will get the audible gasps again.",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZjWGh6NzBGa1Zvc1pRUGJ2QTU2czJpSFBCNzNrODNHT19HaEM2VV9XbXR6RFZaaEYzT1ZvcjlJTGZjUnl3RG5TbGMzNFg1Nk5WbFc0eHNmTk5IRHUxOXFWaUxmRk96cGxMRGJhaml0bmJrNmdDOUVJaGZDMHRidEZlWkphMkxNVGw1T1duNHJQLVpxaGJMejk3YWZGT0laMllnSktTVEdfOXZhUUtrd1hDQmE3aTQzZGY3ZnBGTERWdmhXRWlET0ZFURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZjWGh6NzBGa1Zvc1pRUGJ2QTU2czJpSFBCNzNrODNHT19HaEM2VV9XbXR6RFZaaEYzT1ZvcjlJTGZjUnl3RG5TbGMzNFg1Nk5WbFc0eHNmTk5IRHUxOXFWaUxmRk96cGxMRGJhaml0bmJrNmdDOUVJaGZDMHRidEZlWkphMkxNVGw1T1duNHJQLVpxaGJMejk3YWZGT0laMllnSktTVEdfOXZhUUtrd1hDQmE3aTQzZGY3ZnBGTERWdmhXRWlET0ZFURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Reddit · r/apple"
+    },
+    {
+      "position": 7,
+      "title": "The History of Apple iPhones",
+      "link": "https://www.verizon.com/articles/Smartphones/milestones-in-history-of-apple-iphone/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFTe5vUmLFFjaj27LzD3i2lNAHtFii8OVUEeZ6Do0qOuc4Wxnxrs5g6-YKP4gSPHGJp4us6Em4ed57epFoNE8eFSScF2HGOxDZhIvXFyb-aT4J_fWlNL7xFljjnpw4eCNbl2tkEQcO8P1G55ekk2Umf8STBAs3i5iyiMcsbwRT9zuVPKIYElr&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://www.verizon.com › Articles › Smartphones",
+      "favicon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAAAwAgCdASoQABAAAsBMJbACdAE2wyL9uKWaAAD9xhbvHqv7wLiwsjO7TM0LJMxKmrfqLFxGg_dUJeG0W1TYuZ42WX7PSIdn4gMkIwX7QosubE0PX9bCER2XaS29y6bk6wJgx8INoOkGQe7dFJpXv9WZQAfDbj7A5HQ76F_-OvyF-P_JrNQP-Ayz_P_k1moHthM6xvhNqWk_4bx3786UAAAA.webp",
+      "date": "Sep 25, 2025",
+      "snippet": "In 2007 Apple debuted the iPhone and every year since they continue to wow with a new iteration that moves design and technology forward.",
+      "snippet_highlighted_words": [
+        "2007 Apple debuted the iPhone"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In 2007 Apple debuted the iPhone and every year since they continue to wow with a new iteration that moves design and technology forward.",
+          "source_info_link": "https://www.verizon.com/articles/Smartphones/milestones-in-history-of-apple-iphone/",
+          "icon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAAAwAgCdASoQABAAAsBMJbACdAE2wyL9uKWaAAD9xhbvHqv7wLiwsjO7TM0LJMxKmrfqLFxGg_dUJeG0W1TYuZ42WX7PSIdn4gMkIwX7QosubE0PX9bCER2XaS29y6bk6wJgx8INoOkGQe7dFJpXv9WZQAfDbj7A5HQ76F_-OvyF-P_JrNQP-Ayz_P_k1moHthM6xvhNqWk_4bx3786UAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZUZTV2VW1MRkZqYWoyN0x6RDNpMmxOQUh0RmlpOE9WVUVlWjZEbzBxT3VjNFd4bnhyczVnNi1ZS1A0Z1NQSEdKcDR1czZFbTRlZDU3ZXBGb05FOGVGU1NjRjJIR094RFpoSXZYRnliLWFUNEpfZldsTkw3eEZsampucHc0ZUNOYmwydGtFUWNPOFAxRzU1ZWtrMlVtZjhTVEJBczNpNWl5aU1jc2J3UlQ5enVWUEtJWUVschIEGgIIABqHBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOEFCAAQABgAIAAqIwoDZGlkFSKTgT4aAmRvGgRkb2VzGgd3YXMgdGhlGgR3aWxsKgwKBWFwcGxlFeOCnkAqLwoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5KhkKBGp1c3QVjEXOPRoEb25seRoGc2ltcGx5KpsBCglpbnRyb2R1Y2UVAAAAABoJZXN0YWJsaXNoGgVpbnRybxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZRoFZmlyc3QaB3JlbGVhc2UaCGxhdW5jaGVzGglsYXVuY2hpbmcaCWFubm91bmNlZBoIc3RhcnRpbmcqGwoGaXBob25lFeGUoEAaA2lvcxoHaXBob25lczLKAS9nb3RvP3VybD1DQUVTaXdFQjZ6c3dGVGU1dlVtTEZGamFqMjdMekQzaTJsTkFIdEZpaThPVlVFZVo2RG8wcU91YzRXeG54cnM1ZzYtWUtQNGdTUEhHSnA0dXM2RW00ZWQ1N2VwRm9ORThlRlNTY0YySEdPeERaaEl2WEZ5Yi1hVDRKX2ZXbE5MN3hGbGpqbnB3NGVDTmJsMnRrRVFjTzhQMUc1NWVrazJVbWY4U1RCQXMzaTVpeWlNY3Nid1JUOXp1VlBLSVlFbHI6LVRoZSBIaXN0b3J5IG9mIDxiPkFwcGxlIGlQaG9uZXM8L2I-IC0gVmVyaXpvbkKQAUluIDxiPjIwMDcgQXBwbGUgZGVidXRlZCB0aGUgaVBob25lPC9iPiBhbmQgZXZlcnkgeWVhciBzaW5jZSB0aGV5IGNvbnRpbnVlIHRvIHdvdyB3aXRoIGEgbmV3IGl0ZXJhdGlvbiB0aGF0IG1vdmVzIGRlc2lnbiBhbmQgdGVjaG5vbG9neSBmb3J3YXJkLlIEd2lsbFICZG9SBG9ubHkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZUZTV2VW1MRkZqYWoyN0x6RDNpMmxOQUh0RmlpOE9WVUVlWjZEbzBxT3VjNFd4bnhyczVnNi1ZS1A0Z1NQSEdKcDR1czZFbTRlZDU3ZXBGb05FOGVGU1NjRjJIR094RFpoSXZYRnliLWFUNEpfZldsTkw3eEZsampucHc0ZUNOYmwydGtFUWNPOFAxRzU1ZWtrMlVtZjhTVEJBczNpNWl5aU1jc2J3UlQ5enVWUEtJWUVschIEGgIIABqHBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOEFCAAQABgAIAAqIwoDZGlkFSKTgT4aAmRvGgRkb2VzGgd3YXMgdGhlGgR3aWxsKgwKBWFwcGxlFeOCnkAqLwoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5KhkKBGp1c3QVjEXOPRoEb25seRoGc2ltcGx5KpsBCglpbnRyb2R1Y2UVAAAAABoJZXN0YWJsaXNoGgVpbnRybxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZRoFZmlyc3QaB3JlbGVhc2UaCGxhdW5jaGVzGglsYXVuY2hpbmcaCWFubm91bmNlZBoIc3RhcnRpbmcqGwoGaXBob25lFeGUoEAaA2lvcxoHaXBob25lczLKAS9nb3RvP3VybD1DQUVTaXdFQjZ6c3dGVGU1dlVtTEZGamFqMjdMekQzaTJsTkFIdEZpaThPVlVFZVo2RG8wcU91YzRXeG54cnM1ZzYtWUtQNGdTUEhHSnA0dXM2RW00ZWQ1N2VwRm9ORThlRlNTY0YySEdPeERaaEl2WEZ5Yi1hVDRKX2ZXbE5MN3hGbGpqbnB3NGVDTmJsMnRrRVFjTzhQMUc1NWVrazJVbWY4U1RCQXMzaTVpeWlNY3Nid1JUOXp1VlBLSVlFbHI6LVRoZSBIaXN0b3J5IG9mIDxiPkFwcGxlIGlQaG9uZXM8L2I-IC0gVmVyaXpvbkKQAUluIDxiPjIwMDcgQXBwbGUgZGVidXRlZCB0aGUgaVBob25lPC9iPiBhbmQgZXZlcnkgeWVhciBzaW5jZSB0aGV5IGNvbnRpbnVlIHRvIHdvdyB3aXRoIGEgbmV3IGl0ZXJhdGlvbiB0aGF0IG1vdmVzIGRlc2lnbiBhbmQgdGVjaG5vbG9neSBmb3J3YXJkLlIEd2lsbFICZG9SBG9ubHkiAhABSABYAGgA",
+      "source": "Verizon",
+      "read_more_link": "https://www.verizon.com/articles/Smartphones/milestones-in-history-of-apple-iphone/#:~:text=In%202007%20Apple%20debuted%20the,moves%20design%20and%20technology%20forward."
+    },
+    {
+      "position": 8,
+      "title": "Steve Jobs Introducing The iPhone At MacWorld 2007",
+      "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4",
+      "displayed_link": "10.6M+ views · 15 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab11147ff7aa20829d98aef/images/ZqqVNV3JwB3yGH-RZJDFIMCktNIB3ydcY-jG8Zz5mFY.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "On January 9, 2007 Apple introduced the iPhone. The iPhone was a revolutionary product from Apple and it changed the way smart phones look and work.",
+      "duration": "14:01",
+      "key_moments": [
+        {
+          "time": "01:03",
+          "title": "IPod, iPod Touch, and iPhone",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=63"
+        },
+        {
+          "time": "04:40",
+          "title": "IPhone User Interface",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=280"
+        },
+        {
+          "time": "05:37",
+          "title": "Every Application Wants A Slightly Different User Interface",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=337"
+        },
+        {
+          "time": "07:42",
+          "title": "Apple's revolutionary user interfaces",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=462"
+        },
+        {
+          "time": "09:27",
+          "title": "Desktop-class applications & networking",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=567"
+        },
+        {
+          "time": "10:21",
+          "title": "Syncing with iTunes",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=621"
+        },
+        {
+          "time": "11:40",
+          "title": "IPhone's Design",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=700"
+        },
+        {
+          "time": "12:33",
+          "title": "IPhone Camera",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=753"
+        },
+        {
+          "time": "13:02",
+          "title": "The bottom of the iPhone",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=782"
+        },
+        {
+          "time": "13:53",
+          "title": "Accelerometer explained",
+          "link": "https://www.youtube.com/watch?v=x7qPAY9JqE4&t=833"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On January 9, 2007 Apple introduced the iPhone. The iPhone was a revolutionary product from Apple and it changed the way smart phones look and work.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkpfQVloT2ptR1ZfdW5qRGp2anRZRVI1ckliWm9NY3lxWGtra0oyVmtKc1Z4ektzSGhUdXVlVVZBRnRpREhXTnlBNlZxTjdBWGN3LXJtTl9VTVZHenJJQVE0bEtCeXBCXzhBZUVLaDQ1RW9jb1YtWDRDUEVwVHY4ajV4NjFTdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkpfQVloT2ptR1ZfdW5qRGp2anRZRVI1ckliWm9NY3lxWGtra0oyVmtKc1Z4ektzSGhUdXVlVVZBRnRpREhXTnlBNlZxTjdBWGN3LXJtTl9VTVZHenJJQVE0bEtCeXBCXzhBZUVLaDQ1RW9jb1YtWDRDUEVwVHY4ajV4NjFTdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRiyqTxsmhiUfrjQwEbd440mRXINvDT4ChPFw",
+      "source": "YouTube · superapple4ever"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "So I rewatched the original iPhone announcement at Macworld 2007...",
+      "link": "https://www.reddit.com/r/apple/comments/2i44bz/so_i_rewatched_the_original_iphone_announcement/",
+      "date": "11 years ago",
+      "extensions": [
+        "r/apple",
+        "110+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/apple/comments/2i44bz/so_i_rewatched_the_original_iphone_announcement/"
+        }
+      ]
+    },
+    {
+      "title": "What was your first reaction when you saw the iPhone unveiled in 2007?",
+      "link": "https://www.reddit.com/r/apple/comments/a5xm73/what_was_your_first_reaction_when_you_saw_the/",
+      "date": "7 years ago",
+      "extensions": [
+        "r/apple",
+        "140+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/apple/comments/a5xm73/what_was_your_first_reaction_when_you_saw_the/ebq2d5w/",
+          "extensions": [
+            "Top answer",
+            "228 votes",
+            "7 years ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/apple/comments/a5xm73/what_was_your_first_reaction_when_you_saw_the/ebq309u/",
+          "extensions": [
+            "112 votes",
+            "7 years ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/apple/comments/a5xm73/what_was_your_first_reaction_when_you_saw_the/ebq268m/",
+          "extensions": [
+            "107 votes",
+            "7 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Why does Apple launch its new iPhone in the month of September every ...",
+      "link": "https://www.quora.com/Why-does-Apple-launch-its-new-iPhone-in-the-month-of-September-every-year",
+      "date": "1 year ago",
+      "extensions": [
+        "30+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/Why-does-Apple-launch-its-new-iPhone-in-the-month-of-September-every-year?top_ans=100317751",
+          "extensions": [
+            "Top answer",
+            "5 votes",
+            "8 years ago"
+          ]
+        },
+        {
+          "link": "https://www.quora.com/Why-does-Apple-launch-its-new-iPhone-in-the-month-of-September-every-year?top_ans=128953399",
+          "extensions": [
+            "5 votes",
+            "7 years ago"
+          ]
+        },
+        {
+          "link": "https://www.quora.com/Why-does-Apple-launch-its-new-iPhone-in-the-month-of-September-every-year?top_ans=6492391",
+          "extensions": [
+            "2 votes",
+            "12 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=10&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8NMDegQILRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=10&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAE",
+      "3": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=20&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAG",
+      "4": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=30&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAI",
+      "5": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=40&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAK",
+      "6": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=50&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAM",
+      "7": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=60&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAO",
+      "8": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=70&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAQ",
+      "9": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=80&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAS",
+      "10": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+before:2026-01-01&sca_esv=bcb9627c0c5d1097&sxsrf=APpeQntOpt-NHoiMryyf9Zr-LxXktuf4Wg:1789989191765&ei=RxGxao6rLc_FkPIPspr3iAQ&start=90&sa=N&sstk=AS6-VmIQCjDQpVy_GTEovDwBPVXJ9dCJ-CD3aeMZcqTDLTbPzC21zP4CExU9PAZqb2MjjVVHtZzuTH9tms5A8bHkfuhwHF3y3gw6hg&ved=2ahUKEwjO6rOvxf-WAxXPIkQIHTLNHUEQ8tMDegQILRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+before%3A2026-01-01&start=90"
+    }
+  }
+}

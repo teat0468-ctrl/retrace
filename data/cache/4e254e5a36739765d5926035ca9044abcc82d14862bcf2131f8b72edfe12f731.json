@@ -1,0 +1,518 @@
+{
+  "search_metadata": {
+    "id": "6ab23031f7e99621fbdb67ad",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OoYVKWG-MrsomsQx0bFoLCYTF3hN5wZJ0to69m7lEAE/6ab23031f7e99621fbdb67ad.json",
+    "markdown_endpoint": "https://serpapi.com/searches/OoYVKWG-MrsomsQx0bFoLCYTF3hN5wZJ0to69m7lEAE/6ab23031f7e99621fbdb67ad.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/OoYVKWG-MrsomsQx0bFoLCYTF3hN5wZJ0to69m7lEAE/6ab23031f7e99621fbdb67ad.json_with_pixel_position",
+    "created_at": "2026-09-22 07:37:21 UTC",
+    "processed_at": "2026-09-22 07:37:21 UTC",
+    "google_url": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&oq=leaked+documents+prove+nasa+faked+moon+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/OoYVKWG-MrsomsQx0bFoLCYTF3hN5wZJ0to69m7lEAE/6ab23031f7e99621fbdb67ad.html",
+    "total_time_taken": 0.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "leaked documents prove nasa faked moon 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "leaked documents prove nasa faked moon 2025",
+    "total_results": 172000,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What did China just find on the Moon?",
+      "type": "ai_overview",
+      "page_token": "uOwEPXicHdDBToMwGADg-DIeHcjQsGQxqXRsi1Zb2p-1FwNlDEehOOsQbr6LT-XTGL1_p-_r27x2zc_FuXauf1_MZsMwXB2sPZj9lbbtLH8fOz3TuTFFrpvFze2Nf1fpJf7YoPu3DaKi7yFmXurZQXGGdFc-Q-ICbdCkPec0bvyy-VTUW_FCOC6BhuURJQTU9JRtTZ7YAFblmCbgiSxitK2z4lphwUssm-ghX-Ew5wiEqat9y7YF9Cd53WPJa0u7xyDN7JDyWqo10F1QnhU2GT3SuQzISDuoqNnOaRPFj7HpKV8NKpaj8mEnp9JX2adLJ3TaxyjLfRvmOGphEnO5YwGuSwKYhDKLcCpgUk09PMWMEs-FKd8yYPaVCjbpo2kFICK7PiDrzVhgdVYG_TnC1sQQQEkK9Zugl5U-L4PL_8_lS9W6RX-yh1_Tk4PT",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uOwEPXicHdDBToMwGADg-DIeHcjQsGQxqXRsi1Zb2p-1FwNlDEehOOsQbr6LT-XTGL1_p-_r27x2zc_FuXauf1_MZsMwXB2sPZj9lbbtLH8fOz3TuTFFrpvFze2Nf1fpJf7YoPu3DaKi7yFmXurZQXGGdFc-Q-ICbdCkPec0bvyy-VTUW_FCOC6BhuURJQTU9JRtTZ7YAFblmCbgiSxitK2z4lphwUssm-ghX-Ew5wiEqat9y7YF9Cd53WPJa0u7xyDN7JDyWqo10F1QnhU2GT3SuQzISDuoqNnOaRPFj7HpKV8NKpaj8mEnp9JX2adLJ3TaxyjLfRvmOGphEnO5YwGuSwKYhDKLcCpgUk09PMWMEs-FKd8yYPaVCjbpo2kFICK7PiDrzVhgdVYG_TnC1sQQQEkK9Zugl5U-L4PL_8_lS9W6RX-yh1_Tk4PT",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgQ2hpbmEganVzdCBmaW5kIG9uIHRoZSBNb29uPyIsImxrIjoiR2lSM2FHRjBJR1JwWkNCamFHbHVZU0JxZFhOMElHWnBibVFnYjI0Z2RHaGxJRzF2YjI0IiwiYnMiOiJjNFdRdXc2Q1FCQkZZN3VWTmRVVVBpdUJIeUJFVzdVd3hucGdoMlVWZGd5NzZ1OExKQ29Tb3ZXYy01Z3I5bUo2eXRHQjFCTFd1VFlJNTV0MWtHa2pnUTI0bkdETGJLSnc1azBlTHpBZEJzc2FGRWV4Mk5USUxqN0VRQlZhZW50QWdVWnFveUJqZHFnb0NwZmV2TEV6YUxIRGxnT3NVQ0pvYlVrWEVGZWxkUlhYMTRMd1RwQ2dzc0FaWEptX080ZWUzX28zSXZ3dmF2dVQ4SHVEZEY5TU1MMVlMYWxSZm5JQ2I5WGI1cGVtaVJtUG5nIiwiaWQiOiJmY19NVEN5YW9ESUVzZkhwODRQN0t5STJRVV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgQ2hpbmEganVzdCBmaW5kIG9uIHRoZSBNb29uPyIsImxrIjoiR2lSM2FHRjBJR1JwWkNCamFHbHVZU0JxZFhOMElHWnBibVFnYjI0Z2RHaGxJRzF2YjI0IiwiYnMiOiJjNFdRdXc2Q1FCQkZZN3VWTmRVVVBpdUJIeUJFVzdVd3hucGdoMlVWZGd5NzZ1OExKQ29Tb3ZXYy01Z3I5bUo2eXRHQjFCTFd1VFlJNTV0MWtHa2pnUTI0bkdETGJLSnc1azBlTHpBZEJzc2FGRWV4Mk5USUxqN0VRQlZhZW50QWdVWnFveUJqZHFnb0NwZmV2TEV6YUxIRGxnT3NVQ0pvYlVrWEVGZWxkUlhYMTRMd1RwQ2dzc0FaWEptX080ZWUzX28zSXZ3dmF2dVQ4SHVEZEY5TU1MMVlMYWxSZm5JQ2I5WGI1cGVtaVJtUG5nIiwiaWQiOiJmY19NVEN5YW9ESUVzZkhwODRQN0t5STJRVV81In0%3D"
+    },
+    {
+      "question": "Did NASA erase the Moon landing footage?",
+      "type": "ai_overview",
+      "page_token": "-j3FBnicHdBNboJAGADQ9DIu6wDVpiamiQoojdPOP7Jp4ENFmBmwUkF2vUtP1dO06Q1e3te3Ptnq5-5atG1zmY3HXdfdH-v6qPf3UJtxerlZGEOqdZZCNZs-Tp3nA8z9z81ied4siGgauaKIieANTLAkDj2wql2_xgXiN8fja3iIkcNopdHOtKe9JS7EZNjK5JzaQkirG8FxT5Tu2TpJsaVx5jo3iaTMFZnEXr7dxkkkquREjWY7B58lCmgWOqWM8QvTu06ugiYRlZcN0INoWyrymK81UuaJK6nl1kTBPqQ2d-VFqciFMvCwKyseBiGo_gzlESmeTJma-MLtr9hGnl_kWPp4slNPPhNySKqie11RglE7YTyiktYnIugApTbChSHT2sU6YMo2GMKoyEvqcWeRClP8maMrIaMDXOfe6P9z_n4w7az5qI-_dhKDjg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-j3FBnicHdBNboJAGADQ9DIu6wDVpiamiQoojdPOP7Jp4ENFmBmwUkF2vUtP1dO06Q1e3te3Ptnq5-5atG1zmY3HXdfdH-v6qPf3UJtxerlZGEOqdZZCNZs-Tp3nA8z9z81ied4siGgauaKIieANTLAkDj2wql2_xgXiN8fja3iIkcNopdHOtKe9JS7EZNjK5JzaQkirG8FxT5Tu2TpJsaVx5jo3iaTMFZnEXr7dxkkkquREjWY7B58lCmgWOqWM8QvTu06ugiYRlZcN0INoWyrymK81UuaJK6nl1kTBPqQ2d-VFqciFMvCwKyseBiGo_gzlESmeTJma-MLtr9hGnl_kWPp4slNPPhNySKqie11RglE7YTyiktYnIugApTbChSHT2sU6YMo2GMKoyEvqcWeRClP8maMrIaMDXOfe6P9z_n4w7az5qI-_dhKDjg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiRGlkIE5BU0EgZXJhc2UgdGhlIE1vb24gbGFuZGluZyBmb290YWdlPyIsImxrIjoiR2lka2FXUWdibUZ6WVNCbGNtRnpaU0IwYUdVZ2JXOXZiaUJzWVc1a2FXNW5JR1p2YjNSaFoyVSIsImJzIjoiYzRXUXV3NkNRQkJGWTd1Vk5kVVVQaXVCSHlCRVc3VXd4bnBnaDJVVmRneTc2dThMSkNvU292V2MtNWdyOW1KNnl0R0IxQkxXdVRZSTU1dDFrR2tqZ1EyNG5HRExiS0p3NWswZUx6QWRCc3NhRkVleDJOVElMajdFUUJWYWVudEFnVVpxb3lCamRxZ29DcGZldkxFemFMSERsZ09zVUNKb2JVa1hFRmVsZFJYWDE0THdUcENnc3NBWlhKbV9PNGVlM19vM0l2d3ZhdnVUOEh1RGRGOU1NTDFZTGFsUmZuSUNiOVhiNXBlbWlSbVBuZyIsImlkIjoiZmNfTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiRGlkIE5BU0EgZXJhc2UgdGhlIE1vb24gbGFuZGluZyBmb290YWdlPyIsImxrIjoiR2lka2FXUWdibUZ6WVNCbGNtRnpaU0IwYUdVZ2JXOXZiaUJzWVc1a2FXNW5JR1p2YjNSaFoyVSIsImJzIjoiYzRXUXV3NkNRQkJGWTd1Vk5kVVVQaXVCSHlCRVc3VXd4bnBnaDJVVmRneTc2dThMSkNvU292V2MtNWdyOW1KNnl0R0IxQkxXdVRZSTU1dDFrR2tqZ1EyNG5HRExiS0p3NWswZUx6QWRCc3NhRkVleDJOVElMajdFUUJWYWVudEFnVVpxb3lCamRxZ29DcGZldkxFemFMSERsZ09zVUNKb2JVa1hFRmVsZFJYWDE0THdUcENnc3NBWlhKbV9PNGVlM19vM0l2d3ZhdnVUOEh1RGRGOU1NTDFZTGFsUmZuSUNiOVhiNXBlbWlSbVBuZyIsImlkIjoiZmNfTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVVfNSJ9"
+    },
+    {
+      "question": "Did Neil Armstrong leave bags of poo on the Moon?",
+      "type": "ai_overview",
+      "page_token": "PyVRvnicHdBdToMwAADgeBkfXfk1LFmMjDJcpKwtLVtfDLRubLSDCBHkzSt4Bk_laTTe4Mv3-a3P1-bn5qsehq5fLhbjON6d2vakX-9kaxZl_3GVC1lqXZWyWfr3vvVwlCv4LsP1mwwx6zoeEUBNnShb0IOZnhiz1mWuAY35B-XaiPjgVEDhgz1E-BoC2gT7LNpu0w2zEOeA6zgrDHHLSPVpHAJ8CTVpkF_mws-NO2EtBC3UhbAJIqN2GQ8SZCYfa-KyBJ3JDD1eNKNo-kGuwfxnSdUGdVVCdAk9gK7Ik3Fto4LbFaydZ9ZFOewdtn8E0gomPqvwlVoO3jd2xviWF-KCweQS3Q0CxkfCul1ljy7LCRYbEcNaIQ6RdygCSBmfRVOPWUQwAoNH8y3hpD1jRmZ50YYnp1GxQO8tDAgLdmlRRxykDoFgoHACEsaE4dujfF85t__Xq5ejGZbdW3v6Bap6ihE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PyVRvnicHdBdToMwAADgeBkfXfk1LFmMjDJcpKwtLVtfDLRubLSDCBHkzSt4Bk_laTTe4Mv3-a3P1-bn5qsehq5fLhbjON6d2vakX-9kaxZl_3GVC1lqXZWyWfr3vvVwlCv4LsP1mwwx6zoeEUBNnShb0IOZnhiz1mWuAY35B-XaiPjgVEDhgz1E-BoC2gT7LNpu0w2zEOeA6zgrDHHLSPVpHAJ8CTVpkF_mws-NO2EtBC3UhbAJIqN2GQ8SZCYfa-KyBJ3JDD1eNKNo-kGuwfxnSdUGdVVCdAk9gK7Ik3Fto4LbFaydZ9ZFOewdtn8E0gomPqvwlVoO3jd2xviWF-KCweQS3Q0CxkfCul1ljy7LCRYbEcNaIQ6RdygCSBmfRVOPWUQwAoNH8y3hpD1jRmZ50YYnp1GxQO8tDAgLdmlRRxykDoFgoHACEsaE4dujfF85t__Xq5ejGZbdW3v6Bap6ihE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiRGlkIE5laWwgQXJtc3Ryb25nIGxlYXZlIGJhZ3Mgb2YgcG9vIG9uIHRoZSBNb29uPyIsImxrIjoiR2pCa2FXUWdibVZwYkNCaGNtMXpkSEp2Ym1jZ2JHVmhkbVVnWW1GbmN5QnZaaUJ3YjI4Z2IyNGdkR2hsSUcxdmIyNCIsImJzIjoiYzRXUXV3NkNRQkJGWTd1Vk5kVVVQaXVCSHlCRVc3VXd4bnBnaDJVVmRneTc2dThMSkNvU292V2MtNWdyOW1KNnl0R0IxQkxXdVRZSTU1dDFrR2tqZ1EyNG5HRExiS0p3NWswZUx6QWRCc3NhRkVleDJOVElMajdFUUJWYWVudEFnVVpxb3lCamRxZ29DcGZldkxFemFMSERsZ09zVUNKb2JVa1hFRmVsZFJYWDE0THdUcENnc3NBWlhKbV9PNGVlM19vM0l2d3ZhdnVUOEh1RGRGOU1NTDFZTGFsUmZuSUNiOVhiNXBlbWlSbVBuZyIsImlkIjoiZmNfTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiRGlkIE5laWwgQXJtc3Ryb25nIGxlYXZlIGJhZ3Mgb2YgcG9vIG9uIHRoZSBNb29uPyIsImxrIjoiR2pCa2FXUWdibVZwYkNCaGNtMXpkSEp2Ym1jZ2JHVmhkbVVnWW1GbmN5QnZaaUJ3YjI4Z2IyNGdkR2hsSUcxdmIyNCIsImJzIjoiYzRXUXV3NkNRQkJGWTd1Vk5kVVVQaXVCSHlCRVc3VXd4bnBnaDJVVmRneTc2dThMSkNvU292V2MtNWdyOW1KNnl0R0IxQkxXdVRZSTU1dDFrR2tqZ1EyNG5HRExiS0p3NWswZUx6QWRCc3NhRkVleDJOVElMajdFUUJWYWVudEFnVVpxb3lCamRxZ29DcGZldkxFemFMSERsZ09zVUNKb2JVa1hFRmVsZFJYWDE0THdUcENnc3NBWlhKbV9PNGVlM19vM0l2d3ZhdnVUOEh1RGRGOU1NTDFZTGFsUmZuSUNiOVhiNXBlbWlSbVBuZyIsImlkIjoiZmNfTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVVfNSJ9"
+    },
+    {
+      "question": "What did China find on the backside of the Moon?",
+      "type": "ai_overview",
+      "page_token": "QKqyBnicHdBRbpswGABg7TJ9bEyAbESKpqbY6RCYYuLfhJcJTALFdmAJihveeoWdYafaaTb1At_D9_FHv53V3y-_u2kar-vFwlr72A5Dq4-PcjCL6no_y4WstK4rqdarryvn-0lu8E1uny9ym_FxhJChXDcuiKgXuRODShA3tI-B6P0uyEF1XqPoQeBsWZkya85wyYSOUxxwjp2C7SLS7AivnOC1QcpWrj4dUFPk5v3H0fh-ElK_waNIxbRLVHctnCgs7siWeLLUeVpSFFl40TxZ-odjyK6xCF74ciy5mf47xKVzkybcm0Eor9LY0lBrSrYx4OBXjQEE_uYJVapadKu00PvatLMgxAPS3rNex3RPRnA5qmdt8yK64a6hgKl_EAHOOcyl6mwasoyiyc_3EQM2vGWczbLXBkLwGEceYK0SM_G6J1ney5kp7HKMXObo59I-nORt4z58Xm9-nsy0Hi9D-w_5YotN",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QKqyBnicHdBRbpswGABg7TJ9bEyAbESKpqbY6RCYYuLfhJcJTALFdmAJihveeoWdYafaaTb1At_D9_FHv53V3y-_u2kar-vFwlr72A5Dq4-PcjCL6no_y4WstK4rqdarryvn-0lu8E1uny9ym_FxhJChXDcuiKgXuRODShA3tI-B6P0uyEF1XqPoQeBsWZkya85wyYSOUxxwjp2C7SLS7AivnOC1QcpWrj4dUFPk5v3H0fh-ElK_waNIxbRLVHctnCgs7siWeLLUeVpSFFl40TxZ-odjyK6xCF74ciy5mf47xKVzkybcm0Eor9LY0lBrSrYx4OBXjQEE_uYJVapadKu00PvatLMgxAPS3rNex3RPRnA5qmdt8yK64a6hgKl_EAHOOcyl6mwasoyiyc_3EQM2vGWczbLXBkLwGEceYK0SM_G6J1ney5kp7HKMXObo59I-nORt4z58Xm9-nsy0Hi9D-w_5YotN",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgQ2hpbmEgZmluZCBvbiB0aGUgYmFja3NpZGUgb2YgdGhlIE1vb24/IiwibGsiOiJjNVBTTDg5SUxGRkl5VXhSU003SXpFdFVTTXZNUzFISXoxTW95VWhWU0VwTXppN09URWxWeUU4RDgzUHo4X01BIiwiYnMiOiJjNFdRdXc2Q1FCQkZZN3VWTmRVVVBpdUJIeUJFVzdVd3hucGdoMlVWZGd5NzZ1OExKQ29Tb3ZXYy01Z3I5bUo2eXRHQjFCTFd1VFlJNTV0MWtHa2pnUTI0bkdETGJLSnc1azBlTHpBZEJzc2FGRWV4Mk5USUxqN0VRQlZhZW50QWdVWnFveUJqZHFnb0NwZmV2TEV6YUxIRGxnT3NVQ0pvYlVrWEVGZWxkUlhYMTRMd1RwQ2dzc0FaWEptX080ZWUzX28zSXZ3dmF2dVQ4SHVEZEY5TU1MMVlMYWxSZm5JQ2I5WGI1cGVtaVJtUG5nIiwiaWQiOiJmY19NVEN5YW9ESUVzZkhwODRQN0t5STJRVV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWExaFdXRGN5VUdOQldESkZTV3RmVDFCdGIweFVWbGhwTFdwNVF6aHdhMUJtTUhSWmVXZDBhMGhUZERCb1NXSnhWRmRJT0VWNmMzVm9lVnBTUTJVNU9FY3pPR3RuZGtOUU5FOVVhM0JhVUZOVE5YSlZPR2w1UWt4U1VSSVhUVlJEZVdGdlJFbEZjMlpJY0RnMFVEZExlVWt5VVZVYUlrRkVjM0k1WmxKMWJtMHRVVjlsYW14T05rdHVSMTlMVTB4MVNtbFVNRVJEUkVFIiwiZmN2IjoiMyIsImVpIjoiTVRDeWFvRElFc2ZIcDg0UDdLeUkyUVUiLCJxYyI6ImMtUFN6a2xOekU1TlVVakpUeTdOVGMwcktWWW9LTW92UzFYSVN5eE9WRWdEUy1YbTUtY3BHQmtZbVFvd2FEQWFNakF3SE9oODlzUy1kcE9FZ1QwQSIsInF1ZXN0aW9uIjoiV2hhdCBkaWQgQ2hpbmEgZmluZCBvbiB0aGUgYmFja3NpZGUgb2YgdGhlIE1vb24%2FIiwibGsiOiJjNVBTTDg5SUxGRkl5VXhSU003SXpFdFVTTXZNUzFISXoxTW95VWhWU0VwTXppN09URWxWeUU4RDgzUHo4X01BIiwiYnMiOiJjNFdRdXc2Q1FCQkZZN3VWTmRVVVBpdUJIeUJFVzdVd3hucGdoMlVWZGd5NzZ1OExKQ29Tb3ZXYy01Z3I5bUo2eXRHQjFCTFd1VFlJNTV0MWtHa2pnUTI0bkdETGJLSnc1azBlTHpBZEJzc2FGRWV4Mk5USUxqN0VRQlZhZW50QWdVWnFveUJqZHFnb0NwZmV2TEV6YUxIRGxnT3NVQ0pvYlVrWEVGZWxkUlhYMTRMd1RwQ2dzc0FaWEptX080ZWUzX28zSXZ3dmF2dVQ4SHVEZEY5TU1MMVlMYWxSZm5JQ2I5WGI1cGVtaVJtUG5nIiwiaWQiOiJmY19NVEN5YW9ESUVzZkhwODRQN0t5STJRVV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "XFZceHiczVXbcqpIFP2A-Y7xxUSuJpIq6lR3g4r3juacSV4oRGhv0Aoq6tv5l_mq-ZppUBSNJDnnYWqoAvqye_favffq9fPv-cSf_fPHfrxaLcInjouiqEQoJXOnZFOPs8Kdb3MunYeBPf6226hSwQ5VvuBM1PYA7SyqGXro1hcVuffY3BkifikkS1RzaIXOlHncTkPO5Nhn9qeksU4pLDl-adMbSFgjywDTksiLUqnLWR4zAP_dY4zjLwYzYHxgFFt85SEE6AA0zgMIJT89YxJ3CHOJ4kEUt2_vqR8QPaMDQNDTenvNBkA7Qenn4kBZuCg67hwl-8F4xw-CveEt-VaPPT3fEORGQy5cgHZmKtcfujJk0DFAPTl2li66WEwAPm9vxJPHSrIJqNQp1CB4yUfOFjQNUJ4BrH-WbKx_l1G6Veu1xka4EWGFy3PDgP0EbmKP7aQRhHE9o4HC0zrBVakzr3QlsSdQV6w1H8xIRJsI2oCzh8xuTq2RMzLHJv8t6QuiUOYV6bFylxDJDk9MCrNMGkR1fgw7K4pwqVWCQkojdMozusSvsz66VQIQHU3R-zm2ID1tBE6eSfPC6JBhVroEvOngMj9UORwzTAfqIQCRnjE5Q4oH39PoGlpMo0NKSdI8llkWvAH6mUAzidVuVOq7qNm-R_Jg7Z3hpQMIGjNwDvjqDiMAQmRgeDihpZxgks9HkeLDV0Di-4FdFEZ62ocQ0oja53jYTDPhhYYQZH7pAmCDHeHBIl4wOXmFz1fXGTznIJswlh7QQp8QPu-BX7kxccqXq_LP0qZa8-X1QBjQvcfjoOptJyZWtouuPbXIbZpQb_gLimP_r4iU6tE8Gc8nEv4SkQjR8_Xo0DzrUUwkRAjJIZLez9GjKDU569F11KifIdInevSrRNI_JFJK0ptEqt4ikp5HpFSPLojUv9CjSyKd9OhEpN_RI_ibepTwyjn8LsVpPSW5IlVrLQRPWjYUAyF9ZfIv_W6FGjXUuL_Hn4qU662ePGs0vzMnoycoNla70Z3JBuiTMyos1bljzZxRcUTttef4q7C4COjGKfpWaBXdZMqj1C8yXpYL3jygKm-V38ryq9_Dr1WsB4I1HaNnBdRc1yOLQCzrk-0zrIouXusATx7-mphvXbFldSpVUXsURK3WbHfg1pWxt4weeEV7aaO9YpUjWh6AWahsfpT3lfWuEt770-99WPXHgzEvudW22HB8ZyOvdAmD8qZ2n6AJVc1S8GbaEe2BXPACW2VlIBPQweAHATZArwCzJGBE2Rux94HlBRZC2zKdcKM6j4ogC6Jku9JQGDqVgkdWu4Wq8IXQD1ThX82tOP8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XFZceHiczVXbcqpIFP2A-Y7xxUSuJpIq6lR3g4r3juacSV4oRGhv0Aoq6tv5l_mq-ZppUBSNJDnnYWqoAvqye_favffq9fPv-cSf_fPHfrxaLcInjouiqEQoJXOnZFOPs8Kdb3MunYeBPf6226hSwQ5VvuBM1PYA7SyqGXro1hcVuffY3BkifikkS1RzaIXOlHncTkPO5Nhn9qeksU4pLDl-adMbSFgjywDTksiLUqnLWR4zAP_dY4zjLwYzYHxgFFt85SEE6AA0zgMIJT89YxJ3CHOJ4kEUt2_vqR8QPaMDQNDTenvNBkA7Qenn4kBZuCg67hwl-8F4xw-CveEt-VaPPT3fEORGQy5cgHZmKtcfujJk0DFAPTl2li66WEwAPm9vxJPHSrIJqNQp1CB4yUfOFjQNUJ4BrH-WbKx_l1G6Veu1xka4EWGFy3PDgP0EbmKP7aQRhHE9o4HC0zrBVakzr3QlsSdQV6w1H8xIRJsI2oCzh8xuTq2RMzLHJv8t6QuiUOYV6bFylxDJDk9MCrNMGkR1fgw7K4pwqVWCQkojdMozusSvsz66VQIQHU3R-zm2ID1tBE6eSfPC6JBhVroEvOngMj9UORwzTAfqIQCRnjE5Q4oH39PoGlpMo0NKSdI8llkWvAH6mUAzidVuVOq7qNm-R_Jg7Z3hpQMIGjNwDvjqDiMAQmRgeDihpZxgks9HkeLDV0Di-4FdFEZ62ocQ0oja53jYTDPhhYYQZH7pAmCDHeHBIl4wOXmFz1fXGTznIJswlh7QQp8QPu-BX7kxccqXq_LP0qZa8-X1QBjQvcfjoOptJyZWtouuPbXIbZpQb_gLimP_r4iU6tE8Gc8nEv4SkQjR8_Xo0DzrUUwkRAjJIZLez9GjKDU569F11KifIdInevSrRNI_JFJK0ptEqt4ikp5HpFSPLojUv9CjSyKd9OhEpN_RI_ibepTwyjn8LsVpPSW5IlVrLQRPWjYUAyF9ZfIv_W6FGjXUuL_Hn4qU662ePGs0vzMnoycoNla70Z3JBuiTMyos1bljzZxRcUTttef4q7C4COjGKfpWaBXdZMqj1C8yXpYL3jygKm-V38ryq9_Dr1WsB4I1HaNnBdRc1yOLQCzrk-0zrIouXusATx7-mphvXbFldSpVUXsURK3WbHfg1pWxt4weeEV7aaO9YpUjWh6AWahsfpT3lfWuEt770-99WPXHgzEvudW22HB8ZyOvdAmD8qZ2n6AJVc1S8GbaEe2BXPACW2VlIBPQweAHATZArwCzJGBE2Rux94HlBRZC2zKdcKM6j4ogC6Jku9JQGDqVgkdWu4Wq8IXQD1ThX82tOP8"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How do we know that we went to the Moon?",
+      "link": "https://www.iop.org/explore-physics/moon/how-do-we-know-we-went-to-the-moon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFSTk_02U9ko5AxbZ-BNfTEovw8habPHy7XrkDe0d5ILnPYlihyqLCWupA46g-kgXpWLitelY6v6dkGUBjpSXR35Va4ZG1OGs2mhdjBM5YBNlVjmKOIX1LNoEkLQ3ez5Mj3dstYGKYNypTu0fsYQfsDBASq9glvCJprupETwIdw&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.iop.org › explore-physics › how-do-we-kn...",
+      "favicon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABwBgCdASocABwAPtE-tFooIigoFAEAGglsAMELUnpLjAXYBvHBEX7slGx9Y04ik9RynZYgI--bSfW5egAA_v0qbRYZM303z6tDm0H_I_Mh3ZnmN7_TfNq_H9d3jhDMhlhEfl-TsBMTi8tQvG0aZvK9t3wwIEy26SuPSaX_pkeoPu_aplxb8KWd_L_Y_-4C1lt_G0T2DCCDcrxQbZGMkdruBsFIx02_gqfYb_cn7TrVTlGcPw-dFjoTq6NASAurL0_zAe_rWl21a9IbHnDFr18pLZY4RwKRB4oIEM-ujMm_VUxg9ypPLBQKN21eRXQKOUygL-aXiEhb6iV50ek_sR_vJ3qS5kOZSCsHTIZ7nliih5qEZvcFfmQd_DPVDqXIQsm-SHetfArrngB9acLsZQAA.webp",
+      "snippet": "Every single argument claiming that NASA faked the Moon landings has been discredited. We explore the conspiracy theories and examine the evidence.",
+      "snippet_highlighted_words": [
+        "NASA faked",
+        "Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Every single argument claiming that NASA faked the Moon landings has been discredited. We explore the conspiracy theories and examine the evidence.",
+          "source_info_link": "https://www.iop.org/explore-physics/moon/how-do-we-know-we-went-to-the-moon",
+          "icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABwBgCdASocABwAPtE-tFooIigoFAEAGglsAMELUnpLjAXYBvHBEX7slGx9Y04ik9RynZYgI--bSfW5egAA_v0qbRYZM303z6tDm0H_I_Mh3ZnmN7_TfNq_H9d3jhDMhlhEfl-TsBMTi8tQvG0aZvK9t3wwIEy26SuPSaX_pkeoPu_aplxb8KWd_L_Y_-4C1lt_G0T2DCCDcrxQbZGMkdruBsFIx02_gqfYb_cn7TrVTlGcPw-dFjoTq6NASAurL0_zAe_rWl21a9IbHnDFr18pLZY4RwKRB4oIEM-ujMm_VUxg9ypPLBQKN21eRXQKOUygL-aXiEhb6iV50ek_sR_vJ3qS5kOZSCsHTIZ7nliih5qEZvcFfmQd_DPVDqXIQsm-SHetfArrngB9acLsZQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTVGtfMDJVOWtvNUF4YlotQk5mVEVvdnc4aGFiUEh5N1hya0RlMGQ1SUxuUFlsaWh5cUxDV3VwQTQ2Zy1rZ1hwV0xpdGVsWTZ2NmRrR1VCanBTWFIzNVZhNFpHMU9HczJtaGRqQk01WUJObFZqbUtPSVgxTE5vRWtMUTNlejVNajNkc3RZR0tZTnlwVHUwZnNZUWZzREJBU3E5Z2x2Q0pwcnVwRVR3SWR3EgQaAggAGrEGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACotCgZsZWFrZWQVAAAAABoEbGVhaxoFbGVha3MaC2l2O3A7bGVha2VkGgRmYWtlKjwKCWRvY3VtZW50cxUAAAAAGghkb2N1bWVudBoFZmlsZXMaBnBhcGVycxoHcmVjb3JkcxoIZXZpZGVuY2UqXQoFcHJvdmUVAAAAABoLZGVtb25zdHJhdGUaBXByb29mGgZwcm92ZWQaBnByb3ZlcxoHcHJvdmluZxoEc2hvdxoGdmVyaWZ5GgppdjtwO3Byb3ZlGghldmlkZW5jZSoeCgRuYXNhFVWtkj8aBm5hc2EncxoJaXY7cDtuYXNhKisKBWZha2VkFTp5oT8aBGZha2UaBWZha2VzGgRob2F4GgppdjtwO2Zha2VkKiEKBG1vb24VLF-IQBoFbHVuYXIaBm1vb24ncxoFbW9vbnMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlNUa18wMlU5a281QXhiWi1CTmZURW92dzhoYWJQSHk3WHJrRGUwZDVJTG5QWWxpaHlxTENXdXBBNDZnLWtnWHBXTGl0ZWxZNnY2ZGtHVUJqcFNYUjM1VmE0WkcxT0dzMm1oZGpCTTVZQk5sVmptS09JWDFMTm9Fa0xRM2V6NU1qM2RzdFlHS1lOeXBUdTBmc1lRZnNEQkFTcTlnbHZDSnBydXBFVHdJZHc6RkhvdyBkbyB3ZSBrbm93IHRoYXQgd2Ugd2VudCB0byB0aGUgPGI-TW9vbjwvYj4_IC0gSW5zdGl0dXRlIG9mIFBoeXNpY3NCoQFFdmVyeSBzaW5nbGUgYXJndW1lbnQgY2xhaW1pbmcgdGhhdCA8Yj5OQVNBIGZha2VkPC9iPiB0aGUgPGI-TW9vbjwvYj4gbGFuZGluZ3MgaGFzIGJlZW4gZGlzY3JlZGl0ZWQuIFdlIGV4cGxvcmUgdGhlIGNvbnNwaXJhY3kgdGhlb3JpZXMgYW5kIGV4YW1pbmUgdGhlIGV2aWRlbmNlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTVGtfMDJVOWtvNUF4YlotQk5mVEVvdnc4aGFiUEh5N1hya0RlMGQ1SUxuUFlsaWh5cUxDV3VwQTQ2Zy1rZ1hwV0xpdGVsWTZ2NmRrR1VCanBTWFIzNVZhNFpHMU9HczJtaGRqQk01WUJObFZqbUtPSVgxTE5vRWtMUTNlejVNajNkc3RZR0tZTnlwVHUwZnNZUWZzREJBU3E5Z2x2Q0pwcnVwRVR3SWR3EgQaAggAGrEGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACotCgZsZWFrZWQVAAAAABoEbGVhaxoFbGVha3MaC2l2O3A7bGVha2VkGgRmYWtlKjwKCWRvY3VtZW50cxUAAAAAGghkb2N1bWVudBoFZmlsZXMaBnBhcGVycxoHcmVjb3JkcxoIZXZpZGVuY2UqXQoFcHJvdmUVAAAAABoLZGVtb25zdHJhdGUaBXByb29mGgZwcm92ZWQaBnByb3ZlcxoHcHJvdmluZxoEc2hvdxoGdmVyaWZ5GgppdjtwO3Byb3ZlGghldmlkZW5jZSoeCgRuYXNhFVWtkj8aBm5hc2EncxoJaXY7cDtuYXNhKisKBWZha2VkFTp5oT8aBGZha2UaBWZha2VzGgRob2F4GgppdjtwO2Zha2VkKiEKBG1vb24VLF-IQBoFbHVuYXIaBm1vb24ncxoFbW9vbnMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlNUa18wMlU5a281QXhiWi1CTmZURW92dzhoYWJQSHk3WHJrRGUwZDVJTG5QWWxpaHlxTENXdXBBNDZnLWtnWHBXTGl0ZWxZNnY2ZGtHVUJqcFNYUjM1VmE0WkcxT0dzMm1oZGpCTTVZQk5sVmptS09JWDFMTm9Fa0xRM2V6NU1qM2RzdFlHS1lOeXBUdTBmc1lRZnNEQkFTcTlnbHZDSnBydXBFVHdJZHc6RkhvdyBkbyB3ZSBrbm93IHRoYXQgd2Ugd2VudCB0byB0aGUgPGI-TW9vbjwvYj4_IC0gSW5zdGl0dXRlIG9mIFBoeXNpY3NCoQFFdmVyeSBzaW5nbGUgYXJndW1lbnQgY2xhaW1pbmcgdGhhdCA8Yj5OQVNBIGZha2VkPC9iPiB0aGUgPGI-TW9vbjwvYj4gbGFuZGluZ3MgaGFzIGJlZW4gZGlzY3JlZGl0ZWQuIFdlIGV4cGxvcmUgdGhlIGNvbnNwaXJhY3kgdGhlb3JpZXMgYW5kIGV4YW1pbmUgdGhlIGV2aWRlbmNlLiICEAFIAFgAaAA",
+      "source": "Institute of Physics"
+    },
+    {
+      "position": 2,
+      "title": "The Truth About The Moon Landings",
+      "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ",
+      "displayed_link": "2.9M+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab23031f7e99621fbdb67ad/images/h0QvCXp-qWToO2pqtfueEDasiWe_v6ss-kcqTaZRj3s.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "There are honestly some decent and common questions about the Apollo program's moon landings that I figured we should check out ourselves.",
+      "duration": "2:20:47",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "INTRO",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=0"
+        },
+        {
+          "time": "04:40",
+          "title": "APOLLO 17 LIFTOFF FOOTAGE",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=280"
+        },
+        {
+          "time": "19:05",
+          "title": "WHY DON'T WE SEE STARS",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=1145"
+        },
+        {
+          "time": "25:40",
+          "title": "LUNAR SHADOWS",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=1540"
+        },
+        {
+          "time": "32:00",
+          "title": "CROSSHAIRS BEHIND OBJECTS",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=1920"
+        },
+        {
+          "time": "34:10",
+          "title": "WHY DID THE FLAG WAVE",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=2050"
+        },
+        {
+          "time": "38:00",
+          "title": "ASTRONAUTS ON WIRES",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=2280"
+        },
+        {
+          "time": "47:15",
+          "title": "FOOTPRINTS / PROP ROCKS",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=2835"
+        },
+        {
+          "time": "49:05",
+          "title": "MOON ROCK OR WOOD",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=2945"
+        },
+        {
+          "time": "51:35",
+          "title": "VAN ALLEN BELT RADIATION",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=3095"
+        },
+        {
+          "time": "01:07:55",
+          "title": "DID NASA FAKE FOOTAGE",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=4075"
+        },
+        {
+          "time": "01:12:55",
+          "title": "LOST APOLLO 11 TAPES",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=4375"
+        },
+        {
+          "time": "01:19:30",
+          "title": "LOST SATURN V PLANS",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=4770"
+        },
+        {
+          "time": "01:23:00",
+          "title": "THE LUNAR LANDER'S THIN SKIN",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=4980"
+        },
+        {
+          "time": "01:27:50",
+          "title": "LUNAR ROVER DUST",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=5270"
+        },
+        {
+          "time": "01:29:30",
+          "title": "OTHER PHOTOGRAPHIC EVIDENCE",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=5370"
+        },
+        {
+          "time": "01:37:20",
+          "title": "DID ANYONE ELSE TRACK THE MISSIONS",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=5840"
+        },
+        {
+          "time": "01:40:15",
+          "title": "THE SOVIETS' REACTION TO APOLLO",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=6015"
+        },
+        {
+          "time": "01:42:10",
+          "title": "ORBITAL MECHANICS OF APOLLO",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=6130"
+        },
+        {
+          "time": "01:51:15",
+          "title": "DELTA V OF APOLLO",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=6675"
+        },
+        {
+          "time": "02:04:30",
+          "title": "WHY HAVEN'T WE GONE BACK",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=7470"
+        },
+        {
+          "time": "02:14:30",
+          "title": "SUMMARY",
+          "link": "https://www.youtube.com/watch?v=fMHLvoWZfqQ&t=8070"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There are honestly some decent and common questions about the Apollo program's moon landings that I figured we should check out ourselves.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlVyLWItdGkzaXJhNVg0SHpsRjNDbEdEQU1IbERTNmVPeEFXSmx0emtmenZrNzJUUC05TVFuSXUxOUtmR0FLWTJRNDRoRVA0Zm02X3kxa0xUeVBCYWdBMEMwUmV3ZEo2M2VFTDBrdzk5WmxSZWNXLVNzdi1jazVDN0ZfOUxkURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlVyLWItdGkzaXJhNVg0SHpsRjNDbEdEQU1IbERTNmVPeEFXSmx0emtmenZrNzJUUC05TVFuSXUxOUtmR0FLWTJRNDRoRVA0Zm02X3kxa0xUeVBCYWdBMEMwUmV3ZEo2M2VFTDBrdzk5WmxSZWNXLVNzdi1jazVDN0ZfOUxkURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRjz48RX3BDvavF-0gScywLaVKZrqb_-daQbg",
+      "source": "YouTube · Everyday Astronaut"
+    },
+    {
+      "position": 3,
+      "title": "Moon landing conspiracy theories",
+      "link": "https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVywtz8vBjq0iOu6udYqCnjcsskar22vlB5MnN6aYwxMsLAUEzOMG_9pkG23tcsadK567zjhLBLbHScaw84NgvrA7ro4wvpvJD61xuOBImyU4br9lOrITUmeHDhfMvIHXJneEGsbMiANyCp4oe_-h6WOI&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Moon_landing_conspi...",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "snippet": "Conspiracy theories claim that some or all elements of the Apollo program and the associated Moon landings were hoaxes staged by NASA, possibly with the aid ...",
+      "snippet_highlighted_words": [
+        "Moon",
+        "NASA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Conspiracy theories claim that some or all elements of the Apollo program and the associated Moon landings were hoaxes staged by NASA, possibly with the aid ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVnl3dHo4dkJqcTBpT3U2dWRZcUNuamNzc2thcjIydmxCNU1uTjZhWXd4TXNMQVVFek9NR185cGtHMjN0Y3NhZEs1Njd6amhMQkxiSFNjYXc4NE5ndnJBN3JvNHd2cHZKRDYxeHVPQklteVU0YnI5bE9ySVRVbWVIRGhmTXZJSFhKbmVFR3NiTWlBTnlDcDRvZV8taDZXT0kSBBoCCAAanQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD3BQgAEAAYACAAKi0KBmxlYWtlZBUAAAAAGgRsZWFrGgVsZWFrcxoLaXY7cDtsZWFrZWQaBGZha2UqPAoJZG9jdW1lbnRzFRZfDDwaCGRvY3VtZW50GgVmaWxlcxoGcGFwZXJzGgdyZWNvcmRzGghldmlkZW5jZSpdCgVwcm92ZRXiY5o9GgtkZW1vbnN0cmF0ZRoFcHJvb2YaBnByb3ZlZBoGcHJvdmVzGgdwcm92aW5nGgRzaG93GgZ2ZXJpZnkaCml2O3A7cHJvdmUaCGV2aWRlbmNlKh4KBG5hc2EVjaYBQBoGbmFzYSdzGglpdjtwO25hc2EqKwoFZmFrZWQVKcSUPxoEZmFrZRoFZmFrZXMaBGhvYXgaCml2O3A7ZmFrZWQqIQoEbW9vbhXBUGtAGgVsdW5hchoGbW9vbidzGgVtb29ucyoWCgQyMDI1FVzEGD0aCWl2O247MjAyNTKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZ5d3R6OHZCanEwaU91NnVkWXFDbmpjc3NrYXIyMnZsQjVNbk42YVl3eE1zTEFVRXpPTUdfOXBrRzIzdGNzYWRLNTY3empoTEJMYkhTY2F3ODROZ3ZyQTdybzR3dnB2SkQ2MXh1T0JJbXlVNGJyOWxPcklUVW1lSERoZk12SUhYSm5lRUdzYk1pQU55Q3A0b2VfLWg2V09JOjM8Yj5Nb29uPC9iPiBsYW5kaW5nIGNvbnNwaXJhY3kgdGhlb3JpZXMgLSBXaWtpcGVkaWFCswFDb25zcGlyYWN5IHRoZW9yaWVzIGNsYWltIHRoYXQgc29tZSBvciBhbGwgZWxlbWVudHMgb2YgdGhlIEFwb2xsbyBwcm9ncmFtIGFuZCB0aGUgYXNzb2NpYXRlZCA8Yj5Nb29uPC9iPiBsYW5kaW5ncyB3ZXJlIGhvYXhlcyBzdGFnZWQgYnkgPGI-TkFTQTwvYj4sIHBvc3NpYmx5IHdpdGggdGhlIGFpZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVnl3dHo4dkJqcTBpT3U2dWRZcUNuamNzc2thcjIydmxCNU1uTjZhWXd4TXNMQVVFek9NR185cGtHMjN0Y3NhZEs1Njd6amhMQkxiSFNjYXc4NE5ndnJBN3JvNHd2cHZKRDYxeHVPQklteVU0YnI5bE9ySVRVbWVIRGhmTXZJSFhKbmVFR3NiTWlBTnlDcDRvZV8taDZXT0kSBBoCCAAanQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD3BQgAEAAYACAAKi0KBmxlYWtlZBUAAAAAGgRsZWFrGgVsZWFrcxoLaXY7cDtsZWFrZWQaBGZha2UqPAoJZG9jdW1lbnRzFRZfDDwaCGRvY3VtZW50GgVmaWxlcxoGcGFwZXJzGgdyZWNvcmRzGghldmlkZW5jZSpdCgVwcm92ZRXiY5o9GgtkZW1vbnN0cmF0ZRoFcHJvb2YaBnByb3ZlZBoGcHJvdmVzGgdwcm92aW5nGgRzaG93GgZ2ZXJpZnkaCml2O3A7cHJvdmUaCGV2aWRlbmNlKh4KBG5hc2EVjaYBQBoGbmFzYSdzGglpdjtwO25hc2EqKwoFZmFrZWQVKcSUPxoEZmFrZRoFZmFrZXMaBGhvYXgaCml2O3A7ZmFrZWQqIQoEbW9vbhXBUGtAGgVsdW5hchoGbW9vbidzGgVtb29ucyoWCgQyMDI1FVzEGD0aCWl2O247MjAyNTKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZ5d3R6OHZCanEwaU91NnVkWXFDbmpjc3NrYXIyMnZsQjVNbk42YVl3eE1zTEFVRXpPTUdfOXBrRzIzdGNzYWRLNTY3empoTEJMYkhTY2F3ODROZ3ZyQTdybzR3dnB2SkQ2MXh1T0JJbXlVNGJyOWxPcklUVW1lSERoZk12SUhYSm5lRUdzYk1pQU55Q3A0b2VfLWg2V09JOjM8Yj5Nb29uPC9iPiBsYW5kaW5nIGNvbnNwaXJhY3kgdGhlb3JpZXMgLSBXaWtpcGVkaWFCswFDb25zcGlyYWN5IHRoZW9yaWVzIGNsYWltIHRoYXQgc29tZSBvciBhbGwgZWxlbWVudHMgb2YgdGhlIEFwb2xsbyBwcm9ncmFtIGFuZCB0aGUgYXNzb2NpYXRlZCA8Yj5Nb29uPC9iPiBsYW5kaW5ncyB3ZXJlIGhvYXhlcyBzdGFnZWQgYnkgPGI-TkFTQTwvYj4sIHBvc3NpYmx5IHdpdGggdGhlIGFpZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories#:~:text=Conspiracy%20theories%20claim%20that%20some,the%20aid%20of%20other%20organizations."
+    },
+    {
+      "position": 4,
+      "title": "Is there a 'true' story behind the fake moon landing in 'Fly ...",
+      "link": "https://www.space.com/fly-me-to-the-moon-fake-moon-landing-true-story",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVUXHhr9aGfb-grSe4rZwVjpUJ2RR6GAfBeOrZWiciHu59a-2ZH8H9Sa-mjUlrAR_wbIwFcX_6zJvmUf7hDKpZKFbBIYCe6SAdj3WN-kYV-Ke0-kKU0osVoDaFkOaesxQQhvcY8Q01N9JxndqSngxw0-CE7kUQKuNd&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.space.com › fly-me-to-the-moon-fake-moo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAArUlEQVR4Ab3MIQiDQACF4derHYQ1u2W9w8qSbR0Ma6tGq8m8ftFkB_ulK4LFZLl48HbqBHfnxfnVH36c4RIjoB5pTc0NnqvmRqVwGO44TdAyUnFWOnEi2cHKB0o4aD2wKJOj2CFgpGXEHUcqfnUv-CQ3poCnMtwI-PJWc5XhSFovvUVAT1Lhl2qwevtRkLqAFWtvW3ExyJ6zHHuZ4Y6Cowk3K6oVZ_KJgCTC_30Ao2m5x0qFcx0AAAAASUVORK5CYII.png",
+      "date": "Jul 20, 2024",
+      "snippet": "The shaky reasoning behind the Apollo 11 moon landing has been easily debunked one-thousand times by NASA officials, scientists, astrophysicists ...",
+      "snippet_highlighted_words": [
+        "moon",
+        "NASA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The shaky reasoning behind the Apollo 11 moon landing has been easily debunked one-thousand times by NASA officials, scientists, astrophysicists ...",
+          "source_info_link": "https://www.space.com/fly-me-to-the-moon-fake-moon-landing-true-story",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAArUlEQVR4Ab3MIQiDQACF4derHYQ1u2W9w8qSbR0Ma6tGq8m8ftFkB_ulK4LFZLl48HbqBHfnxfnVH36c4RIjoB5pTc0NnqvmRqVwGO44TdAyUnFWOnEi2cHKB0o4aD2wKJOj2CFgpGXEHUcqfnUv-CQ3poCnMtwI-PJWc5XhSFovvUVAT1Lhl2qwevtRkLqAFWtvW3ExyJ6zHHuZ4Y6Cowk3K6oVZ_KJgCTC_30Ao2m5x0qFcx0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVlVYSGhyOWFHZmItZ3JTZTRyWndWanBVSjJSUjZHQWZCZU9yWldpY2lIdTU5YS0yWkg4SDlTYS1talVsckFSX3diSXdGY1hfNnpKdm1VZjdoREtwWktGYkJJWUNlNlNBZGozV04ta1lWLUtlMC1rS1Uwb3NWb0RhRmtPYWVzeFFRaHZjWThRMDFOOUp4bmRxU25neHcwLUNFN2tVUUt1TmQSBBoCCAAavQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKi0KBmxlYWtlZBUAAAAAGgRsZWFrGgVsZWFrcxoLaXY7cDtsZWFrZWQaBGZha2UqPAoJZG9jdW1lbnRzFQAAAAAaCGRvY3VtZW50GgVmaWxlcxoGcGFwZXJzGgdyZWNvcmRzGghldmlkZW5jZSpdCgVwcm92ZRULJxk-GgtkZW1vbnN0cmF0ZRoFcHJvb2YaBnByb3ZlZBoGcHJvdmVzGgdwcm92aW5nGgRzaG93GgZ2ZXJpZnkaCml2O3A7cHJvdmUaCGV2aWRlbmNlKh4KBG5hc2EVA2GEPxoGbmFzYSdzGglpdjtwO25hc2EqKwoFZmFrZWQVKP4OPxoEZmFrZRoFZmFrZXMaBGhvYXgaCml2O3A7ZmFrZWQqIQoEbW9vbhUqoXVAGgVsdW5hchoGbW9vbidzGgVtb29ucyoWCgQyMDI1FTdLCz0aCWl2O247MjAyNTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZVWEhocjlhR2ZiLWdyU2U0clp3VmpwVUoyUlI2R0FmQmVPclpXaWNpSHU1OWEtMlpIOEg5U2EtbWpVbHJBUl93Ykl3RmNYXzZ6SnZtVWY3aERLcFpLRmJCSVlDZTZTQWRqM1dOLWtZVi1LZTAta0tVMG9zVm9EYUZrT2Flc3hRUWh2Y1k4UTAxTjlKeG5kcVNuZ3h3MC1DRTdrVVFLdU5kOlZJcyB0aGVyZSBhICYjMzk7dHJ1ZSYjMzk7IHN0b3J5IGJlaGluZCB0aGUgPGI-ZmFrZSBtb29uPC9iPiBsYW5kaW5nIGluICYjMzk7Rmx5IE1lIC4uLkKnAVRoZSBzaGFreSByZWFzb25pbmcgYmVoaW5kIHRoZSBBcG9sbG8gMTEgPGI-bW9vbjwvYj4gbGFuZGluZyBoYXMgYmVlbiBlYXNpbHkgZGVidW5rZWQgb25lLXRob3VzYW5kIHRpbWVzIGJ5IDxiPk5BU0E8L2I-IG9mZmljaWFscywgc2NpZW50aXN0cywgYXN0cm9waHlzaWNpc3RzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVlVYSGhyOWFHZmItZ3JTZTRyWndWanBVSjJSUjZHQWZCZU9yWldpY2lIdTU5YS0yWkg4SDlTYS1talVsckFSX3diSXdGY1hfNnpKdm1VZjdoREtwWktGYkJJWUNlNlNBZGozV04ta1lWLUtlMC1rS1Uwb3NWb0RhRmtPYWVzeFFRaHZjWThRMDFOOUp4bmRxU25neHcwLUNFN2tVUUt1TmQSBBoCCAAavQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKi0KBmxlYWtlZBUAAAAAGgRsZWFrGgVsZWFrcxoLaXY7cDtsZWFrZWQaBGZha2UqPAoJZG9jdW1lbnRzFQAAAAAaCGRvY3VtZW50GgVmaWxlcxoGcGFwZXJzGgdyZWNvcmRzGghldmlkZW5jZSpdCgVwcm92ZRULJxk-GgtkZW1vbnN0cmF0ZRoFcHJvb2YaBnByb3ZlZBoGcHJvdmVzGgdwcm92aW5nGgRzaG93GgZ2ZXJpZnkaCml2O3A7cHJvdmUaCGV2aWRlbmNlKh4KBG5hc2EVA2GEPxoGbmFzYSdzGglpdjtwO25hc2EqKwoFZmFrZWQVKP4OPxoEZmFrZRoFZmFrZXMaBGhvYXgaCml2O3A7ZmFrZWQqIQoEbW9vbhUqoXVAGgVsdW5hchoGbW9vbidzGgVtb29ucyoWCgQyMDI1FTdLCz0aCWl2O247MjAyNTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZVWEhocjlhR2ZiLWdyU2U0clp3VmpwVUoyUlI2R0FmQmVPclpXaWNpSHU1OWEtMlpIOEg5U2EtbWpVbHJBUl93Ykl3RmNYXzZ6SnZtVWY3aERLcFpLRmJCSVlDZTZTQWRqM1dOLWtZVi1LZTAta0tVMG9zVm9EYUZrT2Flc3hRUWh2Y1k4UTAxTjlKeG5kcVNuZ3h3MC1DRTdrVVFLdU5kOlZJcyB0aGVyZSBhICYjMzk7dHJ1ZSYjMzk7IHN0b3J5IGJlaGluZCB0aGUgPGI-ZmFrZSBtb29uPC9iPiBsYW5kaW5nIGluICYjMzk7Rmx5IE1lIC4uLkKnAVRoZSBzaGFreSByZWFzb25pbmcgYmVoaW5kIHRoZSBBcG9sbG8gMTEgPGI-bW9vbjwvYj4gbGFuZGluZyBoYXMgYmVlbiBlYXNpbHkgZGVidW5rZWQgb25lLXRob3VzYW5kIHRpbWVzIGJ5IDxiPk5BU0E8L2I-IG9mZmljaWFscywgc2NpZW50aXN0cywgYXN0cm9waHlzaWNpc3RzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Space",
+      "read_more_link": "https://www.space.com/fly-me-to-the-moon-fake-moon-landing-true-story#:~:text=The%20shaky%20reasoning%20behind%20the,engineers%2C%20billionaire%20geniuses%2C%20and%20historians."
+    },
+    {
+      "position": 5,
+      "title": "Why has the idea that the Moon landing was faked ...",
+      "link": "https://www.reddit.com/r/space/comments/1plmz33/why_has_the_idea_that_the_moon_landing_was_faked/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFWzleXyAGZGNm301_Fb8Vfx_BW2SxNGNUT6L3kRSTrNdGn_GNwyyaf-9CsdHyXAfM8Xg0pQOhph3p19eZ-FAi2aSrzUK0FxH6gZINBXBOZ_rGAqtcxmlidQerG4prDMcHZKfUx5zkoGEiZjdp44sbu--AGha6ebbXde4DdSQ954R98xLzfpPksi0AsExXN15m5KmD74&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECCMQAQ&uoh=1",
+      "displayed_link": "1.6K+ comments · 9 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Despite overwhelming scientific evidence and firsthand accounts from astronauts, a surprising number of people still believe the Moon landing was fake. ...",
+      "about_this_result": {
+        "source": {
+          "description": "And Moon landing conspiracists point to facts (e.g. no stars in photographs taken on the Moon) they don't understand, as \"proof\" of a fake.",
+          "source_info_link": "https://www.reddit.com/r/space/comments/1plmz33/why_has_the_idea_that_the_moon_landing_was_faked/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZXemxlWHlBR1pHTm0zMDFfRmI4VmZ4X0JXMlN4TkdOVVQ2TDNrUlNUck5kR25fR053eXlhZi05Q3NkSHlYQWZNOFhnMHBRT2hwaDNwMTllWi1GQWkyYVNyelVLMEZ4SDZnWklOQlhCT1pfckdBcXRjeG1saWRRZXJHNHByRE1jSFpLZlV4NXprb0dFaVpqZHA0NHNidS0tQUdoYTZlYmJYZGU0RGRTUTk1NFI5OHhMemZwUGtzaTBBc0V4WE4xNW01S21ENzQSBBoCCAAa5QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwQYIABAAGAAgACotCgZsZWFrZWQVAAAAABoEbGVhaxoFbGVha3MaC2l2O3A7bGVha2VkGgRmYWtlKjwKCWRvY3VtZW50cxUAAAAAGghkb2N1bWVudBoFZmlsZXMaBnBhcGVycxoHcmVjb3JkcxoIZXZpZGVuY2UqXQoFcHJvdmUVAAAAABoLZGVtb25zdHJhdGUaBXByb29mGgZwcm92ZWQaBnByb3ZlcxoHcHJvdmluZxoEc2hvdxoGdmVyaWZ5GgppdjtwO3Byb3ZlGghldmlkZW5jZSoeCgRuYXNhFRTRWT4aBm5hc2EncxoJaXY7cDtuYXNhKisKBWZha2VkFcgJPkAaBGZha2UaBWZha2VzGgRob2F4GgppdjtwO2Zha2VkKiEKBG1vb24VjilSQBoFbHVuYXIaBm1vb24ncxoFbW9vbnMqFgoEMjAyNRVlO8g8GglpdjtuOzIwMjUy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3Rld6bGVYeUFHWkdObTMwMV9GYjhWZnhfQlcyU3hOR05VVDZMM2tSU1RyTmRHbl9HTnd5eWFmLTlDc2RIeVhBZk04WGcwcFFPaHBoM3AxOWVaLUZBaTJhU3J6VUswRnhINmdaSU5CWEJPWl9yR0FxdGN4bWxpZFFlckc0cHJETWNIWktmVXg1emtvR0VpWmpkcDQ0c2J1LS1BR2hhNmViYlhkZTREZFNROTU0Ujk4eEx6ZnBQa3NpMEFzRXhYTjE1bTVLbUQ3NDpLV2h5IGhhcyB0aGUgaWRlYSB0aGF0IHRoZSA8Yj5Nb29uPC9iPiBsYW5kaW5nIHdhcyA8Yj5mYWtlZDwvYj4gcmVtYWluZWQgLi4uQrUBQW5kIDxiPk1vb248L2I-IGxhbmRpbmcgY29uc3BpcmFjaXN0cyBwb2ludCB0byBmYWN0cyAoZS5nLiBubyBzdGFycyBpbiBwaG90b2dyYXBocyB0YWtlbiBvbiB0aGUgPGI-TW9vbjwvYj4pIHRoZXkgZG9uJiMzOTt0IHVuZGVyc3RhbmQsIGFzICZxdW90OzxiPnByb29mPC9iPiZxdW90OyBvZiBhIDxiPmZha2U8L2I-LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZXemxlWHlBR1pHTm0zMDFfRmI4VmZ4X0JXMlN4TkdOVVQ2TDNrUlNUck5kR25fR053eXlhZi05Q3NkSHlYQWZNOFhnMHBRT2hwaDNwMTllWi1GQWkyYVNyelVLMEZ4SDZnWklOQlhCT1pfckdBcXRjeG1saWRRZXJHNHByRE1jSFpLZlV4NXprb0dFaVpqZHA0NHNidS0tQUdoYTZlYmJYZGU0RGRTUTk1NFI5OHhMemZwUGtzaTBBc0V4WE4xNW01S21ENzQSBBoCCAAa5QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwQYIABAAGAAgACotCgZsZWFrZWQVAAAAABoEbGVhaxoFbGVha3MaC2l2O3A7bGVha2VkGgRmYWtlKjwKCWRvY3VtZW50cxUAAAAAGghkb2N1bWVudBoFZmlsZXMaBnBhcGVycxoHcmVjb3JkcxoIZXZpZGVuY2UqXQoFcHJvdmUVAAAAABoLZGVtb25zdHJhdGUaBXByb29mGgZwcm92ZWQaBnByb3ZlcxoHcHJvdmluZxoEc2hvdxoGdmVyaWZ5GgppdjtwO3Byb3ZlGghldmlkZW5jZSoeCgRuYXNhFRTRWT4aBm5hc2EncxoJaXY7cDtuYXNhKisKBWZha2VkFcgJPkAaBGZha2UaBWZha2VzGgRob2F4GgppdjtwO2Zha2VkKiEKBG1vb24VjilSQBoFbHVuYXIaBm1vb24ncxoFbW9vbnMqFgoEMjAyNRVlO8g8GglpdjtuOzIwMjUy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3Rld6bGVYeUFHWkdObTMwMV9GYjhWZnhfQlcyU3hOR05VVDZMM2tSU1RyTmRHbl9HTnd5eWFmLTlDc2RIeVhBZk04WGcwcFFPaHBoM3AxOWVaLUZBaTJhU3J6VUswRnhINmdaSU5CWEJPWl9yR0FxdGN4bWxpZFFlckc0cHJETWNIWktmVXg1emtvR0VpWmpkcDQ0c2J1LS1BR2hhNmViYlhkZTREZFNROTU0Ujk4eEx6ZnBQa3NpMEFzRXhYTjE1bTVLbUQ3NDpLV2h5IGhhcyB0aGUgaWRlYSB0aGF0IHRoZSA8Yj5Nb29uPC9iPiBsYW5kaW5nIHdhcyA8Yj5mYWtlZDwvYj4gcmVtYWluZWQgLi4uQrUBQW5kIDxiPk1vb248L2I-IGxhbmRpbmcgY29uc3BpcmFjaXN0cyBwb2ludCB0byBmYWN0cyAoZS5nLiBubyBzdGFycyBpbiBwaG90b2dyYXBocyB0YWtlbiBvbiB0aGUgPGI-TW9vbjwvYj4pIHRoZXkgZG9uJiMzOTt0IHVuZGVyc3RhbmQsIGFzICZxdW90OzxiPnByb29mPC9iPiZxdW90OyBvZiBhIDxiPmZha2U8L2I-LiICEAFIAFgAaAA",
+      "source": "Reddit · r/space"
+    },
+    {
+      "position": 6,
+      "title": "The Wildest Apollo 11 Moon Landing Conspiracy Theories ...",
+      "link": "https://www.history.com/articles/moon-landing-fake-conspiracy-theories",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVOZbuI3EksJGvojt4xz3xhVwxa4gMUNZJu5RqzLP2T3GuAfSWUYHmTyPOEoNaowG1wnu4dRGYm8UZisvoYhb5k7hcS-vdr5JfkWBcrN6xbZE5ndj7saKNucRYz1sRe3GxJFlb4hkILKnZw3arIEYKC1z4G39oDwgXtw&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.history.com › Articles",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAABwBQCdASocABwAPtE-tFooIigoFAEAGglqALsQf-OkFu-nG0vfyDYspp5rC79o_77oOIoAAP73c1mVPuP9zssMHiPJAUTXlZJl956ckSSPQwv2l87ktGyHQgbXpIt4zPsWT7HkhZ_8nI_bsM0y5rIdVQ6rJ5NAq1pRBcf7GmwcpR3YYLiAZ9v-CUxsEIMZyobxLRFTCeS5jPZz892qR2-RHbH-qtGZxwYfDaM7-cvaMHR1bjcS0nyGu88MH-gRctpQpCBADj21VS59cKUXI36MFbO4gf-u-vBsoj6T8dskdJOSfWpzk5zxVcOvmO9BuSqhSqAA.webp",
+      "date": "Jun 10, 2019",
+      "snippet": "Most of the deniers' “proof” is based on perceived anomalies in the images transmitted back to Earth from the moon's lunar surface. “With few ...",
+      "snippet_highlighted_words": [
+        "proof",
+        "moon's lunar"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Most of the deniers' “proof” is based on perceived anomalies in the images transmitted back to Earth from the moon's lunar surface. “With few ...",
+          "source_info_link": "https://www.history.com/articles/moon-landing-fake-conspiracy-theories",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAABwBQCdASocABwAPtE-tFooIigoFAEAGglqALsQf-OkFu-nG0vfyDYspp5rC79o_77oOIoAAP73c1mVPuP9zssMHiPJAUTXlZJl956ckSSPQwv2l87ktGyHQgbXpIt4zPsWT7HkhZ_8nI_bsM0y5rIdVQ6rJ5NAq1pRBcf7GmwcpR3YYLiAZ9v-CUxsEIMZyobxLRFTCeS5jPZz892qR2-RHbH-qtGZxwYfDaM7-cvaMHR1bjcS0nyGu88MH-gRctpQpCBADj21VS59cKUXI36MFbO4gf-u-vBsoj6T8dskdJOSfWpzk5zxVcOvmO9BuSqhSqAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVk9aYnVJM0Vrc0pHdm9qdDR4ejN4aFZ3eGE0Z01VTlpKdTVScXpMUDJUM0d1QWZTV1VZSG1UeVBPRW9OYW93RzF3bnU0ZFJHWW04VVppc3ZvWWhiNWs3aGNTLXZkcjVKZmtXQmNyTjZ4YlpFNW5kajdzYUtOdWNSWXoxc1JlM0d4SkZsYjRoa0lMS25adzNhcklFWUtDMXo0RzM5b0R3Z1h0dxIEGgIIABq1BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI8GCAAQABgAIAAqLQoGbGVha2VkFQAAAAAaBGxlYWsaBWxlYWtzGgtpdjtwO2xlYWtlZBoEZmFrZSo8Cglkb2N1bWVudHMVAAAAABoIZG9jdW1lbnQaBWZpbGVzGgZwYXBlcnMaB3JlY29yZHMaCGV2aWRlbmNlKl0KBXByb3ZlFQAAAAAaC2RlbW9uc3RyYXRlGgVwcm9vZhoGcHJvdmVkGgZwcm92ZXMaB3Byb3ZpbmcaBHNob3caBnZlcmlmeRoKaXY7cDtwcm92ZRoIZXZpZGVuY2UqHgoEbmFzYRUsrjk_GgZuYXNhJ3MaCWl2O3A7bmFzYSorCgVmYWtlZBXNb60-GgRmYWtlGgVmYWtlcxoEaG9heBoKaXY7cDtmYWtlZCohCgRtb29uFaYhhUAaBWx1bmFyGgZtb29uJ3MaBW1vb25zKhYKBDIwMjUVdsyiPRoJaXY7bjsyMDI1MrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVk9aYnVJM0Vrc0pHdm9qdDR4ejN4aFZ3eGE0Z01VTlpKdTVScXpMUDJUM0d1QWZTV1VZSG1UeVBPRW9OYW93RzF3bnU0ZFJHWW04VVppc3ZvWWhiNWs3aGNTLXZkcjVKZmtXQmNyTjZ4YlpFNW5kajdzYUtOdWNSWXoxc1JlM0d4SkZsYjRoa0lMS25adzNhcklFWUtDMXo0RzM5b0R3Z1h0dzpBVGhlIFdpbGRlc3QgQXBvbGxvIDExIDxiPk1vb248L2I-IExhbmRpbmcgQ29uc3BpcmFjeSBUaGVvcmllcyAuLi5CsgFNb3N0IG9mIHRoZSBkZW5pZXJzJiMzOTsg4oCcPGI-cHJvb2Y8L2I-4oCdIGlzIGJhc2VkIG9uIHBlcmNlaXZlZCBhbm9tYWxpZXMgaW4gdGhlIGltYWdlcyB0cmFuc21pdHRlZCBiYWNrIHRvIEVhcnRoIGZyb20gdGhlIDxiPm1vb24mIzM5O3MgbHVuYXI8L2I-IHN1cmZhY2UuIOKAnFdpdGggZmV3Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVk9aYnVJM0Vrc0pHdm9qdDR4ejN4aFZ3eGE0Z01VTlpKdTVScXpMUDJUM0d1QWZTV1VZSG1UeVBPRW9OYW93RzF3bnU0ZFJHWW04VVppc3ZvWWhiNWs3aGNTLXZkcjVKZmtXQmNyTjZ4YlpFNW5kajdzYUtOdWNSWXoxc1JlM0d4SkZsYjRoa0lMS25adzNhcklFWUtDMXo0RzM5b0R3Z1h0dxIEGgIIABq1BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI8GCAAQABgAIAAqLQoGbGVha2VkFQAAAAAaBGxlYWsaBWxlYWtzGgtpdjtwO2xlYWtlZBoEZmFrZSo8Cglkb2N1bWVudHMVAAAAABoIZG9jdW1lbnQaBWZpbGVzGgZwYXBlcnMaB3JlY29yZHMaCGV2aWRlbmNlKl0KBXByb3ZlFQAAAAAaC2RlbW9uc3RyYXRlGgVwcm9vZhoGcHJvdmVkGgZwcm92ZXMaB3Byb3ZpbmcaBHNob3caBnZlcmlmeRoKaXY7cDtwcm92ZRoIZXZpZGVuY2UqHgoEbmFzYRUsrjk_GgZuYXNhJ3MaCWl2O3A7bmFzYSorCgVmYWtlZBXNb60-GgRmYWtlGgVmYWtlcxoEaG9heBoKaXY7cDtmYWtlZCohCgRtb29uFaYhhUAaBWx1bmFyGgZtb29uJ3MaBW1vb25zKhYKBDIwMjUVdsyiPRoJaXY7bjsyMDI1MrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVk9aYnVJM0Vrc0pHdm9qdDR4ejN4aFZ3eGE0Z01VTlpKdTVScXpMUDJUM0d1QWZTV1VZSG1UeVBPRW9OYW93RzF3bnU0ZFJHWW04VVppc3ZvWWhiNWs3aGNTLXZkcjVKZmtXQmNyTjZ4YlpFNW5kajdzYUtOdWNSWXoxc1JlM0d4SkZsYjRoa0lMS25adzNhcklFWUtDMXo0RzM5b0R3Z1h0dzpBVGhlIFdpbGRlc3QgQXBvbGxvIDExIDxiPk1vb248L2I-IExhbmRpbmcgQ29uc3BpcmFjeSBUaGVvcmllcyAuLi5CsgFNb3N0IG9mIHRoZSBkZW5pZXJzJiMzOTsg4oCcPGI-cHJvb2Y8L2I-4oCdIGlzIGJhc2VkIG9uIHBlcmNlaXZlZCBhbm9tYWxpZXMgaW4gdGhlIGltYWdlcyB0cmFuc21pdHRlZCBiYWNrIHRvIEVhcnRoIGZyb20gdGhlIDxiPm1vb24mIzM5O3MgbHVuYXI8L2I-IHN1cmZhY2UuIOKAnFdpdGggZmV3Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "History.com",
+      "read_more_link": "https://www.history.com/articles/moon-landing-fake-conspiracy-theories#:~:text=Most%20of%20the%20deniers'%20%E2%80%9Cproof%E2%80%9D,moon's%20lunar%20surface.%20%E2%80%9CWith%20few"
+    },
+    {
+      "position": 7,
+      "title": "Moon landing conspiracy theories, debunked",
+      "link": "https://www.rmg.co.uk/stories/space-astronomy/moon-landing-conspiracy-theories-debunked",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFZW0yub5UqCgXsYHHCUB52v4JCQNvSwgHzKxfAMa15UrcCpAe0iBz-DxaveGZyCbEzJxsQzgqiiBOvVoCb17LSYwzG5KkQq6XZxyd8IrqQwdW2U-pcILmVf3FYA_7gqBAoBdNr4P2CzSxuWZO7rlq52vYObyKmITlcOi_j9xRMnlxlEiwVuJ3Gy5Ig&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://www.rmg.co.uk › stories › space-astronomy › m...",
+      "favicon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAACQBgCdASocABwAPtEutFooIagoGAEAGglnAMZ9p0f-B5L_mD2AOhX6Jo6tcSanVDzIj_8QBy6j9TglPGqAAP7rzo4ANwm2WL58O9-_5egVERxP1WvNSA5ZP7X-M7Og5hv-nR8K-xWd5PhLBEHl6PIPnmT5xxdb-8B36m6jwYGVjn-tQ4KU87jegDHv-nqu2Sf1f_9-__4X5iqwqLhYrUzvQ0wMsPs4tJqD9IbLWmQRLRpy-f9a3QWcNYfXYgkcjxlvszNZDyLYpprDE9bjLNge3EiQkTsLBPpxnEeU7zmi6w5SQAAAAA.webp",
+      "snippet": "Conspiracy theory 1: shadows in the Moon landing photos prove the images were faked. Take a look at the image below, and at the full panorama on the NASA ...",
+      "snippet_highlighted_words": [
+        "Moon",
+        "prove",
+        "faked",
+        "NASA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Conspiracy theory 1: shadows in the Moon landing photos prove the images were faked. Take a look at the image below, and at the full panorama on the NASA ...",
+          "source_info_link": "https://www.rmg.co.uk/stories/space-astronomy/moon-landing-conspiracy-theories-debunked",
+          "icon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAACQBgCdASocABwAPtEutFooIagoGAEAGglnAMZ9p0f-B5L_mD2AOhX6Jo6tcSanVDzIj_8QBy6j9TglPGqAAP7rzo4ANwm2WL58O9-_5egVERxP1WvNSA5ZP7X-M7Og5hv-nR8K-xWd5PhLBEHl6PIPnmT5xxdb-8B36m6jwYGVjn-tQ4KU87jegDHv-nqu2Sf1f_9-__4X5iqwqLhYrUzvQ0wMsPs4tJqD9IbLWmQRLRpy-f9a3QWcNYfXYgkcjxlvszNZDyLYpprDE9bjLNge3EiQkTsLBPpxnEeU7zmi6w5SQAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaVzB5dWI1VXFDZ1hzWUhIQ1VCNTJ2NEpDUU52U3dnSHpLeGZBTWExNVVyY0NwQWUwaUJ6LUR4YXZlR1p5Q2JFekp4c1F6Z3FpaUJPdlZvQ2IxN0xTWXd6RzVLa1FxNlhaeHlkOElycVF3ZFcyVS1wY0lMbVZmM0ZZQV83Z3FCQW9CZE5yNFAyQ3pTeHVXWk83cmxxNTJ2WU9ieUttSVRsY09pX2o5eFJNbmx4bEVpd1Z1SjNHeTVJZxIEGgIIABrJBhICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKMGCAAQABgAIAAqLQoGbGVha2VkFQAAAAAaBGxlYWsaBWxlYWtzGgtpdjtwO2xlYWtlZBoEZmFrZSo8Cglkb2N1bWVudHMVAAAAABoIZG9jdW1lbnQaBWZpbGVzGgZwYXBlcnMaB3JlY29yZHMaCGV2aWRlbmNlKl0KBXByb3ZlFS46JD8aC2RlbW9uc3RyYXRlGgVwcm9vZhoGcHJvdmVkGgZwcm92ZXMaB3Byb3ZpbmcaBHNob3caBnZlcmlmeRoKaXY7cDtwcm92ZRoIZXZpZGVuY2UqHgoEbmFzYRV9Y5o_GgZuYXNhJ3MaCWl2O3A7bmFzYSorCgVmYWtlZBVVjiU_GgRmYWtlGgVmYWtlcxoEaG9heBoKaXY7cDtmYWtlZCohCgRtb29uFQkWgkAaBWx1bmFyGgZtb29uJ3MaBW1vb25zKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaVzB5dWI1VXFDZ1hzWUhIQ1VCNTJ2NEpDUU52U3dnSHpLeGZBTWExNVVyY0NwQWUwaUJ6LUR4YXZlR1p5Q2JFekp4c1F6Z3FpaUJPdlZvQ2IxN0xTWXd6RzVLa1FxNlhaeHlkOElycVF3ZFcyVS1wY0lMbVZmM0ZZQV83Z3FCQW9CZE5yNFAyQ3pTeHVXWk83cmxxNTJ2WU9ieUttSVRsY09pX2o5eFJNbmx4bEVpd1Z1SjNHeTVJZzoxPGI-TW9vbjwvYj4gbGFuZGluZyBjb25zcGlyYWN5IHRoZW9yaWVzLCBkZWJ1bmtlZEK-AUNvbnNwaXJhY3kgdGhlb3J5IDE6IHNoYWRvd3MgaW4gdGhlIDxiPk1vb248L2I-IGxhbmRpbmcgcGhvdG9zIDxiPnByb3ZlPC9iPiB0aGUgaW1hZ2VzIHdlcmUgPGI-ZmFrZWQ8L2I-LiBUYWtlIGEgbG9vayBhdCB0aGUgaW1hZ2UgYmVsb3csIGFuZCBhdCB0aGUgZnVsbCBwYW5vcmFtYSBvbiB0aGUgPGI-TkFTQTwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaVzB5dWI1VXFDZ1hzWUhIQ1VCNTJ2NEpDUU52U3dnSHpLeGZBTWExNVVyY0NwQWUwaUJ6LUR4YXZlR1p5Q2JFekp4c1F6Z3FpaUJPdlZvQ2IxN0xTWXd6RzVLa1FxNlhaeHlkOElycVF3ZFcyVS1wY0lMbVZmM0ZZQV83Z3FCQW9CZE5yNFAyQ3pTeHVXWk83cmxxNTJ2WU9ieUttSVRsY09pX2o5eFJNbmx4bEVpd1Z1SjNHeTVJZxIEGgIIABrJBhICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKMGCAAQABgAIAAqLQoGbGVha2VkFQAAAAAaBGxlYWsaBWxlYWtzGgtpdjtwO2xlYWtlZBoEZmFrZSo8Cglkb2N1bWVudHMVAAAAABoIZG9jdW1lbnQaBWZpbGVzGgZwYXBlcnMaB3JlY29yZHMaCGV2aWRlbmNlKl0KBXByb3ZlFS46JD8aC2RlbW9uc3RyYXRlGgVwcm9vZhoGcHJvdmVkGgZwcm92ZXMaB3Byb3ZpbmcaBHNob3caBnZlcmlmeRoKaXY7cDtwcm92ZRoIZXZpZGVuY2UqHgoEbmFzYRV9Y5o_GgZuYXNhJ3MaCWl2O3A7bmFzYSorCgVmYWtlZBVVjiU_GgRmYWtlGgVmYWtlcxoEaG9heBoKaXY7cDtmYWtlZCohCgRtb29uFQkWgkAaBWx1bmFyGgZtb29uJ3MaBW1vb25zKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZaVzB5dWI1VXFDZ1hzWUhIQ1VCNTJ2NEpDUU52U3dnSHpLeGZBTWExNVVyY0NwQWUwaUJ6LUR4YXZlR1p5Q2JFekp4c1F6Z3FpaUJPdlZvQ2IxN0xTWXd6RzVLa1FxNlhaeHlkOElycVF3ZFcyVS1wY0lMbVZmM0ZZQV83Z3FCQW9CZE5yNFAyQ3pTeHVXWk83cmxxNTJ2WU9ieUttSVRsY09pX2o5eFJNbmx4bEVpd1Z1SjNHeTVJZzoxPGI-TW9vbjwvYj4gbGFuZGluZyBjb25zcGlyYWN5IHRoZW9yaWVzLCBkZWJ1bmtlZEK-AUNvbnNwaXJhY3kgdGhlb3J5IDE6IHNoYWRvd3MgaW4gdGhlIDxiPk1vb248L2I-IGxhbmRpbmcgcGhvdG9zIDxiPnByb3ZlPC9iPiB0aGUgaW1hZ2VzIHdlcmUgPGI-ZmFrZWQ8L2I-LiBUYWtlIGEgbG9vayBhdCB0aGUgaW1hZ2UgYmVsb3csIGFuZCBhdCB0aGUgZnVsbCBwYW5vcmFtYSBvbiB0aGUgPGI-TkFTQTwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Royal Museums Greenwich",
+      "read_more_link": "https://www.rmg.co.uk/stories/space-astronomy/moon-landing-conspiracy-theories-debunked#:~:text=Conspiracy%20theory%201%3A%20shadows%20in,panorama%20on%20the%20NASA%20website."
+    },
+    {
+      "position": 8,
+      "title": "Did we really land on the moon? Artemis II launches ...",
+      "link": "https://www.floridatoday.com/story/tech/science/space/2026/03/31/moon-landing-fake-conspiracy-theory-kardashian-buzz-aldrin-nasa-artemis/89392567007/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFVPMWuPaJF5P0jUhl9Qntp8-96AfCJVF5O-GsVrjw2-ILCabHEjwiOGVTy5QHoXKf7__wGqSb5uQLgIrvYixU1k_Qtd9FNDlCsC4HUjgd0zgx6NJFVlWrMsOSqPck-x5FLPhhvf1zSOl1jGKZY8768xi8cdqOwO-0F-oP_C4hv5yn23tZQAlOKNBjwiFb_Xc-NKBU3If7z7i2-EFq0ZgOnIAzRlzBKYMAReGJViiP1RkkkOd6zlCYM-JrHdIZh8YzN7v6FG6k6t9Iw&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://www.floridatoday.com › space › 2026/03/31",
+      "favicon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0vAnqvEB73mLMIDbAeYDyM_Ux5GfWAegB5V_skFeB7wEHD5q5-saJ_XqThTNK6xk_vYd2S4N830gAA_vYRF8hSZZHVbi_uvlQiFY2AA6-SGt4X677PCDjvG61JCxmXLOM4zAWpKrjzRd0R9y4KfVQ109IB3ADsBfvmR3TjwPBjnK1i9GuAyeFU9NRetCyPWhrsUD4ECoXGON5t_6v_uM-c7KHK0OCH7f0Fc2QrrW-naggy5ey4Et211_hIO3Ft2r_fi4gbJWXfebyy0_i3a5mrHPYJexbEVrrtwGQBztohf8YpuyV_6b1VXvz4G03p_nkhVH9wsj2bBcrzG9kNr9VHbHfqV4EuFe8jsMNnUk9gR65OZSxR5LCWWyQqNEsw8Vul9hE8bfqMwNQl2HV8rPGfOMAi2uxYOYcfX8Ta2MXnbkanFya4pvgH9boAAAA.webp",
+      "date": "Mar 31, 2026",
+      "snippet": "But some conspiracy theorists don't believe we've ever been to the moon at all, despite the evidence from the Apollo lunar missions. Here's what ...",
+      "snippet_highlighted_words": [
+        "moon",
+        "lunar"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "But some conspiracy theorists don't believe we've ever been to the moon at all, despite the evidence from the Apollo lunar missions. Here's what ...",
+          "source_info_link": "https://www.floridatoday.com/story/tech/science/space/2026/03/31/moon-landing-fake-conspiracy-theory-kardashian-buzz-aldrin-nasa-artemis/89392567007/",
+          "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0vAnqvEB73mLMIDbAeYDyM_Ux5GfWAegB5V_skFeB7wEHD5q5-saJ_XqThTNK6xk_vYd2S4N830gAA_vYRF8hSZZHVbi_uvlQiFY2AA6-SGt4X677PCDjvG61JCxmXLOM4zAWpKrjzRd0R9y4KfVQ109IB3ADsBfvmR3TjwPBjnK1i9GuAyeFU9NRetCyPWhrsUD4ECoXGON5t_6v_uM-c7KHK0OCH7f0Fc2QrrW-naggy5ey4Et211_hIO3Ft2r_fi4gbJWXfebyy0_i3a5mrHPYJexbEVrrtwGQBztohf8YpuyV_6b1VXvz4G03p_nkhVH9wsj2bBcrzG9kNr9VHbHfqV4EuFe8jsMNnUk9gR65OZSxR5LCWWyQqNEsw8Vul9hE8bfqMwNQl2HV8rPGfOMAi2uxYOYcfX8Ta2MXnbkanFya4pvgH9boAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZWUE1XdVBhSkY1UDBqVWhsOVFudHA4LTk2QWZDSlZGNU8tR3NWcmp3Mi1JTENhYkhFandpT0dWVHk1UUhvWEtmN19fd0dxU2I1dVFMZ0lydllpeFUxa19RdGQ5Rk5EbENzQzRIVWpnZDB6Z3g2TkpGVmxXck1zT1NxUGNrLXg1RkxQaGh2ZjF6U09sMWpHS1pZODc2OHhpOGNkcU93Ty0wRi1vUF9DNGh2NXluMjN0WlFBbE9LTkJqd2lGYl9YYy1OS0JVM0lmN3o3aTItRUZxMFpnT25JQXpSbHpCS1lNQVJlR0pWaWlQMVJra2tPZDZ6bENZTS1KckhkSVpoOFl6Tjd2NkZHNms2dDlJdxIEGgIIABqfBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqLQoGbGVha2VkFQAAAAAaBGxlYWsaBWxlYWtzGgtpdjtwO2xlYWtlZBoEZmFrZSo8Cglkb2N1bWVudHMVAAAAABoIZG9jdW1lbnQaBWZpbGVzGgZwYXBlcnMaB3JlY29yZHMaCGV2aWRlbmNlKl0KBXByb3ZlFQAAAAAaC2RlbW9uc3RyYXRlGgVwcm9vZhoGcHJvdmVkGgZwcm92ZXMaB3Byb3ZpbmcaBHNob3caBnZlcmlmeRoKaXY7cDtwcm92ZRoIZXZpZGVuY2UqHgoEbmFzYRW0pQ5AGgZuYXNhJ3MaCWl2O3A7bmFzYSorCgVmYWtlZBXqUI0-GgRmYWtlGgVmYWtlcxoEaG9heBoKaXY7cDtmYWtlZCohCgRtb29uFZfZqUAaBWx1bmFyGgZtb29uJ3MaBW1vb25zKhYKBDIwMjUViUZePxoJaXY7bjsyMDI1MqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZWUE1XdVBhSkY1UDBqVWhsOVFudHA4LTk2QWZDSlZGNU8tR3NWcmp3Mi1JTENhYkhFandpT0dWVHk1UUhvWEtmN19fd0dxU2I1dVFMZ0lydllpeFUxa19RdGQ5Rk5EbENzQzRIVWpnZDB6Z3g2TkpGVmxXck1zT1NxUGNrLXg1RkxQaGh2ZjF6U09sMWpHS1pZODc2OHhpOGNkcU93Ty0wRi1vUF9DNGh2NXluMjN0WlFBbE9LTkJqd2lGYl9YYy1OS0JVM0lmN3o3aTItRUZxMFpnT25JQXpSbHpCS1lNQVJlR0pWaWlQMVJra2tPZDZ6bENZTS1KckhkSVpoOFl6Tjd2NkZHNms2dDlJdzo-RGlkIHdlIHJlYWxseSBsYW5kIG9uIHRoZSA8Yj5tb29uPC9iPj8gQXJ0ZW1pcyBJSSBsYXVuY2hlcyAuLi5CswFCdXQgc29tZSBjb25zcGlyYWN5IHRoZW9yaXN0cyBkb24mIzM5O3QgYmVsaWV2ZSB3ZSYjMzk7dmUgZXZlciBiZWVuIHRvIHRoZSA8Yj5tb29uPC9iPiBhdCBhbGwsIGRlc3BpdGUgdGhlIGV2aWRlbmNlIGZyb20gdGhlIEFwb2xsbyA8Yj5sdW5hcjwvYj4gbWlzc2lvbnMuIEhlcmUmIzM5O3Mgd2hhdCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZWUE1XdVBhSkY1UDBqVWhsOVFudHA4LTk2QWZDSlZGNU8tR3NWcmp3Mi1JTENhYkhFandpT0dWVHk1UUhvWEtmN19fd0dxU2I1dVFMZ0lydllpeFUxa19RdGQ5Rk5EbENzQzRIVWpnZDB6Z3g2TkpGVmxXck1zT1NxUGNrLXg1RkxQaGh2ZjF6U09sMWpHS1pZODc2OHhpOGNkcU93Ty0wRi1vUF9DNGh2NXluMjN0WlFBbE9LTkJqd2lGYl9YYy1OS0JVM0lmN3o3aTItRUZxMFpnT25JQXpSbHpCS1lNQVJlR0pWaWlQMVJra2tPZDZ6bENZTS1KckhkSVpoOFl6Tjd2NkZHNms2dDlJdxIEGgIIABqfBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqLQoGbGVha2VkFQAAAAAaBGxlYWsaBWxlYWtzGgtpdjtwO2xlYWtlZBoEZmFrZSo8Cglkb2N1bWVudHMVAAAAABoIZG9jdW1lbnQaBWZpbGVzGgZwYXBlcnMaB3JlY29yZHMaCGV2aWRlbmNlKl0KBXByb3ZlFQAAAAAaC2RlbW9uc3RyYXRlGgVwcm9vZhoGcHJvdmVkGgZwcm92ZXMaB3Byb3ZpbmcaBHNob3caBnZlcmlmeRoKaXY7cDtwcm92ZRoIZXZpZGVuY2UqHgoEbmFzYRW0pQ5AGgZuYXNhJ3MaCWl2O3A7bmFzYSorCgVmYWtlZBXqUI0-GgRmYWtlGgVmYWtlcxoEaG9heBoKaXY7cDtmYWtlZCohCgRtb29uFZfZqUAaBWx1bmFyGgZtb29uJ3MaBW1vb25zKhYKBDIwMjUViUZePxoJaXY7bjsyMDI1MqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZWUE1XdVBhSkY1UDBqVWhsOVFudHA4LTk2QWZDSlZGNU8tR3NWcmp3Mi1JTENhYkhFandpT0dWVHk1UUhvWEtmN19fd0dxU2I1dVFMZ0lydllpeFUxa19RdGQ5Rk5EbENzQzRIVWpnZDB6Z3g2TkpGVmxXck1zT1NxUGNrLXg1RkxQaGh2ZjF6U09sMWpHS1pZODc2OHhpOGNkcU93Ty0wRi1vUF9DNGh2NXluMjN0WlFBbE9LTkJqd2lGYl9YYy1OS0JVM0lmN3o3aTItRUZxMFpnT25JQXpSbHpCS1lNQVJlR0pWaWlQMVJra2tPZDZ6bENZTS1KckhkSVpoOFl6Tjd2NkZHNms2dDlJdzo-RGlkIHdlIHJlYWxseSBsYW5kIG9uIHRoZSA8Yj5tb29uPC9iPj8gQXJ0ZW1pcyBJSSBsYXVuY2hlcyAuLi5CswFCdXQgc29tZSBjb25zcGlyYWN5IHRoZW9yaXN0cyBkb24mIzM5O3QgYmVsaWV2ZSB3ZSYjMzk7dmUgZXZlciBiZWVuIHRvIHRoZSA8Yj5tb29uPC9iPiBhdCBhbGwsIGRlc3BpdGUgdGhlIGV2aWRlbmNlIGZyb20gdGhlIEFwb2xsbyA8Yj5sdW5hcjwvYj4gbWlzc2lvbnMuIEhlcmUmIzM5O3Mgd2hhdCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Florida Today",
+      "read_more_link": "https://www.floridatoday.com/story/tech/science/space/2026/03/31/moon-landing-fake-conspiracy-theory-kardashian-buzz-aldrin-nasa-artemis/89392567007/#:~:text=But%20some%20conspiracy%20theorists%20don't,Here's%20what"
+    },
+    {
+      "position": 9,
+      "title": "Was the Moon landing fake? Debunking the Apollo 11 ...",
+      "link": "https://www.bbc.co.uk/bitesize/articles/z3x6b7h",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVgeztRqKJtlDdVfBs0TWpjPt19cZh-i0p4ZNB1II-6w5T3QWTCqbvoQrkY_gua3vINSpeFqHrTnHZgOYfi7sTv4oNCDb7SW808A7PCrCrGSyKCzAva6z3-R5mTSKjOggWWMo&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://www.bbc.co.uk › bitesize › articles",
+      "favicon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAABQBACdASocABwAPtEutFooIagoGAEAGglpAABc6vNEnPU1--1oio5vAtAAAP72AU19n-Jz4FZyw_HkQHjxW_xb38RJEOBPlkEoT5-leVVfLTm4t-p7TtVUk_u4kyIPNTUaX3A38OG3ktYFvqhpRIi1rbiKlmzh7pkS_5uoT7Kn89g_L6Hsa2M8RgAAAA.webp",
+      "snippet": "Conspiracy: no stars visible. Some argue that the lack of stars in the photos proves it was staged. If the image really was taken on the Moon, shouldn't ...",
+      "snippet_highlighted_words": [
+        "proves",
+        "Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Conspiracy: no stars visible. Some argue that the lack of stars in the photos proves it was staged. If the image really was taken on the Moon, shouldn't ...",
+          "source_info_link": "https://www.bbc.co.uk/bitesize/articles/z3x6b7h",
+          "icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAABQBACdASocABwAPtEutFooIagoGAEAGglpAABc6vNEnPU1--1oio5vAtAAAP72AU19n-Jz4FZyw_HkQHjxW_xb38RJEOBPlkEoT5-leVVfLTm4t-p7TtVUk_u4kyIPNTUaX3A38OG3ktYFvqhpRIi1rbiKlmzh7pkS_5uoT7Kn89g_L6Hsa2M8RgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVmdlenRScUtKdGxEZFZmQnMwVFdwalB0MTljWmgtaTBwNFpOQjFJSS02dzVUM1FXVENxYnZvUXJrWV9ndWEzdklOU3BlRnFIclRuSFpnT1lmaTdzVHY0b05DRGI3U1c4MDhBN1BDckNyR1N5S0N6QXZhNnozLVI1bVRTS2pPZ2dXV01vEgQaAggAGqAGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-gUIABAAGAAgACotCgZsZWFrZWQVAAAAABoEbGVhaxoFbGVha3MaC2l2O3A7bGVha2VkGgRmYWtlKjwKCWRvY3VtZW50cxUAAAAAGghkb2N1bWVudBoFZmlsZXMaBnBhcGVycxoHcmVjb3JkcxoIZXZpZGVuY2UqXQoFcHJvdmUVAAAAABoLZGVtb25zdHJhdGUaBXByb29mGgZwcm92ZWQaBnByb3ZlcxoHcHJvdmluZxoEc2hvdxoGdmVyaWZ5GgppdjtwO3Byb3ZlGghldmlkZW5jZSoeCgRuYXNhFQAAAAAaBm5hc2EncxoJaXY7cDtuYXNhKisKBWZha2VkFcOljj4aBGZha2UaBWZha2VzGgRob2F4GgppdjtwO2Zha2VkKiEKBG1vb24VrF6RQBoFbHVuYXIaBm1vb24ncxoFbW9vbnMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWZ2V6dFJxS0p0bERkVmZCczBUV3BqUHQxOWNaaC1pMHA0Wk5CMUlJLTZ3NVQzUVdUQ3Fidm9RcmtZX2d1YTN2SU5TcGVGcUhyVG5IWmdPWWZpN3NUdjRvTkNEYjdTVzgwOEE3UENyQ3JHU3lLQ3pBdmE2ejMtUjVtVFNLak9nZ1dXTW86SldhcyB0aGUgPGI-TW9vbjwvYj4gbGFuZGluZyA8Yj5mYWtlPC9iPj8gRGVidW5raW5nIHRoZSBBcG9sbG8gMTEgLi4uIC0gQkJDQrMBQ29uc3BpcmFjeTogbm8gc3RhcnMgdmlzaWJsZS4gU29tZSBhcmd1ZSB0aGF0IHRoZSBsYWNrIG9mIHN0YXJzIGluIHRoZSBwaG90b3MgPGI-cHJvdmVzPC9iPiBpdCB3YXMgc3RhZ2VkLiBJZiB0aGUgaW1hZ2UgcmVhbGx5IHdhcyB0YWtlbiBvbiB0aGUgPGI-TW9vbjwvYj4sIHNob3VsZG4mIzM5O3QmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVmdlenRScUtKdGxEZFZmQnMwVFdwalB0MTljWmgtaTBwNFpOQjFJSS02dzVUM1FXVENxYnZvUXJrWV9ndWEzdklOU3BlRnFIclRuSFpnT1lmaTdzVHY0b05DRGI3U1c4MDhBN1BDckNyR1N5S0N6QXZhNnozLVI1bVRTS2pPZ2dXV01vEgQaAggAGqAGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-gUIABAAGAAgACotCgZsZWFrZWQVAAAAABoEbGVhaxoFbGVha3MaC2l2O3A7bGVha2VkGgRmYWtlKjwKCWRvY3VtZW50cxUAAAAAGghkb2N1bWVudBoFZmlsZXMaBnBhcGVycxoHcmVjb3JkcxoIZXZpZGVuY2UqXQoFcHJvdmUVAAAAABoLZGVtb25zdHJhdGUaBXByb29mGgZwcm92ZWQaBnByb3ZlcxoHcHJvdmluZxoEc2hvdxoGdmVyaWZ5GgppdjtwO3Byb3ZlGghldmlkZW5jZSoeCgRuYXNhFQAAAAAaBm5hc2EncxoJaXY7cDtuYXNhKisKBWZha2VkFcOljj4aBGZha2UaBWZha2VzGgRob2F4GgppdjtwO2Zha2VkKiEKBG1vb24VrF6RQBoFbHVuYXIaBm1vb24ncxoFbW9vbnMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWZ2V6dFJxS0p0bERkVmZCczBUV3BqUHQxOWNaaC1pMHA0Wk5CMUlJLTZ3NVQzUVdUQ3Fidm9RcmtZX2d1YTN2SU5TcGVGcUhyVG5IWmdPWWZpN3NUdjRvTkNEYjdTVzgwOEE3UENyQ3JHU3lLQ3pBdmE2ejMtUjVtVFNLak9nZ1dXTW86SldhcyB0aGUgPGI-TW9vbjwvYj4gbGFuZGluZyA8Yj5mYWtlPC9iPj8gRGVidW5raW5nIHRoZSBBcG9sbG8gMTEgLi4uIC0gQkJDQrMBQ29uc3BpcmFjeTogbm8gc3RhcnMgdmlzaWJsZS4gU29tZSBhcmd1ZSB0aGF0IHRoZSBsYWNrIG9mIHN0YXJzIGluIHRoZSBwaG90b3MgPGI-cHJvdmVzPC9iPiBpdCB3YXMgc3RhZ2VkLiBJZiB0aGUgaW1hZ2UgcmVhbGx5IHdhcyB0YWtlbiBvbiB0aGUgPGI-TW9vbjwvYj4sIHNob3VsZG4mIzM5O3QmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "BBC",
+      "read_more_link": "https://www.bbc.co.uk/bitesize/articles/z3x6b7h#:~:text=Conspiracy%3A%20no%20stars%20visible,a%20sky%20full%20of%20stars%3F"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Moon landing 2026",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=Moon+landing+2026&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Moon+landing+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Moon landing video",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=Moon+landing+video&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Moon+landing+video"
+    },
+    {
+      "block_position": 1,
+      "query": "Moon landing real photos",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=Moon+landing+real+photos&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Moon+landing+real+photos"
+    },
+    {
+      "block_position": 1,
+      "query": "How did we go to the moon with 60s technology",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=How+did+we+go+to+the+moon+with+60s+technology&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+did+we+go+to+the+moon+with+60s+technology"
+    },
+    {
+      "block_position": 1,
+      "query": "Moon landing 1972",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=Moon+landing+1972&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Moon+landing+1972"
+    },
+    {
+      "block_position": 1,
+      "query": "What did Neil Armstrong say about the moon landing before he died",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=What+did+Neil+Armstrong+say+about+the+moon+landing+before+he+died&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+did+Neil+Armstrong+say+about+the+moon+landing+before+he+died"
+    },
+    {
+      "block_position": 1,
+      "query": "Moon landing pictures",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=Moon+landing+pictures&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Moon+landing+pictures"
+    },
+    {
+      "block_position": 1,
+      "query": "LRO Moon landing photos",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&q=LRO+Moon+landing+photos&sa=X&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LRO+Moon+landing+photos"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=10&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8NMDegQIOhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=10&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=20&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAG",
+      "4": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=30&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAI",
+      "5": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=40&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAK",
+      "6": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=50&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAM",
+      "7": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=60&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAO",
+      "8": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=70&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAQ",
+      "9": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=80&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAS",
+      "10": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnujRcKaatjxR3R-5A_3VMVrn3igaw:1790062641310&ei=MTCyaoDIEsfHp84P7KyI2QU&start=90&sa=N&sstk=AS6-VmJ0u_4ajNV8_ydKivV8sJH5oXC9U8S8seR8RwnMJyLmEBDfQ7gISi9UnuFfGl6V-KncA86wOrxylYsSk-mCSEZfD0erOvrHOA&ved=2ahUKEwjApPH-1oGXAxXH48kDHWwWIlsQ8tMDegQIOhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+2025&start=90"
+    }
+  }
+}

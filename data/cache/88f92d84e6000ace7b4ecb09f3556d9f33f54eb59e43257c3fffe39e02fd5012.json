@@ -1,0 +1,305 @@
+{
+  "search_metadata": {
+    "id": "6ab229f89f8abcab71e2cd3a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/n6qTQOm2wKkbnWZiTCVdacHZIOpPvhYzFbXB5sYfU5w/6ab229f89f8abcab71e2cd3a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/n6qTQOm2wKkbnWZiTCVdacHZIOpPvhYzFbXB5sYfU5w/6ab229f89f8abcab71e2cd3a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/n6qTQOm2wKkbnWZiTCVdacHZIOpPvhYzFbXB5sYfU5w/6ab229f89f8abcab71e2cd3a.json_with_pixel_position",
+    "created_at": "2026-09-22 07:10:48 UTC",
+    "processed_at": "2026-09-22 07:10:48 UTC",
+    "google_url": "https://www.google.com/search?q=dolphins+return+venice+canals+before%3A2026-01-01&oq=dolphins+return+venice+canals+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/n6qTQOm2wKkbnWZiTCVdacHZIOpPvhYzFbXB5sYfU5w/6ab229f89f8abcab71e2cd3a.html",
+    "total_time_taken": 0.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "dolphins return venice canals before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "dolphins return venice canals before:2026-01-01",
+    "total_results": 58200,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "npfCcniczVXdcqJIFH6AfY71JlFAMdFUUVPdDSrGGHqMZswNBQ02RqAVjMRczb7LPtU-zTYo_kWSzFxsbRdF_50-P33O199ff_vTcPbPHz-95XIe3whCkiQVyhj13QphgWDF65AIE-bHEfG-rVdKrURiRSy5U6WMgrUVGVGHPb7U-8zw5fVbAkgpO6KYthW7z1zj63MsmAL_zf6sqXxSiStuWFkZDzWs0kWEWaUqVmuVe8EKuAD475rupX8MZkD_QCiV-EqjFGgAdPcLCGWddiCSTihXidJFlI7P29Q2Hn1HGweBoRpvKgFA3blyX-gHOnQXJVvLSWYPphY_CPaMtuzf2s60YkFQGA09UgHuDrYK9aETQe46BsiQU2X5oaPDFOC9eT3d3FYSoaDRYVCFYFjsOT9wq4P6DGDts2RjbSSj3FRv3OYrgkN54YqCHfFOEqbEI9kgitN6Rg9NkXWad09VgzTeOj-qkid3Rw0o9qyWdC2_UoHYXM5nluM6pmeK37K5VJXqYrN23bjMgETiHZLiQyQ9JB3Rg_0lQ7jSq0AphxHa5Rkd-6_xOTpXAhBtRdH7PX4gv20EdpqpdSS0yTAvXQqeNHCcH9ZMpzovwG3rxAAk2oHI3qV08T2MTl1LYbRJKc2G2zI7dF4Hg4NADxKrnqnUd1Fzu1vwYPWd4LECCLozsA_45A2jAEKkY7i5oYWc-STvrwKAMeBlh_GJI-n7wB8KPb_tTQh5RHf7ePjObYYLFSHI9bJ5KtbdRpwemO60wu8nzxk8j0GeHtBDnwC-qMGvvJg4x8tJ-R_CpvUAbatRG5Y70sjsqD9MGbLxG3JREOPzMGGB_QuMQ_5XQMr5yM_Wi4GEvwQkSrViPtoM93yUAglRSguApA0K-CjJRfZ8dBo1GhwA6RM--lUgaR8CKQfpWSC1zgFJKwJSzkdHQBoc8RE8z0c7IP0OH8Hf5KMMV-6mOyanl2daSFItaUCtZDJPvHt1Jj6GJFaHj0-T-UtiJJ-S1CRY3gSW41-aU-cGVrvLtXNp8gV24zqlheIwf-5Nw_gicpcvUXixcsMpcS-IFVp-fGG7Exa5NxyVV2VR4l8p8COmiJbcRGVN954XroPmE-vK1XHVpNde3HZg2AYj2G9Hvavx0LD6oPaK-8FdMmyNbbGvl3109SCPfMOCadVQzYxqVrXMltrAXAXo1q8v9aU2f0ZOtRVIyE3EfqKJUr1t9x6HSa_RHpVHRB0MxnV7YYDMn1iZ62h1v9Be37BeCiKi8GKQQ9DF4JECAtAYYJ6KocV4nwDcvuLZgaWYWKYbrxT3uinJUrVGJjVbst1GKaDL9VyRpVIcRor0LwB5PMY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=npfCcniczVXdcqJIFH6AfY71JlFAMdFUUVPdDSrGGHqMZswNBQ02RqAVjMRczb7LPtU-zTYo_kWSzFxsbRdF_50-P33O199ff_vTcPbPHz-95XIe3whCkiQVyhj13QphgWDF65AIE-bHEfG-rVdKrURiRSy5U6WMgrUVGVGHPb7U-8zw5fVbAkgpO6KYthW7z1zj63MsmAL_zf6sqXxSiStuWFkZDzWs0kWEWaUqVmuVe8EKuAD475rupX8MZkD_QCiV-EqjFGgAdPcLCGWddiCSTihXidJFlI7P29Q2Hn1HGweBoRpvKgFA3blyX-gHOnQXJVvLSWYPphY_CPaMtuzf2s60YkFQGA09UgHuDrYK9aETQe46BsiQU2X5oaPDFOC9eT3d3FYSoaDRYVCFYFjsOT9wq4P6DGDts2RjbSSj3FRv3OYrgkN54YqCHfFOEqbEI9kgitN6Rg9NkXWad09VgzTeOj-qkid3Rw0o9qyWdC2_UoHYXM5nluM6pmeK37K5VJXqYrN23bjMgETiHZLiQyQ9JB3Rg_0lQ7jSq0AphxHa5Rkd-6_xOTpXAhBtRdH7PX4gv20EdpqpdSS0yTAvXQqeNHCcH9ZMpzovwG3rxAAk2oHI3qV08T2MTl1LYbRJKc2G2zI7dF4Hg4NADxKrnqnUd1Fzu1vwYPWd4LECCLozsA_45A2jAEKkY7i5oYWc-STvrwKAMeBlh_GJI-n7wB8KPb_tTQh5RHf7ePjObYYLFSHI9bJ5KtbdRpwemO60wu8nzxk8j0GeHtBDnwC-qMGvvJg4x8tJ-R_CpvUAbatRG5Y70sjsqD9MGbLxG3JREOPzMGGB_QuMQ_5XQMr5yM_Wi4GEvwQkSrViPtoM93yUAglRSguApA0K-CjJRfZ8dBo1GhwA6RM--lUgaR8CKQfpWSC1zgFJKwJSzkdHQBoc8RE8z0c7IP0OH8Hf5KMMV-6mOyanl2daSFItaUCtZDJPvHt1Jj6GJFaHj0-T-UtiJJ-S1CRY3gSW41-aU-cGVrvLtXNp8gV24zqlheIwf-5Nw_gicpcvUXixcsMpcS-IFVp-fGG7Exa5NxyVV2VR4l8p8COmiJbcRGVN954XroPmE-vK1XHVpNde3HZg2AYj2G9Hvavx0LD6oPaK-8FdMmyNbbGvl3109SCPfMOCadVQzYxqVrXMltrAXAXo1q8v9aU2f0ZOtRVIyE3EfqKJUr1t9x6HSa_RHpVHRB0MxnV7YYDMn1iZ62h1v9Be37BeCiKi8GKQQ9DF4JECAtAYYJ6KocV4nwDcvuLZgaWYWKYbrxT3uinJUrVGJjVbst1GKaDL9VyRpVIcRor0LwB5PMY"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "No, Dolphins Did Not Reappear in Venice Canals: The Effects ...",
+      "link": "https://journals.law.umn.edu/mjlst/2021/03/14/no-dolphins-did-not-reappear-in-venice-canals-the-effects-of-covid-19-on-the-environment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEB6zswFUggCgW7_TaEnZDNPGGM2ArWncSHF5VY80cjsOLkU9YQ7Z6FbEglhkcgxWZ0iy1lvvyeomIX87LN_wJ_NvcLg5EpRya2ee22z3uRZvq3RnFlqv5lh2Jrd_Q90UwTnsWGBk2xmpVWkChUs9vm6-Xx5nIu1PFQInVAfamiEC4oWq-Cu2ThqMM4tneV88Igm-WQdDGkX1gmWTSKc4mN2MHxRwD7NsMxKcYpZ0eU8gtVYJz8hrGYU0FjOYFc0g&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://journals.law.umn.edu › mjlst › 2021/03/14 › no-...",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAABwBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0zaHTTwAK9rGMhZbQEVeP5XAD4vpsYe-KgAP7ymFxzkufOW7PdsLboy249ahSmijiXza9el6MaKgfHhXryduQcFVXrkl7Q54xN_cGddr5ejHZba0sbeojE02rupEQ6QL0vbS-mNDg8Adx3yfrTNr_ftxdfb1JtSdG5a2140FdZwkid-G50YxYOQh5yTr88yXBHVcI_8lovzcfW0Gt-7zWqWqShakipNsvefAJhlBaA0jj4lmI_geSW9haT3UMBwb6ldEcpB-vUJrWIXqAAAAA.webp",
+      "date": "Mar 14, 2021",
+      "snippet": "Swans and dolphins had returned to formerly desolate Venice canals. A group of elephants had sauntered through a village in Yunnan, China, gotten drunk off ...",
+      "snippet_highlighted_words": [
+        "Swans and dolphins had returned to formerly desolate Venice canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Swans and dolphins had returned to formerly desolate Venice canals. A group of elephants had sauntered through a village in Yunnan, China, gotten drunk off ...",
+          "source_info_link": "https://journals.law.umn.edu/mjlst/2021/03/14/no-dolphins-did-not-reappear-in-venice-canals-the-effects-of-covid-19-on-the-environment",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAABwBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0zaHTTwAK9rGMhZbQEVeP5XAD4vpsYe-KgAP7ymFxzkufOW7PdsLboy249ahSmijiXza9el6MaKgfHhXryduQcFVXrkl7Q54xN_cGddr5ejHZba0sbeojE02rupEQ6QL0vbS-mNDg8Adx3yfrTNr_ftxdfb1JtSdG5a2140FdZwkid-G50YxYOQh5yTr88yXBHVcI_8lovzcfW0Gt-7zWqWqShakipNsvefAJhlBaA0jj4lmI_geSW9haT3UMBwb6ldEcpB-vUJrWIXqAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZVZ2dDZ1c3X1RhRW5aRE5QR0dNMkFyV25jU0hGNVZZODBjanNPTGtVOVlRN1o2RmJFZ2xoa2NneFdaMGl5MWx2dnllb21JWDg3TE5fd0pfTnZjTGc1RXBSeWEyZWUyMnozdVJadnEzUm5GbHF2NWxoMkpyZF9ROTBVd1Ruc1dHQmsyeG1wVldrQ2hVczl2bTYtWHg1bkl1MVBGUUluVkFmYW1pRUM0b1dxLUN1MlRocU1NNHRuZVY4OElnbS1XUWRER2tYMWdtV1RTS2M0bU4yTUh4UndEN05zTXhLY1lwWjBlVThndFZZSno4aHJHWVUwRmpPWUZjMGcSBBoCCAAanQcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD3BggAEAAYACAAKicKCGRvbHBoaW5zFVj6lkAaB2RvbHBoaW4aDWl2O3A7ZG9scGhpbnMqMwoGcmV0dXJuFSUXGD8aBnJlZnVuZBoIcmV0dXJuZWQaCXJldHVybmluZxoHcmV0dXJucyrCAQoGdmVuaWNlFbwjmUAaDHZlbmljZWNhbmFscxoUZ2VvOzQ3NzkzMDAwMDAwMDAwMDAaFGdlbzs0Nzc5NTAwMDAwMDAwMDAwGhRnZW87NDc3YmYwMDAwMDAwMDAwMBoUZ2VvOzQ3N2MxMDAwMDAwMDAwMDAaFGdlbzs0NzdlOTAwMDAwMDAwMDAwGhRnZW87NDc3ZWIwMDAwMDAwMDAwMBoUZ2VvOzQ3N2VkMDAwMDAwMDAwMDAaC2l2O3A7dmVuaWNlKjoKBmNhbmFscxVi1J5AGgVjYW5hbBoJd2F0ZXJ3YXlzGgx2ZW5pY2VjYW5hbHMaC2l2O3A7Y2FuYWxzMpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZVZ2dDZ1c3X1RhRW5aRE5QR0dNMkFyV25jU0hGNVZZODBjanNPTGtVOVlRN1o2RmJFZ2xoa2NneFdaMGl5MWx2dnllb21JWDg3TE5fd0pfTnZjTGc1RXBSeWEyZWUyMnozdVJadnEzUm5GbHF2NWxoMkpyZF9ROTBVd1Ruc1dHQmsyeG1wVldrQ2hVczl2bTYtWHg1bkl1MVBGUUluVkFmYW1pRUM0b1dxLUN1MlRocU1NNHRuZVY4OElnbS1XUWRER2tYMWdtV1RTS2M0bU4yTUh4UndEN05zTXhLY1lwWjBlVThndFZZSno4aHJHWVUwRmpPWUZjMGc6TU5vLCA8Yj5Eb2xwaGluczwvYj4gRGlkIE5vdCBSZWFwcGVhciBpbiA8Yj5WZW5pY2UgQ2FuYWxzPC9iPjogVGhlIEVmZmVjdHMgLi4uQqsBPGI-U3dhbnMgYW5kIGRvbHBoaW5zIGhhZCByZXR1cm5lZCB0byBmb3JtZXJseSBkZXNvbGF0ZSBWZW5pY2UgY2FuYWxzPC9iPi4gQSBncm91cCBvZiBlbGVwaGFudHMgaGFkIHNhdW50ZXJlZCB0aHJvdWdoIGEgdmlsbGFnZSBpbiBZdW5uYW4sIENoaW5hLCBnb3R0ZW4gZHJ1bmsgb2ZmJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZVZ2dDZ1c3X1RhRW5aRE5QR0dNMkFyV25jU0hGNVZZODBjanNPTGtVOVlRN1o2RmJFZ2xoa2NneFdaMGl5MWx2dnllb21JWDg3TE5fd0pfTnZjTGc1RXBSeWEyZWUyMnozdVJadnEzUm5GbHF2NWxoMkpyZF9ROTBVd1Ruc1dHQmsyeG1wVldrQ2hVczl2bTYtWHg1bkl1MVBGUUluVkFmYW1pRUM0b1dxLUN1MlRocU1NNHRuZVY4OElnbS1XUWRER2tYMWdtV1RTS2M0bU4yTUh4UndEN05zTXhLY1lwWjBlVThndFZZSno4aHJHWVUwRmpPWUZjMGcSBBoCCAAanQcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD3BggAEAAYACAAKicKCGRvbHBoaW5zFVj6lkAaB2RvbHBoaW4aDWl2O3A7ZG9scGhpbnMqMwoGcmV0dXJuFSUXGD8aBnJlZnVuZBoIcmV0dXJuZWQaCXJldHVybmluZxoHcmV0dXJucyrCAQoGdmVuaWNlFbwjmUAaDHZlbmljZWNhbmFscxoUZ2VvOzQ3NzkzMDAwMDAwMDAwMDAaFGdlbzs0Nzc5NTAwMDAwMDAwMDAwGhRnZW87NDc3YmYwMDAwMDAwMDAwMBoUZ2VvOzQ3N2MxMDAwMDAwMDAwMDAaFGdlbzs0NzdlOTAwMDAwMDAwMDAwGhRnZW87NDc3ZWIwMDAwMDAwMDAwMBoUZ2VvOzQ3N2VkMDAwMDAwMDAwMDAaC2l2O3A7dmVuaWNlKjoKBmNhbmFscxVi1J5AGgVjYW5hbBoJd2F0ZXJ3YXlzGgx2ZW5pY2VjYW5hbHMaC2l2O3A7Y2FuYWxzMpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZVZ2dDZ1c3X1RhRW5aRE5QR0dNMkFyV25jU0hGNVZZODBjanNPTGtVOVlRN1o2RmJFZ2xoa2NneFdaMGl5MWx2dnllb21JWDg3TE5fd0pfTnZjTGc1RXBSeWEyZWUyMnozdVJadnEzUm5GbHF2NWxoMkpyZF9ROTBVd1Ruc1dHQmsyeG1wVldrQ2hVczl2bTYtWHg1bkl1MVBGUUluVkFmYW1pRUM0b1dxLUN1MlRocU1NNHRuZVY4OElnbS1XUWRER2tYMWdtV1RTS2M0bU4yTUh4UndEN05zTXhLY1lwWjBlVThndFZZSno4aHJHWVUwRmpPWUZjMGc6TU5vLCA8Yj5Eb2xwaGluczwvYj4gRGlkIE5vdCBSZWFwcGVhciBpbiA8Yj5WZW5pY2UgQ2FuYWxzPC9iPjogVGhlIEVmZmVjdHMgLi4uQqsBPGI-U3dhbnMgYW5kIGRvbHBoaW5zIGhhZCByZXR1cm5lZCB0byBmb3JtZXJseSBkZXNvbGF0ZSBWZW5pY2UgY2FuYWxzPC9iPi4gQSBncm91cCBvZiBlbGVwaGFudHMgaGFkIHNhdW50ZXJlZCB0aHJvdWdoIGEgdmlsbGFnZSBpbiBZdW5uYW4sIENoaW5hLCBnb3R0ZW4gZHJ1bmsgb2ZmJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "University of Minnesota Twin Cities",
+      "read_more_link": "https://journals.law.umn.edu/mjlst/2021/03/14/no-dolphins-did-not-reappear-in-venice-canals-the-effects-of-covid-19-on-the-environment#:~:text=Swans%20and%20dolphins%20had%20returned,out%20in%20a%20tea%20garden."
+    },
+    {
+      "position": 2,
+      "title": "For months, a wild dolphin in Venice, Italy, has captivated ...",
+      "link": "https://www.instagram.com/reel/DQ8FdjNjgUZ/?hl=en",
+      "displayed_link": "88.9K+ likes · 10 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab229f89f8abcab71e2cd3a/images/BXtd1Th7gen2tgiYKL7ZKrJ9qbHZEke0tXlGjlzEtl4.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "Although the dolphin, nicknamed Mimmo, is capable of returning to sea, it has chosen to remain in the city's busy canals raising concerns among experts. ... Is ...",
+      "duration": "0:44",
+      "about_this_result": {
+        "source": {
+          "description": "Although the dolphin, nicknamed Mimmo, is capable of returning to sea, it has chosen to remain in the city's busy canals raising concerns among experts. ... Is ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjZPQzNfSGNUb3F0Nk5IM3FIcURHSFpYSGliSjExRXpUbDA5Y2xoN1o4WmNnamJWZm1PVlRmV3BNQWNlcDhaczYtTE9nUlhIYkhzUkdJcUVacGE4VFVPYUp2UmNUblRESEhFaVVLaURCZmEtcTVXUlpZWGZTdzVGZVg2NVRRX1dRNzE5V2JBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjZPQzNfSGNUb3F0Nk5IM3FIcURHSFpYSGliSjExRXpUbDA5Y2xoN1o4WmNnamJWZm1PVlRmV3BNQWNlcDhaczYtTE9nUlhIYkhzUkdJcUVacGE4VFVPYUp2UmNUblRESEhFaVVLaURCZmEtcTVXUlpZWGZTdzVGZVg2NVRRX1dRNzE5V2JBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Instagram · cnn"
+    },
+    {
+      "position": 3,
+      "title": "There's a dolphin living in the Venice canals",
+      "link": "https://www.cnn.com/2025/11/11/world/video/dolphin-venice-canal-digvid-vrtc",
+      "displayed_link": "https://www.cnn.com · Nov 11, 2025",
+      "thumbnail": "https://serpapi.com/searches/6ab229f89f8abcab71e2cd3a/images/BXtd1Th7gen2tgiYKL7ZKnvfkgBuHaOUmkPC267Bpxk.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIF_qoQifkn9UAb7XkgBqfeUizk7pORr4NL2f9AA_uKslHi7ADhPu7QhAcYyiFpZzpZvrgsR3O7mJ_t_PtGmLP_1FcPyiLbbSThf2_wyNuiPMR_Al5TFP4Ds8Vn_maNhWOUCxPwXOpXP39w7jo_4RNj-YeaLDuW0JRUN8Mvw-VpMOir-JH2t_cZXiLj9_IuLxVBf_pMh6Gpiki7FnD0L-BT_tb2Fdj8X_gjuMO-PV3CMaUV-5eLzuThzAtO4zccLOKti6xZCMmL2yor9jn7pH0ys1JQn2yJnej9XbwqH0ZxNNbe92Z4DpPnbaO95H_8dn17CeXFyoLhWbHqYHSFC1BXDAuftw8968-sE4AAA.webp",
+      "snippet": "Although the dolphin, nicknamed Mimmo, is capable of returning to sea, it has chosen to remain in the city's busy canals raising concerns among experts. 00:44 • ...",
+      "about_this_result": {
+        "source": {
+          "description": "Although the dolphin, nicknamed Mimmo, is capable of returning to sea, it has chosen to remain in the city's busy canals raising concerns among experts. 00:44 • ...",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIF_qoQifkn9UAb7XkgBqfeUizk7pORr4NL2f9AA_uKslHi7ADhPu7QhAcYyiFpZzpZvrgsR3O7mJ_t_PtGmLP_1FcPyiLbbSThf2_wyNuiPMR_Al5TFP4Ds8Vn_maNhWOUCxPwXOpXP39w7jo_4RNj-YeaLDuW0JRUN8Mvw-VpMOir-JH2t_cZXiLj9_IuLxVBf_pMh6Gpiki7FnD0L-BT_tb2Fdj8X_gjuMO-PV3CMaUV-5eLzuThzAtO4zccLOKti6xZCMmL2yor9jn7pH0ys1JQn2yJnej9XbwqH0ZxNNbe92Z4DpPnbaO95H_8dn17CeXFyoLhWbHqYHSFC1BXDAuftw8968-sE4AAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZSbVFNSWltWndKTzUtcnJIVGVqRkczbWpETkNLMDVJNERvYk9Lak5LV3VsOWNybkZfejFZUVpEM09OTUpzWnpqbGFnRmRUdE5CTzV1NGttTEtTRmtIdUFKc3N1SzhfbEdNQ0pHbE9pVzJtdkUyNUtScHAyVUNHMEYxLW9aNVlDSnR2cllpaUR5ekNPLS1WZmdtM2gxQkdTX3NReWR4MzJHLTNZeEFEMkZ3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZSbVFNSWltWndKTzUtcnJIVGVqRkczbWpETkNLMDVJNERvYk9Lak5LV3VsOWNybkZfejFZUVpEM09OTUpzWnpqbGFnRmRUdE5CTzV1NGttTEtTRmtIdUFKc3N1SzhfbEdNQ0pHbE9pVzJtdkUyNUtScHAyVUNHMEYxLW9aNVlDSnR2cllpaUR5ekNPLS1WZmdtM2gxQkdTX3NReWR4MzJHLTNZeEFEMkZ3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "CNN"
+    },
+    {
+      "position": 4,
+      "title": "Dolphins seen swimming in one of Venice's canals",
+      "link": "https://www.youtube.com/shorts/XNdGe3UKB5U",
+      "displayed_link": "7.5K+ views · 5 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab229f89f8abcab71e2cd3a/images/BXtd1Th7gen2tgiYKL7ZKq65350u_cvQwDgUjiuYuCo.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "A pair of dolphins were spotted swimming in the city's famous canal on March 22, taking advantage of the quieter waterways amid the ongoing Covid-19 ...",
+      "duration": "0:53",
+      "about_this_result": {
+        "source": {
+          "description": "A pair of dolphins were spotted swimming in the city's famous canal on March 22, taking advantage of the quieter waterways amid the ongoing Covid-19 ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVm1LSkdaRW1Yek1WNWZQTGlBUmYtUVpkaTE2VHhZZzNKblFiWDV1UXk3MDA5QjlwZ1pjYzk2STVadXYzWFhwS0hSbmhwTEFHX1gxS0xVOGJWekg1VllteTFnWTVqT2Z2dUNBTjBMcW4wb05Sa0tiSEhodmxEUlh2eDZIWkcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVm1LSkdaRW1Yek1WNWZQTGlBUmYtUVpkaTE2VHhZZzNKblFiWDV1UXk3MDA5QjlwZ1pjYzk2STVadXYzWFhwS0hSbmhwTEFHX1gxS0xVOGJWekg1VllteTFnWTVqT2Z2dUNBTjBMcW4wb05Sa0tiSEhodmxEUlh2eDZIWkcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTdTxDscz9GUs1hHl5gh97rbwTJ8-KUtL1zNA",
+      "source": "YouTube · The National News"
+    },
+    {
+      "position": 5,
+      "title": "Dolphins Spotted in Venice's Grand Canal—for Real This ...",
+      "link": "https://www.smithsonianmag.com/smart-news/dolphins-spotted-venices-grand-canal-real-time-180977403/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFW3pbHIyLz19Mmo_np4SHxf-dk3o-u8ZYfYh2Ez8AqF8AhrWp6wi7VPK16TisubQ-5b8y52USWI8gdE8lt1HUJ7STOis20wQoGfPZY_-0GpUUS9gQK9p1t8VaTOfGaInHLKkClVUYzQA1DeZtprkiIgB_ckvSM7FPnJkHZty-0WEvHSGZ3-t_XpxiVpu74W6SfptuCg-xA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.smithsonianmag.com › smart-news › dolph...",
+      "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAUQIY9416cg4up6FQJxbX9TT267Btilvo_P0AAA_vpaZWDPcj4h9PRhlDxkmxGLGRMNjP6OLKjUs2EyO3A1icaC-tMYPD-q8TEP7lhRb7SdfrwZQtnWgSKUCnh0wRBxI_dHjz7aUPCPUQt-leMS6AWZzrA1120vWPnVNyHSaguBx7cKoWvUyiZ_18oSMcgL5XQ_qiGAk1w1hv0VVXhOm7ilj7Lpe7iARy3P_RW39lj09_oSTNEqY8-3J6UclF_Wf0m1AmTQ-hSCtqO42Dz-FeF6_eQ25dItynk-rOmi07TdwQAAAA.webp",
+      "date": "Apr 5, 2021",
+      "snippet": "Striped dolphins are normally found in deep water, where they live in pods of up to 100 animals. The pair in Venice looked like an adult and a juvenile.",
+      "snippet_highlighted_words": [
+        "dolphins",
+        "Venice"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Striped dolphins are normally found in deep water, where they live in pods of up to 100 animals. The pair in Venice looked like an adult and a juvenile.",
+          "source_info_link": "https://www.smithsonianmag.com/smart-news/dolphins-spotted-venices-grand-canal-real-time-180977403/",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAUQIY9416cg4up6FQJxbX9TT267Btilvo_P0AAA_vpaZWDPcj4h9PRhlDxkmxGLGRMNjP6OLKjUs2EyO3A1icaC-tMYPD-q8TEP7lhRb7SdfrwZQtnWgSKUCnh0wRBxI_dHjz7aUPCPUQt-leMS6AWZzrA1120vWPnVNyHSaguBx7cKoWvUyiZ_18oSMcgL5XQ_qiGAk1w1hv0VVXhOm7ilj7Lpe7iARy3P_RW39lj09_oSTNEqY8-3J6UclF_Wf0m1AmTQ-hSCtqO42Dz-FeF6_eQ25dItynk-rOmi07TdwQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZXM3BiSEl5THoxOU1tb19ucDRTSHhmLWRrM28tdThaWWZZaDJFejhBcUY4QWhyV3A2d2k3VlBLMTZUaXN1YlEtNWI4eTUyVVNXSThnZEU4bHQxSFVKN1NUT2lzMjB3UW9HZlBaWV8tMEdwVVVTOWdRSzlwMXQ4VmFUT2ZHYUluSExLa0NsVlVZelFBMURlWnRwcmtpSWdCX2NrdlNNN0ZQbkprSFp0eS0wV0V2SFNHWjMtdF9YcHhpVnB1NzRXNlNmcHR1Q2cteEESBBoCCAAa8QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDLBggAEAAYACAAKicKCGRvbHBoaW5zFQYCpkAaB2RvbHBoaW4aDWl2O3A7ZG9scGhpbnMqMwoGcmV0dXJuFQAAAAAaBnJlZnVuZBoIcmV0dXJuZWQaCXJldHVybmluZxoHcmV0dXJucyrCAQoGdmVuaWNlFVgdmEAaDHZlbmljZWNhbmFscxoUZ2VvOzQ3NzkzMDAwMDAwMDAwMDAaFGdlbzs0Nzc5NTAwMDAwMDAwMDAwGhRnZW87NDc3YmYwMDAwMDAwMDAwMBoUZ2VvOzQ3N2MxMDAwMDAwMDAwMDAaFGdlbzs0NzdlOTAwMDAwMDAwMDAwGhRnZW87NDc3ZWIwMDAwMDAwMDAwMBoUZ2VvOzQ3N2VkMDAwMDAwMDAwMDAaC2l2O3A7dmVuaWNlKjoKBmNhbmFscxXozxA_GgVjYW5hbBoJd2F0ZXJ3YXlzGgx2ZW5pY2VjYW5hbHMaC2l2O3A7Y2FuYWxzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZXM3BiSEl5THoxOU1tb19ucDRTSHhmLWRrM28tdThaWWZZaDJFejhBcUY4QWhyV3A2d2k3VlBLMTZUaXN1YlEtNWI4eTUyVVNXSThnZEU4bHQxSFVKN1NUT2lzMjB3UW9HZlBaWV8tMEdwVVVTOWdRSzlwMXQ4VmFUT2ZHYUluSExLa0NsVlVZelFBMURlWnRwcmtpSWdCX2NrdlNNN0ZQbkprSFp0eS0wV0V2SFNHWjMtdF9YcHhpVnB1NzRXNlNmcHR1Q2cteEE6VjxiPkRvbHBoaW5zPC9iPiBTcG90dGVkIGluIDxiPlZlbmljZSYjMzk7czwvYj4gR3JhbmQgPGI-Q2FuYWw8L2I-4oCUZm9yIFJlYWwgVGhpcyBUaW1lQqYBU3RyaXBlZCA8Yj5kb2xwaGluczwvYj4gYXJlIG5vcm1hbGx5IGZvdW5kIGluIGRlZXAgd2F0ZXIsIHdoZXJlIHRoZXkgbGl2ZSBpbiBwb2RzIG9mIHVwIHRvIDEwMCBhbmltYWxzLiBUaGUgcGFpciBpbiA8Yj5WZW5pY2U8L2I-IGxvb2tlZCBsaWtlIGFuIGFkdWx0IGFuZCBhIGp1dmVuaWxlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZXM3BiSEl5THoxOU1tb19ucDRTSHhmLWRrM28tdThaWWZZaDJFejhBcUY4QWhyV3A2d2k3VlBLMTZUaXN1YlEtNWI4eTUyVVNXSThnZEU4bHQxSFVKN1NUT2lzMjB3UW9HZlBaWV8tMEdwVVVTOWdRSzlwMXQ4VmFUT2ZHYUluSExLa0NsVlVZelFBMURlWnRwcmtpSWdCX2NrdlNNN0ZQbkprSFp0eS0wV0V2SFNHWjMtdF9YcHhpVnB1NzRXNlNmcHR1Q2cteEESBBoCCAAa8QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDLBggAEAAYACAAKicKCGRvbHBoaW5zFQYCpkAaB2RvbHBoaW4aDWl2O3A7ZG9scGhpbnMqMwoGcmV0dXJuFQAAAAAaBnJlZnVuZBoIcmV0dXJuZWQaCXJldHVybmluZxoHcmV0dXJucyrCAQoGdmVuaWNlFVgdmEAaDHZlbmljZWNhbmFscxoUZ2VvOzQ3NzkzMDAwMDAwMDAwMDAaFGdlbzs0Nzc5NTAwMDAwMDAwMDAwGhRnZW87NDc3YmYwMDAwMDAwMDAwMBoUZ2VvOzQ3N2MxMDAwMDAwMDAwMDAaFGdlbzs0NzdlOTAwMDAwMDAwMDAwGhRnZW87NDc3ZWIwMDAwMDAwMDAwMBoUZ2VvOzQ3N2VkMDAwMDAwMDAwMDAaC2l2O3A7dmVuaWNlKjoKBmNhbmFscxXozxA_GgVjYW5hbBoJd2F0ZXJ3YXlzGgx2ZW5pY2VjYW5hbHMaC2l2O3A7Y2FuYWxzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZXM3BiSEl5THoxOU1tb19ucDRTSHhmLWRrM28tdThaWWZZaDJFejhBcUY4QWhyV3A2d2k3VlBLMTZUaXN1YlEtNWI4eTUyVVNXSThnZEU4bHQxSFVKN1NUT2lzMjB3UW9HZlBaWV8tMEdwVVVTOWdRSzlwMXQ4VmFUT2ZHYUluSExLa0NsVlVZelFBMURlWnRwcmtpSWdCX2NrdlNNN0ZQbkprSFp0eS0wV0V2SFNHWjMtdF9YcHhpVnB1NzRXNlNmcHR1Q2cteEE6VjxiPkRvbHBoaW5zPC9iPiBTcG90dGVkIGluIDxiPlZlbmljZSYjMzk7czwvYj4gR3JhbmQgPGI-Q2FuYWw8L2I-4oCUZm9yIFJlYWwgVGhpcyBUaW1lQqYBU3RyaXBlZCA8Yj5kb2xwaGluczwvYj4gYXJlIG5vcm1hbGx5IGZvdW5kIGluIGRlZXAgd2F0ZXIsIHdoZXJlIHRoZXkgbGl2ZSBpbiBwb2RzIG9mIHVwIHRvIDEwMCBhbmltYWxzLiBUaGUgcGFpciBpbiA8Yj5WZW5pY2U8L2I-IGxvb2tlZCBsaWtlIGFuIGFkdWx0IGFuZCBhIGp1dmVuaWxlLiICEAFIAFgAaAA",
+      "source": "Smithsonian Magazine",
+      "read_more_link": "https://www.smithsonianmag.com/smart-news/dolphins-spotted-venices-grand-canal-real-time-180977403/#:~:text=Striped%20dolphins%20are%20normally%20found,an%20adult%20and%20a%20juvenile."
+    },
+    {
+      "position": 6,
+      "title": "What is going on with all the 'Dolphins Returned to Italy ...",
+      "link": "https://www.reddit.com/r/OutOfTheLoop/comments/fvc8jp/what_is_going_on_with_all_the_dolphins_returned/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFYefxakFuTpzIOUuSooG_xMnn7b29yG6XCXZDm9q8pasq8-xoCuRgPVuiSWzaaeS8AmIxsQp5XULzfKAfvWIa79GyBQP8Ir-B1-ZQUVnr5NtLABR5NWMm3HiJsNdAoKCSicN6pCYSwk-M_Bmv0uFNV6gSqKvvC6RFTsExMmHItm8LtrpZaL6wjO_9j-bXDCzAcWn2BPVRt53yQ&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQFnoECCgQAQ&uoh=1",
+      "displayed_link": "20+ comments · 6 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Answer: There was some fake news spread about Covid-19's impact, saying that dolphins were seen in Venice's canals, supposedly never having happened while ...",
+      "snippet_highlighted_words": [
+        "dolphins",
+        "Venice's canals"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Dolphins return to Italy's coast and Venice canals amid ...",
+            "link": "https://www.reddit.com/r/EverythingScience/comments/fl34w2/dolphins_return_to_italys_coast_and_venice_canals/",
+            "answer_count": 10,
+            "date": "Mar 18, 2020"
+          },
+          {
+            "title": "Dolphins near St. Mark's Square : r/Venezia - Reddit",
+            "link": "https://www.reddit.com/r/Venezia/comments/1ocgbrk/dolphins_near_st_marks_square/",
+            "answer_count": 8,
+            "date": "Oct 21, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Answer: There was some fake news spread about Covid-19's impact, saying that dolphins were seen in Venice's canals, supposedly never having happened while ...",
+          "source_info_link": "https://www.reddit.com/r/OutOfTheLoop/comments/fvc8jp/what_is_going_on_with_all_the_dolphins_returned/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZZZWZ4YWtGdVRweklPVXVTb29HX3hNbm43YjI5eUc2WENYWkRtOXE4cGFzcTgteG9DdVJnUFZ1aVNXemFhZVM4QW1JeHNRcDVYVUx6ZktBZnZXSWE3OUd5QlFQOElyLUIxLVpRVVZucjVOdExBQlI1TldNbTNIaUpzTmRBb0tDU2ljTjZwQ1lTd2stTV9CbXYwdUZOVjZnU3FLdnZDNlJGVHNFeE1tSEl0bThMdHJwWmFMNndqT185ai1iWERDekFjV24yQlBWUnQ1M3lREgQaAggAGvgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQGCAAQABgAIAAqJwoIZG9scGhpbnMV2KejQBoHZG9scGhpbhoNaXY7cDtkb2xwaGlucyozCgZyZXR1cm4Vem1kPxoGcmVmdW5kGghyZXR1cm5lZBoJcmV0dXJuaW5nGgdyZXR1cm5zKsIBCgZ2ZW5pY2UVBIgcQBoMdmVuaWNlY2FuYWxzGhRnZW87NDc3OTMwMDAwMDAwMDAwMBoUZ2VvOzQ3Nzk1MDAwMDAwMDAwMDAaFGdlbzs0NzdiZjAwMDAwMDAwMDAwGhRnZW87NDc3YzEwMDAwMDAwMDAwMBoUZ2VvOzQ3N2U5MDAwMDAwMDAwMDAaFGdlbzs0NzdlYjAwMDAwMDAwMDAwGhRnZW87NDc3ZWQwMDAwMDAwMDAwMBoLaXY7cDt2ZW5pY2UqOgoGY2FuYWxzFdqR5j8aBWNhbmFsGgl3YXRlcndheXMaDHZlbmljZWNhbmFscxoLaXY7cDtjYW5hbHMy5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RlllZnhha0Z1VHB6SU9VdVNvb0dfeE1ubjdiMjl5RzZYQ1haRG05cThwYXNxOC14b0N1UmdQVnVpU1d6YWFlUzhBbUl4c1FwNVhVTHpmS0FmdldJYTc5R3lCUVA4SXItQjEtWlFVVm5yNU50TEFCUjVOV01tM0hpSnNOZEFvS0NTaWNONnBDWVN3ay1NX0JtdjB1Rk5WNmdTcUt2dkM2UkZUc0V4TW1ISXRtOEx0cnBaYUw2d2pPXzlqLWJYREN6QWNXbjJCUFZSdDUzeVE6SFdoYXQgaXMgZ29pbmcgb24gd2l0aCBhbGwgdGhlICYjMzk7PGI-RG9scGhpbnMgUmV0dXJuZWQ8L2I-IHRvIEl0YWx5IC4uLkK5AUFuc3dlcjogVGhlcmUgd2FzIHNvbWUgZmFrZSBuZXdzIHNwcmVhZCBhYm91dCBDb3ZpZC0xOSYjMzk7cyBpbXBhY3QsIHNheWluZyB0aGF0IDxiPmRvbHBoaW5zPC9iPiB3ZXJlIHNlZW4gaW4gPGI-VmVuaWNlJiMzOTtzIGNhbmFsczwvYj4sIHN1cHBvc2VkbHkgbmV2ZXIgaGF2aW5nIGhhcHBlbmVkIHdoaWxlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZZZWZ4YWtGdVRweklPVXVTb29HX3hNbm43YjI5eUc2WENYWkRtOXE4cGFzcTgteG9DdVJnUFZ1aVNXemFhZVM4QW1JeHNRcDVYVUx6ZktBZnZXSWE3OUd5QlFQOElyLUIxLVpRVVZucjVOdExBQlI1TldNbTNIaUpzTmRBb0tDU2ljTjZwQ1lTd2stTV9CbXYwdUZOVjZnU3FLdnZDNlJGVHNFeE1tSEl0bThMdHJwWmFMNndqT185ai1iWERDekFjV24yQlBWUnQ1M3lREgQaAggAGvgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQGCAAQABgAIAAqJwoIZG9scGhpbnMV2KejQBoHZG9scGhpbhoNaXY7cDtkb2xwaGlucyozCgZyZXR1cm4Vem1kPxoGcmVmdW5kGghyZXR1cm5lZBoJcmV0dXJuaW5nGgdyZXR1cm5zKsIBCgZ2ZW5pY2UVBIgcQBoMdmVuaWNlY2FuYWxzGhRnZW87NDc3OTMwMDAwMDAwMDAwMBoUZ2VvOzQ3Nzk1MDAwMDAwMDAwMDAaFGdlbzs0NzdiZjAwMDAwMDAwMDAwGhRnZW87NDc3YzEwMDAwMDAwMDAwMBoUZ2VvOzQ3N2U5MDAwMDAwMDAwMDAaFGdlbzs0NzdlYjAwMDAwMDAwMDAwGhRnZW87NDc3ZWQwMDAwMDAwMDAwMBoLaXY7cDt2ZW5pY2UqOgoGY2FuYWxzFdqR5j8aBWNhbmFsGgl3YXRlcndheXMaDHZlbmljZWNhbmFscxoLaXY7cDtjYW5hbHMy5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RlllZnhha0Z1VHB6SU9VdVNvb0dfeE1ubjdiMjl5RzZYQ1haRG05cThwYXNxOC14b0N1UmdQVnVpU1d6YWFlUzhBbUl4c1FwNVhVTHpmS0FmdldJYTc5R3lCUVA4SXItQjEtWlFVVm5yNU50TEFCUjVOV01tM0hpSnNOZEFvS0NTaWNONnBDWVN3ay1NX0JtdjB1Rk5WNmdTcUt2dkM2UkZUc0V4TW1ISXRtOEx0cnBaYUw2d2pPXzlqLWJYREN6QWNXbjJCUFZSdDUzeVE6SFdoYXQgaXMgZ29pbmcgb24gd2l0aCBhbGwgdGhlICYjMzk7PGI-RG9scGhpbnMgUmV0dXJuZWQ8L2I-IHRvIEl0YWx5IC4uLkK5AUFuc3dlcjogVGhlcmUgd2FzIHNvbWUgZmFrZSBuZXdzIHNwcmVhZCBhYm91dCBDb3ZpZC0xOSYjMzk7cyBpbXBhY3QsIHNheWluZyB0aGF0IDxiPmRvbHBoaW5zPC9iPiB3ZXJlIHNlZW4gaW4gPGI-VmVuaWNlJiMzOTtzIGNhbmFsczwvYj4sIHN1cHBvc2VkbHkgbmV2ZXIgaGF2aW5nIGhhcHBlbmVkIHdoaWxlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Reddit · r/OutOfTheLoop",
+      "read_more_link": "https://www.reddit.com/r/OutOfTheLoop/comments/fvc8jp/what_is_going_on_with_all_the_dolphins_returned/#:~:text=Answer%3A%20There%20was%20some%20fake,people%20were%20out%20and%20about."
+    },
+    {
+      "position": 7,
+      "title": "Dolphins were spotted in a Venice canal close to St. Mark's ...",
+      "link": "https://www.facebook.com/ABCNews/posts/dolphins-were-spotted-in-a-venice-canal-close-to-st-marks-square-as-coastguard-m/10160850643868812/",
+      "displayed_link": "1.3K+ reactions · 5 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab229f89f8abcab71e2cd3a/images/BXtd1Th7gen2tgiYKL7ZKoS6m2Xkc0ZM244RLnvj784.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Dolphins were spotted in a Venice canal close to St. Mark's Square, as coastguard members and wildlife specialists searched for the animals. Coronavirus ...",
+      "duration": "0:49",
+      "about_this_result": {
+        "source": {
+          "description": "Dolphins were spotted in a Venice canal close to St. Mark's Square, as coastguard members and wildlife specialists searched for the animals. Coronavirus ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZURnNRR1d5QklDSTFnU0c4OWw5cFBkQ3JLYUFTMmFzcTJfVThJbzRpZnZ4NTFXbVBRSlNlb2t5ZTZqUndLOXRCLVhIV2NwMW9zNWluM3R4eG50RUVHY2EwMTJ1Nm1vem1EY2dMaDdxMmhPd3BielR2X1ltNXhMdFM5cm1hQzlXaW5oOFF5Z3pBVmg2WlEyT3VvaWxxb25sbnhCNzJaeTdRXzV3am5YQXVIRm41SzROV3AzcUk5cGRtMnZ5N0huTkdMdWlzbDhYbkRQVDlkMU56VHh5WkEwZnNQT0dWSzB2N0RWUDFJV24ybFJ1akFTM1dtU25iSFNkMDFVTmlHYxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZURnNRR1d5QklDSTFnU0c4OWw5cFBkQ3JLYUFTMmFzcTJfVThJbzRpZnZ4NTFXbVBRSlNlb2t5ZTZqUndLOXRCLVhIV2NwMW9zNWluM3R4eG50RUVHY2EwMTJ1Nm1vem1EY2dMaDdxMmhPd3BielR2X1ltNXhMdFM5cm1hQzlXaW5oOFF5Z3pBVmg2WlEyT3VvaWxxb25sbnhCNzJaeTdRXzV3am5YQXVIRm41SzROV3AzcUk5cGRtMnZ5N0huTkdMdWlzbDhYbkRQVDlkMU56VHh5WkEwZnNQT0dWSzB2N0RWUDFJV24ybFJ1akFTM1dtU25iSFNkMDFVTmlHYxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQqeaeDapTCTLOsHlAKUr2P7GE1KK4hY-auSg",
+      "source": "Facebook · ABC News"
+    },
+    {
+      "position": 8,
+      "title": "“Mimmo the dolphin” has been repeatedly returning to ...",
+      "link": "https://www.facebook.com/visititalyofficial/posts/mimmo-the-dolphin-has-been-repeatedly-returning-to-venices-lagoon-despite-effort/1266061952223246/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFTza6U7Fyq3u5lop2a2LH9toi3wH1gllMoecrEj1KoLR-0o0BLsygFhO3oonfPa9vh3oxPad_HWtD0S6APUlOyR4PWb1aJPvUkMEu7CIwWeC2A2P9T6tGU1UVcy4CaokT4nAbVoo5_epfLXUSzn9J43Mr-bgWts8U1tUxKnMwAvh528jAF6-EgqiD-EVTqa_XWYejSYqoQ7wQ2AtGgf3Q6lbhPHvAf2G4NwN799IFVOwF8xj8SpF8MW7Swkd-2iLZrTnbZ8FOFnC&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQFnoECC4QAQ&uoh=1",
+      "displayed_link": "160+ reactions",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Since summer 2025, a wild bottlenose dolphin has been swimming through Venice's lagoon and canals, surprising tourists and locals with playful appearances. But ...",
+      "snippet_highlighted_words": [
+        "Since summer 2025, a wild bottlenose dolphin has been swimming through Venice's lagoon and canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Since summer 2025, a wild bottlenose dolphin has been swimming through Venice's lagoon and canals, surprising tourists and locals with playful appearances. But ...",
+          "source_info_link": "https://www.facebook.com/visititalyofficial/posts/mimmo-the-dolphin-has-been-repeatedly-returning-to-venices-lagoon-despite-effort/1266061952223246/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZUemE2VTdGeXEzdTVsb3AyYTJMSDl0b2kzd0gxZ2xsTW9lY3JFajFLb0xSLTBvMEJMc3lnRmhPM29vbmZQYTl2aDNveFBhZF9IV3REMFM2QVBVbE95UjRQV2IxYUpQdlVrTUV1N0NJd1dlQzJBMlA5VDZ0R1UxVVZjeTRDYW9rVDRuQWJWb281X2VwZkxYVVN6bjlKNDNNci1iZ1d0czhVMXRVeEtuTXdBdmg1MjhqQUY2LUVncWlELUVWVHFhX1hXWWVqU1lxb1E3d1EyQXRHZ2YzUTZsYmhQSHZBZjJHNE53Tjc5OUlGVk93Rjh4ajhTcEY4TVc3U3drZC0yaUxaclRuYlo4Rk9GbkMSBBoCCAAasgcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjgcIABAAGAAgAConCghkb2xwaGlucxWVK_c_Ggdkb2xwaGluGg1pdjtwO2RvbHBoaW5zKjMKBnJldHVybhWK4Vw-GgZyZWZ1bmQaCHJldHVybmVkGglyZXR1cm5pbmcaB3JldHVybnMqwgEKBnZlbmljZRULtrxAGgx2ZW5pY2VjYW5hbHMaFGdlbzs0Nzc5MzAwMDAwMDAwMDAwGhRnZW87NDc3OTUwMDAwMDAwMDAwMBoUZ2VvOzQ3N2JmMDAwMDAwMDAwMDAaFGdlbzs0NzdjMTAwMDAwMDAwMDAwGhRnZW87NDc3ZTkwMDAwMDAwMDAwMBoUZ2VvOzQ3N2ViMDAwMDAwMDAwMDAaFGdlbzs0NzdlZDAwMDAwMDAwMDAwGgtpdjtwO3ZlbmljZSo6CgZjYW5hbHMVjZYOQBoFY2FuYWwaCXdhdGVyd2F5cxoMdmVuaWNlY2FuYWxzGgtpdjtwO2NhbmFsczKiAi9nb3RvP3VybD1DQUVTelFFQjZ6c3dGVHphNlU3RnlxM3U1bG9wMmEyTEg5dG9pM3dIMWdsbE1vZWNyRWoxS29MUi0wbzBCTHN5Z0ZoTzNvb25mUGE5dmgzb3hQYWRfSFd0RDBTNkFQVWxPeVI0UFdiMWFKUHZVa01FdTdDSXdXZUMyQTJQOVQ2dEdVMVVWY3k0Q2Fva1Q0bkFiVm9vNV9lcGZMWFVTem45SjQzTXItYmdXdHM4VTF0VXhLbk13QXZoNTI4akFGNi1FZ3FpRC1FVlRxYV9YV1llalNZcW9RN3dRMkF0R2dmM1E2bGJoUEh2QWYyRzROd043OTlJRlZPd0Y4eGo4U3BGOE1XN1N3a2QtMmlMWnJUbmJaOEZPRm5DOkrigJxNaW1tbyB0aGUgPGI-ZG9scGhpbjwvYj7igJ0gaGFzIGJlZW4gcmVwZWF0ZWRseSA8Yj5yZXR1cm5pbmc8L2I-IHRvIC4uLkKzATxiPlNpbmNlIHN1bW1lciAyMDI1LCBhIHdpbGQgYm90dGxlbm9zZSBkb2xwaGluIGhhcyBiZWVuIHN3aW1taW5nIHRocm91Z2ggVmVuaWNlJiMzOTtzIGxhZ29vbiBhbmQgY2FuYWxzPC9iPiwgc3VycHJpc2luZyB0b3VyaXN0cyBhbmQgbG9jYWxzIHdpdGggcGxheWZ1bCBhcHBlYXJhbmNlcy4gQnV0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZUemE2VTdGeXEzdTVsb3AyYTJMSDl0b2kzd0gxZ2xsTW9lY3JFajFLb0xSLTBvMEJMc3lnRmhPM29vbmZQYTl2aDNveFBhZF9IV3REMFM2QVBVbE95UjRQV2IxYUpQdlVrTUV1N0NJd1dlQzJBMlA5VDZ0R1UxVVZjeTRDYW9rVDRuQWJWb281X2VwZkxYVVN6bjlKNDNNci1iZ1d0czhVMXRVeEtuTXdBdmg1MjhqQUY2LUVncWlELUVWVHFhX1hXWWVqU1lxb1E3d1EyQXRHZ2YzUTZsYmhQSHZBZjJHNE53Tjc5OUlGVk93Rjh4ajhTcEY4TVc3U3drZC0yaUxaclRuYlo4Rk9GbkMSBBoCCAAasgcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjgcIABAAGAAgAConCghkb2xwaGlucxWVK_c_Ggdkb2xwaGluGg1pdjtwO2RvbHBoaW5zKjMKBnJldHVybhWK4Vw-GgZyZWZ1bmQaCHJldHVybmVkGglyZXR1cm5pbmcaB3JldHVybnMqwgEKBnZlbmljZRULtrxAGgx2ZW5pY2VjYW5hbHMaFGdlbzs0Nzc5MzAwMDAwMDAwMDAwGhRnZW87NDc3OTUwMDAwMDAwMDAwMBoUZ2VvOzQ3N2JmMDAwMDAwMDAwMDAaFGdlbzs0NzdjMTAwMDAwMDAwMDAwGhRnZW87NDc3ZTkwMDAwMDAwMDAwMBoUZ2VvOzQ3N2ViMDAwMDAwMDAwMDAaFGdlbzs0NzdlZDAwMDAwMDAwMDAwGgtpdjtwO3ZlbmljZSo6CgZjYW5hbHMVjZYOQBoFY2FuYWwaCXdhdGVyd2F5cxoMdmVuaWNlY2FuYWxzGgtpdjtwO2NhbmFsczKiAi9nb3RvP3VybD1DQUVTelFFQjZ6c3dGVHphNlU3RnlxM3U1bG9wMmEyTEg5dG9pM3dIMWdsbE1vZWNyRWoxS29MUi0wbzBCTHN5Z0ZoTzNvb25mUGE5dmgzb3hQYWRfSFd0RDBTNkFQVWxPeVI0UFdiMWFKUHZVa01FdTdDSXdXZUMyQTJQOVQ2dEdVMVVWY3k0Q2Fva1Q0bkFiVm9vNV9lcGZMWFVTem45SjQzTXItYmdXdHM4VTF0VXhLbk13QXZoNTI4akFGNi1FZ3FpRC1FVlRxYV9YV1llalNZcW9RN3dRMkF0R2dmM1E2bGJoUEh2QWYyRzROd043OTlJRlZPd0Y4eGo4U3BGOE1XN1N3a2QtMmlMWnJUbmJaOEZPRm5DOkrigJxNaW1tbyB0aGUgPGI-ZG9scGhpbjwvYj7igJ0gaGFzIGJlZW4gcmVwZWF0ZWRseSA8Yj5yZXR1cm5pbmc8L2I-IHRvIC4uLkKzATxiPlNpbmNlIHN1bW1lciAyMDI1LCBhIHdpbGQgYm90dGxlbm9zZSBkb2xwaGluIGhhcyBiZWVuIHN3aW1taW5nIHRocm91Z2ggVmVuaWNlJiMzOTtzIGxhZ29vbiBhbmQgY2FuYWxzPC9iPiwgc3VycHJpc2luZyB0b3VyaXN0cyBhbmQgbG9jYWxzIHdpdGggcGxheWZ1bCBhcHBlYXJhbmNlcy4gQnV0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Facebook · Visit Italy",
+      "read_more_link": "https://www.facebook.com/visititalyofficial/posts/mimmo-the-dolphin-has-been-repeatedly-returning-to-venices-lagoon-despite-effort/1266061952223246/#:~:text=Since%20summer%202025%2C%20a%20wild,magical%2C%20wildlife%20experts%20are%20worried."
+    },
+    {
+      "position": 9,
+      "title": "These dolphins took a day trip up Venice's Grand Canal",
+      "link": "https://www.cnn.com/travel/article/venice-canal-dolphins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVtCOqRZDG1bzD9EEqKIyXJzv3jkhENKnqNOGk2G3bw7s81XeAsELwU36rYFAPf9Zi1qyXAfaxAWMaPSW8EolfXFL431XVdGr1H3IqsYFjW0qC9ogWMi9pWffBxpxxKjLnqOBu9r6XDzA_a5Y&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQFnoECC8QAQ&uoh=1",
+      "displayed_link": "https://www.cnn.com › travel › article › venice-canal-d...",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIF_qoQifkn9UAb7XkgBqfeUizk7pORr4NL2f9AA_uKslHi7ADhPu7QhAcYyiFpZzpZvrgsR3O7mJ_t_PtGmLP_1FcPyiLbbSThf2_wyNuiPMR_Al5TFP4Ds8Vn_maNhWOUCxPwXOpXP39w7jo_4RNj-YeaLDuW0JRUN8Mvw-VpMOir-JH2t_cZXiLj9_IuLxVBf_pMh6Gpiki7FnD0L-BT_tb2Fdj8X_gjuMO-PV3CMaUV-5eLzuThzAtO4zccLOKti6xZCMmL2yor9jn7pH0ys1JQn2yJnej9XbwqH0ZxNNbe92Z4DpPnbaO95H_8dn17CeXFyoLhWbHqYHSFC1BXDAuftw8968-sE4AAA.webp",
+      "date": "Mar 23, 2021",
+      "snippet": "Two dolphins have been spotted swimming up Venice's Grand Canal, and around Giudecca island. They were escorted out of the Venetian lagoon and back to the ...",
+      "snippet_highlighted_words": [
+        "Two dolphins have been spotted swimming up Venice's Grand Canal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Two dolphins have been spotted swimming up Venice's Grand Canal, and around Giudecca island. They were escorted out of the Venetian lagoon and back to the ...",
+          "source_info_link": "https://www.cnn.com/travel/article/venice-canal-dolphins",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIF_qoQifkn9UAb7XkgBqfeUizk7pORr4NL2f9AA_uKslHi7ADhPu7QhAcYyiFpZzpZvrgsR3O7mJ_t_PtGmLP_1FcPyiLbbSThf2_wyNuiPMR_Al5TFP4Ds8Vn_maNhWOUCxPwXOpXP39w7jo_4RNj-YeaLDuW0JRUN8Mvw-VpMOir-JH2t_cZXiLj9_IuLxVBf_pMh6Gpiki7FnD0L-BT_tb2Fdj8X_gjuMO-PV3CMaUV-5eLzuThzAtO4zccLOKti6xZCMmL2yor9jn7pH0ys1JQn2yJnej9XbwqH0ZxNNbe92Z4DpPnbaO95H_8dn17CeXFyoLhWbHqYHSFC1BXDAuftw8968-sE4AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVnRDT3FSWkRHMWJ6RDlFRXFLSXlYSnp2M2praEVOS25xTk9HazJHM2J3N3M4MVhlQXNFTHdVMzZyWUZBUGY5WmkxcXlYQWZheEFXTWFQU1c4RW9sZlhGTDQzMVhWZEdyMUgzSXFzWUZqVzBxQzlvZ1dNaTlwV2ZmQnhweHhLakxucU9CdTlyNlhEekFfYTVZEgQaAggAGr0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwYIABAAGAAgAConCghkb2xwaGlucxVq74FAGgdkb2xwaGluGg1pdjtwO2RvbHBoaW5zKjMKBnJldHVybhUAAAAAGgZyZWZ1bmQaCHJldHVybmVkGglyZXR1cm5pbmcaB3JldHVybnMqwgEKBnZlbmljZRVMtoNAGgx2ZW5pY2VjYW5hbHMaFGdlbzs0Nzc5MzAwMDAwMDAwMDAwGhRnZW87NDc3OTUwMDAwMDAwMDAwMBoUZ2VvOzQ3N2JmMDAwMDAwMDAwMDAaFGdlbzs0NzdjMTAwMDAwMDAwMDAwGhRnZW87NDc3ZTkwMDAwMDAwMDAwMBoUZ2VvOzQ3N2ViMDAwMDAwMDAwMDAaFGdlbzs0NzdlZDAwMDAwMDAwMDAwGgtpdjtwO3ZlbmljZSo6CgZjYW5hbHMVAAAAABoFY2FuYWwaCXdhdGVyd2F5cxoMdmVuaWNlY2FuYWxzGgtpdjtwO2NhbmFsczKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZ0Q09xUlpERzFiekQ5RUVxS0l5WEp6djNqa2hFTktucU5PR2syRzNidzdzODFYZUFzRUx3VTM2cllGQVBmOVppMXF5WEFmYXhBV01hUFNXOEVvbGZYRkw0MzFYVmRHcjFIM0lxc1lGalcwcUM5b2dXTWk5cFdmZkJ4cHh4S2pMbnFPQnU5cjZYRHpBX2E1WTpVVGhlc2UgPGI-ZG9scGhpbnM8L2I-IHRvb2sgYSBkYXkgdHJpcCB1cCA8Yj5WZW5pY2UmIzM5O3M8L2I-IEdyYW5kIDxiPkNhbmFsPC9iPiB8IENOTkKuATxiPlR3byBkb2xwaGlucyBoYXZlIGJlZW4gc3BvdHRlZCBzd2ltbWluZyB1cCBWZW5pY2UmIzM5O3MgR3JhbmQgQ2FuYWw8L2I-LCBhbmQgYXJvdW5kIEdpdWRlY2NhIGlzbGFuZC4gVGhleSB3ZXJlIGVzY29ydGVkIG91dCBvZiB0aGUgVmVuZXRpYW4gbGFnb29uIGFuZCBiYWNrIHRvIHRoZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVnRDT3FSWkRHMWJ6RDlFRXFLSXlYSnp2M2praEVOS25xTk9HazJHM2J3N3M4MVhlQXNFTHdVMzZyWUZBUGY5WmkxcXlYQWZheEFXTWFQU1c4RW9sZlhGTDQzMVhWZEdyMUgzSXFzWUZqVzBxQzlvZ1dNaTlwV2ZmQnhweHhLakxucU9CdTlyNlhEekFfYTVZEgQaAggAGr0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwYIABAAGAAgAConCghkb2xwaGlucxVq74FAGgdkb2xwaGluGg1pdjtwO2RvbHBoaW5zKjMKBnJldHVybhUAAAAAGgZyZWZ1bmQaCHJldHVybmVkGglyZXR1cm5pbmcaB3JldHVybnMqwgEKBnZlbmljZRVMtoNAGgx2ZW5pY2VjYW5hbHMaFGdlbzs0Nzc5MzAwMDAwMDAwMDAwGhRnZW87NDc3OTUwMDAwMDAwMDAwMBoUZ2VvOzQ3N2JmMDAwMDAwMDAwMDAaFGdlbzs0NzdjMTAwMDAwMDAwMDAwGhRnZW87NDc3ZTkwMDAwMDAwMDAwMBoUZ2VvOzQ3N2ViMDAwMDAwMDAwMDAaFGdlbzs0NzdlZDAwMDAwMDAwMDAwGgtpdjtwO3ZlbmljZSo6CgZjYW5hbHMVAAAAABoFY2FuYWwaCXdhdGVyd2F5cxoMdmVuaWNlY2FuYWxzGgtpdjtwO2NhbmFsczKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZ0Q09xUlpERzFiekQ5RUVxS0l5WEp6djNqa2hFTktucU5PR2syRzNidzdzODFYZUFzRUx3VTM2cllGQVBmOVppMXF5WEFmYXhBV01hUFNXOEVvbGZYRkw0MzFYVmRHcjFIM0lxc1lGalcwcUM5b2dXTWk5cFdmZkJ4cHh4S2pMbnFPQnU5cjZYRHpBX2E1WTpVVGhlc2UgPGI-ZG9scGhpbnM8L2I-IHRvb2sgYSBkYXkgdHJpcCB1cCA8Yj5WZW5pY2UmIzM5O3M8L2I-IEdyYW5kIDxiPkNhbmFsPC9iPiB8IENOTkKuATxiPlR3byBkb2xwaGlucyBoYXZlIGJlZW4gc3BvdHRlZCBzd2ltbWluZyB1cCBWZW5pY2UmIzM5O3MgR3JhbmQgQ2FuYWw8L2I-LCBhbmQgYXJvdW5kIEdpdWRlY2NhIGlzbGFuZC4gVGhleSB3ZXJlIGVzY29ydGVkIG91dCBvZiB0aGUgVmVuZXRpYW4gbGFnb29uIGFuZCBiYWNrIHRvIHRoZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "CNN"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=10&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8NMDegQIKxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=10&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAE",
+      "3": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=20&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAG",
+      "4": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=30&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAI",
+      "5": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=40&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAK",
+      "6": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=50&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAM",
+      "7": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=60&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAO",
+      "8": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=70&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAQ",
+      "9": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=80&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAS",
+      "10": "https://www.google.com/search?q=dolphins+return+venice+canals+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=-CmyarPrHoWu5NoPl4yzwAc&start=90&sa=N&sstk=AS6-VmLpve_Vs-TedRlImYTNAS1L4QsjHLxwR47DBv2A_QiQ4_ICwmGddkZ6mmnQ4_oMsblQnDj0ABZwc5kKbIxdKtK_z9nq_ip4XA&ved=2ahUKEwizx7CH0YGXAxUFF1kFHRfGDHgQ8tMDegQIKxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+before%3A2026-01-01&start=90"
+    }
+  }
+}

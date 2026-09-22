@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6aac28d3703f171adfa56865",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-i4f34Au6m_H6dEaVLZOAjN9E6vIkCM7_MtIWck1jMk/6aac28d3703f171adfa56865.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-i4f34Au6m_H6dEaVLZOAjN9E6vIkCM7_MtIWck1jMk/6aac28d3703f171adfa56865.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-i4f34Au6m_H6dEaVLZOAjN9E6vIkCM7_MtIWck1jMk/6aac28d3703f171adfa56865.json_with_pixel_position",
+    "created_at": "2026-09-17 17:52:19 UTC",
+    "processed_at": "2026-09-17 17:52:19 UTC",
+    "google_url": "https://www.google.com/search?q=%22NASA+discovers+a+massive+new+crater+on+the+Moon%22&oq=%22NASA+discovers+a+massive+new+crater+on+the+Moon%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-i4f34Au6m_H6dEaVLZOAjN9E6vIkCM7_MtIWck1jMk/6aac28d3703f171adfa56865.html",
+    "total_time_taken": 0.35
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"NASA discovers a massive new crater on the Moon\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"NASA discovers a massive new crater on the Moon\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.16,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "EAiFW3iczVXNcuI4EH6AfY7hQsDGBDCpck3Jwg4OBPDwE5ILZWQhTLAVLMDAbS_7JPtU-zQrGxtMxiSZOWytqkBqudX9tbo_9Z9_Lx3v9Z8__pqv12_sThCCICgSSskSFxF1BYvtPSTM6JL5aP59v1XKOcQUMYcdRdw7zFr1pF6nv6p0aK9Q8KELaC46okymFsMLbnG3YMJE4H-v38oNLhRZEXvF7VNttho9BPY4KEpiqV7sCpbLFcB_N6BhAgIMoAH1uhL_BL9gi5Dw_yVtnVuOhnHa4sGZ3Bv_pIXi8Kq1ZyMyAEEIkI8unB0GiBswE43udcBGSoBBDC-IwlBDc0bmsSvDjENI7uDjuzAz9rTjRM876Rxfv3kSXIg6RzEBEJ6dXDgjwCQnwQhxqke5awLckMGckA_i5hj1R4D6wICf3Q6FhqwmrnXGYzEEm_DCFYWpz6eS4KA5ihY-C-sZDuoibXabSKxLQXOws5HcWt5vtg_y4WkUiCtTQFOut6SWje3JfCJ-j-SSVKqI9XJNvomIhNiJSSzNpGVD1voHWKOqUWwX1VJCI3jK87uMaTAs_IzAVBirZqXYBICcl3HSDHi-ctBKFkQVDWBcVhnUm6HqKfF8sSNgA1Lnk3VYLg_poxeWtBMIHkfsUtVBUgyX1WQ8n2sk7Qk0LqTEz7vRUJPTZuMnxUsDEPTDVyQB-tMbxnFAooUcgFozgssHurQCzwDiKMKnwiRqLGmnz1qslHJjcHbxx-wRGBq36QzDzPCFqR2hhsUQ-9K1d4zTsjgLAOO_tvqlpy9j0M9VOG1ivrwr_zRt9Oc6frqtiJ3pfrGxx9K23WmXzcdyd_YIsmlC3ekvdBz0vyLSsR-1kn50lUjwC0QiYb190I-0-HRMpEgcXScSR5bZj05v9LkfvY9abaeI9Ek_-nUiwQ-JdPSbSSSaTaS3q0SKIaeIdNmPtOx-dCLSb_Uj-nv9KOIVPk6XzWmzIFeb1L06Wh0ankjeelJgkyF8aXYlb0TgQQKfNqmZu75zLXt5M3HsO1V6WO_tmwnfoHfYzq2Ub5LUAX2Qtx2G6Bb7LG_lXYsxZ4vzHg7yyLfW2M9TL7-e4_wjpR4_kXOXPlVEq1ZzF93DWr4v7IDhOAMv2Ff0pdwz8aE-aNl4U3haVzv-eNPaLHtvVdFT2_sZ7o_2Pxq6udXA_FY29eah4HYXUqvltrode7WrzlDf-YHRYLhp1_bj8UrFQ6uAmpt6YYsXuPfwetC8SePlRXN3enOj98dmhIcplQEtVCFCvdYw5_pI4TVwS0DHBE-EFyOMihQMLcrnAJj3VV4-ao4ha4LZVpFnlYpdQuV6WZTlqjTNuWS9f1Nub3PM85XSv0LkQd0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EAiFW3iczVXNcuI4EH6AfY7hQsDGBDCpck3Jwg4OBPDwE5ILZWQhTLAVLMDAbS_7JPtU-zQrGxtMxiSZOWytqkBqudX9tbo_9Z9_Lx3v9Z8__pqv12_sThCCICgSSskSFxF1BYvtPSTM6JL5aP59v1XKOcQUMYcdRdw7zFr1pF6nv6p0aK9Q8KELaC46okymFsMLbnG3YMJE4H-v38oNLhRZEXvF7VNttho9BPY4KEpiqV7sCpbLFcB_N6BhAgIMoAH1uhL_BL9gi5Dw_yVtnVuOhnHa4sGZ3Bv_pIXi8Kq1ZyMyAEEIkI8unB0GiBswE43udcBGSoBBDC-IwlBDc0bmsSvDjENI7uDjuzAz9rTjRM876Rxfv3kSXIg6RzEBEJ6dXDgjwCQnwQhxqke5awLckMGckA_i5hj1R4D6wICf3Q6FhqwmrnXGYzEEm_DCFYWpz6eS4KA5ihY-C-sZDuoibXabSKxLQXOws5HcWt5vtg_y4WkUiCtTQFOut6SWje3JfCJ-j-SSVKqI9XJNvomIhNiJSSzNpGVD1voHWKOqUWwX1VJCI3jK87uMaTAs_IzAVBirZqXYBICcl3HSDHi-ctBKFkQVDWBcVhnUm6HqKfF8sSNgA1Lnk3VYLg_poxeWtBMIHkfsUtVBUgyX1WQ8n2sk7Qk0LqTEz7vRUJPTZuMnxUsDEPTDVyQB-tMbxnFAooUcgFozgssHurQCzwDiKMKnwiRqLGmnz1qslHJjcHbxx-wRGBq36QzDzPCFqR2hhsUQ-9K1d4zTsjgLAOO_tvqlpy9j0M9VOG1ivrwr_zRt9Oc6frqtiJ3pfrGxx9K23WmXzcdyd_YIsmlC3ekvdBz0vyLSsR-1kn50lUjwC0QiYb190I-0-HRMpEgcXScSR5bZj05v9LkfvY9abaeI9Ek_-nUiwQ-JdPSbSSSaTaS3q0SKIaeIdNmPtOx-dCLSb_Uj-nv9KOIVPk6XzWmzIFeb1L06Wh0ankjeelJgkyF8aXYlb0TgQQKfNqmZu75zLXt5M3HsO1V6WO_tmwnfoHfYzq2Ub5LUAX2Qtx2G6Bb7LG_lXYsxZ4vzHg7yyLfW2M9TL7-e4_wjpR4_kXOXPlVEq1ZzF93DWr4v7IDhOAMv2Ff0pdwz8aE-aNl4U3haVzv-eNPaLHtvVdFT2_sZ7o_2Pxq6udXA_FY29eah4HYXUqvltrode7WrzlDf-YHRYLhp1_bj8UrFQ6uAmpt6YYsXuPfwetC8SePlRXN3enOj98dmhIcplQEtVCFCvdYw5_pI4TVwS0DHBE-EFyOMihQMLcrnAJj3VV4-ao4ha4LZVpFnlYpdQuV6WZTlqjTNuWS9f1Nub3PM85XSv0LkQd0"
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "search_metadata": {
+    "id": "6ab229b8bca7e50da8d3c5df",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ziKT_SgBaS88ZN5Fk5VaxvQJv4dCrz2EqaMdhqLw0ik/6ab229b8bca7e50da8d3c5df.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ziKT_SgBaS88ZN5Fk5VaxvQJv4dCrz2EqaMdhqLw0ik/6ab229b8bca7e50da8d3c5df.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ziKT_SgBaS88ZN5Fk5VaxvQJv4dCrz2EqaMdhqLw0ik/6ab229b8bca7e50da8d3c5df.json_with_pixel_position",
+    "created_at": "2026-09-22 07:09:44 UTC",
+    "processed_at": "2026-09-22 07:09:44 UTC",
+    "google_url": "https://www.google.com/search?q=bans+microplastics+drinking+water+before%3A2026-01-01&oq=bans+microplastics+drinking+water+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ziKT_SgBaS88ZN5Fk5VaxvQJv4dCrz2EqaMdhqLw0ik/6ab229b8bca7e50da8d3c5df.html",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "bans microplastics drinking water before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "bans microplastics drinking water before:2026-01-01",
+    "total_results": 121000,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "I39vwHiczVbbcuI4EP2A_Y7hJQFfuARS5ZqShQBPSIK4FCQvLls2ssEXYgEOeZsf2af9qv2alW0ghgDJzMPUqgC15O7jdruPDj__8dxg_u9ffzvL5YLdCkIcxyUahtSzSyT0BYNtAiJMQ49FxPnOwlVEbNdSiBOFvl3YrJVygTBFLNiusoL-xgj1XqtbNMUe6tHa2ixirZBCKLppMHvG7_A6Y4Iu8J_5t3KTL0qsZAel_nxx478svTcLl2RRapQeBcPnDuDPDYQpTOYBQBecANC-hIYx4Gg_3jcg3AHsBk0WlOPBZBMm9smhIYCT2UVZFHiEU39cB6C9DyDnE86DqjRFUtVscwDB2ZueHtkztHaJXXJVL27f7dZazvESHn46TIQXb0pV9T0oH8y3nVxocrGd2VWgVnoAdiAILyUPQ9D0saphcKkZUs8IjuKt3QUSr5BgUd64omBGfJIElzgkNSKW9DMcNsSwLcOac6-z9etIUmGtjbouwTd-vdpoAIGY3M8LDcu2dEcXv6drSZaqYqN8U79OiUTYnkksz6QmnDXXqBqMo3mpW1KlHY3gvj7wMH3E1_BU3VW4dT0ISItxz79P-Y3MDbdyjto-GmFw7x7hjGya4ux7rykDUIFZmx_ipnEfaXScWkIjMEqt1NxC52-qJZzE7wH70QEfx8e3jtTta6btoyv4qKYQDDQOsIM4OsMopx_UsJrR6KWSFj8GOdA7mD3GHn-bkQpQ-gzJeCdNZmk0xzfEC4GSlkeQ59aHSMX8VKM7MDU567apukf8P9kLyetGYIy-ePQdj9bnLglttnw5av88bVC3a3RtpD0AHSKz6a_G47o7XbJibURP0yT0zV9QHPK_IlKmR9pWj84TSfsSkTCG5_UoM9_1KCESpJSeIRLKiPRBjzon9OiYSIjmiPSJHv0qkbRLRFIvEunuFJG0C0RK9OiQSPMDPYKn9WhPpN_Ro9Zv6lHKKzubDsVpNaNnRarVr0-KlYUOAkuGcm1JZ0PDYdTWoIU_Fampv7z1Dcu71l3rVpV_LDfWtc43wlvbKrwophGwK98lUbjwDLZ0CbuyIv5H1A3oVWws7ejKtKdhZN_KolwrihL_FHwvChXRqK6tyZPX6K-1RVvU5-1We1OP38pRsNKCoU4Wz8030MGjh1m7ZwTVmHTD-njS0O7HcmdIY8Mx4OO057Re4_UkVstFcdWz-4vJ9Hmmbya9plPU9c2mbLw8jZ4HuPIY3A-GUrXod0LSf2iYeqs19l6fFzW3OPCaAz2yZ7MozYwptcf6mg1HDqBawY-IwpuvQsEDBmPK-QCfuE5QMDJCPscAt2sAI7XAiKHbbK3YNw2pIsllMi2bkmnXCz5dbhaK3CiwIFKk_wBD0knq",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=I39vwHiczVbbcuI4EP2A_Y7hJQFfuARS5ZqShQBPSIK4FCQvLls2ssEXYgEOeZsf2af9qv2alW0ghgDJzMPUqgC15O7jdruPDj__8dxg_u9ffzvL5YLdCkIcxyUahtSzSyT0BYNtAiJMQ49FxPnOwlVEbNdSiBOFvl3YrJVygTBFLNiusoL-xgj1XqtbNMUe6tHa2ixirZBCKLppMHvG7_A6Y4Iu8J_5t3KTL0qsZAel_nxx478svTcLl2RRapQeBcPnDuDPDYQpTOYBQBecANC-hIYx4Gg_3jcg3AHsBk0WlOPBZBMm9smhIYCT2UVZFHiEU39cB6C9DyDnE86DqjRFUtVscwDB2ZueHtkztHaJXXJVL27f7dZazvESHn46TIQXb0pV9T0oH8y3nVxocrGd2VWgVnoAdiAILyUPQ9D0saphcKkZUs8IjuKt3QUSr5BgUd64omBGfJIElzgkNSKW9DMcNsSwLcOac6-z9etIUmGtjbouwTd-vdpoAIGY3M8LDcu2dEcXv6drSZaqYqN8U79OiUTYnkksz6QmnDXXqBqMo3mpW1KlHY3gvj7wMH3E1_BU3VW4dT0ISItxz79P-Y3MDbdyjto-GmFw7x7hjGya4ux7rykDUIFZmx_ipnEfaXScWkIjMEqt1NxC52-qJZzE7wH70QEfx8e3jtTta6btoyv4qKYQDDQOsIM4OsMopx_UsJrR6KWSFj8GOdA7mD3GHn-bkQpQ-gzJeCdNZmk0xzfEC4GSlkeQ59aHSMX8VKM7MDU567apukf8P9kLyetGYIy-ePQdj9bnLglttnw5av88bVC3a3RtpD0AHSKz6a_G47o7XbJibURP0yT0zV9QHPK_IlKmR9pWj84TSfsSkTCG5_UoM9_1KCESpJSeIRLKiPRBjzon9OiYSIjmiPSJHv0qkbRLRFIvEunuFJG0C0RK9OiQSPMDPYKn9WhPpN_Ro9Zv6lHKKzubDsVpNaNnRarVr0-KlYUOAkuGcm1JZ0PDYdTWoIU_Fampv7z1Dcu71l3rVpV_LDfWtc43wlvbKrwophGwK98lUbjwDLZ0CbuyIv5H1A3oVWws7ejKtKdhZN_KolwrihL_FHwvChXRqK6tyZPX6K-1RVvU5-1We1OP38pRsNKCoU4Wz8030MGjh1m7ZwTVmHTD-njS0O7HcmdIY8Mx4OO057Re4_UkVstFcdWz-4vJ9Hmmbya9plPU9c2mbLw8jZ4HuPIY3A-GUrXod0LSf2iYeqs19l6fFzW3OPCaAz2yZ7MozYwptcf6mg1HDqBawY-IwpuvQsEDBmPK-QCfuE5QMDJCPscAt2sAI7XAiKHbbK3YNw2pIsllMi2bkmnXCz5dbhaK3CiwIFKk_wBD0knq"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Microplastics in water: Occurrence, fate and removal",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169772224000640",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVziGG77ZnbukWiF6y7jeuDDELQCmsgNnclAfEUrVcmT1zydk7aI70kcS9g_oexz6bwI9t5whgr72_R2lGp33ZODlp9k-ZZ8-YAL2wzTXTeez8fbFte3ATYVDDwv3S49Hex1zQbwG_jaC7ZI47EfWxCc_UlUnL1w&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "author": "by S Chandra",
+      "snippet": "Several sources of microplastics have been identified in drinking water. Water having basic pH has been demonstrated to cause the most number of microplastic ...",
+      "snippet_highlighted_words": [
+        "microplastics",
+        "drinking water",
+        "microplastic"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Several sources of microplastics have been identified in drinking water. Water having basic pH has been demonstrated to cause the most number of microplastic ...",
+          "source_info_link": "https://www.sciencedirect.com/science/article/pii/S0169772224000640",
+          "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVnppR0c3N1puYnVrV2lGNnk3amV1RERFTFFDbXNnTm5jbEFmRVVyVmNtVDF6eWRrN2FJNzBrY1M5Z19vZXh6NmJ3STl0NXdoZ3I3Ml9SMmxHcDMzWk9EbHA5ay1aWjgtWUFMMnd6VFhUZWV6OGZiRnRlM0FUWVZERHd2M1M0OUhleDF6UWJ3R19qYUM3Wkk0N0VmV3hDY19VbFVuTDF3EgQaAggAGtIFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArAUIABAAGAAgACpOCgRiYW5zFcEgiT0aA2JhbhoFYmFuZHMaBmJhbm5lZBoHYmFubmluZxoJaXY7cDtiYW5zGgZyZW1vdmUaCWVsaW1pbmF0ZRoGaHVtYW5zKkYKDW1pY3JvcGxhc3RpY3MVeax3QBoObWljcm8gcGxhc3RpY3MaDG1pY3JvcGxhc3RpYxoSaXY7cDttaWNyb3BsYXN0aWNzKjQKCGRyaW5raW5nFT3XQT8aBWRyaW5rGg1kcmlua2luZ3dhdGVyGg1pdjtwO2RyaW5raW5nKhsKBXdhdGVyFS_SVkAaDWRyaW5raW5nd2F0ZXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWemlHRzc3Wm5idWtXaUY2eTdqZXVEREVMUUNtc2dObmNsQWZFVXJWY21UMXp5ZGs3YUk3MGtjUzlnX29leHo2YndJOXQ1d2hncjcyX1IybEdwMzNaT0RscDlrLVpaOC1ZQUwyd3pUWFRlZXo4ZmJGdGUzQVRZVkREd3YzUzQ5SGV4MXpRYndHX2phQzdaSTQ3RWZXeENjX1VsVW5MMXc6QjxiPk1pY3JvcGxhc3RpY3M8L2I-IGluIDxiPndhdGVyPC9iPjogT2NjdXJyZW5jZSwgZmF0ZSBhbmQgcmVtb3ZhbEK7AVNldmVyYWwgc291cmNlcyBvZiA8Yj5taWNyb3BsYXN0aWNzPC9iPiBoYXZlIGJlZW4gaWRlbnRpZmllZCBpbiA8Yj5kcmlua2luZyB3YXRlcjwvYj4uIFdhdGVyIGhhdmluZyBiYXNpYyBwSCBoYXMgYmVlbiBkZW1vbnN0cmF0ZWQgdG8gY2F1c2UgdGhlIG1vc3QgbnVtYmVyIG9mIDxiPm1pY3JvcGxhc3RpYzwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVnppR0c3N1puYnVrV2lGNnk3amV1RERFTFFDbXNnTm5jbEFmRVVyVmNtVDF6eWRrN2FJNzBrY1M5Z19vZXh6NmJ3STl0NXdoZ3I3Ml9SMmxHcDMzWk9EbHA5ay1aWjgtWUFMMnd6VFhUZWV6OGZiRnRlM0FUWVZERHd2M1M0OUhleDF6UWJ3R19qYUM3Wkk0N0VmV3hDY19VbFVuTDF3EgQaAggAGtIFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArAUIABAAGAAgACpOCgRiYW5zFcEgiT0aA2JhbhoFYmFuZHMaBmJhbm5lZBoHYmFubmluZxoJaXY7cDtiYW5zGgZyZW1vdmUaCWVsaW1pbmF0ZRoGaHVtYW5zKkYKDW1pY3JvcGxhc3RpY3MVeax3QBoObWljcm8gcGxhc3RpY3MaDG1pY3JvcGxhc3RpYxoSaXY7cDttaWNyb3BsYXN0aWNzKjQKCGRyaW5raW5nFT3XQT8aBWRyaW5rGg1kcmlua2luZ3dhdGVyGg1pdjtwO2RyaW5raW5nKhsKBXdhdGVyFS_SVkAaDWRyaW5raW5nd2F0ZXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWemlHRzc3Wm5idWtXaUY2eTdqZXVEREVMUUNtc2dObmNsQWZFVXJWY21UMXp5ZGs3YUk3MGtjUzlnX29leHo2YndJOXQ1d2hncjcyX1IybEdwMzNaT0RscDlrLVpaOC1ZQUwyd3pUWFRlZXo4ZmJGdGUzQVRZVkREd3YzUzQ5SGV4MXpRYndHX2phQzdaSTQ3RWZXeENjX1VsVW5MMXc6QjxiPk1pY3JvcGxhc3RpY3M8L2I-IGluIDxiPndhdGVyPC9iPjogT2NjdXJyZW5jZSwgZmF0ZSBhbmQgcmVtb3ZhbEK7AVNldmVyYWwgc291cmNlcyBvZiA8Yj5taWNyb3BsYXN0aWNzPC9iPiBoYXZlIGJlZW4gaWRlbnRpZmllZCBpbiA8Yj5kcmlua2luZyB3YXRlcjwvYj4uIFdhdGVyIGhhdmluZyBiYXNpYyBwSCBoYXMgYmVlbiBkZW1vbnN0cmF0ZWQgdG8gY2F1c2UgdGhlIG1vc3QgbnVtYmVyIG9mIDxiPm1pY3JvcGxhc3RpYzwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "ScienceDirect.com",
+      "read_more_link": "https://www.sciencedirect.com/science/article/pii/S0169772224000640#:~:text=Several%20sources%20of%20microplastics%20have,the%20most%20number%20of%20microplastic"
+    },
+    {
+      "position": 2,
+      "title": "Microplastics in our Nation's Waterways - Water Data Labs",
+      "link": "https://labs.waterdata.usgs.gov/visualizations/microplastics/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAV-Zyn1iFFq964b03hEVcv5nyl9-lZuHkGDZzUl9zPtAl90jKXPai9hI17zPPB8xFRDHbtmsSCcx_qKlODFdAx_T53KfxDhoIAndDVIOC6b820v7xtetVi5FhpUb82_T62dMyVciAYG6_4B4Ro8It4E4QiGE0Oy4XGVFs&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://labs.waterdata.usgs.gov › visualizations › micropla...",
+      "date": "Sep 14, 2016",
+      "snippet": "The ban takes effect in 2018. The ban addresses microbeads alone, in part because early studies indicated that microbeads were the most common type of ...",
+      "snippet_highlighted_words": [
+        "ban",
+        "ban"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The ban takes effect in 2018. The ban addresses microbeads alone, in part because early studies indicated that microbeads were the most common type of ...",
+          "source_info_link": "https://labs.waterdata.usgs.gov/visualizations/microplastics/index.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEUAb0H___-dE0AZAAAAKklEQVR4AWOAAkYGBnaGBzwMDJYMNckMh_sY5CUYDD4yHGBnaLCByoIBAJT5BkEt95z4AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVi1aeW4xaUZGcTk2NGIwM2hFVmN2NW55bDktbFp1SGtHRFp6VWw5elB0QWw5MGpLWFBhaTloSTE3elBQQjh4RlJESGJ0bXNTQ2N4X3FLbE9ERmRBeF9UNTNLZnhEaG9JQW5kRFZJT0M2YjgyMHY3eHRldFZpNUZocFViODJfVDYyZE15VmNpQVlHNl80QjRSbzhJdDRFNFFpR0UwT3k0WEdWRnMSBBoCCAAa0gUSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCsBQgAEAAYACAAKk4KBGJhbnMVAAAAABoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxVUnI1AGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVAAAAABoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIV-vRyPxoNZHJpbmtpbmd3YXRlcjK5AS9nb3RvP3VybD1DQUVTZndIck96QVYtWnluMWlGRnE5NjRiMDNoRVZjdjVueWw5LWxadUhrR0RaelVsOXpQdEFsOTBqS1hQYWk5aEkxN3pQUEI4eEZSREhidG1zU0NjeF9xS2xPREZkQXhfVDUzS2Z4RGhvSUFuZERWSU9DNmI4MjB2N3h0ZXRWaTVGaHBVYjgyX1Q2MmRNeVZjaUFZRzZfNEI0Um84SXQ0RTRRaUdFME95NFhHVkZzOks8Yj5NaWNyb3BsYXN0aWNzPC9iPiBpbiBvdXIgTmF0aW9uJiMzOTtzIFdhdGVyd2F5cyAtIDxiPldhdGVyPC9iPiBEYXRhIExhYnNCrQFUaGUgPGI-YmFuPC9iPiB0YWtlcyBlZmZlY3QgaW4gMjAxOC4gVGhlIDxiPmJhbjwvYj4gYWRkcmVzc2VzIG1pY3JvYmVhZHMgYWxvbmUsIGluIHBhcnQgYmVjYXVzZSBlYXJseSBzdHVkaWVzIGluZGljYXRlZCB0aGF0IG1pY3JvYmVhZHMgd2VyZSB0aGUgbW9zdCBjb21tb24gdHlwZSBvZiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVi1aeW4xaUZGcTk2NGIwM2hFVmN2NW55bDktbFp1SGtHRFp6VWw5elB0QWw5MGpLWFBhaTloSTE3elBQQjh4RlJESGJ0bXNTQ2N4X3FLbE9ERmRBeF9UNTNLZnhEaG9JQW5kRFZJT0M2YjgyMHY3eHRldFZpNUZocFViODJfVDYyZE15VmNpQVlHNl80QjRSbzhJdDRFNFFpR0UwT3k0WEdWRnMSBBoCCAAa0gUSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCsBQgAEAAYACAAKk4KBGJhbnMVAAAAABoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxVUnI1AGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVAAAAABoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIV-vRyPxoNZHJpbmtpbmd3YXRlcjK5AS9nb3RvP3VybD1DQUVTZndIck96QVYtWnluMWlGRnE5NjRiMDNoRVZjdjVueWw5LWxadUhrR0RaelVsOXpQdEFsOTBqS1hQYWk5aEkxN3pQUEI4eEZSREhidG1zU0NjeF9xS2xPREZkQXhfVDUzS2Z4RGhvSUFuZERWSU9DNmI4MjB2N3h0ZXRWaTVGaHBVYjgyX1Q2MmRNeVZjaUFZRzZfNEI0Um84SXQ0RTRRaUdFME95NFhHVkZzOks8Yj5NaWNyb3BsYXN0aWNzPC9iPiBpbiBvdXIgTmF0aW9uJiMzOTtzIFdhdGVyd2F5cyAtIDxiPldhdGVyPC9iPiBEYXRhIExhYnNCrQFUaGUgPGI-YmFuPC9iPiB0YWtlcyBlZmZlY3QgaW4gMjAxOC4gVGhlIDxiPmJhbjwvYj4gYWRkcmVzc2VzIG1pY3JvYmVhZHMgYWxvbmUsIGluIHBhcnQgYmVjYXVzZSBlYXJseSBzdHVkaWVzIGluZGljYXRlZCB0aGF0IG1pY3JvYmVhZHMgd2VyZSB0aGUgbW9zdCBjb21tb24gdHlwZSBvZiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "USGS (.gov)",
+      "read_more_link": "https://labs.waterdata.usgs.gov/visualizations/microplastics/index.html#:~:text=The%20ban%20takes%20effect%20in,microplastic%20found%20in%20aquatic%20ecosystems."
+    },
+    {
+      "position": 3,
+      "title": "Microplastics - Philadelphia Water Department",
+      "link": "https://water.phila.gov/sustainability/watershed-protection/microplastics/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFdBfiNvP-J7Ah0rCgps-pM5LUK4UkzKpjrJKZ5dwK21ihsS5ASNsDH2lh-h1iBZrspx6dp5vl02cMfhQiKWU_d0mZhmVAZLOAV8LpOluqqTnpW2p97P0_DWvXgXT5gBtpl5T14hOoePkPDy7-lmHnNCTQTHxyPygzgpnlsqC&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://water.phila.gov › watershed-protection › micropl...",
+      "date": "Mar 25, 2022",
+      "snippet": "The vast majority of microplastics in the water supply are removed at the drinking water and wastewater treatment plants through filtration. · While ...",
+      "snippet_highlighted_words": [
+        "microplastics",
+        "drinking water"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The vast majority of microplastics in the water supply are removed at the drinking water and wastewater treatment plants through filtration. · While ...",
+          "source_info_link": "https://water.phila.gov/sustainability/watershed-protection/microplastics/",
+          "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vsSafgECru2D0AGVNQAgwTaWe2F_xoWePQTTIZgZnztOdIgfCO8BhYv1w4AAA_vYGDBzCIQ8LfBRXU_5ez0VOH5bVkDH_IvnrmWG9fwdlDE2ZiDllIIVypXiZtK8pCvGUdN597XRDma3787pIEFkhtP-r3bAWwzm_wV1nWLKWKfLfCkTn93FsOtm3w080lR5v13apTzyYGwSC8hpvef-ePIV2cTEZWN1DgZ6vFusg39vpFCT31NLoNPMDSt-V933xwz_oFqnRo91SBfiP0t6eTpdOsaJl76yx__6lSaJRT_p0LbJXuwa5G1Aw21r9ZzPLfYi-nGv1-x_tVef0lH_weXRnG3x7WhBUw9cVnUgT19Tc0yjay9abWza1hp-ytz2n95yLd7HoAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZkQmZpTnZQLUo3QWgwckNncHMtcE01TFVLNFVrektwanJKS1o1ZHdLMjFpaHNTNUFTTnNESDJsaC1oMWlCWnJzcHg2ZHA1dmwwMmNNZmhRaUtXVV9kMG1aaG1WQVpMT0FWOExwT2x1cXFUbnBXMnA5N1AwX0RXdlhnWFQ1Z0J0cGw1VDE0aE9vZVBrUER5Ny1sbUhuTkNUUVRIeHlQeWd6Z3BubHNxQxIEGgIIABrFBRICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQJ8FCAAQABgAIAAqTgoEYmFucxUAAAAAGgNiYW4aBWJhbmRzGgZiYW5uZWQaB2Jhbm5pbmcaCWl2O3A7YmFucxoGcmVtb3ZlGgllbGltaW5hdGUaBmh1bWFucypGCg1taWNyb3BsYXN0aWNzFVR9v0AaDm1pY3JvIHBsYXN0aWNzGgxtaWNyb3BsYXN0aWMaEml2O3A7bWljcm9wbGFzdGljcyo0Cghkcmlua2luZxVCqvM_GgVkcmluaxoNZHJpbmtpbmd3YXRlchoNaXY7cDtkcmlua2luZyobCgV3YXRlchV0XbNAGg1kcmlua2luZ3dhdGVyMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZkQmZpTnZQLUo3QWgwckNncHMtcE01TFVLNFVrektwanJKS1o1ZHdLMjFpaHNTNUFTTnNESDJsaC1oMWlCWnJzcHg2ZHA1dmwwMmNNZmhRaUtXVV9kMG1aaG1WQVpMT0FWOExwT2x1cXFUbnBXMnA5N1AwX0RXdlhnWFQ1Z0J0cGw1VDE0aE9vZVBrUER5Ny1sbUhuTkNUUVRIeHlQeWd6Z3BubHNxQzo0PGI-TWljcm9wbGFzdGljczwvYj4gLSBQaGlsYWRlbHBoaWEgV2F0ZXIgRGVwYXJ0bWVudEKyAVRoZSB2YXN0IG1ham9yaXR5IG9mIDxiPm1pY3JvcGxhc3RpY3M8L2I-IGluIHRoZSB3YXRlciBzdXBwbHkgYXJlIHJlbW92ZWQgYXQgdGhlIDxiPmRyaW5raW5nIHdhdGVyPC9iPiBhbmQgd2FzdGV3YXRlciB0cmVhdG1lbnQgcGxhbnRzIHRocm91Z2ggZmlsdHJhdGlvbi4gJm1pZGRvdDsgV2hpbGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZkQmZpTnZQLUo3QWgwckNncHMtcE01TFVLNFVrektwanJKS1o1ZHdLMjFpaHNTNUFTTnNESDJsaC1oMWlCWnJzcHg2ZHA1dmwwMmNNZmhRaUtXVV9kMG1aaG1WQVpMT0FWOExwT2x1cXFUbnBXMnA5N1AwX0RXdlhnWFQ1Z0J0cGw1VDE0aE9vZVBrUER5Ny1sbUhuTkNUUVRIeHlQeWd6Z3BubHNxQxIEGgIIABrFBRICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQJ8FCAAQABgAIAAqTgoEYmFucxUAAAAAGgNiYW4aBWJhbmRzGgZiYW5uZWQaB2Jhbm5pbmcaCWl2O3A7YmFucxoGcmVtb3ZlGgllbGltaW5hdGUaBmh1bWFucypGCg1taWNyb3BsYXN0aWNzFVR9v0AaDm1pY3JvIHBsYXN0aWNzGgxtaWNyb3BsYXN0aWMaEml2O3A7bWljcm9wbGFzdGljcyo0Cghkcmlua2luZxVCqvM_GgVkcmluaxoNZHJpbmtpbmd3YXRlchoNaXY7cDtkcmlua2luZyobCgV3YXRlchV0XbNAGg1kcmlua2luZ3dhdGVyMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZkQmZpTnZQLUo3QWgwckNncHMtcE01TFVLNFVrektwanJKS1o1ZHdLMjFpaHNTNUFTTnNESDJsaC1oMWlCWnJzcHg2ZHA1dmwwMmNNZmhRaUtXVV9kMG1aaG1WQVpMT0FWOExwT2x1cXFUbnBXMnA5N1AwX0RXdlhnWFQ1Z0J0cGw1VDE0aE9vZVBrUER5Ny1sbUhuTkNUUVRIeHlQeWd6Z3BubHNxQzo0PGI-TWljcm9wbGFzdGljczwvYj4gLSBQaGlsYWRlbHBoaWEgV2F0ZXIgRGVwYXJ0bWVudEKyAVRoZSB2YXN0IG1ham9yaXR5IG9mIDxiPm1pY3JvcGxhc3RpY3M8L2I-IGluIHRoZSB3YXRlciBzdXBwbHkgYXJlIHJlbW92ZWQgYXQgdGhlIDxiPmRyaW5raW5nIHdhdGVyPC9iPiBhbmQgd2FzdGV3YXRlciB0cmVhdG1lbnQgcGxhbnRzIHRocm91Z2ggZmlsdHJhdGlvbi4gJm1pZGRvdDsgV2hpbGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Philadelphia Water Department (.gov)",
+      "read_more_link": "https://water.phila.gov/sustainability/watershed-protection/microplastics/#:~:text=The%20vast%20majority%20of%20microplastics,wastewater%20treatment%20plants%20through%20filtration.&text=While%20microplastics%20are%20a%20global,of%20microplastics%20here%20in%20Philadelphia."
+    },
+    {
+      "position": 4,
+      "title": "The Mega-Crisis of Microplastics in Our Drinking Water",
+      "link": "https://www.foodandwaterwatch.org/2024/11/25/microplastics-drinking-water-petition/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFZZDvloTMqBu8jAJY6ulOQbYMprN3dRq-9LEzfCBEY_hghNh39eMMerfLABTSz5v4K3i2QObfkL6LauLzXQyDkeSJp3vPvz1HkTN3ZVloRD2ELeZ54gH7VShY_D1kAIr0SSPd7okhv5w6mQf72j3rg7EfiTHnNYi-g_TlKuirtmSpF7CYjFC&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.foodandwaterwatch.org › 2024/11/25 › mi...",
+      "date": "Nov 25, 2024",
+      "snippet": "A growing body of research suggests microplastics are a major health risk and widespread in our drinking water. The EPA can and must address this.",
+      "snippet_highlighted_words": [
+        "microplastics are a major health risk and widespread in our drinking water"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A growing body of research suggests microplastics are a major health risk and widespread in our drinking water. The EPA can and must address this.",
+          "source_info_link": "https://www.foodandwaterwatch.org/2024/11/25/microplastics-drinking-water-petition/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEwAVrcAVrcAVbcAVrgAV7gAV7gAV7gAV7gAV7gAV7gAV7gAVrcAV7hvJedAAAAADnRSTlMAIi8OV9_vuYukdv5B0FEdAUYAAACGSURBVHgBY6AFEDJA4rCElYc1ILiRQLnVCjAe9wEgwbwJxo0Bk9ZQHk8BxIAJEC6vAITeAKHYoKqKIJQtlNuCzsVUzFI7G-rABCA-uXt3xASYRUyzd-_eyxAEcRsDg_Tu3VEGDNZgi3OApmxrBDk3A0h4Ax3OA_EGV-7MMrgHQfJnBKgbnAAThhrOoK3akAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaWkR2bG9UTXFCdThqQUpZNnVsT1FiWU1wck4zZFJxLTlMRXpmQ0JFWV9oZ2hOaDM5ZU1NZXJmTEFCVFN6NXY0SzNpMlFPYmZrTDZMYXVMelhReURrZVNKcDN2UHZ6MUhrVE4zWlZsb1JEMkVMZVo1NGdIN1ZTaFlfRDFrQUlyMFNTUGQ3b2todjV3Nm1RZjcyajNyZzdFZmlUSG5OWWktZ19UbEt1aXJ0bVNwRjdDWWpGQxIEGgIIABrIBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKIFCAAQABgAIAAqTgoEYmFucxUAAAAAGgNiYW4aBWJhbmRzGgZiYW5uZWQaB2Jhbm5pbmcaCWl2O3A7YmFucxoGcmVtb3ZlGgllbGltaW5hdGUaBmh1bWFucypGCg1taWNyb3BsYXN0aWNzFW5ZoEAaDm1pY3JvIHBsYXN0aWNzGgxtaWNyb3BsYXN0aWMaEml2O3A7bWljcm9wbGFzdGljcyo0Cghkcmlua2luZxUIu5lAGgVkcmluaxoNZHJpbmtpbmd3YXRlchoNaXY7cDtkcmlua2luZyobCgV3YXRlchUQsrFAGg1kcmlua2luZ3dhdGVyMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaWkR2bG9UTXFCdThqQUpZNnVsT1FiWU1wck4zZFJxLTlMRXpmQ0JFWV9oZ2hOaDM5ZU1NZXJmTEFCVFN6NXY0SzNpMlFPYmZrTDZMYXVMelhReURrZVNKcDN2UHZ6MUhrVE4zWlZsb1JEMkVMZVo1NGdIN1ZTaFlfRDFrQUlyMFNTUGQ3b2todjV3Nm1RZjcyajNyZzdFZmlUSG5OWWktZ19UbEt1aXJ0bVNwRjdDWWpGQzpEVGhlIE1lZ2EtQ3Jpc2lzIG9mIDxiPk1pY3JvcGxhc3RpY3M8L2I-IGluIE91ciA8Yj5Ecmlua2luZyBXYXRlcjwvYj5CmQFBIGdyb3dpbmcgYm9keSBvZiByZXNlYXJjaCBzdWdnZXN0cyA8Yj5taWNyb3BsYXN0aWNzIGFyZSBhIG1ham9yIGhlYWx0aCByaXNrIGFuZCB3aWRlc3ByZWFkIGluIG91ciBkcmlua2luZyB3YXRlcjwvYj4uIFRoZSBFUEEgY2FuIGFuZCBtdXN0IGFkZHJlc3MgdGhpcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaWkR2bG9UTXFCdThqQUpZNnVsT1FiWU1wck4zZFJxLTlMRXpmQ0JFWV9oZ2hOaDM5ZU1NZXJmTEFCVFN6NXY0SzNpMlFPYmZrTDZMYXVMelhReURrZVNKcDN2UHZ6MUhrVE4zWlZsb1JEMkVMZVo1NGdIN1ZTaFlfRDFrQUlyMFNTUGQ3b2todjV3Nm1RZjcyajNyZzdFZmlUSG5OWWktZ19UbEt1aXJ0bVNwRjdDWWpGQxIEGgIIABrIBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKIFCAAQABgAIAAqTgoEYmFucxUAAAAAGgNiYW4aBWJhbmRzGgZiYW5uZWQaB2Jhbm5pbmcaCWl2O3A7YmFucxoGcmVtb3ZlGgllbGltaW5hdGUaBmh1bWFucypGCg1taWNyb3BsYXN0aWNzFW5ZoEAaDm1pY3JvIHBsYXN0aWNzGgxtaWNyb3BsYXN0aWMaEml2O3A7bWljcm9wbGFzdGljcyo0Cghkcmlua2luZxUIu5lAGgVkcmluaxoNZHJpbmtpbmd3YXRlchoNaXY7cDtkcmlua2luZyobCgV3YXRlchUQsrFAGg1kcmlua2luZ3dhdGVyMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaWkR2bG9UTXFCdThqQUpZNnVsT1FiWU1wck4zZFJxLTlMRXpmQ0JFWV9oZ2hOaDM5ZU1NZXJmTEFCVFN6NXY0SzNpMlFPYmZrTDZMYXVMelhReURrZVNKcDN2UHZ6MUhrVE4zWlZsb1JEMkVMZVo1NGdIN1ZTaFlfRDFrQUlyMFNTUGQ3b2todjV3Nm1RZjcyajNyZzdFZmlUSG5OWWktZ19UbEt1aXJ0bVNwRjdDWWpGQzpEVGhlIE1lZ2EtQ3Jpc2lzIG9mIDxiPk1pY3JvcGxhc3RpY3M8L2I-IGluIE91ciA8Yj5Ecmlua2luZyBXYXRlcjwvYj5CmQFBIGdyb3dpbmcgYm9keSBvZiByZXNlYXJjaCBzdWdnZXN0cyA8Yj5taWNyb3BsYXN0aWNzIGFyZSBhIG1ham9yIGhlYWx0aCByaXNrIGFuZCB3aWRlc3ByZWFkIGluIG91ciBkcmlua2luZyB3YXRlcjwvYj4uIFRoZSBFUEEgY2FuIGFuZCBtdXN0IGFkZHJlc3MgdGhpcy4iAhABSABYAGgA",
+      "source": "Food & Water Watch",
+      "read_more_link": "https://www.foodandwaterwatch.org/2024/11/25/microplastics-drinking-water-petition/#:~:text=A%20growing%20body%20of%20research,can%20and%20must%20address%20this."
+    },
+    {
+      "position": 5,
+      "title": "Fact Sheet: Microplastics and Drinking Water",
+      "link": "https://www.earthday.org/fact-sheet-microplastics-and-drinking-water/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVv-PRitV4lFWSVqUiHgy8n3YzpUJCO40o1suAOWHRpMNaLYkonNHEkkPgNkpZkzqVn8ZvDRoR2qr5MFKWm4FiUSXp_vKpKn8PZB_98z2iYDTRFld0w2cfFOHF2LzCfD2fkXhNbRmFKKu1ronapQDTR5nXLH25Y-Fu&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://www.earthday.org › fact-sheet-microplastics-and-d...",
+      "date": "Mar 6, 2022",
+      "snippet": "Each year, the average American ingests more than 70,000 microplastics in their drinking water supply. · The US passed the Microbead-Free Waters Act of 2015, ...",
+      "snippet_highlighted_words": [
+        "microplastics",
+        "drinking water"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Each year, the average American ingests more than 70,000 microplastics in their drinking water supply. · The US passed the Microbead-Free Waters Act of 2015, ...",
+          "source_info_link": "https://www.earthday.org/fact-sheet-microplastics-and-drinking-water/",
+          "icon": "https://serpapi.com/images/i/UklGRrYBAABXRUJQVlA4IKoBAAAwCACdASogACAAPtE-tFooIigoFAEAGglsAMNjAEC4EAQy_xX_R_6y8N30Y_1gThb-XT2hm60-m4bXGuDEiYFX-YgVDyv4TQOYAAD-_S1rnfnkv2HuLjPmRaX2TSts4P00rUaQP2hs4Vf7Vz763fQWtqD_rRXQ4cM8k6XPovpZxzxCd-0E4cv-EI6cenf40roc3kKEbXiOEKjHWCVUTZcGrVsmL4Jn-Ibh80A8XCyDQRAe-iZr-xz0pDOQ1Su7nx2KGo9zHYZQsQ1xMf3O_ObYwaPd9MdgTkc35tq_Z3pYb7mMXyGa5b2XkE0nWGxPdR7Bqa3bO5A7qMyyb1yumI9yVLrNQBSmcbS_7-BHAX_rLK-JNtlf5G68P_ntqxO7k-Pjjze7P250O1e2cPumHZXmkine2yhbCIfdHC-_KiWV6P8iSYEob6OZeu9E0Z_NBNbUm7-1VE28c1bziHgipFY6VU7WI2HUTVLIsc7aj3gtx-KXxrOx-aPgT7rZTdcjQ_0fXyJ4MNTjzPM5sJmTvbZtWVxd7Ju-ntcM64GSrV2OwfSMgFSHLBgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnYtUFJpdFY0bEZXU1ZxVWlIZ3k4bjNZenBVSkNPNDBvMXN1QU9XSFJwTU5hTFlrb25OSEVra1BnTmtwWmt6cVZuOFp2RFJvUjJxcjVNRktXbTRGaVVTWHBfdktwS244UFpCXzk4ejJpWURUUkZsZDB3MmNmRk9IRjJMekNmRDJma1hoTmJSbUZLS3Uxcm9uYXBRRFRSNW5YTEgyNVktRnUSBBoCCAAa2AUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyBQgAEAAYACAAKk4KBGJhbnMVAAAAABoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxUK8YRAGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVBEqBQBoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIVwXCJQBoNZHJpbmtpbmd3YXRlcjK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZ2LVBSaXRWNGxGV1NWcVVpSGd5OG4zWXpwVUpDTzQwbzFzdUFPV0hScE1OYUxZa29uTkhFa2tQZ05rcFprenFWbjhadkRSb1IycXI1TUZLV200RmlVU1hwX3ZLcEtuOFBaQl85OHoyaVlEVFJGbGQwdzJjZkZPSEYyTHpDZkQyZmtYaE5iUm1GS0t1MXJvbmFwUURUUjVuWExIMjVZLUZ1OkZGYWN0IFNoZWV0OiA8Yj5NaWNyb3BsYXN0aWNzPC9iPiBhbmQgPGI-RHJpbmtpbmcgV2F0ZXI8L2I-IHwgRWFydGggRGF5QrsBRWFjaCB5ZWFyLCB0aGUgYXZlcmFnZSBBbWVyaWNhbiBpbmdlc3RzIG1vcmUgdGhhbiA3MCwwMDAgPGI-bWljcm9wbGFzdGljczwvYj4gaW4gdGhlaXIgPGI-ZHJpbmtpbmcgd2F0ZXI8L2I-IHN1cHBseS4gJm1pZGRvdDsgVGhlIFVTIHBhc3NlZCB0aGUgTWljcm9iZWFkLUZyZWUgV2F0ZXJzIEFjdCBvZiAyMDE1LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnYtUFJpdFY0bEZXU1ZxVWlIZ3k4bjNZenBVSkNPNDBvMXN1QU9XSFJwTU5hTFlrb25OSEVra1BnTmtwWmt6cVZuOFp2RFJvUjJxcjVNRktXbTRGaVVTWHBfdktwS244UFpCXzk4ejJpWURUUkZsZDB3MmNmRk9IRjJMekNmRDJma1hoTmJSbUZLS3Uxcm9uYXBRRFRSNW5YTEgyNVktRnUSBBoCCAAa2AUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyBQgAEAAYACAAKk4KBGJhbnMVAAAAABoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxUK8YRAGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVBEqBQBoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIVwXCJQBoNZHJpbmtpbmd3YXRlcjK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZ2LVBSaXRWNGxGV1NWcVVpSGd5OG4zWXpwVUpDTzQwbzFzdUFPV0hScE1OYUxZa29uTkhFa2tQZ05rcFprenFWbjhadkRSb1IycXI1TUZLV200RmlVU1hwX3ZLcEtuOFBaQl85OHoyaVlEVFJGbGQwdzJjZkZPSEYyTHpDZkQyZmtYaE5iUm1GS0t1MXJvbmFwUURUUjVuWExIMjVZLUZ1OkZGYWN0IFNoZWV0OiA8Yj5NaWNyb3BsYXN0aWNzPC9iPiBhbmQgPGI-RHJpbmtpbmcgV2F0ZXI8L2I-IHwgRWFydGggRGF5QrsBRWFjaCB5ZWFyLCB0aGUgYXZlcmFnZSBBbWVyaWNhbiBpbmdlc3RzIG1vcmUgdGhhbiA3MCwwMDAgPGI-bWljcm9wbGFzdGljczwvYj4gaW4gdGhlaXIgPGI-ZHJpbmtpbmcgd2F0ZXI8L2I-IHN1cHBseS4gJm1pZGRvdDsgVGhlIFVTIHBhc3NlZCB0aGUgTWljcm9iZWFkLUZyZWUgV2F0ZXJzIEFjdCBvZiAyMDE1LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Earth Day",
+      "read_more_link": "https://www.earthday.org/fact-sheet-microplastics-and-drinking-water/#:~:text=Each%20year%2C%20the%20average%20American,in%20their%20drinking%20water%20supply.&text=The%20US%20passed%20the%20Microbead%2DFree,sold%20in%20the%20United%20States."
+    },
+    {
+      "position": 6,
+      "title": "Microplastics in Our Waters, an Unquestionable Concern",
+      "link": "https://extension.psu.edu/microplastics-in-our-waters-an-unquestionable-concern/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFT3YPvTy-G5yCFuznrqQ2RbaILlfcMe4uXiO6lSdEbLDZiox4jeHJspFNgCYt3FNGKMxZOK98sNkzzsmwEURheCQAnCU1TdnxgPpul2_ZHpVlSQadvw7-zyzlP5R5xteVsCuLxN0JzwOYAN_z3dHYTWAW5pYYLKX-kJlHT4TbT7ZdYtv&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://extension.psu.edu › microplastics-in-our-waters-an...",
+      "date": "Jun 2, 2025",
+      "snippet": "Even though PCBs have been banned, they are still present all over the world. Yes. Microplastics are present in both tap water and bottled water.",
+      "snippet_highlighted_words": [
+        "banned",
+        "Microplastics",
+        "water",
+        "water"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Even though PCBs have been banned, they are still present all over the world. Yes. Microplastics are present in both tap water and bottled water.",
+          "source_info_link": "https://extension.psu.edu/microplastics-in-our-waters-an-unquestionable-concern/",
+          "icon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ0zNDAnYryifAOgzcgsmszvxv_SvAI9AAalmZuWnjTw711qrc5innWK_hHas8gXWUNcAAD-8_ouV9KeiSml4sTAOrQGFqdMuZP8pZ7W0a5mWJF7-YwyFDui997yN9C23UZWaqRhRJ6oAKoUEWYqKL4np8a5p32La7RvN73MC6aAC0tAPjj9Bk6FP6vKs9byK--8HtaQLequ0FXfxs9i8woOCzbv-BXs45J_Sseg0JkbREq9ZflOGr3fZFf8oI6-HHY3QoLV7J0507I-8ZNn-qReN9nqfZ8nE7OOkzY6MbpydcQ8O00P8Ma-5mHE6ErbScbuDZMNY_hngV16MEtF4i5wjNFDBUPrXTKZchh_4TvSMgf_-fmvoBLnV1IoWYGqAl3clKCybVZG2K9Wmb7fj3G2fTRzqf_RzqlzlTuxTktiY2yYNdYlAJ05Lj_52w1lI9BwoYiWQ4HxnttBuPoBNV8ZbsUY_5VhSwvyXc3O3yOSNlK4uaEGB47VCMr8vaAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZUM1lQdlR5LUc1eUNGdXpucnFRMlJiYUlMbGZjTWU0dVhpTzZsU2RFYkxEWmlveDRqZUhKc3BGTmdDWXQzRk5HS014Wk9LOThzTmt6enNtd0VVUmhlQ1FBbkNVMVRkbnhnUHB1bDJfWkhwVmxTUWFkdnc3LXp5emxQNVI1eHRlVnNDdUx4TjBKendPWUFOX3ozZEhZVFdBVzVwWVlMS1gta0psSFQ0VGJUN1pkWXR2EgQaAggAGtEFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqwUIABAAGAAgACpOCgRiYW5zFQAAAAAaA2JhbhoFYmFuZHMaBmJhbm5lZBoHYmFubmluZxoJaXY7cDtiYW5zGgZyZW1vdmUaCWVsaW1pbmF0ZRoGaHVtYW5zKkYKDW1pY3JvcGxhc3RpY3MV9XseQBoObWljcm8gcGxhc3RpY3MaDG1pY3JvcGxhc3RpYxoSaXY7cDttaWNyb3BsYXN0aWNzKjQKCGRyaW5raW5nFVf1LT8aBWRyaW5rGg1kcmlua2luZ3dhdGVyGg1pdjtwO2RyaW5raW5nKhsKBXdhdGVyFViplD8aDWRyaW5raW5nd2F0ZXIyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3RlQzWVB2VHktRzV5Q0Z1em5ycVEyUmJhSUxsZmNNZTR1WGlPNmxTZEViTERaaW94NGplSEpzcEZOZ0NZdDNGTkdLTXhaT0s5OHNOa3p6c213RVVSaGVDUUFuQ1UxVGRueGdQcHVsMl9aSHBWbFNRYWR2dzctenl6bFA1UjV4dGVWc0N1THhOMEp6d09ZQU5fejNkSFlUV0FXNXBZWUxLWC1rSmxIVDRUYlQ3WmRZdHY6PTxiPk1pY3JvcGxhc3RpY3M8L2I-IGluIE91ciBXYXRlcnMsIGFuIFVucXVlc3Rpb25hYmxlIENvbmNlcm5CrQFFdmVuIHRob3VnaCBQQ0JzIGhhdmUgYmVlbiA8Yj5iYW5uZWQ8L2I-LCB0aGV5IGFyZSBzdGlsbCBwcmVzZW50IGFsbCBvdmVyIHRoZSB3b3JsZC4gWWVzLiA8Yj5NaWNyb3BsYXN0aWNzPC9iPiBhcmUgcHJlc2VudCBpbiBib3RoIHRhcCA8Yj53YXRlcjwvYj4gYW5kIGJvdHRsZWQgPGI-d2F0ZXI8L2I-LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZUM1lQdlR5LUc1eUNGdXpucnFRMlJiYUlMbGZjTWU0dVhpTzZsU2RFYkxEWmlveDRqZUhKc3BGTmdDWXQzRk5HS014Wk9LOThzTmt6enNtd0VVUmhlQ1FBbkNVMVRkbnhnUHB1bDJfWkhwVmxTUWFkdnc3LXp5emxQNVI1eHRlVnNDdUx4TjBKendPWUFOX3ozZEhZVFdBVzVwWVlMS1gta0psSFQ0VGJUN1pkWXR2EgQaAggAGtEFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqwUIABAAGAAgACpOCgRiYW5zFQAAAAAaA2JhbhoFYmFuZHMaBmJhbm5lZBoHYmFubmluZxoJaXY7cDtiYW5zGgZyZW1vdmUaCWVsaW1pbmF0ZRoGaHVtYW5zKkYKDW1pY3JvcGxhc3RpY3MV9XseQBoObWljcm8gcGxhc3RpY3MaDG1pY3JvcGxhc3RpYxoSaXY7cDttaWNyb3BsYXN0aWNzKjQKCGRyaW5raW5nFVf1LT8aBWRyaW5rGg1kcmlua2luZ3dhdGVyGg1pdjtwO2RyaW5raW5nKhsKBXdhdGVyFViplD8aDWRyaW5raW5nd2F0ZXIyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3RlQzWVB2VHktRzV5Q0Z1em5ycVEyUmJhSUxsZmNNZTR1WGlPNmxTZEViTERaaW94NGplSEpzcEZOZ0NZdDNGTkdLTXhaT0s5OHNOa3p6c213RVVSaGVDUUFuQ1UxVGRueGdQcHVsMl9aSHBWbFNRYWR2dzctenl6bFA1UjV4dGVWc0N1THhOMEp6d09ZQU5fejNkSFlUV0FXNXBZWUxLWC1rSmxIVDRUYlQ3WmRZdHY6PTxiPk1pY3JvcGxhc3RpY3M8L2I-IGluIE91ciBXYXRlcnMsIGFuIFVucXVlc3Rpb25hYmxlIENvbmNlcm5CrQFFdmVuIHRob3VnaCBQQ0JzIGhhdmUgYmVlbiA8Yj5iYW5uZWQ8L2I-LCB0aGV5IGFyZSBzdGlsbCBwcmVzZW50IGFsbCBvdmVyIHRoZSB3b3JsZC4gWWVzLiA8Yj5NaWNyb3BsYXN0aWNzPC9iPiBhcmUgcHJlc2VudCBpbiBib3RoIHRhcCA8Yj53YXRlcjwvYj4gYW5kIGJvdHRsZWQgPGI-d2F0ZXI8L2I-LiICEAFIAFgAaAA",
+      "source": "Penn State Extension"
+    },
+    {
+      "position": 7,
+      "title": "Microplastics in drinking water: a macro issue | Water Supply",
+      "link": "https://iwaponline.com/ws/article/22/5/5650/88579/Microplastics-in-drinking-water-a-macro-issue",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFbOJSLq2BSB3ggPOovYcmimw5wFC2GBVnMWCRyI08GS74hucoRGrxc9RdOyh-cyFL5ncISv1PRDI_Y7ECN4jnmfvnYyyuHfOdBG7Lk0Tpk05Ivg1rQ1RhelnuRjWd3GzicRVffpuPM_e2rNmocZDPhtIOUoHyydE6Le-DUjWC5jiw8Ol1v7j_EU76Oy9fYnFJ9xF&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://iwaponline.com › article › Microplastics-in-drink...",
+      "date": "May 3, 2022",
+      "snippet": "Microplastics (both primary and secondary) pollute drinking water sources primarily through discharge of sewage/wastewater treatment plant effluent and surface ...",
+      "snippet_highlighted_words": [
+        "Microplastics",
+        "drinking water"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Microplastics (both primary and secondary) pollute drinking water sources primarily through discharge of sewage/wastewater treatment plant effluent and surface ...",
+          "source_info_link": "https://iwaponline.com/ws/article/22/5/5650/88579/Microplastics-in-drinking-water-a-macro-issue",
+          "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAADQBgCdASocABwAPtEutFooIagoGAEAGglmAMhnSApX5ZR-oNnZ-jfYDGWLVkL5IHbwli3w18A6Vw3taj39eAAA_vYGDislpps7PCrFBUXO3tUsUNnap2NcrOeqwFvDTNdptmvmOy8km3k3gTIJte7v_m5V93u_saLxN2zl-LvVxaM0HR3ZBb298KOlK1P3ue1tmfcOsDsJTNocqcxszaBB_Gum9Et399vuuiP3pU1QxOaiP-9D44Gfyg_fDQ9Ad_5d34YcmoduvKbz_Epjh0R3AQz1_8HlsR-_t_h3dqWP295tKcn0lA7qTsf4XnvNvKaRdb2_qczHJasY_op1H9Mdw3u52xaoGVsdrhiHMMhzvSYe1fnP_FeoMxlTlcZ1W78fiTRtehbQMtJd14yVq-dnB06Ns_mUR7RbhirNxv_7ISXBIGo7L-5u6O3vcHk6cB8HAV4AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZiT0pTTHEyQlNCM2dnUE9vdlljbWltdzV3RkMyR0JWbk1XQ1J5STA4R1M3NGh1Y29SR3J4YzlSZE95aC1jeUZMNW5jSVN2MVBSRElfWTdFQ040am5tZnZuWXl5dUhmT2RCRzdMazBUcGswNUl2ZzFyUTFSaGVsbnVSaldkM0d6aWNSVmZmcHVQTV9lMnJObW9jWkRQaHRJT1VvSHl5ZEU2TGUtRFVqV0M1aml3OE9sMXY3al9FVTc2T3k5ZlluRko5eEYSBBoCCAAa_gUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDYBQgAEAAYACAAKk4KBGJhbnMVSQpTPRoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxWIw4JAGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVGv58QBoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIVpg6vQBoNZHJpbmtpbmd3YXRlcjLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGYk9KU0xxMkJTQjNnZ1BPb3ZZY21pbXc1d0ZDMkdCVm5NV0NSeUkwOEdTNzRodWNvUkdyeGM5UmRPeWgtY3lGTDVuY0lTdjFQUkRJX1k3RUNONGpubWZ2bll5eXVIZk9kQkc3TGswVHBrMDVJdmcxclExUmhlbG51UmpXZDNHemljUlZmZnB1UE1fZTJyTm1vY1pEUGh0SU9Vb0h5eWRFNkxlLURValdDNWppdzhPbDF2N2pfRVU3Nk95OWZZbkZKOXhGOk08Yj5NaWNyb3BsYXN0aWNzPC9iPiBpbiA8Yj5kcmlua2luZyB3YXRlcjwvYj46IGEgbWFjcm8gaXNzdWUgLSBJV0EgUHVibGlzaGluZ0K2ATxiPk1pY3JvcGxhc3RpY3M8L2I-IChib3RoIHByaW1hcnkgYW5kIHNlY29uZGFyeSkgcG9sbHV0ZSA8Yj5kcmlua2luZyB3YXRlcjwvYj4gc291cmNlcyBwcmltYXJpbHkgdGhyb3VnaCBkaXNjaGFyZ2Ugb2Ygc2V3YWdlL3dhc3Rld2F0ZXIgdHJlYXRtZW50IHBsYW50IGVmZmx1ZW50IGFuZCBzdXJmYWNlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZiT0pTTHEyQlNCM2dnUE9vdlljbWltdzV3RkMyR0JWbk1XQ1J5STA4R1M3NGh1Y29SR3J4YzlSZE95aC1jeUZMNW5jSVN2MVBSRElfWTdFQ040am5tZnZuWXl5dUhmT2RCRzdMazBUcGswNUl2ZzFyUTFSaGVsbnVSaldkM0d6aWNSVmZmcHVQTV9lMnJObW9jWkRQaHRJT1VvSHl5ZEU2TGUtRFVqV0M1aml3OE9sMXY3al9FVTc2T3k5ZlluRko5eEYSBBoCCAAa_gUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDYBQgAEAAYACAAKk4KBGJhbnMVSQpTPRoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxWIw4JAGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVGv58QBoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIVpg6vQBoNZHJpbmtpbmd3YXRlcjLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGYk9KU0xxMkJTQjNnZ1BPb3ZZY21pbXc1d0ZDMkdCVm5NV0NSeUkwOEdTNzRodWNvUkdyeGM5UmRPeWgtY3lGTDVuY0lTdjFQUkRJX1k3RUNONGpubWZ2bll5eXVIZk9kQkc3TGswVHBrMDVJdmcxclExUmhlbG51UmpXZDNHemljUlZmZnB1UE1fZTJyTm1vY1pEUGh0SU9Vb0h5eWRFNkxlLURValdDNWppdzhPbDF2N2pfRVU3Nk95OWZZbkZKOXhGOk08Yj5NaWNyb3BsYXN0aWNzPC9iPiBpbiA8Yj5kcmlua2luZyB3YXRlcjwvYj46IGEgbWFjcm8gaXNzdWUgLSBJV0EgUHVibGlzaGluZ0K2ATxiPk1pY3JvcGxhc3RpY3M8L2I-IChib3RoIHByaW1hcnkgYW5kIHNlY29uZGFyeSkgcG9sbHV0ZSA8Yj5kcmlua2luZyB3YXRlcjwvYj4gc291cmNlcyBwcmltYXJpbHkgdGhyb3VnaCBkaXNjaGFyZ2Ugb2Ygc2V3YWdlL3dhc3Rld2F0ZXIgdHJlYXRtZW50IHBsYW50IGVmZmx1ZW50IGFuZCBzdXJmYWNlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "IWA Publishing",
+      "read_more_link": "https://iwaponline.com/ws/article/22/5/5650/88579/Microplastics-in-drinking-water-a-macro-issue#:~:text=Microplastics%20(both%20primary%20and%20secondary),and%20surface%20run%2Doff%20(Figure%202)."
+    },
+    {
+      "position": 8,
+      "title": "Microplastics in Water and Wastewater: What You…",
+      "link": "https://www.hazenandsawyer.com/horizons/microplastics-in-water-and-wastewater",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFShgkLW72OvUdNjozGlSRa09QTgT9g8GiOON_uPfqyS46ZEEo7qA62Ro356lSvIiy-VfdOh_iqp7VmBlVv52RuxaDvw0yhg6c-G-g9m1SjGYrAxHDbbZt_-Nev1grms5OZvsS1OwTlu6-ygHMGRJCnl7_ilRXOz1XmjxpbHjlSTL&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECA4QAQ&uoh=1",
+      "displayed_link": "https://www.hazenandsawyer.com › Horizons",
+      "date": "Jan 30, 2023",
+      "snippet": "For example, some early studies indicate that ingesting microplastics through drinking water could damage mammalian reproductive systems.",
+      "snippet_highlighted_words": [
+        "microplastics",
+        "drinking water"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For example, some early studies indicate that ingesting microplastics through drinking water could damage mammalian reproductive systems.",
+          "source_info_link": "https://www.hazenandsawyer.com/horizons/microplastics-in-water-and-wastewater",
+          "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAADQBQCdASocABwAPtEutFooIagoGAEAGglAFiGg_IzOeUz5m-1H4dj8cLT_pSXHm9u6RnmIVlIAAP72A07SjjjVFb7Oy0sveokPe5WpVRwJHiCUHuSO73pm3x12iV-Q6_FbH_Fy9i5o_tc_ybd46pv8_7e3_izhe3y0M-6_jftSaMGlCPqeVL3-VDfHDuCilE1a9Qi4HHQRZpeCavsH-Zp_N9-pLXQf32omxwJXyaUfBQzCoqzDb3EgavA_fRZXlArXx-SP7MSfID8FXOd4yNOLg_nGhz_wKJmXoAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTaGdrTFc3Mk92VWROam96R2xTUmEwOVFUZ1Q5ZzhHaU9PTl91UGZxeVM0NlpFRW83cUE2MlJvMzU2bFN2SWl5LVZmZE9oX2lxcDdWbUJsVnY1MlJ1eGFEdncweWhnNmMtRy1nOW0xU2pHWXJBeEhEYmJadF8tTmV2MWdybXM1T1p2c1MxT3dUbHU2LXlnSE1HUkpDbmw3X2lsUlhPejFYbWp4cGJIamxTVEwSBBoCCAAaugUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCUBQgAEAAYACAAKk4KBGJhbnMVAAAAABoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxWQuaFAGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVdrquPxoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIVmlmdQBoNZHJpbmtpbmd3YXRlcjLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGU2hna0xXNzJPdlVkTmpvekdsU1JhMDlRVGdUOWc4R2lPT05fdVBmcXlTNDZaRUVvN3FBNjJSbzM1NmxTdklpeS1WZmRPaF9pcXA3Vm1CbFZ2NTJSdXhhRHZ3MHloZzZjLUctZzltMVNqR1lyQXhIRGJiWnRfLU5ldjFncm1zNU9adnNTMU93VGx1Ni15Z0hNR1JKQ25sN19pbFJYT3oxWG1qeHBiSGpsU1RMOkA8Yj5NaWNyb3BsYXN0aWNzPC9iPiBpbiA8Yj5XYXRlcjwvYj4gYW5kIFdhc3Rld2F0ZXI6IFdoYXQgWW914oCmQpcBRm9yIGV4YW1wbGUsIHNvbWUgZWFybHkgc3R1ZGllcyBpbmRpY2F0ZSB0aGF0IGluZ2VzdGluZyA8Yj5taWNyb3BsYXN0aWNzPC9iPiB0aHJvdWdoIDxiPmRyaW5raW5nIHdhdGVyPC9iPiBjb3VsZCBkYW1hZ2UgbWFtbWFsaWFuIHJlcHJvZHVjdGl2ZSBzeXN0ZW1zLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTaGdrTFc3Mk92VWROam96R2xTUmEwOVFUZ1Q5ZzhHaU9PTl91UGZxeVM0NlpFRW83cUE2MlJvMzU2bFN2SWl5LVZmZE9oX2lxcDdWbUJsVnY1MlJ1eGFEdncweWhnNmMtRy1nOW0xU2pHWXJBeEhEYmJadF8tTmV2MWdybXM1T1p2c1MxT3dUbHU2LXlnSE1HUkpDbmw3X2lsUlhPejFYbWp4cGJIamxTVEwSBBoCCAAaugUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCUBQgAEAAYACAAKk4KBGJhbnMVAAAAABoDYmFuGgViYW5kcxoGYmFubmVkGgdiYW5uaW5nGglpdjtwO2JhbnMaBnJlbW92ZRoJZWxpbWluYXRlGgZodW1hbnMqRgoNbWljcm9wbGFzdGljcxWQuaFAGg5taWNybyBwbGFzdGljcxoMbWljcm9wbGFzdGljGhJpdjtwO21pY3JvcGxhc3RpY3MqNAoIZHJpbmtpbmcVdrquPxoFZHJpbmsaDWRyaW5raW5nd2F0ZXIaDWl2O3A7ZHJpbmtpbmcqGwoFd2F0ZXIVmlmdQBoNZHJpbmtpbmd3YXRlcjLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGU2hna0xXNzJPdlVkTmpvekdsU1JhMDlRVGdUOWc4R2lPT05fdVBmcXlTNDZaRUVvN3FBNjJSbzM1NmxTdklpeS1WZmRPaF9pcXA3Vm1CbFZ2NTJSdXhhRHZ3MHloZzZjLUctZzltMVNqR1lyQXhIRGJiWnRfLU5ldjFncm1zNU9adnNTMU93VGx1Ni15Z0hNR1JKQ25sN19pbFJYT3oxWG1qeHBiSGpsU1RMOkA8Yj5NaWNyb3BsYXN0aWNzPC9iPiBpbiA8Yj5XYXRlcjwvYj4gYW5kIFdhc3Rld2F0ZXI6IFdoYXQgWW914oCmQpcBRm9yIGV4YW1wbGUsIHNvbWUgZWFybHkgc3R1ZGllcyBpbmRpY2F0ZSB0aGF0IGluZ2VzdGluZyA8Yj5taWNyb3BsYXN0aWNzPC9iPiB0aHJvdWdoIDxiPmRyaW5raW5nIHdhdGVyPC9iPiBjb3VsZCBkYW1hZ2UgbWFtbWFsaWFuIHJlcHJvZHVjdGl2ZSBzeXN0ZW1zLiICEAFIAFgAaAA",
+      "source": "Hazen and Sawyer"
+    },
+    {
+      "position": 9,
+      "title": "The World Health Organization says the levels of ...",
+      "link": "https://www.facebook.com/IowasNewsNow/posts/the-world-health-organization-says-the-levels-of-microplastics-in-drinking-water/10156894942213096/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFSCuCZSo5NmpKJ5YRKoERXq6SO1tCfKvHwSfoSt836kqDnI8EpFZAMNKGugxbMLWflia5M7vR6KteL1-7WfPtBl_Z8VFNDMnJlJPyAndFsVJytSftO7djpsROJ1_pHLeK4nYL0pspHZg6AAqYS7-ng8ia768iPKRKLjRW0X8loUInsdMp9lhKc2oOt5w3BuRg7IUWdY687jbiueNSUq21Jn00IFkkQZANOqdOVm0Lo6Rl3pAIMuiDld3VvmwzGC5EAch8w&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8QFnoECBcQAQ&uoh=1",
+      "displayed_link": "3 reactions",
+      "snippet": "The World Health Organization says the levels of microplastics in drinking water don't appear to be risky, but that research has been spotty and more is needed ...",
+      "snippet_highlighted_words": [
+        "microplastics",
+        "drinking water"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The World Health Organization says the levels of microplastics in drinking water don't appear to be risky, but that research has been spotty and more is needed ...",
+          "source_info_link": "https://www.facebook.com/IowasNewsNow/posts/the-world-health-organization-says-the-levels-of-microplastics-in-drinking-water/10156894942213096/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZTQ3VDWlNvNU5tcEtKNVlSS29FUlhxNlNPMXRDZkt2SHdTZm9TdDgzNmtxRG5JOEVwRlpBTU5LR3VneGJNTFdmbGlhNU03dlI2S3RlTDEtN1dmUHRCbF9aOFZGTkRNbkpsSlB5QW5kRnNWSnl0U2Z0TzdkanBzUk9KMV9wSExlSzRuWUwwcHNwSFpnNkFBcVlTNy1uZzhpYTc2OGlQS1JLTGpSVzBYOGxvVUluc2RNcDlsaEtjMm9PdDV3M0J1Umc3SVVXZFk2ODdqYml1ZU5TVXEyMUpuMDBJRmtrUVpBTk9xZE9WbTBMbzZSbDNwQUlNdWlEbGQzVnZtd3pHQzVFQWNoOHcSBBoCCAAavgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACpOCgRiYW5zFQp3Iz0aA2JhbhoFYmFuZHMaBmJhbm5lZBoHYmFubmluZxoJaXY7cDtiYW5zGgZyZW1vdmUaCWVsaW1pbmF0ZRoGaHVtYW5zKkYKDW1pY3JvcGxhc3RpY3MVzAykQBoObWljcm8gcGxhc3RpY3MaDG1pY3JvcGxhc3RpYxoSaXY7cDttaWNyb3BsYXN0aWNzKjQKCGRyaW5raW5nFRodoEAaBWRyaW5rGg1kcmlua2luZ3dhdGVyGg1pdjtwO2RyaW5raW5nKhsKBXdhdGVyFXJdo0AaDWRyaW5raW5nd2F0ZXIynAIvZ290bz91cmw9Q0FFU3lBRUI2enN3RlNDdUNaU281Tm1wS0o1WVJLb0VSWHE2U08xdENmS3ZId1Nmb1N0ODM2a3FEbkk4RXBGWkFNTktHdWd4Yk1MV2ZsaWE1TTd2UjZLdGVMMS03V2ZQdEJsX1o4VkZORE1uSmxKUHlBbmRGc1ZKeXRTZnRPN2RqcHNST0oxX3BITGVLNG5ZTDBwc3BIWmc2QUFxWVM3LW5nOGlhNzY4aVBLUktMalJXMFg4bG9VSW5zZE1wOWxoS2Myb090NXczQnVSZzdJVVdkWTY4N2piaXVlTlNVcTIxSm4wMElGa2tRWkFOT3FkT1ZtMExvNlJsM3BBSU11aURsZDNWdm13ekdDNUVBY2g4dzpJVGhlIFdvcmxkIEhlYWx0aCBPcmdhbml6YXRpb24gc2F5cyB0aGUgbGV2ZWxzIG9mIDxiPm1pY3JvcGxhc3RpY3M8L2I-IC4uLkK6AVRoZSBXb3JsZCBIZWFsdGggT3JnYW5pemF0aW9uIHNheXMgdGhlIGxldmVscyBvZiA8Yj5taWNyb3BsYXN0aWNzPC9iPiBpbiA8Yj5kcmlua2luZyB3YXRlcjwvYj4gZG9uJiMzOTt0IGFwcGVhciB0byBiZSByaXNreSwgYnV0IHRoYXQgcmVzZWFyY2ggaGFzIGJlZW4gc3BvdHR5IGFuZCBtb3JlIGlzIG5lZWRlZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZTQ3VDWlNvNU5tcEtKNVlSS29FUlhxNlNPMXRDZkt2SHdTZm9TdDgzNmtxRG5JOEVwRlpBTU5LR3VneGJNTFdmbGlhNU03dlI2S3RlTDEtN1dmUHRCbF9aOFZGTkRNbkpsSlB5QW5kRnNWSnl0U2Z0TzdkanBzUk9KMV9wSExlSzRuWUwwcHNwSFpnNkFBcVlTNy1uZzhpYTc2OGlQS1JLTGpSVzBYOGxvVUluc2RNcDlsaEtjMm9PdDV3M0J1Umc3SVVXZFk2ODdqYml1ZU5TVXEyMUpuMDBJRmtrUVpBTk9xZE9WbTBMbzZSbDNwQUlNdWlEbGQzVnZtd3pHQzVFQWNoOHcSBBoCCAAavgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACpOCgRiYW5zFQp3Iz0aA2JhbhoFYmFuZHMaBmJhbm5lZBoHYmFubmluZxoJaXY7cDtiYW5zGgZyZW1vdmUaCWVsaW1pbmF0ZRoGaHVtYW5zKkYKDW1pY3JvcGxhc3RpY3MVzAykQBoObWljcm8gcGxhc3RpY3MaDG1pY3JvcGxhc3RpYxoSaXY7cDttaWNyb3BsYXN0aWNzKjQKCGRyaW5raW5nFRodoEAaBWRyaW5rGg1kcmlua2luZ3dhdGVyGg1pdjtwO2RyaW5raW5nKhsKBXdhdGVyFXJdo0AaDWRyaW5raW5nd2F0ZXIynAIvZ290bz91cmw9Q0FFU3lBRUI2enN3RlNDdUNaU281Tm1wS0o1WVJLb0VSWHE2U08xdENmS3ZId1Nmb1N0ODM2a3FEbkk4RXBGWkFNTktHdWd4Yk1MV2ZsaWE1TTd2UjZLdGVMMS03V2ZQdEJsX1o4VkZORE1uSmxKUHlBbmRGc1ZKeXRTZnRPN2RqcHNST0oxX3BITGVLNG5ZTDBwc3BIWmc2QUFxWVM3LW5nOGlhNzY4aVBLUktMalJXMFg4bG9VSW5zZE1wOWxoS2Myb090NXczQnVSZzdJVVdkWTY4N2piaXVlTlNVcTIxSm4wMElGa2tRWkFOT3FkT1ZtMExvNlJsM3BBSU11aURsZDNWdm13ekdDNUVBY2g4dzpJVGhlIFdvcmxkIEhlYWx0aCBPcmdhbml6YXRpb24gc2F5cyB0aGUgbGV2ZWxzIG9mIDxiPm1pY3JvcGxhc3RpY3M8L2I-IC4uLkK6AVRoZSBXb3JsZCBIZWFsdGggT3JnYW5pemF0aW9uIHNheXMgdGhlIGxldmVscyBvZiA8Yj5taWNyb3BsYXN0aWNzPC9iPiBpbiA8Yj5kcmlua2luZyB3YXRlcjwvYj4gZG9uJiMzOTt0IGFwcGVhciB0byBiZSByaXNreSwgYnV0IHRoYXQgcmVzZWFyY2ggaGFzIGJlZW4gc3BvdHR5IGFuZCBtb3JlIGlzIG5lZWRlZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Facebook · Iowa's News Now",
+      "read_more_link": "https://www.facebook.com/IowasNewsNow/posts/the-world-health-organization-says-the-levels-of-microplastics-in-drinking-water/10156894942213096/#:~:text=The%20World%20Health%20Organization%20says,on%20the%20environment%20and%20health."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=10&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8NMDegQIPhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=10&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=20&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=30&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAI",
+      "5": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=40&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAK",
+      "6": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=50&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAM",
+      "7": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=60&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAO",
+      "8": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=70&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAQ",
+      "9": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=80&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAS",
+      "10": "https://www.google.com/search?q=bans+microplastics+drinking+water+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQnsCxxOsg2x95pQ3x7IQQHLp28D6TQ:1790060984345&ei=uCmyao_PFL-b0PEPg6vb-QI&start=90&sa=N&sstk=AS6-VmLNvEjq62KIVvbd_MaiyvwAxtC8ACcdoQL8vn3wWPS_4BLZrTg83KA6vSCyHGgGk_G4myfO1AnXA0u6sb5npg7oZEyosPqOww&ved=2ahUKEwiPi-To0IGXAxW_DTQIHYPVNi8Q8tMDegQIPhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=bans+microplastics+drinking+water+before%3A2026-01-01&start=90"
+    }
+  }
+}

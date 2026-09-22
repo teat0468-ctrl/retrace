@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab2302fbca7e5fb987ca1f4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HZiJ5ah5IrfavcPeKfDS2Bt3VmEWvi9PpNcaZJI6Z-g/6ab2302fbca7e5fb987ca1f4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/HZiJ5ah5IrfavcPeKfDS2Bt3VmEWvi9PpNcaZJI6Z-g/6ab2302fbca7e5fb987ca1f4.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/HZiJ5ah5IrfavcPeKfDS2Bt3VmEWvi9PpNcaZJI6Z-g/6ab2302fbca7e5fb987ca1f4.json_with_pixel_position",
+    "created_at": "2026-09-22 07:37:19 UTC",
+    "processed_at": "2026-09-22 07:37:19 UTC",
+    "google_url": "https://www.google.com/search?q=%22Leaked+documents+prove+NASA+faked+the+moon+landing%22&oq=%22Leaked+documents+prove+NASA+faked+the+moon+landing%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/HZiJ5ah5IrfavcPeKfDS2Bt3VmEWvi9PpNcaZJI6Z-g/6ab2302fbca7e5fb987ca1f4.html",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Leaked documents prove NASA faked the moon landing\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Leaked documents prove NASA faked the moon landing\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "dOOt43iczVXLcqpIGH6AeY7jxkQEMYFUUae6W-KNqGjUxA2FgA0KtAKR6G6eZDbzVPM006B4iyQ5ZzE1LOjbf-3___r782_X8Rf__PGXHUXL8IFh4jguYUKwa5UM4jF6uPENZkbcMDDsnyF5CwzLMSXDDohnFTZrqVIwQqlcsBxJ2aKNvtwGynIcLSO1FwrrqaeSQmpC0qZ6aM2ph_d5yGgM_S1-VGp0UQpLll-qj6rCE6zy5blQ4sqsWOoyukcFwH_3Ne3kr4IFaH4ilEh858MYyAC0jhsIpYN8IpIsMDWJkk2UzK_7lHcR9dEuQNCr9bY1A4DaIZRubhzoNFwU7z3HqT-YePwk2SvW0v_jfiXnC4LcbPCZCfB0cpRrD10I0tBVgHp8YixTOlPGQD26byaH-04yMBAaBNYgGOZHThXaTVBdAFX-qtiqPOJR5kp5rdMdxsS0ccvMNKADyziGbaSTIEz6GT2LZVK3I43bwvXjaGkIK24peG_P7Y3AtlgSM8aUyrlENy1Ts7Xyz3TNcmy1LFbuhZsUSEZ4QFJ4iqTnuFG2YSciSC0pJchmMEKHOqPz-GW6RtdaAKK9KPp4hsjhthE4WMbtM6FdhWnrYjCRwXl9iLi7ZphtNEIAYvmkJMeQEr2PMLoMDScoSfUxTpXxh-CbYHCS6Elha1c69UPW1O8ePGrtg-C5AQhaC3BM-OINwwBC1FTh7oZWfBoTf7yK_RujqheBJO8DfSia2W3vUsgyejrmQ0_aKS5qCEFqlywTsdY-40TBOViF_YvnDF7HIC0PUNAXgM_74HdeTDXDy0X7n8GmPp2psTBaVF7WYrX6so5j0FqhIRTN-DpMiDf9BcYx_ldAyvjITffzgaR-C0gYy_l8tJtmfCSjRB9hjHOAJA9y-CjORI58dJk1GpwA6Qs--lUgyZ8CKQPpVSA9XgOSnAekjI_OgDQ44yN4nY8OQPodPoK_yUcprqzdcE5Ob3OcS1IN-U4Zej1xJDfiFaf7fQ28cEF_YBOAvySpmRc9eLrp3miO-QC5VrQxbzS6QR4ss7CSfnCcYukLyyyaxHjzLD8Ki8uArK1iBwxAcZYeRbZV9Ajxi67um46PqVLBcwMilXVe6Uw2otO_9SexFTuTl8poq_l4Ru7buqItpqsnGdmxuOoO-yHmFut4uWr2OuXxJBpuvPWt0HHwq8Irc6EixuPGOzfhHjtRw3VH2nMY9u8i91m-E-vjar_9Kq9tzM9u351ZQ9NWiy47MBrjldh7Z1lg2NtgOB-nUYWSOOsGG1N3RFcteIEh0d7gMeioYIyBAdArUGllhjqhYwzU-h0tFiyEhq5Z4Vqy7kWWZ7mKMatM2aklFDwcbZYSzxdCP5DYfwG2GEta",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dOOt43iczVXLcqpIGH6AeY7jxkQEMYFUUae6W-KNqGjUxA2FgA0KtAKR6G6eZDbzVPM006B4iyQ5ZzE1LOjbf-3___r782_X8Rf__PGXHUXL8IFh4jguYUKwa5UM4jF6uPENZkbcMDDsnyF5CwzLMSXDDohnFTZrqVIwQqlcsBxJ2aKNvtwGynIcLSO1FwrrqaeSQmpC0qZ6aM2ph_d5yGgM_S1-VGp0UQpLll-qj6rCE6zy5blQ4sqsWOoyukcFwH_3Ne3kr4IFaH4ilEh858MYyAC0jhsIpYN8IpIsMDWJkk2UzK_7lHcR9dEuQNCr9bY1A4DaIZRubhzoNFwU7z3HqT-YePwk2SvW0v_jfiXnC4LcbPCZCfB0cpRrD10I0tBVgHp8YixTOlPGQD26byaH-04yMBAaBNYgGOZHThXaTVBdAFX-qtiqPOJR5kp5rdMdxsS0ccvMNKADyziGbaSTIEz6GT2LZVK3I43bwvXjaGkIK24peG_P7Y3AtlgSM8aUyrlENy1Ts7Xyz3TNcmy1LFbuhZsUSEZ4QFJ4iqTnuFG2YSciSC0pJchmMEKHOqPz-GW6RtdaAKK9KPp4hsjhthE4WMbtM6FdhWnrYjCRwXl9iLi7ZphtNEIAYvmkJMeQEr2PMLoMDScoSfUxTpXxh-CbYHCS6Elha1c69UPW1O8ePGrtg-C5AQhaC3BM-OINwwBC1FTh7oZWfBoTf7yK_RujqheBJO8DfSia2W3vUsgyejrmQ0_aKS5qCEFqlywTsdY-40TBOViF_YvnDF7HIC0PUNAXgM_74HdeTDXDy0X7n8GmPp2psTBaVF7WYrX6so5j0FqhIRTN-DpMiDf9BcYx_ldAyvjITffzgaR-C0gYy_l8tJtmfCSjRB9hjHOAJA9y-CjORI58dJk1GpwA6Qs--lUgyZ8CKQPpVSA9XgOSnAekjI_OgDQ44yN4nY8OQPodPoK_yUcprqzdcE5Ob3OcS1IN-U4Zej1xJDfiFaf7fQ28cEF_YBOAvySpmRc9eLrp3miO-QC5VrQxbzS6QR4ss7CSfnCcYukLyyyaxHjzLD8Ki8uArK1iBwxAcZYeRbZV9Ajxi67um46PqVLBcwMilXVe6Uw2otO_9SexFTuTl8poq_l4Ru7buqItpqsnGdmxuOoO-yHmFut4uWr2OuXxJBpuvPWt0HHwq8Irc6EixuPGOzfhHjtRw3VH2nMY9u8i91m-E-vjar_9Kq9tzM9u351ZQ9NWiy47MBrjldh7Z1lg2NtgOB-nUYWSOOsGG1N3RFcteIEh0d7gMeioYIyBAdArUGllhjqhYwzU-h0tFiyEhq5Z4Vqy7kWWZ7mKMatM2aklFDwcbZYSzxdCP5DYfwG2GEta"
+  }
+}

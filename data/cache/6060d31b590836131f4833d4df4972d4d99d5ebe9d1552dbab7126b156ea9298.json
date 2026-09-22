@@ -1,0 +1,1155 @@
+{
+  "search_metadata": {
+    "id": "6ab16a3299d5f4126a73d535",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rHuMl-vUKBisWFGRa8pSTtchu7SXhZRZMcQ4wUCNbg4/6ab16a3299d5f4126a73d535.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rHuMl-vUKBisWFGRa8pSTtchu7SXhZRZMcQ4wUCNbg4/6ab16a3299d5f4126a73d535.md",
+    "created_at": "2026-09-21 17:32:34 UTC",
+    "processed_at": "2026-09-21 17:32:34 UTC",
+    "google_news_url": "https://news.google.com/search?q=WhatsApp+will+start+charging+for+messages",
+    "raw_html_file": "https://serpapi.com/searches/rHuMl-vUKBisWFGRa8pSTtchu7SXhZRZMcQ4wUCNbg4/6ab16a3299d5f4126a73d535.html",
+    "total_time_taken": 4.36
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "WhatsApp will start charging for messages"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "WhatsApp will charge businesses per message, starting October 1",
+      "source": {
+        "name": "Techpoint Africa",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://techpoint.africa&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Victoria Fakiya"
+        ]
+      },
+      "link": "https://techpoint.africa/insight/techpoint-digest-1414/",
+      "thumbnail": "https://techpoint.africa/wp-content/uploads/2022/08/mourizal-zativa-bNBl5cHclMA-unsplash-1.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkUzEyUjBjMk0wcG9RelJWVFJERUF4aW1CU2dLTWdZdFpJNnZMUWM",
+      "date": "08/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-20T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "WhatsApp to charge businesses per message from October 1",
+      "source": {
+        "name": "Punch Newspapers",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://punchng.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samuel Omotere"
+        ]
+      },
+      "link": "https://punchng.com/whatsapp-to-charge-businesses-per-message-from-october-1/",
+      "thumbnail": "https://cdn.punchng.com/wp-content/uploads/2026/08/28183105/OIP-64_1787938265.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBjMWd5WTI1dFgzUnNSVU5YVFJEYUF4amFBeWdLTWdhVllvYk5KUWc",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Meta Wants to Charge for WhatsApp Messages: Chatbot Builders Beware",
+      "source": {
+        "name": "ICTworks",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ictworks.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ictworks.org/meta-wants-to-charge-for-whatsapp-messages/",
+      "thumbnail": "https://i0.wp.com/www.ictworks.org/wp-content/uploads/2026/07/whatsapp-charges.png?resize=640%2C480&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJWR1F5UTBKcVVteFdXa2gxVFJEZ0F4aUFCU2dLTWdtWlVvaXR1ZVZVTWdF",
+      "date": "07/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-21T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Meta To Charge Nigerian Businesses N14 Per WhatsApp Message From October 1",
+      "source": {
+        "name": "Arise News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.arise.tv&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.arise.tv/meta-to-charge-nigerian-businesses-n14-per-whatsapp-message-from-october-1/",
+      "date": "09/01/2026, 08:26 AM, +0000 UTC",
+      "iso_date": "2026-09-01T08:26:13Z"
+    },
+    {
+      "position": 5,
+      "title": "Meta set to charge WhatsApp Business messages from October",
+      "source": {
+        "name": "Vanguard News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vanguardngr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.vanguardngr.com/2026/08/meta-set-to-charge-whatsapp-business-messages-from-october/",
+      "thumbnail": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/WhatsApp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBVVGRrUlZBd2JtaGZiRWgzVFJDZkF4ampCU2dLTWdhcFJJVE5vUWc",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Meta to start charging Kenyan businesses for WhatsApp service messages",
+      "source": {
+        "name": "People Daily",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://peopledaily.digital&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://peopledaily.digital/business/meta-to-start-charging-kenyan-businesses-for-whatsapp-service-messages",
+      "thumbnail": "https://peopledaily.digital/wp-content/uploads/2026/08/watsapp-business.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlVMWQ2Tkcxd2RsRnZSVE5MVFJDQUJCaUFCQ2dLTWdPZFloSQ",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "WhatsApp’s N14 fee could cost Nigerian MSMEs N14m per million messages",
+      "source": {
+        "name": "Business News Nigeria",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://businessday.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Royal Ibeh"
+        ]
+      },
+      "link": "https://businessday.ng/technology/article/whatsapps-n14-fee-could-cost-nigerian-msmes-n14m-per-million-messages/",
+      "thumbnail": "https://cdn.businessday.ng/wp-content/uploads/2026/08/Whatsapp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNabGRGYW10TlpVTnRRMHBDVFJERUF4aW1CU2dLTWdZVmRZRE5RUVE",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Kenyan businesses face higher online costs as WhatsApp stops free messages",
+      "source": {
+        "name": "Daily Nation",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nation.africa&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dennis Musau"
+        ]
+      },
+      "link": "https://nation.africa/kenya/business/kenyan-businesses-face-higher-online-costs-as-whatsapp-stops-free-messages-5573738",
+      "thumbnail": "https://nation.africa/resource/image/5573740/portrait_ratio1x1/1600/1600/65d7a89e60154e1e6099c24f3a57a44d/nq/whatsapp-chat.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhkR2x3V0ZaU1YyUjNVV2d4VFJDcUJCaXFCQ2dLTWdZQlVJN0tNUVk",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "WhatsApp to charge businesses per message from October 1",
+      "source": {
+        "name": "The Sun Nigeria",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thesun.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chinenye Anuforo"
+        ]
+      },
+      "link": "https://thesun.ng/whatsapp-to-charge-businesses-per-message-from-october-1/",
+      "thumbnail": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/08/Whatsapp4_f92dea.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVUVWRQYUZCdVZIVkZRME14VFJDZkF4ampCU2dLTWdZMVFvNFJvUWM",
+      "date": "08/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-26T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "WhatsApp Business: Meta introduces N14 per-message charges from October 1",
+      "source": {
+        "name": "Tribune Online",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tribuneonlineng.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tribuneonlineng.com/whatsapp-business-meta-introduces-n14-per-message-charges-from-october-1/",
+      "thumbnail": "https://tribuneonlineng.com/wp-content/uploads/2026/08/Whatsapp4_f92dea.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVUVWRQYUZCdVZIVkZRME14VFJDZkF4ampCU2dLTWdZMVFvNFJvUWM",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Meta to Start Charging Kenyan Businesses for WhatsApp Service Messages from October",
+      "source": {
+        "name": "kdrtv.co.ke",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kdrtv.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.kdrtv.co.ke/lifestyle/meta-to-start-charging-kenyan-businesses-for-whatsapp-service-messages-from-october/",
+      "thumbnail": "https://www.kdrtv.co.ke/wp-content/uploads/2026/08/image-2026-08-28T204436.050.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1Tbk5EYW5CQlVrcFVTRXRPVFJERUF4aW5CU2dLTWdrQmVJU0dLdVhBMWdB",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Again! Viral WhatsApp Message Falsely Claims Users Must Share a Disclaimer to Protect their Photos and Avoid Message Charges",
+      "source": {
+        "name": "factcheckafrica.net",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://factcheckafrica.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adisa Habeeb"
+        ]
+      },
+      "link": "https://factcheckafrica.net/again-viral-whatsapp-message-falsely-claims-users-must-share-a-disclaimer-to-protect-their-photos-and-avoid-message-charges/",
+      "thumbnail": "https://factcheckafrica.net/wp-content/uploads/2024/03/images-5.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZkV1ZHWW1KNk5IaGhkR1l5VFJERUF4aW1CU2dLTWdhbFpJNnRyUVk",
+      "date": "08/04/2026, 10:30 AM, +0000 UTC",
+      "iso_date": "2026-08-04T10:30:18Z"
+    },
+    {
+      "position": 13,
+      "title": "Nigerian businesses to pay for WhatsApp messages from October",
+      "source": {
+        "name": "Daily Trust",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dailytrust.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Seun Adeuyi"
+        ]
+      },
+      "link": "https://dailytrust.com/nigerian-businesses-to-pay-for-whatsapp-messages-from-october/",
+      "thumbnail": "https://dailytrust.com/wp-content/uploads/2026/08/WhatsApp-Business-App-logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRNa3BSVXpsMU5sQjFWRjlrVFJDSEF4aVBCaWdLTWdZcGRZN09OUVk",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "EXPLAINER: How WhatsApp’s new business charges will affect Nigerian businesses",
+      "source": {
+        "name": "The Nation Newspaper",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thenationonlineng.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Demilade Ajenifuja"
+        ]
+      },
+      "link": "https://thenationonlineng.net/explainer-how-whatsapps-new-business-charges-will-affect-nigerian-businesses/",
+      "thumbnail": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/08/29081648/Screenshot-2026-08-29-082141.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROMGhZTFZsd1RUQnVaMVptVFJEMUFoakNCQ2dLTWdZcGhZN090UVU",
+      "date": "08/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-29T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Big change coming for WhatsApp Business in South Africa where every reply will cost 12 cents",
+      "source": {
+        "name": "MyBroadband",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mybroadband.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Luis Monzon"
+        ]
+      },
+      "link": "https://mybroadband.co.za/news/business/662921-big-change-coming-for-whatsapp-business-in-south-africa-where-every-reply-will-cost-12-cents.html",
+      "thumbnail": "https://mybroadband.co.za/news/wp-content/uploads/2026/08/Meta-Offices-1200x675.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJTa0ZuZEZOVU9ISTNUVmRoVFJDZkF4ampCU2dLTWdhQlJwWUxJZ2s",
+      "date": "08/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-19T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "WhatsApp’s free lunch ends on 1 October",
+      "source": {
+        "name": "TechCentral",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://techcentral.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Fanie Van Rooyen"
+        ]
+      },
+      "link": "https://techcentral.co.za/whatsapps-free-lunch-ends-on-1-october/285051/",
+      "thumbnail": "https://techcentral.co.za/wp-content/uploads/2025/08/whatsapp-1500-800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJjRTlRUjI1M1lsTmlPRVpNVFJDVUF4ajJCU2dLTWdheFE0aHdOUVE",
+      "date": "08/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-19T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Debunked: Viral WhatsApp Message Claiming Users Must Copy and Share a Notice to Protect Their Photos Is False",
+      "source": {
+        "name": "factcheckafrica.net",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://factcheckafrica.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adisa Habeeb"
+        ]
+      },
+      "link": "https://factcheckafrica.net/debunked-viral-whatsapp-message-claiming-users-must-copy-and-share-a-notice-to-protect-their-photos-is-false/",
+      "thumbnail": "https://factcheckafrica.net/wp-content/uploads/2025/07/IMG_5337.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZWR1Y1UkVWNU9WbDBkemhYVFJERUF4aW1CU2dLTWdhbFpJNnRyUVk",
+      "date": "07/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-13T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "WhatsApp starts charging South Africans – for the extras",
+      "source": {
+        "name": "TechCentral",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://techcentral.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://techcentral.co.za/whatsapp-starts-charging-south-africans-for-the-extras/282872/",
+      "thumbnail": "https://techcentral.co.za/wp-content/uploads/2026/06/whatsapp-plus-1500-800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFNSGgzY0dWVU1GZHVNVUZaVFJDVUF4ajJCU2dLTWdhcEpZek5sUWc",
+      "date": "06/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-19T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "WhatsApp launches R29 subscription in South Africa",
+      "source": {
+        "name": "MyBroadband",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mybroadband.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hanno Labuschagne"
+        ]
+      },
+      "link": "https://mybroadband.co.za/news/smartphones/654863-whatsapp-launches-r29-subscription-in-south-africa.html",
+      "thumbnail": "https://mybroadband.co.za/news/wp-content/uploads/2026/04/WhatsApp-headline-new-600x338.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBPVGcxZG5WMk5HZEhXRmxmVFJEU0FoallCQ2dLTWdhbEpJak5KUWM",
+      "date": "06/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-19T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "source": {
+        "name": "TechCrunch",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Perez"
+        ]
+      },
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVTbmR0T1hwNVNIWkJORGMwVFJERUF4aW1CU2dLTWdrWkFvYXVRV1E4QkFN",
+      "date": "05/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-27T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Facebook is about to start making money off WhatsApp by charging businesses",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Heath"
+        ]
+      },
+      "link": "https://www.businessinsider.com/whatsapp-will-charge-businesses-to-message-customers-2017-9",
+      "thumbnail": "https://i.insider.com/59aec082ba785e6e384a4894?width=751&format=jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hUzE1TW1Oa2EyMTVOMlIyVFJEZkF4aUFCU2dLTWdhVlU0Z3dvUWc",
+      "date": "09/05/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-09-05T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Meta revamps WhatsApp Business pricing with token-based AI model, restores service message charges",
+      "source": {
+        "name": "Storyboard18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/digital/meta-revamps-whatsapp-business-pricing-with-token-based-ai-model-restores-service-message-charges-102954.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2026/04/Vis-2026-04-09T121557.641-2026-04-d272ba8bc7f67c28dec20586dfb8cba9-1019x573.png?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpka1YyUkdaaVdUWmpablkwVFJEOEFoaWpCU2dLTWdhbFk0NXdyUWM",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Meta will allow rival AI chatbots on WhatsApp in Europe, but for a fee",
+      "source": {
+        "name": "TechCrunch",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ram Iyer"
+        ]
+      },
+      "link": "https://techcrunch.com/2026/03/05/meta-will-allow-rival-ai-chatbots-on-whatsapp-in-europe-but-for-a-fee/",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/04/WhatsApp-resized.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhaVUYyWjI4eFdrVm1WV0o2VFJERUF4aW5CU2dLTWdhVkVwRHJPUVk",
+      "date": "03/05/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-05T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "WhatsApp marketing: How to build a 2026 strategy",
+      "source": {
+        "name": "Hootsuite Blog",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.hootsuite.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chloe West"
+        ]
+      },
+      "link": "https://blog.hootsuite.com/whatsapp-marketing/",
+      "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/05/WhatsApp-marketing-How-to-build-a-2026-strategy-AI-556x556.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1aVnBsUzBOaGRtcHFSMHRWVFJDcUJCaXFCQ2dLTWdZVm80NG9PUWM",
+      "date": "05/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "WhatsApp will soon limit number of broadcast messages users and businesses can send",
+      "source": {
+        "name": "TechCrunch",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ivan Mehta"
+        ]
+      },
+      "link": "https://techcrunch.com/2025/03/18/whatsapp-will-soon-limit-number-of-broadcast-messages-users-and-businesses-can-send/",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Business-new-logo.jpg?w=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZkRUpHY1Uxc2FuZHVWV1JpVFJDZkF4ampCU2dLTWdhcGhaRE9zUVk",
+      "date": "03/18/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-18T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "WhatsApp announces pricing update, to charge per message on business platform",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anupam Varma"
+        ]
+      },
+      "link": "https://gulfnews.com/technology/whatsapp-announces-pricing-update-to-charge-per-message-on-business-platform-1.500142961",
+      "thumbnail": "https://media.assettype.com/gulfnews/import/2019/04/02/whatsapp-892926_1920_resources1_16a45055243_large.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpZMjQ0ZUVwSVRXaFplVmxVVFJEZ0F4al9CQ2dLTWdZaEZJWk9GUW8",
+      "date": "05/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-28T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "WhatsApp starts charging business users",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/news/technology-45029639",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/C877/production/_102791315_29a2d4a6-7486-4dd2-807c-503a7e5db16a.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlUVGwyTFdFMExUSnlkRWR6VFJDT0FoamdBeWdLTWdZTklwYUdvZ2c",
+      "date": "08/01/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-08-01T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Meta To Charge Businesses For WhatsApp Service Messages From October",
+      "source": {
+        "name": "TVC News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tvcnews.tv&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Bolarinwa"
+        ]
+      },
+      "link": "https://www.tvcnews.tv/meta-to-charge-businesses-for-whatsapp-service-messages-from-october/",
+      "thumbnail": "https://tvcnews.tv/wp-content/uploads/2026/08/WhatsApp-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVYMmcyU1VOcVdIbE9XVVV5VFJEZUFoaUtCU2dLTWdZQllvN0VxZ1k",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Meta to Charge Businesses for WhatsApp Messages from October 1",
+      "source": {
+        "name": "THISDAYLIVE",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thisdaylive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thisdaylive.com/2026/08/30/meta-to-charge-businesses-for-whatsapp-messages-from-october-1/",
+      "thumbnail": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Meta-moneda.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlVV0V0ZEd4cFdFc3pjV2hZVFJERUF4aW1CU2dLTWdhWlVZVHJOUVk",
+      "date": "08/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-30T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "WhatsApp to charge businesses on token basis for using AI agents from August 1",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Armaan Agarwal"
+        ]
+      },
+      "link": "https://www.indiatoday.in/technology/news/story/whatsapp-to-charge-businesses-on-token-basis-for-using-ai-agents-from-august-1-2938826-2026-07-02",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/will-whatsapp-usernames-make-scams-easier-internet-raises-privacy-concerns-301304217-16x9.png?VersionId=rB8fULll_QRBriXy2g7jx7UAETHvmD34&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXFRVzVUWDJwT2JHOXBaazkwVFJDZkF4ampCU2dLTWdNUlV4QQ",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "WhatsApp will start to remind you to finish your draft messages",
+      "source": {
+        "name": "BetaNews",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://betanews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://betanews.com/article/whatsapp-will-start-to-remind-you-to-finish-your-draft-messages/",
+      "thumbnail": "https://media.betanews.com/uploads/2026/09/WhatsApp-draft-message-reminder-notification-300x180.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWbk16V1VsWldrUXdOSGxpVFJDdUFSaWlBaWdCTWdZZEU0NVJtUW8",
+      "date": "09/03/2026, 10:34 AM, +0000 UTC",
+      "iso_date": "2026-09-03T10:34:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Meta Announces 'Recurring Notifications' for Business Messaging, a Significant Shift in its Platform Approach",
+      "source": {
+        "name": "Social Media Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.socialmediatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andrew Hutchinson"
+        ]
+      },
+      "link": "https://www.socialmediatoday.com/news/meta-announces-recurring-notifications-for-business-messaging-a-signific/624159/",
+      "thumbnail": "https://imgproxy.divecdn.com/VKD50E4wbdmZlUIFLFroDS5AsAWsoRUXNq9rvUo3yMA/raw:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZWN1cnJpbmdfbWVzc2FnZXMucG5n",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUlTVlZ1T0hSbU5sZGZTekptVFJDX0F4aXRCU2dLTWdtWk1vb0pvV2lpendF",
+      "date": "05/20/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-05-20T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Facebook looks to monetize WhatsApp with new Business API & ads that open chats in the messaging app",
+      "source": {
+        "name": "MarTech",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://martech.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amy Gesenhues"
+        ]
+      },
+      "link": "https://martech.org/facebook-looks-to-monetize-whatsapp-with-new-business-api-ads-that-open-chats-in-the-messaging-app/",
+      "thumbnail": "https://martech.org/wp-content/uploads/2018/01/WhatsApp_Logo-1920.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhjaTFpVGxCallrSjRRemhuVFJDZkF4ampCU2dLTWdZcGhZeXRNUVU",
+      "date": "08/01/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-08-01T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Google to start charging WhatsApp users for backing up messages",
+      "source": {
+        "name": "7NEWS",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://7news.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://7news.com.au/technology/google-to-start-charging-whatsapp-users-for-backing-up-messages-c-12587140",
+      "thumbnail": "https://images.7news.com.au/publication/C-12587140/efdc0bb61007fe5e12681b03dd7aaec21cceee7e-16x9-x0y277w5315h2990.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpURk5yVW05clZuaEhlVmxwVFJDZkF4ampCU2dLTWdZUlpJcXVOUVU",
+      "date": "11/25/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-11-25T08:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "WhatsApp shifts to per-message billing for businesses from per-conversation",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rahul Goreja"
+        ]
+      },
+      "link": "https://www.business-standard.com/technology/tech-news/whatsapp-business-new-per-message-charge-price-model-125070201283_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/21/full/1747793337-9087.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9TM1ppV1hORFR6bGlSR0k1VFJERUF4aW1CU2dLTWdZWkVKQXFwZ1k",
+      "date": "07/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-02T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "WhatsApp to start showing more adverts in messaging app",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zoe Kleinman"
+        ]
+      },
+      "link": "https://www.bbc.co.uk/news/articles/cn5y07yqg5do",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/e9af/live/1296c000-4848-11f0-ad73-b517cf483813.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRWM1pyYlhWVmIyUmxOazFPVFJDZkF4ampCU2dLTWdZaGhvSU1zZ1k",
+      "date": "06/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-16T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "WhatsApp Won't Be Free For All, Soon",
+      "source": {
+        "name": "SlashGear",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.slashgear.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Burns"
+        ]
+      },
+      "link": "https://www.slashgear.com/whatsapp-wont-be-free-for-all-soon-02539835/",
+      "thumbnail": "https://www.slashgear.com/img/gallery/whatsapp-wont-be-free-for-all-soon/intro-import.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVlVmxJTUhGMlNFVTFlbmh5VFJDNEF4aTRCU2dLTWdZaGRZN01NUVk",
+      "date": "08/02/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-08-02T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Meta to charge ₦14 per Whatsapp message from October",
+      "source": {
+        "name": "The Guardian Nigeria News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://guardian.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://guardian.ng/breakingnews/meta-to-charge-%E2%82%A614-per-whatsapp-message-from-october/",
+      "thumbnail": "https://cdn.guardian.ng/wp-content/uploads/2026/08/WhatsApp-700x394-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZZalUxVDBSVVVGUlVUMmRsVFJDS0F4aThCU2dLTWdZdFZKQnZwUWM",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "WhatsApp Business Now Charges Rs 0.78 Per Marketing Message",
+      "source": {
+        "name": "medianama.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.medianama.com/2025/07/223-whatsapp-business-per-message-pricing-india/",
+      "date": "07/04/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-04T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "WhatsApp Business to introduce token-based pricing for Meta Business Agent from August 1",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vikas SN"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/technology/whatsapp-business-to-introduce-token-based-pricing-for-meta-business-agent-from-august-1-article-13963910.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250826135350_whatsapp4.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5VVmRRUlVKS2VVbFJMVTFoVFJDZkF4ampCU2dLTWdZaE5JN09JUWc",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "WhatsApp is not going to charge users for sending messages",
+      "source": {
+        "name": "FACTLY",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://factly.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://factly.in/whatsapp-is-not-going-to-charge-their-users-for-sending-messages/",
+      "thumbnail": "https://factly.in/wp-content/uploads//2021/01/Whatsapp-charge-their-users-for-sending-messages-Thumbnail-1024x512.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNNMHgzVGtac05XNHhUREJpVFJDSEF4aVBCaWdLTWdrQmdvejB3S1NCN0FF",
+      "date": "01/18/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-18T08:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "WhatsApp Business API to enable messaging app to finally start making money",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/tech/news-analysis/whatsapp-business-api-to-enable-messaging-app-to-finally-start-making-money-4873651.html",
+      "thumbnail": "https://images.firstpost.com/wp-content/uploads/2018/05/WhatsApp-Social.jpg?im=Resize,width=720,aspect=fit,type=normal",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUZhbXBSZVc1V1NXa3lUVGt5VFJDVkF4alFCU2dLTWdB",
+      "date": "08/02/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-08-02T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Viral Messages Claiming WhatsApp Will Become Chargeable Are False | BOOM",
+      "source": {
+        "name": "BOOM Fact Check",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.boomlive.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dilip Unnikrishnan"
+        ]
+      },
+      "link": "https://www.boomlive.in/fact-check/fake-news-fact-check-whatsapp-is-going-to-charge-money-for-its-services-viral-message-11689",
+      "thumbnail": "https://www.boomlive.in/h-upload/2021/01/24/1500x900_939529-whatsapp-featuredimage.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9PSEpTVEZsVVgyWnBSM1JQVFJDakF4amJCU2dLTWdtRk1JNU1LV2M4eUFJ",
+      "date": "01/24/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-24T08:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Viral Whatsapp Closure Message Is False!",
+      "source": {
+        "name": "Dubawa",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dubawa.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Temilade Onilede"
+        ]
+      },
+      "link": "https://dubawa.org/viral-whatsapp-closure-message-is-false/",
+      "thumbnail": "https://i0.wp.com/dubawa.org/wp-content/uploads/2018/02/cropped-Dubawa.jpg?fit=200%2C200&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVTMVpIVWtodGMxaGhPSFkwVFJESUFSaklBU2dLTWdZdElaQXdNUVk",
+      "date": "07/05/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-07-05T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "What you should know on trending messages about WhatsApp",
+      "source": {
+        "name": "Daily Trust",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dailytrust.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dailytrust.com/what-you-should-know-on-trending-messages-about-whatsapp/",
+      "thumbnail": "https://dailytrust.com/wp-content/uploads/2020/04/whatsapp-logo-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdaamxZVDNkSk1VUlplVWxtVFJERUF4aW1CU2dLTWdB",
+      "date": "10/13/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-10-13T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "WhatsApp new Business API will charge businesses for messages sent after 24 hours",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priya Pathak"
+        ]
+      },
+      "link": "https://www.indiatoday.in/technology/news/story/whatsapp-new-business-api-businesses-charge-late-messages-1303473-2018-08-02",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201808/BUSNIESS.jpeg?size=1200:675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUphSFJLTVVKUGR6WndhVlExVFJDZkF4ampCU2dLTWdZaGRwSU1zZ1k",
+      "date": "08/02/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-08-02T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Viral message claiming WhatsApp will be chargeable is a Hoax",
+      "source": {
+        "name": "srilanka.factcrescendo.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://srilanka.factcrescendo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://srilanka.factcrescendo.com/english/viral-message-claiming-whatsapp-will-be-chargeable-is-a-hoax/",
+      "thumbnail": "https://srilanka.factcrescendo.com/english/wp-content/uploads/2021/02/fc-english-sri-lanka.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBUa0ZxYmxWSlNHRlFSWGQxVFJDa0F4anVCQ2dLTWdhRk5JemtHZ28",
+      "date": "02/03/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-02-03T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "WhatsApp Down Issue: Fake Varun Pulyani Message Makes a Come Back, But Here’s the Truth",
+      "source": {
+        "name": "dqindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dqindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dqindia.com/whatsapp-down-issue-fake-varun-pulyani-message-makes-a-come-back-but-heres-the-truth/",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/dq/media/post_banners/wp-content/uploads/2019/05/whatsapp-1789194_960_720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhYemhIVURKb1RWSmlNVUpOVFJERUF4aW1CU2dLTWdZMU1KSlFzUWM",
+      "date": "10/06/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-10-06T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "WhatsApp to Simplify Voice Messages, Extend Time Limit to Delete Messages Very Soon",
+      "source": {
+        "name": "TechNext.ng",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://technext24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://technext24.com/news/whatsapp-simplify-voice-messages-extend-time-limit-delete-messages-soon/",
+      "thumbnail": "https://technext24.com/wp-content/uploads/2018/03/whatsapp-stock-800x453.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTbGhDV2xrdFZXbHhXRGwzVFJDaEF4amdCU2dLTWdZSmM0cHJ0UWM",
+      "date": "03/05/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-03-05T08:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Old hoax about WhatsApp ‘ending tomorrow at 6 pm’ circulating again in Nigeria",
+      "source": {
+        "name": "Africa Check",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://africacheck.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://africacheck.org/fact-checks/meta-programme-fact-checks/old-hoax-about-whatsapp-ending-tomorrow-6-pm-circulating",
+      "thumbnail": "https://africacheck.org/sites/default/files/whatsapp_hoax.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhUWEpyZFRkWFRFZGlTVkpUVFJDUUF4ai1CU2dLTWdZSk1ZN1RwQVU",
+      "date": "01/17/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-01-17T08:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Hoax message alert: WhatsApp ending tomorrow?",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gulfnews.com/technology/hoax-message-alert-whatsapp-ending-tomorrow-1.2151595",
+      "thumbnail": "https://media.assettype.com/gulfnews/import/2014/2/23/1_16a082a7158.1294804_2737274333_16a082a7158_large.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XV1JRVXprNVRpMTRibkp0VFJEQ0F4aXFCU2dLTWdZbFZKS3RwUWM",
+      "date": "11/05/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-11-05T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "WhatsApp sets limit for forwarding messages",
+      "source": {
+        "name": "GSMArena.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gsmarena.com/whatsapp_sets_limit_for_forwarding_messages-news-35174.php",
+      "thumbnail": "https://st.gsmarena.com/imgroot/news/19/01/whatsapp-sets-limit-for-forwarding-messages/-728x314/gsmarena_000.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVTVnBxWld4eVpIWmtaVW81VFJDNkFoallCU2dLTWdZaFZJd05NZ2c",
+      "date": "01/22/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-01-22T08:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Download WhatsApp [2.24.20.73 stable and 2.24.21.19 beta]",
+      "source": {
+        "name": "Huawei Central",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.huaweicentral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amy Sarkar"
+        ]
+      },
+      "link": "https://www.huaweicentral.com/download-whatsapp-stable-beta-2/",
+      "thumbnail": "https://www.huaweicentral.com/wp-content/uploads/2021/09/whatsapp-1-1000x576.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlUM0pJTFZSdGJXVnFXRnBuVFJDa0F4amFCU2dLTWdZcGxaRE5OUVk",
+      "date": "10/03/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-03T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Old hoax message that WhatsApp will be chargeable revived with Hindi audio clip by Social Media",
+      "source": {
+        "name": "Alt News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.altnews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.altnews.in/old-hoax-message-that-whatsapp-will-be-chargeable-revived-with-hindi-audio-clip/",
+      "thumbnail": "https://www.altnews.in/wp-content/uploads/2021/01/FI-1-5-300x169.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJWall3ZEdWZk1WcEtibGhvVFJDcEFSaXNBaWdLTWdZQkk0cXZJUWM",
+      "date": "01/20/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-20T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Is there a charger that can charge two laptops simultaneously? | Ask Us Anything #18",
+      "source": {
+        "name": "SoyaCincau",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://soyacincau.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://soyacincau.com/2022/06/24/charge-two-laptops-simultaneously-anker-boya-by-m1-lavalier-mic-whatsapp-ios-android-ask-us-anything/",
+      "thumbnail": "https://soyacincau.com/wp-content/uploads/2022/06/220624-aua-no-18_thumbnail-02-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRUVk5aTkZScVEwZFZNVWx4VFJDZkF4ampCU2dLTWdrRk1aYTJJR21waHdJ",
+      "date": "06/24/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-06-24T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Which WhatsApp Users Will Pay N14 Per Message? What New Meta’s Billing Means For Nigerians",
+      "source": {
+        "name": "Legit News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.legit.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pascal Oparada"
+        ]
+      },
+      "link": "https://www.legit.ng/business-economy/technology/1728475-which-whatsapp-users-pay-n14-message-what-metas-billing-means-nigerians/",
+      "thumbnail": "https://cdn.legit.ng/images/1120/20758bc478d99eb1.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkbHBsZHpoaFFXUlNRbmx3VFJDSEF4aVBCaWdLTWdZQlpJb0RKd2c",
+      "date": "09/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-02T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "WhatsApp to start per-message charges from October, Nigerian businesses affected",
+      "source": {
+        "name": "Legit News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.legit.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pascal Oparada"
+        ]
+      },
+      "link": "https://www.legit.ng/business-economy/technology/1727481-whatsapp-charge-nigerian-businesses-message-october-1-what-companies-know/",
+      "thumbnail": "https://cdn.legit.ng/images/1120/114c453ef37719a0.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1TMmR3VFc1dExXTlFaR1F3VFJDSEF4aVBCaWdLTWdZQlpJb0RKd2c",
+      "date": "08/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-27T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "New fees: Meta to charge Kenyan businesses KSh 0.52 per WhatsApp message",
+      "source": {
+        "name": "Tuko News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tuko.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Japhet Ruto"
+        ]
+      },
+      "link": "https://www.tuko.co.ke/business-economy/technology/637847-meta-start-charging-kenyan-businesses-whatsapp-business-messages/",
+      "thumbnail": "https://cdn.tuko.co.ke/images/1120/3ce5a6e507764869.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtibkJVUkVwd2JEaHpSazB3VFJDZkF4ampCU2dLTWdB",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "WhatsApp GH₵0.12 Per Message Fee: Which Ghanaian Users Will Actually Pay",
+      "source": {
+        "name": "yen.com.gh",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://yen.com.gh&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Salifu Bagulube Moro"
+        ]
+      },
+      "link": "https://yen.com.gh/ghana/311117-whatsapp-start-charging-ghghs012-message-what-ghanaian-users-know/",
+      "thumbnail": "https://cdn.yen.com.gh/images/1120/54eb78a60b1a3228.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZPRE5UVDJ4cVQxQk1Ua2xwVFJDUkF4ajhCU2dLTWdhWndvb0t4UVE",
+      "date": "09/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-02T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Banks, fintechs, others to pay for whatsApp messages from October 1",
+      "source": {
+        "name": "PM News Nigeria",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pmnewsnigeria.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://pmnewsnigeria.com/2026/08/29/banks-fintechs-others-to-pay-for-whatsapp-messages-from-october-1/",
+      "thumbnail": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2026/08/IMG_20260829_221538.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVNMnBpT1dZeGEydHBiRU4zVFJDM0FoalpCQ2dLTWdB",
+      "date": "08/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-29T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "WhatsApp to start charging business accounts per message from October 1— 5 important things every user should know",
+      "source": {
+        "name": "Pulse Nigeria",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pulse.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pulse.ng/story/whatsapp-to-start-charging-business-accounts-per-message-from-october-1-5-important-things-every-user-should-know-2026082908495406584",
+      "thumbnail": "https://sportal365images.com/process/smp-images-production/pulse.ng/29082026/1cf45497-f951-4d5f-9029-234f25bda7f0.jfif?operations=autocrop(700:467)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXlSSGQyUTJ4YWNtbHpNV1ZyVFJERUF4aW1CU2dLTWdB",
+      "date": "08/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-29T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "WhatsApp to Begin Charging Nigerians N14 Per Message, Sets Date",
+      "source": {
+        "name": "Igbere TV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://igberetvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://igberetvnews.com/1497461/whatsapp-begin-charging-nigerians-n14-per-message-sets-date/",
+      "thumbnail": "https://igberetvnews.com/wp-content/uploads/2026/08/GettyImages-2243527585-e1770654279187-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhTM054YTFOeWNTMVhVMmQwVFJET0F4aVhCU2dLTWdZcGhZck50UVU",
+      "date": "08/29/2026, 08:28 AM, +0000 UTC",
+      "iso_date": "2026-08-29T08:28:40Z"
+    },
+    {
+      "position": 63,
+      "title": "How much Kenyan business owners will spend on WhatsApp messages from October: New charges explained",
+      "source": {
+        "name": "K24 Digital",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://k24.digital&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Valerian Khakayi"
+        ]
+      },
+      "link": "https://k24.digital/lifestyle/money/how-much-kenyan-business-owners-will-spend-on-whatsapp-messages-from-october-new-charges-explained",
+      "thumbnail": "https://k24.digital/wp-content/uploads/2026/08/WhatsApp-1200x675-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kbGRXVldOV2VsZHljelZpVFJDZkF4ampCU2dLTWdhcEpJeVBKUVk",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "WhatsApp Business users face new charges as Meta changes how companies pay",
+      "source": {
+        "name": "Briefly News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://briefly.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://briefly.co.za/people/250520-meta-charge-whatsapp-business-api-users-message-1-october-2026/",
+      "thumbnail": "https://cdn.briefly.co.za/images/1120/ecd6441ef5adf495.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNTRlprWlcxak5GSkhNbDlYVFJDZkF4ampCU2dLTWdtZEU0ckxIYVZVcEFJ",
+      "date": "08/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-19T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "WhatsApp Will Start Charging You Per Text Message Starting From July 1st",
+      "source": {
+        "name": "Gulfbuzz",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gulfbuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gulfbuzz.com/whatsapp-will-start-charging-you-per-text-message-starting-from-july-1st/",
+      "thumbnail": "https://www.gulfbuzz.com/wp-content/uploads/2025/05/whatsapp-1050450mg.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxOM1pHVW5wb1NEVjZSWGRwVFJEcUFoak9CaWdLTWdB",
+      "date": "05/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-29T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "WhatsApp To Charge Businesses Per Message From October 1",
+      "source": {
+        "name": "New Telegraph",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newtelegraphng.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newtelegraphng.com/whatsapp-to-charge-businesses-per-message-from-october-1/",
+      "thumbnail": "https://newtelegraphng.com/wp-content/uploads/2026/08/watsapp.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBYM1o0ZWpkblNscG9XRTVMVFJDcUJCaXFCQ2dLTWdhZGxKRE10UVk",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Meta introduces per-message billing for WhatsApp users, gives condition",
+      "source": {
+        "name": "Legit News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.legit.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pascal Oparada"
+        ]
+      },
+      "link": "https://www.legit.ng/business-economy/technology/1663021-meta-introduces-message-billing-whatsapp-business-users-drops-24-hour-flat-rate/",
+      "thumbnail": "https://cdn.legit.ng/images/1120/baa89a1d11750486.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhRa2hvZG1sM1ZYVmFUMmhMVFJDZkF4ampCU2dLTWdtQlFvZ1VtV214Q3dJ",
+      "date": "07/06/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-06T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Meta set to introduce per-message charges for businesses on WhatsApp from October 1",
+      "source": {
+        "name": "thestreetjournal.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thestreetjournal.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thestreetjournal.org/meta-set-to-introduce-per-message-charges-for-businesses-on-whatsapp-from-october-1/",
+      "thumbnail": "https://thestreetjournal.org/wp-content/uploads/2026/08/images-26-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDFlVVZwYUU1UGVETjNNMGxIVFJEb0Foam9BaWdLTWdB",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "People are falling for this WhatsApp hoax yet again - don't be fooled",
+      "source": {
+        "name": "The Mirror",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mirror.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Luke Edwards"
+        ]
+      },
+      "link": "https://www.mirror.co.uk/tech/whatsapp-going-start-charging-2017-9566611",
+      "thumbnail": "https://i2-prod.mirror.co.uk/incoming/article9494797.ece/ALTERNATES/s1200b/1_Russian-companies-start-searching-how-to-decode-information-from-messenger-apps.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9TSGxHV0VOaGVISklhVXMyVFJEZ0F4aUFCU2dLTWdtbEVvSXRHYVZ6MWdB",
+      "date": "01/06/2017, 08:00 AM, +0000 UTC",
+      "iso_date": "2017-01-06T08:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Meta to Charge Businesses Per WhatsApp Message From October 2026",
+      "source": {
+        "name": "yen.com.gh",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://yen.com.gh&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeffrey Owusu Mensah"
+        ]
+      },
+      "link": "https://yen.com.gh/business-economy/technology/310805-meta-charge-businesses-whatsapp-message-october-2026/",
+      "thumbnail": "https://cdn.yen.com.gh/images/360x203/7196ce5ef6b30b56.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhTbVpRYTFKaVZHRlpXRnBWVFJETEFSam9BaWdLTWdhQlk0b2lKd2c",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "WhatsApp warning over fee to keep old messages leaves millions of users angry",
+      "source": {
+        "name": "The Mirror",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mirror.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mirror.co.uk/news/uk-news/whatsapp-warning-over-fee-keep-31465843",
+      "thumbnail": "https://i2-prod.mirror.co.uk/incoming/article31466169.ece/ALTERNATES/s1200b/0_Facebook-Illustration.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNibU5DZW1zeVRWZElVRGRTVFJEZ0F4aUFCU2dLTWdB",
+      "date": "11/19/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-11-19T08:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "WhatsApp to start per-message charges from Oct 1, Ghanaian businesses affected",
+      "source": {
+        "name": "yen.com.gh",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://yen.com.gh&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://yen.com.gh/business-economy/310749-whatsapp-charge-ghanaian-businesses-message-october-1/",
+      "thumbnail": "https://cdn.yen.com.gh/images/1120/ca76f75b81afcabc.jpeg?v=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhNV2g2UVVka1NWTjZVa1pLVFJDZkF4ampCU2dLTWdtWlFvNU10V1dLYWdJ",
+      "date": "08/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-27T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Meta to charge Nigerian businesses for WhatsApp messages from October",
+      "source": {
+        "name": "Newspeakonline",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://newspeakonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newspeakonline.com/meta-to-charge-nigerian-businesses-for-whatsapp-messages-from-october/",
+      "date": "08/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-29T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "You can now make WhatsApp messages disappear but this update comes with a warning",
+      "source": {
+        "name": "Daily Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.express.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dave Snelling"
+        ]
+      },
+      "link": "https://www.express.co.uk/life-style/science-technology/1356814/WhatsApp-disappearing-messages-iPhone-Android-update",
+      "thumbnail": "https://cdn.images.express.co.uk/img/dynamic/59/750x445/1356814.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhkbHBSUTJZeExYWk5XRWRTVFJDcUF4alBCU2dLTWdZQlFvNVJLUVk",
+      "date": "11/06/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-11-06T08:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "WhatsApp scammers use fake 'subscription notification' text messages to snare innocent victims",
+      "source": {
+        "name": "The Sun",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thesun.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Margi Murphy"
+        ]
+      },
+      "link": "https://www.thesun.co.uk/tech/3681911/is-whatsapp-going-to-start-charging-scammers-use-fake-subscription-notification-text-messages-to-snare-innocent-victims/",
+      "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2017/05/img_4737.png?strip=all&w=540",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFOWGQyTm5sWlRsWlphVFk0VFJEakJSaWZBeWdLTWdhRkZLREZsUW8",
+      "date": "05/30/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-05-30T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

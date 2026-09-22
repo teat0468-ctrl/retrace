@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab229578c8a7e33d7671f7a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Xz9bnjrKzdrQjdoQNviLHmGuqTrPN8jAsy8fVKLx9pw/6ab229578c8a7e33d7671f7a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Xz9bnjrKzdrQjdoQNviLHmGuqTrPN8jAsy8fVKLx9pw/6ab229578c8a7e33d7671f7a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Xz9bnjrKzdrQjdoQNviLHmGuqTrPN8jAsy8fVKLx9pw/6ab229578c8a7e33d7671f7a.json_with_pixel_position",
+    "created_at": "2026-09-22 07:08:07 UTC",
+    "processed_at": "2026-09-22 07:08:07 UTC",
+    "google_url": "https://www.google.com/search?q=%22NASA+discovers+massive+planet-killer+asteroid+heading+for+Ea%22&oq=%22NASA+discovers+massive+planet-killer+asteroid+heading+for+Ea%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Xz9bnjrKzdrQjdoQNviLHmGuqTrPN8jAsy8fVKLx9pw/6ab229578c8a7e33d7671f7a.html",
+    "total_time_taken": 0.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"NASA discovers massive planet-killer asteroid heading for Ea\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"NASA discovers massive planet-killer asteroid heading for Ea\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "2yUutXiczVXLcuI4FP2A-Y5mQwLGmI5JlatLlk2AAMGQkMeGMrIiO34ILIOB3fzLbOaX5mtaNphXcJLuRddooefVfejeo_P3P54TuP_99a8dRVN2XS7HcVwilBIPlxD1yyZbBaj8Sj0WIvsHo_MQYcdSkB1SHxdWC6VaQEwRCthRRit_Zc7Wdq8NtXji9klnLMyBXEhVKOOJyfAbt7B8Y-VxmXfut6rGFyVWwkFp0b-vGhqZhQYtiYJYLd2VTZ8LgD_XWnbSG8AFrQ-EEomvNEKADkB7vwFhOugHIsmCcJUw2YTJ_LxNfePRAG4cBH2tv9YQANrOlbtcP-ChuzDeWo5Te2pi8YNgz2hL-8Z2pecLgtxoyJEK0D04ytUHTwS56waAfSlRll06ukyAsTffSg63lYQIkJtU1VTwkO85v3DbAjUXGPpnyTb0kQQzU53nG75TtggvXKE8CflQKTvIRukkZEk9w_u6QJv17ovYR_K6-SRWbKk9klWhYzYqV9KSlNGEy3nUtLA1tsfCj3RdESs1oV69ki9SICG2QxI7RNJ93BRstRdRaJQ6JbWSwQju8gyP_df5Gp4rARVuReH7M7h_bQh2msntkdAmw7x0CXjRwXF-aH3zzGq20WQAxPqByN6lZPM9jE5dS2C0SSlJp9syO3S-BYYHgR4kVjtTqe-i5na34DG0d4LHClTQdsE-4JM_jABVhS1D3bzQTEp9kvZPkflnnDiS_A_8o2hlr50FtWndfTz85DbFhQahyvXSaSLW3kacXHB2WtXByXemnscgTw_owE8An9fUr_yYRoaXk_I_hE3j0e5d1ue3NnzyBti8gdV18FTr0NlIMM7DhPqTX2Ac9L8CUsZHXrqfDyTjS0AiRM_no810z0cJkCAhJAdI-jCHj-JMZM9Hp1HD4QGQPuGjXwWS_iGQMpCeBVLjHJD0PCBlfHQEpOERH6nn-WgHpN_hI_U3-SjFFd4Mx-Q0fyO5JNVoOC9yEA9HPdePugYZyU2vG8QDoYeMT0nq1Y-ufdPyLsaOda2K7WhlXYz5Br3GVmGmfBPFHhiCouUwRBc4ZEXfZMxZ4OLUMwMcXbqO5-GwaLIIh9SxijY2LScgxVcaFnWTXy_4XkgVwZSWc0GsedO2NleHxtqa9VadJYV1bzZsDRYvs9nCX9c1cDl6pBM9ijri-lIazDtXr7MGZtHquXsvyVUR34hvkFV8LJkDv-YtGwEe3kvInToTZ_aduuLjXc01ZVeXOxQFsTXsw-4AVl3xZnq71FFYZ3T91nyRUq-YYstG_XEV2CR8KPghUniVSAT0DPBIAALwGRg8Rw8m5WMMjJvvPG1qgSFzjNlCwVf1ilQRq-i1OqlMsFzwSbSaKpJUYEGoVH4CEglOqQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2yUutXiczVXLcuI4FP2A-Y5mQwLGmI5JlatLlk2AAMGQkMeGMrIiO34ILIOB3fzLbOaX5mtaNphXcJLuRddooefVfejeo_P3P54TuP_99a8dRVN2XS7HcVwilBIPlxD1yyZbBaj8Sj0WIvsHo_MQYcdSkB1SHxdWC6VaQEwRCthRRit_Zc7Wdq8NtXji9klnLMyBXEhVKOOJyfAbt7B8Y-VxmXfut6rGFyVWwkFp0b-vGhqZhQYtiYJYLd2VTZ8LgD_XWnbSG8AFrQ-EEomvNEKADkB7vwFhOugHIsmCcJUw2YTJ_LxNfePRAG4cBH2tv9YQANrOlbtcP-ChuzDeWo5Te2pi8YNgz2hL-8Z2pecLgtxoyJEK0D04ytUHTwS56waAfSlRll06ukyAsTffSg63lYQIkJtU1VTwkO85v3DbAjUXGPpnyTb0kQQzU53nG75TtggvXKE8CflQKTvIRukkZEk9w_u6QJv17ovYR_K6-SRWbKk9klWhYzYqV9KSlNGEy3nUtLA1tsfCj3RdESs1oV69ki9SICG2QxI7RNJ93BRstRdRaJQ6JbWSwQju8gyP_df5Gp4rARVuReH7M7h_bQh2msntkdAmw7x0CXjRwXF-aH3zzGq20WQAxPqByN6lZPM9jE5dS2C0SSlJp9syO3S-BYYHgR4kVjtTqe-i5na34DG0d4LHClTQdsE-4JM_jABVhS1D3bzQTEp9kvZPkflnnDiS_A_8o2hlr50FtWndfTz85DbFhQahyvXSaSLW3kacXHB2WtXByXemnscgTw_owE8An9fUr_yYRoaXk_I_hE3j0e5d1ue3NnzyBti8gdV18FTr0NlIMM7DhPqTX2Ac9L8CUsZHXrqfDyTjS0AiRM_no810z0cJkCAhJAdI-jCHj-JMZM9Hp1HD4QGQPuGjXwWS_iGQMpCeBVLjHJD0PCBlfHQEpOERH6nn-WgHpN_hI_U3-SjFFd4Mx-Q0fyO5JNVoOC9yEA9HPdePugYZyU2vG8QDoYeMT0nq1Y-ufdPyLsaOda2K7WhlXYz5Br3GVmGmfBPFHhiCouUwRBc4ZEXfZMxZ4OLUMwMcXbqO5-GwaLIIh9SxijY2LScgxVcaFnWTXy_4XkgVwZSWc0GsedO2NleHxtqa9VadJYV1bzZsDRYvs9nCX9c1cDl6pBM9ijri-lIazDtXr7MGZtHquXsvyVUR34hvkFV8LJkDv-YtGwEe3kvInToTZ_aduuLjXc01ZVeXOxQFsTXsw-4AVl3xZnq71FFYZ3T91nyRUq-YYstG_XEV2CR8KPghUniVSAT0DPBIAALwGRg8Rw8m5WMMjJvvPG1qgSFzjNlCwVf1ilQRq-i1OqlMsFzwSbSaKpJUYEGoVH4CEglOqQ"
+  }
+}

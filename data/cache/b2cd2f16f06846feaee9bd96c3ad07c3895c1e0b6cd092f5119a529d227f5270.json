@@ -1,0 +1,637 @@
+{
+  "search_metadata": {
+    "id": "6aac28cd57294814ab8e708d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LwcCx-KMhS7MmWJmlRIPxxqQEeU6hnS9eQzR7iNkSvE/6aac28cd57294814ab8e708d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LwcCx-KMhS7MmWJmlRIPxxqQEeU6hnS9eQzR7iNkSvE/6aac28cd57294814ab8e708d.md",
+    "created_at": "2026-09-17 17:52:13 UTC",
+    "processed_at": "2026-09-17 17:52:13 UTC",
+    "google_news_url": "https://news.google.com/search?q=NASA+discovers+a+massive+new+crater+on+the+Moon",
+    "raw_html_file": "https://serpapi.com/searches/LwcCx-KMhS7MmWJmlRIPxxqQEeU6hnS9eQzR7iNkSvE/6aac28cd57294814ab8e708d.html",
+    "total_time_taken": 5.48
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "NASA discovers a massive new crater on the Moon"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Phys.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://phys.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://phys.org/news/2026-09-nasa-spacecraft-huge-crater-moon.html",
+      "thumbnail": "https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-spacecraft-discov.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBWa1pyYVUwNGNtOUpXSEprVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/17/2026, 08:12 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:12:32Z"
+    },
+    {
+      "position": 2,
+      "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+      "source": {
+        "name": "NASA Science (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://science.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lonnie Shekhtman"
+        ]
+      },
+      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png?w=1881&h=1041&fit=clip&crop=faces%2Cfocalpoint",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJSWEI2YlZKdVQxcFBiRkE1VFJDY0F4anBCU2dLTWdPTmxSWQ",
+      "date": "09/16/2026, 06:06 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:06:35Z"
+    },
+    {
+      "position": 3,
+      "title": "'I just stopped, dropped everything, and started looking' | NASA discovers massive, newly formed crater in the moon",
+      "source": {
+        "name": "KGW",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kgw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris McCrory"
+        ]
+      },
+      "link": "https://www.kgw.com/article/news/nation-world/new-moon-crater/507-66844199-58ed-4869-a10e-e2e5e41ee49e",
+      "thumbnail": "https://media.kgw.com/assets/CCT/images/db679fc3-aa88-4958-a943-ba6c158648a6/20260917T120949/db679fc3-aa88-4958-a943-ba6c158648a6_750x422.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFabW8zY1hKalNXWmZjVjl2VFJDZkF4amlCU2dLTWdB",
+      "date": "09/17/2026, 12:28 PM, +0000 UTC",
+      "iso_date": "2026-09-17T12:28:00Z"
+    },
+    {
+      "position": 4,
+      "title": "NASA discovers new, massive crater on the Moon",
+      "source": {
+        "name": "lemonde.fr",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.lemonde.fr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.lemonde.fr/en/science/article/2026/09/17/nasa-discovers-new-massive-crater-on-the-moon_6757617_10.html",
+      "thumbnail": "https://img.lemde.fr/2026/09/16/0/0/1100/1100/664/0/75/0/d7c3569_ftp-1-x0wov25uersu-5108120-01-06.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVWVWRuT1ZsVE5EWlVTRUpRVFJDcUJCaXFCQ2dLTWdhcGxKS3R1UVk",
+      "date": "09/17/2026, 01:36 AM, +0000 UTC",
+      "iso_date": "2026-09-17T01:36:40Z"
+    },
+    {
+      "position": 5,
+      "title": "Scientists discover a massive new impact crater on the moon",
+      "source": {
+        "name": "The Weather Channel",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://weather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://weather.com/2026/09/17/science/space/nasa-discovers-new-impact-crater-on-moon",
+      "thumbnail": "https://s.w-x.co/wxnext/img/mooncrater2-9f5c23.jpg?format=auto&optimize=medium&width=1600&quality=60",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUZOazkxVW1KRE9GSmpXa3B1VFJDZkF4ampCU2dLTWdB",
+      "date": "09/17/2026, 12:30 PM, +0000 UTC",
+      "iso_date": "2026-09-17T12:30:00Z"
+    },
+    {
+      "position": 6,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "AP News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://apnews.com/article/moon-lunar-crater-space-nasa-80eea242ad275fda1f7a88587cdccd2f",
+      "thumbnail": "https://dims.apnews.com/dims4/default/a1c36d6/2147483647/strip/false/crop/1900x925+0+0/resize/980x477!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2Fb5%2F5ace67033a651d125cf3abaed08c%2Fc724825192d4491897c15e401d337f24",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVUbVZGWTFSaFprVXhkWE5aVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:00Z"
+    },
+    {
+      "position": 7,
+      "title": "NASA discovers huge 222-meter-diameter crater on Moon",
+      "source": {
+        "name": "A News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.anews.com.tr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.anews.com.tr/world/2026/09/17/nasa-discovers-huge-222-meter-diameter-crater-on-moon",
+      "thumbnail": "https://i.tmgrup.com.tr/anews/v1/2026/09/17/nasa-discovers-huge-222-meter-diameter-crater-on-moon-1789636708439.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxYMlZFU1Y5SlRqaGpTRFpIVFJDZkF4amlCU2dLTWdPaEF3QQ",
+      "date": "09/17/2026, 09:48 AM, +0000 UTC",
+      "iso_date": "2026-09-17T09:48:14Z"
+    },
+    {
+      "position": 8,
+      "title": "‘Once-in-a-century’ event? NASA finds giant new crater on Moon after rare space impact",
+      "source": {
+        "name": "wionews.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kaur Garg"
+        ]
+      },
+      "link": "https://www.wionews.com/science/once-in-a-century-event-nasa-finds-giant-new-crater-on-moon-after-rare-space-impact-1789639551517",
+      "thumbnail": "https://cdn1.wionews.com/prod/wion/images/2026/20260917/image-1789640031064.png?rect=(0,0,1200,900)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRXSGRDZGxwbWJqTmlRemRzVFJEZ0F4aUFCU2dLTWdB",
+      "date": "09/17/2026, 10:26 AM, +0000 UTC",
+      "iso_date": "2026-09-17T10:26:27Z"
+    },
+    {
+      "position": 9,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Gulf Coast News and Weather",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=http://www.abc-7.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "http://www.abc-7.com/article/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon-lunar-surface/73763316",
+      "thumbnail": "https://hips.hearstapps.com/vidthumb/149de6aa-f2a3-4014-a6ab-0ee19e086fc2/26483f29-1dd0-4bcd-9bf3-ba0d930ae141.jpg?crop=1xw:1.0xh;center,top",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFVblZpTURoZk5FVnFSQzFCVFJDb0FSaXNBaWdCTWdaQk1vQVRIUWs",
+      "date": "09/16/2026, 08:07 PM, +0000 UTC",
+      "iso_date": "2026-09-16T20:07:00Z"
+    },
+    {
+      "position": 10,
+      "title": "The crater was said to have been caused by a comet or asteroid that hit the Moon in the spring of 2024. | via ANC 24/7 Link to the full story in the comments section.",
+      "source": {
+        "name": "facebook.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/abscbnNEWS/posts/the-crater-was-said-to-have-been-caused-by-a-comet-or-asteroid-that-hit-the-moon/1682769950564921/",
+      "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1682769900564926",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhkVE4xV0RkelJVVkRXbVZyVFJEN0FSakpBU2dCTWdhQkFab0ZDUXc",
+      "date": "09/17/2026, 06:05 AM, +0000 UTC",
+      "iso_date": "2026-09-17T06:05:04Z"
+    },
+    {
+      "position": 11,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "The Killeen Daily Herald",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://kdhnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://kdhnews.com/business/technology/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/article_ebd4dbc6-503a-5501-b264-296245a35d52.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/c/5c/c5c83d66-184e-5dc2-a6bd-965e563f9c23/6aaada602bd86.image.jpg?resize=400%2C195",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdibWM0U0VadGRrNUxXREppVFJEREFSaVFBeWdLTWdaRlFaRFZyQVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:58Z"
+    },
+    {
+      "position": 12,
+      "title": "NASA spacecraft discovers giant new crater on Moon that went undetected for nearly two years » Iraqi News Agency",
+      "source": {
+        "name": "وكالة الانباء العراقية (واع)",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ina.iq&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ina.iq/en/international/52085-nasa-spacecraft-discovers-giant-new-crater-on-moon-that-went-undetected-for-nearly-two-years.html",
+      "thumbnail": "https://ina.iq/uploads/posts/2026-09/bd5cce0d60_afp__20260916__c8jg4wh__v1__midres__unesondedelanasadecouvreunnouveaucrateresurlalun.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZRMWRTYmxrek5HazRMVWRxVFJDR0F4aVRCaWdLTWdaRlFaRFZyQVk",
+      "date": "09/17/2026, 05:43 AM, +0000 UTC",
+      "iso_date": "2026-09-17T05:43:38Z"
+    },
+    {
+      "position": 13,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "The Seattle Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.seattletimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.seattletimes.com/nation-world/nation/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/",
+      "thumbnail": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.org80eea242ad275fda1f7a88587cdccd2fMoon-New_Crater_32981.jpg?d=1560x759",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhjSGN5UTJwS0xXeDRZalJmVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/16/2026, 06:05 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:05:20Z"
+    },
+    {
+      "position": 14,
+      "title": "NASA finds monster Moon crater hiding in plain sight",
+      "source": {
+        "name": "The Nightly",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thenightly.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://thenightly.com.au/world/nasa-discovers-giant-new-moon-crater-bigger-than-roman-colosseum-after-rare-asteroid-or-comet-impact-c-22883125",
+      "thumbnail": "https://images.thenightly.com.au/publication/C-22883125/89704a1f5f5353340b6c6d4928cd61aa43221249-16x9-x0y0w1280h720.webp?imwidth=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRiM1k0VjBOUWVHRlVPSFJJVFJDb0FSaXNBaWdCTWdhOVFZNzBNQVk",
+      "date": "09/17/2026, 02:18 AM, +0000 UTC",
+      "iso_date": "2026-09-17T02:18:12Z"
+    },
+    {
+      "position": 15,
+      "title": "NASA has discovered a huge crater on the Moon formed by an impact in 2024",
+      "source": {
+        "name": "Informat.ro",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://informat.ro&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://informat.ro/en/itc-knowledge/nasa-discovers-the-largest-recently-formed-crater-on-the-moon-139207",
+      "thumbnail": "https://media-storage.informat.ro/thumbnail_large_6aab80295d07e_profimedia-1135437341.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhORTUyVVd4ME5rSktVMkZNVFJEZ0FSamhBU2dCTWdZbFpKS3V0UVk",
+      "date": "09/17/2026, 05:52 AM, +0000 UTC",
+      "iso_date": "2026-09-17T05:52:55Z"
+    },
+    {
+      "position": 16,
+      "title": "Rare lunar impact creates largest newly discovered crater in solar system",
+      "source": {
+        "name": "Malay Mail",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.malaymail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.malaymail.com/news/life/2026/09/17/rare-lunar-impact-creates-largest-newly-discovered-crater-in-solar-system/235489",
+      "thumbnail": "https://www.malaymail.com/malaymail/uploads/images/2026/09/17/363000.jpg?v=1789631940",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkV3MwV2tFM1VFZ3dUR0ZCVFJERUF4aW5CU2dLTWdZZFVvcEtyUVU",
+      "date": "09/17/2026, 03:47 AM, +0000 UTC",
+      "iso_date": "2026-09-17T03:47:36Z"
+    },
+    {
+      "position": 17,
+      "title": "NASA finds ‘once-in-a-century’ moon crater bigger than Roman Colosseum",
+      "source": {
+        "name": "The News International",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thenews.com.pk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Qaddus Tahir"
+        ]
+      },
+      "link": "https://www.thenews.com.pk/latest/1416550-nasa-finds-once-in-a-century-moon-crater-bigger-than-roman-colosseum",
+      "thumbnail": "https://www.thenews.com.pk/assets/uploads/2026-09-17/1416550_125543_updates.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJTRkV3UVZSaFExOHhVVlZ2VFJDakF4amRCU2dLTWdB",
+      "date": "09/17/2026, 07:55 AM, +0000 UTC",
+      "iso_date": "2026-09-17T07:55:00Z"
+    },
+    {
+      "position": 18,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Sentinel and Enterprise",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sentinelandenterprise.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.sentinelandenterprise.com/2026/09/16/nasa-new-moon-crater/",
+      "thumbnail": "https://www.sentinelandenterprise.com/wp-content/uploads/2026/09/Moon-New_Crater_32981.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1hV0ppU1RrMWRsWnFRamhYVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/16/2026, 07:06 PM, +0000 UTC",
+      "iso_date": "2026-09-16T19:06:43Z"
+    },
+    {
+      "position": 19,
+      "title": "NASA confirms massive new crater formed on Moon by 2024 impact",
+      "source": {
+        "name": "İlke Haber Ajansı",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://ilkha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ilkha.com/english/science-technology/nasa-confirms-massive-new-crater-formed-on-moon-by-2024-impact-562881",
+      "thumbnail": "https://ilkha.com/img/NewsGallery/2026/9/17/562881/FeaturedImage/54ee2b8f-e285-4636-b6ec-967bcbf478fc.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNNRGxsV1VaRlZtMXFSamREVFJERUF4aW5CU2dLTWdaRllKQzFzQVk",
+      "date": "09/17/2026, 06:57 AM, +0000 UTC",
+      "iso_date": "2026-09-17T06:57:57Z"
+    },
+    {
+      "position": 20,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Toronto Star",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.thestar.com/news/world/united-states/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/article_04d324a9-92ea-5a5d-91ae-d42ed44947f7.html",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/9f/49f722a1-0133-5e78-b321-ca5c55f35844/6aaadb79e8120.image.jpg?resize=1200%2C583",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZNakJPYkU1WmIzb3lTekp6VFJDQ0F4aWJCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/16/2026, 06:04 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:04:42Z"
+    },
+    {
+      "position": 21,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Terre Haute Tribune-Star",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tribstar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.tribstar.com/region/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/article_bec92142-a0dc-5786-afe8-c0ee47a42c93.html",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/c/12/c12afee1-efba-5e22-9b8e-334bac28e535/6aaaeb1f12323.image.jpg?resize=400%2C195",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdibWM0U0VadGRrNUxXREppVFJEREFSaVFBeWdLTWdaRlFaRFZyQVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:00Z"
+    },
+    {
+      "position": 22,
+      "title": "NASA Discovers Largest New Crater on Moon",
+      "source": {
+        "name": "Ratopati",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://english.ratopati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://english.ratopati.com/story/79651/new-giant-crater-discovered-on-the-moon",
+      "thumbnail": "https://rpcdn.ratopati.com/archived-media/3full_moon6.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRXV3BVUmpjeE9YYzBlR1JpVFJEekFoaVVCU2dLTWdZMVlvd3hLUVk",
+      "date": "09/17/2026, 09:03 AM, +0000 UTC",
+      "iso_date": "2026-09-17T09:03:11Z"
+    },
+    {
+      "position": 23,
+      "title": "Massive moon crater discovered after powerful 2024 impact",
+      "source": {
+        "name": "BusinessLine",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindubusinessline.com/news/science/moon-crater-bigger-than-roman-colosseum-discovered-by-nasa-spacecraft/article71475115.ece",
+      "thumbnail": "https://bl-i.thgim.com/public/incoming/lhhzuv/article71475117.ece/alternates/LANDSCAPE_1200/moon%20carter%20nasa.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJjMm80TUZOZmFXTkdhbWR2VFJDZkF4ampCU2dLTWdZZE5KQ3NxUVk",
+      "date": "09/17/2026, 12:46 AM, +0000 UTC",
+      "iso_date": "2026-09-17T00:46:35Z"
+    },
+    {
+      "position": 24,
+      "title": "NASA spacecraft discovers massive new moon crater",
+      "source": {
+        "name": "juneesoutherncross.com.au",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.juneesoutherncross.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.juneesoutherncross.com.au/story/9352093/nasa-spacecraft-discovers-massive-new-moon-crater/",
+      "thumbnail": "https://www.juneesoutherncross.com.au/images/transform/v1/crop/frm/silverstone-feed-data/503dbb43-c8ab-4897-be1a-54984e43c598.jpg/r0_0_800_600_w800_h600_fmax.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlaakE0UzIxc1VsaHVjbFJmVFJEQ0FSaURBaWdCTWdheFFwQlFNUVk",
+      "date": "09/17/2026, 01:39 AM, +0000 UTC",
+      "iso_date": "2026-09-17T01:39:03Z"
+    },
+    {
+      "position": 25,
+      "title": "Massive new crater discovered on Moon | It is named after lunar scientist Tom McGetchin | Inshorts",
+      "source": {
+        "name": "Inshorts",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://inshorts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://inshorts.com/en/news/massive-new-crater-discovered-on-moon-1789618571830",
+      "thumbnail": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/09_sep/17_thu/img_1789617520962_791.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpVa2RKUTBKc2RTMXZiRXhmVFJDcEJCaXFCQ2dLTWdZbFpKS3V0UVk",
+      "date": "09/17/2026, 04:21 AM, +0000 UTC",
+      "iso_date": "2026-09-17T04:21:52Z"
+    },
+    {
+      "position": 26,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "The Batesville Daily Guard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.guardonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.guardonline.com/news/national/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/article_6f0af4cf-750a-50da-baed-b0ec3abee8e9.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/assets/v3/editorial/3/4f/34f1c357-dda6-54ac-bde4-eac7021905f1/6aaade3ee2da2.image.jpg?resize=1200%2C584",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkRlprVFdkdGRVWnNSMmhIVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:58Z"
+    },
+    {
+      "position": 27,
+      "title": "NASA scan discovers 'once in a century' Moon crater",
+      "source": {
+        "name": "Sharjah24",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sharjah24.ae&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://sharjah24.ae/en/Articles/2026/09/17/NASA-scan-discovers-once-in-a-century-Moon-crater",
+      "thumbnail": "https://sharjah24.ae/-/media/Sharjah24/Articles/2026/September-2026/17/NASA-scan-discovers-once-in-a-century-Moon-crater.jpg?h=1080&w=1920&hash=9A09B65C2F7A598C3133377FE3F6533E",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVVVaTF4ZVZwTlNqaGZRMGRNVFJDb0FSaXNBaWdCTWdNdDFRdw",
+      "date": "09/17/2026, 05:13 AM, +0000 UTC",
+      "iso_date": "2026-09-17T05:13:05Z"
+    },
+    {
+      "position": 28,
+      "title": "New ‘Once in a century’ Moon crater discovered by NASA scan",
+      "source": {
+        "name": "cebudailynews.inquirer.net",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cebudailynews.inquirer.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cebudailynews.inquirer.net/767370/new-once-in-a-century-moon-crater-discovered-by-nasa-scan/amp",
+      "thumbnail": "https://cebudailynews.inquirer.net/files/2026/09/AFP__20260916__C8JG9NT__v1__HighRes__UneSondeDeLaNasaDecouvreUnNouveauCratereSurLaLu-1-1024x1024.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSM1ZMWHpKc1lXcDFNRGhKVFJDcUJCaXFCQ2dLTWdhcGxKS3R1UVk",
+      "date": "09/17/2026, 01:21 AM, +0000 UTC",
+      "iso_date": "2026-09-17T01:21:27Z"
+    },
+    {
+      "position": 29,
+      "title": "NASA spacecraft discovers massive new moon crater",
+      "source": {
+        "name": "South Coast Register",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.southcoastregister.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.southcoastregister.com.au/story/9352093/nasa-spacecraft-discovers-massive-new-moon-crater/",
+      "thumbnail": "https://www.southcoastregister.com.au/images/transform/v1/crop/frm/silverstone-feed-data/503dbb43-c8ab-4897-be1a-54984e43c598.jpg/r0_0_800_600_w800_h600_fmax.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlaakE0UzIxc1VsaHVjbFJmVFJEQ0FSaURBaWdCTWdheFFwQlFNUVk",
+      "date": "09/17/2026, 01:41 AM, +0000 UTC",
+      "iso_date": "2026-09-17T01:41:52Z"
+    },
+    {
+      "position": 30,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "sharonherald.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sharonherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.sharonherald.com/ap/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/article_65e1ca0e-8730-502e-aab6-04063d3260de.html",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/sharonherald.com/content/tncms/assets/v3/editorial/c/2b/c2b23bd3-678b-5a8e-87be-2b7bda2a55b8/6aab3ff382970.image.jpg?resize=400%2C195",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdibWM0U0VadGRrNUxXREppVFJEREFSaVFBeWdLTWdaRlFaRFZyQVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:00Z"
+    },
+    {
+      "position": 31,
+      "title": "NASA scan discovers new, ‘once in a century’ Moon crater",
+      "source": {
+        "name": "The Sun Malaysia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesun.my&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thesun.my/news/world-news/nasa-scan-discovers-new-once-in-a-century-moon-crater/",
+      "thumbnail": "https://thesun.my/wp-content/uploads/2026/09/US-ASTRONOMY-SPACE-MOON-CRATER.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNiV2c0TXpWSGVrZHhNbmR4VFJDcUFoallCQ2dLTWdaRlFaRFZyQVk",
+      "date": "09/17/2026, 12:49 AM, +0000 UTC",
+      "iso_date": "2026-09-17T00:49:16Z"
+    },
+    {
+      "position": 32,
+      "title": "NASA scan discovers new, 'once in a century' Moon crater",
+      "source": {
+        "name": "Newswav",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://newswav.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newswav.com/article/nasa-scan-discovers-new-once-in-a-century-moon-crater-A2609_qLK1Fl",
+      "thumbnail": "https://imgproxy.newswav.com/1000x400,q50=/https://thesun.my/wp-content/uploads/2026/09/US-ASTRONOMY-SPACE-MOON-CRATER.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhVWE5QWmxkd1JsOVdkM2hpVFJDZUFSaV9BaWdCTWdaRlFaRFZyQVk",
+      "date": "09/17/2026, 12:42 AM, +0000 UTC",
+      "iso_date": "2026-09-17T00:42:53Z"
+    },
+    {
+      "position": 33,
+      "title": "NASA Discovers a Massive Recently Formed Crater on the Moon",
+      "source": {
+        "name": "وكالة صدى نيوز",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sadanews.ps&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sadanews.ps/en/news/335223.html",
+      "thumbnail": "https://www.sadanews.ps/cached_uploads/resize/960/831/2026/09/17/ab0d134a4eb53ce294ac499ae563f85e-1789621666.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlabFJNYkdaMk4ycHVkRzAwVFJDcUJCaXFCQ2dLTWdhcGxKS3R1UVk",
+      "date": "09/17/2026, 05:38 AM, +0000 UTC",
+      "iso_date": "2026-09-17T05:38:53Z"
+    },
+    {
+      "position": 34,
+      "title": "Asteroid crash on moon created crater bigger than Roman Colosseum, NASA finds",
+      "source": {
+        "name": "Geo News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geo.tv&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.geo.tv/latest/682518-asteroid-crash-on-moon-created-crater-bigger-than-roman-colosseum-nasa-finds",
+      "thumbnail": "https://www.geo.tv/assets/uploads/updates/2026-09-17/682518_1373820_updates.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdMV2d5UWxaWFlsazNlRmQ1VFJDUUF4aThCU2dLTWdhaEU0cU5OUVU",
+      "date": "09/17/2026, 04:23 PM, +0000 UTC",
+      "iso_date": "2026-09-17T16:23:00Z"
+    },
+    {
+      "position": 35,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Newswav",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://newswav.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newswav.com/article/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon-A2609_7eCu9f",
+      "thumbnail": "https://static.independent.co.uk/2026/09/16/19/Moon-New_Crater_32981.jpg?width=1200&auto=webp&crop=3%3A2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhjMjkzTTNsb1JEaEZXVjlGVFJERUF4aW1CU2dLTWdaTlVKQllzQVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:58Z"
+    },
+    {
+      "position": 36,
+      "title": "A giant object slammed into the Moon: NASA discovers the damage two years later",
+      "source": {
+        "name": "News9live",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.news9live.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news9live.com/science/nasa-finds-giant-new-moon-crater-rare-100-year-impact-3008296",
+      "thumbnail": "https://images.news9live.com/wp-content/uploads/2026/09/nasa-moon-crater-2024-asteroid-impact-discovery.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZabVV3Y0dJeFoxTTNhUzFwVFJDZkF4ampCU2dLTWdaTk1JYVhMQVk",
+      "date": "09/17/2026, 07:16 AM, +0000 UTC",
+      "iso_date": "2026-09-17T07:16:30Z"
+    },
+    {
+      "position": 37,
+      "title": "NASA finds huge new moon crater from 2024 impact",
+      "source": {
+        "name": "Rolling Out",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://rollingout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://rollingout.com/2026/09/16/nasa-finds-huge-new-moon-crater-impact/",
+      "thumbnail": "https://rollingout.com/wp-content/uploads/2026/09/6aaae3c24cf06.image-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRUMjFITTE5aU1XcHlaRzVrVFJERUF4aW1CU2dLTWdaTlVKQllyQVk",
+      "date": "09/16/2026, 08:32 PM, +0000 UTC",
+      "iso_date": "2026-09-16T20:32:12Z"
+    },
+    {
+      "position": 38,
+      "title": "Massive new crater discovered on Moon by NASA’s LRO",
+      "source": {
+        "name": "ARYnews.tv",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arynews.tv&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kumail Shah"
+        ]
+      },
+      "link": "https://arynews.tv/massive-new-crater-discovered-on-moon-by-nasas-lro",
+      "thumbnail": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Largest-Moon-Crater.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVNMHBRUnpCT1RXOWphM28zVFJDZkF4ampCU2dLTWdB",
+      "date": "09/17/2026, 02:06 PM, +0000 UTC",
+      "iso_date": "2026-09-17T14:06:41Z"
+    },
+    {
+      "position": 39,
+      "title": "'141 Feet Deep, Wider Than Two Football Fields': NASA Spacecraft Discovers Huge New Crater On Moon",
+      "source": {
+        "name": "The Daily Jagran",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thedailyjagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thedailyjagran.com/world/news/nasa-lro-discovers-massive-moon-crater-largest-recent-impact-10329507",
+      "thumbnail": "https://images.thedailyjagran.com/images/2026/09/17/template/image/nasa-1789639883951.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZUbVpWTURkS2VqZFJRMkZrVFJDZkF4ampCU2dLTWdZbGhaS3R0UVk",
+      "date": "09/17/2026, 10:30 AM, +0000 UTC",
+      "iso_date": "2026-09-17T10:30:00Z"
+    },
+    {
+      "position": 40,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "breitbart.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.breitbart.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.breitbart.com/news/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/amp/",
+      "thumbnail": "https://media.breitbart.com/media/2026/09/wi/ap/moon-crater-32981-moon-crater-combination-of-photos-by-nasa-lunar-reconnaissance-orbiter.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVTbkl0VjNWUmRGUllObVZyVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/16/2026, 06:34 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:34:36Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

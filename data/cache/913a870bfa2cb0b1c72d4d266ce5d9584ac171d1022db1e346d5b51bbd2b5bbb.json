@@ -1,0 +1,366 @@
+{
+  "search_metadata": {
+    "id": "6ab161157dcfbea5d3cafd26",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oyL6EspeoeBCX-zZZHVXg53WJ7SEd27Kjp6ohj_1m6k/6ab161157dcfbea5d3cafd26.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oyL6EspeoeBCX-zZZHVXg53WJ7SEd27Kjp6ohj_1m6k/6ab161157dcfbea5d3cafd26.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/oyL6EspeoeBCX-zZZHVXg53WJ7SEd27Kjp6ohj_1m6k/6ab161157dcfbea5d3cafd26.json_with_pixel_position",
+    "created_at": "2026-09-21 16:53:41 UTC",
+    "processed_at": "2026-09-21 16:53:41 UTC",
+    "google_url": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&oq=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/oyL6EspeoeBCX-zZZHVXg53WJ7SEd27Kjp6ohj_1m6k/6ab161157dcfbea5d3cafd26.html",
+    "total_time_taken": 0.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "iit bombay professor suryanarayana doolla case before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "iit bombay professor suryanarayana doolla case before:2026-01-01",
+    "total_results": 13800,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Who is IIT Bombay Professor Doolla, booked after student's ...",
+      "link": "https://inshorts.com/en/news/who-is-iit-bombay-professor-doolla--booked-after-student-s-suicide--1789956014833",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFSeWkTZH4EF1klfs5wI7jz92hnRtpoMzV4bUs5jBhNL88HGkBFxxxdEqGTWQv0dh3-B1ydJWTMD6Yn7BJnrKOyOeejRve0JDQEB3pFDAaCAnk53YkJKWhUkwZwFdywL5aiF5vjAYI8b_8si21_6DNus_Frz7eEtIJOuTV5Q_8yDidPOXWWwTuxoqCbBwwbC64nOdXpIMTcJiU0rfjIwHwDPj&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://inshorts.com › news › who-is-iit-bombay-profes...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0NCP0QDP6rKf1Ukb929n8zMn____80tD6sa0s4MR7AAAACnRSTlMAFi5BVmmC2P_NXjSKqwAAALVJREFUeAGFkwEKwyAMRaNqm5ra1N3_sLMfN-c26wMC-DB8YiRAxjrvfQihVGcNNZaVf9gWAjwA90byuruN5PruGivCLKiFl5S9wiLpOBKsIYN7elY0xnyeOXLBkv0nFdKRq20fYGeWpMpo68n3gbgFahLgeCAl5ZwEFTZQaBI5a6C5vG87D9SOe-ngWDXJVVk-h1DHhyj6PT7T58zd4Alt8Uyo3ZPRONDtmswWjEZyvtTj7_AEn3caOhXaW6oAAAAASUVORK5CYII.png",
+      "date": "Aug 8, 2015",
+      "snippet": "Suryanarayana Doolla, named in FIR after death of IIT Bombay student Sahil Wakode, booked after student's suicide? Police registered abetment case against ...",
+      "snippet_highlighted_words": [
+        "Suryanarayana Doolla",
+        "IIT Bombay",
+        "case"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Suryanarayana Doolla, named in FIR after death of IIT Bombay student Sahil Wakode, booked after student's suicide? Police registered abetment case against  ...",
+          "source_info_link": "https://inshorts.com/en/news/who-is-iit-bombay-professor-doolla--booked-after-student-s-suicide--1789956014833",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0Qzb0NCP0QDP6rKf1Ukb929n8zMn____80tD6sa0s4MR7AAAACnRSTlMAFi5BVmmC2P_NXjSKqwAAALVJREFUeAGFkwEKwyAMRaNqm5ra1N3_sLMfN-c26wMC-DB8YiRAxjrvfQihVGcNNZaVf9gWAjwA90byuruN5PruGivCLKiFl5S9wiLpOBKsIYN7elY0xnyeOXLBkv0nFdKRq20fYGeWpMpo68n3gbgFahLgeCAl5ZwEFTZQaBI5a6C5vG87D9SOe-ngWDXJVVk-h1DHhyj6PT7T58zd4Alt8Uyo3ZPRONDtmswWjEZyvtTj7_AEn3caOhXaW6oAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZTZVdrVFpINEVGMWtsZnM1d0k3ano5MmhuUnRwb016VjRiVXM1akJoTkw4OEhHa0JGeHh4ZEVxR1RXUXYwZGgzLUIxeWRKV1RNRDZZbjdCSm5yS095T2VlalJ2ZTBKRFFFQjNwRkRBYUNBbms1M1lrSktXaFVrd1p3RmR5d0w1YWlGNXZqQVlJOGJfOHNpMjFfNkROdXNfRnJ6N2VFdElKT3VUVjVRXzh5RGlkUE9YV1d3VHV4b3FDYkJ3d2JDNjRuT2RYcElNVGNKaVUwcmZqSXdId0RQahIEGgIIABrRBhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCtBggAEAAYACAAKkUKA2lpdBUsjsBAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FUQpukAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFcPKq0AaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRVZWps_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFfr-o0AaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVUHMHPRoFY2FzZXMy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlNlV2tUWkg0RUYxa2xmczV3STdqejkyaG5SdHBvTXpWNGJVczVqQmhOTDg4SEdrQkZ4eHhkRXFHVFdRdjBkaDMtQjF5ZEpXVE1ENlluN0JKbnJLT3lPZWVqUnZlMEpEUUVCM3BGREFhQ0FuazUzWWtKS1doVWt3WndGZHl3TDVhaUY1dmpBWUk4Yl84c2kyMV82RE51c19Gcno3ZUV0SUpPdVRWNVFfOHlEaWRQT1hXV3dUdXhvcUNiQnd3YkM2NG5PZFhwSU1UY0ppVTByZmpJd0h3RFBqOklXaG8gaXMgPGI-SUlUIEJvbWJheSBQcm9mZXNzb3IgRG9vbGxhPC9iPiwgYm9va2VkIGFmdGVyIHN0dWRlbnQmIzM5O3MgLi4uQsQBPGI-U3VyeWFuYXJheWFuYSBEb29sbGE8L2I-LCBuYW1lZCBpbiBGSVIgYWZ0ZXIgZGVhdGggb2YgPGI-SUlUIEJvbWJheTwvYj4gc3R1ZGVudCBTYWhpbCBXYWtvZGUsIGJvb2tlZCBhZnRlciBzdHVkZW50JiMzOTtzIHN1aWNpZGU_IFBvbGljZSByZWdpc3RlcmVkIGFiZXRtZW50IDxiPmNhc2U8L2I-IGFnYWluc3QgPGI-PC9iPiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZTZVdrVFpINEVGMWtsZnM1d0k3ano5MmhuUnRwb016VjRiVXM1akJoTkw4OEhHa0JGeHh4ZEVxR1RXUXYwZGgzLUIxeWRKV1RNRDZZbjdCSm5yS095T2VlalJ2ZTBKRFFFQjNwRkRBYUNBbms1M1lrSktXaFVrd1p3RmR5d0w1YWlGNXZqQVlJOGJfOHNpMjFfNkROdXNfRnJ6N2VFdElKT3VUVjVRXzh5RGlkUE9YV1d3VHV4b3FDYkJ3d2JDNjRuT2RYcElNVGNKaVUwcmZqSXdId0RQahIEGgIIABrRBhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCtBggAEAAYACAAKkUKA2lpdBUsjsBAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FUQpukAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFcPKq0AaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRVZWps_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFfr-o0AaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVUHMHPRoFY2FzZXMy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlNlV2tUWkg0RUYxa2xmczV3STdqejkyaG5SdHBvTXpWNGJVczVqQmhOTDg4SEdrQkZ4eHhkRXFHVFdRdjBkaDMtQjF5ZEpXVE1ENlluN0JKbnJLT3lPZWVqUnZlMEpEUUVCM3BGREFhQ0FuazUzWWtKS1doVWt3WndGZHl3TDVhaUY1dmpBWUk4Yl84c2kyMV82RE51c19Gcno3ZUV0SUpPdVRWNVFfOHlEaWRQT1hXV3dUdXhvcUNiQnd3YkM2NG5PZFhwSU1UY0ppVTByZmpJd0h3RFBqOklXaG8gaXMgPGI-SUlUIEJvbWJheSBQcm9mZXNzb3IgRG9vbGxhPC9iPiwgYm9va2VkIGFmdGVyIHN0dWRlbnQmIzM5O3MgLi4uQsQBPGI-U3VyeWFuYXJheWFuYSBEb29sbGE8L2I-LCBuYW1lZCBpbiBGSVIgYWZ0ZXIgZGVhdGggb2YgPGI-SUlUIEJvbWJheTwvYj4gc3R1ZGVudCBTYWhpbCBXYWtvZGUsIGJvb2tlZCBhZnRlciBzdHVkZW50JiMzOTtzIHN1aWNpZGU_IFBvbGljZSByZWdpc3RlcmVkIGFiZXRtZW50IDxiPmNhc2U8L2I-IGFnYWluc3QgPGI-PC9iPiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Inshorts"
+    },
+    {
+      "position": 2,
+      "title": "Suryanarayana Doolla - Indian Institute of Technology, ...",
+      "link": "https://in.linkedin.com/in/suryanarayanadoolla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVLcuznlkKjAZQWovQ1lV9lpVp_tLkKcyk7WQ4hvUYUHy7KlSolS_qXPOsgDgmhTFg6-9bdgTrPizK4fio0fg7QcLQ_7DW4zHZa6pXDJAbG_Yg9HmqBQSi3BQiaXzJWYLnjw&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBwQAQ&uoh=1",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "Hi.. with background of Power electronics and Power systems, I started working in the… · Experience: Indian Institute of Technology, Bombay · Location: ...",
+      "snippet_highlighted_words": [
+        "Indian Institute of Technology",
+        "Bombay"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mumbai, Maharashtra, India",
+            "Indian Institute of Technology, Bombay"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Hi.. with background of Power electronics and Power systems, I started working in the… · Experience: Indian Institute of Technology, Bombay · Location: ...",
+          "source_info_link": "https://in.linkedin.com/in/suryanarayanadoolla",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkxjdXpubGtLakFaUVdvdlExbFY5bHBWcF90TGtLY3lrN1dRNGh2VVlVSHk3S2xTb2xTX3FYUE9zZ0RnbWhURmc2LTliZGdUclBpeks0ZmlvMGZnN1FjTFFfN0RXNHpIWmE2cFhESkFiR19ZZzlIbXFCUVNpM0JRaWFYekpXWUxuancSBBoCCAAa9AUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKkUKA2lpdBVsc9k_GgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FRbsjUAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQQgqT4aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRWShZ1AGg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFbCRlUAaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVAAAAABoFY2FzZXMymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWTGN1em5sa0tqQVpRV292UTFsVjlscFZwX3RMa0tjeWs3V1E0aHZVWVVIeTdLbFNvbFNfcVhQT3NnRGdtaFRGZzYtOWJkZ1RyUGl6SzRmaW8wZmc3UWNMUV83RFc0ekhaYTZwWERKQWJHX1lnOUhtcUJRU2kzQlFpYVh6SldZTG5qdzpSPGI-U3VyeWFuYXJheWFuYSBEb29sbGE8L2I-IC0gPGI-SW5kaWFuIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5PC9iPiwgPGI-Qm9tYmF5PC9iPkKyAUhpLi4gd2l0aCBiYWNrZ3JvdW5kIG9mIFBvd2VyIGVsZWN0cm9uaWNzIGFuZCBQb3dlciBzeXN0ZW1zLCBJIHN0YXJ0ZWQgd29ya2luZyBpbiB0aGXigKYgwrcgRXhwZXJpZW5jZTogPGI-SW5kaWFuIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5PC9iPiwgPGI-Qm9tYmF5PC9iPiDCtyBMb2NhdGlvbjombmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkxjdXpubGtLakFaUVdvdlExbFY5bHBWcF90TGtLY3lrN1dRNGh2VVlVSHk3S2xTb2xTX3FYUE9zZ0RnbWhURmc2LTliZGdUclBpeks0ZmlvMGZnN1FjTFFfN0RXNHpIWmE2cFhESkFiR19ZZzlIbXFCUVNpM0JRaWFYekpXWUxuancSBBoCCAAa9AUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKkUKA2lpdBVsc9k_GgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FRbsjUAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQQgqT4aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRWShZ1AGg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFbCRlUAaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVAAAAABoFY2FzZXMymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWTGN1em5sa0tqQVpRV292UTFsVjlscFZwX3RMa0tjeWs3V1E0aHZVWVVIeTdLbFNvbFNfcVhQT3NnRGdtaFRGZzYtOWJkZ1RyUGl6SzRmaW8wZmc3UWNMUV83RFc0ekhaYTZwWERKQWJHX1lnOUhtcUJRU2kzQlFpYVh6SldZTG5qdzpSPGI-U3VyeWFuYXJheWFuYSBEb29sbGE8L2I-IC0gPGI-SW5kaWFuIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5PC9iPiwgPGI-Qm9tYmF5PC9iPkKyAUhpLi4gd2l0aCBiYWNrZ3JvdW5kIG9mIFBvd2VyIGVsZWN0cm9uaWNzIGFuZCBQb3dlciBzeXN0ZW1zLCBJIHN0YXJ0ZWQgd29ya2luZyBpbiB0aGXigKYgwrcgRXhwZXJpZW5jZTogPGI-SW5kaWFuIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5PC9iPiwgPGI-Qm9tYmF5PC9iPiDCtyBMb2NhdGlvbjombmJzcDsuLi4iAhABSABYAGgA",
+      "source": "LinkedIn · Suryanarayana Doolla"
+    },
+    {
+      "position": 3,
+      "title": "IIT Bombay",
+      "link": "https://x.com/iitbombay/status/1972609674026344897",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVSutbPcQJc93vrTfIK2UHtwfQF1hh8uYA4iR8Agy0J6EHf2aKXr0VHM7IO4MXF9K6rajTsA01Wrra0GvD9pLp2LLvUPHhLpSwI3_gEG_vUm8Q10plxd3OKuQUjlZkhy8DytubPhI&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBgQAQ&uoh=1",
+      "displayed_link": "10+ likes",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+      "snippet": "Prof. Suryanarayana Doolla, Dean (Student Affairs) delivered the keynote address and explained the meaning of ragging, and what all comes under the ambit of ...",
+      "snippet_highlighted_words": [
+        "Prof",
+        "Suryanarayana Doolla"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prof. Suryanarayana Doolla, Dean (Student Affairs) delivered the keynote address and explained the meaning of ragging, and what all comes under the ambit of ...",
+          "source_info_link": "https://x.com/iitbombay/status/1972609674026344897",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVlN1dGJQY1FKYzkzdnJUZklLMlVIdHdmUUYxaGg4dVlBNGlSOEFneTBKNkVIZjJhS1hyMFZITTdJTzRNWEY5SzZyYWpUc0EwMVdycmEwR3ZEOXBMcDJMTHZVUEhoTHBTd0kzX2dFR192VW04UTEwcGx4ZDNPS3VRVWpsWmtoeThEeXR1YlBoSRIEGgIIABq8BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCYBQgAEAAYACAAKkUKA2lpdBUIDcBAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FQgNwEAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQAAAAAaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRUQjCxAGg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFRCMLEAaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVAAAAABoFY2FzZXMynQEvZ290bz91cmw9Q0FFU2FnSHJPekFWU3V0YlBjUUpjOTN2clRmSUsyVUh0d2ZRRjFoaDh1WUE0aVI4QWd5MEo2RUhmMmFLWHIwVkhNN0lPNE1YRjlLNnJhalRzQTAxV3JyYTBHdkQ5cExwMkxMdlVQSGhMcFN3STNfZ0VHX3ZVbThRMTBwbHhkM09LdVFVamxaa2h5OER5dHViUGhJOhY8Yj5JSVQgQm9tYmF5PC9iPiBvbiBYQrMBPGI-UHJvZjwvYj4uIDxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiwgRGVhbiAoU3R1ZGVudCBBZmZhaXJzKSBkZWxpdmVyZWQgdGhlIGtleW5vdGUgYWRkcmVzcyBhbmQgZXhwbGFpbmVkIHRoZSBtZWFuaW5nIG9mIHJhZ2dpbmcsIGFuZCB3aGF0IGFsbCBjb21lcyB1bmRlciB0aGUgYW1iaXQgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVlN1dGJQY1FKYzkzdnJUZklLMlVIdHdmUUYxaGg4dVlBNGlSOEFneTBKNkVIZjJhS1hyMFZITTdJTzRNWEY5SzZyYWpUc0EwMVdycmEwR3ZEOXBMcDJMTHZVUEhoTHBTd0kzX2dFR192VW04UTEwcGx4ZDNPS3VRVWpsWmtoeThEeXR1YlBoSRIEGgIIABq8BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCYBQgAEAAYACAAKkUKA2lpdBUIDcBAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FQgNwEAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQAAAAAaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRUQjCxAGg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFRCMLEAaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVAAAAABoFY2FzZXMynQEvZ290bz91cmw9Q0FFU2FnSHJPekFWU3V0YlBjUUpjOTN2clRmSUsyVUh0d2ZRRjFoaDh1WUE0aVI4QWd5MEo2RUhmMmFLWHIwVkhNN0lPNE1YRjlLNnJhalRzQTAxV3JyYTBHdkQ5cExwMkxMdlVQSGhMcFN3STNfZ0VHX3ZVbThRMTBwbHhkM09LdVFVamxaa2h5OER5dHViUGhJOhY8Yj5JSVQgQm9tYmF5PC9iPiBvbiBYQrMBPGI-UHJvZjwvYj4uIDxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiwgRGVhbiAoU3R1ZGVudCBBZmZhaXJzKSBkZWxpdmVyZWQgdGhlIGtleW5vdGUgYWRkcmVzcyBhbmQgZXhwbGFpbmVkIHRoZSBtZWFuaW5nIG9mIHJhZ2dpbmcsIGFuZCB3aGF0IGFsbCBjb21lcyB1bmRlciB0aGUgYW1iaXQgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "X · iitbombay"
+    },
+    {
+      "position": 4,
+      "title": "IIT Bombay on Instagram",
+      "link": "https://www.instagram.com/p/DPLtRAUEei5/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVVeH9TC2mue1US6eXcag0ZYhoMLpcSGyGjd6QEQroP7WXTOnV9dm1WlYGEpA0xWyEhH_wD5yHbJib99a_gj4dpDWoH2sDHcX0lyJ1P2DVcSysjQ8nYJ2H5ulVsg&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBIQAQ&uoh=1",
+      "displayed_link": "20+ likes",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "Prof. Suryanarayana Doolla, Dean (Student Affairs) delivered the keynote address and explained the meaning of ragging, and what all comes under the ambit of ...",
+      "snippet_highlighted_words": [
+        "Prof",
+        "Suryanarayana Doolla"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prof. Suryanarayana Doolla, Dean (Student Affairs) delivered the keynote address and explained the meaning of ragging, and what all comes under the ambit of ...",
+          "source_info_link": "https://www.instagram.com/p/DPLtRAUEei5/",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVlZlSDlUQzJtdWUxVVM2ZVhjYWcwWllob01McGNTR3lHamQ2UUVRcm9QN1dYVE9uVjlkbTFXbFlHRXBBMHhXeUVoSF93RDV5SGJKaWI5OWFfZ2o0ZHBEV29IMnNESGNYMGx5SjFQMkRWY1N5c2pROG5ZSjJINXVsVnNnEgQaAggAGrcFEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJMFCAAQABgAIAAqRQoDaWl0FfEmfUAaBGlpdGIaHmluZGlhbiBpbnN0aXR1dGUgb2YgdGVjaG5vbG9neRoJaWl0Ym9tYmF5GghpdjtwO2lpdCorCgZib21iYXkVobByQBoEaWl0YhoJaWl0Ym9tYmF5GgtpdjtwO2JvbWJheSorCglwcm9mZXNzb3IVAAAAABoEcHJvZhoKcHJvZmVzc29ycxoHdGVhY2hlcipGCg1zdXJ5YW5hcmF5YW5hFd5n6T8aDnN1cnlhIG5hcmF5YW5hGgxzdXJ5YW5hcmF5YW4aEml2O3A7c3VyeWFuYXJheWFuYSojCgZkb29sbGEV3mfpPxoHZG9vbCBsYRoLaXY7cDtkb29sbGEqEgoEY2FzZRUAAAAAGgVjYXNlczKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZWZUg5VEMybXVlMVVTNmVYY2FnMFpZaG9NTHBjU0d5R2pkNlFFUXJvUDdXWFRPblY5ZG0xV2xZR0VwQTB4V3lFaEhfd0Q1eUhiSmliOTlhX2dqNGRwRFdvSDJzREhjWDBseUoxUDJEVmNTeXNqUThuWUoySDV1bFZzZzoePGI-SUlUIEJvbWJheTwvYj4gb24gSW5zdGFncmFtQrMBPGI-UHJvZjwvYj4uIDxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiwgRGVhbiAoU3R1ZGVudCBBZmZhaXJzKSBkZWxpdmVyZWQgdGhlIGtleW5vdGUgYWRkcmVzcyBhbmQgZXhwbGFpbmVkIHRoZSBtZWFuaW5nIG9mIHJhZ2dpbmcsIGFuZCB3aGF0IGFsbCBjb21lcyB1bmRlciB0aGUgYW1iaXQgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVlZlSDlUQzJtdWUxVVM2ZVhjYWcwWllob01McGNTR3lHamQ2UUVRcm9QN1dYVE9uVjlkbTFXbFlHRXBBMHhXeUVoSF93RDV5SGJKaWI5OWFfZ2o0ZHBEV29IMnNESGNYMGx5SjFQMkRWY1N5c2pROG5ZSjJINXVsVnNnEgQaAggAGrcFEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJMFCAAQABgAIAAqRQoDaWl0FfEmfUAaBGlpdGIaHmluZGlhbiBpbnN0aXR1dGUgb2YgdGVjaG5vbG9neRoJaWl0Ym9tYmF5GghpdjtwO2lpdCorCgZib21iYXkVobByQBoEaWl0YhoJaWl0Ym9tYmF5GgtpdjtwO2JvbWJheSorCglwcm9mZXNzb3IVAAAAABoEcHJvZhoKcHJvZmVzc29ycxoHdGVhY2hlcipGCg1zdXJ5YW5hcmF5YW5hFd5n6T8aDnN1cnlhIG5hcmF5YW5hGgxzdXJ5YW5hcmF5YW4aEml2O3A7c3VyeWFuYXJheWFuYSojCgZkb29sbGEV3mfpPxoHZG9vbCBsYRoLaXY7cDtkb29sbGEqEgoEY2FzZRUAAAAAGgVjYXNlczKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZWZUg5VEMybXVlMVVTNmVYY2FnMFpZaG9NTHBjU0d5R2pkNlFFUXJvUDdXWFRPblY5ZG0xV2xZR0VwQTB4V3lFaEhfd0Q1eUhiSmliOTlhX2dqNGRwRFdvSDJzREhjWDBseUoxUDJEVmNTeXNqUThuWUoySDV1bFZzZzoePGI-SUlUIEJvbWJheTwvYj4gb24gSW5zdGFncmFtQrMBPGI-UHJvZjwvYj4uIDxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiwgRGVhbiAoU3R1ZGVudCBBZmZhaXJzKSBkZWxpdmVyZWQgdGhlIGtleW5vdGUgYWRkcmVzcyBhbmQgZXhwbGFpbmVkIHRoZSBtZWFuaW5nIG9mIHJhZ2dpbmcsIGFuZCB3aGF0IGFsbCBjb21lcyB1bmRlciB0aGUgYW1iaXQgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Instagram · pro.iitbombay"
+    },
+    {
+      "position": 5,
+      "title": "Department of Energy Science & Engineering, IIT Bombay",
+      "link": "https://www.facebook.com/ese.iitb.ac.in/posts/-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%B0%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%80%F0%9D%90%9C%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%92%F0%9D%90%84-we-are-glad-to-share-that-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%92%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A/847247753864260/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2AUB6zswFTXc-vMHUv97PRjoAF9L9dAwZfavghmNhHINU9dIyhNg-EE0iSP7apOQK5P5MapRDM5v6_4Qhg71Xef6VepD_EvX7MrEWx1_dl_CEn-ccNzeJZKkw9VTlgYAUmpsoo62CNHNfsqE4Au4LsxnFHHjYKCHPH08ChKPUdvfAS7vYHSztjbl4U9NeCkT_h0KkOTSd8Q1Rzyn5FcdUbH-nRLH-tq3cTD4NBqzFUH5PMhWkfB8OELvEYXayun2hP1A1PreUXkc6CV5f77376HnFOCIP4JfNf_qcQiLnI-c_kguYgAUF3GkfqRBarWgb5ObKTwBXK8idjjGe_Tlse5y-AJEeEsVCGJcbR10XdfOlHf47rQje8RsVSRQlxeFvPivTHJzSIUYE3jeOx-fAfDYve13qNPwuusACNuqsAPxHf7J_uGdcz14lsEUIwNaI4CiqIA_2bN1AfX5G3ckHSH9g8tce-6HxYeFlLinhPnrlf4oquPD4rqZFR_WRYi_Cyj92mABnWh1VbUgfaPWSIUlRcJGh2D7myWzsaPFBSEE9K1jBbwgdtt8H02FvMQNHSwpfAjIAIioOxizclVyC6Yo7WiTEi4F7r0Tb85fbWHCdI_48MDXd3zphRaLKB6sPdTnZ9Cst0ExsJIVpENqCRWmDb45pH7aKHzGE2PtBafR6iIpatDHY4CQqEt09tXqBSNMs8dtSJmYbsNU6gsuVgkv3PvDl9HWfI2Il_3tr9eH4MPi5aW8Bb6VFlIeIRyleZx45BRSkfjR22VoBOrBazRVEocffhLw64b2bnMaiWfP5Sdzy4yl0B-xK4xsvsSllRsB65J_DPL9Y3uaudBJex10FDALBj0xIAcLNPQR7NDxKrL_gPqVf14vHhxCenJAbo-NTxpghY2K29gt6j_PP0tQMaAN2TOjHEPTGzktS7NH-i-0ncscPX3e3zaEDsWgkaFnF7xYI94qnA&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBkQAQ&uoh=1",
+      "displayed_link": "10+ reactions",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Suryanarayana Doolla and team has been selected among the top 5 best papers published in IEEE Transactions on Smart Grid in the last three years.",
+      "snippet_highlighted_words": [
+        "Suryanarayana Doolla"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Suryanarayana Doolla and team has been selected among the top 5 best papers published in IEEE Transactions on Smart Grid in the last three years.",
+          "source_info_link": "https://www.facebook.com/ese.iitb.ac.in/posts/-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%B0%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%80%F0%9D%90%9C%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%92%F0%9D%90%84-we-are-glad-to-share-that-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%92%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A/847247753864260/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwHL2dvdG8_dXJsPUNBRVMyQVVCNnpzd0ZUWGMtdk1IVXY5N1BSam9BRjlMOWRBd1pmYXZnaG1OaEhJTlU5ZEl5aE5nLUVFMGlTUDdhcE9RSzVQNU1hcFJETTV2Nl80UWhnNzFYZWY2VmVwRF9Fdlg3TXJFV3gxX2RsX0NFbi1jY056ZUpaS2t3OVZUbGdZQVVtcHNvbzYyQ05ITmZzcUU0QXU0THN4bkZISGpZS0NIUEgwOENoS1BVZHZmQVM3dllIU3p0amJsNFU5TmVDa1RfaDBLa09UU2Q4UTFSenluNUZjZFViSC1uUkxILXRxM2NURDROQnF6RlVINVBNaFdrZkI4T0VMdkVZWGF5dW4yaFAxQTFQcmVVWGtjNkNWNWY3NzM3NkhuRk9DSVA0SmZOZl9xY1FpTG5JLWNfa2d1WWdBVUYzR2tmcVJCYXJXZ2I1T2JLVHdCWEs4aWRqakdlX1Rsc2U1eS1BSkVlRXNWQ0dKY2JSMTBYZGZPbEhmNDdyUWplOFJzVlNSUWx4ZUZ2UGl2VEhKelNJVVlFM2plT3gtZkFmRFl2ZTEzcU5Qd3V1c0FDTnVxc0FQeEhmN0pfdUdkY3oxNGxzRVVJd05hSTRDaXFJQV8yYk4xQWZYNUczY2tIU0g5Zzh0Y2UtNkh4WWVGbExpbmhQbnJsZjRvcXVQRDRycVpGUl9XUllpX0N5ajkybUFCbldoMVZiVWdmYVBXU0lVbFJjSkdoMkQ3bXlXenNhUEZCU0VFOUsxakJid2dkdHQ4SDAyRnZNUU5IU3dwZkFqSUFJaW9PeGl6Y2xWeUM2WW83V2lURWk0RjdyMFRiODVmYldIQ2RJXzQ4TURYZDN6cGhSYUxLQjZzUGRUblo5Q3N0MEV4c0pJVnBFTnFDUldtRGI0NXBIN2FLSHpHRTJQdEJhZlI2aUlwYXRESFk0Q1FxRXQwOXRYcUJTTk1zOGR0U0ptWWJzTlU2Z3N1VmdrdjNQdkRsOUhXZkkySWxfM3RyOWVINE1QaTVhVzhCYjZWRmxJZUlSeWxlWng0NUJSU2tmalIyMlZvQk9yQmF6UlZFb2NmZmhMdzY0YjJibk1haVdmUDVTZHp5NHlsMEIteEs0eHN2c1NsbFJzQjY1Sl9EUEw5WTN1YXVkQkpleDEwRkRBTEJqMHhJQWNMTlBRUjdORHhLckxfZ1BxVmYxNHZIaHhDZW5KQWJvLU5UeHBnaFkySzI5Z3Q2al9QUDB0UU1hQU4yVE9qSEVQVEd6a3RTN05ILWktMG5jc2NQWDNlM3phRURzV2drYUZuRjd4WUk5NHFuQRIEGgIIABqLDBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDnCwgAEAAYACAAKkUKA2lpdBX5en5AGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FaMObkAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFa8a8T8aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRXAjSFAGg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFcCNAUAaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVTDXpOxoFY2FzZXMy3AcvZ290bz91cmw9Q0FFUzJBVUI2enN3RlRYYy12TUhVdjk3UFJqb0FGOUw5ZEF3WmZhdmdobU5oSElOVTlkSXloTmctRUUwaVNQN2FwT1FLNVA1TWFwUkRNNXY2XzRRaGc3MVhlZjZWZXBEX0V2WDdNckVXeDFfZGxfQ0VuLWNjTnplSlpLa3c5VlRsZ1lBVW1wc29vNjJDTkhOZnNxRTRBdTRMc3huRkhIallLQ0hQSDA4Q2hLUFVkdmZBUzd2WUhTenRqYmw0VTlOZUNrVF9oMEtrT1RTZDhRMVJ6eW41RmNkVWJILW5STEgtdHEzY1RENE5CcXpGVUg1UE1oV2tmQjhPRUx2RVlYYXl1bjJoUDFBMVByZVVYa2M2Q1Y1Zjc3Mzc2SG5GT0NJUDRKZk5mX3FjUWlMbkktY19rZ3VZZ0FVRjNHa2ZxUkJhcldnYjVPYktUd0JYSzhpZGpqR2VfVGxzZTV5LUFKRWVFc1ZDR0pjYlIxMFhkZk9sSGY0N3JRamU4UnNWU1JRbHhlRnZQaXZUSEp6U0lVWUUzamVPeC1mQWZEWXZlMTNxTlB3dXVzQUNOdXFzQVB4SGY3Sl91R2RjejE0bHNFVUl3TmFJNENpcUlBXzJiTjFBZlg1RzNja0hTSDlnOHRjZS02SHhZZUZsTGluaFBucmxmNG9xdVBENHJxWkZSX1dSWWlfQ3lqOTJtQUJuV2gxVmJVZ2ZhUFdTSVVsUmNKR2gyRDdteVd6c2FQRkJTRUU5SzFqQmJ3Z2R0dDhIMDJGdk1RTkhTd3BmQWpJQUlpb094aXpjbFZ5QzZZbzdXaVRFaTRGN3IwVGI4NWZiV0hDZElfNDhNRFhkM3pwaFJhTEtCNnNQZFRuWjlDc3QwRXhzSklWcEVOcUNSV21EYjQ1cEg3YUtIekdFMlB0QmFmUjZpSXBhdERIWTRDUXFFdDA5dFhxQlNOTXM4ZHRTSm1ZYnNOVTZnc3VWZ2t2M1B2RGw5SFdmSTJJbF8zdHI5ZUg0TVBpNWFXOEJiNlZGbEllSVJ5bGVaeDQ1QlJTa2ZqUjIyVm9CT3JCYXpSVkVvY2ZmaEx3NjRiMmJuTWFpV2ZQNVNkenk0eWwwQi14SzR4c3ZzU2xsUnNCNjVKX0RQTDlZM3VhdWRCSmV4MTBGREFMQmoweElBY0xOUFFSN05EeEtyTF9nUHFWZjE0dkhoeENlbkpBYm8tTlR4cGdoWTJLMjlndDZqX1BQMHRRTWFBTjJUT2pIRVBUR3prdFM3TkgtaS0wbmNzY1BYM2UzemFFRHNXZ2thRm5GN3hZSTk0cW5BOkFEZXBhcnRtZW50IG9mIEVuZXJneSBTY2llbmNlICZhbXA7IEVuZ2luZWVyaW5nLCA8Yj5JSVQgQm9tYmF5PC9iPkKYATxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiBhbmQgdGVhbSBoYXMgYmVlbiBzZWxlY3RlZCBhbW9uZyB0aGUgdG9wIDUgYmVzdCBwYXBlcnMgcHVibGlzaGVkIGluIElFRUUgVHJhbnNhY3Rpb25zIG9uIFNtYXJ0IEdyaWQgaW4gdGhlIGxhc3QgdGhyZWUgeWVhcnMuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwHL2dvdG8_dXJsPUNBRVMyQVVCNnpzd0ZUWGMtdk1IVXY5N1BSam9BRjlMOWRBd1pmYXZnaG1OaEhJTlU5ZEl5aE5nLUVFMGlTUDdhcE9RSzVQNU1hcFJETTV2Nl80UWhnNzFYZWY2VmVwRF9Fdlg3TXJFV3gxX2RsX0NFbi1jY056ZUpaS2t3OVZUbGdZQVVtcHNvbzYyQ05ITmZzcUU0QXU0THN4bkZISGpZS0NIUEgwOENoS1BVZHZmQVM3dllIU3p0amJsNFU5TmVDa1RfaDBLa09UU2Q4UTFSenluNUZjZFViSC1uUkxILXRxM2NURDROQnF6RlVINVBNaFdrZkI4T0VMdkVZWGF5dW4yaFAxQTFQcmVVWGtjNkNWNWY3NzM3NkhuRk9DSVA0SmZOZl9xY1FpTG5JLWNfa2d1WWdBVUYzR2tmcVJCYXJXZ2I1T2JLVHdCWEs4aWRqakdlX1Rsc2U1eS1BSkVlRXNWQ0dKY2JSMTBYZGZPbEhmNDdyUWplOFJzVlNSUWx4ZUZ2UGl2VEhKelNJVVlFM2plT3gtZkFmRFl2ZTEzcU5Qd3V1c0FDTnVxc0FQeEhmN0pfdUdkY3oxNGxzRVVJd05hSTRDaXFJQV8yYk4xQWZYNUczY2tIU0g5Zzh0Y2UtNkh4WWVGbExpbmhQbnJsZjRvcXVQRDRycVpGUl9XUllpX0N5ajkybUFCbldoMVZiVWdmYVBXU0lVbFJjSkdoMkQ3bXlXenNhUEZCU0VFOUsxakJid2dkdHQ4SDAyRnZNUU5IU3dwZkFqSUFJaW9PeGl6Y2xWeUM2WW83V2lURWk0RjdyMFRiODVmYldIQ2RJXzQ4TURYZDN6cGhSYUxLQjZzUGRUblo5Q3N0MEV4c0pJVnBFTnFDUldtRGI0NXBIN2FLSHpHRTJQdEJhZlI2aUlwYXRESFk0Q1FxRXQwOXRYcUJTTk1zOGR0U0ptWWJzTlU2Z3N1VmdrdjNQdkRsOUhXZkkySWxfM3RyOWVINE1QaTVhVzhCYjZWRmxJZUlSeWxlWng0NUJSU2tmalIyMlZvQk9yQmF6UlZFb2NmZmhMdzY0YjJibk1haVdmUDVTZHp5NHlsMEIteEs0eHN2c1NsbFJzQjY1Sl9EUEw5WTN1YXVkQkpleDEwRkRBTEJqMHhJQWNMTlBRUjdORHhLckxfZ1BxVmYxNHZIaHhDZW5KQWJvLU5UeHBnaFkySzI5Z3Q2al9QUDB0UU1hQU4yVE9qSEVQVEd6a3RTN05ILWktMG5jc2NQWDNlM3phRURzV2drYUZuRjd4WUk5NHFuQRIEGgIIABqLDBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDnCwgAEAAYACAAKkUKA2lpdBX5en5AGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FaMObkAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFa8a8T8aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRXAjSFAGg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFcCNAUAaB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVTDXpOxoFY2FzZXMy3AcvZ290bz91cmw9Q0FFUzJBVUI2enN3RlRYYy12TUhVdjk3UFJqb0FGOUw5ZEF3WmZhdmdobU5oSElOVTlkSXloTmctRUUwaVNQN2FwT1FLNVA1TWFwUkRNNXY2XzRRaGc3MVhlZjZWZXBEX0V2WDdNckVXeDFfZGxfQ0VuLWNjTnplSlpLa3c5VlRsZ1lBVW1wc29vNjJDTkhOZnNxRTRBdTRMc3huRkhIallLQ0hQSDA4Q2hLUFVkdmZBUzd2WUhTenRqYmw0VTlOZUNrVF9oMEtrT1RTZDhRMVJ6eW41RmNkVWJILW5STEgtdHEzY1RENE5CcXpGVUg1UE1oV2tmQjhPRUx2RVlYYXl1bjJoUDFBMVByZVVYa2M2Q1Y1Zjc3Mzc2SG5GT0NJUDRKZk5mX3FjUWlMbkktY19rZ3VZZ0FVRjNHa2ZxUkJhcldnYjVPYktUd0JYSzhpZGpqR2VfVGxzZTV5LUFKRWVFc1ZDR0pjYlIxMFhkZk9sSGY0N3JRamU4UnNWU1JRbHhlRnZQaXZUSEp6U0lVWUUzamVPeC1mQWZEWXZlMTNxTlB3dXVzQUNOdXFzQVB4SGY3Sl91R2RjejE0bHNFVUl3TmFJNENpcUlBXzJiTjFBZlg1RzNja0hTSDlnOHRjZS02SHhZZUZsTGluaFBucmxmNG9xdVBENHJxWkZSX1dSWWlfQ3lqOTJtQUJuV2gxVmJVZ2ZhUFdTSVVsUmNKR2gyRDdteVd6c2FQRkJTRUU5SzFqQmJ3Z2R0dDhIMDJGdk1RTkhTd3BmQWpJQUlpb094aXpjbFZ5QzZZbzdXaVRFaTRGN3IwVGI4NWZiV0hDZElfNDhNRFhkM3pwaFJhTEtCNnNQZFRuWjlDc3QwRXhzSklWcEVOcUNSV21EYjQ1cEg3YUtIekdFMlB0QmFmUjZpSXBhdERIWTRDUXFFdDA5dFhxQlNOTXM4ZHRTSm1ZYnNOVTZnc3VWZ2t2M1B2RGw5SFdmSTJJbF8zdHI5ZUg0TVBpNWFXOEJiNlZGbEllSVJ5bGVaeDQ1QlJTa2ZqUjIyVm9CT3JCYXpSVkVvY2ZmaEx3NjRiMmJuTWFpV2ZQNVNkenk0eWwwQi14SzR4c3ZzU2xsUnNCNjVKX0RQTDlZM3VhdWRCSmV4MTBGREFMQmoweElBY0xOUFFSN05EeEtyTF9nUHFWZjE0dkhoeENlbkpBYm8tTlR4cGdoWTJLMjlndDZqX1BQMHRRTWFBTjJUT2pIRVBUR3prdFM3TkgtaS0wbmNzY1BYM2UzemFFRHNXZ2thRm5GN3hZSTk0cW5BOkFEZXBhcnRtZW50IG9mIEVuZXJneSBTY2llbmNlICZhbXA7IEVuZ2luZWVyaW5nLCA8Yj5JSVQgQm9tYmF5PC9iPkKYATxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiBhbmQgdGVhbSBoYXMgYmVlbiBzZWxlY3RlZCBhbW9uZyB0aGUgdG9wIDUgYmVzdCBwYXBlcnMgcHVibGlzaGVkIGluIElFRUUgVHJhbnNhY3Rpb25zIG9uIFNtYXJ0IEdyaWQgaW4gdGhlIGxhc3QgdGhyZWUgeWVhcnMuIgIQAUgAWABoAA",
+      "source": "Facebook · Department of Energy Science & Engineering, IIT Bombay",
+      "read_more_link": "https://www.facebook.com/ese.iitb.ac.in/posts/-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%B0%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%B2-%F0%9D%90%80%F0%9D%90%9C%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%92%F0%9D%90%84-we-are-glad-to-share-that-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%92%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A/847247753864260/#:~:text=Suryanarayana%20Doolla%20and%20team%20has,in%20the%20last%20three%20years."
+    },
+    {
+      "position": 6,
+      "title": "r/iitbombay",
+      "link": "https://www.reddit.com/r/iitbombay/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVoG2QNpLytiJtEPVHnYdtHZ8Li4poUvhKJ1_HELmBRviQRL2rRbDcqSoDvVbfwvamMxBNdqRd2JOAK1zQ-ebJL-BBZoxagRbmzYeHxH8vuYQuSL9awEA&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBYQAQ&uoh=1",
+      "displayed_link": "29.8K+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "a second year student at IIT Bombay was caught cheating and later committed suicide. Professor Doolla is a part of a premier institute catching a student while ...",
+      "snippet_highlighted_words": [
+        "IIT Bombay",
+        "Professor Doolla"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "a second year student at IIT Bombay was caught cheating and later committed suicide. Professor Doolla is a part of a premier institute catching a student while ...",
+          "source_info_link": "https://www.reddit.com/r/iitbombay/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVm9HMlFOcEx5dGlKdEVQVkhuWWR0SFo4TGk0cG9VdmhLSjFfSEVMbUJSdmlRUkwyclJiRGNxU29EdlZiZnd2YW1NeEJOZHFSZDJKT0FLMXpRLWViSkwtQkJab3hhZ1JibXpZZUh4SDh2dVlRdVNMOWF3RUESBBoCCAAasgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBQgAEAAYACAAKkUKA2lpdBWOU79AGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FSDNvkAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFewTjj8aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRWi0Bc-Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFYH1gz8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVhM0ZPhoFY2FzZXMyiQEvZ290bz91cmw9Q0FFU1d3SHJPekFWb0cyUU5wTHl0aUp0RVBWSG5ZZHRIWjhMaTRwb1V2aEtKMV9IRUxtQlJ2aVFSTDJyUmJEY3FTb0R2VmJmd3ZhbU14Qk5kcVJkMkpPQUsxelEtZWJKTC1CQlpveGFnUmJtelllSHhIOHZ1WVF1U0w5YXdFQTobci88Yj5paXRib21iYXk8L2I-IC0gUmVkZGl0QrYBYSBzZWNvbmQgeWVhciBzdHVkZW50IGF0IDxiPklJVCBCb21iYXk8L2I-IHdhcyBjYXVnaHQgY2hlYXRpbmcgYW5kIGxhdGVyIGNvbW1pdHRlZCBzdWljaWRlLiA8Yj5Qcm9mZXNzb3IgRG9vbGxhPC9iPiBpcyBhIHBhcnQgb2YgYSBwcmVtaWVyIGluc3RpdHV0ZSBjYXRjaGluZyBhIHN0dWRlbnQgd2hpbGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVm9HMlFOcEx5dGlKdEVQVkhuWWR0SFo4TGk0cG9VdmhLSjFfSEVMbUJSdmlRUkwyclJiRGNxU29EdlZiZnd2YW1NeEJOZHFSZDJKT0FLMXpRLWViSkwtQkJab3hhZ1JibXpZZUh4SDh2dVlRdVNMOWF3RUESBBoCCAAasgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBQgAEAAYACAAKkUKA2lpdBWOU79AGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FSDNvkAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFewTjj8aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRWi0Bc-Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFYH1gz8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVhM0ZPhoFY2FzZXMyiQEvZ290bz91cmw9Q0FFU1d3SHJPekFWb0cyUU5wTHl0aUp0RVBWSG5ZZHRIWjhMaTRwb1V2aEtKMV9IRUxtQlJ2aVFSTDJyUmJEY3FTb0R2VmJmd3ZhbU14Qk5kcVJkMkpPQUsxelEtZWJKTC1CQlpveGFnUmJtelllSHhIOHZ1WVF1U0w5YXdFQTobci88Yj5paXRib21iYXk8L2I-IC0gUmVkZGl0QrYBYSBzZWNvbmQgeWVhciBzdHVkZW50IGF0IDxiPklJVCBCb21iYXk8L2I-IHdhcyBjYXVnaHQgY2hlYXRpbmcgYW5kIGxhdGVyIGNvbW1pdHRlZCBzdWljaWRlLiA8Yj5Qcm9mZXNzb3IgRG9vbGxhPC9iPiBpcyBhIHBhcnQgb2YgYSBwcmVtaWVyIGluc3RpdHV0ZSBjYXRjaGluZyBhIHN0dWRlbnQgd2hpbGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Reddit · r/iitbombay"
+    },
+    {
+      "position": 7,
+      "title": "IIT Bombay Celebrates World Bicycle Day",
+      "link": "https://acr.iitbombay.org/iit-bombay-celebrates-world-bicycle-day/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVPT0HrlJ33UHrbfRxzuCB_UYO1d21__JhOYSiExu52xPDGD9z7Y7N6yclnitMYg66pAI87HSr7yqpBPcxGPkG0xOVs7EwvlQ4lBual8JY1rW-pDhAHzKl07Gr7hdw9gs9atTCzdtAabKLRqoK4KiTADij3rv4&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://acr.iitbombay.org › iit-bombay-celebrates-world-...",
+      "favicon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAAAwCACdASogACAAAsBMJaQAUYHwo6FxFV9b1hBgSoJMK8q_Mi8_frt8Af6x9YD0Iv2mLVNLDSdxZ6M9B3P9xIv71YMfVvCucs6GAAD-6K43UuzmXRkAjkCWO95y776_OVitxoUilX9m7CjJcwtPCt2ThqYeoD8JteUlrY3bgni12522-QtlFyq6fD428s4YJf4FeWGa9MQV9DSVGin0RswXnR-z3DMyVL_kJz58FwtaNaj01plC9ToXbnbNKOZs41gturYxYoTVnSSucREYlbBJeAS3tOqaF9y3HsHkpHIQBARHUaSn5d7mBqZTAX5JW7pvdR0k-O6pR9wc5VJQyKHTfM0EjqFqk-bMTrSeUdh11ecnaBfpHMI_xpHrZzeMEhLa-8CzoZe5yw38-PKjqy1s4wD2uEnY4PJkIqY_ZXkEjW_UuOHBucE72WVSqZurlNpoNIKMvcgMZYu3Sh4q1U4Faj_OeQsKCapPf0wJjUq_UwALKyw7hXjDrPG0GE5cpwPzTa9n2mnbubdCYNeWpfrQHVLMnDcQxGIkT3ymZEbVAtj4aBPaDDybim131e03AKiIXiZU2jRdaPeR5Zb-tK-ShoHp9__2wagxOn8HjiaWmE4lUk1CtWuINh1nsYk7-nYMYme60YZaAAAA.webp",
+      "date": "Dec 31, 2024",
+      "snippet": "Prof. Suryanarayana Doolla flagged off the rally. Organized by NSS IIT Bombay, the event saw over 200 cyclists participate in the 5 km rally",
+      "snippet_highlighted_words": [
+        "Prof",
+        "Suryanarayana Doolla",
+        "IIT Bombay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prof. Suryanarayana Doolla flagged off the rally. Organized by NSS IIT Bombay, the event saw over 200 cyclists participate in the 5 km rally",
+          "source_info_link": "https://acr.iitbombay.org/iit-bombay-celebrates-world-bicycle-day/",
+          "icon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAAAwCACdASogACAAAsBMJaQAUYHwo6FxFV9b1hBgSoJMK8q_Mi8_frt8Af6x9YD0Iv2mLVNLDSdxZ6M9B3P9xIv71YMfVvCucs6GAAD-6K43UuzmXRkAjkCWO95y776_OVitxoUilX9m7CjJcwtPCt2ThqYeoD8JteUlrY3bgni12522-QtlFyq6fD428s4YJf4FeWGa9MQV9DSVGin0RswXnR-z3DMyVL_kJz58FwtaNaj01plC9ToXbnbNKOZs41gturYxYoTVnSSucREYlbBJeAS3tOqaF9y3HsHkpHIQBARHUaSn5d7mBqZTAX5JW7pvdR0k-O6pR9wc5VJQyKHTfM0EjqFqk-bMTrSeUdh11ecnaBfpHMI_xpHrZzeMEhLa-8CzoZe5yw38-PKjqy1s4wD2uEnY4PJkIqY_ZXkEjW_UuOHBucE72WVSqZurlNpoNIKMvcgMZYu3Sh4q1U4Faj_OeQsKCapPf0wJjUq_UwALKyw7hXjDrPG0GE5cpwPzTa9n2mnbubdCYNeWpfrQHVLMnDcQxGIkT3ymZEbVAtj4aBPaDDybim131e03AKiIXiZU2jRdaPeR5Zb-tK-ShoHp9__2wagxOn8HjiaWmE4lUk1CtWuINh1nsYk7-nYMYme60YZaAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlBUMEhybEozM1VIcmJmUnh6dUNCX1VZTzFkMjFfX0poT1lTaUV4dTUyeFBER0Q5ejdZN042eWNsbml0TVlnNjZwQUk4N0hTcjd5cXBCUGN4R1BrRzB4T1ZzN0V3dmxRNGxCdWFsOEpZMXJXLXBEaEFIektsMDdHcjdoZHc5Z3M5YXRUQ3pkdEFhYktMUnFvSzRLaVRBRGlqM3J2NBIEGgIIABrXBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCzBQgAEAAYACAAKkUKA2lpdBVdzQ1BGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FVSlE0EaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQAAAAAaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRVZWps_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFVlamz8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UV-zbMPRoFY2FzZXMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWUFQwSHJsSjMzVUhyYmZSeHp1Q0JfVVlPMWQyMV9fSmhPWVNpRXh1NTJ4UERHRDl6N1k3TjZ5Y2xuaXRNWWc2NnBBSTg3SFNyN3lxcEJQY3hHUGtHMHhPVnM3RXd2bFE0bEJ1YWw4SlkxclctcERoQUh6S2wwN0dyN2hkdzlnczlhdFRDemR0QWFiS0xScW9LNEtpVEFEaWozcnY0Oi48Yj5JSVQgQm9tYmF5PC9iPiBDZWxlYnJhdGVzIFdvcmxkIEJpY3ljbGUgRGF5QqEBPGI-UHJvZjwvYj4uIDxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiBmbGFnZ2VkIG9mZiB0aGUgcmFsbHkuIE9yZ2FuaXplZCBieSBOU1MgPGI-SUlUIEJvbWJheTwvYj4sIHRoZSBldmVudCBzYXcgb3ZlciAyMDAgY3ljbGlzdHMgcGFydGljaXBhdGUgaW4gdGhlIDUga20gcmFsbHkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlBUMEhybEozM1VIcmJmUnh6dUNCX1VZTzFkMjFfX0poT1lTaUV4dTUyeFBER0Q5ejdZN042eWNsbml0TVlnNjZwQUk4N0hTcjd5cXBCUGN4R1BrRzB4T1ZzN0V3dmxRNGxCdWFsOEpZMXJXLXBEaEFIektsMDdHcjdoZHc5Z3M5YXRUQ3pkdEFhYktMUnFvSzRLaVRBRGlqM3J2NBIEGgIIABrXBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCzBQgAEAAYACAAKkUKA2lpdBVdzQ1BGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FVSlE0EaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQAAAAAaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRVZWps_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFVlamz8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UV-zbMPRoFY2FzZXMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWUFQwSHJsSjMzVUhyYmZSeHp1Q0JfVVlPMWQyMV9fSmhPWVNpRXh1NTJ4UERHRDl6N1k3TjZ5Y2xuaXRNWWc2NnBBSTg3SFNyN3lxcEJQY3hHUGtHMHhPVnM3RXd2bFE0bEJ1YWw4SlkxclctcERoQUh6S2wwN0dyN2hkdzlnczlhdFRDemR0QWFiS0xScW9LNEtpVEFEaWozcnY0Oi48Yj5JSVQgQm9tYmF5PC9iPiBDZWxlYnJhdGVzIFdvcmxkIEJpY3ljbGUgRGF5QqEBPGI-UHJvZjwvYj4uIDxiPlN1cnlhbmFyYXlhbmEgRG9vbGxhPC9iPiBmbGFnZ2VkIG9mZiB0aGUgcmFsbHkuIE9yZ2FuaXplZCBieSBOU1MgPGI-SUlUIEJvbWJheTwvYj4sIHRoZSBldmVudCBzYXcgb3ZlciAyMDAgY3ljbGlzdHMgcGFydGljaXBhdGUgaW4gdGhlIDUga20gcmFsbHkiAhABSABYAGgA",
+      "source": "IIT Bombay ACR"
+    },
+    {
+      "position": 8,
+      "title": "director kedare resignation - The Economic Times - Indiatimes",
+      "link": "https://economictimes.indiatimes.com/topic/director-kedare-resignation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVfL-VJWmr1-d5dASGrPdSOHScrqHr0eq3vxrh4KI8_aI8ZrZLnrd1xVhpDkNHVkHT-JZJs5w8vvGm9vEP843_evKjT1sFfTmdZIS3V6mb0uYpQmWnXCxsXvqGvwEiGOqNT1vizKOJrbHt8MDVTNdITvmc7DOR3X752A&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://economictimes.indiatimes.com › topic › director...",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp",
+      "date": "May 1, 2016",
+      "snippet": "IIT-Bombay professor Suryanarayana Doolla's deanship was suspended after an FIR under the SC/ST Act in connection with the death by suicide",
+      "snippet_highlighted_words": [
+        "IIT",
+        "Bombay professor Suryanarayana Doolla's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "IIT-Bombay professor Suryanarayana Doolla's deanship was suspended after an FIR under the SC/ST Act in connection with the death by suicide",
+          "source_info_link": "https://economictimes.indiatimes.com/topic/director-kedare-resignation",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVmZMLVZKV21yMS1kNWRBU0dyUGRTT0hTY3JxSHIwZXEzdnhyaDRLSThfYUk4WnJaTG5yZDF4VmhwRGtOSFZrSFQtSlpKczV3OHZ2R205dkVQODQzX2V2S2pUMXNGZlRtZFpJUzNWNm1iMHVZcFFtV25YQ3hzWHZxR3Z3RWlHT3FOVDF2aXpLT0pyYkh0OE1EVlROZElUdm1jN0RPUjNYNzUyQRIEGgIIABroBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDEBQgAEAAYACAAKkUKA2lpdBVRlSlAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FV9LKUAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFfYw0j8aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRX2MNI_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFeni8z8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVIuxAPxoFY2FzZXMyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWZkwtVkpXbXIxLWQ1ZEFTR3JQZFNPSFNjcnFIcjBlcTN2eHJoNEtJOF9hSThaclpMbnJkMXhWaHBEa05IVmtIVC1KWkpzNXc4dnZHbTl2RVA4NDNfZXZLalQxc0ZmVG1kWklTM1Y2bWIwdVlwUW1XblhDeHNYdnFHdndFaUdPcU5UMXZpektPSnJiSHQ4TURWVE5kSVR2bWM3RE9SM1g3NTJBOj1kaXJlY3RvciBrZWRhcmUgcmVzaWduYXRpb24gLSBUaGUgRWNvbm9taWMgVGltZXMgLSBJbmRpYXRpbWVzQp0BPGI-SUlUPC9iPi08Yj5Cb21iYXkgcHJvZmVzc29yIFN1cnlhbmFyYXlhbmEgRG9vbGxhJiMzOTtzPC9iPiBkZWFuc2hpcCB3YXMgc3VzcGVuZGVkIGFmdGVyIGFuIEZJUiB1bmRlciB0aGUgU0MvU1QgQWN0IGluIGNvbm5lY3Rpb24gd2l0aCB0aGUgZGVhdGggYnkgc3VpY2lkZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVmZMLVZKV21yMS1kNWRBU0dyUGRTT0hTY3JxSHIwZXEzdnhyaDRLSThfYUk4WnJaTG5yZDF4VmhwRGtOSFZrSFQtSlpKczV3OHZ2R205dkVQODQzX2V2S2pUMXNGZlRtZFpJUzNWNm1iMHVZcFFtV25YQ3hzWHZxR3Z3RWlHT3FOVDF2aXpLT0pyYkh0OE1EVlROZElUdm1jN0RPUjNYNzUyQRIEGgIIABroBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDEBQgAEAAYACAAKkUKA2lpdBVRlSlAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FV9LKUAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFfYw0j8aBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRX2MNI_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFeni8z8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVIuxAPxoFY2FzZXMyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWZkwtVkpXbXIxLWQ1ZEFTR3JQZFNPSFNjcnFIcjBlcTN2eHJoNEtJOF9hSThaclpMbnJkMXhWaHBEa05IVmtIVC1KWkpzNXc4dnZHbTl2RVA4NDNfZXZLalQxc0ZmVG1kWklTM1Y2bWIwdVlwUW1XblhDeHNYdnFHdndFaUdPcU5UMXZpektPSnJiSHQ4TURWVE5kSVR2bWM3RE9SM1g3NTJBOj1kaXJlY3RvciBrZWRhcmUgcmVzaWduYXRpb24gLSBUaGUgRWNvbm9taWMgVGltZXMgLSBJbmRpYXRpbWVzQp0BPGI-SUlUPC9iPi08Yj5Cb21iYXkgcHJvZmVzc29yIFN1cnlhbmFyYXlhbmEgRG9vbGxhJiMzOTtzPC9iPiBkZWFuc2hpcCB3YXMgc3VzcGVuZGVkIGFmdGVyIGFuIEZJUiB1bmRlciB0aGUgU0MvU1QgQWN0IGluIGNvbm5lY3Rpb24gd2l0aCB0aGUgZGVhdGggYnkgc3VpY2lkZSICEAFIAFgAaAA",
+      "source": "The Economic Times"
+    },
+    {
+      "position": 9,
+      "title": "Latest News, Videos and Photos of Maharashtra",
+      "link": "https://www.deccanherald.com/maharashtra-india",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVkGzzsqJ8xp5mTeZeL0r5chfb5mJLk4HgwfE7Gx35XX_CXYjo-Zg_qJgVIRB2HQ4KL89FDMTOg0vwXgw2OiZI5mlnfK1wWTUbc6Y2KMRfhUKWC8K9-ndgqpIEjtbdVuwDRg&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.deccanherald.com › maharashtra-india",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkaw6WdmkAAAAD3RSTlMABq-ivV07if_nLXLYFPQx3YCgAAAAfElEQVR4AWOgG2BUMlJRZUhRUglQUnIH8lk6s3Z0MZ7oZWB6EQDkis5hYPO4sO8BA7fFAiCXew4Dg4UBCndPAwq3qBeFW9y2r-fMSWTuw7vScG4JquJ9KEYxWhTAuaxzGNhnMsC5Ih1hGg5gR84IAHnBWKkKyQtAEXqEHAAisTfy_F60GwAAAABJRU5ErkJggg.png",
+      "date": "Sep 10, 2023",
+      "snippet": "... IIT Bombay student suicide: Prof Suryanarayana Doolla removed from dean's post with immediate effect. IIT Bombay student suicide: Prof Doolla removed from ...",
+      "snippet_highlighted_words": [
+        "IIT Bombay",
+        "Prof Suryanarayana Doolla",
+        "IIT Bombay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... IIT Bombay student suicide: Prof Suryanarayana Doolla removed from dean's post with immediate effect. IIT Bombay student suicide: Prof Doolla removed from ...",
+          "source_info_link": "https://www.deccanherald.com/maharashtra-india",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEwAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkawAkaw6WdmkAAAAD3RSTlMABq-ivV07if_nLXLYFPQx3YCgAAAAfElEQVR4AWOgG2BUMlJRZUhRUglQUnIH8lk6s3Z0MZ7oZWB6EQDkis5hYPO4sO8BA7fFAiCXew4Dg4UBCndPAwq3qBeFW9y2r-fMSWTuw7vScG4JquJ9KEYxWhTAuaxzGNhnMsC5Ih1hGg5gR84IAHnBWKkKyQtAEXqEHAAisTfy_F60GwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmtHenpzcUo4eHA1bVRlWmVMMHI1Y2hmYjVtSkxrNEhnd2ZFN0d4MzVYWF9DWFlqby1aZ19xSmdWSVJCMkhRNEtMODlGRE1UT2cwdndYZ3cyT2laSTVtbG5mSzF3V1RVYmM2WTJLTVJmaFVLV0M4SzktbmRncXBJRWp0YmRWdXdEUmcSBBoCCAAa3QUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC3BQgAEAAYACAAKkUKA2lpdBXgb2lAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5Fc-XP0AaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFc8RKEAaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRUfdNc_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFYLQwj8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVHWiSPxoFY2FzZXMymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWa0d6enNxSjh4cDVtVGVaZUwwcjVjaGZiNW1KTGs0SGd3ZkU3R3gzNVhYX0NYWWpvLVpnX3FKZ1ZJUkIySFE0S0w4OUZETVRPZzB2d1hndzJPaVpJNW1sbmZLMXdXVFViYzZZMktNUmZoVUtXQzhLOS1uZGdxcElFanRiZFZ1d0RSZzotTGF0ZXN0IE5ld3MsIFZpZGVvcyBhbmQgUGhvdG9zIG9mIE1haGFyYXNodHJhQsABLi4uIDxiPklJVCBCb21iYXk8L2I-IHN0dWRlbnQgc3VpY2lkZTogPGI-UHJvZiBTdXJ5YW5hcmF5YW5hIERvb2xsYTwvYj4gcmVtb3ZlZCBmcm9tIGRlYW4mIzM5O3MgcG9zdCB3aXRoIGltbWVkaWF0ZSBlZmZlY3QuIDxiPklJVCBCb21iYXk8L2I-IHN0dWRlbnQgc3VpY2lkZTogUHJvZiBEb29sbGEgcmVtb3ZlZCBmcm9tJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmtHenpzcUo4eHA1bVRlWmVMMHI1Y2hmYjVtSkxrNEhnd2ZFN0d4MzVYWF9DWFlqby1aZ19xSmdWSVJCMkhRNEtMODlGRE1UT2cwdndYZ3cyT2laSTVtbG5mSzF3V1RVYmM2WTJLTVJmaFVLV0M4SzktbmRncXBJRWp0YmRWdXdEUmcSBBoCCAAa3QUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC3BQgAEAAYACAAKkUKA2lpdBXgb2lAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5Fc-XP0AaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFc8RKEAaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRUfdNc_Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFYLQwj8aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVHWiSPxoFY2FzZXMymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWa0d6enNxSjh4cDVtVGVaZUwwcjVjaGZiNW1KTGs0SGd3ZkU3R3gzNVhYX0NYWWpvLVpnX3FKZ1ZJUkIySFE0S0w4OUZETVRPZzB2d1hndzJPaVpJNW1sbmZLMXdXVFViYzZZMktNUmZoVUtXQzhLOS1uZGdxcElFanRiZFZ1d0RSZzotTGF0ZXN0IE5ld3MsIFZpZGVvcyBhbmQgUGhvdG9zIG9mIE1haGFyYXNodHJhQsABLi4uIDxiPklJVCBCb21iYXk8L2I-IHN0dWRlbnQgc3VpY2lkZTogPGI-UHJvZiBTdXJ5YW5hcmF5YW5hIERvb2xsYTwvYj4gcmVtb3ZlZCBmcm9tIGRlYW4mIzM5O3MgcG9zdCB3aXRoIGltbWVkaWF0ZSBlZmZlY3QuIDxiPklJVCBCb21iYXk8L2I-IHN0dWRlbnQgc3VpY2lkZTogUHJvZiBEb29sbGEgcmVtb3ZlZCBmcm9tJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Deccan Herald",
+      "read_more_link": "https://www.deccanherald.com/maharashtra-india#:~:text=IIT%20Bombay%20student%20suicide%3A%20Prof,Doolla%20removed%20from%20dean's%20post"
+    },
+    {
+      "position": 10,
+      "title": "Shrikrishna V. Kulkarni, FINAE, FIEEE, Professor ...",
+      "link": "https://www.ee.iitb.ac.in/wiki/faculty/svk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVjrLM0_g7yyXrZMlKt0qxHyoRjA3mqACoLBeF7bJJMTBVlFGY6r4yYMedx9cJ7s_zoSisptgf96bplecLeJ9DkwKIJhkPBsVZo26CwM-Z499FLWii_OMu7_oCbszH&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.ee.iitb.ac.in › wiki › faculty › svk",
+      "favicon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAwBgCdASogACAAPtEutFooIagoGAEAGgllAMTZisfmj_k6oAuP_13atGS5M4AcvxO5pbgPIrGrXxgAAM4__cvx26KPoPxrjqUmpqUBt1wBlXrMXzrvrz3kO_nP63_ky-CunMP8MZflbBq7uuTL6IYBzyLMXY4qPJ4ElaqmcKI1F6i3ZOL-Yb06fNpU59oSNx-eSgCFW5sp3n_IY8Y4Df_9oR79BzEpcVqpPoA8_JSMYR30XCBH5lxnuOm4altc2-dXKe44VscZusqM-AU30dfkWE_VmHGXqA1KVbamlszYEhXq-Wxf2_l2KkUo6f_K24IDkhj-FQ5Y3cjjOwfG8ogMNXL0ELqnnToN-p6QAAA.webp",
+      "date": "Dec 12, 2023",
+      "snippet": "Kumar Nunna, Suryanarayana Doolla, and S. V. Kulkarni, ““ Multi-Agent based Diagnosis Framework for Transformers in a Smart Distribution System,” IEEE ...",
+      "snippet_highlighted_words": [
+        "Suryanarayana Doolla"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kumar Nunna, Suryanarayana Doolla, and S. V. Kulkarni, ““ Multi-Agent based Diagnosis Framework for Transformers in a Smart Distribution System,” IEEE ...",
+          "source_info_link": "https://www.ee.iitb.ac.in/wiki/faculty/svk",
+          "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAwBgCdASogACAAPtEutFooIagoGAEAGgllAMTZisfmj_k6oAuP_13atGS5M4AcvxO5pbgPIrGrXxgAAM4__cvx26KPoPxrjqUmpqUBt1wBlXrMXzrvrz3kO_nP63_ky-CunMP8MZflbBq7uuTL6IYBzyLMXY4qPJ4ElaqmcKI1F6i3ZOL-Yb06fNpU59oSNx-eSgCFW5sp3n_IY8Y4Df_9oR79BzEpcVqpPoA8_JSMYR30XCBH5lxnuOm4altc2-dXKe44VscZusqM-AU30dfkWE_VmHGXqA1KVbamlszYEhXq-Wxf2_l2KkUo6f_K24IDkhj-FQ5Y3cjjOwfG8ogMNXL0ELqnnToN-p6QAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVmpyTE0wX2c3eXlYclpNbEt0MHF4SHlvUmpBM21xQUNvTEJlRjdiSkpNVEJWbEZHWTZyNHlZTWVkeDljSjdzX3pvU2lzcHRnZjk2YnBsZWNMZUo5RGt3S0lKaGtQQnNWWm8yNkN3TS1aNDk5RkxXaWlfT011N19vQ2JzekgSBBoCCAAa3QUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC3BQgAEAAYACAAKkUKA2lpdBUG3CRAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FeczSEAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQwsS0AaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRW6Qgw-Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFaMDOz0aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVV51DPRoFY2FzZXMykgEvZ290bz91cmw9Q0FFU1lnSHJPekFWanJMTTBfZzd5eVhyWk1sS3QwcXhIeW9SakEzbXFBQ29MQmVGN2JKSk1UQlZsRkdZNnI0eVlNZWR4OWNKN3Nfem9TaXNwdGdmOTZicGxlY0xlSjlEa3dLSUpoa1BCc1ZabzI2Q3dNLVo0OTlGTFdpaV9PTXU3X29DYnN6SDpHU2hyaWtyaXNobmEgVi4gS3Vsa2FybmksIEZJTkFFLCBGSUVFRSwgPGI-UHJvZmVzc29yPC9iPiwgRGVwYXJ0bWVudCAuLi5CrAFLdW1hciBOdW5uYSwgPGI-U3VyeWFuYXJheWFuYSBEb29sbGE8L2I-LCBhbmQgUy4gVi4gS3Vsa2FybmksIOKAnOKAnCBNdWx0aS1BZ2VudCBiYXNlZCBEaWFnbm9zaXMgRnJhbWV3b3JrIGZvciBUcmFuc2Zvcm1lcnMgaW4gYSBTbWFydCBEaXN0cmlidXRpb24gU3lzdGVtLOKAnSBJRUVFJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVmpyTE0wX2c3eXlYclpNbEt0MHF4SHlvUmpBM21xQUNvTEJlRjdiSkpNVEJWbEZHWTZyNHlZTWVkeDljSjdzX3pvU2lzcHRnZjk2YnBsZWNMZUo5RGt3S0lKaGtQQnNWWm8yNkN3TS1aNDk5RkxXaWlfT011N19vQ2JzekgSBBoCCAAa3QUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC3BQgAEAAYACAAKkUKA2lpdBUG3CRAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FeczSEAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqKwoJcHJvZmVzc29yFQwsS0AaBHByb2YaCnByb2Zlc3NvcnMaB3RlYWNoZXIqRgoNc3VyeWFuYXJheWFuYRW6Qgw-Gg5zdXJ5YSBuYXJheWFuYRoMc3VyeWFuYXJheWFuGhJpdjtwO3N1cnlhbmFyYXlhbmEqIwoGZG9vbGxhFaMDOz0aB2Rvb2wgbGEaC2l2O3A7ZG9vbGxhKhIKBGNhc2UVV51DPRoFY2FzZXMykgEvZ290bz91cmw9Q0FFU1lnSHJPekFWanJMTTBfZzd5eVhyWk1sS3QwcXhIeW9SakEzbXFBQ29MQmVGN2JKSk1UQlZsRkdZNnI0eVlNZWR4OWNKN3Nfem9TaXNwdGdmOTZicGxlY0xlSjlEa3dLSUpoa1BCc1ZabzI2Q3dNLVo0OTlGTFdpaV9PTXU3X29DYnN6SDpHU2hyaWtyaXNobmEgVi4gS3Vsa2FybmksIEZJTkFFLCBGSUVFRSwgPGI-UHJvZmVzc29yPC9iPiwgRGVwYXJ0bWVudCAuLi5CrAFLdW1hciBOdW5uYSwgPGI-U3VyeWFuYXJheWFuYSBEb29sbGE8L2I-LCBhbmQgUy4gVi4gS3Vsa2FybmksIOKAnOKAnCBNdWx0aS1BZ2VudCBiYXNlZCBEaWFnbm9zaXMgRnJhbWV3b3JrIGZvciBUcmFuc2Zvcm1lcnMgaW4gYSBTbWFydCBEaXN0cmlidXRpb24gU3lzdGVtLOKAnSBJRUVFJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Indian Institute of Technology Bombay",
+      "read_more_link": "https://www.ee.iitb.ac.in/wiki/faculty/svk#:~:text=Puneet%20Bhasin%2C%20H.%20S.%20V.%20S.%20Kumar%20Nunna%2C,a%20Smart%20Distribution%20System%2C%E2%80%9D%20IEEE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=10&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8NMDegQIQBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=10&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAE",
+      "3": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=20&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAG",
+      "4": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=30&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAI",
+      "5": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=40&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAK",
+      "6": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=50&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAM",
+      "7": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=60&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAO",
+      "8": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=70&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAQ",
+      "9": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=80&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAS",
+      "10": "https://www.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+case+before:2026-01-01&sca_esv=faee95f19f118383&sxsrf=APpeQntnonS24q6V45Et5Utc4Ydzftv6dQ:1790009621163&ei=FWGxaqO5CZeLwbkP57ehiA8&start=90&sa=N&sstk=AS6-VmLeVL6gB9tcwtBZBcXrGzSm2BxXe3xeIyRM8OgnYkDQlkxnii8qahVkxeUGvRMHFQCNiIpmFCkNq2f4NX_TZ_CHHHy7_u2uvQ&ved=2ahUKEwjjl_S8kYCXAxWXRTABHedbCPEQ8tMDegQIQBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=iit+bombay+professor+suryanarayana+doolla+case+before%3A2026-01-01&start=90"
+    }
+  }
+}

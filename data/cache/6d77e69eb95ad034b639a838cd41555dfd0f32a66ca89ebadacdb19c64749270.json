@@ -1,0 +1,444 @@
+{
+  "search_metadata": {
+    "id": "6aac28d5a0cb1082297c2ef8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jR6Q_ZxNKlGJc84j2E8traLtE-h-J2Lev9ZiXqL7u8k/6aac28d5a0cb1082297c2ef8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jR6Q_ZxNKlGJc84j2E8traLtE-h-J2Lev9ZiXqL7u8k/6aac28d5a0cb1082297c2ef8.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/jR6Q_ZxNKlGJc84j2E8traLtE-h-J2Lev9ZiXqL7u8k/6aac28d5a0cb1082297c2ef8.json_with_pixel_position",
+    "created_at": "2026-09-17 17:52:21 UTC",
+    "processed_at": "2026-09-17 17:52:21 UTC",
+    "google_url": "https://www.google.com/search?q=nasa+discovers+massive+crater+moon+2025&oq=nasa+discovers+massive+crater+moon+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/jR6Q_ZxNKlGJc84j2E8traLtE-h-J2Lev9ZiXqL7u8k/6aac28d5a0cb1082297c2ef8.html",
+    "total_time_taken": 26.13
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "nasa discovers massive crater moon 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "nasa discovers massive crater moon 2025",
+    "total_results": 130,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "NASA images reveal crater left by SpaceX rocket's moon crash",
+      "link": "https://www.youtube.com/watch?v=zlsR5oRRAyk",
+      "thumbnail": "https://serpapi.com/searches/6aac28d5a0cb1082297c2ef8/images/a_6tGkyuEnH3MqCxHXBcK56lGdml_ZDA9IExPO4NeOQ.jpeg",
+      "channel": "The Manila Times",
+      "duration": "1:10",
+      "platform": "YouTube",
+      "date": "قبل شهر واحد",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSsEavE6e-y4cYM46PE3LwQ9D2TEvFTCXotiQ"
+    },
+    {
+      "position": 2,
+      "title": "NASA has released new images of the crater created when a ...",
+      "link": "https://www.facebook.com/deutschewellenews/posts/nasa-has-released-new-images-of-the-crater-created-when-a-spacex-falcon-9-upper-/1520925670062742/",
+      "thumbnail": "https://serpapi.com/searches/6aac28d5a0cb1082297c2ef8/images/V5PaAGt8wPj06a8ZOZLSqlhCebStmZNCqEXxEZx6898.jpeg",
+      "channel": "DW News",
+      "duration": "0:45",
+      "platform": "Facebook",
+      "date": "قبل 3 أسابيع",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSdbXtWaDsZ_z0S-vLFaXFRK6CNomptpZhQSA"
+    },
+    {
+      "position": 3,
+      "title": "NASA has released the first images of the crater caused by a ...",
+      "link": "https://www.facebook.com/newshour/videos/nasa-has-released-the-first-images-of-the-crater-caused-by-a-spacex-rocket-that-/1583170970141243/",
+      "thumbnail": "https://serpapi.com/searches/6aac28d5a0cb1082297c2ef8/images/EVj_05YmZX3NaryJ5nesnh3TnP889CixawfUtx9jAio.jpeg",
+      "channel": "PBS NewsHour",
+      "duration": "1:39",
+      "platform": "Facebook",
+      "date": "قبل شهر واحد"
+    },
+    {
+      "position": 4,
+      "title": "Spotted: Falcon 9 impact site on the Moon NASA's Lunar ...",
+      "link": "https://www.facebook.com/NASASolarSystem/videos/spotted-falcon-9-impact-site-on-the-moonnasas-lunar-reconnaissance-orbiter-lro-h/1421662229824995/",
+      "thumbnail": "https://serpapi.com/searches/6aac28d5a0cb1082297c2ef8/images/8LuyDGvwLFLGiK13kID2bMjQF4EyLEbtIY4sqOs383A.jpeg",
+      "channel": "NASA Solar System Exploration",
+      "duration": "0:02",
+      "platform": "Facebook",
+      "date": "قبل شهر واحد"
+    }
+  ],
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "‪NASA has released the first images of the crater caused by a ...‬‏ من قِبل ‪PBS NewsHour‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 1:39",
+      "source": "Facebook",
+      "profile_name": "PBS NewsHour",
+      "extensions": [
+        "PBS NewsHour"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "1:39",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFnLYnvmaw9VEH_DBW41RG_Ez1Ppk7jipRQ34fbZyTNA9_jDGJnwDIOtE&s=10",
+      "link": "https://www.facebook.com/newshour/videos/nasa-has-released-the-first-images-of-the-crater-caused-by-a-spacex-rocket-that-/1583170970141243/"
+    },
+    {
+      "position": 2,
+      "title": "‪NASA has released new images of the crater created when a ...‬‏ من قِبل ‪DW News‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:45",
+      "source": "Facebook",
+      "profile_name": "DW News",
+      "extensions": [
+        "DW News"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:45",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ0984MzUs3--ec0VbOuiPWVBHO5YyqJgexTg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHTQssj35jzw4Wc_C1Y9u9_qt1l7_2CYQfxBIbENRPsxwIXH4i7pYbIk&s=10",
+      "link": "https://www.facebook.com/deutschewellenews/posts/nasa-has-released-new-images-of-the-crater-created-when-a-spacex-falcon-9-upper-/1520925670062742/"
+    },
+    {
+      "position": 3,
+      "title": "‪Satellite image reveals new crater on the surface of the moon‬‏ من قِبل ‪WFAA‬‏ على ‪YouTube‬‏. التشغيل على ‪YouTube‬‏. 0:27",
+      "source": "YouTube",
+      "profile_name": "WFAA",
+      "extensions": [
+        "WFAA"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "duration": "0:27",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ3H5iIsabB5MvZFDm5K62yxYuYlSJaX8eQ9g",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35hegaUML5ijZMX7NmfNWniOtFFQ0aFDZ84Z_7T43GpjIfEOB-bOHZug&s=10",
+      "link": "https://www.youtube.com/shorts/rwM56rZOrls"
+    },
+    {
+      "position": 4,
+      "title": "‪NASA has released the first images of the crater caused by a ...‬‏ من قِبل ‪PBS NewsHour‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 1:39",
+      "source": "Facebook",
+      "profile_name": "PBS NewsHour",
+      "extensions": [
+        "PBS NewsHour"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "1:39",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFnLYnvmaw9VEH_DBW41RG_Ez1Ppk7jipRQ34fbZyTNA9_jDGJnwDIOtE&s=10",
+      "link": "https://www.facebook.com/newshour/posts/nasa-has-released-the-first-images-of-the-crater-caused-by-a-spacex-rocket-that-/1529297375732170/"
+    },
+    {
+      "position": 5,
+      "title": "‪NASA images reveal crater left by SpaceX rocket's moon crash ...‬‏ من قِبل ‪The Manila Times‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:50",
+      "source": "Facebook",
+      "profile_name": "The Manila Times",
+      "extensions": [
+        "The Manila Times"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:50",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZPMjYGILqxptcGXPpo1g-7gnWJVn3dmiivUwNq8UiCb4uvrMuzcqirc&s=10",
+      "link": "https://www.facebook.com/TheManilaTimes/videos/nasa-images-reveal-crater-left-by-spacex-rockets-moon-crashnasa-has-released-new/1058541260106025/"
+    },
+    {
+      "position": 6,
+      "title": "‪Spotted: Falcon 9 impact site on the Moon NASA's Lunar ...‬‏ من قِبل ‪NASA Solar System Exploration‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 0:03",
+      "source": "Instagram",
+      "profile_name": "NASA Solar System Exploration",
+      "extensions": [
+        "NASA Solar System Exploration"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "duration": "0:03",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3Piy9vQ4F-zh9SCOAGW9MMcdUSIopkZ8LxXFyBSARKPH6z4ynxGtwn8&s=10",
+      "link": "https://www.instagram.com/reel/DcMZRI5jDiM/"
+    },
+    {
+      "position": 7,
+      "title": "‪Spotted: Falcon 9 impact site on the Moon NASA's Lunar ...‬‏ من قِبل ‪NASA Solar System Exploration‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:02",
+      "source": "Facebook",
+      "profile_name": "NASA Solar System Exploration",
+      "extensions": [
+        "NASA Solar System Exploration"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:02",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXwBnkt40ew3nccEiMEC2TnPbnbWN1NNeisD8Tl75y1XwzkEXtn9kbLE&s=10",
+      "link": "https://www.facebook.com/NASASolarSystem/videos/spotted-falcon-9-impact-site-on-the-moonnasas-lunar-reconnaissance-orbiter-lro-h/1421662229824995/"
+    },
+    {
+      "position": 8,
+      "title": "‪NASA has released new images of the crater created when a ...‬‏ من قِبل ‪DW News‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:45",
+      "source": "Facebook",
+      "profile_name": "DW News",
+      "extensions": [
+        "DW News"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:45",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ0984MzUs3--ec0VbOuiPWVBHO5YyqJgexTg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHTQssj35jzw4Wc_C1Y9u9_qt1l7_2CYQfxBIbENRPsxwIXH4i7pYbIk&s=10",
+      "link": "https://www.facebook.com/deutschewellenews/videos/nasa-has-released-new-images-of-the-crater-created-when-a-spacex-falcon-9-upper-/1626235502461066/"
+    },
+    {
+      "position": 9,
+      "title": "‪🌕 Did you know that a rocket from Earth created a brand-new ...‬‏ من قِبل ‪I Love The Universe‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:02",
+      "source": "Facebook",
+      "profile_name": "I Love The Universe",
+      "extensions": [
+        "I Love The Universe"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:02",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3st24K4UJPZphwF8TmYBLNh4izROYXAx9KTAxrz7iSnm7mCi09cZfis&s=10",
+      "link": "https://www.facebook.com/ilovetheuniverseFB/videos/-did-you-know-that-a-rocket-from-earth-created-a-brand-new-crater-on-the-moon-ju/1035010279436033/"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What caused the giant crater on the moon?",
+      "type": "ai_overview",
+      "page_token": "ax8VtXicHdBRboIwAADQ7DJ-KlB10cQsYYiKo9piW-3PAq1aoJSqDNS_3WWn2mmW7B3hff_o3JS_L61qGnubDgZd1_XPdX3Wx76oq0F6exgxEKnWWSrK6fh17L6dxGz-tfLfLysfEWtpgJ3EC1eM6YMIMMMLVacEV7u9hciblNRpkHQpgI4cplQv4sCPN8xdi6p5ZFQddoFqBdP3dBlduVEj7o0IMRHEBDY77beJ9lNEZcEX-C6W2EhPl6jkTwHCEBlaHdlkm1XRaEd5lO3VFhFlyDLqDiSM09JVfH4bokJ-YAbrxMNVRic0JjdADUYSRHlccJiwyZoUeJiU2FBHgbkS4Mj087APg5hw96hhtwkwgoB6BEic3escEfwUha5IaU97YAl9qpwDGyYmAhJAywpFsSNzHoYXgnon0c5A7_9z9nmqmqm91uc_aruD2g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ax8VtXicHdBRboIwAADQ7DJ-KlB10cQsYYiKo9piW-3PAq1aoJSqDNS_3WWn2mmW7B3hff_o3JS_L61qGnubDgZd1_XPdX3Wx76oq0F6exgxEKnWWSrK6fh17L6dxGz-tfLfLysfEWtpgJ3EC1eM6YMIMMMLVacEV7u9hciblNRpkHQpgI4cplQv4sCPN8xdi6p5ZFQddoFqBdP3dBlduVEj7o0IMRHEBDY77beJ9lNEZcEX-C6W2EhPl6jkTwHCEBlaHdlkm1XRaEd5lO3VFhFlyDLqDiSM09JVfH4bokJ-YAbrxMNVRic0JjdADUYSRHlccJiwyZoUeJiU2FBHgbkS4Mj087APg5hw96hhtwkwgoB6BEic3escEfwUha5IaU97YAl9qpwDGyYmAhJAywpFsSNzHoYXgnon0c5A7_9z9nmqmqm91uc_aruD2g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IldoYXQgY2F1c2VkIHRoZSBnaWFudCBjcmF0ZXIgb24gdGhlIG1vb24/IiwibGsiOiJjNVBTS005SUxGRklUaXd0VGsxUktNbElWVWpQVE13RENoUWxscVFXS2VUbmdjVnk4X1B6QUEiLCJicyI6ImM0M092UXZDTUJBRmNGd3p1YWlReFJNSFd5Zk5JRGlWYmhXc2kwam5zNGx0b0wxQWs5cF8zNUlpZnVEZ2V1X0h1OGN5Rm1ZbE9zaXh0VXFDS3hVVUdxa19OT2hVQTRiOHJUYUdJckhtUWZjblpoY1dIQ3ljNG5NTTF1bXFnc0pvS3NBWlQ5S2VnQ1lRRzdHTFJNaFgyZ0toeFYtMmZyTXNZVXVfVjJvNWxFdHRjM05fUFVfOTBnV2ZkMF9tZTItbUpma3hjTXVtQ1ZvNHRvU3doNnRTTktCSXpQaWs3SlBxT3htUEhnIiwiaWQiOiJmY183eWlzYXFDMUZ1elNwODRQN3V2U3dRb182In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IldoYXQgY2F1c2VkIHRoZSBnaWFudCBjcmF0ZXIgb24gdGhlIG1vb24%2FIiwibGsiOiJjNVBTS005SUxGRklUaXd0VGsxUktNbElWVWpQVE13RENoUWxscVFXS2VUbmdjVnk4X1B6QUEiLCJicyI6ImM0M092UXZDTUJBRmNGd3p1YWlReFJNSFd5Zk5JRGlWYmhXc2kwam5zNGx0b0wxQWs5cF8zNUlpZnVEZ2V1X0h1OGN5Rm1ZbE9zaXh0VXFDS3hVVUdxa19OT2hVQTRiOHJUYUdJckhtUWZjblpoY1dIQ3ljNG5NTTF1bXFnc0pvS3NBWlQ5S2VnQ1lRRzdHTFJNaFgyZ0toeFYtMmZyTXNZVXVfVjJvNWxFdHRjM05fUFVfOTBnV2ZkMF9tZTItbUpma3hjTXVtQ1ZvNHRvU3doNnRTTktCSXpQaWs3SlBxT3htUEhnIiwiaWQiOiJmY183eWlzYXFDMUZ1elNwODRQN3V2U3dRb182In0%3D"
+    },
+    {
+      "question": "Is NASA still going to the Moon in 2026?",
+      "type": "ai_overview",
+      "page_token": "4cE1bnicHdBRboIwAADQ7DJ-KqXqoolZhrRTNusobRV_FmxBpAU6ZSL87S471U6zZO8I7_vHnCv9-3DLm8Ze56NR27bDU12fTDqUdTlKrl0lRzIx5phIPZ8-TsFTJhfoa-0tP9deyK0VPnUiQHMFnzslUM_0JGDuvQqrehzhgB1h7iZ7DxHU6GhFr4nwxI5hy1AMlEMR1zMW9siNK5XxFeFxr5YpOkBSEEYiYGOR81QHWJW0EMzbMYQziWY0BrZRTvC23UuXuPh1g70s3VnIitxJVqgjJYKRW7dc32vqbLotDjIC8rMws7PS5EUK1XOhHeF7mBTqwgEeS0y3x9JUKJcw3Zk-3mN_ww8gNaTd-jQkULgcKnq81-eQ014WpuTlhKcshqGTe7wD7xFGDi1UJvYWUD-887KBh3aQydsCDv4_Fx9Z2cztpT79AS95gh8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4cE1bnicHdBRboIwAADQ7DJ-KqXqoolZhrRTNusobRV_FmxBpAU6ZSL87S471U6zZO8I7_vHnCv9-3DLm8Ze56NR27bDU12fTDqUdTlKrl0lRzIx5phIPZ8-TsFTJhfoa-0tP9deyK0VPnUiQHMFnzslUM_0JGDuvQqrehzhgB1h7iZ7DxHU6GhFr4nwxI5hy1AMlEMR1zMW9siNK5XxFeFxr5YpOkBSEEYiYGOR81QHWJW0EMzbMYQziWY0BrZRTvC23UuXuPh1g70s3VnIitxJVqgjJYKRW7dc32vqbLotDjIC8rMws7PS5EUK1XOhHeF7mBTqwgEeS0y3x9JUKJcw3Zk-3mN_ww8gNaTd-jQkULgcKnq81-eQ014WpuTlhKcshqGTe7wD7xFGDi1UJvYWUD-887KBh3aQydsCDv4_Fx9Z2cztpT79AS95gh8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IklzIE5BU0Egc3RpbGwgZ29pbmcgdG8gdGhlIE1vb24gaW4gMjAyNj8iLCJsayI6IkdpZHBjeUJ1WVhOaElITjBhV3hzSUdkdmFXNW5JSFJ2SUhSb1pTQnRiMjl1SUdsdUlESXdNalkiLCJicyI6ImM0M092UXZDTUJBRmNGd3p1YWlReFJNSFd5Zk5JRGlWYmhXc2kwam5zNGx0b0wxQWs5cF8zNUlpZnVEZ2V1X0h1OGN5Rm1ZbE9zaXh0VXFDS3hVVUdxa19OT2hVQTRiOHJUYUdJckhtUWZjblpoY1dIQ3ljNG5NTTF1bXFnc0pvS3NBWlQ5S2VnQ1lRRzdHTFJNaFgyZ0toeFYtMmZyTXNZVXVfVjJvNWxFdHRjM05fUFVfOTBnV2ZkMF9tZTItbUpma3hjTXVtQ1ZvNHRvU3doNnRTTktCSXpQaWs3SlBxT3htUEhnIiwiaWQiOiJmY183eWlzYXFDMUZ1elNwODRQN3V2U3dRb182In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IklzIE5BU0Egc3RpbGwgZ29pbmcgdG8gdGhlIE1vb24gaW4gMjAyNj8iLCJsayI6IkdpZHBjeUJ1WVhOaElITjBhV3hzSUdkdmFXNW5JSFJ2SUhSb1pTQnRiMjl1SUdsdUlESXdNalkiLCJicyI6ImM0M092UXZDTUJBRmNGd3p1YWlReFJNSFd5Zk5JRGlWYmhXc2kwam5zNGx0b0wxQWs5cF8zNUlpZnVEZ2V1X0h1OGN5Rm1ZbE9zaXh0VXFDS3hVVUdxa19OT2hVQTRiOHJUYUdJckhtUWZjblpoY1dIQ3ljNG5NTTF1bXFnc0pvS3NBWlQ5S2VnQ1lRRzdHTFJNaFgyZ0toeFYtMmZyTXNZVXVfVjJvNWxFdHRjM05fUFVfOTBnV2ZkMF9tZTItbUpma3hjTXVtQ1ZvNHRvU3doNnRTTktCSXpQaWs3SlBxT3htUEhnIiwiaWQiOiJmY183eWlzYXFDMUZ1elNwODRQN3V2U3dRb182In0%3D"
+    },
+    {
+      "question": "What did NASA discover on the Moon?",
+      "type": "ai_overview",
+      "page_token": "T5zky3icHdBbboJAGEDhdDM-VmAKjSamCXITBMo4F5yXRmbw-iOoo1Tfupeuqqtp0w2cLzlf37A7Hn6eblutu8t4OOz7_nnTthuon2XbDFeX-1EO5QqgWsnD2Hl1zLe1nPjXmTs9zdyCdh3zsEFC219wQZnfv7AopgXfOsTAnECwJoGyFvyiGXI9EYlPZm2Tyho5wtez5QOTZRnfyGFm0UbvUsO-LgyFcBCImkPCOG7rJjsvicgwj92c4vucBjammZVaOs7CUTInAgtLc87hJDm951F3q0C9M4TP1UPkinch34MQhrorwy4LjkH6G1seAkcgN10QSEqkAFMzEh6kVThy_a1Ef_5jWQZeSoVZQ9bnHi4yxCyKFK4-211B8UPuoWFRx_PQnLJSrWSYJYSCU9NM0yMcSzOICf9LF4O1vE3Q4P_n5GPd6HF3bje_vdaBsw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=T5zky3icHdBbboJAGEDhdDM-VmAKjSamCXITBMo4F5yXRmbw-iOoo1Tfupeuqqtp0w2cLzlf37A7Hn6eblutu8t4OOz7_nnTthuon2XbDFeX-1EO5QqgWsnD2Hl1zLe1nPjXmTs9zdyCdh3zsEFC219wQZnfv7AopgXfOsTAnECwJoGyFvyiGXI9EYlPZm2Tyho5wtez5QOTZRnfyGFm0UbvUsO-LgyFcBCImkPCOG7rJjsvicgwj92c4vucBjammZVaOs7CUTInAgtLc87hJDm951F3q0C9M4TP1UPkinch34MQhrorwy4LjkH6G1seAkcgN10QSEqkAFMzEh6kVThy_a1Ef_5jWQZeSoVZQ9bnHi4yxCyKFK4-211B8UPuoWFRx_PQnLJSrWSYJYSCU9NM0yMcSzOICf9LF4O1vE3Q4P_n5GPd6HF3bje_vdaBsw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IldoYXQgZGlkIE5BU0EgZGlzY292ZXIgb24gdGhlIE1vb24/IiwibGsiOiJHaDkzYUdGMElHUnBaQ0J1WVhOaElHWnZkVzVrSUc5dUlIUm9aU0J0YjI5dSIsImJzIjoiYzQzT3ZRdkNNQkFGY0Z3enVhaVF4Uk1IV3lmTklEaVZiaFdzaTBqbnM0bHRvTDFBazlwXzM1SWlmdURnZXVfSHU4Y3lGbVlsT3NpeHRVcUNLeFVVR3FrX05PaFVBNGI4clRhR0lySG1RZmNuWmhjV0hDeWM0bk1NMXVtcWdzSm9Lc0FaVDlLZWdDWVFHN0dMUk1oWDJnS2h4Vi0yZnJNc1lVdV9WMm81bEV0dGMzTl9QVV85MGdXZmQwX21lMi1tSmZreGNNdW1DVm80dG9Td2g2dFNOS0JJelBpazdKUHFPeG1QSGciLCJpZCI6ImZjXzd5aXNhcUMxRnV6U3A4NFA3dXZTd1FvXzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IldoYXQgZGlkIE5BU0EgZGlzY292ZXIgb24gdGhlIE1vb24%2FIiwibGsiOiJHaDkzYUdGMElHUnBaQ0J1WVhOaElHWnZkVzVrSUc5dUlIUm9aU0J0YjI5dSIsImJzIjoiYzQzT3ZRdkNNQkFGY0Z3enVhaVF4Uk1IV3lmTklEaVZiaFdzaTBqbnM0bHRvTDFBazlwXzM1SWlmdURnZXVfSHU4Y3lGbVlsT3NpeHRVcUNLeFVVR3FrX05PaFVBNGI4clRhR0lySG1RZmNuWmhjV0hDeWM0bk1NMXVtcWdzSm9Lc0FaVDlLZWdDWVFHN0dMUk1oWDJnS2h4Vi0yZnJNc1lVdV9WMm81bEV0dGMzTl9QVV85MGdXZmQwX21lMi1tSmZreGNNdW1DVm80dG9Td2g2dFNOS0JJelBpazdKUHFPeG1QSGciLCJpZCI6ImZjXzd5aXNhcUMxRnV6U3A4NFA3dXZTd1FvXzYifQ%3D%3D"
+    },
+    {
+      "question": "Has Luna 9 been found?",
+      "type": "ai_overview",
+      "page_token": "fFsLUnicHdBdboIwAADg7DI-DhB0m4lZRC2VSZWfttCXBYpYR1vYYKK-7S471U6zZSf4ku_rW550_XOXir5vu5lhDMNwf2yaozzc80YZeXfV3OC5lEXO69n0YWo9V3y-7gZ32QxuiNuWrCIzrluH0F4lY19len3ZYrFHtlxxLbsCtBqryMGYqQRGewKFxVLxUoCnYOdJwCSrOUXvaMw-mSf2cSIQgQweIDgFkIBgXFoHzEKifEKkuyEKYVyXf16bUehX3HKXKIl6SkJrR0WY3rI-tjYXBtCAVq6KiasxFKo0RUhj84oAAIH1GINbOclTJDgOLpEmU2wvHAQWdpmypLTA2Tv5bgTRdUdZgt_WNvEyh9Vigk2_C7HcFrSnmY1Qods0vhE9qvh5bo_-x-avlepn7Udz_AWLvHha",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fFsLUnicHdBdboIwAADg7DI-DhB0m4lZRC2VSZWfttCXBYpYR1vYYKK-7S471U6zZSf4ku_rW550_XOXir5vu5lhDMNwf2yaozzc80YZeXfV3OC5lEXO69n0YWo9V3y-7gZ32QxuiNuWrCIzrluH0F4lY19len3ZYrFHtlxxLbsCtBqryMGYqQRGewKFxVLxUoCnYOdJwCSrOUXvaMw-mSf2cSIQgQweIDgFkIBgXFoHzEKifEKkuyEKYVyXf16bUehX3HKXKIl6SkJrR0WY3rI-tjYXBtCAVq6KiasxFKo0RUhj84oAAIH1GINbOclTJDgOLpEmU2wvHAQWdpmypLTA2Tv5bgTRdUdZgt_WNvEyh9Vigk2_C7HcFrSnmY1Qods0vhE9qvh5bo_-x-avlepn7Udz_AWLvHha",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IkhhcyBMdW5hIDkgYmVlbiBmb3VuZD8iLCJsayI6IkdoVm9ZWE1nYkhWdVlTQTVJR0psWlc0Z1ptOTFibVEiLCJicyI6ImM0M092UXZDTUJBRmNGd3p1YWlReFJNSFd5Zk5JRGlWYmhXc2kwam5zNGx0b0wxQWs5cF8zNUlpZnVEZ2V1X0h1OGN5Rm1ZbE9zaXh0VXFDS3hVVUdxa19OT2hVQTRiOHJUYUdJckhtUWZjblpoY1dIQ3ljNG5NTTF1bXFnc0pvS3NBWlQ5S2VnQ1lRRzdHTFJNaFgyZ0toeFYtMmZyTXNZVXVfVjJvNWxFdHRjM05fUFVfOTBnV2ZkMF9tZTItbUpma3hjTXVtQ1ZvNHRvU3doNnRTTktCSXpQaWs3SlBxT3htUEhnIiwiaWQiOiJmY183eWlzYXFDMUZ1elNwODRQN3V2U3dRb182In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGRVNDBUQzFWTXpjMmVsUjRVVEJ3UlVSQ2MwWmlZWGR4TVRKSE1YUkJVMlZ2UWswek9EWTBjVGw0YVRoelZESnFPRll3Tm1acFpWcDZkbk00WmxreFR6YzVhVFl5WmpZelZFVnpUbkIxY1RKT1VqVk5lbm94VmpGRWR4SVhOM2xwYzJGeFF6RkdkWHBUY0RnMFVEZDFkbE4zVVc4YUlrRkVjM0k1WmxOR2FGZG5WMEYwTkRSdk5qRkVNblpPWjNscFNXTk9UVUpyU0ZFIiwiZmN2IjoiMyIsImVpIjoiN3lpc2FxQzFGdXpTcDg0UDd1dlN3UW8iLCJxYyI6IkNpZHVZWE5oSUdScGMyTnZkbVZ5Y3lCdFlYTnphWFpsSUdOeVlYUmxjaUJ0YjI5dUlESXdNalVRQUgzVzZ5d18iLCJxdWVzdGlvbiI6IkhhcyBMdW5hIDkgYmVlbiBmb3VuZD8iLCJsayI6IkdoVm9ZWE1nYkhWdVlTQTVJR0psWlc0Z1ptOTFibVEiLCJicyI6ImM0M092UXZDTUJBRmNGd3p1YWlReFJNSFd5Zk5JRGlWYmhXc2kwam5zNGx0b0wxQWs5cF8zNUlpZnVEZ2V1X0h1OGN5Rm1ZbE9zaXh0VXFDS3hVVUdxa19OT2hVQTRiOHJUYUdJckhtUWZjblpoY1dIQ3ljNG5NTTF1bXFnc0pvS3NBWlQ5S2VnQ1lRRzdHTFJNaFgyZ0toeFYtMmZyTXNZVXVfVjJvNWxFdHRjM05fUFVfOTBnV2ZkMF9tZTItbUpma3hjTXVtQ1ZvNHRvU3doNnRTTktCSXpQaWs3SlBxT3htUEhnIiwiaWQiOiJmY183eWlzYXFDMUZ1elNwODRQN3V2U3dRb182In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "7GxtFHiczVVdcqpIFF7ArGN8SRQVfzBV1K3uFiKaqGjUa14sbEiLAq20SszbbGHWMKua1UyDgpBRc-99mJquAvrA6XO-8_Nx_vjLsb3V37_9udhu1-xBEIIgKBBKiWMVMHUFgx08LLxRh_l48Y3RnY8t25TxwqeulTvsZTGHmVzMWbZcP9jM2KCSuvsYrqVKv77bDwOd5iIT8mxuMGvJPbwvmTAT-G31u9jkQoEVDL9QDHoGdvO4CZVCuVgWCz3BcLkC-O8W0nRAgAYUAK8r8U_oB2wREt5f09a55WhpySsenM698U9KKI6uWptqkQEEQoB89dDbxwvmBvRYo3cdsJYSUHCCF0RhwNCcdvHYlaWfQohzcDsX-oV3yvFBz2_SNb6R-SAjqRzFDCB0dpJxRoBOEkELccKj3NOB1ZTAgpAbcXOM6jPAQ6Chr7JDkSbB2LXKeCyaYBLeuEVh7vNHSbDxAkcbn4X9jF4aRdraD7ptbam-9sfP-e3EW79u94_awp311UDAc67nUMO0zNliVvwWyaVyqVpsiHXpPiISZgmTWJpJQSs_cmpTz0NKYVCApZhGKKlzUrHjRkFh42djikSIThqXSjwAIE6vfioa5Mk6pxx04g2BSmhPS5cPqa1QNSk837wT3sOp8_E-bJd2-mimX5UEhJK4hCqImyHbTdr03CNpT6CZkWI_2bOgCePTevNfilkDCAzDv4iW1kgvjgMRJeQAUloRXL5w2ooCUJLAOIowRp1AGGucdY9KKVQaZxf_mT0DTeE27VFYGaJBXTlCDZvh5EtVPjFOucTZI7Qn-EO_vguLfq3CaXPiy6f2z9BmMRpaUHPAZtN9Y7aBak89veJQ0GyQyzSh7vwnJg7-XxHpOI868Ty6SiT0A0QiYb_dmEfK6fSJSJE4vk4kjuziPEqwnefRZyLBpxSRvphHP08kdJNIR78XiUQvE2l9nUjBZyJl55FyeR4lRPqleUR_bR5FvLKOj-xw2i3JjSElgpqkT8eGqL7uTFRuPAfmbipON6Ovh9Sbu31wDdO5n9nmAyy3twfzfsZf0AfLzG1kz2DGnWkzTPeWz-5cgzF7b91h39ha_p1LqXfHOVnNuY5P5aJRf1lt35dDyazWDtr36WLVRo1RD0-U_mYkecsSaTSdjvnYqVZ6Y3PfwQGB-Rd7Y-6b7gbNyzu87rba9qRrQPYxqg9eB-rqxYGkng-McX3c8VZP4pPW6vWH4tj7ODyCSYm6-WHF9A62MunmxztDWn70vz82UJm2J5IzoBEyJtcH0mo3W001m-RcH8u8_hUCujqYEN6IKGpQflF-BfyqAV2BOYaNmcX2svRWrZolLDbEoiTVyvOcS7aHtVwp5Zjny6V_AOF_R00",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7GxtFHiczVVdcqpIFF7ArGN8SRQVfzBV1K3uFiKaqGjUa14sbEiLAq20SszbbGHWMKua1UyDgpBRc-99mJquAvrA6XO-8_Nx_vjLsb3V37_9udhu1-xBEIIgKBBKiWMVMHUFgx08LLxRh_l48Y3RnY8t25TxwqeulTvsZTGHmVzMWbZcP9jM2KCSuvsYrqVKv77bDwOd5iIT8mxuMGvJPbwvmTAT-G31u9jkQoEVDL9QDHoGdvO4CZVCuVgWCz3BcLkC-O8W0nRAgAYUAK8r8U_oB2wREt5f09a55WhpySsenM698U9KKI6uWptqkQEEQoB89dDbxwvmBvRYo3cdsJYSUHCCF0RhwNCcdvHYlaWfQohzcDsX-oV3yvFBz2_SNb6R-SAjqRzFDCB0dpJxRoBOEkELccKj3NOB1ZTAgpAbcXOM6jPAQ6Chr7JDkSbB2LXKeCyaYBLeuEVh7vNHSbDxAkcbn4X9jF4aRdraD7ptbam-9sfP-e3EW79u94_awp311UDAc67nUMO0zNliVvwWyaVyqVpsiHXpPiISZgmTWJpJQSs_cmpTz0NKYVCApZhGKKlzUrHjRkFh42djikSIThqXSjwAIE6vfioa5Mk6pxx04g2BSmhPS5cPqa1QNSk837wT3sOp8_E-bJd2-mimX5UEhJK4hCqImyHbTdr03CNpT6CZkWI_2bOgCePTevNfilkDCAzDv4iW1kgvjgMRJeQAUloRXL5w2ooCUJLAOIowRp1AGGucdY9KKVQaZxf_mT0DTeE27VFYGaJBXTlCDZvh5EtVPjFOucTZI7Qn-EO_vguLfq3CaXPiy6f2z9BmMRpaUHPAZtN9Y7aBak89veJQ0GyQyzSh7vwnJg7-XxHpOI868Ty6SiT0A0QiYb_dmEfK6fSJSJE4vk4kjuziPEqwnefRZyLBpxSRvphHP08kdJNIR78XiUQvE2l9nUjBZyJl55FyeR4lRPqleUR_bR5FvLKOj-xw2i3JjSElgpqkT8eGqL7uTFRuPAfmbipON6Ovh9Sbu31wDdO5n9nmAyy3twfzfsZf0AfLzG1kz2DGnWkzTPeWz-5cgzF7b91h39ha_p1LqXfHOVnNuY5P5aJRf1lt35dDyazWDtr36WLVRo1RD0-U_mYkecsSaTSdjvnYqVZ6Y3PfwQGB-Rd7Y-6b7gbNyzu87rba9qRrQPYxqg9eB-rqxYGkng-McX3c8VZP4pPW6vWH4tj7ODyCSYm6-WHF9A62MunmxztDWn70vz82UJm2J5IzoBEyJtcH0mo3W001m-RcH8u8_hUCujqYEN6IKGpQflF-BfyqAV2BOYaNmcX2svRWrZolLDbEoiTVyvOcS7aHtVwp5Zjny6V_AOF_R00"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "link": "https://www.nbcphiladelphia.com/news/national-international/nasa-discovers-huge-new-crater-moon/4464304/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFYBdIRDzt8NTgNHgdL5GU55lSvwyAMvNXO5yHAbNfoicDKFvRUpFGwKzEat4GsQLTCvXbXuPzpTdSspsQKJgFAHeF482JD--7iyt7BXVxQZ-YpEALU5l5WkYIcZFva6RJgV-nyH55S5VEZ_mAgV0Jmi-biVAWanrGd9ReXNbD0D3GQrcS91a-VGz5FQOONQ6diTv9QwJnJs0UmU9&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.nbcphiladelphia.com › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH-HoHGmvIN4uJVH41nqqNj5gMrVrMUX2Vfnf_-dJSNTNAAA_vKVfZHsTseu6_yEYwVdGn9j-_8hVcXI0aMR13vSWa37AMuUYz39q77F0SD9Hpthwfgfwz__LP2Wc1-VdJOnGZNP3ynkxz_FcF-4Bejtf-uC2mmxrzZ-u9vZsOBXD6ETaYJlO_4M9Thi9epo3ISBliJeT7yb7zOdRgRWMhV4j39tGP4_4kIXgcn3EloVBiYY44wHBoQAq1zF1wI9aUfUFrhg1LOVNqUxMvAGalsRRRtSBqLK-LYnp-jH98LGUZR2nm2vwC2CxLb_jSX9T4-dxXX4Pezn33HT5gXeCcG8pD24GlXBVMjeJQdAAAA.webp",
+      "date": "قبل 23 ساعة",
+      "snippet": "Scientists have discovered a crater on the moon that's bigger than the Roman Colosseum, the result of a powerful impact two years ago.",
+      "snippet_highlighted_words": [
+        "discovered",
+        "crater",
+        "moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Scientists have discovered a crater on the moon that's bigger than the Roman Colosseum, the result of a powerful impact two years ago.",
+          "source_info_link": "https://www.nbcphiladelphia.com/news/national-international/nasa-discovers-huge-new-crater-moon/4464304/",
+          "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH-HoHGmvIN4uJVH41nqqNj5gMrVrMUX2Vfnf_-dJSNTNAAA_vKVfZHsTseu6_yEYwVdGn9j-_8hVcXI0aMR13vSWa37AMuUYz39q77F0SD9Hpthwfgfwz__LP2Wc1-VdJOnGZNP3ynkxz_FcF-4Bejtf-uC2mmxrzZ-u9vZsOBXD6ETaYJlO_4M9Thi9epo3ISBliJeT7yb7zOdRgRWMhV4j39tGP4_4kIXgcn3EloVBiYY44wHBoQAq1zF1wI9aUfUFrhg1LOVNqUxMvAGalsRRRtSBqLK-LYnp-jH98LGUZR2nm2vwC2CxLb_jSX9T4-dxXX4Pezn33HT5gXeCcG8pD24GlXBVMjeJQdAAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "source": "NBC10 Philadelphia"
+    },
+    {
+      "position": 2,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "link": "https://www.nbcbayarea.com/news/national-international/nasa-discovers-huge-new-crater-moon/4143922/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFYwkPePGerFlXKvXyPGI09IvNeK3HTjxV35lpgp0MMv4IPCDSeaQuNLFt44IWgK0Fv2ZU47tHKrs4UyiUTgXyoO9Is1mfa7RRf3yIuA8oxrIpvQJbNtdGwSkLeRkiOrWmpwc2SHpL1j1lP6URIRHcp0ppc4tjeVuJxujbfk8q4KAys7BW8i-8pyMG0rAN6YKgyZLtdUIcA&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.nbcbayarea.com › news",
+      "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAJ0y3yjT-K_6IDCQQ4NcOH4PCL-CfUd7NfiXEAD-2I0T3Hk0IKY_nCJff3ig9zu3D7X01hWMDZ9eoD44Tb5-LiP1Wb50Rt5vYsQtOWj29XeVfu1a2AGUa9q1_klxZtkimU48m_d4OC69YCJSPM0eKK3mwgC11KGt4XZ-lQeVtq-Ykdjwu1i4TaILLWN-GkLDWqge6_BHZf6s-n2w5f-MF-7gD-GAKNX-V8f6I32Le3vXQtXItL-J5ZjVwhfINbf82QKtVvzOXXLHalV_LfDvsf9-ZEnZivkJsMd6oFuT8-TOMkzA9Q8O0oQlMhfT8cEdnyWoXGc4AAAA.webp",
+      "date": "قبل 23 ساعة",
+      "snippet": "Scientists have discovered a crater on the moon that's bigger than the Roman Colosseum, the result of a powerful impact two years ago.",
+      "snippet_highlighted_words": [
+        "discovered",
+        "crater",
+        "moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Scientists have discovered a crater on the moon that's bigger than the Roman Colosseum, the result of a powerful impact two years ago.",
+          "source_info_link": "https://www.nbcbayarea.com/news/national-international/nasa-discovers-huge-new-crater-moon/4143922/",
+          "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAJ0y3yjT-K_6IDCQQ4NcOH4PCL-CfUd7NfiXEAD-2I0T3Hk0IKY_nCJff3ig9zu3D7X01hWMDZ9eoD44Tb5-LiP1Wb50Rt5vYsQtOWj29XeVfu1a2AGUa9q1_klxZtkimU48m_d4OC69YCJSPM0eKK3mwgC11KGt4XZ-lQeVtq-Ykdjwu1i4TaILLWN-GkLDWqge6_BHZf6s-n2w5f-MF-7gD-GAKNX-V8f6I32Le3vXQtXItL-J5ZjVwhfINbf82QKtVvzOXXLHalV_LfDvsf9-ZEnZivkJsMd6oFuT8-TOMkzA9Q8O0oQlMhfT8cEdnyWoXGc4AAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "source": "NBC Bay Area"
+    },
+    {
+      "position": 3,
+      "title": "NASA has discovered the largest recent impact crater in ...",
+      "link": "https://unn.ua/en/news/nasa-has-discovered-the-largest-recent-impact-crater-in-the-solar-system-on-the-moon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFa6HCFauMJOomVVKZK5TEhoKDjssRRGRcf9r4ewK4NT9bDB1KKNrWgea5rDOf2hoAhuRZOAnV3Gp_0kC-3F5T2eV0FajkP47eZVaJuWhsBWL4CoZ8B6PkAmZJTPX6kbq5PJBCVNRk5q0ZyHUkJ7lfb1IT4xy87ZAfmYYw2W7EA2U2IECMeHb9VjvUvP8ke3kJpmCIpT1SJKdQWml0cOc&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://unn.ua › news › nasa-has-dis...",
+      "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAABwBgCdASofAB8APtEwtFooIigoGAEAGgliALsE8B_VVzR50lQD9VE7oQMNCb2uhzfjyAiXfH6MYN_eo0AA_vkLD6akRRDwxu7MUQEyhLx_mKifsIGnwcs1JWWEni3jmBeuKK5_f3L7ozpvP7Gl-A6_9qflZ5vkaesJ_cJ7sf8_X3lDX8L8wAGspcRSF6m7qQ0c0zZy361PeX-FZTMRhJXydOSVKGZaHNtPZmLvBu37B4l8z8ihrWxOyvfkjTjZ897vyTtur34DTzuSH6rckTzoD5nJW-v3O9TfvxJNZHsOG2tojuda6fM-6MHIfoMsq5GVlRR04O4L-gR0GLZhVfcxd9oGdBYregZZtwTG-EgHTkgA.webp",
+      "date": "قبل 20 ساعة",
+      "snippet": "NASA has discovered the largest recent impact crater in the Solar System on the Moon ... found only in August 2025 among the enormous ...",
+      "snippet_highlighted_words": [
+        "found only in August 2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NASA has discovered the largest recent impact crater in the Solar System on the Moon ... found only in August 2025 among the enormous ...",
+          "source_info_link": "https://unn.ua/en/news/nasa-has-discovered-the-largest-recent-impact-crater-in-the-solar-system-on-the-moon",
+          "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAABwBgCdASofAB8APtEwtFooIigoGAEAGgliALsE8B_VVzR50lQD9VE7oQMNCb2uhzfjyAiXfH6MYN_eo0AA_vkLD6akRRDwxu7MUQEyhLx_mKifsIGnwcs1JWWEni3jmBeuKK5_f3L7ozpvP7Gl-A6_9qflZ5vkaesJ_cJ7sf8_X3lDX8L8wAGspcRSF6m7qQ0c0zZy361PeX-FZTMRhJXydOSVKGZaHNtPZmLvBu37B4l8z8ihrWxOyvfkjTjZ897vyTtur34DTzuSH6rckTzoD5nJW-v3O9TfvxJNZHsOG2tojuda6fM-6MHIfoMsq5GVlRR04O4L-gR0GLZhVfcxd9oGdBYregZZtwTG-EgHTkgA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "source": "Українські Національні Новини (УНН)"
+    },
+    {
+      "position": 4,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "link": "https://www.stuff.co.nz/world-news/361034509/nasa-spacecraft-discovers-huge-new-crater-moon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFQPTMP-PJroSAp_ZyLHWgqHv1jfpqPU8bpPaI2vXnQ4we-B2dKI3NgjkxnUNHcjNHCiggucS8vqAwozUGHqoR7dUAm8TGkJWo64Ba0TgS7-wKCu31-q6i-W_aCRnoaFHZeq-vsut5_QEp-U9qvu7He0kvmko1Dg1aVlICs8cIYRMTjWCs4yq-DXIa54rwaI&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.stuff.co.nz › world-news",
+      "favicon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvHJKqvGn9F6g7-oAdmo-vjREtD8YzEV3Pg-ysmCYN9AAD-nVIepKaT9goSnXK4uEHnmRDXufsmv6Svuqz1bLvMbZEhAzd9-MEsW4Pkw7XfX05QYEK8z84H50Fpdr1JWRR__EOP2jibfSJ1-aZLtVoDzv4m-8d6lnho80NjWLY7n_R0jlZYGbgqkmGZQifsY6bGaq5FcpV-v88HCduLxhQKv7S3-oXfKIN4FborB7XCxVXHMIzu3b5_c_8eD0ciOv09Sd717dz4eGYZLwFOkiXUf5qfxudNt23tsrN3JdNcVVJvXn02tiepvuBukxGKncd_3kBGmlYKJy0hgoxQr3NU5SU4pfR9UYxIxod6aCnlb1nmt6fP6bKsWHeDjyYf_F0gbpG4h6H5V1Kr4pH2KOq8FCJJGbun5c2aOyjuf0Wm6RDcwAAA.webp",
+      "date": "قبل 18 ساعة",
+      "snippet": "The 222-metre-wide crater was formed by an asteroid or comet fragment and spotted by NASA's Lunar Reconnaissance Orbiter.",
+      "snippet_highlighted_words": [
+        "crater",
+        "NASA's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 222-metre-wide crater was formed by an asteroid or comet fragment and spotted by NASA's Lunar Reconnaissance Orbiter.",
+          "source_info_link": "https://www.stuff.co.nz/world-news/361034509/nasa-spacecraft-discovers-huge-new-crater-moon",
+          "icon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvHJKqvGn9F6g7-oAdmo-vjREtD8YzEV3Pg-ysmCYN9AAD-nVIepKaT9goSnXK4uEHnmRDXufsmv6Svuqz1bLvMbZEhAzd9-MEsW4Pkw7XfX05QYEK8z84H50Fpdr1JWRR__EOP2jibfSJ1-aZLtVoDzv4m-8d6lnho80NjWLY7n_R0jlZYGbgqkmGZQifsY6bGaq5FcpV-v88HCduLxhQKv7S3-oXfKIN4FborB7XCxVXHMIzu3b5_c_8eD0ciOv09Sd717dz4eGYZLwFOkiXUf5qfxudNt23tsrN3JdNcVVJvXn02tiepvuBukxGKncd_3kBGmlYKJy0hgoxQr3NU5SU4pfR9UYxIxod6aCnlb1nmt6fP6bKsWHeDjyYf_F0gbpG4h6H5V1Kr4pH2KOq8FCJJGbun5c2aOyjuf0Wm6RDcwAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "source": "Stuff"
+    },
+    {
+      "position": 5,
+      "title": "Moon Craters",
+      "link": "https://science.nasa.gov/moon/lunar-craters/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVkupGG-9OAQDQ7W9PPsjW1HoDUf27g1YTtXBW-POGyCQH2GmFezUPwte2PWocw5CoLH7nC1CmIep6PMEMqhh-r0u6OfGIaCamAIoxEl9peBSqy3q5HOA68wVejBfPOa8&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQFnoECEgQAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov › moon › l...",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "date": "23‏/07‏/2026",
+      "snippet": "The crater is in the southern lunar highlands and is approximately 53 miles (85 km) in diameter and 110 million years old.",
+      "snippet_highlighted_words": [
+        "crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The crater is in the southern lunar highlands and is approximately 53 miles (85 km) in diameter and 110 million years old.",
+          "source_info_link": "https://science.nasa.gov/moon/lunar-craters/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "source": "NASA Science (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "NASA Discovers Massive 225-Meter Crater on the Moon",
+      "link": "https://www.youtube.com/watch?v=qXFQ_YKALz0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVyBVo_EE6_zQJmKQ4DjzL3eX15UBdCgSpeovw0GUfu7ba2B0JHH4sMeM2kHB7t5fJayT8k4x7iFQkfJVlrj--Zq9b1x-26AkUUXAB-b63Iy7OL3_WzSGH59uZyFGQqQ&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQFnoECEAQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "24‏/03‏/2026",
+      "snippet": "A stunning discovery has been made on the Moon! NASA's Lunar Reconnaissance Orbiter has spotted a massive 225-meter-wide crater that formed ...",
+      "snippet_highlighted_words": [
+        "massive 225-meter-wide crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A stunning discovery has been made on the Moon! NASA's Lunar Reconnaissance Orbiter has spotted a massive 225-meter-wide crater that formed ...",
+          "source_info_link": "https://www.youtube.com/watch?v=qXFQ_YKALz0",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "source": "YouTube"
+    },
+    {
+      "position": 7,
+      "title": "In a rare event, the moon got a massive new crater",
+      "link": "https://www.sciencenews.org/article/moon-new-crater-nasa-orbiter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVrfyLzv4y7-D47UxYmN33rh8Jay-_LbK9aBVrlomvq3aZFt-uCqftGKfNynuXT7lSpRiRnFlslLfUjWzNPoIcdkY6c9emO0Ss3iDUung6q805FAfXYkS7vD5QPm3bpJ_lGdaNBn17koxqxELjNzpieoie6w&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://www.sciencenews.org › article",
+      "favicon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAwBgCdASocABwAPtE-tFooIigoFAEAGglpAARA3xa_SG_29AAOxoN0E1TV6p83KPBLSyfEYnP_4yAAAP72Bd4lSVr5SJuD6NhykBsLpBb_PWYNLtYds9nMWtUgjx0W_Zy5W5OlG3ocFoghBR-hESmkWK4-J-tU_Iw2iPlLPkeQub2rUU92ijuxzWDs4VcnTdTSGJt3ofM9SaXl7CPrXvIOFW3rG0n7IiqzlPIVmXZUnt2jlX6lGxhGv__Ni462V7_7rMLfT3fYfhUBjQl1eoWTvH__zx-KYzchz9PwsTpv_6rwRZt_Q5hYa-5q_4vgAPldngRrIm9S_BH63QRRH_Nt-iwAPfAn3leu2kAAAAA.webp",
+      "date": "23‏/03‏/2026",
+      "snippet": "The crater is 225 meters wide and formed in April or May 2024, Robinson said. According to predictions based on other lunar landmarks, a crater ...",
+      "snippet_highlighted_words": [
+        "crater",
+        "crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The crater is 225 meters wide and formed in April or May 2024, Robinson said. According to predictions based on other lunar landmarks, a crater ...",
+          "source_info_link": "https://www.sciencenews.org/article/moon-new-crater-nasa-orbiter",
+          "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAwBgCdASocABwAPtE-tFooIigoFAEAGglpAARA3xa_SG_29AAOxoN0E1TV6p83KPBLSyfEYnP_4yAAAP72Bd4lSVr5SJuD6NhykBsLpBb_PWYNLtYds9nMWtUgjx0W_Zy5W5OlG3ocFoghBR-hESmkWK4-J-tU_Iw2iPlLPkeQub2rUU92ijuxzWDs4VcnTdTSGJt3ofM9SaXl7CPrXvIOFW3rG0n7IiqzlPIVmXZUnt2jlX6lGxhGv__Ni462V7_7rMLfT3fYfhUBjQl1eoWTvH__zx-KYzchz9PwsTpv_6rwRZt_Q5hYa-5q_4vgAPldngRrIm9S_BH63QRRH_Nt-iwAPfAn3leu2kAAAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "source": "Science News"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=nasa+discovers+massive+crater+moon+2025&sca_esv=8f55d1c39308862b&ei=7yisaqC1FuzSp84P7uvSwQo&start=10&sa=N&sstk=AS6-VmIGE27rThxCPFxLHqIWd6hRCNLj8LoS5P7PBxyYS9bfdYL9XfakiernIdi2sz0gblxGyoSP1kSaSU1_TZ6r2IFNLAPoBjNGkw&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQ8NMDegQIORAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=nasa+discovers+massive+crater+moon+2025&sca_esv=8f55d1c39308862b&ei=7yisaqC1FuzSp84P7uvSwQo&start=10&sa=N&sstk=AS6-VmIGE27rThxCPFxLHqIWd6hRCNLj8LoS5P7PBxyYS9bfdYL9XfakiernIdi2sz0gblxGyoSP1kSaSU1_TZ6r2IFNLAPoBjNGkw&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=nasa+discovers+massive+crater+moon+2025&sca_esv=8f55d1c39308862b&ei=7yisaqC1FuzSp84P7uvSwQo&start=20&sa=N&sstk=AS6-VmIGE27rThxCPFxLHqIWd6hRCNLj8LoS5P7PBxyYS9bfdYL9XfakiernIdi2sz0gblxGyoSP1kSaSU1_TZ6r2IFNLAPoBjNGkw&ved=2ahUKEwjg6Pmcl_aWAxVs6ckDHe61NKgQ8tMDegQIORAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+crater+moon+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+crater+moon+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+crater+moon+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+crater+moon+2025&start=20"
+    }
+  }
+}

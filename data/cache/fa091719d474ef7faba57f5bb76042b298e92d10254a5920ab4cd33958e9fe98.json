@@ -1,0 +1,337 @@
+{
+  "search_metadata": {
+    "id": "6ab156695e3494f755ff557c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FEGGQO-wA3kt0dejfhd24xkWpAvOwRPAOdxg4AMSJTk/6ab156695e3494f755ff557c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FEGGQO-wA3kt0dejfhd24xkWpAvOwRPAOdxg4AMSJTk/6ab156695e3494f755ff557c.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/FEGGQO-wA3kt0dejfhd24xkWpAvOwRPAOdxg4AMSJTk/6ab156695e3494f755ff557c.json_with_pixel_position",
+    "created_at": "2026-09-21 16:08:09 UTC",
+    "processed_at": "2026-09-21 16:08:09 UTC",
+    "google_url": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&oq=%22Scientists+discover+a+new+Earth-like+planet%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/FEGGQO-wA3kt0dejfhd24xkWpAvOwRPAOdxg4AMSJTk/6ab156695e3494f755ff557c.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Scientists discover a new Earth-like planet\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Scientists discover a new Earth-like planet\"",
+    "total_results": 1330,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Did scientists discover a new planet like Earth?",
+      "type": "ai_overview",
+      "page_token": "_JEDonicHdBRbpswGABg9TJ9bKDOsjZSNCnFQNPEmX_wb-KXipgkhtjgpqS0vO0uO9VOs2k3-PT9-m3r9vzn5sP0vX-fTybDMNyduu5kD3e6c5Py_avVE11auy_1eT77Pgt_HPWCXp-XT2_PSy68xwiCPKo2mrCrkDhDFww6hX5nASpZrVUKochRisDUUnjInTGK6pETm5XE3-cFEJCsyIR6Q-nNIVIXvPcKkoevQ8qnpfXXfYSY5SbOMF5njapza6JN-BizlFHhVlOk03EtV66kj71OWZA52_A2tjga3IdAs8I3Il4NQFamxDPJqTUQWIqB_iZjDzhWL9tEvVQi_KnailBTGXTxdFcosRHYsODzIqjl22RHtjks9WdXcwGjbqwTaGuVwBUcSzT55249ZwRaSBkpQrNGGSPnt0f9sSC3_z8Xr0fXz_2lO_0FO2qDIw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_JEDonicHdBRbpswGABg9TJ9bKDOsjZSNCnFQNPEmX_wb-KXipgkhtjgpqS0vO0uO9VOs2k3-PT9-m3r9vzn5sP0vX-fTybDMNyduu5kD3e6c5Py_avVE11auy_1eT77Pgt_HPWCXp-XT2_PSy68xwiCPKo2mrCrkDhDFww6hX5nASpZrVUKochRisDUUnjInTGK6pETm5XE3-cFEJCsyIR6Q-nNIVIXvPcKkoevQ8qnpfXXfYSY5SbOMF5njapza6JN-BizlFHhVlOk03EtV66kj71OWZA52_A2tjga3IdAs8I3Il4NQFamxDPJqTUQWIqB_iZjDzhWL9tEvVQi_KnailBTGXTxdFcosRHYsODzIqjl22RHtjks9WdXcwGjbqwTaGuVwBUcSzT55249ZwRaSBkpQrNGGSPnt0f9sSC3_z8Xr0fXz_2lO_0FO2qDIw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IkRpZCBzY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IHBsYW5ldCBsaWtlIEVhcnRoPyIsImxrIjoiR2k5a2FXUWdjMk5wWlc1MGFYTjBjeUJrYVhOamIzWmxjaUJoSUc1bGR5QndiR0Z1WlhRZ2JHbHJaU0JsWVhKMGFBIiwiYnMiOiJjNDJQUFF2Q01CUkZjYzNrM09sS2RSTV80cUNkdXVnaU9Ec18wbGZ5TUthbGllYnYyNWFPZ3U3bm5zTlZySFpucVJDTXNJOFNZa0Fsd1RSdjdrRHduTkE2OGh6aDVNRzRVQmR0cWZmWnR2cDd3OE5HWFZWLXR4U1J4RGxZYWx2MmFEeHUxQmtMZlZoRDc0LW5VdWZaSW4zQm5oTTJVdXFtbHFOcnFsZ0tLSXJORWNhU040eW03c00xbDNxVjVlazNOLXFHWEdMVTRpdVE2MjhGU0Y5LWRTTVM1VG5wZm5QejJRYyIsImlkIjoiZmNfYVZheGF2VDFFYzdMa1BJUDhmNzk0QXNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IkRpZCBzY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IHBsYW5ldCBsaWtlIEVhcnRoPyIsImxrIjoiR2k5a2FXUWdjMk5wWlc1MGFYTjBjeUJrYVhOamIzWmxjaUJoSUc1bGR5QndiR0Z1WlhRZ2JHbHJaU0JsWVhKMGFBIiwiYnMiOiJjNDJQUFF2Q01CUkZjYzNrM09sS2RSTV80cUNkdXVnaU9Ec18wbGZ5TUthbGllYnYyNWFPZ3U3bm5zTlZySFpucVJDTXNJOFNZa0Fsd1RSdjdrRHduTkE2OGh6aDVNRzRVQmR0cWZmWnR2cDd3OE5HWFZWLXR4U1J4RGxZYWx2MmFEeHUxQmtMZlZoRDc0LW5VdWZaSW4zQm5oTTJVdXFtbHFOcnFsZ0tLSXJORWNhU040eW03c00xbDNxVjVlazNOLXFHWEdMVTRpdVE2MjhGU0Y5LWRTTVM1VG5wZm5QejJRYyIsImlkIjoiZmNfYVZheGF2VDFFYzdMa1BJUDhmNzk0QXNfNSJ9"
+    },
+    {
+      "question": "What will happen on March 23, 2178?",
+      "type": "ai_overview",
+      "page_token": "C-Q6H3icHdBbbqMwFABQdTP9bMwjGTVSNFIaQ5oZjGywL-ZnROwEQi7gprS0_M1euqquZqQ5Szh_v_DSX7_v3ptxdK_rxWKapod6GGo8PZihW1Svn71ZmArxWJnrevVj5f08mw19e94-vTxvuXRO7QTJpFsxqWbhG5JFdq8D1UgPS9HaN4HDMgUbFsRN2iehjB-r416dFTaeBnap-uQzD8TBEu5zNPMpborT1YUir2dGccUy75YDOigUsNiEBumUxCUA0NmSkEBndzxQv-T-MFmqie2dr4PGz-PocISSlmTJsnmLmT8iSAxY7FHRiZcSxG8lo0R6NbFUTNCXs_ZZlCsraGMb1UWhLkqZSNUy8nGTFHka6yDNxdZ8DBcuxWxa7NTOKuhGncLI0icvYy22AqIDL9g1ocs8h-bC-f3ZvG-C-_-fmz_nbly721D_AynhggU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=C-Q6H3icHdBbbqMwFABQdTP9bMwjGTVSNFIaQ5oZjGywL-ZnROwEQi7gprS0_M1euqquZqQ5Szh_v_DSX7_v3ptxdK_rxWKapod6GGo8PZihW1Svn71ZmArxWJnrevVj5f08mw19e94-vTxvuXRO7QTJpFsxqWbhG5JFdq8D1UgPS9HaN4HDMgUbFsRN2iehjB-r416dFTaeBnap-uQzD8TBEu5zNPMpborT1YUir2dGccUy75YDOigUsNiEBumUxCUA0NmSkEBndzxQv-T-MFmqie2dr4PGz-PocISSlmTJsnmLmT8iSAxY7FHRiZcSxG8lo0R6NbFUTNCXs_ZZlCsraGMb1UWhLkqZSNUy8nGTFHka6yDNxdZ8DBcuxWxa7NTOKuhGncLI0icvYy22AqIDL9g1ocs8h-bC-f3ZvG-C-_-fmz_nbly721D_AynhggU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IldoYXQgd2lsbCBoYXBwZW4gb24gTWFyY2ggMjMsIDIxNzg/IiwibGsiOiJHaUYzYUdGMElIZHBiR3dnYUdGd2NHVnVJRzl1SUcxaGNtTm9JREl6SURJeE56ZyIsImJzIjoiYzQyUFBRdkNNQlJGY2MzazNPbEtkUk1fNHFDZHV1Z2lPRHNfMGxmeU1LYWxpZWJ2MjVhT2d1N25uc05WckhabnFSQ01zSThTWWtBbHdUUnY3a0R3bk5BNjhoemg1TUc0VUJkdHFmZlp0dnA3dzhOR1hWVi10eFNSeERsWWFsdjJhRHh1MUJrTGZWaEQ3NC1uVXVmWkluM0JuaE0yVXVxbWxxTnJxbGdLS0lyTkVjYVNONHltN3NNMWwzcVY1ZWszTi1xR1hHTFU0aXVRNjI4RlNGOS1kU01TNVRucGZuUHoyUWMiLCJpZCI6ImZjX2FWYXhhdlQxRWM3TGtQSVA4Zjc5NEFzXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IldoYXQgd2lsbCBoYXBwZW4gb24gTWFyY2ggMjMsIDIxNzg%2FIiwibGsiOiJHaUYzYUdGMElIZHBiR3dnYUdGd2NHVnVJRzl1SUcxaGNtTm9JREl6SURJeE56ZyIsImJzIjoiYzQyUFBRdkNNQlJGY2MzazNPbEtkUk1fNHFDZHV1Z2lPRHNfMGxmeU1LYWxpZWJ2MjVhT2d1N25uc05WckhabnFSQ01zSThTWWtBbHdUUnY3a0R3bk5BNjhoemg1TUc0VUJkdHFmZlp0dnA3dzhOR1hWVi10eFNSeERsWWFsdjJhRHh1MUJrTGZWaEQ3NC1uVXVmWkluM0JuaE0yVXVxbWxxTnJxbGdLS0lyTkVjYVNONHltN3NNMWwzcVY1ZWszTi1xR1hHTFU0aXVRNjI4RlNGOS1kU01TNVRucGZuUHoyUWMiLCJpZCI6ImZjX2FWYXhhdlQxRWM3TGtQSVA4Zjc5NEFzXzUifQ%3D%3D"
+    },
+    {
+      "question": "What planet has 99.7 chance of life?",
+      "type": "ai_overview",
+      "page_token": "Ixw0ZHicHdBRboIwAADQ7DJ-KhR10cQsQShoBGZtC_Rnqa1aaRFQB-jf7rJT7TRbdoKXvK9vc77on5dW3e_1bT4adV03PFXVyRyGoipH_Pa4iJHgxuy50PPp69R-O4qF_7lyl83K3ZK6ph6ysEfbKGUsDaEtYWUT3VcImIT4Mw_ZkSMKWUYXAxMf7nZwtia2odHD7hIsA6xpkwGmosDqOJATUrIiDXoUZzXaW7M1B6LnjvTk0y1iAFtpVt0hpPmGqCf_85mnNLVMs_NYu8HrYp9Jza0ecI9xrGdjTiKAAjjBtoIY0CXTdiIz1hCLtmkAC1HWzT50dymV_SFUYwyR6yupaAnHecZIRGgRW_2V-GabBLmTYOSKvjpvCXqKwpREU5CXMkQ-62JgYo5VJbDf5VriyF8_UmreyXZwFO3CGfx_Lj6O5X1eX6vTL8h0g3U",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ixw0ZHicHdBRboIwAADQ7DJ-KhR10cQsQShoBGZtC_Rnqa1aaRFQB-jf7rJT7TRbdoKXvK9vc77on5dW3e_1bT4adV03PFXVyRyGoipH_Pa4iJHgxuy50PPp69R-O4qF_7lyl83K3ZK6ph6ysEfbKGUsDaEtYWUT3VcImIT4Mw_ZkSMKWUYXAxMf7nZwtia2odHD7hIsA6xpkwGmosDqOJATUrIiDXoUZzXaW7M1B6LnjvTk0y1iAFtpVt0hpPmGqCf_85mnNLVMs_NYu8HrYp9Jza0ecI9xrGdjTiKAAjjBtoIY0CXTdiIz1hCLtmkAC1HWzT50dymV_SFUYwyR6yupaAnHecZIRGgRW_2V-GabBLmTYOSKvjpvCXqKwpREU5CXMkQ-62JgYo5VJbDf5VriyF8_UmreyXZwFO3CGfx_Lj6O5X1eX6vTL8h0g3U",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IldoYXQgcGxhbmV0IGhhcyA5OS43IGNoYW5jZSBvZiBsaWZlPyIsImxrIjoiR2lOM2FHRjBJSEJzWVc1bGRDQm9ZWE1nT1RrdU55QmphR0Z1WTJVZ2IyWWdiR2xtWlEiLCJicyI6ImM0MlBQUXZDTUJSRmNjM2szT2xLZFJNXzRxQ2R1dWdpT0RzXzBsZnlNS2FsaWVidjI1YU9ndTdubnNOVnJIWm5xUkNNc0k4U1lrQWx3VFJ2N2tEd25OQTY4aHpoNU1HNFVCZHRxZmZadHZwN3c4TkdYVlYtdHhTUnhEbFlhbHYyYUR4dTFCa0xmVmhENzQtblV1ZlpJbjNCbmhNMlV1cW1scU5ycWxnS0tJck5FY2FTTjR5bTdzTTFsM3FWNWVrM04tcUdYR0xVNGl1UTYyOEZTRjktZFNNUzVUbnBmblB6MlFjIiwiaWQiOiJmY19hVmF4YXZUMUVjN0xrUElQOGY3OTRBc181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IldoYXQgcGxhbmV0IGhhcyA5OS43IGNoYW5jZSBvZiBsaWZlPyIsImxrIjoiR2lOM2FHRjBJSEJzWVc1bGRDQm9ZWE1nT1RrdU55QmphR0Z1WTJVZ2IyWWdiR2xtWlEiLCJicyI6ImM0MlBQUXZDTUJSRmNjM2szT2xLZFJNXzRxQ2R1dWdpT0RzXzBsZnlNS2FsaWVidjI1YU9ndTdubnNOVnJIWm5xUkNNc0k4U1lrQWx3VFJ2N2tEd25OQTY4aHpoNU1HNFVCZHRxZmZadHZwN3c4TkdYVlYtdHhTUnhEbFlhbHYyYUR4dTFCa0xmVmhENzQtblV1ZlpJbjNCbmhNMlV1cW1scU5ycWxnS0tJck5FY2FTTjR5bTdzTTFsM3FWNWVrM04tcUdYR0xVNGl1UTYyOEZTRjktZFNNUzVUbnBmblB6MlFjIiwiaWQiOiJmY19hVmF4YXZUMUVjN0xrUElQOGY3OTRBc181In0%3D"
+    },
+    {
+      "question": "Will we find aliens in our lifetime?",
+      "type": "ai_overview",
+      "page_token": "fctn9HicHdBdboIwAADg7DI-KhVw08Qs0YFKAq7_0JcFWhRpK_6DvO0uO9VOs2TfEb7vH3M46t-XR3W7na6z0aht2-G-afamHMrGjvLr8yhHMjemyKWeTV4n4H0n58F9s1ieNwtITyf2gRw89nnRJ0lpO4-vhYcpQ_k4YrhmCFoQCDOtcwd4CLBlYVUfh1XLaXRWDD4LtnFKPcWK-09hgVvy6zMDEZbhW0tSdOc1IvK4IJKiO9HShRQ6sQafuRutlQYpP6oW0-mN2L2vbASRS_vMJo9MN05pBMc9-sxTFhJdWcLEhVlzjlcmSKjBVHerIkxMbKBfcjaWqQSlVW5QqYrZ0MtSQWPK6sTpLjQwcLvK3C1BC9k1B0hRL2tj2dLxaOAnUBuw5dOzcLpOuHpcaIATonpqOyvawU4-5u7g_3P-tbO32enS7P8Ad1eESg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fctn9HicHdBdboIwAADg7DI-KhVw08Qs0YFKAq7_0JcFWhRpK_6DvO0uO9VOs2TfEb7vH3M46t-XR3W7na6z0aht2-G-afamHMrGjvLr8yhHMjemyKWeTV4n4H0n58F9s1ieNwtITyf2gRw89nnRJ0lpO4-vhYcpQ_k4YrhmCFoQCDOtcwd4CLBlYVUfh1XLaXRWDD4LtnFKPcWK-09hgVvy6zMDEZbhW0tSdOc1IvK4IJKiO9HShRQ6sQafuRutlQYpP6oW0-mN2L2vbASRS_vMJo9MN05pBMc9-sxTFhJdWcLEhVlzjlcmSKjBVHerIkxMbKBfcjaWqQSlVW5QqYrZ0MtSQWPK6sTpLjQwcLvK3C1BC9k1B0hRL2tj2dLxaOAnUBuw5dOzcLpOuHpcaIATonpqOyvawU4-5u7g_3P-tbO32enS7P8Ad1eESg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IldpbGwgd2UgZmluZCBhbGllbnMgaW4gb3VyIGxpZmV0aW1lPyIsImxrIjoiR2lOM2FXeHNJSGRsSUdacGJtUWdZV3hwWlc1eklHbHVJRzkxY2lCc2FXWmxkR2x0WlEiLCJicyI6ImM0MlBQUXZDTUJSRmNjM2szT2xLZFJNXzRxQ2R1dWdpT0RzXzBsZnlNS2FsaWVidjI1YU9ndTdubnNOVnJIWm5xUkNNc0k4U1lrQWx3VFJ2N2tEd25OQTY4aHpoNU1HNFVCZHRxZmZadHZwN3c4TkdYVlYtdHhTUnhEbFlhbHYyYUR4dTFCa0xmVmhENzQtblV1ZlpJbjNCbmhNMlV1cW1scU5ycWxnS0tJck5FY2FTTjR5bTdzTTFsM3FWNWVrM04tcUdYR0xVNGl1UTYyOEZTRjktZFNNUzVUbnBmblB6MlFjIiwiaWQiOiJmY19hVmF4YXZUMUVjN0xrUElQOGY3OTRBc181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZqVjVjRVJJUldaa2FrUnlTVGRMUzJGRk5FUlpkbXR0ZWpoSFRuVnhlbUpGU1VKZmEwOUlVRTEwWjJGblZGZzRkbTFsTURCaE5qVlVOV3R4VGxSalVVNTJiUzAwWjBVMlZFUjFUakpHWWtKblMwaDJMVWxTYTJVd1FSSVhZVlpoZUdGMlZERkZZemRNYTFCSlVEaG1OemswUVhNYUlrRkVjM0k1WmxObWJVdEhiRGh4TW1ZdGFWVkdjbFp2TnpOUVFXTldaRXc0TldjIiwiZmN2IjoiMyIsImVpIjoiYVZheGF2VDFFYzdMa1BJUDhmNzk0QXMiLCJxYyI6IkNpdHpZMmxsYm5ScGMzUnpJR1JwYzJOdmRtVnlJR0VnYm1WM0lHVmhjblJvSUd4cGEyVWdjR3hoYm1WMEVBQjlRbWpYUGciLCJxdWVzdGlvbiI6IldpbGwgd2UgZmluZCBhbGllbnMgaW4gb3VyIGxpZmV0aW1lPyIsImxrIjoiR2lOM2FXeHNJSGRsSUdacGJtUWdZV3hwWlc1eklHbHVJRzkxY2lCc2FXWmxkR2x0WlEiLCJicyI6ImM0MlBQUXZDTUJSRmNjM2szT2xLZFJNXzRxQ2R1dWdpT0RzXzBsZnlNS2FsaWVidjI1YU9ndTdubnNOVnJIWm5xUkNNc0k4U1lrQWx3VFJ2N2tEd25OQTY4aHpoNU1HNFVCZHRxZmZadHZwN3c4TkdYVlYtdHhTUnhEbFlhbHYyYUR4dTFCa0xmVmhENzQtblV1ZlpJbjNCbmhNMlV1cW1scU5ycWxnS0tJck5FY2FTTjR5bTdzTTFsM3FWNWVrM04tcUdYR0xVNGl1UTYyOEZTRjktZFNNUzVUbnBmblB6MlFjIiwiaWQiOiJmY19hVmF4YXZUMUVjN0xrUElQOGY3OTRBc181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ywBgJ3iczVXdkqI4GH2AfY7xxm5BEX-6ippKEBUbx4627bo3FPITUCQ2QW36bq73Nfap9mk24B-y0j0zF1ubKkxITr58nzmH8_0v3wtWf__2pxtFG_rAcfv9voIJwb5dMcmaM2gcmJxDfBqa7td4Jwklk0p8yfYk48V4M3bPVcVsaqsn9anlNNt1QEvpFklfGNResohvS8rpHPtZfRE67KVCK3ZQ0RfacGfrPRqDSo2vCZURZ6wZAPx3TXWBnPQToBSD2JL6Q9EQArKajQRh2smXmX2KAwpOV2Ayvn2mfIjDEgTp8U9uILqUbSEnSL8wD5hNF86Pyc3T8wBG4KNib0Q71IBBvpYbraAadBUC9DJLhfEgwFd5MiCWYZ8H6BQGX-FllD1eSTbAA2KEgN1pARfjD66RbegOgTkBqvzZZRNZbcHTUV3K-KpyFmbE5blFyLoq55mumQ5CmvBZfm7zpKvc7-ujGWk-dZ5n_cZ0O-KbWmMgjsUh4swFw_nEsGxLd3X-a_perVVFvi00W3epkEx6VhLNKkl-RwsHRbgdmRWtAqsnGcln2ub-Y8YtcLNIKB-hNy4lQ-xk9bgdP2Yg6nm3gsDQy8WZ2sltDC8TnRoA9SzictsyuCWjw_gyTGR0SIQJTwGn688g2OwgEydTM9z_u0SYn-jAE6NUiPPAa6qrWJmAS8HwmpsM67lKwthEAy9mmpOZZzBQ1VwiyfeBXYpyrGFyKurQepd62AFdlFLeTXSDp1OsKuzvUc8bxuD8LcrpAOfTOLYZe7ruJ4IvbORzCJPNUS85-l_Jpus1w3Hcfu-NGk51w8tTZz6DIJ62xvi2TMh68ROOY_6vhHTwI_XoR8VCUn9ISAjJxX50GF78KEkEIoQKhCQPCvyofoJc_CgvJKhlhOR-7Ec_KyT5QyGdRHpTSPLquJoVklwkpJMfZYXkDa79KJvGxY_OQvolPyK_5kepruxDd21O2yUuNCnFHce9VXsabpHuWytUB0s6ab_qM9rAn5qUs44e1obl3-me9QBrgyi27nQ2QR5sq_QqfanVJqZnB5FHI1q2PGqSnR2WjXJg78uKEUbuve-t7PLGNwI7YujS2g-JxBuiOv9dE5t4uQy7j_vhiMeW0JjHnd5G602o5-xiEixWoeYJ8xXRJs7Qgc8C2QbD8P5l0leqk9hjxdUNZzvujN67eOx3lwhFbWWjiQYQ43qzTsL1_FUjPWX9Ot6_3bcW8xYftMjsG37ygRE7OBwKf_S7wdYVHgfDNDEqWWP1FStjmUK1tA5NiTGijsE3BGaYcVKeMzJh9hD27NnTAEiBJWoauk13UrXWrhmiwDcFvt4yebG0xlG8kRpiiQahVP0HaLtCkw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ywBgJ3iczVXdkqI4GH2AfY7xxm5BEX-6ippKEBUbx4627bo3FPITUCQ2QW36bq73Nfap9mk24B-y0j0zF1ubKkxITr58nzmH8_0v3wtWf__2pxtFG_rAcfv9voIJwb5dMcmaM2gcmJxDfBqa7td4Jwklk0p8yfYk48V4M3bPVcVsaqsn9anlNNt1QEvpFklfGNResohvS8rpHPtZfRE67KVCK3ZQ0RfacGfrPRqDSo2vCZURZ6wZAPx3TXWBnPQToBSD2JL6Q9EQArKajQRh2smXmX2KAwpOV2Ayvn2mfIjDEgTp8U9uILqUbSEnSL8wD5hNF86Pyc3T8wBG4KNib0Q71IBBvpYbraAadBUC9DJLhfEgwFd5MiCWYZ8H6BQGX-FllD1eSTbAA2KEgN1pARfjD66RbegOgTkBqvzZZRNZbcHTUV3K-KpyFmbE5blFyLoq55mumQ5CmvBZfm7zpKvc7-ujGWk-dZ5n_cZ0O-KbWmMgjsUh4swFw_nEsGxLd3X-a_perVVFvi00W3epkEx6VhLNKkl-RwsHRbgdmRWtAqsnGcln2ub-Y8YtcLNIKB-hNy4lQ-xk9bgdP2Yg6nm3gsDQy8WZ2sltDC8TnRoA9SzictsyuCWjw_gyTGR0SIQJTwGn688g2OwgEydTM9z_u0SYn-jAE6NUiPPAa6qrWJmAS8HwmpsM67lKwthEAy9mmpOZZzBQ1VwiyfeBXYpyrGFyKurQepd62AFdlFLeTXSDp1OsKuzvUc8bxuD8LcrpAOfTOLYZe7ruJ4IvbORzCJPNUS85-l_Jpus1w3Hcfu-NGk51w8tTZz6DIJ62xvi2TMh68ROOY_6vhHTwI_XoR8VCUn9ISAjJxX50GF78KEkEIoQKhCQPCvyofoJc_CgvJKhlhOR-7Ec_KyT5QyGdRHpTSPLquJoVklwkpJMfZYXkDa79KJvGxY_OQvolPyK_5kepruxDd21O2yUuNCnFHce9VXsabpHuWytUB0s6ab_qM9rAn5qUs44e1obl3-me9QBrgyi27nQ2QR5sq_QqfanVJqZnB5FHI1q2PGqSnR2WjXJg78uKEUbuve-t7PLGNwI7YujS2g-JxBuiOv9dE5t4uQy7j_vhiMeW0JjHnd5G602o5-xiEixWoeYJ8xXRJs7Qgc8C2QbD8P5l0leqk9hjxdUNZzvujN67eOx3lwhFbWWjiQYQ43qzTsL1_FUjPWX9Ot6_3bcW8xYftMjsG37ygRE7OBwKf_S7wdYVHgfDNDEqWWP1FStjmUK1tA5NiTGijsE3BGaYcVKeMzJh9hD27NnTAEiBJWoauk13UrXWrhmiwDcFvt4yebG0xlG8kRpiiQahVP0HaLtCkw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Gravitas: Scientists Discover A New Earth-Like Planet",
+      "link": "https://www.youtube.com/watch?v=-iR5oAHu6Lo",
+      "displayed_link": "64K+ views · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab156695e3494f755ff557c/images/VD6QWctT1RjepUB226PE9vdF8pRrkBhE9k9DwAqqk44.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "Gravitas: Scientists Discover A New Earth-Like Planet.",
+      "duration": "4:34",
+      "about_this_result": {
+        "source": {
+          "description": "Gravitas: Scientists Discover A New Earth-Like Planet.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmM3R0dhN3g4b1Q5MlVvbUF0aFdjRm82eEJJVi14c1ZrT2xPdEZEM014RVd5TEx6TmlwNi1qOUU1LW1rS2d6enM0QVZKMmxRUXdwZDJvWmN3cjRNZUJCMzlDS1NTNGgtR0xTTzBjZjE4VzlXY0lEakFiVTJiWTFjNUxtQmRDQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmM3R0dhN3g4b1Q5MlVvbUF0aFdjRm82eEJJVi14c1ZrT2xPdEZEM014RVd5TEx6TmlwNi1qOUU1LW1rS2d6enM0QVZKMmxRUXdwZDJvWmN3cjRNZUJCMzlDS1NTNGgtR0xTTzBjZjE4VzlXY0lEakFiVTJiWTFjNUxtQmRDQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · WION"
+    },
+    {
+      "position": 2,
+      "title": "NASA discovers seven new Earth-like planets",
+      "link": "https://www.youtube.com/watch?v=oO_Bk4YQQBU",
+      "displayed_link": "21.7K+ views · 9 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab156695e3494f755ff557c/images/VD6QWctT1RjepUB226PE9lyDM6DtAMDTbWHyxSDTR1I.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "4:34 · Go to channel WION · Gravitas: Scientists Discover A New Earth-Like Planet. WION•64K views · 10:53 · Go to channel StarTalk · What We ...",
+      "duration": "1:23",
+      "key_moments": [
+        {
+          "time": "00:11",
+          "title": "Trappist-1",
+          "link": "https://www.youtube.com/watch?v=oO_Bk4YQQBU&t=11"
+        },
+        {
+          "time": "00:33",
+          "title": "Potential habitable planets",
+          "link": "https://www.youtube.com/watch?v=oO_Bk4YQQBU&t=33"
+        },
+        {
+          "time": "01:05",
+          "title": "Finding a second Earth",
+          "link": "https://www.youtube.com/watch?v=oO_Bk4YQQBU&t=65"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "4:34 · Go to channel WION · Gravitas: Scientists Discover A New Earth-Like Planet. WION•64K views · 10:53 · Go to channel StarTalk · What We ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlRWdW9DV2tmckhnZkhBM1pBNWJ2RUFNbjA1VnIycDRZR2hMYjdGc3R6aG1wVld0RHVRZmNtcjdHajdxLVRabzBWaEZQd0hLak5tcGNscW9ma1lMOElGUlUtQXpCSGpvOUpwREwybXhGVFAydjJJNXlOUjVnd01fOEZjbVlwZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlRWdW9DV2tmckhnZkhBM1pBNWJ2RUFNbjA1VnIycDRZR2hMYjdGc3R6aG1wVld0RHVRZmNtcjdHajdxLVRabzBWaEZQd0hLak5tcGNscW9ma1lMOElGUlUtQXpCSGpvOUpwREwybXhGVFAydjJJNXlOUjVnd01fOEZjbVlwZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQXk1JI9CwzT74TEFlRo4v_wXHAdGbpZy9urA",
+      "source": "YouTube · Al Jazeera English"
+    },
+    {
+      "position": 3,
+      "title": "Scientists discover a new Earth-like planet in the universe",
+      "link": "https://www.notebookcheck.net/Scientists-discover-a-new-Earth-like-planet-in-the-universe.1053224.0.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFWVFwkWeMdgBwWsvUBj_xTxP0kPHGOyNZh97s3jVTcxRm3KMG_CwYhBYUrBGVGXx-RewToIuTZVCfPwuQ1qyJLm1Us28Y8YYzdOOPmQRug_-xIoKgkBHnM9bhMhBn_q5OlLfY39Qi1MGr3sQWZ_esZCQhlLbfWLLwLPbknGHuBv493fTTOC8-Ks9RIuUeFKQz19N9ttyOxqKdXwb&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://www.notebookcheck.net › Scientists-discover-a-...",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAABQBgCdASocABwAPtE-tFooIigoFAEAGglkAMKR-AN4GiA9ADO8xAA7L-I22zFH99RfnYUlsSmy2l9HgAD-9gYEpaIcu_EkYd9s3gSOiiAIOLwLaE3qh7AnE259eaHOPGuZa6amV7JvDSpZBzISULus5Q-rgjR8z3zgO-GreVn-PoqBKDdOIeL4iZ7o1T62ErMdc9OEYdxoVQD9_NTqhD_jD-9DXcWnmeo0xoy0pZ_q57rFkowd-Yp8VjbvYToJY3o1X5f5rIdqhomvnYMrKnYyJwRo98VEoPBwrO3P9H6cZg76evmwO9KFX36MJ-n_wiN52JdJwrVeiYq1i8rKRmUIXirxnXvcxumg7ePutqgN_U_2UQgntRhDZvQxs-wl4AA.webp",
+      "date": "Jul 7, 2025",
+      "snippet": "Scientists discover a new Earth-like planet in the universe ... Scientists have discovered an exoplanet similar to Earth that could contain water.",
+      "snippet_highlighted_words": [
+        "Scientists discover a new Earth-like planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Scientists discover a new Earth-like planet in the universe ... Scientists have discovered an exoplanet similar to Earth that could contain water.",
+          "source_info_link": "https://www.notebookcheck.net/Scientists-discover-a-new-Earth-like-planet-in-the-universe.1053224.0.html",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAABQBgCdASocABwAPtE-tFooIigoFAEAGglkAMKR-AN4GiA9ADO8xAA7L-I22zFH99RfnYUlsSmy2l9HgAD-9gYEpaIcu_EkYd9s3gSOiiAIOLwLaE3qh7AnE259eaHOPGuZa6amV7JvDSpZBzISULus5Q-rgjR8z3zgO-GreVn-PoqBKDdOIeL4iZ7o1T62ErMdc9OEYdxoVQD9_NTqhD_jD-9DXcWnmeo0xoy0pZ_q57rFkowd-Yp8VjbvYToJY3o1X5f5rIdqhomvnYMrKnYyJwRo98VEoPBwrO3P9H6cZg76evmwO9KFX36MJ-n_wiN52JdJwrVeiYq1i8rKRmUIXirxnXvcxumg7ePutqgN_U_2UQgntRhDZvQxs-wl4AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZXVkZ3a1dlTWRnQndXc3ZVQmpfeFR4UDBrUEhHT3lOWmg5N3MzalZUY3hSbTNLTUdfQ3dZaEJZVXJCR1ZHWHgtUmV3VG9JdVRaVkNmUHd1UTFxeUpMbTFVczI4WThZWXpkT09QbVFSdWdfLXhJb0tna0JIbk05YmhNaEJuX3E1T2xMZlkzOVFpMU1HcjNzUVdaX2VzWkNRaGxMYmZXTEx3TFBia25HSHVCdjQ5M2ZUVE9DOC1LczlSSXVVZUZLUXoxOU45dHR5T3hxS2RYd2ISBBoCCAAa2wQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC1BAgAEAAYACAAKhEKCnNjaWVudGlzdHMVGqTkQCoPCghkaXNjb3ZlchVhB8BAKggKAWEV4tgLQSoKCgNuZXcVzpjWQCoMCgVlYXJ0aBXrYe5AKgsKBGxpa2UVnMy7QCoNCgZwbGFuZXQVjLjIQDLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGV1ZGd2tXZU1kZ0J3V3N2VUJqX3hUeFAwa1BIR095TlpoOTdzM2pWVGN4Um0zS01HX0N3WWhCWVVyQkdWR1h4LVJld1RvSXVUWlZDZlB3dVExcXlKTG0xVXMyOFk4WVl6ZE9PUG1RUnVnXy14SW9LZ2tCSG5NOWJoTWhCbl9xNU9sTGZZMzlRaTFNR3Izc1FXWl9lc1pDUWhsTGJmV0xMd0xQYmtuR0h1QnY0OTNmVFRPQzgtS3M5Ukl1VWVGS1F6MTlOOXR0eU94cUtkWHdiOkI8Yj5TY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPiBpbiB0aGUgdW5pdmVyc2VCmQE8Yj5TY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPiBpbiB0aGUgdW5pdmVyc2UgLi4uIFNjaWVudGlzdHMgaGF2ZSBkaXNjb3ZlcmVkIGFuIGV4b3BsYW5ldCBzaW1pbGFyIHRvIEVhcnRoIHRoYXQgY291bGQgY29udGFpbiB3YXRlci4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZXVkZ3a1dlTWRnQndXc3ZVQmpfeFR4UDBrUEhHT3lOWmg5N3MzalZUY3hSbTNLTUdfQ3dZaEJZVXJCR1ZHWHgtUmV3VG9JdVRaVkNmUHd1UTFxeUpMbTFVczI4WThZWXpkT09QbVFSdWdfLXhJb0tna0JIbk05YmhNaEJuX3E1T2xMZlkzOVFpMU1HcjNzUVdaX2VzWkNRaGxMYmZXTEx3TFBia25HSHVCdjQ5M2ZUVE9DOC1LczlSSXVVZUZLUXoxOU45dHR5T3hxS2RYd2ISBBoCCAAa2wQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC1BAgAEAAYACAAKhEKCnNjaWVudGlzdHMVGqTkQCoPCghkaXNjb3ZlchVhB8BAKggKAWEV4tgLQSoKCgNuZXcVzpjWQCoMCgVlYXJ0aBXrYe5AKgsKBGxpa2UVnMy7QCoNCgZwbGFuZXQVjLjIQDLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGV1ZGd2tXZU1kZ0J3V3N2VUJqX3hUeFAwa1BIR095TlpoOTdzM2pWVGN4Um0zS01HX0N3WWhCWVVyQkdWR1h4LVJld1RvSXVUWlZDZlB3dVExcXlKTG0xVXMyOFk4WVl6ZE9PUG1RUnVnXy14SW9LZ2tCSG5NOWJoTWhCbl9xNU9sTGZZMzlRaTFNR3Izc1FXWl9lc1pDUWhsTGJmV0xMd0xQYmtuR0h1QnY0OTNmVFRPQzgtS3M5Ukl1VWVGS1F6MTlOOXR0eU94cUtkWHdiOkI8Yj5TY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPiBpbiB0aGUgdW5pdmVyc2VCmQE8Yj5TY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPiBpbiB0aGUgdW5pdmVyc2UgLi4uIFNjaWVudGlzdHMgaGF2ZSBkaXNjb3ZlcmVkIGFuIGV4b3BsYW5ldCBzaW1pbGFyIHRvIEVhcnRoIHRoYXQgY291bGQgY29udGFpbiB3YXRlci4iAhABSABYAGgA",
+      "source": "Notebookcheck",
+      "read_more_link": "https://www.notebookcheck.net/Scientists-discover-a-new-Earth-like-planet-in-the-universe.1053224.0.html#:~:text=Scientists%20discover%20a%20new%20Earth%2Dlike,planet%20in%20the%20universe&text=Scientists%20have%20discovered%20an%20exoplanet,Earth%20that%20could%20contain%20water."
+    },
+    {
+      "position": 4,
+      "title": "Gravitas: Scientists Discover A New Earth-Like Planet",
+      "link": "https://www.wionews.com/videos/gravitas-scientists-discover-a-new-earth-like-planet-633089",
+      "displayed_link": "https://www.wionews.com · Sep 7, 2023",
+      "thumbnail": "https://serpapi.com/searches/6ab156695e3494f755ff557c/images/VD6QWctT1RjepUB226PE9kVDIXIgKZzpTvuRmlIDD1Y.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAACQBwCdASogACAAPtEutFooIagoGAEAGglsALELwnwOA1VQHWZ8-Sh_kiAj_9_H6vNrXYtNgqCqEVeLfiJ_jkGVRrx0mAAA_vYTpr1iiWIGikvnNPFXOMj2voMlc8S_SB5XyHBqrozAtwsgS09er6ZqWvMKEa7PdAHQJAS36X9-zF5QqpdUceOWCTOAO_HTss8gBLqzf9oGhJjbYALCQg3HnQCPvmFxK31ZESj9_nbzyVNnid_CiRQ_25tYF-LqoQlqtFUAeh2efPDyxIpIR-Rg5Cl3YmV6bAdlJzVcldvSDh9Cmt7xxBnxkCbYwXpP_1PuIAO6ZolrqVyNIT26YI3My-qjodLPKE6Dc_lfOwfXZCJqdKi686iNvGXSu2sx0AFQO4jPKU_-M8vLLT_jrANsvOiqKxGzFZqdT9qA-OHlh2Jfvf8KmjjxkvP5_1tnsh0WEoohTEYRAAAA.webp",
+      "snippet": "Gravitas: Scientists Discover A New Earth-Like Planet ... Scientists have discovered evidence on a hidden planet beyond Neptune. Will the new ...",
+      "duration": "4:33",
+      "about_this_result": {
+        "source": {
+          "description": "Gravitas: Scientists Discover A New Earth-Like Planet ... Scientists have discovered evidence on a hidden planet beyond Neptune. Will the new ...",
+          "icon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAACQBwCdASogACAAPtEutFooIagoGAEAGglsALELwnwOA1VQHWZ8-Sh_kiAj_9_H6vNrXYtNgqCqEVeLfiJ_jkGVRrx0mAAA_vYTpr1iiWIGikvnNPFXOMj2voMlc8S_SB5XyHBqrozAtwsgS09er6ZqWvMKEa7PdAHQJAS36X9-zF5QqpdUceOWCTOAO_HTss8gBLqzf9oGhJjbYALCQg3HnQCPvmFxK31ZESj9_nbzyVNnid_CiRQ_25tYF-LqoQlqtFUAeh2efPDyxIpIR-Rg5Cl3YmV6bAdlJzVcldvSDh9Cmt7xxBnxkCbYwXpP_1PuIAO6ZolrqVyNIT26YI3My-qjodLPKE6Dc_lfOwfXZCJqdKi686iNvGXSu2sx0AFQO4jPKU_-M8vLLT_jrANsvOiqKxGzFZqdT9qA-OHlh2Jfvf8KmjjxkvP5_1tnsh0WEoohTEYRAAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZmTHhLSFFQUS1fczBRZTZyeTE5T0ZpSThRWmk3TXNkaENYcnJhVV9yb0E0bm9OUFJFeDlQUkxPdGc1U0ViY2NMQXlDQVB4NEZHc2k5X013OUk4d0w4RDI0c2VRVXUxWnY0WnRqUTdteEtFZzNsZ09VaDc3cGNsRjhsb0RFTWJJaC1tenBLWElEckU1c0NWa0RnSGZiSFZ0RkNVNlNmR0NNeXBTQUYtcUlfMUt3RWt3SGxrcHFxRVI0VzhNdWcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZmTHhLSFFQUS1fczBRZTZyeTE5T0ZpSThRWmk3TXNkaENYcnJhVV9yb0E0bm9OUFJFeDlQUkxPdGc1U0ViY2NMQXlDQVB4NEZHc2k5X013OUk4d0w4RDI0c2VRVXUxWnY0WnRqUTdteEtFZzNsZ09VaDc3cGNsRjhsb0RFTWJJaC1tenBLWElEckU1c0NWa0RnSGZiSFZ0RkNVNlNmR0NNeXBTQUYtcUlfMUt3RWt3SGxrcHFxRVI0VzhNdWcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQQvpofAChFaYScWuutqRRrAHePYJhqyA3CVQ",
+      "source": "WION · WION Video Team"
+    },
+    {
+      "position": 5,
+      "title": "NASA has discovered a new planet that may be able ...",
+      "link": "https://www.facebook.com/iwakeupwithtoday/posts/nasa-has-discovered-a-new-planet-that-may-be-able-to-support-life9today-watch-li/6310556898978922/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESywEB6zswFdhbyAvDNGQ5G31a411UOCHr8tI2KIaj_alzKyyN1m_ciepakmwtRHs25aUlrzwiEpMsM2pG4EUG__LYl5PlrRrKkNajb3HGCJkAw99TmKTCzO8AXSXFoK_ezy8p4PsYLjKBUI4fPariB60b9aGV6tNSaoWjF-0q6OSafc22oQHmjZ85xfJHMFoPz7anrvZnMgVRWHG1PNiJiRObgq7I9XPdY7lWJs9nU-jCVe2tmUt8jBoMEbmGygSb5uukO9noGqqXq3hAMg&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQFnoECCoQAQ&uoh=1",
+      "displayed_link": "280+ reactions · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Gravitas: Scientists Discover A New Earth-Like Planet. 580 reactions ·. 66 comments. ·. 39 shares. Random Weird Facts. 39w · Public ...",
+      "snippet_highlighted_words": [
+        "Scientists Discover A New Earth-Like Planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Gravitas: Scientists Discover A New Earth-Like Planet. 580 reactions ·. 66 comments. ·. 39 shares. Random Weird Facts. 39w · Public ...",
+          "source_info_link": "https://www.facebook.com/iwakeupwithtoday/posts/nasa-has-discovered-a-new-planet-that-may-be-able-to-support-life9today-watch-li/6310556898978922/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZkaGJ5QXZETkdRNUczMWE0MTFVT0NIcjh0STJLSWFqX2Fsekt5eU4xbV9jaWVwYWttd3RSSHMyNWFVbHJ6d2lFcE1zTTJwRzRFVUdfX0xZbDVQbHJScktrTmFqYjNIR0NKa0F3OTlUbUtUQ3pPOEFYU1hGb0tfZXp5OHA0UHNZTGpLQlVJNGZQYXJpQjYwYjlhR1Y2dE5TYW9XakYtMHE2T1NhZmMyMm9RSG1qWjg1eGZKSE1Gb1B6N2FucnZabk1nVlJXSEcxUE5pSmlST2JncTdJOVhQZFk3bFdKczluVS1qQ1ZlMnRtVXQ4akJvTUVibUd5Z1NiNXV1a085bm9HcXFYcTNoQU1nEgQaAggAGoYFEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqEQoKc2NpZW50aXN0cxVDXOw_Kg8KCGRpc2NvdmVyFZmllj8qCAoBYRUJS69AKgoKA25ldxVXLpZAKgwKBWVhcnRoFSHtQ0AqCwoEbGlrZRVxT2xAKg0KBnBsYW5ldBXAQbpAMqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZkaGJ5QXZETkdRNUczMWE0MTFVT0NIcjh0STJLSWFqX2Fsekt5eU4xbV9jaWVwYWttd3RSSHMyNWFVbHJ6d2lFcE1zTTJwRzRFVUdfX0xZbDVQbHJScktrTmFqYjNIR0NKa0F3OTlUbUtUQ3pPOEFYU1hGb0tfZXp5OHA0UHNZTGpLQlVJNGZQYXJpQjYwYjlhR1Y2dE5TYW9XakYtMHE2T1NhZmMyMm9RSG1qWjg1eGZKSE1Gb1B6N2FucnZabk1nVlJXSEcxUE5pSmlST2JncTdJOVhQZFk3bFdKczluVS1qQ1ZlMnRtVXQ4akJvTUVibUd5Z1NiNXV1a085bm9HcXFYcTNoQU1nOjhOQVNBIGhhcyBkaXNjb3ZlcmVkIGEgbmV3IHBsYW5ldCB0aGF0IG1heSBiZSBhYmxlIHRvIC4uLkKWAUdyYXZpdGFzOiA8Yj5TY2llbnRpc3RzIERpc2NvdmVyIEEgTmV3IEVhcnRoLUxpa2UgUGxhbmV0PC9iPi4gNTgwIHJlYWN0aW9ucyDCty4gNjYgY29tbWVudHMuIMK3LiAzOSBzaGFyZXMuIFJhbmRvbSBXZWlyZCBGYWN0cy4gMzl3IMK3IFB1YmxpYyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZkaGJ5QXZETkdRNUczMWE0MTFVT0NIcjh0STJLSWFqX2Fsekt5eU4xbV9jaWVwYWttd3RSSHMyNWFVbHJ6d2lFcE1zTTJwRzRFVUdfX0xZbDVQbHJScktrTmFqYjNIR0NKa0F3OTlUbUtUQ3pPOEFYU1hGb0tfZXp5OHA0UHNZTGpLQlVJNGZQYXJpQjYwYjlhR1Y2dE5TYW9XakYtMHE2T1NhZmMyMm9RSG1qWjg1eGZKSE1Gb1B6N2FucnZabk1nVlJXSEcxUE5pSmlST2JncTdJOVhQZFk3bFdKczluVS1qQ1ZlMnRtVXQ4akJvTUVibUd5Z1NiNXV1a085bm9HcXFYcTNoQU1nEgQaAggAGoYFEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqEQoKc2NpZW50aXN0cxVDXOw_Kg8KCGRpc2NvdmVyFZmllj8qCAoBYRUJS69AKgoKA25ldxVXLpZAKgwKBWVhcnRoFSHtQ0AqCwoEbGlrZRVxT2xAKg0KBnBsYW5ldBXAQbpAMqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZkaGJ5QXZETkdRNUczMWE0MTFVT0NIcjh0STJLSWFqX2Fsekt5eU4xbV9jaWVwYWttd3RSSHMyNWFVbHJ6d2lFcE1zTTJwRzRFVUdfX0xZbDVQbHJScktrTmFqYjNIR0NKa0F3OTlUbUtUQ3pPOEFYU1hGb0tfZXp5OHA0UHNZTGpLQlVJNGZQYXJpQjYwYjlhR1Y2dE5TYW9XakYtMHE2T1NhZmMyMm9RSG1qWjg1eGZKSE1Gb1B6N2FucnZabk1nVlJXSEcxUE5pSmlST2JncTdJOVhQZFk3bFdKczluVS1qQ1ZlMnRtVXQ4akJvTUVibUd5Z1NiNXV1a085bm9HcXFYcTNoQU1nOjhOQVNBIGhhcyBkaXNjb3ZlcmVkIGEgbmV3IHBsYW5ldCB0aGF0IG1heSBiZSBhYmxlIHRvIC4uLkKWAUdyYXZpdGFzOiA8Yj5TY2llbnRpc3RzIERpc2NvdmVyIEEgTmV3IEVhcnRoLUxpa2UgUGxhbmV0PC9iPi4gNTgwIHJlYWN0aW9ucyDCty4gNjYgY29tbWVudHMuIMK3LiAzOSBzaGFyZXMuIFJhbmRvbSBXZWlyZCBGYWN0cy4gMzl3IMK3IFB1YmxpYyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Facebook · TODAY",
+      "read_more_link": "https://www.facebook.com/iwakeupwithtoday/posts/nasa-has-discovered-a-new-planet-that-may-be-able-to-support-life9today-watch-li/6310556898978922/#:~:text=Gravitas%3A%20Scientists%20Discover%20A%20New,39w%20%C2%B7%20Public"
+    },
+    {
+      "position": 6,
+      "title": "Scientists Discover New Earth-Like Planet Kepler 452b",
+      "link": "https://www.tiktok.com/@spacefrenz/video/7351113154341915937",
+      "displayed_link": "9.8K+ views · 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab156695e3494f755ff557c/images/VD6QWctT1RjepUB226PE9jy4MsqeXeCdooZP09btYD0.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglqAM7t3At_tZAJkQvdasA_TiHmb7n9FyAAAP7-zMa8xfDsmgP7xucvFaqjgucV4bdksbH7T5hWZ7Spp4joaSpJkn8f-b3-hzHaYTR3orLW5n-k7-6LIWmkysnxryZWSCxzHX2r67D70GXzxOu61ckD56q8XtZWK_x58R4ZRGkSqRdrXLaacnMarnQXOhN4g7KbuRJ_RBQPlFto--LuPK0SDJ5nzs4aUXU65BLOB25fWHRS9zx-6YMAAAA.webp",
+      "snippet": "✨ Scientists Discover a New Earth-Like Planet: Kepler 452b! ✨ Imagine a world remarkably similar to Earth, orbiting a star much like ...",
+      "duration": "0:32",
+      "about_this_result": {
+        "source": {
+          "description": "✨ Scientists Discover a New Earth-Like Planet: Kepler 452b! ✨ Imagine a world remarkably similar to Earth, orbiting a star much like ...",
+          "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglqAM7t3At_tZAJkQvdasA_TiHmb7n9FyAAAP7-zMa8xfDsmgP7xucvFaqjgucV4bdksbH7T5hWZ7Spp4joaSpJkn8f-b3-hzHaYTR3orLW5n-k7-6LIWmkysnxryZWSCxzHX2r67D70GXzxOu61ckD56q8XtZWK_x58R4ZRGkSqRdrXLaacnMarnQXOhN4g7KbuRJ_RBQPlFto--LuPK0SDJ5nzs4aUXU65BLOB25fWHRS9zx-6YMAAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVjVoaGUya3I2clk1TEZJZFcyMkxpdy1wZHJQdVRBaVVVbWwwOGp0YnFWREdwUnhuTEZtcjZUM3VIT1FmeE03U01VX0pXa2NrOXFlNW5QNC16SVBZeTFPV1FEQ0xyX3RGM2FkZVAzTnQzd3hSTE9zX2pOTGtXMUMtLXFjSm5nNm9EekdvRUNvX0tnRlJCazVRN21LcjQSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVjVoaGUya3I2clk1TEZJZFcyMkxpdy1wZHJQdVRBaVVVbWwwOGp0YnFWREdwUnhuTEZtcjZUM3VIT1FmeE03U01VX0pXa2NrOXFlNW5QNC16SVBZeTFPV1FEQ0xyX3RGM2FkZVAzTnQzd3hSTE9zX2pOTGtXMUMtLXFjSm5nNm9EekdvRUNvX0tnRlJCazVRN21LcjQSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS2R0zkc_zEOFH_naU-_hCAH5qQTAblIktO5Q",
+      "source": "TikTok · Space Frenz"
+    },
+    {
+      "position": 7,
+      "title": "Place: Goldilocks",
+      "link": "https://www.irishexaminer.com/maintopics/place-goldilocks_topic-1999301.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFZHFgqq9jBKVocVID-SYiNNKjPNwKE_ZpzmnD-Z6WnOWsOWNrF9xtPRJlJhiXVlKLYPuENJjGTvY5QbV4xwOiLiq4Wv2BgWQwj33k4qUxte9hTzRokFOq2kfJ5RVfFX8BuRAXU6vWRuOxXLVB-Al25RDIXik9jYnliUTlHDRRV4&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.irishexaminer.com › Main Topics",
+      "favicon": "https://serpapi.com/images/i/UklGRrYBAABXRUJQVlA4IKoBAAAwCwCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDAw2rXFsM7CGA2wG4Y84D-AdYB6EHlfeyB-zf7R-1jSzJgK0FAz7U_o4XyANP_k5cbxdt3XIti_VEZaFAzqbkPg_v7QAAD-9gnKnwNWBY24Pfd5NIy1-MQQeZVfOtbGi382CTkh7mYj5tOJsvWCTkGGXhCk8_kj57ZJvQHeA1crKAEmvAs4GI7kYL2jl1H8W2H3PxcAvsG9jZ8JbNH7Z1P6xOOaoc6hUlTD2213eG7diTIwOzBns0hsEPvinT1hQ-csuUaD-I3JPmMqBSBzLyE6BSi0y8NDLMX9DbKeXVFAcbu9Ksd_xKqRbO2g9cSI9NlvP0KRlF5n_OuSn_uGTzBf9b1_bSzUtHOWlNmbYvQiYACjCdb7Zm9mUcKEJg19rIAYX5Tt5rv_mG8GvVj6hOVNj1ave69uTDyLdvE7-rNe8ors0QKxUbuUr5yxzD0UsC9t9pyDRfeAKXjUe2jZMTun4HMRAclw9o99oJtoZ9o1uwWIHTF45vkauszKhmJIXX_iYY78PKrZzlP_oAA.webp",
+      "snippet": "NASA scientists discover a new Earth-like planet. world. NASA scientists discover a new Earth-like planet. Scientists discover 'Earth-like' planet in so-called ...",
+      "snippet_highlighted_words": [
+        "scientists discover a new Earth-like planet",
+        "scientists discover a new Earth-like planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NASA scientists discover a new Earth-like planet. world. NASA scientists discover a new Earth-like planet. Scientists discover 'Earth-like' planet in so-called ...",
+          "source_info_link": "https://www.irishexaminer.com/maintopics/place-goldilocks_topic-1999301.html",
+          "icon": "https://serpapi.com/images/i/UklGRrYBAABXRUJQVlA4IKoBAAAwCwCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDAw2rXFsM7CGA2wG4Y84D-AdYB6EHlfeyB-zf7R-1jSzJgK0FAz7U_o4XyANP_k5cbxdt3XIti_VEZaFAzqbkPg_v7QAAD-9gnKnwNWBY24Pfd5NIy1-MQQeZVfOtbGi382CTkh7mYj5tOJsvWCTkGGXhCk8_kj57ZJvQHeA1crKAEmvAs4GI7kYL2jl1H8W2H3PxcAvsG9jZ8JbNH7Z1P6xOOaoc6hUlTD2213eG7diTIwOzBns0hsEPvinT1hQ-csuUaD-I3JPmMqBSBzLyE6BSi0y8NDLMX9DbKeXVFAcbu9Ksd_xKqRbO2g9cSI9NlvP0KRlF5n_OuSn_uGTzBf9b1_bSzUtHOWlNmbYvQiYACjCdb7Zm9mUcKEJg19rIAYX5Tt5rv_mG8GvVj6hOVNj1ave69uTDyLdvE7-rNe8ors0QKxUbuUr5yxzD0UsC9t9pyDRfeAKXjUe2jZMTun4HMRAclw9o99oJtoZ9o1uwWIHTF45vkauszKhmJIXX_iYY78PKrZzlP_oAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZaSEZncXE5akJLVm9jVklELVNZaU5OS2pQTndLRV9acHptbkQtWjZXbk9Xc09XTnJGOXh0UFJKbEpoaVhWbEtMWVB1RU5KakdUdlk1UWJWNHh3T2lMaXE0V3YyQmdXUXdqMzNrNHFVeHRlOWhUelJva0ZPcTJrZko1UlZmRlg4QnVSQVhVNnZXUnVPeFhMVkItQWwyNVJESVhpazlqWW5saVVUbEhEUlJWNBIEGgIIABq5BBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCVBAgAEAAYACAAKhEKCnNjaWVudGlzdHMV-1ZnQCoPCghkaXNjb3ZlchUOjmZAKggKAWEVxoOSQCoKCgNuZXcVUjRcQCoMCgVlYXJ0aBXqHpJAKgsKBGxpa2UVNwN6QCoNCgZwbGFuZXQVab6PQDLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWkhGZ3FxOWpCS1ZvY1ZJRC1TWWlOTktqUE53S0VfWnB6bW5ELVo2V25PV3NPV05yRjl4dFBSSmxKaGlYVmxLTFlQdUVOSmpHVHZZNVFiVjR4d09pTGlxNFd2MkJnV1F3ajMzazRxVXh0ZTloVHpSb2tGT3Eya2ZKNVJWZkZYOEJ1UkFYVTZ2V1J1T3hYTFZCLUFsMjVSRElYaWs5allubGlVVGxIRFJSVjQ6IlBsYWNlOiBHb2xkaWxvY2tzIC0gSXJpc2ggRXhhbWluZXJCvgFOQVNBIDxiPnNjaWVudGlzdHMgZGlzY292ZXIgYSBuZXcgRWFydGgtbGlrZSBwbGFuZXQ8L2I-LiB3b3JsZC4gTkFTQSA8Yj5zY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPi4gU2NpZW50aXN0cyBkaXNjb3ZlciAmIzM5O0VhcnRoLWxpa2UmIzM5OyBwbGFuZXQgaW4gc28tY2FsbGVkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZaSEZncXE5akJLVm9jVklELVNZaU5OS2pQTndLRV9acHptbkQtWjZXbk9Xc09XTnJGOXh0UFJKbEpoaVhWbEtMWVB1RU5KakdUdlk1UWJWNHh3T2lMaXE0V3YyQmdXUXdqMzNrNHFVeHRlOWhUelJva0ZPcTJrZko1UlZmRlg4QnVSQVhVNnZXUnVPeFhMVkItQWwyNVJESVhpazlqWW5saVVUbEhEUlJWNBIEGgIIABq5BBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCVBAgAEAAYACAAKhEKCnNjaWVudGlzdHMV-1ZnQCoPCghkaXNjb3ZlchUOjmZAKggKAWEVxoOSQCoKCgNuZXcVUjRcQCoMCgVlYXJ0aBXqHpJAKgsKBGxpa2UVNwN6QCoNCgZwbGFuZXQVab6PQDLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWkhGZ3FxOWpCS1ZvY1ZJRC1TWWlOTktqUE53S0VfWnB6bW5ELVo2V25PV3NPV05yRjl4dFBSSmxKaGlYVmxLTFlQdUVOSmpHVHZZNVFiVjR4d09pTGlxNFd2MkJnV1F3ajMzazRxVXh0ZTloVHpSb2tGT3Eya2ZKNVJWZkZYOEJ1UkFYVTZ2V1J1T3hYTFZCLUFsMjVSRElYaWs5allubGlVVGxIRFJSVjQ6IlBsYWNlOiBHb2xkaWxvY2tzIC0gSXJpc2ggRXhhbWluZXJCvgFOQVNBIDxiPnNjaWVudGlzdHMgZGlzY292ZXIgYSBuZXcgRWFydGgtbGlrZSBwbGFuZXQ8L2I-LiB3b3JsZC4gTkFTQSA8Yj5zY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPi4gU2NpZW50aXN0cyBkaXNjb3ZlciAmIzM5O0VhcnRoLWxpa2UmIzM5OyBwbGFuZXQgaW4gc28tY2FsbGVkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Irish Examiner",
+      "read_more_link": "https://www.irishexaminer.com/maintopics/place-goldilocks_topic-1999301.html#:~:text=world,discover%20a%20new%20Earth%2Dlike%20planet"
+    },
+    {
+      "position": 8,
+      "title": "Baby planet CHA 1107-7626 is growing ...",
+      "link": "https://www.instagram.com/reel/DPqkMSXD3Uf/?hl=en",
+      "displayed_link": "1.7K+ likes · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab156695e3494f755ff557c/images/VD6QWctT1RjepUB226PE9pgwpU6Y6VYc-nb8rzqu5lo.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "Breaking: Scientists Discover a New Earth-Like Planet | Space News Today Description Scientists have discovered a new Earth-like ...",
+      "duration": "1:46",
+      "about_this_result": {
+        "source": {
+          "description": "Breaking: Scientists Discover a New Earth-Like Planet | Space News Today Description Scientists have discovered a new Earth-like ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnI1elJ1cmZ2OWhJNll2cExpWE45WlVTVEhRSjM0ZHZJSTVtWkd1cWNwRG1ydU5rbDM1TjhXSnBPdG9xVl9mb3ZTMFRxV25GNWszMHd6S0FLaDhZVFlDc1hSNTRveVExQ0dDektqdzlXOTl3MWtHRndnM291SGlyYzRKcUMwSkhKNzZmZzNBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnI1elJ1cmZ2OWhJNll2cExpWE45WlVTVEhRSjM0ZHZJSTVtWkd1cWNwRG1ydU5rbDM1TjhXSnBPdG9xVl9mb3ZTMFRxV25GNWszMHd6S0FLaDhZVFlDc1hSNTRveVExQ0dDektqdzlXOTl3MWtHRndnM291SGlyYzRKcUMwSkhKNzZmZzNBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Instagram · firstpost"
+    },
+    {
+      "position": 9,
+      "title": "Scientists discover a new Earth-like planet in the universe",
+      "link": "https://www.notebookchat.com/index.php?topic=235914.0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVeatSB3Kpojw4BB_K0tAvufJsQ6VhKMvCSEbwIUO-TpuTtYvpEcT10ls5E7uX0clPPQefMgU4ihhuYc3PxMMFx8kehpXwgMXLpJacql4QNJr86DMZNnttazIX5bjMuxdVvcxfxcvhBfY&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://www.notebookchat.com › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALT9ADn27u09lnyZiZQF_r5P7-eJF3DpUXUMJH8BkmAA_vYC_z8TnPQgTGqdwPRqTetruG8zvF-mDID3nyWtMaktcXeo95GZ804_nn_bSRQ_5kxZAqvHRnd3qo0a2dLcNf2DRQNWZGAvGYZtG6FF7Mw3gKmHbd4SYP1aTeP9bwwpHl3lICTphYI2-hOHePyDvbgXX_HZa_qmq2H82_7ZMmG9URkbltdD3CZT7gyH-X9R80hlLk_Gwg-gx1WgwbzDU1AAAAA.webp",
+      "snippet": "Scientists discover a new Earth-like planet in the universe.",
+      "snippet_highlighted_words": [
+        "Scientists discover a new Earth-like planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Scientists discover a new Earth-like planet in the universe.",
+          "source_info_link": "https://www.notebookchat.com/index.php?topic=235914.0",
+          "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALT9ADn27u09lnyZiZQF_r5P7-eJF3DpUXUMJH8BkmAA_vYC_z8TnPQgTGqdwPRqTetruG8zvF-mDID3nyWtMaktcXeo95GZ804_nn_bSRQ_5kxZAqvHRnd3qo0a2dLcNf2DRQNWZGAvGYZtG6FF7Mw3gKmHbd4SYP1aTeP9bwwpHl3lICTphYI2-hOHePyDvbgXX_HZa_qmq2H82_7ZMmG9URkbltdD3CZT7gyH-X9R80hlLk_Gwg-gx1WgwbzDU1AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVmVhdFNCM0twb2p3NEJCX0swdEF2dWZKc1E2VmhLTXZDU0Vid0lVTy1UcHVUdFl2cEVjVDEwbHM1RTd1WDBjbFBQUWVmTWdVNGloaHVZYzNQeE1NRng4a2VocFh3Z01YTHBKYWNxbDRRTkpyODZETVpObnR0YXpJWDViak11eGRWdmN4ZnhjdmhCZlkSBBoCCAAavQMSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmQMIABAAGAAgACoRCgpzY2llbnRpc3RzFTzf0EAqDwoIZGlzY292ZXIVaJbEQCoICgFhFd7C60AqCgoDbmV3FcKaxEAqDAoFZWFydGgVPN_QQCoLCgRsaWtlFbbM0kAqDQoGcGxhbmV0FWiWxEAyoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWZWF0U0IzS3Bvanc0QkJfSzB0QXZ1ZkpzUTZWaEtNdkNTRWJ3SVVPLVRwdVR0WXZwRWNUMTBsczVFN3VYMGNsUFBRZWZNZ1U0aWhodVljM1B4TU1GeDhrZWhwWHdnTVhMcEphY3FsNFFOSnI4NkRNWk5udHRheklYNWJqTXV4ZFZ2Y3hmeGN2aEJmWTpCPGI-U2NpZW50aXN0cyBkaXNjb3ZlciBhIG5ldyBFYXJ0aC1saWtlIHBsYW5ldDwvYj4gaW4gdGhlIHVuaXZlcnNlQkM8Yj5TY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPiBpbiB0aGUgdW5pdmVyc2UuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVmVhdFNCM0twb2p3NEJCX0swdEF2dWZKc1E2VmhLTXZDU0Vid0lVTy1UcHVUdFl2cEVjVDEwbHM1RTd1WDBjbFBQUWVmTWdVNGloaHVZYzNQeE1NRng4a2VocFh3Z01YTHBKYWNxbDRRTkpyODZETVpObnR0YXpJWDViak11eGRWdmN4ZnhjdmhCZlkSBBoCCAAavQMSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmQMIABAAGAAgACoRCgpzY2llbnRpc3RzFTzf0EAqDwoIZGlzY292ZXIVaJbEQCoICgFhFd7C60AqCgoDbmV3FcKaxEAqDAoFZWFydGgVPN_QQCoLCgRsaWtlFbbM0kAqDQoGcGxhbmV0FWiWxEAyoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWZWF0U0IzS3Bvanc0QkJfSzB0QXZ1ZkpzUTZWaEtNdkNTRWJ3SVVPLVRwdVR0WXZwRWNUMTBsczVFN3VYMGNsUFBRZWZNZ1U0aWhodVljM1B4TU1GeDhrZWhwWHdnTVhMcEphY3FsNFFOSnI4NkRNWk5udHRheklYNWJqTXV4ZFZ2Y3hmeGN2aEJmWTpCPGI-U2NpZW50aXN0cyBkaXNjb3ZlciBhIG5ldyBFYXJ0aC1saWtlIHBsYW5ldDwvYj4gaW4gdGhlIHVuaXZlcnNlQkM8Yj5TY2llbnRpc3RzIGRpc2NvdmVyIGEgbmV3IEVhcnRoLWxpa2UgcGxhbmV0PC9iPiBpbiB0aGUgdW5pdmVyc2UuIgIQAUgAWABoAA",
+      "source": "notebookchat.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How many scientists discover a new earth like planet",
+      "link": "https://www.google.com/search?sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&q=How+many+scientists+discover+a+new+earth+like+planet&sa=X&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+scientists+discover+a+new+earth+like+planet"
+    },
+    {
+      "block_position": 1,
+      "query": "Scientists discover a new earth like planet nasa",
+      "link": "https://www.google.com/search?sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&q=Scientists+discover+a+new+earth+like+planet+nasa&sa=X&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Scientists+discover+a+new+earth+like+planet+nasa"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&ei=aVaxavT1Ec7LkPIP8f794As&start=10&sa=N&sstk=AS6-VmKAke_JMCBB5wQ9BQ_W8K2UF_fV4q6-58C0iJ7bNoJMUDRvv7IdRc4G-vxkwK3P81Nf4wxxlsDayi68Vlu_wB54yw8FfEW-5g&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ8NMDegQIMBAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&ei=aVaxavT1Ec7LkPIP8f794As&start=10&sa=N&sstk=AS6-VmKAke_JMCBB5wQ9BQ_W8K2UF_fV4q6-58C0iJ7bNoJMUDRvv7IdRc4G-vxkwK3P81Nf4wxxlsDayi68Vlu_wB54yw8FfEW-5g&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ8tMDegQIMBAE",
+      "3": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&ei=aVaxavT1Ec7LkPIP8f794As&start=20&sa=N&sstk=AS6-VmKAke_JMCBB5wQ9BQ_W8K2UF_fV4q6-58C0iJ7bNoJMUDRvv7IdRc4G-vxkwK3P81Nf4wxxlsDayi68Vlu_wB54yw8FfEW-5g&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ8tMDegQIMBAG",
+      "4": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&ei=aVaxavT1Ec7LkPIP8f794As&start=30&sa=N&sstk=AS6-VmKAke_JMCBB5wQ9BQ_W8K2UF_fV4q6-58C0iJ7bNoJMUDRvv7IdRc4G-vxkwK3P81Nf4wxxlsDayi68Vlu_wB54yw8FfEW-5g&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ8tMDegQIMBAI",
+      "5": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&ei=aVaxavT1Ec7LkPIP8f794As&start=40&sa=N&sstk=AS6-VmKAke_JMCBB5wQ9BQ_W8K2UF_fV4q6-58C0iJ7bNoJMUDRvv7IdRc4G-vxkwK3P81Nf4wxxlsDayi68Vlu_wB54yw8FfEW-5g&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ8tMDegQIMBAK",
+      "6": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&ei=aVaxavT1Ec7LkPIP8f794As&start=50&sa=N&sstk=AS6-VmKAke_JMCBB5wQ9BQ_W8K2UF_fV4q6-58C0iJ7bNoJMUDRvv7IdRc4G-vxkwK3P81Nf4wxxlsDayi68Vlu_wB54yw8FfEW-5g&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ8tMDegQIMBAM",
+      "7": "https://www.google.com/search?q=%22Scientists+discover+a+new+Earth-like+planet%22&sca_esv=1292a53073048c05&sxsrf=APpeQnsfBNDtJeQ65bubWIYLkAogi0W3Ew:1790006889302&ei=aVaxavT1Ec7LkPIP8f794As&start=60&sa=N&sstk=AS6-VmKAke_JMCBB5wQ9BQ_W8K2UF_fV4q6-58C0iJ7bNoJMUDRvv7IdRc4G-vxkwK3P81Nf4wxxlsDayi68Vlu_wB54yw8FfEW-5g&ved=2ahUKEwi0zqCmh4CXAxXOJUQIHXF_H7wQ8tMDegQIMBAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Scientists+discover+a+new+Earth-like+planet%22&start=60"
+    }
+  }
+}

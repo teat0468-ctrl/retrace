@@ -1,0 +1,412 @@
+{
+  "search_metadata": {
+    "id": "6ab22f6027c2b0256882a164",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/wOuq7I9Dbm7HDvII46UHEfXCSq9Lk1v5TBmej2ThONA/6ab22f6027c2b0256882a164.json",
+    "markdown_endpoint": "https://serpapi.com/searches/wOuq7I9Dbm7HDvII46UHEfXCSq9Lk1v5TBmej2ThONA/6ab22f6027c2b0256882a164.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/wOuq7I9Dbm7HDvII46UHEfXCSq9Lk1v5TBmej2ThONA/6ab22f6027c2b0256882a164.json_with_pixel_position",
+    "created_at": "2026-09-22 07:33:52 UTC",
+    "processed_at": "2026-09-22 07:33:52 UTC",
+    "google_url": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&oq=federal+reserve+announces+massive+emergency+interest+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/wOuq7I9Dbm7HDvII46UHEfXCSq9Lk1v5TBmej2ThONA/6ab22f6027c2b0256882a164.html",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "federal reserve announces massive emergency interest 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "federal reserve announces massive emergency interest 2025",
+    "total_results": 4710000,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Federal Reserve to announce interest rate decision",
+      "link": "https://www.youtube.com/watch?v=pgikQnbEcW0&xstg=CAMSBhUD-7L2Hw%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab22f6027c2b0256882a164/images/bjSKxrkZ2Ev9Xko_OS0cl-knrNAp8wkqCpISKU3irb0.jpeg",
+      "channel": "News 11 Yuma",
+      "duration": "2:37",
+      "platform": "YouTube",
+      "date": "9 hours ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ7djxUrUf3tYHrClfbjzK6vWuuiKci6dzwNQ"
+    },
+    {
+      "position": 2,
+      "title": "The Federal Reserve unanimously raised interest rates ...",
+      "link": "https://www.facebook.com/GulfCoastNewsNow/videos/the-federal-reserve-unanimously-raised-interest-rates-pointing-to-persistent-inf/1767844984368193/",
+      "thumbnail": "https://serpapi.com/searches/6ab22f6027c2b0256882a164/images/yfl7vycXitmFlttromxA88HJJ-ifw7cREKjvhXEq81g.jpeg",
+      "channel": "Gulf Coast News",
+      "duration": "0:43",
+      "platform": "Facebook",
+      "date": "5 days ago"
+    },
+    {
+      "position": 3,
+      "title": "The Federal Reserve on Wednesday will issue a decision ...",
+      "link": "https://www.facebook.com/ABCNews/posts/the-federal-reserve-on-wednesday-will-issue-a-decision-on-the-level-of-interest-/1530445542275654/",
+      "thumbnail": "https://serpapi.com/searches/6ab22f6027c2b0256882a164/images/RzEuj230HAnQ7e19PWPrzbFUJRFNQTyaeJqtrRgICWQ.jpeg",
+      "channel": "ABC News",
+      "duration": "1:58",
+      "platform": "Facebook",
+      "date": "5 days ago"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What does Kevin Warsh mean for interest rates?",
+      "type": "ai_overview",
+      "page_token": "-L7U-3icHdBRjqIwAIDhzGXmcbRV3GBiNmFtCWRat6UtlpcNFhUpFVQG0Le5wp5hT7WnGTMH-JMv_-e_-nS2_1_-ll3X3paTyTAMb8emOdb7N9O4SX67n83E5HW9y41dLn4swM-DWaHeBL-uJmCybdWaTxMIbrpSv9mjjjeINkU4HgjE8Q7F60wpYs5lJ10W73DW54hvdBXctCsiAbFnrH9ldrTcxcTU9JJINc-f1QZnKIG-o2EBN2lLZTo6VhVEWY9QQO-5BR8G-QutCrhHlBDYUYF9lFRxlaY40nbsd7a9COvFFPPAqBYzUUdF2EE9zS5clEiGXEgHZhyU172kC5PqO8FBRJyy-xB10noPnaqBpfP506-KbcxRWWTsDjy9pcRIv9cSATEFjFrghPODhDcnJvnDVLVT6_KUIC99T0dQwJarcKRKlFi7caCz4J1vo6lkrwfTr2av369Xfw6uW7bX5vgFPw-MFw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-L7U-3icHdBRjqIwAIDhzGXmcbRV3GBiNmFtCWRat6UtlpcNFhUpFVQG0Le5wp5hT7WnGTMH-JMv_-e_-nS2_1_-ll3X3paTyTAMb8emOdb7N9O4SX67n83E5HW9y41dLn4swM-DWaHeBL-uJmCybdWaTxMIbrpSv9mjjjeINkU4HgjE8Q7F60wpYs5lJ10W73DW54hvdBXctCsiAbFnrH9ldrTcxcTU9JJINc-f1QZnKIG-o2EBN2lLZTo6VhVEWY9QQO-5BR8G-QutCrhHlBDYUYF9lFRxlaY40nbsd7a9COvFFPPAqBYzUUdF2EE9zS5clEiGXEgHZhyU172kC5PqO8FBRJyy-xB10noPnaqBpfP506-KbcxRWWTsDjy9pcRIv9cSATEFjFrghPODhDcnJvnDVLVT6_KUIC99T0dQwJarcKRKlFi7caCz4J1vo6lkrwfTr2av369Xfw6uW7bX5vgFPw-MFw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBLZXZpbiBXYXJzaCBtZWFuIGZvciBpbnRlcmVzdCByYXRlcz8iLCJsayI6IkdpMTNhR0YwSUdSdlpYTWdhMlYyYVc0Z2QyRnljMmdnYldWaGJpQm1iM0lnYVc1MFpYSmxjM1FnY21GMFpYTSIsImJzIjoiYzQyT3ZRdkNNQkJIY2MwZ25UdmRJb0xnQndGRlhicUlJRzZpZEE3MFNvTnBJc25aNEg5dm1tSkJCSFc4SC1feGpnazJ5eXRCVUJoMGNNUkdhc2lGZFJYVUtEU1V4b0xVaEJZZGdSV0VMdVB6ZE9wNzR4b05fODFnQjdhTUNlbUFLZ1RWamdRYXZRT2o0N1RIQXExUWNFS0h0a0VnVTRoSHhwTjBXR0xSa1hGaW5tMTJiZlpzN19VdFpEVzlfQUNFbkhRSTRRRmxQSDQtdmszWDhXZDZsOHNfWkhaaGsxd3ExZGM2LWgwS0pfQUZYMlY4bkk1OFM1Y195R1R3QkEiLCJpZCI6ImZjX1lDLXlhc0xxT29hQTVPTVA2TWZOb0FJXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBLZXZpbiBXYXJzaCBtZWFuIGZvciBpbnRlcmVzdCByYXRlcz8iLCJsayI6IkdpMTNhR0YwSUdSdlpYTWdhMlYyYVc0Z2QyRnljMmdnYldWaGJpQm1iM0lnYVc1MFpYSmxjM1FnY21GMFpYTSIsImJzIjoiYzQyT3ZRdkNNQkJIY2MwZ25UdmRJb0xnQndGRlhicUlJRzZpZEE3MFNvTnBJc25aNEg5dm1tSkJCSFc4SC1feGpnazJ5eXRCVUJoMGNNUkdhc2lGZFJYVUtEU1V4b0xVaEJZZGdSV0VMdVB6ZE9wNzR4b05fODFnQjdhTUNlbUFLZ1RWamdRYXZRT2o0N1RIQXExUWNFS0h0a0VnVTRoSHhwTjBXR0xSa1hGaW5tMTJiZlpzN19VdFpEVzlfQUNFbkhRSTRRRmxQSDQtdmszWDhXZDZsOHNfWkhaaGsxd3ExZGM2LWgwS0pfQUZYMlY4bkk1OFM1Y195R1R3QkEiLCJpZCI6ImZjX1lDLXlhc0xxT29hQTVPTVA2TWZOb0FJXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the latest news on the Federal Reserve today?",
+      "type": "ai_overview",
+      "page_token": "aJUL6HicHdBbbuIwAEBRdTP9LDGvmSChkVLiQKWY-pnEP6NgFwK2EwMpKf7rFrqGWdWsZqpZwdW5n3_ssTV_H76avvfXxWg0DMPToesO9u1JdW5UX--tGqna2l2tzGL-Yw5-7dUyvank-aISzL0XKxLRFlJkkFeiOeZcBQl9h7JZgZ1HvBV9ZQ3YMXtGMN7UGSQo6C6f-C01_anOfgbRaoqBHwSDSK614W4zIwGuMdO9zgitRfNaOTtlPD6TFPVVJFk5sZhnH9d6LK-SxzcNY0msDrk73N-EbIuyuRQCB1wmZ5W9jKmZzSuWANlqIjl5145EsgAQF3IqzQstVnBQoZnmJdyz6ONIRWyrUqx2Y_G-K_0a82aDQnJKGy3xHcyqEuXqu1vxFLAIYGSAYy5OKOmOmJOgTtaJDKyZ8b3IxEWmgrJnwL6dngq_RS2Ptis-yOFxr27LyeP_18vfe9cv_KU7_ANm846N",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=aJUL6HicHdBbbuIwAEBRdTP9LDGvmSChkVLiQKWY-pnEP6NgFwK2EwMpKf7rFrqGWdWsZqpZwdW5n3_ssTV_H76avvfXxWg0DMPToesO9u1JdW5UX--tGqna2l2tzGL-Yw5-7dUyvank-aISzL0XKxLRFlJkkFeiOeZcBQl9h7JZgZ1HvBV9ZQ3YMXtGMN7UGSQo6C6f-C01_anOfgbRaoqBHwSDSK614W4zIwGuMdO9zgitRfNaOTtlPD6TFPVVJFk5sZhnH9d6LK-SxzcNY0msDrk73N-EbIuyuRQCB1wmZ5W9jKmZzSuWANlqIjl5145EsgAQF3IqzQstVnBQoZnmJdyz6ONIRWyrUqx2Y_G-K_0a82aDQnJKGy3xHcyqEuXqu1vxFLAIYGSAYy5OKOmOmJOgTtaJDKyZ8b3IxEWmgrJnwL6dngq_RS2Ptis-yOFxr27LyeP_18vfe9cv_KU7_ANm846N",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGxhdGVzdCBuZXdzIG9uIHRoZSBGZWRlcmFsIFJlc2VydmUgdG9kYXk/IiwibGsiOiJHZzVtWldRZ2JtVjNjeUIwYjJSaGVRIiwiYnMiOiJjNDJPdlF2Q01CQkhjYzBnblR2ZElvTGdCd0ZGWGJxSUlHNmlkQTcwU29OcElzblo0SDl2bW1KQkJIVzhILV94amdrMnl5dEJVQmgwY01SR2FzaUZkUlhVS0RTVXhvTFVoQllkZ1JXRUx1UHpkT3A3NHhvTl84MWdCN2FNQ2VtQUtnVFZqZ1FhdlFPajQ3VEhBcTFRY0VLSHRrRWdVNGhIeHBOMFdHTFJrWEZpbm0xMmJmWnM3X1V0WkRXOV9BQ0VuSFFJNFFGbFBINC12azNYOFdkNmw4c19aSFpoazF3cTFkYzYtaDBLSl9BRlgyVjhuSTU4UzVjX3lHVHdCQSIsImlkIjoiZmNfWUMteWFzTHFPb2FBNU9NUDZNZk5vQUlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGxhdGVzdCBuZXdzIG9uIHRoZSBGZWRlcmFsIFJlc2VydmUgdG9kYXk%2FIiwibGsiOiJHZzVtWldRZ2JtVjNjeUIwYjJSaGVRIiwiYnMiOiJjNDJPdlF2Q01CQkhjYzBnblR2ZElvTGdCd0ZGWGJxSUlHNmlkQTcwU29OcElzblo0SDl2bW1KQkJIVzhILV94amdrMnl5dEJVQmgwY01SR2FzaUZkUlhVS0RTVXhvTFVoQllkZ1JXRUx1UHpkT3A3NHhvTl84MWdCN2FNQ2VtQUtnVFZqZ1FhdlFPajQ3VEhBcTFRY0VLSHRrRWdVNGhIeHBOMFdHTFJrWEZpbm0xMmJmWnM3X1V0WkRXOV9BQ0VuSFFJNFFGbFBINC12azNYOFdkNmw4c19aSFpoazF3cTFkYzYtaDBLSl9BRlgyVjhuSTU4UzVjX3lHVHdCQSIsImlkIjoiZmNfWUMteWFzTHFPb2FBNU9NUDZNZk5vQUlfNSJ9"
+    },
+    {
+      "question": "Does Trump want the Fed to raise or lower interest rates?",
+      "type": "ai_overview",
+      "page_token": "jIIB53icHdBdbtowAABg9TJ9LDFpWoGEKrmJM1Li1r8Bv0zBBpzGJm5B5OdtV9gZdqqdZtK-I3y__rjm3P69-22v13BZzmZ93z-cuu7kDg-687P6Mp71TNfO7WvdLp-en8DLUa-ym4av3xoSEYJMacQzl7PUEZMbceDlUFcJqye7llmQUha3qk0gF8OFTG6QrXK4xa8iv6530lKak6nKASUtKvZR4vUcve-RtKxK-oNPvIlCKYREFYeJFPi4EZaRiH4JZGIT21AC3DBXFDQLG7oNo0E4rSV9q70eWV4wjIoLa_Vj_UN5WpUJi81XOR_m9GyqzXYNTKreCbADceUkUphioTgFMK6kRCqFQnCIzKfBdRzKfYpUZo0iI0h2W1xqsbjtRAZ4BAhuged-ARntGiLopD-dl0g2WiqnxIJr1z4qWXA23yUY2LGM7IfZhsb090d9W8X3_69XP4_-ugzf3ekfKpSL3Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jIIB53icHdBdbtowAABg9TJ9LDFpWoGEKrmJM1Li1r8Bv0zBBpzGJm5B5OdtV9gZdqqdZtK-I3y__rjm3P69-22v13BZzmZ93z-cuu7kDg-687P6Mp71TNfO7WvdLp-en8DLUa-ym4av3xoSEYJMacQzl7PUEZMbceDlUFcJqye7llmQUha3qk0gF8OFTG6QrXK4xa8iv6530lKak6nKASUtKvZR4vUcve-RtKxK-oNPvIlCKYREFYeJFPi4EZaRiH4JZGIT21AC3DBXFDQLG7oNo0E4rSV9q70eWV4wjIoLa_Vj_UN5WpUJi81XOR_m9GyqzXYNTKreCbADceUkUphioTgFMK6kRCqFQnCIzKfBdRzKfYpUZo0iI0h2W1xqsbjtRAZ4BAhuged-ARntGiLopD-dl0g2WiqnxIJr1z4qWXA23yUY2LGM7IfZhsb090d9W8X3_69XP4_-ugzf3ekfKpSL3Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IkRvZXMgVHJ1bXAgd2FudCB0aGUgRmVkIHRvIHJhaXNlIG9yIGxvd2VyIGludGVyZXN0IHJhdGVzPyIsImxrIjoiY3czSXdRbkFJQkFFd0Q1OGJSbTJJN2dTSWZIQzNnYmJOX09jVW5zd1lYM1BpOTJXNFlzWTdIQkFiU1lSd2gyYndseW1tUDdmekFNIiwiYnMiOiJjNDJPdlF2Q01CQkhjYzBnblR2ZElvTGdCd0ZGWGJxSUlHNmlkQTcwU29OcElzblo0SDl2bW1KQkJIVzhILV94amdrMnl5dEJVQmgwY01SR2FzaUZkUlhVS0RTVXhvTFVoQllkZ1JXRUx1UHpkT3A3NHhvTl84MWdCN2FNQ2VtQUtnVFZqZ1FhdlFPajQ3VEhBcTFRY0VLSHRrRWdVNGhIeHBOMFdHTFJrWEZpbm0xMmJmWnM3X1V0WkRXOV9BQ0VuSFFJNFFGbFBINC12azNYOFdkNmw4c19aSFpoazF3cTFkYzYtaDBLSl9BRlgyVjhuSTU4UzVjX3lHVHdCQSIsImlkIjoiZmNfWUMteWFzTHFPb2FBNU9NUDZNZk5vQUlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IkRvZXMgVHJ1bXAgd2FudCB0aGUgRmVkIHRvIHJhaXNlIG9yIGxvd2VyIGludGVyZXN0IHJhdGVzPyIsImxrIjoiY3czSXdRbkFJQkFFd0Q1OGJSbTJJN2dTSWZIQzNnYmJOX09jVW5zd1lYM1BpOTJXNFlzWTdIQkFiU1lSd2gyYndseW1tUDdmekFNIiwiYnMiOiJjNDJPdlF2Q01CQkhjYzBnblR2ZElvTGdCd0ZGWGJxSUlHNmlkQTcwU29OcElzblo0SDl2bW1KQkJIVzhILV94amdrMnl5dEJVQmgwY01SR2FzaUZkUlhVS0RTVXhvTFVoQllkZ1JXRUx1UHpkT3A3NHhvTl84MWdCN2FNQ2VtQUtnVFZqZ1FhdlFPajQ3VEhBcTFRY0VLSHRrRWdVNGhIeHBOMFdHTFJrWEZpbm0xMmJmWnM3X1V0WkRXOV9BQ0VuSFFJNFFGbFBINC12azNYOFdkNmw4c19aSFpoazF3cTFkYzYtaDBLSl9BRlgyVjhuSTU4UzVjX3lHVHdCQSIsImlkIjoiZmNfWUMteWFzTHFPb2FBNU9NUDZNZk5vQUlfNSJ9"
+    },
+    {
+      "question": "Will the Fed raise interest rates in 2026?",
+      "type": "ai_overview",
+      "page_token": "GqHAcnicHdBRbpswAABQ7TL9bLCbpCNSNInGxKGLMxvbBH4qY5OQ2g6soVD42112qp6m2g7wft6fv-5ytZ_f-rrr2ttqNhuG4f7cNGdX3evGz9RtvOqZVs6VStvV8nEJfpz0Gr3voqffu4iKtpUbFqSwA3yjx4oXHUEgqWS91JwFIpOK2P102AJqXM32OLkZ276J12RT4gSp2CUZFkBLcyD_DDSieJC0xPWv0uYL6siitCH8mQFOp_hAfc04-ogZqlNtW85xMc-5uaQZOejtbl6hBWQZwQrvBw7DrdyeAynNaGzxIaR5VjifZ8caCUEDjchEj21_hKYvUSJSLDmJv8MqM1dUm4KOYJEfyV6LsM8FAjwAlFjguQ-jlDUXKtikX50XsMiLOFQEJkMxRT6d9CRlu1S-GZm_jdJFnNK7k-7XD3f_P9cvJ9-t2rfm_AUwPoJl",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GqHAcnicHdBRbpswAABQ7TL9bLCbpCNSNInGxKGLMxvbBH4qY5OQ2g6soVD42112qp6m2g7wft6fv-5ytZ_f-rrr2ttqNhuG4f7cNGdX3evGz9RtvOqZVs6VStvV8nEJfpz0Gr3voqffu4iKtpUbFqSwA3yjx4oXHUEgqWS91JwFIpOK2P102AJqXM32OLkZ276J12RT4gSp2CUZFkBLcyD_DDSieJC0xPWv0uYL6siitCH8mQFOp_hAfc04-ogZqlNtW85xMc-5uaQZOejtbl6hBWQZwQrvBw7DrdyeAynNaGzxIaR5VjifZ8caCUEDjchEj21_hKYvUSJSLDmJv8MqM1dUm4KOYJEfyV6LsM8FAjwAlFjguQ-jlDUXKtikX50XsMiLOFQEJkMxRT6d9CRlu1S-GZm_jdJFnNK7k-7XD3f_P9cvJ9-t2rfm_AUwPoJl",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IldpbGwgdGhlIEZlZCByYWlzZSBpbnRlcmVzdCByYXRlcyBpbiAyMDI2PyIsImxrIjoiYzVOU0xjX015VkZJUzAxUktFck1MRTVWeU13clNTMUtMUzRCY2t0U2k0RmNCU01ESXpNQSIsImJzIjoiYzQyT3ZRdkNNQkJIY2MwZ25UdmRJb0xnQndGRlhicUlJRzZpZEE3MFNvTnBJc25aNEg5dm1tSkJCSFc4SC1feGpnazJ5eXRCVUJoMGNNUkdhc2lGZFJYVUtEU1V4b0xVaEJZZGdSV0VMdVB6ZE9wNzR4b05fODFnQjdhTUNlbUFLZ1RWamdRYXZRT2o0N1RIQXExUWNFS0h0a0VnVTRoSHhwTjBXR0xSa1hGaW5tMTJiZlpzN19VdFpEVzlfQUNFbkhRSTRRRmxQSDQtdmszWDhXZDZsOHNfWkhaaGsxd3ExZGM2LWgwS0pfQUZYMlY4bkk1OFM1Y195R1R3QkEiLCJpZCI6ImZjX1lDLXlhc0xxT29hQTVPTVA2TWZOb0FJXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2NHUnZjbTAzTWpadFFYcDFZazUyV2xOaU4zTnFOV1pzVlZaNU0xOXFYekZ0Yms1amVWcFlabkJMYjJ0UWVURnpZMGxvZVVORFRYVkJTSHA2YXpGNkxUQmhXbEJoU1RCQldsVnJRak10U1VGbE4yOHhNblZGTlZKMWR4SVhXVU10ZVdGelRIRlBiMkZCTlU5TlVEWk5aazV2UVVrYUlrRkVjM0k1WmxKRVZGSXdkRWhEUlZKR1JHc3dNa2MxV2tSbFduSmlPWE01ZWxFIiwiZmN2IjoiMyIsImVpIjoiWUMteWFzTHFPb2FBNU9NUDZNZk5vQUkiLCJxYyI6IkNqbG1aV1JsY21Gc0lISmxjMlZ5ZG1VZ1lXNXViM1Z1WTJWeklHMWhjM05wZG1VZ1pXMWxjbWRsYm1ONUlHbHVkR1Z5WlhOMElESXdNalVRQUgweWgyb18iLCJxdWVzdGlvbiI6IldpbGwgdGhlIEZlZCByYWlzZSBpbnRlcmVzdCByYXRlcyBpbiAyMDI2PyIsImxrIjoiYzVOU0xjX015VkZJUzAxUktFck1MRTVWeU13clNTMUtMUzRCY2t0U2k0RmNCU01ESXpNQSIsImJzIjoiYzQyT3ZRdkNNQkJIY2MwZ25UdmRJb0xnQndGRlhicUlJRzZpZEE3MFNvTnBJc25aNEg5dm1tSkJCSFc4SC1feGpnazJ5eXRCVUJoMGNNUkdhc2lGZFJYVUtEU1V4b0xVaEJZZGdSV0VMdVB6ZE9wNzR4b05fODFnQjdhTUNlbUFLZ1RWamdRYXZRT2o0N1RIQXExUWNFS0h0a0VnVTRoSHhwTjBXR0xSa1hGaW5tMTJiZlpzN19VdFpEVzlfQUNFbkhRSTRRRmxQSDQtdmszWDhXZDZsOHNfWkhaaGsxd3ExZGM2LWgwS0pfQUZYMlY4bkk1OFM1Y195R1R3QkEiLCJpZCI6ImZjX1lDLXlhc0xxT29hQTVPTVA2TWZOb0FJXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "j9ks0XiczVXZcuI4FP2A-Y7hJRmwWYJJlatLkg04rAYaKnmhjCzEYlvEMrjN2_zLPMw3zdeMbGK24CTdD1OjKi-6urqL7j06f_7lLL31P7_9vQiCDX8sFMIwzFPGqEPymLkFi0ceLsyZw328-MbZ1sdkaat44TOX5KKdWsphrko5slSf0R-RxduvPWaBSq_Tf-jMuwwYucSEOp1ZnKyEhx8rXpgWxGv9e0kTkzzPEy_fGFeUDqyUpZWSL0pyLd8rWK5QAP_dMBbx2wRrYHygFGt8ZVAKdACeTgKEko9-phJPqDCJYiGK_2_71A8RDdAhQNDX-nsNA6AdQ-llxoHOw0Xhm-cw8Qdjjx8ke8Na8q6_zfRsRZCZDb0wATpnS5n20JWiCN0EqF-OjaWbLjZTYJ7cG_HiWydhCpQmgxoE37MjFxtaBqisgal_VmxTH5dR6qr93BCSgk1F40qFmS8-cmGJFzj58Xncz2hUk1hjEUyLe7irjzdYeS1uFHc7akWK_CSzsIBnQs9hlk3s6WIqfUvmclGuSLVSVblPgIT5EUn8HEmjsCktYDdgyMy381BOYYSOdUaX8etijm61AERvquj9mtiQnjYCR8u0daF0qLBoXQpedHBZH1ZLjhnCVNDkAIT6mcoppFj4HkbXodEYJUlJKU0203fBG2B4luhZYbUbnfoua-H3DTym9k7x0gAET2twSvjqDqMAQmSY8HBCr-UkpjKAJ43kjjHNq0Di-0FcFEZ62kfdZHRO-YiVVoILDSEo7LINMA1xhOZxw_JoFQ6urjN4G4OiPKCNPgF81oBfuTHNFC9X7X8OG91o9Y0-GzZebM3AQXFbdr53cDB_wb3wNkyYO_sJxsH_KyClfOQk8mwgmV8CEqV6Nh8dflM-0lEMJEQpzQCSPszgozBVOfHRddZoeAakT_joZ4GkfwikFKQ3gVS_BSQ9C0gpH10AaXjBR_A2Hx2B9Ct8BH-RjxJckcPnkpy2K5pJUs1u1201otrkYdjGzdbTsL6vcGW2rgEPfEpSczd4dC3buZ8u7UdYfAoi-34qBOyR2LlXdU5s4lvOnU848XfkzvI8tvUw4XeuxflSSIhLfEo8HN0tvYAIveCuKBUrOdfxmSpZ1SGduquHYNRYtWebp2An0dZLSy5ulbE7UqSVMRjZnWXHmVQ3_tQYlic-7e2oyayGGYH5C3iQa7TCNNept5R56Hc7y2Zzwlk0BHvFlUtdr9qfmP482lecUWPgyTb3rKWxeq7uxzZua1odDMfS85wg8upUoiQqrpqVthYqbDqQ9ZzIlRNVzrk-VkWTlB06MMGEAgzQMzBFiUzExBOK50FUDeY4tqaE71RSrclluVjC89JMnhEl59Ig2qg1Kcc9X5X_BbxnTRQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j9ks0XiczVXZcuI4FP2A-Y7hJRmwWYJJlatLkg04rAYaKnmhjCzEYlvEMrjN2_zLPMw3zdeMbGK24CTdD1OjKi-6urqL7j06f_7lLL31P7_9vQiCDX8sFMIwzFPGqEPymLkFi0ceLsyZw328-MbZ1sdkaat44TOX5KKdWsphrko5slSf0R-RxduvPWaBSq_Tf-jMuwwYucSEOp1ZnKyEhx8rXpgWxGv9e0kTkzzPEy_fGFeUDqyUpZWSL0pyLd8rWK5QAP_dMBbx2wRrYHygFGt8ZVAKdACeTgKEko9-phJPqDCJYiGK_2_71A8RDdAhQNDX-nsNA6AdQ-llxoHOw0Xhm-cw8Qdjjx8ke8Na8q6_zfRsRZCZDb0wATpnS5n20JWiCN0EqF-OjaWbLjZTYJ7cG_HiWydhCpQmgxoE37MjFxtaBqisgal_VmxTH5dR6qr93BCSgk1F40qFmS8-cmGJFzj58Xncz2hUk1hjEUyLe7irjzdYeS1uFHc7akWK_CSzsIBnQs9hlk3s6WIqfUvmclGuSLVSVblPgIT5EUn8HEmjsCktYDdgyMy381BOYYSOdUaX8etijm61AERvquj9mtiQnjYCR8u0daF0qLBoXQpedHBZH1ZLjhnCVNDkAIT6mcoppFj4HkbXodEYJUlJKU0203fBG2B4luhZYbUbnfoua-H3DTym9k7x0gAET2twSvjqDqMAQmSY8HBCr-UkpjKAJ43kjjHNq0Di-0FcFEZ62kfdZHRO-YiVVoILDSEo7LINMA1xhOZxw_JoFQ6urjN4G4OiPKCNPgF81oBfuTHNFC9X7X8OG91o9Y0-GzZebM3AQXFbdr53cDB_wb3wNkyYO_sJxsH_KyClfOQk8mwgmV8CEqV6Nh8dflM-0lEMJEQpzQCSPszgozBVOfHRddZoeAakT_joZ4GkfwikFKQ3gVS_BSQ9C0gpH10AaXjBR_A2Hx2B9Ct8BH-RjxJckcPnkpy2K5pJUs1u1201otrkYdjGzdbTsL6vcGW2rgEPfEpSczd4dC3buZ8u7UdYfAoi-34qBOyR2LlXdU5s4lvOnU848XfkzvI8tvUw4XeuxflSSIhLfEo8HN0tvYAIveCuKBUrOdfxmSpZ1SGduquHYNRYtWebp2An0dZLSy5ulbE7UqSVMRjZnWXHmVQ3_tQYlic-7e2oyayGGYH5C3iQa7TCNNept5R56Hc7y2Zzwlk0BHvFlUtdr9qfmP482lecUWPgyTb3rKWxeq7uxzZua1odDMfS85wg8upUoiQqrpqVthYqbDqQ9ZzIlRNVzrk-VkWTlB06MMGEAgzQMzBFiUzExBOK50FUDeY4tqaE71RSrclluVjC89JMnhEl59Ig2qg1Kcc9X5X_BbxnTRQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Federal Reserve Board - News & Events",
+      "link": "https://www.federalreserve.gov/newsevents.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVi1H3s_F0UTuYpJIfvHPOpC_xxG7cqDUwb8KD2KcYXoZCZqi5T1xulJki5ndu1vSCCEVxBoxCc9x1-z3D8Pc007Js4jCzeuRZP9oFPx8pgOZtIKNgP0URnWECMi3_Cw6O&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.federalreserve.gov › newsevents",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp",
+      "snippet": "Press Releases. Federal Reserve Board announces termination of enforcement action. 9/18/2026. Federal Reserve Board issues enforcement actions. 9/18/2026.",
+      "snippet_highlighted_words": [
+        "Federal Reserve",
+        "announces",
+        "Federal Reserve"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Press Releases. Federal Reserve Board announces termination of enforcement action. 9/18/2026. Federal Reserve Board issues enforcement actions. 9/18/2026.",
+          "source_info_link": "https://www.federalreserve.gov/newsevents.htm",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmkxSDNzX0YwVVR1WXBKSWZ2SFBPcENfeHhHN2NxRFV3YjhLRDJLY1lYb1pDWnFpNVQxeHVsSmtpNW5kdTF2U0NDRVZ4Qm94Q2M5eDEtejNEOFBjMDA3SnM0akN6ZXVSWlA5b0ZQeDhwZ09adElLTmdQMFVSbldFQ01pM19DdzZPEgQaAggAGoMGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoWCAESEmZlZGVyYWxyZXNlcnZlLmdvdnIAegCCQMcFCAAQABgAIAAqIwoHZmVkZXJhbBWaYjZBGgNmZWQaDmZlZGVyYWxyZXNlcnZlKjEKB3Jlc2VydmUVrVE4QRoHYm9va2luZxoIcmVzZXJ2ZXMaDmZlZGVyYWxyZXNlcnZlKlUKCWFubm91bmNlcxXlRr0-Gghhbm5vdW5jZRoJYW5ub3VuY2VkGgphbm5vdW5jaW5nGghkZWNsYXJlcxoIbGF1bmNoZXMaDml2O3A7YW5ub3VuY2VzKkoKB21hc3NpdmUVAAAAABoDYmlnGghlbm9ybW91cxoFZ2lhbnQaCGdpZ2FudGljGgRodWdlGgdpbW1lbnNlGgVsYXJnZRoEbWFzcyoQCgllbWVyZ2VuY3kVAAAAAComCghpbnRlcmVzdBVN4ZU9GgppbnRlcmVzdGVkGglpbnRlcmVzdHMqFgoEMjAyNRXj7tk8GglpdjtuOzIwMjUylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWaTFIM3NfRjBVVHVZcEpJZnZIUE9wQ194eEc3Y3FEVXdiOEtEMktjWVhvWkNacWk1VDF4dWxKa2k1bmR1MXZTQ0NFVnhCb3hDYzl4MS16M0Q4UGMwMDdKczRqQ3pldVJaUDlvRlB4OHBnT1p0SUtOZ1AwVVJuV0VDTWkzX0N3Nk86JU5ld3MgJiBFdmVudHMgLSBGZWRlcmFsIFJlc2VydmUgQm9hcmRCrwFQcmVzcyBSZWxlYXNlcy4gPGI-RmVkZXJhbCBSZXNlcnZlPC9iPiBCb2FyZCA8Yj5hbm5vdW5jZXM8L2I-IHRlcm1pbmF0aW9uIG9mIGVuZm9yY2VtZW50IGFjdGlvbi4gOS8xOC8yMDI2LiA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-IEJvYXJkIGlzc3VlcyBlbmZvcmNlbWVudCBhY3Rpb25zLiA5LzE4LzIwMjYuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmkxSDNzX0YwVVR1WXBKSWZ2SFBPcENfeHhHN2NxRFV3YjhLRDJLY1lYb1pDWnFpNVQxeHVsSmtpNW5kdTF2U0NDRVZ4Qm94Q2M5eDEtejNEOFBjMDA3SnM0akN6ZXVSWlA5b0ZQeDhwZ09adElLTmdQMFVSbldFQ01pM19DdzZPEgQaAggAGoMGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoWCAESEmZlZGVyYWxyZXNlcnZlLmdvdnIAegCCQMcFCAAQABgAIAAqIwoHZmVkZXJhbBWaYjZBGgNmZWQaDmZlZGVyYWxyZXNlcnZlKjEKB3Jlc2VydmUVrVE4QRoHYm9va2luZxoIcmVzZXJ2ZXMaDmZlZGVyYWxyZXNlcnZlKlUKCWFubm91bmNlcxXlRr0-Gghhbm5vdW5jZRoJYW5ub3VuY2VkGgphbm5vdW5jaW5nGghkZWNsYXJlcxoIbGF1bmNoZXMaDml2O3A7YW5ub3VuY2VzKkoKB21hc3NpdmUVAAAAABoDYmlnGghlbm9ybW91cxoFZ2lhbnQaCGdpZ2FudGljGgRodWdlGgdpbW1lbnNlGgVsYXJnZRoEbWFzcyoQCgllbWVyZ2VuY3kVAAAAAComCghpbnRlcmVzdBVN4ZU9GgppbnRlcmVzdGVkGglpbnRlcmVzdHMqFgoEMjAyNRXj7tk8GglpdjtuOzIwMjUylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWaTFIM3NfRjBVVHVZcEpJZnZIUE9wQ194eEc3Y3FEVXdiOEtEMktjWVhvWkNacWk1VDF4dWxKa2k1bmR1MXZTQ0NFVnhCb3hDYzl4MS16M0Q4UGMwMDdKczRqQ3pldVJaUDlvRlB4OHBnT1p0SUtOZ1AwVVJuV0VDTWkzX0N3Nk86JU5ld3MgJiBFdmVudHMgLSBGZWRlcmFsIFJlc2VydmUgQm9hcmRCrwFQcmVzcyBSZWxlYXNlcy4gPGI-RmVkZXJhbCBSZXNlcnZlPC9iPiBCb2FyZCA8Yj5hbm5vdW5jZXM8L2I-IHRlcm1pbmF0aW9uIG9mIGVuZm9yY2VtZW50IGFjdGlvbi4gOS8xOC8yMDI2LiA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-IEJvYXJkIGlzc3VlcyBlbmZvcmNlbWVudCBhY3Rpb25zLiA5LzE4LzIwMjYuIgIQAUgAWABoAA",
+      "source": "Federal Reserve (.gov)",
+      "read_more_link": "https://www.federalreserve.gov/newsevents.htm#:~:text=Press%20Releases,9%2F18%2F2026"
+    },
+    {
+      "position": 2,
+      "title": "Implementation Note issued October 29, 2025",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a1.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFSQXcX7KSi0Y8cLvAYx8w8ZHvmmA5IA5AadCU1AJZ61i5S67ydqP7ZY8JOKln6w8pZnpvOrIKPOHZNXTN0ATKn0FrIKVZMD4g9Z_5Bw0SYCUr5JYkzH4rUpSfkZamMxIA-EkALYo_6-3QZDcet7kfO70ihtcpJEMEn99MfAYO23iqw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.federalreserve.gov › monetary20251029a1",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp",
+      "date": "Oct 29, 2025",
+      "snippet": "The Board of Governors of the Federal Reserve System voted unanimously to lower the interest rate paid on reserve balances to 3.90 percent, ...",
+      "snippet_highlighted_words": [
+        "Federal Reserve",
+        "interest",
+        "reserve"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Board of Governors of the Federal Reserve System voted unanimously to lower the interest rate paid on reserve balances to 3.90 percent, ...",
+          "source_info_link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a1.htm",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTUVhjWDdLU2kwWThjTHZBWXg4dzhaSHZtbUE1SUE1QWFkQ1UxQUpaNjFpNVM2N3lkcVA3Wlk4Sk9LbG42dzhwWm5wdk9ySUtQT0haTlhUTjBBVEtuMEZySUtWWk1ENGc5Wl81QncwU1lDVXI1Sllrekg0clVwU2ZrWmFtTXhJQS1Fa0FMWW9fNi0zUVpEY2V0N2tmTzcwaWh0Y3BKRU1Fbjk5TWZBWU8yM2lxdxIEGgIIABrKBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaFggBEhJmZWRlcmFscmVzZXJ2ZS5nb3ZyAHoAgkCOBggAEAAYACAAKiMKB2ZlZGVyYWwVdyQ5QRoDZmVkGg5mZWRlcmFscmVzZXJ2ZSoxCgdyZXNlcnZlFRgLOkEaB2Jvb2tpbmcaCHJlc2VydmVzGg5mZWRlcmFscmVzZXJ2ZSpVCglhbm5vdW5jZXMVAAAAABoIYW5ub3VuY2UaCWFubm91bmNlZBoKYW5ub3VuY2luZxoIZGVjbGFyZXMaCGxhdW5jaGVzGg5pdjtwO2Fubm91bmNlcypKCgdtYXNzaXZlFQAAAAAaA2JpZxoIZW5vcm1vdXMaBWdpYW50GghnaWdhbnRpYxoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UaBG1hc3MqEAoJZW1lcmdlbmN5FQAAAAAqJgoIaW50ZXJlc3QVCe2ZPhoKaW50ZXJlc3RlZBoJaW50ZXJlc3RzKhYKBDIwMjUVnvkLQBoJaXY7bjsyMDI1MsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTUVhjWDdLU2kwWThjTHZBWXg4dzhaSHZtbUE1SUE1QWFkQ1UxQUpaNjFpNVM2N3lkcVA3Wlk4Sk9LbG42dzhwWm5wdk9ySUtQT0haTlhUTjBBVEtuMEZySUtWWk1ENGc5Wl81QncwU1lDVXI1Sllrekg0clVwU2ZrWmFtTXhJQS1Fa0FMWW9fNi0zUVpEY2V0N2tmTzcwaWh0Y3BKRU1Fbjk5TWZBWU8yM2lxdzpESW1wbGVtZW50YXRpb24gTm90ZSBpc3N1ZWQgT2N0b2JlciAyOSwgPGI-MjAyNTwvYj4gLSBGZWRlcmFsIFJlc2VydmVCqQFUaGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-IFN5c3RlbSB2b3RlZCB1bmFuaW1vdXNseSB0byBsb3dlciB0aGUgPGI-aW50ZXJlc3Q8L2I-IHJhdGUgcGFpZCBvbiA8Yj5yZXNlcnZlPC9iPiBiYWxhbmNlcyB0byAzLjkwIHBlcmNlbnQsJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTUVhjWDdLU2kwWThjTHZBWXg4dzhaSHZtbUE1SUE1QWFkQ1UxQUpaNjFpNVM2N3lkcVA3Wlk4Sk9LbG42dzhwWm5wdk9ySUtQT0haTlhUTjBBVEtuMEZySUtWWk1ENGc5Wl81QncwU1lDVXI1Sllrekg0clVwU2ZrWmFtTXhJQS1Fa0FMWW9fNi0zUVpEY2V0N2tmTzcwaWh0Y3BKRU1Fbjk5TWZBWU8yM2lxdxIEGgIIABrKBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaFggBEhJmZWRlcmFscmVzZXJ2ZS5nb3ZyAHoAgkCOBggAEAAYACAAKiMKB2ZlZGVyYWwVdyQ5QRoDZmVkGg5mZWRlcmFscmVzZXJ2ZSoxCgdyZXNlcnZlFRgLOkEaB2Jvb2tpbmcaCHJlc2VydmVzGg5mZWRlcmFscmVzZXJ2ZSpVCglhbm5vdW5jZXMVAAAAABoIYW5ub3VuY2UaCWFubm91bmNlZBoKYW5ub3VuY2luZxoIZGVjbGFyZXMaCGxhdW5jaGVzGg5pdjtwO2Fubm91bmNlcypKCgdtYXNzaXZlFQAAAAAaA2JpZxoIZW5vcm1vdXMaBWdpYW50GghnaWdhbnRpYxoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UaBG1hc3MqEAoJZW1lcmdlbmN5FQAAAAAqJgoIaW50ZXJlc3QVCe2ZPhoKaW50ZXJlc3RlZBoJaW50ZXJlc3RzKhYKBDIwMjUVnvkLQBoJaXY7bjsyMDI1MsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZTUVhjWDdLU2kwWThjTHZBWXg4dzhaSHZtbUE1SUE1QWFkQ1UxQUpaNjFpNVM2N3lkcVA3Wlk4Sk9LbG42dzhwWm5wdk9ySUtQT0haTlhUTjBBVEtuMEZySUtWWk1ENGc5Wl81QncwU1lDVXI1Sllrekg0clVwU2ZrWmFtTXhJQS1Fa0FMWW9fNi0zUVpEY2V0N2tmTzcwaWh0Y3BKRU1Fbjk5TWZBWU8yM2lxdzpESW1wbGVtZW50YXRpb24gTm90ZSBpc3N1ZWQgT2N0b2JlciAyOSwgPGI-MjAyNTwvYj4gLSBGZWRlcmFsIFJlc2VydmVCqQFUaGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-IFN5c3RlbSB2b3RlZCB1bmFuaW1vdXNseSB0byBsb3dlciB0aGUgPGI-aW50ZXJlc3Q8L2I-IHJhdGUgcGFpZCBvbiA8Yj5yZXNlcnZlPC9iPiBiYWxhbmNlcyB0byAzLjkwIHBlcmNlbnQsJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Federal Reserve (.gov)",
+      "read_more_link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a1.htm#:~:text=The%20Board%20of%20Governors%20of,percent%2C%20effective%20October%2030%2C%202025."
+    },
+    {
+      "position": 3,
+      "title": "Federal Reserve Board - Interest on Reserve Balances",
+      "link": "https://www.federalreserve.gov/monetarypolicy/reserve-balances.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVN-7OgPXADHlvDcs-ArebYa_LoL0RsN1rP3D3DcmHw6RTH0DcL40c6P2_MpAPG9WdHL1NQdra6zpaRBcmPpAQy6xn3HWsa4OQCyoIe5mzFfHz43EIqJdawx4Uo2XXR3kWgjsfr2exdwB8bqzURkfBG85oKQ2a&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.federalreserve.gov › monetarypolicy › rese...",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp",
+      "snippet": "Federal Reserve announces it will alter formulas used to determine interest rates paid to depository institutions on required reserve balances and excess ...",
+      "snippet_highlighted_words": [
+        "Federal Reserve announces",
+        "interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Federal Reserve announces it will alter formulas used to determine interest rates paid to depository institutions on required reserve balances and excess ...",
+          "source_info_link": "https://www.federalreserve.gov/monetarypolicy/reserve-balances.htm",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk4tN09nUFhBREhsdkRjcy1BcmViWWFfTG9MMFJzTjFyUDNEM0RjbUh3NlJUSDBEY0w0MGM2UDJfTXBBUEc5V2RITDFOUWRyYTZ6cGFSQmNtUHBBUXk2eG4zSFdzYTRPUUN5b0llNW16RmZIejQzRUlxSmRhd3g0VW8yWFhSM2tXZ2pzZnIyZXhkd0I4YnF6VVJrZkJHODVvS1EyYRIEGgIIABqvBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaFggBEhJmZWRlcmFscmVzZXJ2ZS5nb3ZyAHoAgkDzBQgAEAAYACAAKiMKB2ZlZGVyYWwVvMtBQRoDZmVkGg5mZWRlcmFscmVzZXJ2ZSoxCgdyZXNlcnZlFcYOSEEaB2Jvb2tpbmcaCHJlc2VydmVzGg5mZWRlcmFscmVzZXJ2ZSpVCglhbm5vdW5jZXMVVlx-PxoIYW5ub3VuY2UaCWFubm91bmNlZBoKYW5ub3VuY2luZxoIZGVjbGFyZXMaCGxhdW5jaGVzGg5pdjtwO2Fubm91bmNlcypKCgdtYXNzaXZlFQAAAAAaA2JpZxoIZW5vcm1vdXMaBWdpYW50GghnaWdhbnRpYxoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UaBG1hc3MqEAoJZW1lcmdlbmN5FbQtTD4qJgoIaW50ZXJlc3QVXtU0QBoKaW50ZXJlc3RlZBoJaW50ZXJlc3RzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk4tN09nUFhBREhsdkRjcy1BcmViWWFfTG9MMFJzTjFyUDNEM0RjbUh3NlJUSDBEY0w0MGM2UDJfTXBBUEc5V2RITDFOUWRyYTZ6cGFSQmNtUHBBUXk2eG4zSFdzYTRPUUN5b0llNW16RmZIejQzRUlxSmRhd3g0VW8yWFhSM2tXZ2pzZnIyZXhkd0I4YnF6VVJrZkJHODVvS1EyYTo0SW50ZXJlc3Qgb24gUmVzZXJ2ZSBCYWxhbmNlcyAtIEZlZGVyYWwgUmVzZXJ2ZSBCb2FyZEKwATxiPkZlZGVyYWwgUmVzZXJ2ZSBhbm5vdW5jZXM8L2I-IGl0IHdpbGwgYWx0ZXIgZm9ybXVsYXMgdXNlZCB0byBkZXRlcm1pbmUgPGI-aW50ZXJlc3Q8L2I-IHJhdGVzIHBhaWQgdG8gZGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMgb24gcmVxdWlyZWQgcmVzZXJ2ZSBiYWxhbmNlcyBhbmQgZXhjZXNzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk4tN09nUFhBREhsdkRjcy1BcmViWWFfTG9MMFJzTjFyUDNEM0RjbUh3NlJUSDBEY0w0MGM2UDJfTXBBUEc5V2RITDFOUWRyYTZ6cGFSQmNtUHBBUXk2eG4zSFdzYTRPUUN5b0llNW16RmZIejQzRUlxSmRhd3g0VW8yWFhSM2tXZ2pzZnIyZXhkd0I4YnF6VVJrZkJHODVvS1EyYRIEGgIIABqvBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaFggBEhJmZWRlcmFscmVzZXJ2ZS5nb3ZyAHoAgkDzBQgAEAAYACAAKiMKB2ZlZGVyYWwVvMtBQRoDZmVkGg5mZWRlcmFscmVzZXJ2ZSoxCgdyZXNlcnZlFcYOSEEaB2Jvb2tpbmcaCHJlc2VydmVzGg5mZWRlcmFscmVzZXJ2ZSpVCglhbm5vdW5jZXMVVlx-PxoIYW5ub3VuY2UaCWFubm91bmNlZBoKYW5ub3VuY2luZxoIZGVjbGFyZXMaCGxhdW5jaGVzGg5pdjtwO2Fubm91bmNlcypKCgdtYXNzaXZlFQAAAAAaA2JpZxoIZW5vcm1vdXMaBWdpYW50GghnaWdhbnRpYxoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UaBG1hc3MqEAoJZW1lcmdlbmN5FbQtTD4qJgoIaW50ZXJlc3QVXtU0QBoKaW50ZXJlc3RlZBoJaW50ZXJlc3RzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk4tN09nUFhBREhsdkRjcy1BcmViWWFfTG9MMFJzTjFyUDNEM0RjbUh3NlJUSDBEY0w0MGM2UDJfTXBBUEc5V2RITDFOUWRyYTZ6cGFSQmNtUHBBUXk2eG4zSFdzYTRPUUN5b0llNW16RmZIejQzRUlxSmRhd3g0VW8yWFhSM2tXZ2pzZnIyZXhkd0I4YnF6VVJrZkJHODVvS1EyYTo0SW50ZXJlc3Qgb24gUmVzZXJ2ZSBCYWxhbmNlcyAtIEZlZGVyYWwgUmVzZXJ2ZSBCb2FyZEKwATxiPkZlZGVyYWwgUmVzZXJ2ZSBhbm5vdW5jZXM8L2I-IGl0IHdpbGwgYWx0ZXIgZm9ybXVsYXMgdXNlZCB0byBkZXRlcm1pbmUgPGI-aW50ZXJlc3Q8L2I-IHJhdGVzIHBhaWQgdG8gZGVwb3NpdG9yeSBpbnN0aXR1dGlvbnMgb24gcmVxdWlyZWQgcmVzZXJ2ZSBiYWxhbmNlcyBhbmQgZXhjZXNzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Federal Reserve (.gov)",
+      "read_more_link": "https://www.federalreserve.gov/monetarypolicy/reserve-balances.htm#:~:text=Federal%20Reserve%20announces%20it%20will,reserve%20balances%20(November%205%2C%202008)"
+    },
+    {
+      "position": 4,
+      "title": "The Federal Reserve took emergency action Sunday and ...",
+      "link": "https://www.facebook.com/FOX7Austin/posts/the-federal-reserve-took-emergency-action-sunday-and-slashed-its-benchmark-inter/3802433609798089/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFasslgIT15_dJyWUfbE1OoeUcmWeE_yYQpxGeryIrhNnNJSejDdkoDByedPH3CkVq0H3A3rr_4JPKKEbyzOihH4-SqTiuguSFHR9JdmUKhTXdCu2Qv-LoUltirjhxozjIg6Hb-xARXpwyzmSAQblrxK-CNgPGBT4GlVINTQLV2GzSDPLHpDO72nqSCdYg0C4dSToSE6YRFG935CNlAaQlp5FMgLk3vVCR7Xbzk6bwnVHITsvzl9lSheWGFQ4LjtT-Q&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQFnoECEkQAQ&uoh=1",
+      "displayed_link": "40+ reactions · 6 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "The Federal Reserve took emergency action Sunday and slashed its benchmark interest rate by a full percentage point to nearly zero.",
+      "snippet_highlighted_words": [
+        "Federal Reserve",
+        "emergency",
+        "interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Federal Reserve took emergency action Sunday and slashed its benchmark interest rate by a full percentage point to nearly zero.",
+          "source_info_link": "https://www.facebook.com/FOX7Austin/posts/the-federal-reserve-took-emergency-action-sunday-and-slashed-its-benchmark-inter/3802433609798089/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0Zhc3NsZ0lUMTVfZEp5V1VmYkUxT29lVWNtV2VFX3lZUXB4R2VyeUlyaE5uTkpTZWpEZGtvREJ5ZWRQSDNDa1ZxMEgzQTNycl80SlBLS0VieXpPaWhINC1TcVRpdWd1U0ZIUjlKZG1VS2hUWGRDdTJRdi1Mb1VsdGlyamh4b3pqSWc2SGIteEFSWHB3eXptU0FRYmxyeEstQ05nUEdCVDRHbFZJTlRRTFYyR3pTRFBMSHBETzcybnFTQ2RZZzBDNGRTVG9TRTZZUkZHOTM1Q05sQWFRbHA1Rk1nTGszdlZDUjdYYnprNmJ3blZISVRzdnpsOWxTaGVXR0ZRNExqdFQtURIEGgIIABr3BhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDTBggAEAAYACAAKiMKB2ZlZGVyYWwV1BSQQBoDZmVkGg5mZWRlcmFscmVzZXJ2ZSoxCgdyZXNlcnZlFaalj0AaB2Jvb2tpbmcaCHJlc2VydmVzGg5mZWRlcmFscmVzZXJ2ZSpVCglhbm5vdW5jZXMVAAAAABoIYW5ub3VuY2UaCWFubm91bmNlZBoKYW5ub3VuY2luZxoIZGVjbGFyZXMaCGxhdW5jaGVzGg5pdjtwO2Fubm91bmNlcypKCgdtYXNzaXZlFZqlOT8aA2JpZxoIZW5vcm1vdXMaBWdpYW50GghnaWdhbnRpYxoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UaBG1hc3MqEAoJZW1lcmdlbmN5FRzIiUAqJgoIaW50ZXJlc3QVkLZrQBoKaW50ZXJlc3RlZBoJaW50ZXJlc3RzKhYKBDIwMjUVmskqPBoJaXY7bjsyMDI1MpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0Zhc3NsZ0lUMTVfZEp5V1VmYkUxT29lVWNtV2VFX3lZUXB4R2VyeUlyaE5uTkpTZWpEZGtvREJ5ZWRQSDNDa1ZxMEgzQTNycl80SlBLS0VieXpPaWhINC1TcVRpdWd1U0ZIUjlKZG1VS2hUWGRDdTJRdi1Mb1VsdGlyamh4b3pqSWc2SGIteEFSWHB3eXptU0FRYmxyeEstQ05nUEdCVDRHbFZJTlRRTFYyR3pTRFBMSHBETzcybnFTQ2RZZzBDNGRTVG9TRTZZUkZHOTM1Q05sQWFRbHA1Rk1nTGszdlZDUjdYYnprNmJ3blZISVRzdnpsOWxTaGVXR0ZRNExqdFQtUTpGVGhlIDxiPkZlZGVyYWwgUmVzZXJ2ZTwvYj4gdG9vayA8Yj5lbWVyZ2VuY3k8L2I-IGFjdGlvbiBTdW5kYXkgYW5kIC4uLkKYAVRoZSA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-IHRvb2sgPGI-ZW1lcmdlbmN5PC9iPiBhY3Rpb24gU3VuZGF5IGFuZCBzbGFzaGVkIGl0cyBiZW5jaG1hcmsgPGI-aW50ZXJlc3Q8L2I-IHJhdGUgYnkgYSBmdWxsIHBlcmNlbnRhZ2UgcG9pbnQgdG8gbmVhcmx5IHplcm8uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0Zhc3NsZ0lUMTVfZEp5V1VmYkUxT29lVWNtV2VFX3lZUXB4R2VyeUlyaE5uTkpTZWpEZGtvREJ5ZWRQSDNDa1ZxMEgzQTNycl80SlBLS0VieXpPaWhINC1TcVRpdWd1U0ZIUjlKZG1VS2hUWGRDdTJRdi1Mb1VsdGlyamh4b3pqSWc2SGIteEFSWHB3eXptU0FRYmxyeEstQ05nUEdCVDRHbFZJTlRRTFYyR3pTRFBMSHBETzcybnFTQ2RZZzBDNGRTVG9TRTZZUkZHOTM1Q05sQWFRbHA1Rk1nTGszdlZDUjdYYnprNmJ3blZISVRzdnpsOWxTaGVXR0ZRNExqdFQtURIEGgIIABr3BhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDTBggAEAAYACAAKiMKB2ZlZGVyYWwV1BSQQBoDZmVkGg5mZWRlcmFscmVzZXJ2ZSoxCgdyZXNlcnZlFaalj0AaB2Jvb2tpbmcaCHJlc2VydmVzGg5mZWRlcmFscmVzZXJ2ZSpVCglhbm5vdW5jZXMVAAAAABoIYW5ub3VuY2UaCWFubm91bmNlZBoKYW5ub3VuY2luZxoIZGVjbGFyZXMaCGxhdW5jaGVzGg5pdjtwO2Fubm91bmNlcypKCgdtYXNzaXZlFZqlOT8aA2JpZxoIZW5vcm1vdXMaBWdpYW50GghnaWdhbnRpYxoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UaBG1hc3MqEAoJZW1lcmdlbmN5FRzIiUAqJgoIaW50ZXJlc3QVkLZrQBoKaW50ZXJlc3RlZBoJaW50ZXJlc3RzKhYKBDIwMjUVmskqPBoJaXY7bjsyMDI1MpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0Zhc3NsZ0lUMTVfZEp5V1VmYkUxT29lVWNtV2VFX3lZUXB4R2VyeUlyaE5uTkpTZWpEZGtvREJ5ZWRQSDNDa1ZxMEgzQTNycl80SlBLS0VieXpPaWhINC1TcVRpdWd1U0ZIUjlKZG1VS2hUWGRDdTJRdi1Mb1VsdGlyamh4b3pqSWc2SGIteEFSWHB3eXptU0FRYmxyeEstQ05nUEdCVDRHbFZJTlRRTFYyR3pTRFBMSHBETzcybnFTQ2RZZzBDNGRTVG9TRTZZUkZHOTM1Q05sQWFRbHA1Rk1nTGszdlZDUjdYYnprNmJ3blZISVRzdnpsOWxTaGVXR0ZRNExqdFQtUTpGVGhlIDxiPkZlZGVyYWwgUmVzZXJ2ZTwvYj4gdG9vayA8Yj5lbWVyZ2VuY3k8L2I-IGFjdGlvbiBTdW5kYXkgYW5kIC4uLkKYAVRoZSA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-IHRvb2sgPGI-ZW1lcmdlbmN5PC9iPiBhY3Rpb24gU3VuZGF5IGFuZCBzbGFzaGVkIGl0cyBiZW5jaG1hcmsgPGI-aW50ZXJlc3Q8L2I-IHJhdGUgYnkgYSBmdWxsIHBlcmNlbnRhZ2UgcG9pbnQgdG8gbmVhcmx5IHplcm8uIgIQAUgAWABoAA",
+      "source": "Facebook · FOX 7 Austin"
+    },
+    {
+      "position": 5,
+      "title": "The Federal Reserve's Response to COVID-19: Policy Issues",
+      "link": "https://www.congress.gov/crs-product/R46411",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV9xvSyo3UC_1vEtnxh1ahvdF0eOANfcZ4zYU8JKDZUYxTmeCC0dGp9enYLkARZ6BnHaXZvbQmHh-e-WyRmOPiwYcnTBFM-GW6J5XDU2PArvX30LbJF8jzZSENz-2l8A&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://www.congress.gov › crs-product",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAP0lEQVQ4jWOUiW7_z4AD1C6txCUFB0wEVRAALPgk0_7jdBydXDCLkZH2LmD8_58Ij9LUBTMZGAbYBaNhMAgAAJ3OEdzY1tdKAAAAAElFTkSuQmCC.png",
+      "snippet": "The Fed has pledged that it will not raise interest rates until the economy has reached full employment and consistently maintained 2% inflation and that it ...",
+      "snippet_highlighted_words": [
+        "Fed",
+        "interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Fed has pledged that it will not raise interest rates until the economy has reached full employment and consistently maintained 2% inflation and that it ...",
+          "source_info_link": "https://www.congress.gov/crs-product/R46411",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAP0lEQVQ4jWOUiW7_z4AD1C6txCUFB0wEVRAALPgk0_7jdBydXDCLkZH2LmD8_58Ij9LUBTMZGAbYBaNhMAgAAJ3OEdzY1tdKAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjl4dlN5bzNVQ18xdkV0bnhoMWFodmRGMGVPQU5mY1o0ellVOEpLRFpVWXhUbWVDQzBkR3A5ZW5ZTGtBUlo2Qm5IYVhadmJRbUhoLWUtV3lSbU9QaXdZY25UQkZNLUdXNko1WERVMlBBcnZYMzBMYkpGOGp6WlNFTnotMmw4QRIEGgIIABqOBhICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQOgFCAAQABgAIAAqIwoHZmVkZXJhbBW-AwFAGgNmZWQaDmZlZGVyYWxyZXNlcnZlKjEKB3Jlc2VydmUVGNUAQBoHYm9va2luZxoIcmVzZXJ2ZXMaDmZlZGVyYWxyZXNlcnZlKlUKCWFubm91bmNlcxUjvTo-Gghhbm5vdW5jZRoJYW5ub3VuY2VkGgphbm5vdW5jaW5nGghkZWNsYXJlcxoIbGF1bmNoZXMaDml2O3A7YW5ub3VuY2VzKkoKB21hc3NpdmUV62-pOxoDYmlnGghlbm9ybW91cxoFZ2lhbnQaCGdpZ2FudGljGgRodWdlGgdpbW1lbnNlGgVsYXJnZRoEbWFzcyoQCgllbWVyZ2VuY3kVwukyPiomCghpbnRlcmVzdBVTszM-GgppbnRlcmVzdGVkGglpbnRlcmVzdHMqFgoEMjAyNRXlZV09GglpdjtuOzIwMjUylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWOXh2U3lvM1VDXzF2RXRueGgxYWh2ZEYwZU9BTmZjWjR6WVU4SktEWlVZeFRtZUNDMGRHcDllbllMa0FSWjZCbkhhWFp2YlFtSGgtZS1XeVJtT1Bpd1ljblRCRk0tR1c2SjVYRFUyUEFydlgzMExiSkY4anpaU0VOei0ybDhBOkRUaGUgPGI-RmVkZXJhbCBSZXNlcnZlJiMzOTtzPC9iPiBSZXNwb25zZSB0byBDT1ZJRC0xOTogUG9saWN5IElzc3Vlc0KzAVRoZSA8Yj5GZWQ8L2I-IGhhcyBwbGVkZ2VkIHRoYXQgaXQgd2lsbCBub3QgcmFpc2UgPGI-aW50ZXJlc3Q8L2I-IHJhdGVzIHVudGlsIHRoZSBlY29ub215IGhhcyByZWFjaGVkIGZ1bGwgZW1wbG95bWVudCBhbmQgY29uc2lzdGVudGx5IG1haW50YWluZWQgMiUgaW5mbGF0aW9uIGFuZCB0aGF0IGl0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjl4dlN5bzNVQ18xdkV0bnhoMWFodmRGMGVPQU5mY1o0ellVOEpLRFpVWXhUbWVDQzBkR3A5ZW5ZTGtBUlo2Qm5IYVhadmJRbUhoLWUtV3lSbU9QaXdZY25UQkZNLUdXNko1WERVMlBBcnZYMzBMYkpGOGp6WlNFTnotMmw4QRIEGgIIABqOBhICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQOgFCAAQABgAIAAqIwoHZmVkZXJhbBW-AwFAGgNmZWQaDmZlZGVyYWxyZXNlcnZlKjEKB3Jlc2VydmUVGNUAQBoHYm9va2luZxoIcmVzZXJ2ZXMaDmZlZGVyYWxyZXNlcnZlKlUKCWFubm91bmNlcxUjvTo-Gghhbm5vdW5jZRoJYW5ub3VuY2VkGgphbm5vdW5jaW5nGghkZWNsYXJlcxoIbGF1bmNoZXMaDml2O3A7YW5ub3VuY2VzKkoKB21hc3NpdmUV62-pOxoDYmlnGghlbm9ybW91cxoFZ2lhbnQaCGdpZ2FudGljGgRodWdlGgdpbW1lbnNlGgVsYXJnZRoEbWFzcyoQCgllbWVyZ2VuY3kVwukyPiomCghpbnRlcmVzdBVTszM-GgppbnRlcmVzdGVkGglpbnRlcmVzdHMqFgoEMjAyNRXlZV09GglpdjtuOzIwMjUylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWOXh2U3lvM1VDXzF2RXRueGgxYWh2ZEYwZU9BTmZjWjR6WVU4SktEWlVZeFRtZUNDMGRHcDllbllMa0FSWjZCbkhhWFp2YlFtSGgtZS1XeVJtT1Bpd1ljblRCRk0tR1c2SjVYRFUyUEFydlgzMExiSkY4anpaU0VOei0ybDhBOkRUaGUgPGI-RmVkZXJhbCBSZXNlcnZlJiMzOTtzPC9iPiBSZXNwb25zZSB0byBDT1ZJRC0xOTogUG9saWN5IElzc3Vlc0KzAVRoZSA8Yj5GZWQ8L2I-IGhhcyBwbGVkZ2VkIHRoYXQgaXQgd2lsbCBub3QgcmFpc2UgPGI-aW50ZXJlc3Q8L2I-IHJhdGVzIHVudGlsIHRoZSBlY29ub215IGhhcyByZWFjaGVkIGZ1bGwgZW1wbG95bWVudCBhbmQgY29uc2lzdGVudGx5IG1haW50YWluZWQgMiUgaW5mbGF0aW9uIGFuZCB0aGF0IGl0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Congress.gov",
+      "read_more_link": "https://www.congress.gov/crs-product/R46411#:~:text=The%20Fed%20has%20pledged%20that,been%20made%20toward%20those%20goals."
+    },
+    {
+      "position": 6,
+      "title": "Emergency Lending by the Federal Reserve",
+      "link": "https://legal-forum.uchicago.edu/print-archive/emergency-lending-federal-reserve",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFWoDoEcxberEDjF8nvvuHWiMA0T_nMpYRVLaCL2QjB_-gaIzHsWXOavoodBNtEutxpr2KHPGO89-I1KHJTo-ho7pb-8KOR2DYWrhAwH0qFEe9lNtVixIFqut-UBhO_ycno0MAIO1z60wpRqdkwSyA0du7LvTgdG0A9PWJZOEzbuyjsPT&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://legal-forum.uchicago.edu › print-archive › emer...",
+      "favicon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIK62psmnYC7r83L0_wCPQlD0cNLck96c1mcPnguK6OmoYBGOGI7E6qR4AD-6K0p3HmCrbdf_mrm3VGWTTBCr9mG3guD6-JH0jkmcL8ZGtu2Gik3__Pyblje92_n_1O29bh23s7kzSkdizKj7gjt1hJjOFVWv62rIznwv1gUpI3AcwfqLmzSSLWEF_O_04GTF14LMnXlBnLlVfDmwAROjHzC7snr9ryMl3XmQCdDOtysK3I3GvVV56gcceaH9WsKCzL09pakZc7vvWOKsYw8VJBT1qIG_JvlWKpSL_f13oIs7fNaC7r0AAa75DOs_i5RsoSJ5pTGTYQ67p5kc3-z0O0Hmcs2qzysdCcet4sBxbAZ1aUi8B7xNlUjDv9S5JalfTMqN95bPdRTrfB0o5nzs9G53FacnQOHAy11kpfiskCpq9SBV94eSCVQiN1DwZcfZaubQ5Knu7a7wUpHi2_Gu-3fTA5Xp9ZamLdMv1b3MHB7wY9YJ6n38QhfDZRKRs90Hxwv6x6iAuGigTNkqEAr2SdBkHXXscpxjXb9-fJKRK1IvAAA.webp",
+      "snippet": "The Federal Reserve established an array of innovative emergency lending facilities during the Great Financial Crisis and expanded the scope of its ...",
+      "snippet_highlighted_words": [
+        "Federal Reserve",
+        "emergency"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Federal Reserve established an array of innovative emergency lending facilities during the Great Financial Crisis and expanded the scope of its ...",
+          "source_info_link": "https://legal-forum.uchicago.edu/print-archive/emergency-lending-federal-reserve",
+          "icon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIK62psmnYC7r83L0_wCPQlD0cNLck96c1mcPnguK6OmoYBGOGI7E6qR4AD-6K0p3HmCrbdf_mrm3VGWTTBCr9mG3guD6-JH0jkmcL8ZGtu2Gik3__Pyblje92_n_1O29bh23s7kzSkdizKj7gjt1hJjOFVWv62rIznwv1gUpI3AcwfqLmzSSLWEF_O_04GTF14LMnXlBnLlVfDmwAROjHzC7snr9ryMl3XmQCdDOtysK3I3GvVV56gcceaH9WsKCzL09pakZc7vvWOKsYw8VJBT1qIG_JvlWKpSL_f13oIs7fNaC7r0AAa75DOs_i5RsoSJ5pTGTYQ67p5kc3-z0O0Hmcs2qzysdCcet4sBxbAZ1aUi8B7xNlUjDv9S5JalfTMqN95bPdRTrfB0o5nzs9G53FacnQOHAy11kpfiskCpq9SBV94eSCVQiN1DwZcfZaubQ5Knu7a7wUpHi2_Gu-3fTA5Xp9ZamLdMv1b3MHB7wY9YJ6n38QhfDZRKRs90Hxwv6x6iAuGigTNkqEAr2SdBkHXXscpxjXb9-fJKRK1IvAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZXb0RvRWN4YmVyRURqRjhudnZ1SFdpTUEwVF9uTXBZUlZMYUNMMlFqQl8tZ2FJekhzV1hPYXZvb2RCTnRFdXR4cHIyS0hQR084OS1JMUtISlRvLWhvN3BiLThLT1IyRFlXcmhBd0gwcUZFZTlsTnRWaXhJRnF1dC1VQmhPX3ljbm8wTUFJTzF6NjB3cFJxZGt3U3lBMGR1N0x2VGdkRzBBOVBXSlpPRXpidXlqc1BUEgQaAggAGqkGEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgACojCgdmZWRlcmFsFS8ij0AaA2ZlZBoOZmVkZXJhbHJlc2VydmUqMQoHcmVzZXJ2ZRVPIY9AGgdib29raW5nGghyZXNlcnZlcxoOZmVkZXJhbHJlc2VydmUqVQoJYW5ub3VuY2VzFQn7ST4aCGFubm91bmNlGglhbm5vdW5jZWQaCmFubm91bmNpbmcaCGRlY2xhcmVzGghsYXVuY2hlcxoOaXY7cDthbm5vdW5jZXMqSgoHbWFzc2l2ZRWXnIU-GgNiaWcaCGVub3Jtb3VzGgVnaWFudBoIZ2lnYW50aWMaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlGgRtYXNzKhAKCWVtZXJnZW5jeRWXV3FAKiYKCGludGVyZXN0FQYQGz0aCmludGVyZXN0ZWQaCWludGVyZXN0cyoWCgQyMDI1FQolez4aCWl2O247MjAyNTLGAS9nb3RvP3VybD1DQUVTaUFFQjZ6c3dGV29Eb0VjeGJlckVEakY4bnZ2dUhXaU1BMFRfbk1wWVJWTGFDTDJRakJfLWdhSXpIc1dYT2F2b29kQk50RXV0eHByMktIUEdPODktSTFLSEpUby1obzdwYi04S09SMkRZV3JoQXdIMHFGRWU5bE50Vml4SUZxdXQtVUJoT195Y25vME1BSU8xejYwd3BScWRrd1N5QTBkdTdMdlRnZEcwQTlQV0paT0V6YnV5anNQVDo2PGI-RW1lcmdlbmN5PC9iPiBMZW5kaW5nIGJ5IHRoZSA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-QqoBVGhlIDxiPkZlZGVyYWwgUmVzZXJ2ZTwvYj4gZXN0YWJsaXNoZWQgYW4gYXJyYXkgb2YgaW5ub3ZhdGl2ZSA8Yj5lbWVyZ2VuY3k8L2I-IGxlbmRpbmcgZmFjaWxpdGllcyBkdXJpbmcgdGhlIEdyZWF0IEZpbmFuY2lhbCBDcmlzaXMgYW5kIGV4cGFuZGVkIHRoZSBzY29wZSBvZiBpdHMmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZXb0RvRWN4YmVyRURqRjhudnZ1SFdpTUEwVF9uTXBZUlZMYUNMMlFqQl8tZ2FJekhzV1hPYXZvb2RCTnRFdXR4cHIyS0hQR084OS1JMUtISlRvLWhvN3BiLThLT1IyRFlXcmhBd0gwcUZFZTlsTnRWaXhJRnF1dC1VQmhPX3ljbm8wTUFJTzF6NjB3cFJxZGt3U3lBMGR1N0x2VGdkRzBBOVBXSlpPRXpidXlqc1BUEgQaAggAGqkGEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgACojCgdmZWRlcmFsFS8ij0AaA2ZlZBoOZmVkZXJhbHJlc2VydmUqMQoHcmVzZXJ2ZRVPIY9AGgdib29raW5nGghyZXNlcnZlcxoOZmVkZXJhbHJlc2VydmUqVQoJYW5ub3VuY2VzFQn7ST4aCGFubm91bmNlGglhbm5vdW5jZWQaCmFubm91bmNpbmcaCGRlY2xhcmVzGghsYXVuY2hlcxoOaXY7cDthbm5vdW5jZXMqSgoHbWFzc2l2ZRWXnIU-GgNiaWcaCGVub3Jtb3VzGgVnaWFudBoIZ2lnYW50aWMaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlGgRtYXNzKhAKCWVtZXJnZW5jeRWXV3FAKiYKCGludGVyZXN0FQYQGz0aCmludGVyZXN0ZWQaCWludGVyZXN0cyoWCgQyMDI1FQolez4aCWl2O247MjAyNTLGAS9nb3RvP3VybD1DQUVTaUFFQjZ6c3dGV29Eb0VjeGJlckVEakY4bnZ2dUhXaU1BMFRfbk1wWVJWTGFDTDJRakJfLWdhSXpIc1dYT2F2b29kQk50RXV0eHByMktIUEdPODktSTFLSEpUby1obzdwYi04S09SMkRZV3JoQXdIMHFGRWU5bE50Vml4SUZxdXQtVUJoT195Y25vME1BSU8xejYwd3BScWRrd1N5QTBkdTdMdlRnZEcwQTlQV0paT0V6YnV5anNQVDo2PGI-RW1lcmdlbmN5PC9iPiBMZW5kaW5nIGJ5IHRoZSA8Yj5GZWRlcmFsIFJlc2VydmU8L2I-QqoBVGhlIDxiPkZlZGVyYWwgUmVzZXJ2ZTwvYj4gZXN0YWJsaXNoZWQgYW4gYXJyYXkgb2YgaW5ub3ZhdGl2ZSA8Yj5lbWVyZ2VuY3k8L2I-IGxlbmRpbmcgZmFjaWxpdGllcyBkdXJpbmcgdGhlIEdyZWF0IEZpbmFuY2lhbCBDcmlzaXMgYW5kIGV4cGFuZGVkIHRoZSBzY29wZSBvZiBpdHMmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "The University of Chicago Legal Forum"
+    },
+    {
+      "position": 7,
+      "title": "What did the Fed do in response to the COVID-19 crisis?",
+      "link": "https://www.brookings.edu/articles/fed-response-to-covid19/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAV2KpWAuu2ogNleoEqNwWoLev0B1ddlBFemNFy3mmPFz9rjaF01NVYZQxY1tr7AWMSo3LvM-G3-2E40nDFH8TN5LfrYEKfoK-qkAYF9Fu1NUSvziXy7tYpNeQ64q9c0hN5COmJJxG8iuPtIrFohsI&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://www.brookings.edu › articles › fed-response-to-...",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGglAGFGuAMoB4At0cKaXhA699LDMObnNFpVYM2EKAAAA_v0v_J1z-uVyY4k2UZK-NVwA9VHNZ3xqUvF3avnVZhfR63_9O79_ewBYBEW-P_0B7Bhdex66wd-mJv_y85C4jbbMEcCHuKZQcjL-SyekbP_ddqAgjsdtgAV_dZ5kUdnHrp_wuVQreAUz9HGrFE5zn5CFAtErY4cTfE4nsIcGXIN8x6GBzV5nuNdXhmYouIaR_z3GOe_bpDB-jqjFi94MkgHtP33X6HhFcSdtXPvd-rNy76j7mGnI85X6OKLynQdoAAAA.webp",
+      "snippet": "To re-establish the PDCF, the Fed had to obtain the approval of the Treasury Secretary to invoke its emergency lending authority under Section 13(3) of the ...",
+      "snippet_highlighted_words": [
+        "Fed",
+        "emergency"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To re-establish the PDCF, the Fed had to obtain the approval of the Treasury Secretary to invoke its emergency lending authority under Section 13(3) of the ...",
+          "source_info_link": "https://www.brookings.edu/articles/fed-response-to-covid19/",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGglAGFGuAMoB4At0cKaXhA699LDMObnNFpVYM2EKAAAA_v0v_J1z-uVyY4k2UZK-NVwA9VHNZ3xqUvF3avnVZhfR63_9O79_ewBYBEW-P_0B7Bhdex66wd-mJv_y85C4jbbMEcCHuKZQcjL-SyekbP_ddqAgjsdtgAV_dZ5kUdnHrp_wuVQreAUz9HGrFE5zn5CFAtErY4cTfE4nsIcGXIN8x6GBzV5nuNdXhmYouIaR_z3GOe_bpDB-jqjFi94MkgHtP33X6HhFcSdtXPvd-rNy76j7mGnI85X6OKLynQdoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjJLcFdBdXUyb2dObGVvRXFOd1dvTGV2MEIxZGRsQkZlbU5GeTNtbVBGejlyamFGMDFOVllaUXhZMXRyN0FXTVNvM0x2TS1HMy0yRTQwbkRGSDhUTjVMZnJZRUtmb0stcWtBWUY5RnUxTlVTdnppWHk3dFlwTmVRNjRxOWMwaE41Q09tSkp4RzhpdVB0SXJGb2hzSRIEGgIIABqcBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPYFCAAQABgAIAAqIwoHZmVkZXJhbBUdR4c_GgNmZWQaDmZlZGVyYWxyZXNlcnZlKjEKB3Jlc2VydmUViW92PxoHYm9va2luZxoIcmVzZXJ2ZXMaDmZlZGVyYWxyZXNlcnZlKlUKCWFubm91bmNlcxUAAAAAGghhbm5vdW5jZRoJYW5ub3VuY2VkGgphbm5vdW5jaW5nGghkZWNsYXJlcxoIbGF1bmNoZXMaDml2O3A7YW5ub3VuY2VzKkoKB21hc3NpdmUVLvUVPRoDYmlnGghlbm9ybW91cxoFZ2lhbnQaCGdpZ2FudGljGgRodWdlGgdpbW1lbnNlGgVsYXJnZRoEbWFzcyoQCgllbWVyZ2VuY3kVakHpPComCghpbnRlcmVzdBUnSoQ-GgppbnRlcmVzdGVkGglpbnRlcmVzdHMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWMktwV0F1dTJvZ05sZW9FcU53V29MZXYwQjFkZGxCRmVtTkZ5M21tUEZ6OXJqYUYwMU5WWVpReFkxdHI3QVdNU28zTHZNLUczLTJFNDBuREZIOFRONUxmcllFS2ZvSy1xa0FZRjlGdTFOVVN2emlYeTd0WXBOZVE2NHE5YzBoTjVDT21KSnhHOGl1UHRJckZvaHNJOj5XaGF0IGRpZCB0aGUgPGI-RmVkPC9iPiBkbyBpbiByZXNwb25zZSB0byB0aGUgQ09WSUQtMTkgY3Jpc2lzP0KyAVRvIHJlLWVzdGFibGlzaCB0aGUgUERDRiwgdGhlIDxiPkZlZDwvYj4gaGFkIHRvIG9idGFpbiB0aGUgYXBwcm92YWwgb2YgdGhlIFRyZWFzdXJ5IFNlY3JldGFyeSB0byBpbnZva2UgaXRzIDxiPmVtZXJnZW5jeTwvYj4gbGVuZGluZyBhdXRob3JpdHkgdW5kZXIgU2VjdGlvbiAxMygzKSBvZiB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjJLcFdBdXUyb2dObGVvRXFOd1dvTGV2MEIxZGRsQkZlbU5GeTNtbVBGejlyamFGMDFOVllaUXhZMXRyN0FXTVNvM0x2TS1HMy0yRTQwbkRGSDhUTjVMZnJZRUtmb0stcWtBWUY5RnUxTlVTdnppWHk3dFlwTmVRNjRxOWMwaE41Q09tSkp4RzhpdVB0SXJGb2hzSRIEGgIIABqcBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPYFCAAQABgAIAAqIwoHZmVkZXJhbBUdR4c_GgNmZWQaDmZlZGVyYWxyZXNlcnZlKjEKB3Jlc2VydmUViW92PxoHYm9va2luZxoIcmVzZXJ2ZXMaDmZlZGVyYWxyZXNlcnZlKlUKCWFubm91bmNlcxUAAAAAGghhbm5vdW5jZRoJYW5ub3VuY2VkGgphbm5vdW5jaW5nGghkZWNsYXJlcxoIbGF1bmNoZXMaDml2O3A7YW5ub3VuY2VzKkoKB21hc3NpdmUVLvUVPRoDYmlnGghlbm9ybW91cxoFZ2lhbnQaCGdpZ2FudGljGgRodWdlGgdpbW1lbnNlGgVsYXJnZRoEbWFzcyoQCgllbWVyZ2VuY3kVakHpPComCghpbnRlcmVzdBUnSoQ-GgppbnRlcmVzdGVkGglpbnRlcmVzdHMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWMktwV0F1dTJvZ05sZW9FcU53V29MZXYwQjFkZGxCRmVtTkZ5M21tUEZ6OXJqYUYwMU5WWVpReFkxdHI3QVdNU28zTHZNLUczLTJFNDBuREZIOFRONUxmcllFS2ZvSy1xa0FZRjlGdTFOVVN2emlYeTd0WXBOZVE2NHE5YzBoTjVDT21KSnhHOGl1UHRJckZvaHNJOj5XaGF0IGRpZCB0aGUgPGI-RmVkPC9iPiBkbyBpbiByZXNwb25zZSB0byB0aGUgQ09WSUQtMTkgY3Jpc2lzP0KyAVRvIHJlLWVzdGFibGlzaCB0aGUgUERDRiwgdGhlIDxiPkZlZDwvYj4gaGFkIHRvIG9idGFpbiB0aGUgYXBwcm92YWwgb2YgdGhlIFRyZWFzdXJ5IFNlY3JldGFyeSB0byBpbnZva2UgaXRzIDxiPmVtZXJnZW5jeTwvYj4gbGVuZGluZyBhdXRob3JpdHkgdW5kZXIgU2VjdGlvbiAxMygzKSBvZiB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Brookings",
+      "read_more_link": "https://www.brookings.edu/articles/fed-response-to-covid19/#:~:text=To%20re%2Destablish%20the%20PDCF%2C%20the,time%20since%20the%202007%2D09%20crisis."
+    },
+    {
+      "position": 8,
+      "title": "WATCH: Powell announces first interest rate cut of the year",
+      "link": "https://www.pbs.org/newshour/economy/watch-live-powell-holds-news-briefing-after-feds-highly-anticipated-interest-rate-decision",
+      "displayed_link": "https://www.pbs.org · Sep 16, 2025",
+      "thumbnail": "https://serpapi.com/searches/6ab22f6027c2b0256882a164/images/u4y0gEW-P4V39O0DrjoB9HyypPVqH6tRMPC0bGtVuJk.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1T0FpqWJd5DK-LMy8cX0z7A36sdTP0K_1mHFXgsyvukt1TdARQSp0vcMwzWyNyzRnoWmAAD-9gtffVxrabM-R-u_HgNDheggz--Z5vm7y0eNvAC1EwX02yQq-fwxDyzaTDz_8lm4bGtG_s3xUSIYL0SXkWoI4onTfz26uB_7jMExfwmyYxk4l8cTsDkGRC-l-gANG64g07YINmu7N71t5Jw9UXfB3Oe6sGhzOU2giizCxImS-Set1n5xOJG1Aou2uaDp5dGZuef-oxKB3fmGnx-ganBlFeU-zTV5uJzzKba0pnT0GZVln8f7VI4cVaqTDgqiUK_2T02_-i2f1BD4ORk-6mriKi9qyp2sGJ23cf_4sJgwx9qIB6nZrMhr7F9aMCMOmIrrTFddSvW_rpoZMGTLiv0vgfj2_59xQV68VfYbJdI_IuMWgXcLh7loyw1bjkf_iW32XaJFWkT85J3AHU632ULmt_Le3tM_zr1JY9DZNeTxGwhC1Z1w4f0iDiaP-2UjuARWtAFTfPMKx0PwLq6xk5Oxj7raXLC4pV1-dK_I-ORk_NTeoIDze9QeZ314g6W8bfkeAfYcIoJGAAA.webp",
+      "snippet": "The move is the Fed's first cut since December and it lowered its short-term rate to about 4.1%, down from 4.3%. Fed officials, led by Chair ...",
+      "duration": "52:36",
+      "about_this_result": {
+        "source": {
+          "description": "The move is the Fed's first cut since December and it lowered its short-term rate to about 4.1%, down from 4.3%. Fed officials, led by Chair ...",
+          "icon": "https://serpapi.com/images/i/UklGRuYBAABXRUJQVlA4INoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1T0FpqWJd5DK-LMy8cX0z7A36sdTP0K_1mHFXgsyvukt1TdARQSp0vcMwzWyNyzRnoWmAAD-9gtffVxrabM-R-u_HgNDheggz--Z5vm7y0eNvAC1EwX02yQq-fwxDyzaTDz_8lm4bGtG_s3xUSIYL0SXkWoI4onTfz26uB_7jMExfwmyYxk4l8cTsDkGRC-l-gANG64g07YINmu7N71t5Jw9UXfB3Oe6sGhzOU2giizCxImS-Set1n5xOJG1Aou2uaDp5dGZuef-oxKB3fmGnx-ganBlFeU-zTV5uJzzKba0pnT0GZVln8f7VI4cVaqTDgqiUK_2T02_-i2f1BD4ORk-6mriKi9qyp2sGJ23cf_4sJgwx9qIB6nZrMhr7F9aMCMOmIrrTFddSvW_rpoZMGTLiv0vgfj2_59xQV68VfYbJdI_IuMWgXcLh7loyw1bjkf_iW32XaJFWkT85J3AHU632ULmt_Le3tM_zr1JY9DZNeTxGwhC1Z1w4f0iDiaP-2UjuARWtAFTfPMKx0PwLq6xk5Oxj7raXLC4pV1-dK_I-ORk_NTeoIDze9QeZ314g6W8bfkeAfYcIoJGAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUCL2dvdG8_dXJsPUNBRVN0d0VCNnpzd0ZjVm1IU1BUMV8xQlpWZkVVZFJmVkVTTGx4UUhxVjhMSTQ2cGR4Wk9NWmVxOHRWazJLcjJ1ZzBGYndSRm1QTEhieVZzY0djbkRLelRiSFd2Q0xQbDd0Y1FPeGFESmhRNk5ILXg1cS1odDJaeExVdW93dHdDel9rWGhkQnd3ajJ2ZkFDNFFwRGhEbGRpbXV2V25FWjNoTTVtTmhyOVV1aDBTWEprY1dldWdxc1IyN2pGYjN2Zi0yMmVXY1ltTWxHaUptaEhxbmhlUURFUWZGX2kxa1piVU9KOFFYa0ZhNmVEb1d5WXdWX0xNV01nYUxzEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUCL2dvdG8_dXJsPUNBRVN0d0VCNnpzd0ZjVm1IU1BUMV8xQlpWZkVVZFJmVkVTTGx4UUhxVjhMSTQ2cGR4Wk9NWmVxOHRWazJLcjJ1ZzBGYndSRm1QTEhieVZzY0djbkRLelRiSFd2Q0xQbDd0Y1FPeGFESmhRNk5ILXg1cS1odDJaeExVdW93dHdDel9rWGhkQnd3ajJ2ZkFDNFFwRGhEbGRpbXV2V25FWjNoTTVtTmhyOVV1aDBTWEprY1dldWdxc1IyN2pGYjN2Zi0yMmVXY1ltTWxHaUptaEhxbmhlUURFUWZGX2kxa1piVU9KOFFYa0ZhNmVEb1d5WXdWX0xNV01nYUxzEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRAIlczYOzbgg7mWHPL4fRBAWiFQk8eohoRoQ",
+      "source": "PBS · PBS NewsHour"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Fed announcement today live",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=Fed+announcement+today+live&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fed+announcement+today+live"
+    },
+    {
+      "block_position": 1,
+      "query": "Federal Reserve announcement today",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=Federal+Reserve+announcement+today&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Federal+Reserve+announcement+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Federal Reserve news today",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=Federal+Reserve+news+today&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Federal+Reserve+news+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Fed emergency meeting today",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=Fed+emergency+meeting+today&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fed+emergency+meeting+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Federal Reserve live",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=Federal+Reserve+live&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Federal+Reserve+live"
+    },
+    {
+      "block_position": 1,
+      "query": "Powell speech today live",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=Powell+speech+today+live&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Powell+speech+today+live"
+    },
+    {
+      "block_position": 1,
+      "query": "What time is the Fed announcement today",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=What+time+is+the+Fed+announcement+today&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+time+is+the+Fed+announcement+today"
+    },
+    {
+      "block_position": 1,
+      "query": "Federal Reserve press conference",
+      "link": "https://www.google.com/search?sca_esv=e7914123cf3b1be8&q=Federal+Reserve+press+conference&sa=X&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Federal+Reserve+press+conference"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=10&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=10&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=20&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=30&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=40&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=50&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=60&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=70&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=80&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+2025&sca_esv=e7914123cf3b1be8&ei=YC-yasLqOoaA5OMP6MfNoAI&start=90&sa=N&sstk=AS6-VmLbfbJGvvIRzZZd4uKBJfOws7gRx_l86i83IfGAgoDIDWr2gO7QMQzdHqxfXUhv7LUIoYsEiJhIi_JZ77mXFeSuuPEybm-dtw&ved=2ahUKEwjCmsWb1oGXAxUGAHkGHehjEyQQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+2025&start=90"
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "search_metadata": {
+    "id": "6ab22f5f33361720eb523cf0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qS2Om66bOh9wkNkie4HzxHbu5La_7c9xue_796TCT3Q/6ab22f5f33361720eb523cf0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/qS2Om66bOh9wkNkie4HzxHbu5La_7c9xue_796TCT3Q/6ab22f5f33361720eb523cf0.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/qS2Om66bOh9wkNkie4HzxHbu5La_7c9xue_796TCT3Q/6ab22f5f33361720eb523cf0.json_with_pixel_position",
+    "created_at": "2026-09-22 07:33:51 UTC",
+    "processed_at": "2026-09-22 07:33:51 UTC",
+    "google_url": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+before%3A2026-01-01&oq=federal+reserve+announces+massive+emergency+interest+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/qS2Om66bOh9wkNkie4HzxHbu5La_7c9xue_796TCT3Q/6ab22f5f33361720eb523cf0.html",
+    "total_time_taken": 0.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "federal reserve announces massive emergency interest before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "federal reserve announces massive emergency interest before:2026-01-01",
+    "total_results": 26,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "jWA263iczVXbcuI4EP2A_Y7lJRlsYwiQKteUJJvhFoICub64fBGyAdvBMhjnbb5kX_ar9mtWNphbcJKZh61VuSypddTqVvdR__x77vqzf_74y4miV3YtCHEcl2kQ0DkpW4EnGCzxLWESzFloOd-TlSKXLKaIJeIqT8m3xAh77V60uq8NgmFimfoMdErZFkU3DUamXON6ygRd4L_Zn7LKJ2VWJn55NRzLWKWLEAfliliRy7eC4XEA-O9ax0n_GHCbPwCliK80SoEGQHcvQCjrtANIOqFcJUqFKB2fP1PbWHSHNgaCoTp8Uy0A1J0pt4V2oENzUbw9Oc7Og-mJHzh7Rlv2b21nWjEQFHpDj1SAm4OlQn3oBMhNxwANq6myfNPRZgrw_vhOurjNJIuCRjuAKgT3xZbzDb0OqM0A1j4LNtYeqig_qv_8g0sEm_LEFQUz5J0kuJZjZYOQpfmMxk0xaDdvXipDq_HWfqpITrX70IBi32hJ9eqaCpbJcfPAsImtO7r4PZtLFakmNuV64zIjksV2TGKHTBrHbdGBgyhAuNwvQymnEdrFGR3br_E5OpcCEG2h6P0a2t82AjvNtHcE2kSYpy4FLxo4jk_QzK4ZwlzQZgDE2gFkb1IqfE-jU9NoypIspJRmm-k74ztgdODoQWDVM5n6zmt-7pY8WH0HPFYAQXcG9g6fvGEUQIg6GG5uaFHNbKoCuEdkbwzGJ4ak7wN_KDr5be-wWbvZ-8NXehkvVIQg1xu8prDu1uN0g7vTCu9OnjN4noM8PKCPPiF8UYNfeTFxzpeT9D-iTauiS5obtRiWxf69-dJ5lNpgIk5wLT5Pk8Azf6HiWP8rIuX1aJ7Ji4mEv0QkSrXierQZ5vVIQymREKW0gEjaqKAexTlkX49OvUajAyJ9Uo9-lUjah0TKSXqWSK1zRNKKiJTXoyMijY7qETxfj3ZE-p16BH-zHmW8IpvuuDgtp7SwSP1gD2Jv0Q0fxvgZPVVvoOMPoTddJEkDf1qkJl507Rn2_FJ37WtY6UaJfalzQXBN7NJCmRCbhMb8IiSMhCtyYfh-sPQtwi48gzGXS4hHQkp8K7lw_YhwXHRhkkkQkmtO1qtvosS_kjcPA0U06kG9tRp3x_56Adu1tT6hjaU8bb11x7dh4hBwj_GSzKxqe7WA9nimP0NXlqSXKQNYjIEmNjxsk_5y5S9mvXg9aMqN0aBWC67syB2uWyPPVf2rR1dSaWDdirU28UPz4dXUVGjcxGu5nrT6muw8LuWROh9og3Wc2cWUem9wZwyGuuOxkhdaCs-VKgUDDB4psAB6BphH6t4IeB8D_OOKBw-WmGXohK0UUm9KVakiWxPZlEzSKHk0Sl6VplhifqhI_wLVf0m4",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jWA263iczVXbcuI4EP2A_Y7lJRlsYwiQKteUJJvhFoICub64fBGyAdvBMhjnbb5kX_ar9mtWNphbcJKZh61VuSypddTqVvdR__x77vqzf_74y4miV3YtCHEcl2kQ0DkpW4EnGCzxLWESzFloOd-TlSKXLKaIJeIqT8m3xAh77V60uq8NgmFimfoMdErZFkU3DUamXON6ygRd4L_Zn7LKJ2VWJn55NRzLWKWLEAfliliRy7eC4XEA-O9ax0n_GHCbPwCliK80SoEGQHcvQCjrtANIOqFcJUqFKB2fP1PbWHSHNgaCoTp8Uy0A1J0pt4V2oENzUbw9Oc7Og-mJHzh7Rlv2b21nWjEQFHpDj1SAm4OlQn3oBMhNxwANq6myfNPRZgrw_vhOurjNJIuCRjuAKgT3xZbzDb0OqM0A1j4LNtYeqig_qv_8g0sEm_LEFQUz5J0kuJZjZYOQpfmMxk0xaDdvXipDq_HWfqpITrX70IBi32hJ9eqaCpbJcfPAsImtO7r4PZtLFakmNuV64zIjksV2TGKHTBrHbdGBgyhAuNwvQymnEdrFGR3br_E5OpcCEG2h6P0a2t82AjvNtHcE2kSYpy4FLxo4jk_QzK4ZwlzQZgDE2gFkb1IqfE-jU9NoypIspJRmm-k74ztgdODoQWDVM5n6zmt-7pY8WH0HPFYAQXcG9g6fvGEUQIg6GG5uaFHNbKoCuEdkbwzGJ4ak7wN_KDr5be-wWbvZ-8NXehkvVIQg1xu8prDu1uN0g7vTCu9OnjN4noM8PKCPPiF8UYNfeTFxzpeT9D-iTauiS5obtRiWxf69-dJ5lNpgIk5wLT5Pk8Azf6HiWP8rIuX1aJ7Ji4mEv0QkSrXierQZ5vVIQymREKW0gEjaqKAexTlkX49OvUajAyJ9Uo9-lUjah0TKSXqWSK1zRNKKiJTXoyMijY7qETxfj3ZE-p16BH-zHmW8IpvuuDgtp7SwSP1gD2Jv0Q0fxvgZPVVvoOMPoTddJEkDf1qkJl507Rn2_FJ37WtY6UaJfalzQXBN7NJCmRCbhMb8IiSMhCtyYfh-sPQtwi48gzGXS4hHQkp8K7lw_YhwXHRhkkkQkmtO1qtvosS_kjcPA0U06kG9tRp3x_56Adu1tT6hjaU8bb11x7dh4hBwj_GSzKxqe7WA9nimP0NXlqSXKQNYjIEmNjxsk_5y5S9mvXg9aMqN0aBWC67syB2uWyPPVf2rR1dSaWDdirU28UPz4dXUVGjcxGu5nrT6muw8LuWROh9og3Wc2cWUem9wZwyGuuOxkhdaCs-VKgUDDB4psAB6BphH6t4IeB8D_OOKBw-WmGXohK0UUm9KVakiWxPZlEzSKHk0Sl6VplhifqhI_wLVf0m4"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Compound interest introduction (video)",
+      "link": "https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/compound-interest-tutorial/v/introduction-to-compound-interest",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESywEB6zswFYDOHkxubYhrwexuRRY-Ojz_dtv8NveTnL0WpyXevSp3teyOnsqmEs_-fHf4M4J9gwlI9m_hyTgBOCWsHcCyGm_wvOnoaZDQgn-QefFCbSGt4cphtul6Y--ojnDyhbkqp4J-aWwYtkEZcyofKlNSWV4fh3GZpralkKkwDutxppbN1F1LeABKuXwesdDcv6TFoeypj7IbM3fgvATtbzpXx7F3kECGsfCgz88anjffRQBgcwYKQuZ2Y8dmurxyNZQz1baegE96dQ&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECA4QAQ&uoh=1",
+      "displayed_link": "https://www.khanacademy.org › interest-tutorial › intro...",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAK5KgCz_8kz8oBPAoAPdiQuHHLnbPY3_-1ymrqDWOe0jr2QC4HPsAAD-9glwmnoacAnUMtbN5KpvALmnH1o27hQ_QdQdDZ-5UaiP6klW5YO_19-m6Vm-gGL440bz7J12CZY_BQb804hZsfrVWc_2zQgwrsIFOoMMIXm1aubADUGM-6ssAMx43s0nBj_-BOX87eopINSVhYC1JvU3Lf1HSaRbuG7AmF711aLSgdF4Z_lR6tv3iAJEum9VEH56GcCxEk9zVElReyBx_mF-Ox5X7xe7pxXrB-Re1k3MgIe9DF_cr7SCr2XsT_CC3VSzC3ROSU0LE_yUrcnc6Gvup0eGtuTH-qrAAAA.webp",
+      "snippet": "Learn about the basics of compound interest, with examples of basic compound interest calculations.",
+      "snippet_highlighted_words": [
+        "Learn about the basics of compound interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn about the basics of compound interest, with examples of basic compound interest calculations.",
+          "source_info_link": "https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/compound-interest-tutorial/v/introduction-to-compound-interest",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAK5KgCz_8kz8oBPAoAPdiQuHHLnbPY3_-1ymrqDWOe0jr2QC4HPsAAD-9glwmnoacAnUMtbN5KpvALmnH1o27hQ_QdQdDZ-5UaiP6klW5YO_19-m6Vm-gGL440bz7J12CZY_BQb804hZsfrVWc_2zQgwrsIFOoMMIXm1aubADUGM-6ssAMx43s0nBj_-BOX87eopINSVhYC1JvU3Lf1HSaRbuG7AmF711aLSgdF4Z_lR6tv3iAJEum9VEH56GcCxEk9zVElReyBx_mF-Ox5X7xe7pxXrB-Re1k3MgIe9DF_cr7SCr2XsT_CC3VSzC3ROSU0LE_yUrcnc6Gvup0eGtuTH-qrAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZZRE9Ia3h1YllocndleHVSUlktT2p6X2R0djhOdmVUbkwwV3B5WGV2U3AzdGV5T25zcW1Fc18tZkhmNE00Sjlnd2xJOW1faHlUZ0JPQ1dzSGNDeUdtX3d2T25vYVpEUWduLVFlZkZDYlNHdDRjcGh0dWw2WS0tb2puRHloYmtxcDRKLWFXd1l0a0VaY3lvZktsTlNXVjRmaDNHWnByYWxrS2t3RHV0eHBwYk4xRjFMZUFCS3VYd2VzZERjdjZURm9leXBqN0liTTNmZ3ZBVHRienBYeDdGM2tFQ0dzZkNnejg4YW5qZmZSUUJnY3dZS1F1WjJZOGRtdXJ4eU5aUXoxYmFlZ0U5NmRREgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZZRE9Ia3h1YllocndleHVSUlktT2p6X2R0djhOdmVUbkwwV3B5WGV2U3AzdGV5T25zcW1Fc18tZkhmNE00Sjlnd2xJOW1faHlUZ0JPQ1dzSGNDeUdtX3d2T25vYVpEUWduLVFlZkZDYlNHdDRjcGh0dWw2WS0tb2puRHloYmtxcDRKLWFXd1l0a0VaY3lvZktsTlNXVjRmaDNHWnByYWxrS2t3RHV0eHBwYk4xRjFMZUFCS3VYd2VzZERjdjZURm9leXBqN0liTTNmZ3ZBVHRienBYeDdGM2tFQ0dzZkNnejg4YW5qZmZSUUJnY3dZS1F1WjJZOGRtdXJ4eU5aUXoxYmFlZ0U5NmRREgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Khan Academy"
+    },
+    {
+      "position": 2,
+      "title": "Interest",
+      "link": "https://en.wikipedia.org/wiki/Interest",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVp85gUmznRaRFUeFkyBlltCm6eKkKd2_hzY7N1weP3VZnqNLZmGnsvmoDvSvb_Kk0yRUp-wY3uu2JW02D1fxv5QvYuSY2SyW2SEXGHOT6rXzHeDVuk8LJ5pg&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Interest",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "snippet": "Government interest, a concept in law that allows governments to regulate a given matter National interest, a country's goals and ambitions",
+      "snippet_highlighted_words": [
+        "interest",
+        "interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Government interest, a concept in law that allows governments to regulate a given matter National interest, a country's goals and ambitions",
+          "source_info_link": "https://en.wikipedia.org/wiki/Interest",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnA4NWdVbXpuUmFSRlVlRmt5QmxsdENtNmVLa0tkMl9oelk3TjF3ZVAzVlpucU5MWm1HbnN2bW9EdlN2Yl9LazB5UlVwLXdZM3V1MkpXMDJEMWZ4djVRdll1U1kyU3lXMlNFWEdIT1Q2clh6SGVEVnVrOExKNXBnEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnA4NWdVbXpuUmFSRlVlRmt5QmxsdENtNmVLa0tkMl9oelk3TjF3ZVAzVlpucU5MWm1HbnN2bW9EdlN2Yl9LazB5UlVwLXdZM3V1MkpXMDJEMWZ4djVRdll1U1kyU3lXMlNFWEdIT1Q2clh6SGVEVnVrOExKNXBnEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Interest Rates and Fees for Federal Student Loans",
+      "link": "https://studentaid.gov/understand-aid/types/loans/interest-rates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVcOt9nAIDHn5Ycep5zWMBMOG-vZp6OR7awf28Yt5Gy1KhqtE6jd5iBC64RgpqEYBGSPXANKk4dOlpoQruQYyoEq6prOVcgZh0SjW-p5ERu7gFJCj19oUxeQ7N6R3etxDYmX9gURV1_L5pMecaZRh66XyEhQ&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://studentaid.gov › understand-aid › types › interes...",
+      "favicon": "https://serpapi.com/images/i/UklGRqQBAABXRUJQVlA4IJgBAADQCACdASocABwAPtE-tFooIigoFAEAGgliAJ0ygzMkGkoCckNSh59ee36Y9gfpAfsB7AH6zB56bZ09Rka6dE6YEwl3a0RUJqDvmaxbWWVAAP72DYv7wRViIA1BxKA8qv2gWP3-5hMDb_yJ47srFpy3TPcIJTi5E5fNfQhf4nsOiKpttxGd030j-_EfLh_COu6YN4e3wFg2FxOS-WP73eTqfBj255MdbkYJiqWlTC9rYTPDeYbqx4ZNFU1wC7iHlzWoUr1zA6KBXHBGKzAzpLBayDJZEqS0S79TSaq1Hlg6jvOehB3EL0zmYN84XzFlGnKQprD4ts1_-S76l959deR8vAMVhzi66OJWTqQsXauMW3WkakZoH2atHbofqONR2uWfQsKo_8iD8NypJBByWr_jTO3FGf-YHayMLqHeOzAO59kaVL5lbfH1gio-zDVvqnXF1pUJlKshDHfNQ5RcB5ZXm6gM2BqrUThKcrMM0qVlKYy2_bdUQeDJBCBhUu4JLr3tWfjbQUpUVJ6QxGY4ko5YfM7oOPgAAAA.webp",
+      "snippet": "The table below provides interest rates for Direct Subsidized Loans, Direct Unsubsidized Loans, and Direct PLUS Loans first disbursed on or after July 1, 2025, ...",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The table below provides interest rates for Direct Subsidized Loans, Direct Unsubsidized Loans, and Direct PLUS Loans first disbursed on or after July 1, 2025, ...",
+          "source_info_link": "https://studentaid.gov/understand-aid/types/loans/interest-rates",
+          "icon": "https://serpapi.com/images/i/UklGRqQBAABXRUJQVlA4IJgBAADQCACdASocABwAPtE-tFooIigoFAEAGgliAJ0ygzMkGkoCckNSh59ee36Y9gfpAfsB7AH6zB56bZ09Rka6dE6YEwl3a0RUJqDvmaxbWWVAAP72DYv7wRViIA1BxKA8qv2gWP3-5hMDb_yJ47srFpy3TPcIJTi5E5fNfQhf4nsOiKpttxGd030j-_EfLh_COu6YN4e3wFg2FxOS-WP73eTqfBj255MdbkYJiqWlTC9rYTPDeYbqx4ZNFU1wC7iHlzWoUr1zA6KBXHBGKzAzpLBayDJZEqS0S79TSaq1Hlg6jvOehB3EL0zmYN84XzFlGnKQprD4ts1_-S76l959deR8vAMVhzi66OJWTqQsXauMW3WkakZoH2atHbofqONR2uWfQsKo_8iD8NypJBByWr_jTO3FGf-YHayMLqHeOzAO59kaVL5lbfH1gio-zDVvqnXF1pUJlKshDHfNQ5RcB5ZXm6gM2BqrUThKcrMM0qVlKYy2_bdUQeDJBCBhUu4JLr3tWfjbQUpUVJ6QxGY4ko5YfM7oOPgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmNPdDluQUlESG41WWNlcDV6V01CTU9HLXZacDZPUjdhd2YyOFl0NUd5MUtocXRFNmpkNWlCQzY0UmdwcUVZQkdTUFhBTktrNGRPbHBvUXJ1UVl5b0VxNnByT1ZjZ1poMFNqVy1wNUVSdTdnRkpDajE5b1V4ZVE3TjZSM2V0eERZbVg5Z1VSVjFfTDVwTWVjYVpSaDY2WHlFaFESBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmNPdDluQUlESG41WWNlcDV6V01CTU9HLXZacDZPUjdhd2YyOFl0NUd5MUtocXRFNmpkNWlCQzY0UmdwcUVZQkdTUFhBTktrNGRPbHBvUXJ1UVl5b0VxNnByT1ZjZ1poMFNqVy1wNUVSdTdnRkpDajE5b1V4ZVE3TjZSM2V0eERZbVg5Z1VSVjFfTDVwTWVjYVpSaDY2WHlFaFESBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Federal Student Aid (.gov)",
+      "read_more_link": "https://studentaid.gov/understand-aid/types/loans/interest-rates#:~:text=The%20table%20below%20provides%20interest,and%20before%20July%201%2C%202026."
+    },
+    {
+      "position": 4,
+      "title": "Brown v. Board of Education and the Interest-Convergence ...",
+      "link": "https://harvardlawreview.org/print/no-volume/brown-v-board-of-education-and-the-interest-convergence-dilemma/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFYZSAX9Wj8BDmsMDb7a55PRRmgeshXnG6ec6NZZXNElSQAdYB3UXcwjJAVKWUpkIrh8BL97mxmpwYC81LO14JRo1LL1-QrUhniAbskMzvuFiKYqQKxkjYrpAaJuJgSn5eInq70tDiR7EXdPeUr3bKbOKZ8XpbXtPle0mYNqgaBESx85UhwRxp0V1pzRcfPwIX8Uhi9vH-zYOkBq4nMnuPm8&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://harvardlawreview.org › Print",
+      "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBgCdASocABwAPtE-tFooIigoFAEAGglpAM1KlbuIa02bymf4B6D80RBESoV6QyfKjMaqcrVJbVmqhHyAAAD-0rraIe1PnxUnOFQEO4DoeuqZh0U9_NdGB9kykFbd1vMZ0eC3_8D5Sby-z4RaFxFl5OlxC4ejWc_cgew3ZjiOv4e3OvvM98MPuESIcvnFfEK105l4M2eP7mOzL2QR-wtNI-Gc1iJw0spjLDzqtg_xGKNSnaa7wowGQlMrTh-d91nqIwPyGbNsbx5cNhXGkm5xv2r3h8YZQ_d5ojpNKcPnSY38bHth_iXkSz27O6qN070_I1frVytl8T1AQH4aDTwV5F_zYCGsDb9V4OnlU9oZpj22VhuRpf0LYHQeWSgA.webp",
+      "snippet": "Professor Derrick Bell suggests that no conflict of interest actually existed; for a brief period, the interests of the races converged to make the Brown ...",
+      "snippet_highlighted_words": [
+        "interest",
+        "interests"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Professor Derrick Bell suggests that no conflict of interest actually existed; for a brief period, the interests of the races converged to make the Brown ...",
+          "source_info_link": "https://harvardlawreview.org/print/no-volume/brown-v-board-of-education-and-the-interest-convergence-dilemma/",
+          "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBgCdASocABwAPtE-tFooIigoFAEAGglpAM1KlbuIa02bymf4B6D80RBESoV6QyfKjMaqcrVJbVmqhHyAAAD-0rraIe1PnxUnOFQEO4DoeuqZh0U9_NdGB9kykFbd1vMZ0eC3_8D5Sby-z4RaFxFl5OlxC4ejWc_cgew3ZjiOv4e3OvvM98MPuESIcvnFfEK105l4M2eP7mOzL2QR-wtNI-Gc1iJw0spjLDzqtg_xGKNSnaa7wowGQlMrTh-d91nqIwPyGbNsbx5cNhXGkm5xv2r3h8YZQ_d5ojpNKcPnSY38bHth_iXkSz27O6qN070_I1frVytl8T1AQH4aDTwV5F_zYCGsDb9V4OnlU9oZpj22VhuRpf0LYHQeWSgA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZZWlNBWDlXajhCRG1zTURiN2E1NVBSUm1nZXNoWG5HNmVjNk5aWlhORWxTUUFkWUIzVVhjd2pKQVZLV1Vwa0lyaDhCTDk3bXhtcHdZQzgxTE8xNEpSbzFMTDEtUXJVaG5pQWJza016dnVGaUtZcVFLeGtqWXJwQWFKdUpnU241ZUlucTcwdERpUjdFWGRQZVVyM2JLYk9LWjhYcGJYdFBsZTBtWU5xZ2FCRVN4ODVVaHdSeHAwVjFwelJjZlB3SVg4VWhpOXZILXpZT2tCcTRuTW51UG04EgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZZWlNBWDlXajhCRG1zTURiN2E1NVBSUm1nZXNoWG5HNmVjNk5aWlhORWxTUUFkWUIzVVhjd2pKQVZLV1Vwa0lyaDhCTDk3bXhtcHdZQzgxTE8xNEpSbzFMTDEtUXJVaG5pQWJza016dnVGaUtZcVFLeGtqWXJwQWFKdUpnU241ZUlucTcwdERpUjdFWGRQZVVyM2JLYk9LWjhYcGJYdFBsZTBtWU5xZ2FCRVN4ODVVaHdSeHAwVjFwelJjZlB3SVg4VWhpOXZILXpZT2tCcTRuTW51UG04EgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Harvard Law Review"
+    },
+    {
+      "position": 5,
+      "title": "Interest: Definition and Types of Fees for Borrowing Money",
+      "link": "https://www.investopedia.com/terms/i/interest.asp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVdHqNmY-S9HisQS6ZF11aswfonmHxG5n27XUq-9bh4h4xsyeH_ihevhZ5dzVpEubyoKiuLAVvNbTzwWmQ6ZLIXlG2lppZnGHO7_7IbioanGh9EbkjfGQlsJYjgrtOZEs2HrKnTg&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.investopedia.com › ... › Investing Basics",
+      "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBgCdASocABwAPrUurVanIacnG_DgFolAF2A0-vMr_DlFkVG6Z6V9Zt86L4AK_ZKu38LdqAl5mjyAAP74scOk2GHSkN8AHJLBWrSXDN_vk8TReiGSt3SPVUbywepyEmanDARPsrSZS_efxP175hpZQ3j6ySmFhNWcL6u_WyTlwAHXW39E2EcmR0_n5uFIgH62vntv5Ku3pAhXYyPPNld44FSbHPR9EhhXaSlKpsGS6sy5m-SVlDaWX1fBAhh-Af8gcNM0XNb-kRgG6Qhi4i7XnBAlmedQip0F58OG6oCzQDo9kftz2yf0Mq3DmwseW1PYKynPEy5LozHmOlO3aN9_pA_8k_p_Jb-ameZ49DRmrcF87XhsfP-Ndvuf7wfkd7ZugptFl7xAq6080O2OMJs3FaAAAA.webp",
+      "snippet": "Interest is the monetary charge for the privilege of borrowing money, typically expressed as an annual percentage rate.",
+      "snippet_highlighted_words": [
+        "Interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Interest is the monetary charge for the privilege of borrowing money, typically expressed as an annual percentage rate.",
+          "source_info_link": "https://www.investopedia.com/terms/i/interest.asp",
+          "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAwBgCdASocABwAPrUurVanIacnG_DgFolAF2A0-vMr_DlFkVG6Z6V9Zt86L4AK_ZKu38LdqAl5mjyAAP74scOk2GHSkN8AHJLBWrSXDN_vk8TReiGSt3SPVUbywepyEmanDARPsrSZS_efxP175hpZQ3j6ySmFhNWcL6u_WyTlwAHXW39E2EcmR0_n5uFIgH62vntv5Ku3pAhXYyPPNld44FSbHPR9EhhXaSlKpsGS6sy5m-SVlDaWX1fBAhh-Af8gcNM0XNb-kRgG6Qhi4i7XnBAlmedQip0F58OG6oCzQDo9kftz2yf0Mq3DmwseW1PYKynPEy5LozHmOlO3aN9_pA_8k_p_Jb-ameZ49DRmrcF87XhsfP-Ndvuf7wfkd7ZugptFl7xAq6080O2OMJs3FaAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRIcU5tWS1TOUhpc1FTNlpGMTFhc3dmb25tSHhHNW4yN1hVcS05Ymg0aDR4c3llSF9paGV2aFo1ZHpWcEV1YnlvS2l1TEFWdk5iVHp3V21RNlpMSVhsRzJscHBabkdITzdfN0liaW9hbkdoOUVia2pmR1Fsc0pZamdydE9aRXMySHJLblRnEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRIcU5tWS1TOUhpc1FTNlpGMTFhc3dmb25tSHhHNW4yN1hVcS05Ymg0aDR4c3llSF9paGV2aFo1ZHpWcEV1YnlvS2l1TEFWdk5iVHp3V21RNlpMSVhsRzJscHBabkdITzdfN0liaW9hbkdoOUVia2pmR1Fsc0pZamdydE9aRXMySHJLblRnEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Investopedia"
+    },
+    {
+      "position": 6,
+      "title": "Consumer Interest Division",
+      "link": "https://www.alabamaag.gov/divisions/consumer-interest-division/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVlQ-S_JoamXGRb5BQKVTh0rHTD8zZ3mZdlriVuLSVA73PCwihR5Y7A8o2uvlOyz2ejqvuP8F0bXvr-JoJHc1Z4xdY8eEHijgcT6dSnUjSArB1DdH7fssakPxowH1Dy42eZY8PyeEH1YCd9bUo-j10RbTi&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.alabamaag.gov › divisions › consumer-inter...",
+      "favicon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAAAQCgCdASogACAAAsBMJbACxFLNGJEB9gPEzvgDpcqxz4A1Z_QK0GWBpI_i3m79BLN884-wL-sfV0_VX2C_1DNqblaOu0bGmXC3ONHnh0IXv6oe-DTqnFAKAAD--q2__yNIkzWOhM1Buai0363sFCxSYivsqaWYbxD5z_lxfvaPTNBP5BhLrYfJkGalG4VQMo7IASJ-_xVXOJ9u7WVCeDCKzJ3jHnUtTHS3Ulp6EWh58PVXJ59ExP25bK0yBtZ9vtDZuOVtW5IXCibFH8kpJpL3ZkWAHXaNpLkiID7YU0Afb_j5v4z72El9DIYvMp_d9antMBd8AIAA1V4SA9V1zCTa924_8ZoV2zpLJ-VDJ40bc2UXI5o5LCZVweGafV0FG7guJQ6_mKRFlf1kCqcChVtVkEfKHJ-WiDaYtHh68ScjrkxAR69COg22FQ55E5hnOnmXfjU1pcmqwd2LEEVSwSEt_iX4pkgUZWzNvalFt6FBJ6YA9rVyuWUok4dGwc9fe1RgqUd6FcglxalF7KfVEn5mS6F0oq91w2u6PUg-BqV_rkG2Wm_u5EtYmK9bqaQA1-rsPuL41UbG9qK-yXhso4atVqmNRo3jmm4LHYc4cIfty66GiFxcf18JEl6SLqD-7AHceCEv92wUwbXf7E0Y3iPotXygYF2unEw2pNoyYnEfreu__ix_3lhlJcOdb-aczbbmO4AA.webp",
+      "snippet": "federal governmental agencies. To reach the consumer hotline, please call 1-800-392-5658 or 334-242-7335 For specific questions regarding registrations",
+      "snippet_highlighted_words": [
+        "federal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "federal governmental agencies. To reach the consumer hotline, please call 1-800-392-5658 or 334-242-7335 For specific questions regarding registrations",
+          "source_info_link": "https://www.alabamaag.gov/divisions/consumer-interest-division/",
+          "icon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAAAQCgCdASogACAAAsBMJbACxFLNGJEB9gPEzvgDpcqxz4A1Z_QK0GWBpI_i3m79BLN884-wL-sfV0_VX2C_1DNqblaOu0bGmXC3ONHnh0IXv6oe-DTqnFAKAAD--q2__yNIkzWOhM1Buai0363sFCxSYivsqaWYbxD5z_lxfvaPTNBP5BhLrYfJkGalG4VQMo7IASJ-_xVXOJ9u7WVCeDCKzJ3jHnUtTHS3Ulp6EWh58PVXJ59ExP25bK0yBtZ9vtDZuOVtW5IXCibFH8kpJpL3ZkWAHXaNpLkiID7YU0Afb_j5v4z72El9DIYvMp_d9antMBd8AIAA1V4SA9V1zCTa924_8ZoV2zpLJ-VDJ40bc2UXI5o5LCZVweGafV0FG7guJQ6_mKRFlf1kCqcChVtVkEfKHJ-WiDaYtHh68ScjrkxAR69COg22FQ55E5hnOnmXfjU1pcmqwd2LEEVSwSEt_iX4pkgUZWzNvalFt6FBJ6YA9rVyuWUok4dGwc9fe1RgqUd6FcglxalF7KfVEn5mS6F0oq91w2u6PUg-BqV_rkG2Wm_u5EtYmK9bqaQA1-rsPuL41UbG9qK-yXhso4atVqmNRo3jmm4LHYc4cIfty66GiFxcf18JEl6SLqD-7AHceCEv92wUwbXf7E0Y3iPotXygYF2unEw2pNoyYnEfreu__ix_3lhlJcOdb-aczbbmO4AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmxRLVNfSm9hbVhHUmI1QlFLVlRoMHJIVEQ4elozbVpkbHJpVnVMU1ZBNzNQQ3dpaFI1WTdBOG8ydXZsT3l6MmVqcXZ1UDhGMGJYdnItSm9KSGMxWjR4ZFk4ZUVIaWpnY1Q2ZFNuVWpTQXJCMURkSDdmc3Nha1B4b3dIMUR5NDJlWlk4UHllRUgxWUNkOWJVby1qMTBSYlRpEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmxRLVNfSm9hbVhHUmI1QlFLVlRoMHJIVEQ4elozbVpkbHJpVnVMU1ZBNzNQQ3dpaFI1WTdBOG8ydXZsT3l6MmVqcXZ1UDhGMGJYdnItSm9KSGMxWjR4ZFk4ZUVIaWpnY1Q2ZFNuVWpTQXJCMURkSDdmc3Nha1B4b3dIMUR5NDJlWlk4UHllRUgxWUNkOWJVby1qMTBSYlRpEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Alabama Attorney General's Office (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Special Interest Groups",
+      "link": "https://www.asrm.org/membership/asrm-member-groups/special-interest-groups/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFSAgfPKVCIWdCZ3ccmijad6wVLZzmSInDema1QQ2DHNctPjh8G-eOx6842lDzSVz2oCCnAgMEcFr5IHUkp-5_vm4itO2Lj6-iEUZDXuuXImnA6hS950MR_05N6K5hGTtcowMK40zqXLblDnHBH_7EtfyT9gH4irCALJ7tiEIOw&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://www.asrm.org › asrm-member-groups › special-i...",
+      "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBACdASogACAAPtEwtFooIigoGAEAGgljAMoAIWrH29ghvD7oOZtt1bSDoHsP8ADyp_Uu70cJWpqbVCbtvc8jxz5J2RhoOFpfNc6nTfbvCPcZpDfoQLswn5N8_98i__xbg0KxyP7f_tHB-QAP7Ia4PHp_6WG2Sqr6TduGVRVdc8uEBlgfjRN6q6qODDFi6YeY7_EfIx6-VQTXXWCLwUKR4PWofBcePeOFLnUPvcU4bM7ordUp7XuO3P6tsd9HPoEdR1i4uxI4kRkSt4GX7c3pEmiaohWkAAA.webp",
+      "snippet": "ASRM Special Interest Groups offer programming and leadership for reproductive medicine professionals to connect, advance education, ...",
+      "snippet_highlighted_words": [
+        "Interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ASRM Special Interest Groups offer programming and leadership for reproductive medicine professionals to connect, advance education, ...",
+          "source_info_link": "https://www.asrm.org/membership/asrm-member-groups/special-interest-groups/",
+          "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBACdASogACAAPtEwtFooIigoGAEAGgljAMoAIWrH29ghvD7oOZtt1bSDoHsP8ADyp_Uu70cJWpqbVCbtvc8jxz5J2RhoOFpfNc6nTfbvCPcZpDfoQLswn5N8_98i__xbg0KxyP7f_tHB-QAP7Ia4PHp_6WG2Sqr6TduGVRVdc8uEBlgfjRN6q6qODDFi6YeY7_EfIx6-VQTXXWCLwUKR4PWofBcePeOFLnUPvcU4bM7ordUp7XuO3P6tsd9HPoEdR1i4uxI4kRkSt4GX7c3pEmiaohWkAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTQWdmUEtWQ0lXZENaM2NjbWlqYWQ2d1ZMWnptU0luRGVtYTFRUTJESE5jdFBqaDhHLWVPeDY4NDJsRHpTVnoyb0NDbkFnTUVjRnI1SUhVa3AtNV92bTRpdE8yTGo2LWlFVVpEWHV1WEltbkE2aFM5NTBNUl8wNU42SzVoR1R0Y293TUs0MHpxWExibERuSEJIXzdFdGZ5VDlnSDRpckNBTEo3dGlFSU93EgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZTQWdmUEtWQ0lXZENaM2NjbWlqYWQ2d1ZMWnptU0luRGVtYTFRUTJESE5jdFBqaDhHLWVPeDY4NDJsRHpTVnoyb0NDbkFnTUVjRnI1SUhVa3AtNV92bTRpdE8yTGo2LWlFVVpEWHV1WEltbkE2aFM5NTBNUl8wNU42SzVoR1R0Y293TUs0MHpxWExibERuSEJIXzdFdGZ5VDlnSDRpckNBTEo3dGlFSU93EgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "American Society for Reproductive Medicine | ASRM"
+    },
+    {
+      "position": 8,
+      "title": "Compound Interest - GCSE Maths",
+      "link": "https://www.youtube.com/watch?v=JxzhTD50dQg&vl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVPLhIou2iXd1oNQZegUp6Fnu6LvsOWOtLqAXVuZ9ZKpHF53EKnySeVTpelX17xc8ynT5nvz-SirXbqWUaiAbPi1tuZiRZLbhnPcro-8AJDNsKdg6yvsd5o9ZmKVwF6Nk-3Z5wsA&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECAwQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "snippet": "This video is for students aged 14+ studying GCSE Maths. A video explaining compound and simple interest. We look at a range of different exam style questions.",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This video is for students aged 14+ studying GCSE Maths. A video explaining compound and simple interest. We look at a range of different exam style questions.",
+          "source_info_link": "https://www.youtube.com/watch?v=JxzhTD50dQg&vl=en",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlBMaElvdTJpWGQxb05RWmVnVXA2Rm51Nkx2c09XT3RMcUFYVnVaOVpLcEhGNTNFS255U2VWVHBlbFgxN3hjOHluVDVudnotU2lyWGJxV1VhaUFiUGkxdHVaaVJaTGJoblBjcm8tOEFKRE5zS2RnNnl2c2Q1bzlabUtWd0Y2TmstM1o1d3NBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlBMaElvdTJpWGQxb05RWmVnVXA2Rm51Nkx2c09XT3RMcUFYVnVaOVpLcEhGNTNFS255U2VWVHBlbFgxN3hjOHluVDVudnotU2lyWGJxV1VhaUFiUGkxdHVaaVJaTGJoblBjcm8tOEFKRE5zS2RnNnl2c2Q1bzlabUtWd0Y2TmstM1o1d3NBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 9,
+      "title": "32.907 Interest penalties.",
+      "link": "https://www.acquisition.gov/far/32.907",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV2FVCpEib3mHfHYIZrpSWpywVp6wPFlbvFtgz2nNyN6ixtc03DT9bbDw6JDOe5YytLizyI8-2jLeFlKEhJj3RMYH5B-3It62zeCHecSAMYfdD1qSZS5y-ozo&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQFnoECA0QAQ&uoh=1",
+      "displayed_link": "https://www.acquisition.gov › far",
+      "favicon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAACQAgCdASoQABAAAsBMJYwCdH8G6AA0F3WHjGIUYAD--hvVYlq0rYykeZ_DTZafmGXj4RsJsk64Erw7fdPSHInm8yuj7vP0NXPnW4XfNNredmzE-hO2j96MQKJdqCN_ASlmrs1ZXcoWUAAA.webp",
+      "snippet": "The designated payment office will pay an interest penalty automatically, without request from the contractor, when all of the following conditions, if ...",
+      "snippet_highlighted_words": [
+        "interest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The designated payment office will pay an interest penalty automatically, without request from the contractor, when all of the following conditions, if ...",
+          "source_info_link": "https://www.acquisition.gov/far/32.907",
+          "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAACQAgCdASoQABAAAsBMJYwCdH8G6AA0F3WHjGIUYAD--hvVYlq0rYykeZ_DTZafmGXj4RsJsk64Erw7fdPSHInm8yuj7vP0NXPnW4XfNNredmzE-hO2j96MQKJdqCN_ASlmrs1ZXcoWUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjJGVkNwRWliM21IZkhZSVpycFNXcHl3VnA2d1BGbGJ2RnRnejJuTnlONml4dGMwM0RUOWJiRHc2SkRPZTVZeXRMaXp5STgtMmpMZUZsS0VoSmozUk1ZSDVCLTNJdDYyemVDSGVjU0FNWWZkRDFxU1pTNXktb3pvEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjJGVkNwRWliM21IZkhZSVpycFNXcHl3VnA2d1BGbGJ2RnRnejJuTnlONml4dGMwM0RUOWJiRHc2SkRPZTVZeXRMaXp5STgtMmpMZUZsS0VoSmozUk1ZSDVCLTNJdDYyemVDSGVjU0FNWWZkRDFxU1pTNXktb3pvEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Acquisition.GOV (.gov)",
+      "read_more_link": "https://www.acquisition.gov/far/32.907#:~:text=The%20designated%20payment%20office%20will,if%20applicable%2C%20have%20been%20met%3A"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=Xy-yarKHKtvU5NoPycb_kAI&start=10&sa=N&sstk=AS6-VmIU4NeaC6RI5FHLP_HYRupP1DqvhqvemkjtraCrCs7Gz_kf3SpPpg9kZwBxmkFhVfnw4IkBeXo4RemBmVJtTprpDdDOMH-KnQ&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQ8NMDegQIPhAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=federal+reserve+announces+massive+emergency+interest+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=Xy-yarKHKtvU5NoPycb_kAI&start=10&sa=N&sstk=AS6-VmIU4NeaC6RI5FHLP_HYRupP1DqvhqvemkjtraCrCs7Gz_kf3SpPpg9kZwBxmkFhVfnw4IkBeXo4RemBmVJtTprpDdDOMH-KnQ&ved=2ahUKEwjysvea1oGXAxVbKlkFHUnjHyIQ8tMDegQIPhAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=federal+reserve+announces+massive+emergency+interest+before%3A2026-01-01&start=10"
+    }
+  }
+}

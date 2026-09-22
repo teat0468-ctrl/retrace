@@ -1,0 +1,309 @@
+{
+  "search_metadata": {
+    "id": "6ab22dea277143868bad5628",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ml1GGLoA_k19gZRfg8AHJUznYXD-QadBOJwGmi847ho/6ab22dea277143868bad5628.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ml1GGLoA_k19gZRfg8AHJUznYXD-QadBOJwGmi847ho/6ab22dea277143868bad5628.md",
+    "created_at": "2026-09-22 07:27:38 UTC",
+    "processed_at": "2026-09-22 07:27:38 UTC",
+    "google_news_url": "https://news.google.com/search?q=newly+formed+century+asteroid+crater+found+new+update",
+    "raw_html_file": "https://serpapi.com/searches/ml1GGLoA_k19gZRfg8AHJUznYXD-QadBOJwGmi847ho/6ab22dea277143868bad5628.html",
+    "total_time_taken": 0.54
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "newly formed century asteroid crater found new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "NASA scientist discovers largest, newly formed 'once-in-a-century' moon crater after asteroid impact",
+      "source": {
+        "name": "foxweather.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxweather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.foxweather.com/earth-space/nasa-moon-orbiter-discovers-new-moon-crater",
+      "thumbnail": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/09/1024/512/mcgetchin_before_after_38mile_2x.png?ve=1&tl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU1Rek5zVmxjeFkwRnNaVzVqVFJDSEF4aVBCaWdLTWd1WkVwVHZFQ285ODJoc3VR",
+      "date": "09/18/2026, 09:49 PM, +0000 UTC",
+      "iso_date": "2026-09-18T21:49:00Z"
+    },
+    {
+      "position": 2,
+      "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+      "source": {
+        "name": "NASA Science (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://science.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lonnie Shekhtman"
+        ]
+      },
+      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png?w=1881&h=1041&fit=clip&crop=faces%2Cfocalpoint",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJSWEI2YlZKdVQxcFBiRkE1VFJDY0F4anBCU2dLTWdPTmxSWQ",
+      "date": "09/16/2026, 06:06 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:06:35Z"
+    },
+    {
+      "position": 3,
+      "title": "A NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Mathewson"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/moon/nasa-just-found-a-giant-new-crater-on-the-moon-heres-why-everyones-talking-the-once-in-a-century-discovery",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/GuXTQwRXL3Evonvv4waQcY-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJjbkptYlRrMk5EbHVlR3MxVFJDZkF4ampCU2dLTWdZbGxaS3R0UVk",
+      "date": "09/17/2026, 08:11 PM, +0000 UTC",
+      "iso_date": "2026-09-17T20:11:16Z"
+    },
+    {
+      "position": 4,
+      "title": "Newly Discovered \"Once-in-a-Century' Moon Crater Larger Than Two Football Fields",
+      "source": {
+        "name": "discovermagazine.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.discovermagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Monica Cull"
+        ]
+      },
+      "link": "https://www.discovermagazine.com/newly-discovered-once-in-a-century-moon-crater-larger-than-two-football-fields-49691",
+      "thumbnail": "https://cdn.discovermagazine.com/assets/image/60463/moons-craters-xs.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDJZMmhqTVVsQmVraEpNRzl2VFJEVkFSakFBaWdLTWdNQkF4QQ",
+      "date": "09/17/2026, 10:42 PM, +0000 UTC",
+      "iso_date": "2026-09-17T22:42:57Z"
+    },
+    {
+      "position": 5,
+      "title": "NASA orbiter spots massive 'once-in-a-century' crater on moon",
+      "source": {
+        "name": "WPDE",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://wpde.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexx Altman-devilbiss"
+        ]
+      },
+      "link": "https://wpde.com/news/offbeat/nasa-lunar-reconnaissance-orbiter-camera-spots-massive-once-in-a-century-impact-crater-on-moon-mcgetchin-solar-system-asteroid-comet",
+      "thumbnail": "https://wpde.com/resources/media2/16x9/1024/1174/0x224/80/1be43ae7-2927-45a6-aa59-a7fd91e4ef06-McGetchinLRONAC.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNSbk56T1VveGVHWkVYMGswVFJDZkF4ampCU2dLTWdhbE00Nk5LUVk",
+      "date": "09/18/2026, 07:12 PM, +0000 UTC",
+      "iso_date": "2026-09-18T19:12:09Z"
+    },
+    {
+      "position": 6,
+      "title": "World watches 'Blood Moon' lunar eclipse",
+      "source": {
+        "name": "LiveNOW from FOX",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livenowfox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livenowfox.com/news/nasa-moon-crater-asteroid",
+      "thumbnail": "https://static-media.fox.com/fmcv3/prod/fts/bfwoky9x3hub9lkm/3njen9c9pkanlc85.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNPRjh3V0dOZk0ycEJaWGhaVFJDZkF4ampCU2dLTWdZbE1ZaTNGQVU",
+      "date": "09/17/2026, 09:18 PM, +0000 UTC",
+      "iso_date": "2026-09-17T21:18:10Z"
+    },
+    {
+      "position": 7,
+      "title": "NASA orbiter spots massive 'once-in-a-century' crater on moon",
+      "source": {
+        "name": "National News Desk",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thenationaldesk.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexx Altman-devilbiss"
+        ]
+      },
+      "link": "https://thenationaldesk.com/news/americas-news-now/nasa-lunar-reconnaissance-orbiter-camera-spots-massive-once-in-a-century-impact-crater-on-moon-mcgetchin-solar-system-asteroid-comet?photo=3",
+      "thumbnail": "https://thenationaldesk.com/resources/media2/16x9/1024/648/0x224/90/1be43ae7-2927-45a6-aa59-a7fd91e4ef06-McGetchinLRONAC.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkVk5VWlY5aGJXcHNNakJhVFJEdEFoaUlCU2dLTWdZbE5JNk5LUVk",
+      "date": "09/18/2026, 07:07 PM, +0000 UTC",
+      "iso_date": "2026-09-18T19:07:41Z"
+    },
+    {
+      "position": 8,
+      "title": "Once-in-a-century crater discovered on the Moon after giant asteroid crash",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/science/story/moon-crater-discovered-nasa-finds-mcgetchin-after-rare-2024-asteroid-impact-2996542-2026-09-17",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/moon-crater-discovered-172159748-16x9_0.jpeg?VersionId=KoVgPvIbgH9EHU4aTaqWXXhbHk20_9HW&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxZa2xUVlZwTVNHOVJkMHBMVFJDZkF4ampCU2dLTWdZcGxaTE51UVk",
+      "date": "09/17/2026, 05:24 AM, +0000 UTC",
+      "iso_date": "2026-09-17T05:24:55Z"
+    },
+    {
+      "position": 9,
+      "title": "NASA finds new once in a century crater on the Moon",
+      "source": {
+        "name": "Kuwait Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://kuwaittimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://kuwaittimes.com/article/49957/world/nasa-finds-new-once-in-a-century-crater-on-the-moon/",
+      "thumbnail": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/09/17/444595.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXBRbFpGYVROYVRXUm1hazlMVFJDYkF4anBCU2dLTWdNTnRSWQ",
+      "date": "09/17/2026, 10:40 AM, +0000 UTC",
+      "iso_date": "2026-09-17T10:40:42Z"
+    },
+    {
+      "position": 10,
+      "title": "Asteroid Carves 'Once-in-a-Century' Moon Crater, NASA Finds",
+      "source": {
+        "name": "Tempo.co English",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://en.tempo.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://en.tempo.co/read/2119832/asteroid-carves-once-in-a-century-moon-crater-nasa-finds",
+      "thumbnail": "https://statik.tempo.co/data/2026/09/18/id_1489408/1489408_720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWVEZXY0ZodlFubG1aaTFJVFJERUF4aW1CU2dLTWdhZE01Q01LUVk",
+      "date": "09/18/2026, 03:59 AM, +0000 UTC",
+      "iso_date": "2026-09-18T03:59:54Z"
+    },
+    {
+      "position": 11,
+      "title": "Only recently formed: NASA scan discovers new, 'once in a century' Moon crater",
+      "source": {
+        "name": "RTL Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://today.rtl.lu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://today.rtl.lu/news/world/nasa-scan-discovers-new-once-in-a-century-moon-crater-1697326045",
+      "thumbnail": "https://static-prod.rtl.lu/dims4/default/b1cfd97/2147483647/strip/true/crop/768x380+0+0/resize/1224x606!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2F35%2Fe8%2Ff5d1c8c5e7fee99b53ff1a8ecf59%2Fmedias",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1lVzF5T1UxdU1FRXRiRkIzVFJDZUFSaV9BaWdCTWdaRlFaRFZyQVk",
+      "date": "09/17/2026, 04:32 AM, +0000 UTC",
+      "iso_date": "2026-09-17T04:32:14Z"
+    },
+    {
+      "position": 12,
+      "title": "NASA orbiter spots massive 'once-in-a-century' crater on moon",
+      "source": {
+        "name": "fox17.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fox17.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexx Altman-devilbiss"
+        ]
+      },
+      "link": "https://fox17.com/news/nation-world/nasa-lunar-reconnaissance-orbiter-camera-spots-massive-once-in-a-century-impact-crater-on-moon-mcgetchin-solar-system-asteroid-comet",
+      "thumbnail": "https://fox17.com/resources/media2/16x9/1024/1174/0x224/80/1be43ae7-2927-45a6-aa59-a7fd91e4ef06-McGetchinLRONAC.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNSbk56T1VveGVHWkVYMGswVFJDZkF4ampCU2dLTWdhbE00Nk5LUVk",
+      "date": "09/18/2026, 08:58 PM, +0000 UTC",
+      "iso_date": "2026-09-18T20:58:49Z"
+    },
+    {
+      "position": 13,
+      "title": "NASA orbiter spots massive 'once-in-a-century' crater on moon",
+      "source": {
+        "name": "WTGS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://fox28savannah.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexx Altman-devilbiss"
+        ]
+      },
+      "link": "https://fox28savannah.com/news/nation-world/nasa-lunar-reconnaissance-orbiter-camera-spots-massive-once-in-a-century-impact-crater-on-moon-mcgetchin-solar-system-asteroid-comet?teaserSource=trending",
+      "date": "09/18/2026, 08:04 PM, +0000 UTC",
+      "iso_date": "2026-09-18T20:04:18Z"
+    },
+    {
+      "position": 14,
+      "title": "Once-in-a-century crater discovered on Moon",
+      "source": {
+        "name": "irishsun.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.irishsun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.irishsun.com/news/279314712/once-in-a-century-crater-discovered-on-moon",
+      "thumbnail": "https://chitra-api.kreatio.com/api/v1/wps/b7fa87f/14be23db-cdc7-407b-b4c6-9561ab62d81f/0/ZGE0NTcxYmEtYjk-630x420.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxaalo0WW5wdlZsaHRkamszVFJDM0FSaVRBaWdCTWdZUmQ1WklzZ2M",
+      "date": "09/18/2026, 12:23 AM, +0000 UTC",
+      "iso_date": "2026-09-18T00:23:00Z"
+    },
+    {
+      "position": 15,
+      "title": "‘Once-in-a-century event’: NASA scientists uncover MCG-sized crater on the moon’s surface",
+      "source": {
+        "name": "thewest.com.au",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thewest.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben O'Shea"
+        ]
+      },
+      "link": "https://thewest.com.au/technology/space/once-a-century-nasa-scientists-uncover-mcg-sized-crater-on-the-moons-surface-c-22883275",
+      "thumbnail": "https://images.thewest.com.au/publication/C-22883275/51ac09968039ebcaaff218ce4462b96ebe7017eb-16x9-x197y0w2608h1467.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURSbVZaVmxsbFRtOU1MVEpOVFJDZkF4ampCU2dLTWdaRlVJNjJzQVk",
+      "date": "09/18/2026, 01:34 AM, +0000 UTC",
+      "iso_date": "2026-09-18T01:34:00Z"
+    },
+    {
+      "position": 16,
+      "title": "NASA Orbiter Spots Massive New Lunar Crater Formed by Rare Asteroid Impact",
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://streamlinefeed.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://streamlinefeed.co.ke/news/nasa-orbiter-spots-massive-new-lunar-crater-formed-by-rare-asteroid-impact",
+      "thumbnail": "https://static01.nyt.com/images/2026/09/21/multimedia/21SCI-MOONCRATER-01-cmhk/21SCI-MOONCRATER-01-cmhk-videoSixteenByNine3000.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9OV1p4T1dSTGFWRjZWazQ1VFJDZkF4amlCU2dLTWdhcGhKU3ROUWM",
+      "date": "09/21/2026, 09:04 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:04:32Z"
+    },
+    {
+      "position": 17,
+      "title": "NASA's Moon orbiter makes once-in-a-century discovery, spots solar system's largest new crater—see picture",
+      "source": {
+        "name": "starlust.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://starlust.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://starlust.org/nas-as-spacecraft-spots-a-gigantic-new-crater-on-the-moonsee-picture/",
+      "thumbnail": "https://d3hedi16gruj5j.cloudfront.net/817324/uploads/48ad0200-b258-11f1-895c-d54070e6ab83_1200_630.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxUbVJGYkV4MWFFaDRTRW80VFJDUkF4ajhCU2dLTWdhaE00eU5MUVU",
+      "date": "09/17/2026, 10:39 AM, +0000 UTC",
+      "iso_date": "2026-09-17T10:39:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

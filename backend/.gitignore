@@ -1,0 +1,7 @@
+venv/
+.env
+*.env
+__pycache__/
+*.pyc
+retrace.db
+data/cache/

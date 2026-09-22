@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab11146acb3e4e56a441578",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5EreogqvvfDgjDo9cjm6Sdg06_CFbE45-voytFKMdWg/6ab11146acb3e4e56a441578.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5EreogqvvfDgjDo9cjm6Sdg06_CFbE45-voytFKMdWg/6ab11146acb3e4e56a441578.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5EreogqvvfDgjDo9cjm6Sdg06_CFbE45-voytFKMdWg/6ab11146acb3e4e56a441578.json_with_pixel_position",
+    "created_at": "2026-09-21 11:13:10 UTC",
+    "processed_at": "2026-09-21 11:13:10 UTC",
+    "google_url": "https://www.google.com/search?q=%22Did+Apple+really+just+introduce+the+iPhone+Duo%2C+or+is+this+story+based+on+information+that+was+already+reported+earlier%3F%22&oq=%22Did+Apple+really+just+introduce+the+iPhone+Duo%2C+or+is+this+story+based+on+information+that+was+already+reported+earlier%3F%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5EreogqvvfDgjDo9cjm6Sdg06_CFbE45-voytFKMdWg/6ab11146acb3e4e56a441578.html",
+    "total_time_taken": 0.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Did Apple really just introduce the iPhone Duo, or is this story based on information that was already reported earlier?\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Did Apple really just introduce the iPhone Duo, or is this story based on information that was already reported earlier?\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "leD82HiczVXdkqI4FH6AfY7xhh75kfanq6iuEFDpkVFUupUbCwEDisQmKK13-y77VLsvswG1RUe7Z-Zia1MlCcl3Ts7xfB_nz7_CIFr8_cc_fpKsyAPLpmlaRhij0Cs7eMnaZBs57AyHJHb8x-1GqpQcInElL5D6fuvN3rQFzY5H999xT7SmzSXQS7mJNJnaxJtTj29zwk5Y-lh8qSj0pUzKXlSuqK9pNewH2swsCxzfKHdZe0kB4L8bmg9gNg-AehtEj7Sf8mYYAGpFT7KcT_C0k-Y4oKL8RM7W1--Eez80QJBf3_Oje59QE3yEtG_GIRfDlceH4Mb5fQAZ4KNkr3jb54DAZS5Xxo1sjDMXoFU4uulPBugsTgpEUG5zwDi6QWd4aBSvVzMDeY_oGsBT6sBH6IMyUoOmDpwB0OBnxcZQq8vHq5qE8lVjXUSJy7HTmE48Gzi-ky9ikvEZDhscbpr-SDCh2-K2XW9h1TVr8y3S502P7xusM6W4ENuu5078CfeYv_MCf881KrX6XS4kh7wriRSVBHfGdGYkqJE45U5Z5o8ygu-0vfiPKbfA1SRleIBeKUqB2NnpwRzZBYj2bq0aQA8u_JheVg39tKEIAIhFxKnaEFyT0X59WmYy2gdChaeCY_kLCLr7pJ4cF3KW0x9TlC83FPnIKE1Gl8BzqmtIHYBTwvI5Nyk28NWMsZkGnp08IOecwVm5tItAsu8DLYp6SGBwTGo_Wqd86AVNI6e8n-kGmSaiRuqB8JlBH7x_iy50gAphFMvxQn9N_xPB3xz4cwiVzUEvF_QvyqYd97QVrnu73k7VzP6qbWp4pozQcD0A12WCl9Nf6DjO_0pI-36kHfrRbSFpPyUkw4C3-9F-eepHWSCyYRg3hAT3QvqxH4lHyKkfXQpJ7hSE5H_cj35VSPBDIR1FelVIcHE4LQoJ3hLSsR8VhRQ8nfejopBO_ehdSL_Vj_Dv9aNcV95-Om9O6zm62aRac_xmohFRImsnPFm9rVUh01690bcG6NMmNVsmD0vbDe8mgfsgC0_J1r2b0A384LmlV-mLICiBy4DVKvSY2LPDcMvM1yRhgiiJsbt2PCbxPSbo-TjyGGWN7xgcMwGhu_RBEhxvmUzgLoMjajPD8dJOArpOfDthUpswdkjdulvqfIXjhAI9Ow4DL36kV5eWYYwlzq65q1SxEvL8PB7ofMUO1nX8rdJ6XXU6aSSOERh-dSb2wsTxOoHTNlF8S5_tOrLf2S1e9KENo6W2dqyNJ2JdCfpE1b--1viXsdNszPTeUKyuuqOtUh1PFJw2Zu3KExSr0agb1KxNY9GvyYv1RFQ1AfFWs77QE9iNmyCPjUgwItANUjGqaKVl7EiUYSIC3w3wgijH4ZiSEwHTxnROgdGqAkOVS8SxJx7ZSFNn2qgKNYdz7l2ea9RKS5RsV5IolkgUS_y_7bRikw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=leD82HiczVXdkqI4FH6AfY7xhh75kfanq6iuEFDpkVFUupUbCwEDisQmKK13-y77VLsvswG1RUe7Z-Zia1MlCcl3Ts7xfB_nz7_CIFr8_cc_fpKsyAPLpmlaRhij0Cs7eMnaZBs57AyHJHb8x-1GqpQcInElL5D6fuvN3rQFzY5H999xT7SmzSXQS7mJNJnaxJtTj29zwk5Y-lh8qSj0pUzKXlSuqK9pNewH2swsCxzfKHdZe0kB4L8bmg9gNg-AehtEj7Sf8mYYAGpFT7KcT_C0k-Y4oKL8RM7W1--Eez80QJBf3_Oje59QE3yEtG_GIRfDlceH4Mb5fQAZ4KNkr3jb54DAZS5Xxo1sjDMXoFU4uulPBugsTgpEUG5zwDi6QWd4aBSvVzMDeY_oGsBT6sBH6IMyUoOmDpwB0OBnxcZQq8vHq5qE8lVjXUSJy7HTmE48Gzi-ky9ikvEZDhscbpr-SDCh2-K2XW9h1TVr8y3S502P7xusM6W4ENuu5078CfeYv_MCf881KrX6XS4kh7wriRSVBHfGdGYkqJE45U5Z5o8ygu-0vfiPKbfA1SRleIBeKUqB2NnpwRzZBYj2bq0aQA8u_JheVg39tKEIAIhFxKnaEFyT0X59WmYy2gdChaeCY_kLCLr7pJ4cF3KW0x9TlC83FPnIKE1Gl8BzqmtIHYBTwvI5Nyk28NWMsZkGnp08IOecwVm5tItAsu8DLYp6SGBwTGo_Wqd86AVNI6e8n-kGmSaiRuqB8JlBH7x_iy50gAphFMvxQn9N_xPB3xz4cwiVzUEvF_QvyqYd97QVrnu73k7VzP6qbWp4pozQcD0A12WCl9Nf6DjO_0pI-36kHfrRbSFpPyUkw4C3-9F-eepHWSCyYRg3hAT3QvqxH4lHyKkfXQpJ7hSE5H_cj35VSPBDIR1FelVIcHE4LQoJ3hLSsR8VhRQ8nfejopBO_ehdSL_Vj_Dv9aNcV95-Om9O6zm62aRac_xmohFRImsnPFm9rVUh01690bcG6NMmNVsmD0vbDe8mgfsgC0_J1r2b0A384LmlV-mLICiBy4DVKvSY2LPDcMvM1yRhgiiJsbt2PCbxPSbo-TjyGGWN7xgcMwGhu_RBEhxvmUzgLoMjajPD8dJOArpOfDthUpswdkjdulvqfIXjhAI9Ow4DL36kV5eWYYwlzq65q1SxEvL8PB7ofMUO1nX8rdJ6XXU6aSSOERh-dSb2wsTxOoHTNlF8S5_tOrLf2S1e9KENo6W2dqyNJ2JdCfpE1b--1viXsdNszPTeUKyuuqOtUh1PFJw2Zu3KExSr0agb1KxNY9GvyYv1RFQ1AfFWs77QE9iNmyCPjUgwItANUjGqaKVl7EiUYSIC3w3wgijH4ZiSEwHTxnROgdGqAkOVS8SxJx7ZSFNn2qgKNYdz7l2ea9RKS5RsV5IolkgUS_y_7bRikw"
+  }
+}

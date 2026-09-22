@@ -1,0 +1,1127 @@
+{
+  "search_metadata": {
+    "id": "6ab22f5c3ee4c2a5be9c34f0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0LnOypZqpleK6crM_YDaNGV-tv873tMScQxeJRfSvWI/6ab22f5c3ee4c2a5be9c34f0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0LnOypZqpleK6crM_YDaNGV-tv873tMScQxeJRfSvWI/6ab22f5c3ee4c2a5be9c34f0.md",
+    "created_at": "2026-09-22 07:33:48 UTC",
+    "processed_at": "2026-09-22 07:33:48 UTC",
+    "google_news_url": "https://news.google.com/search?q=Federal+Reserve+announces+massive+emergency+interest+rate+cut",
+    "raw_html_file": "https://serpapi.com/searches/0LnOypZqpleK6crM_YDaNGV-tv873tMScQxeJRfSvWI/6ab22f5c3ee4c2a5be9c34f0.html",
+    "total_time_taken": 1.83
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Federal Reserve announces massive emergency interest rate cut"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "24 Hours Until the Fed’s Big Announcement: Here’s What We Know as of Now",
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christy Bieber"
+        ]
+      },
+      "link": "https://247wallst.com/investing/2026/06/16/24-hours-until-the-feds-big-announcement-heres-what-we-know-as-of-now/",
+      "thumbnail": "https://247wallst.com/wp-content/uploads/2025/07/imageForEntry41-5vt-400x267.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtja2MxYzBKVlYxQlFMVE0yVFJDTEFoaVFBeWdLTWdtTlFaQzJzT2V4cGdJ",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Federal Reserve cuts rates to zero and launches massive $700 billion quantitative easing program",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Steve Liesman"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/15/federal-reserve-cuts-rates-to-zero-and-launches-massive-700-billion-quantitative-easing-program.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106292876-1576160131554rts2ujd4.jpg?v=1585221193&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUMlZTWWtZeGJHTlNOMWs0VFJDZkF4ampCU2dLTWdZcE00UVRIUWc",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Fed goes big with interest rate cut in a bid to head off an economic slowdown",
+      "source": {
+        "name": "NBC News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rob Wile"
+        ]
+      },
+      "link": "https://www.nbcnews.com/business/economy/interest-rate-cut-federal-reserve-decision-how-much-rcna171453",
+      "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2024-09/240917-jerome-powell-ew-200p-d8e9aa.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNWelozYkU0NWJXWm1WQzFoVFJERUF4aW1CU2dLTWdhbE5ZTE5wUVk",
+      "date": "09/18/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-18T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "WATCH: Powell announces first interest rate cut of the year",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christopher Rugaber"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/economy/watch-live-powell-holds-news-briefing-after-feds-highly-anticipated-interest-rate-decision",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-09-17T192104Z_486627001_RC2VTGANUB34_RTRMADP_3_USA-FED-1024x683.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNNQzFmZG5WRWRFSmZhR1UxVFJERUF4aW1CU2dLTWdZeFJJeHdvUWc",
+      "date": "09/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-16T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Big Changes Are Coming to the Federal Reserve in 2026—This Is What It Means for Interest Rates",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Keith Griffith"
+        ]
+      },
+      "link": "https://finance.yahoo.com/news/big-changes-coming-federal-2026-110000843.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/a26bcf4493e573c61f0cba9ff9f3594fe68fe7e5d61d6e29f86623ed69d23ed2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frealtor_com_468%2F2f4eba3cdba101060bd156395a12e937",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxlVmcwVmxob2FqWkRWVk5PVFJDZkF4ampCU2dLTWdhbE5wb01IZ2s",
+      "date": "01/01/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-01T08:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Fed Announces Big Rate Cut (Published 2024)",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeanna Smialek",
+          "Joseph Smith",
+          "Joe Rennison"
+        ]
+      },
+      "link": "https://www.nytimes.com/live/2024/09/18/business/fed-interest-rates",
+      "thumbnail": "https://static01.nyt.com/images/2024/09/18/multimedia/18dc-fed-blog-WRITETHRU/18dc-fed-UPDATED-top-fmvk-videoSixteenByNineJumbo1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhVXh1VkVvemREUXhMV0V6VFJDZkF4ampCU2dLTWdZMUpKcHhtUWs",
+      "date": "09/18/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-18T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Federal Reserve slashes interest rates to zero as part of wide-ranging emergency intervention",
+      "source": {
+        "name": "washingtonpost.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Heather Long"
+        ]
+      },
+      "link": "https://www.washingtonpost.com/business/2020/03/15/federal-reserve-slashes-interest-rates-zero-part-wide-ranging-emergency-intervention/",
+      "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fd1i4t8bqe7zgj6.cloudfront.net%2F03-16-2020%2Ft_cf3253a61ec54ca8a65a5cf5427752ca_name_1___1920x1080___30p_00_00_05_26_Still014.jpg&w=960",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtRMlZvVWxGeU4yeENhMkZuVFJDZkF4ampCU2dLTWdZcFZacXZJUWs",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "What did the Fed do in response to the COVID-19 crisis?",
+      "source": {
+        "name": "Brookings",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.brookings.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Wessel"
+        ]
+      },
+      "link": "https://www.brookings.edu/articles/fed-response-to-covid19/",
+      "thumbnail": "https://www.brookings.edu/wp-content/uploads/2020/03/shutterstock_1647268288.jpg?quality=50&w=1500",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTVNVU10V0RsMlNFUjZZV2RmVFJDNUF4aTNCU2dLTWdzQkFJWnNJYVV0N3ZtY1BR",
+      "date": "06/27/2023, 08:33 PM, +0000 UTC",
+      "iso_date": "2023-06-27T20:33:26Z"
+    },
+    {
+      "position": 9,
+      "title": "Federal Funds Rate History: 1980 Through The Present",
+      "source": {
+        "name": "bankrate.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankrate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Foster"
+        ]
+      },
+      "link": "https://www.bankrate.com/banking/federal-reserve/history-of-federal-funds-rate/",
+      "thumbnail": "https://www.bankrate.com/2022/03/15104936/BR_History_of_the_Fed_funds_rate.jpg?auto=webp&optimize=high&crop=16:9",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRZM2MyTFdKa2FXeE9aVUpuVFJDZkF4ampCU2dLTWdZUllJTE1LQWc",
+      "date": "03/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-24T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Federal Reserve announces first emergency rate cut since the financial crisis | CNN Business",
+      "source": {
+        "name": "CNN",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cnn.com/2020/03/03/economy/federal-reserve-rate-cut",
+      "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/200303100235-01-jerome-powell-0212.jpg?q=x_6,y_6,h_1684,w_2993,c_crop/w_800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5SMGcxYWxRMk0xRm5MVEJXVFJDZkF4ampCU2dLTWdZTldJeUhyZ1k",
+      "date": "03/03/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-03T08:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "\"Baked in:\" Why markets don't always react to big news",
+      "source": {
+        "name": "marketplace.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketplace.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kai Ryssdal",
+          "Sofia Terenzio"
+        ]
+      },
+      "link": "https://www.marketplace.org/story/2026/02/26/baking-can-help-explain-why-markets-dont-always-react-to-big-news",
+      "thumbnail": "https://img.apmcdn.org/683a9bef9463da7fc93ede152d647f0a4f726a6a/widescreen/351a10-20260226-baking-a-cake-600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBiR3RvWjFOeGNVNURiMFZYVFJEUkFoallCQ2dLTWdrQkU0NHhPV1hJYUFJ",
+      "date": "02/26/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-26T08:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Fed takes emergency steps to slash rates and ease bank rules",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christopher Rugaber"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/economy/fed-slashes-rate-to-near-zero-eases-lending-rules",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2019/12/2019-12-11T201124Z_2063590386_RC28TD9RKD9G_RTRMADP_3_USA-FED-1024x683.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdTRWhJVG5OcVJWa3phelV0VFJERUF4aW1CU2dLTWdhbE5ab01IZ2s",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Trump Could Soon Name A New Fed Chair. What Does It Mean For Rate Cuts?",
+      "source": {
+        "name": "bankrate.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankrate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Foster"
+        ]
+      },
+      "link": "https://www.bankrate.com/banking/federal-reserve/fomc-what-to-expect/",
+      "thumbnail": "https://www.bankrate.com/brp/2025/10/05143634/1212234090012925.antzKe2KfKvTSKuOdIvK_height640.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxialZ6Tm1kak1sRkZPVkUzVFJEb0FoaUFCU2dLTWdZcFJZck9uUWc",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Fed cuts rates by half a percentage point to combat coronavirus slowdown",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Cox"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/03/fed-cuts-rates-by-half-a-percentage-point-to-combat-coronavirus-slowdown.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106422465-1583256951146rts34kgh.jpg?v=1619633843&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNVXg0VlVKT1QzVXpTVmhRVFJDZkF4ampCU2dLTWdZOUk1NHlHUW8",
+      "date": "03/03/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-03T08:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Fed Slashes Rates to Near-Zero and Unveils Sweeping Program to Aid Economy (Published 2020)",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Neil Irwin",
+          "Jeanna Smialek"
+        ]
+      },
+      "link": "https://www.nytimes.com/2020/03/15/business/economy/federal-reserve-coronavirus.html",
+      "thumbnail": "https://static01.nyt.com/images/2020/03/16/business/16virus-dc-fed-printsub/merlin_161373714_d58c7fc0-3d34-403e-a6e7-3524c6bd21ab-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJjRWMwTmxoQk1tRkZlV3BCVFJDUUF4allCQ2dLTWdhNUVxUXlrUXM",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "What the Fed cutting interest rates to zero means for you",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jessica Dickler"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/03/heres-what-this-surprise-fed-rate-cut-means-for-you.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106225798-1600378120585-fed.jpg?v=1616168074&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFXa1ZVZG1kNFNtYzNjMUV6VFJDZkF4ampCU2dLTWdhSkZJcW1EZ2s",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "The Federal Reserve has taken massive steps to help markets. Here's what's left in its arsenal",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Cox"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/15/the-federal-reserve-has-taken-massive-steps-to-help-markets-heres-whats-left-in-its-arsenal.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106422456-1583256702102rts34kgj.jpg?v=1636411257&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9iR3hYYkU0M1pIWnVPRUppVFJDZkF4ampCU2dLTWdhNU5JcHdIUWs",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Fed slashes interest rates by a half point, an aggressive start to its first easing campaign in four years",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Cox"
+        ]
+      },
+      "link": "https://www.cnbc.com/2024/09/18/fed-cuts-rates-september-2024-.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108036147-1726687763293-gettyimages-2172944678-_m010185_bsbvoiyl.jpeg?v=1731007645&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5UbTVCZEZsVlgxTkxhVTB0VFJDZkF4ampCU2dLTWdZOU00b3pHUW8",
+      "date": "09/18/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-18T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Federal Reserve to announce interest rate cut amid economic slowdown, pressure from President Trump",
+      "source": {
+        "name": "WPTZ",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mynbc5.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amy Lu",
+          "Marissa Mizroch"
+        ]
+      },
+      "link": "https://www.mynbc5.com/article/federal-reserve-lower-interest-rates-trump/66086286",
+      "thumbnail": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/national-desk/5127564-5127564.jpg?crop=1xw%3A0.75000000000000000xh%3Bcenter%2Ctop&resize=640%3A*",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWMWx3U205SlJHMDRjR3RwVFJDb0FSaXNBaWdCTWdZQm9JSVd5QUk",
+      "date": "09/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-14T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "What time is the Federal Reserve decision? What to know as interest rate change expected",
+      "source": {
+        "name": "NBC 5 Chicago",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcchicago.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nbcchicago.com/news/local/what-time-is-the-fed-rate-decision-what-to-know-as-interest-rate-change-expected/3551200/",
+      "thumbnail": "https://media.nbcchicago.com/2024/09/107197199-1676935846024-gettyimages-1359344663-375259981_3da709.jpeg?quality=85&strip=all&resize=1200%2C675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHhRa0ZCU21kR1dEZElaelJIVFJDZkF4ampCU2dLTWdPbEJTQQ",
+      "date": "09/18/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-18T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Rate cuts: US goes to almost zero and launches huge stimulus programme",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/news/business-51901998",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/B730/production/_111269864_gettyimages-1179027620-1.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtZamRhWW5OWmJUUkRkbUl6VFJDb0FSaXNBaWdCTWdiSk1ZN1ZvQWc",
+      "date": "03/16/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-16T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Monday’s dramatic Federal Reserve announcements, explained",
+      "source": {
+        "name": "vox.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.vox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matthew Yglesias"
+        ]
+      },
+      "link": "https://www.vox.com/2020/3/23/21190712/federal-reserve-unlimited-quantitative-easing-coronavirus",
+      "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19825727/1204925545.jpg.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZka3N4Tm1WT2NWOWhWVWt4VFJERUF4aW1CU2dLTWdZWk00WVRuUWs",
+      "date": "03/23/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-23T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "The Federal Reserve ends QT: Key market liquidity insights",
+      "source": {
+        "name": "Silicon Valley Bank",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.svb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jason Graveley"
+        ]
+      },
+      "link": "https://www.svb.com/market-insights/us-treasuries/the-federal-reserve-ends-qt-key-market-liquidity-insights/",
+      "thumbnail": "https://www.svb.com/cdn-cgi/image/format=auto,quality=65,fit=scale-down,width=921/contentassets/197f954cd9a24fe79cbcdaea998ce802/scarcer-liquidity-conditions.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBNRGh6Tm1Kb2VtNHhWWGhuVFJDZ0FSaTdBaWdCTWdZUkE0aExDUXc",
+      "date": "11/25/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-25T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Federal Reserve lent $300 billion in emergency funds to banks in the past week",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christopher Rugaber"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/2023-03-10T174319Z_291082919_RC25RZ9HZV4A_RTRMADP_3_GLOBAL-MARKETS-BANKS-1024x683.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZWV0ZyZGpJMllrTkJNRTlpVFJERUF4aW1CU2dLTWdZaEJaeXNrUXM",
+      "date": "03/16/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-03-16T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Federal Reserve Cuts Rates by Half Percentage Point to Combat Virus Fear",
+      "source": {
+        "name": "wsj.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nick Timiraos"
+        ]
+      },
+      "link": "https://www.wsj.com/articles/federal-reserve-cuts-interest-rates-by-half-percentage-point-11583247606",
+      "thumbnail": "https://images.wsj.net/im-159992/?size=1.5",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU1hME5FVVhvNFMwWXphVVZqVFJERUF4aW1CU2dLTWdB",
+      "date": "03/03/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-03T08:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Federal Funds Rate History 1990 to 2026",
+      "source": {
+        "name": "Forbes",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Taylor Tepper"
+        ]
+      },
+      "link": "https://www.forbes.com/advisor/investing/fed-funds-rate-history-1/",
+      "thumbnail": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/08/history_of_fed_decisions.jpeg.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtjekJZVlZwVllVZDVWSFZ2VFJDZkF4ampCU2dLTWdZWmNvak9xUVk",
+      "date": "09/16/2026, 06:17 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:17:00Z"
+    },
+    {
+      "position": 27,
+      "title": "WATCH: Trump holds Cabinet meeting as government shutdown deadline looms",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-cabinet-meeting-as-government-shutdown-deadline-looms",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-29T181945Z_428644263_RC25BJAMM7WV_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNhVlpEYlZCVGVrRnZjbnBvVFJERUF4aW1CU2dLTWdZQlpKS1B0UVk",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Fed Cuts Rates to Zero and Launches QE Program to Stem Crisis",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Caleb Silver"
+        ]
+      },
+      "link": "https://www.investopedia.com/federal-reserve-cuts-interest-rates-to-zero-to-fight-virus-slowdown-4799789",
+      "thumbnail": "https://www.investopedia.com/thmb/or_jKSANjHqj2yibmxTllwMNOt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/federal-reserve-chair-jerome-powell-announces-fed-decision-on-interest-rates-1197381784-ac8fe4a6c1bb42b0963d8f07f45a9622.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhjRWROUTBoeFlVODJRMjF2VFJDTUF4alNCQ2dLTWdrcEZvYk5GU3VEMVFB",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Federal Reserve announces interest rate cuts at Grand Teton National Park event",
+      "source": {
+        "name": "Wyoming Public Media",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wyomingpublicmedia.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hanna Merzbach"
+        ]
+      },
+      "link": "https://www.wyomingpublicmedia.org/2024-08-23/federal-reserve-announces-interest-rate-cuts-at-central-bankers-gathering-in-grand-teton-national-park",
+      "thumbnail": "https://npr.brightspotcdn.com/dims4/default/2787a32/2147483647/strip/true/crop/889x709+0+0/resize/880x702!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F93%2F3f6b33324268905099ff187d358d%2F04e1bbec-fbcd-4409-8019-52750c084c08-1-105-c.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFNSEJYYjNneGFVSlFiM0JqVFJEdkF4anNCQ2dLTWdZQjRJREgyQUU",
+      "date": "08/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-08-23T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "From lifeline to lifestyle: How quantitative easing became the Fed’s default setting",
+      "source": {
+        "name": "Competitive Enterprise Institute",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cei.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Steve Swedberg"
+        ]
+      },
+      "link": "https://cei.org/blog/from-lifeline-to-lifestyle-how-quantitative-easing-became-the-feds-default-setting/",
+      "thumbnail": "https://cei.org/wp-content/uploads/2022/11/Fed-building-GettyImages-468954942-578x324-c-default.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5SVFIwVmxaUk5GVXRObko2VFJERUFoakNCQ2dLTWdZbEZLRE5GUW8",
+      "date": "04/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-16T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Federal Reserve to lend additional $1 trillion a day to large banks",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christopher Rugaber"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/economy/federal-reserve-to-lend-additional-1-trillion-a-day-to-large-banks",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2020/03/2020-03-20T205546Z_1517746283_RC2WNF9GH01T_RTRMADP_3_HEALTH-CORONAVIRUS-FED-LENDING-1024x587.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhkV05DWWxsU1dVMTBWbWRDVFJDakF4amNCU2dLTWdtcE1KRE9sYXA3a0FF",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "How do the Federal Reserve’s new tools really work?",
+      "source": {
+        "name": "Stanford Institute for Economic Policy Research (SIEPR)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://siepr.stanford.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ramin Toloui"
+        ]
+      },
+      "link": "https://siepr.stanford.edu/publications/policy-brief/how-do-federal-reserves-new-tools-really-work",
+      "thumbnail": "https://siepr.stanford.edu/sites/g/files/sbiybj16606/files/styles/responsive_large/public/media/image/pb-mar20-fig1.png?itok=IJAtCdc0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVWVEF4Vkc0elRGcENjMmN3VFJEMkFoamdBeWdLTWdZQlU0N3NQUVk",
+      "date": "12/15/2021, 06:18 PM, +0000 UTC",
+      "iso_date": "2021-12-15T18:18:40Z"
+    },
+    {
+      "position": 33,
+      "title": "Will your savings account’s rate change if the Fed hikes or cuts rates? What you should know",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cassie Bottorff",
+          "Glen Luke Flanagan"
+        ]
+      },
+      "link": "https://fortune.com/article/how-the-federal-reserve-impacts-bank-accounts/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2025/03/GettyImages-939248364-e1742401179968.jpg?format=webp&w=1440&quality=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdjSFpVWW5CeWRtUnZTSE50VFJERUF4aW1CU2dLTWdtQkVvQVBZU0RRQkFN",
+      "date": "03/19/2025, 06:33 PM, +0000 UTC",
+      "iso_date": "2025-03-19T18:33:29Z"
+    },
+    {
+      "position": 34,
+      "title": "Markets In Europe, Asia Plummet After Central Banks Slash Rates Amid Coronavirus",
+      "source": {
+        "name": "npr.org",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.npr.org/2020/03/15/816175414/fed-cuts-interest-rates-to-near-zero",
+      "thumbnail": "https://media.npr.org/assets/img/2020/03/15/gettyimages-1173649780-cbe9108c9c11a6ae2c6d3bc8f96a2149b28fc2a4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdXVEZXZVhkelIwdGFTRlF3VFJEZkF4aUFCU2dLTWdiRkVxRDBFQXM",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Stock market live Tuesday: Dow falls nearly 800, Fed rate cut backfires, 10-year below 1%",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pippa Stevens",
+          "Yun Li",
+          "Maggie Kate Fitzgerald"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/03/stock-market-today-live.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106419724-1583164885503rts34fgq.jpg?v=1715713592&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRWbkZXVFhBMFZ5MDJjRzh4VFJDZkF4ampCU2dLTWdtQk1wNHluU21paVFJ",
+      "date": "03/03/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-03T08:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Stocks Hit Record High a Day After Fed’s Big Interest Rate Cut (Published 2024)",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Rennison",
+          "Danielle Kaye"
+        ]
+      },
+      "link": "https://www.nytimes.com/2024/09/19/business/stock-market-federal-reserve.html",
+      "thumbnail": "https://static01.nytimes.com/newsgraphics/2024-09-19-s-and-p-500-new-peak/cae26d1c-01de-424b-aecd-19c748a46332/_assets/s-and-p-500-new-peak-335.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhXbEpRWkRaaE9EQlFTbWh5VFJDdkJSaS1BeWdLTWdPRm9Rdw",
+      "date": "09/19/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-19T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Federal Reserve launches special fund to keep credit flowing in U.S. economy during coronavirus scare",
+      "source": {
+        "name": "washingtonpost.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Heather Long"
+        ]
+      },
+      "link": "https://www.washingtonpost.com/business/2020/03/17/federal-reserve-launches-10-billion-special-fund-keep-credit-flowing-us-economy/",
+      "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PPE37EDHVUI6VMMZHKLZTRKFCI.jpg&w=1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROSGhqVDA4NFRVZFlSbGw1VFJDM0F4aTZCU2dLTWdaRmtvNzBOQVk",
+      "date": "03/17/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-17T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "India's central bank is not part of any globally coordinated action from its peers, Citi says",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cnbc.com/2020/03/17/rbi-not-part-of-any-globally-coordinated-action-from-its-peers-citi.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106447092-1584405865746gettyimages-1198896375.jpeg?v=1734001605&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFRakpDWjBwbGJ6bDZVbGxCVFJDZkF4ampCU2dLTWdZcFJZeXVzUVk",
+      "date": "03/17/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-17T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Federal Reserve cuts interest rates: What’s next for credit cards, auto loans, mortgages",
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Susan Tompor"
+        ]
+      },
+      "link": "https://www.usatoday.com/story/money/2025/09/24/fed-cuts-rates-credit-cards/86324993007/",
+      "thumbnail": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/11/USAT/86100814007-20250826-t-055332-z-393889455-rc-27-xfa-0-d-28-b-rtrmadp-3-fedratesmorganstanley.JPG?crop=3980,2240,x0,y154&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFaVU16UVVWelRtd3RXVkJEVFJDb0FSaXNBaWdCTWdhNU01QlJwUWM",
+      "date": "09/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-24T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Trump Claims ‘Most Aggressive Housing Reform in History’ Will Lower Costs",
+      "source": {
+        "name": "Realtor.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.realtor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Keith Griffith"
+        ]
+      },
+      "link": "https://www.realtor.com/news/real-estate-news/trump-speech-housing-reform-mortgages/",
+      "thumbnail": "https://na.rdcpix.com/b5412025f83631fe13c316d6bca75ee5w-c2757061293srd_w375_q80.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjV3N5VTJKeFgyNU9NbUpuVFJEVEFSajNBaWdLTWdhWlFJaXRuUWs",
+      "date": "12/18/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-18T08:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Interest rates are at their lowest since 2008 — What does that mean?",
+      "source": {
+        "name": "learn.robinhood.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://learn.robinhood.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://learn.robinhood.com/articles/the-fed-cut-interest-rates-to-zero-what-does-that-mean/",
+      "thumbnail": "https://images.ctfassets.net/lnmc2aao6j57/4QF41J0u7fGeJ0Yqb4Np2U/11d64d187041846a499afbfb4779604e/info-federal_funds_rate-mobile.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5OR1ZCZWpJMWFWZEdTVEJsVFJEWUF4aUtCU2dLTWdNSmNnbw",
+      "date": "01/06/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-06T08:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Powell's gloomy outlook has investors predicting the Fed may make another big move soon",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patti Domm"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/05/13/powells-gloomy-outlook-has-investors-predicting-the-fed-may-make-another-big-move-soon.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106422465-1583256951146rts34kgh.jpg?v=1619633843&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNVXg0VlVKT1QzVXpTVmhRVFJDZkF4ampCU2dLTWdZOUk1NHlHUW8",
+      "date": "05/13/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-05-13T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "How the Federal Reserve’s “discount window” works",
+      "source": {
+        "name": "marketplace.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketplace.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amy Scott"
+        ]
+      },
+      "link": "https://www.marketplace.org/story/2020/03/16/how-federal-reserves-discount-window-works",
+      "thumbnail": "https://img.apmcdn.org/8da58d9e001d1193854d40d94a897d7b68e850e7/uncropped/56ee9b-2020-03-powell-600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpZbDgyWm1OUWRsaFRPVVZCVFJEU0FoallCQ2dLTWdhWk41eEtuZ2s",
+      "date": "03/16/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-16T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "10-year Treasury yield falls below 0.8% after Fed's emergency move to cut rates to zero",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yun Li",
+          "Elliot Smith"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/16/treasury-yields-fall-after-fed-cuts-rates-to-zero.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106342977-1579296365984gettyimages-180961577.jpeg?v=1744554408&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJWVWRuU25OSk0xWnViekJMVFJDZkF4ampCU2dLTWdtQlFJYXJMS1l0cVFJ",
+      "date": "03/16/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-16T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Stock markets reeling after Fed's emergency coronavirus cuts",
+      "source": {
+        "name": "cbsnews.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stephen Gandel"
+        ]
+      },
+      "link": "https://www.cbsnews.com/news/stock-market-dow-federal-reserve-interest-rate-cut-asian-markets-global-stocks/",
+      "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2020/03/09/072c992f-0406-4e03-9435-907df74786af/thumbnail/640x360/a0dc7ad4aaeeb9b35a3ed532dcbb2387/ap-20069079887633.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNkVzh5UmxkVFZWUkdORnBPVFJEb0FoaUFCU2dLTWdhQllZelZKQWc",
+      "date": "03/16/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-16T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Even with $1 trillion stimulus, hit to economy and employment from virus will be big",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patti Domm"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/17/even-with-1-trillion-stimulus-hit-to-economy-and-employment-will-be-big.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106447813-1584445332046gettyimages-1212913539.jpeg?v=1585067218&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5VV1YyVnpWdVRGUjBWa2xSVFJDZkF4ampCU2dLTWdZVk1JeVRKQVk",
+      "date": "03/17/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-17T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Fed Cuts Half Point in Emergency Move Amid Spreading Virus",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Steve Matthews",
+          "Craig Torres"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2020-03-03/fed-cuts-rates-half-point-in-emergency-move-amid-spreading-virus",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDqRfr9CDeXc/v258/620x-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdhekp3T1dWUFUyWlpObEZ3VFJEY0FoanNCQ2dLTWdZVlNJS0lvZ2c",
+      "date": "03/03/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-03T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "The Fed is on 'wartime' footing and still may be asked to do more",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Cox"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/04/11/coronavirus-update-the-fed-is-on-wartime-footing-and-still-may-be-asked-to-do-more.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106422465-1583256951146rts34kgh.jpg?v=1619633843&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNVXg0VlVKT1QzVXpTVmhRVFJDZkF4ampCU2dLTWdZOUk1NHlHUW8",
+      "date": "04/11/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-04-11T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Could the Federal Reserve have prevented the financial crisis?",
+      "source": {
+        "name": "marketplace.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketplace.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Brancaccio"
+        ]
+      },
+      "link": "https://www.marketplace.org/story/2018/01/22/could-federal-reserve-have-prevented-financial-crisis",
+      "thumbnail": "https://img.apmcdn.org/a74df9d9c94fc4785aa497d12518116c16fb9410/uncropped/cfe085-2018-01-gettyimages-79157159-600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtlV2xyYkZadVEyaFdNRTlKVFJETkFoallCQ2dLTWdZSlVJS3JQQUk",
+      "date": "01/22/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-01-22T08:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Giant Trump statue holding Bitcoin displayed outside US Capitol to mark Fed rate decision",
+      "source": {
+        "name": "WZTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fox17.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fox17.com/news/nation-world/washington-dc-president-donald-trump-bitcoin-statue-federal-reserve-interest-rate-cut-decision-us-capitol-building-cryptocurrency-wall-street-financial-markets-digital",
+      "thumbnail": "https://fox17.com/resources/media/da82491a-ed74-418b-97c1-26657ece2f8b-jumbo16x9_InflationFedInterestRatesFebruary24.jpg?1677270051680",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW1PVkpXYnprMk5GOXZWVXhUVFJDZkF4ampCU2dLTWdNQllBZw",
+      "date": "09/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-17T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "🚨 The Federal Reserve holds an emergency meeting amidst market disruptions.. and eyes on cryptocurrencies 🇺🇸",
+      "source": {
+        "name": "Binance",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.binance.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.binance.com/en/square/post/32343796970097",
+      "thumbnail": "https://public.bnbstatic.com/static/content/square/images/8ef8499fda9b464782bb18326f4d3a39.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVVVUZHVjJkNFVUZENVVkpJVFJDTEF4aS1CU2dLTWdB",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-13T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Fed Announces Emergency Rate Cut",
+      "source": {
+        "name": "Finimize",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finimize.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finimize.com/content/brief-2020-03-04-story-1",
+      "date": "03/04/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-04T08:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "5 things to know before the stock market opens Monday",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matthew Belvedere"
+        ]
+      },
+      "link": "https://www.cnbc.com/2020/03/16/5-things-to-know-before-the-stock-market-opens-march-16-2020.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106435259-1583867632610gettyimages-1206419759.jpeg?v=1583867689&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZXREZSV25KTGIxbHdhVkZMVFJDZkF4ampCU2dLTWdZTkVJclVOQVk",
+      "date": "03/16/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-16T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Rate cuts: US goes to almost zero and launches huge stimulus programme",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.co.uk/news/business-51901998",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/B730/production/_111269864_gettyimages-1179027620-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhVMDlKWlZCWFNFbG1YekJKVFJDZkF4ampCU2dLTWdiRlFZN1ZvQWc",
+      "date": "03/16/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-16T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Stocks hit record highs after Fed sticks to low rates even as it tapers bond buys",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lydia Moynihan"
+        ]
+      },
+      "link": "https://nypost.com/2021/11/03/federal-reserve-announces-tapering-begins-this-month-leaves-rates-unchanged/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/10/fed-powell-says-no-rate-hike.jpg?quality=75&strip=all&w=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRabEJmWXpsTk9GRkRhVzlzVFJERUF4aW1CU2dLTWdhcFpaTE5LUWM",
+      "date": "11/03/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-11-03T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "The Fed’s Actions in 2008: What the Transcripts Reveal (Published 2014)",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peter Eavis",
+          "Binyamin Appelbaum",
+          "Nelson Schwartz"
+        ]
+      },
+      "link": "https://www.nytimes.com/interactive/2014/02/21/business/federal-reserve-2008-transcripts.html",
+      "thumbnail": "https://static01.nyt.com/images/2014/02/21/business/federal-reserve-2008-transcripts-1393003908376/federal-reserve-2008-transcripts-1393003908376-videoLarge.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJabWxITTFOblZsSjNMWEJRVFJEQ0F4aXFCU2dLTWdNTkpCUQ",
+      "date": "02/21/2014, 08:00 AM, +0000 UTC",
+      "iso_date": "2014-02-21T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "A New Fed Regime Is Coming: What Kevin Warsh’s Criticism of Powell Means for Stocks and Rates",
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rich Duprey"
+        ]
+      },
+      "link": "https://247wallst.com/investing/2026/04/29/a-new-fed-regime-is-coming-what-kevin-warshs-criticism-of-powell-means-for-stocks-and-rates/",
+      "thumbnail": "https://247wallst.com/wp-content/uploads/2024/02/GettyImages-1975760653.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFTSGRmTkhsbVdGSm1ORFIwVFJERUF4aW1CU2dLTWdZWk9KeHBuZ2s",
+      "date": "04/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-29T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "What the 'Carry Trade' Had to Do With Monday's Stock Market Rout",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Colin Laidley"
+        ]
+      },
+      "link": "https://www.investopedia.com/what-the-carry-trade-had-to-do-with-monday-stock-market-rout-8690861",
+      "thumbnail": "https://www.investopedia.com/thmb/7A7_x1beCHa39VFE42lx1gCjF8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2165323179-8451a4d333cb45ff95c8559ec4650c21.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdXWGhmYlZwM1FURnFSV2hLVFJERUF4aW1CU2dLTWdhSmNKS1FxQWM",
+      "date": "08/06/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-08-06T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Modern History of Surprise Rate Cuts: Do They Actually Work?",
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jon C. Ogg"
+        ]
+      },
+      "link": "https://247wallst.com/economy/2020/03/03/modern-history-of-surprise-rate-cuts-do-they-actually-work/",
+      "thumbnail": "https://247wallst.com/wp-content/uploads/2018/08/thinkstockphotos-med241031c.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhiakZqVlhKaVZrWlZiRlZ6VFJDZkF4ampCU2dLTWdZaFpKQ05yUVk",
+      "date": "03/03/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-03T08:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "COVID-19 U.S. Economic Relief: Stimulus Measures Explained",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gabe Alpert"
+        ]
+      },
+      "link": "https://www.investopedia.com/government-stimulus-efforts-to-fight-the-covid-19-crisis-4799723",
+      "thumbnail": "https://www.investopedia.com/thmb/2qeYRGD3uyfG_DvnS5YS5PPZcZ4=/375x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1211816424-567858f246b94d3483825723cf1b1a8b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRiMHcyUTNSeE1EbFRPSFZGVFJENkFSajNBaWdLTWdhVkZvd3BGZ28",
+      "date": "03/13/2020, 11:02 PM, +0000 UTC",
+      "iso_date": "2020-03-13T23:02:39Z"
+    },
+    {
+      "position": 61,
+      "title": "Federal Reserve slashes interest rates to nearly zero",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Seager",
+          "Larry Elliott"
+        ]
+      },
+      "link": "https://www.theguardian.com/business/2008/dec/16/federal-reserve-interest-rates-cut",
+      "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2008/02/28/0228_bernanke_460x276.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFkUzFTUlhwWGVGbFRjRXRhVFJDVUFoak1BeWdLTWdZeE5KYVBuUWc",
+      "date": "12/16/2008, 08:00 AM, +0000 UTC",
+      "iso_date": "2008-12-16T08:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "US Fed slashes key interest rate, rolls out massive response to pandemic",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/business/us-fed-slashes-key-interest-rate-rolls-out-massive-response-to-pandemic-814153.html",
+      "thumbnail": "https://media.assettype.com/deccanherald/import/sites/dh/files/article_images/2020/04/23/470531-01-02-1584326165.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxNVkUyWVdSalFteHBiRkpHVFJERUF4aW1CU2dLTWdB",
+      "date": "03/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-15T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "US Fed slashes key interest rate, rolls out massive response to pandemic",
+      "source": {
+        "name": "Macau Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://macaubusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://macaubusiness.com/us-fed-slashes-key-interest-rate-rolls-out-massive-response-to-pandemic/",
+      "date": "03/16/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-16T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Handling Your Money When the Market Is Rough",
+      "source": {
+        "name": "WBUR",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wbur.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.wbur.org/npr/18307397/handling-your-money-when-the-market-is-rough",
+      "date": "01/22/2008, 08:00 AM, +0000 UTC",
+      "iso_date": "2008-01-22T08:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "U.S. announces $85 billion bailout of AIG",
+      "source": {
+        "name": "cbsnews.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cbsnews.com/news/us-announces-85-billion-bailout-of-aig/",
+      "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2008/09/16/4c827197-a645-11e2-a3f0-029118418759/thumbnail/1200x630/05ddfc8e95f5f817386d1257c8c729bd/image4452106x.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlWVXBvZDJodlVsYzBiRGhIVFJEQ0FSanlBaWdLTWdZQmNwS2xyZ2M",
+      "date": "09/16/2008, 07:00 AM, +0000 UTC",
+      "iso_date": "2008-09-16T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Fed announces $85 billion AIG rescue loan",
+      "source": {
+        "name": "france24.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.france24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.france24.com/en/20080917-fed-announces-85-billion-aig-rescue-loan-financial-crisis",
+      "thumbnail": "https://s.france24.com/media/display/7d4daeae-0e98-11e9-b2e6-005056a964fe/w:720/p:16x9/20080917-AIG-m_0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtaV1ZKWlhVMVVUTlNTRkF6VFJDWEF4alFCU2dLTWdZaFlaaXNLUWc",
+      "date": "09/17/2008, 07:00 AM, +0000 UTC",
+      "iso_date": "2008-09-17T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Why the banks are waiting to pass on the RBA's rate cut to home loans",
+      "source": {
+        "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.abc.net.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kate Ainsworth"
+        ]
+      },
+      "link": "https://www.abc.net.au/news/2025-02-23/rba-interest-rate-cut-big-four-banks-mortgage-rates-delay/104953866",
+      "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e86f78f5f4e08d29ea5619bcf315f318?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=155&width=862&height=485",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTZWbWhFVEhSTlpVOVBNV3RvVFJDZkF4amlCU2dLTWdNQllBUQ",
+      "date": "02/22/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-22T08:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Big Four banks react to RBA's decision to cut rates",
+      "source": {
+        "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.abc.net.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.abc.net.au/news/2025-08-12/banks-react-to-august-rba-rate-cut-decision/105506412",
+      "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70a1ae43d5fdc20e6d2266c74c4b020c?impolicy=wcms_crop_resize&cropH=485&cropW=862&xPos=0&yPos=0&width=862&height=485",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlkbkF6UlZsa00ySnZOM2hGVFJDZkF4amlCU2dLTWdhWlE0cEtKUWs",
+      "date": "08/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-11T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Federal Reserve ‘Stress Test’ Shows Big Banks Will Be Fine Through The Next Recession",
+      "source": {
+        "name": "The Daily Wire",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailywire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Zeisloft"
+        ]
+      },
+      "link": "https://www.dailywire.com/news/federal-reserve-stress-test-shows-big-banks-will-be-fine-through-the-next-recession?author=Ben+Zeisloft&category=News&elementPosition=0&row=0&rowHeadline=Up+Next&rowType=Up+Next&title=Federal+Reserve+%E2%80%98Stress+Test%E2%80%99+Shows+Big+Banks+Will+Be+Fine+Through+The+Next+Recession",
+      "thumbnail": "https://dw-wp-production.imgix.net/2022/02/GettyImages-1372549930.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1035&fm=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVdNVXBXVTBoc1pFMHdWa3BCVFJDb0FSaXNBaWdCTWdB",
+      "date": "06/24/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-06-24T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "search_metadata": {
+    "id": "6ab22ddff607a9ff03260f4b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/S6c9lMb5r96pt7sfUZ4M8UaZ8NOdaHQoLqmtn1nBOZI/6ab22ddff607a9ff03260f4b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/S6c9lMb5r96pt7sfUZ4M8UaZ8NOdaHQoLqmtn1nBOZI/6ab22ddff607a9ff03260f4b.md",
+    "created_at": "2026-09-22 07:27:27 UTC",
+    "processed_at": "2026-09-22 07:27:27 UTC",
+    "google_news_url": "https://news.google.com/search?q=Newly+formed+once-in-a-century+asteroid+crater+found+in+Greenland",
+    "raw_html_file": "https://serpapi.com/searches/S6c9lMb5r96pt7sfUZ4M8UaZ8NOdaHQoLqmtn1nBOZI/6ab22ddff607a9ff03260f4b.html",
+    "total_time_taken": 7.86
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Newly formed once-in-a-century asteroid crater found in Greenland"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "NASA orbiter spots massive 'once-in-a-century' crater on moon",
+      "source": {
+        "name": "WUHF",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://foxrochester.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexx Altman-devilbiss"
+        ]
+      },
+      "link": "https://foxrochester.com/news/nation-world/nasa-lunar-reconnaissance-orbiter-camera-spots-massive-once-in-a-century-impact-crater-on-moon-mcgetchin-solar-system-asteroid-comet",
+      "thumbnail": "https://foxrochester.com/resources/media2/16x9/1024/1174/0x224/80/1be43ae7-2927-45a6-aa59-a7fd91e4ef06-McGetchinLRONAC.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNSbk56T1VveGVHWkVYMGswVFJDZkF4ampCU2dLTWdhbE00Nk5LUVk",
+      "date": "09/18/2026, 10:53 PM, +0000 UTC",
+      "iso_date": "2026-09-18T22:53:16Z"
+    },
+    {
+      "position": 2,
+      "title": "NASA discovers largest crater ever found on Moon",
+      "source": {
+        "name": "norfolkneradio.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.norfolkneradio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dean Murray"
+        ]
+      },
+      "link": "https://www.norfolkneradio.com/news/national/nasa-discovers-largest-crater-ever-found-on-moon/article_890f2843-1df5-5748-9a4d-0c6f5b4be912.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/norfolkneradio.com/content/tncms/assets/v3/editorial/0/c0/0c090477-163f-5517-b12f-b38cf87e8a4e/6aac079d248e0.image.png?resize=1200%2C1198",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFRVEZJWlVGcVJGODNlRlpEVFJDcEJCaXFCQ2dLTWdZbFpKS3V0UVk",
+      "date": "09/17/2026, 03:11 PM, +0000 UTC",
+      "iso_date": "2026-09-17T15:11:41Z"
+    },
+    {
+      "position": 3,
+      "title": "New crater discovered on the moon",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.yahoo.com/news/videos/crater-discovered-moon-182934961.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/ac061183f58f282e3fe0b5335a46aa960e9a43236c6b812e5a3cac3679236359/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwpmt_tegna_videos_570%2F6250bb6c4106c2f367826b3eb53d4945.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRXalpxTUU1Sk1TMVNSazFoVFJDZkF4ampCU2dLTWdPSlVodw",
+      "date": "09/17/2026, 06:29 PM, +0000 UTC",
+      "iso_date": "2026-09-17T18:29:34Z"
+    },
+    {
+      "position": 4,
+      "title": "NASA discovers largest crater ever found on Moon",
+      "source": {
+        "name": "hendersondispatch.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hendersondispatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hendersondispatch.com/news/national/nasa-discovers-largest-crater-ever-found-on-moon/article_6d35adf0-3aa3-5dbc-a9d3-3f4086114ec3.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/7/93/793c87cf-1363-5770-ac22-6100b05bb3f8/6aac07e5f0779.image.png?resize=1200%2C1198",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFRVEZJWlVGcVJGODNlRlpEVFJDcEJCaXFCQ2dLTWdZbFpKS3V0UVk",
+      "date": "09/17/2026, 03:11 PM, +0000 UTC",
+      "iso_date": "2026-09-17T15:11:41Z"
+    },
+    {
+      "position": 5,
+      "title": "NASA scan discovers new, ‘once in a century’ Moon crater",
+      "source": {
+        "name": "The Sun Malaysia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesun.my&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thesun.my/news/world-news/nasa-scan-discovers-new-once-in-a-century-moon-crater/",
+      "thumbnail": "https://thesun.my/wp-content/uploads/2026/09/US-ASTRONOMY-SPACE-MOON-CRATER.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNiV2c0TXpWSGVrZHhNbmR4VFJDcUFoallCQ2dLTWdaRlFaRFZyQVk",
+      "date": "09/17/2026, 12:49 AM, +0000 UTC",
+      "iso_date": "2026-09-17T00:49:16Z"
+    },
+    {
+      "position": 6,
+      "title": "NASA finds ‘once-in-a-century’ moon crater bigger than Roman Colosseum",
+      "source": {
+        "name": "The News International",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thenews.com.pk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Qaddus Tahir"
+        ]
+      },
+      "link": "https://www.thenews.com.pk/latest/1416550-nasa-finds-once-in-a-century-moon-crater-bigger-than-roman-colosseum",
+      "thumbnail": "https://www.thenews.com.pk/assets/uploads/2026-09-17/1416550_125543_updates.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJTRkV3UVZSaFExOHhVVlZ2VFJDakF4amRCU2dLTWdB",
+      "date": "09/17/2026, 07:55 AM, +0000 UTC",
+      "iso_date": "2026-09-17T07:55:00Z"
+    },
+    {
+      "position": 7,
+      "title": "NASA Scan Discovers New, 'Once in a Century' Moon Crater",
+      "source": {
+        "name": "twaslnews1.twaslnews.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://twaslnews1.twaslnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://twaslnews1.twaslnews.com/5039805/",
+      "thumbnail": "https://twaslnews1.twaslnews.com/wp-content/uploads/2026/09/1779832_0.jpeg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlVE5mVjNNelRtZFVTbFpwVFJDcUJCaXFCQ2dLTWdhcGxKS3R1UVk",
+      "date": "09/17/2026, 05:52 AM, +0000 UTC",
+      "iso_date": "2026-09-17T05:52:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Today's Top 3 News: Malaysia Offers Indonesia Help to Combat Forest Fires",
+      "source": {
+        "name": "Tempo.co English",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://en.tempo.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://en.tempo.co/read/2119915/todays-top-3-news-malaysia-offers-indonesia-help-to-combat-forest-fires",
+      "thumbnail": "https://statik.tempo.co/data/2026/09/05/id_1488450/1488450_720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRXRmx4YkdJMFkyeHFla2QzVFJERUF4aW1CU2dLTWdhNUU0RlJWUUk",
+      "date": "09/19/2026, 11:20 AM, +0000 UTC",
+      "iso_date": "2026-09-19T11:20:34Z"
+    },
+    {
+      "position": 9,
+      "title": "A massive crater was spotted on Google Earth. It could be a scar from an ancient meteorite impact",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Elizabeth Howell"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/earth/a-massive-crater-was-spotted-on-google-earth-it-could-be-a-scar-from-an-ancient-meteorite-impact",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/6LJwNEGdC8QARb4NpLeNuB-320-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZjMjF0ZDFCRE9WY3lNblV5VFJDb0FSaXNBaWdCTWdPcHRRdw",
+      "date": "07/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-21T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "The Deadly Effects of Touchdown Airbursts",
+      "source": {
+        "name": "Nautilus | Science Connected",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nautil.us&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nautil.us/the-cosmos-is-trying-to-kill-us-1232557",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/sites/3/nautilus/CycghiDU-Grant_HERO.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5PVU5aY2pWblVsbEJVbE5oVFJDdEF4akxCU2dLTWdB",
+      "date": "08/21/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-21T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Earth's 'oldest' impact crater is much younger than previously thought, new study finds",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aaron J. Cavosie",
+          "Alec R Brenner"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/earth/earths-oldest-impact-crater-is-much-younger-than-previously-thought-new-study",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/dK23bkU8ecU4YqiJJYRqmL-1600-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaRUZLVmkxSWEwdHFiR0ZYVFJDZkF4ampCU2dLTWdhaE00eU1wUVk",
+      "date": "08/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-05T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "NASA spots new crater on the moon the size of two football fields",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kayode Crown"
+        ]
+      },
+      "link": "https://www.yahoo.com/news/science/articles/nasa-spots-crater-moon-size-220435950.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/45990d80dad449ae4dc05b4786a99f2a16304d43d38d496aff666e44042b025f/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmasslive_articles_390%2F7afe156bca28dff1c553dd1e9255e01a.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhTaTE1VnpsMlgzbHFNelpDVFJDZkF4ampCU2dLTWdZaFk0Nk5zUVU",
+      "date": "09/18/2026, 10:04 PM, +0000 UTC",
+      "iso_date": "2026-09-18T22:04:35Z"
+    },
+    {
+      "position": 13,
+      "title": "It came from outer space: Scientists solve decades-long mystery of the Silverpit Crater",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sharmila Kuthunur"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/earth/it-came-from-outer-space-scientists-solve-decades-long-mystery-of-the-silverpit-crater",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/hKoh4jTrwFvJ8zTJRhDzmN-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFabmRwYlRWQ2VrbDJNRzgyVFJDZkF4ampCU2dLTWdrbEVKSk9GYVZGaGdJ",
+      "date": "09/25/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-25T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Meteor impact may have triggered massive Grand Canyon landslide 56,000 years ago",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Mathewson"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/earth/meteor-impact-may-have-triggered-massive-grand-canyon-landslide-56-000-years-ago",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/erBTASTdMGAsZhgFqJ9xmN.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhaWFo1VDFWd1lXTlRjR2h2VFJDZkF4ampCU2dLTWdZbG81Qk9PUVk",
+      "date": "07/18/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-18T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "10 Earth impact craters you must see",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Daisy Dobrijevic"
+        ]
+      },
+      "link": "https://www.space.com/10-earth-impact-craters-you-should-visit",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Lb544mmJnN9mq8VJSJ7yHV-320-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVVa1ZCVkdzMlVtUmZaREZQVFJDMEFSakFBaWdLTWdZWm80ck1QUVk",
+      "date": "11/04/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-04T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "World's oldest meteor crater isn't what it seems",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harry Baker"
+        ]
+      },
+      "link": "https://www.space.com/worlds-oldest-meteor-crater-debate",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/3x9hKFHaoucvZWiYFpu4sJ-320-80.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpURkJGTW5SbVRsODVhVTVtVFJDMEFSakFBaWdLTWdB",
+      "date": "03/25/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-03-25T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "What time is the annular solar eclipse on Feb. 17?",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Daisy Dobrijevic"
+        ]
+      },
+      "link": "https://www.space.com/stargazing/solar-eclipses/what-time-is-the-annular-solar-eclipse-on-feb-17",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/MSGVPeHTG74c8Q8Zf2FFPR.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZWVVJaTWtFeFgwdG5SbVkxVFJDZkF4ampCU2dLTWdZbGRZN05zUVk",
+      "date": "02/16/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-16T08:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "NASA Spots a Second Massive Possible Impact Crater Buried Under Greenland Ice",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Meghan Bartels"
+        ]
+      },
+      "link": "https://www.space.com/second-possible-crater-impact-beneath-greenland.html",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/qz2BVAuDJRe9dDKdC29PXL-1024-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVTRVk0U1hZMGIwOW9jVEZaVFJDZkF4ampCU2dLTWdrRkVJcVBQQ1NDUmdJ",
+      "date": "02/12/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-02-12T08:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "In Pictures: The Giant Crater Beneath Greenland Explained",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christine Lunsford"
+        ]
+      },
+      "link": "https://www.space.com/42430-greenland-hidden-impact-crater-in-pictures.html",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/hVC6i4LaRzVKZcvHYV2QW.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXRXhqZUZaRWQzWjZTMjVrVFJENkJCamtBeWdLTWdZVmNKYXFzUWM",
+      "date": "11/14/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-11-14T08:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "A newly found crater in Greenland is one of Earth's largest",
+      "source": {
+        "name": "Science News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sciencenews.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Carolyn Gramling"
+        ]
+      },
+      "link": "https://www.sciencenews.org/article/impact-crater-greenland-asteroid-younger-dryas",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2018/11/111418_cg_crater_feat.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhhVEJyUTFwa2FrRkhZVzlKVFJDVkF4ajFCU2dLTWdZNUlJd1FMUVk",
+      "date": "11/14/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-11-14T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "The Most Surprising Discoveries In Greenland",
+      "source": {
+        "name": "grunge.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.grunge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michele Gama Sosa"
+        ]
+      },
+      "link": "https://www.grunge.com/779684/the-most-surprising-discoveries-in-greenland/",
+      "thumbnail": "https://www.grunge.com/img/gallery/the-most-surprising-discoveries-in-greenland/intro-1645762469.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkM2xoZFV4bWIwVkpXbW95VFJDZkF4ampCU2dLTWdhQmdZb1NNUVk",
+      "date": "02/25/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-02-25T08:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "A massive crater hides under Greenland’s ice",
+      "source": {
+        "name": "Science News Explores",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.snexplores.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Carolyn Gramling"
+        ]
+      },
+      "link": "https://www.snexplores.org/article/massive-crater-hides-under-greenlands-ice",
+      "thumbnail": "https://www.snexplores.org/wp-content/uploads/sites/3/2019/11/111418_cg_crater_feat.jpg?w=860",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5NME15Ym05eldrTk9Rek5LVFJDVkF4ajFCU2dLTWdZNUlJd1FMUVk",
+      "date": "01/02/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-01-02T08:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Did an asteroid collision cause abrupt Earth cooling?",
+      "source": {
+        "name": "EarthSky",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://earthsky.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christopher Moore"
+        ]
+      },
+      "link": "https://earthsky.org/earth/asteroid-comet-younger-dryas-abrupt-cooling/",
+      "thumbnail": "https://earthsky.org/upl/2019/10/comet-illustration-e1572101549944.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTZSQzE2YjJSM2NIVTFVVnBKVFJDMkF4aTlCU2dLTWdPWlFnUQ",
+      "date": "10/28/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-10-28T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "'Greenland' director studied the science of comets to prepare for disaster film",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Elizabeth Howell"
+        ]
+      },
+      "link": "https://www.space.com/greenland-movie-director-interview",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/TsxY7eXpauy9oY3ZBYBCKK.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdORE5uTTFoZlRHOVBNbHBrVFJDZkF4ampCU2dLTWdrQllJcDVvQ2U1NndF",
+      "date": "12/18/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-12-18T08:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Earth Formed From Diverse Meteorite Mix, Study Suggests",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Clara Moskowitz"
+        ]
+      },
+      "link": "https://www.space.com/14752-earth-formation-meteorite-history.html",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/S57zCR8TBgcGiD5qsDgcu5-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtOMUphU2xkTmFFVmpRVTVqVFJEaEFSamhBU2dCTWdZWlk0eHJyUVU",
+      "date": "03/01/2012, 08:00 AM, +0000 UTC",
+      "iso_date": "2012-03-01T08:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Discovery: Earth's Oldest Crater Is Largest Too",
+      "source": {
+        "name": "Live Science",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Douglas Main"
+        ]
+      },
+      "link": "https://www.livescience.com/31600-oldest-meteorite-crater-found.html",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/YGwp4wdVbxHJsFc5BMKoKe.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1RV0p3WXpKek4wZzNNMmM0VFJDZkF4ampCU2dLTWdhSlVJcUdIZ2s",
+      "date": "06/29/2012, 07:00 AM, +0000 UTC",
+      "iso_date": "2012-06-29T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Newswav",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://newswav.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newswav.com/article/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon-A2609_7eCu9f",
+      "thumbnail": "https://imgproxy.newswav.com/665x0,q50=/https://static.independent.co.uk/2026/09/16/19/Moon-New_Crater_32981.jpg?width=1200&auto=webp&crop=3%3A2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZiamd0UldsVE5tWldUMWxvVFJDM0FSaVRBaWdCTWdaTlVKQllzQVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:58Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

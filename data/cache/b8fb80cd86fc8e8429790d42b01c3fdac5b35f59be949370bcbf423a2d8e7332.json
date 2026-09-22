@@ -1,0 +1,644 @@
+{
+  "search_metadata": {
+    "id": "6ab229f4f735814ceaf91999",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/s_79YkQnF5vd0-GsAYZXMmK6ae6ZQMMZg6pDWqLBrSo/6ab229f4f735814ceaf91999.json",
+    "markdown_endpoint": "https://serpapi.com/searches/s_79YkQnF5vd0-GsAYZXMmK6ae6ZQMMZg6pDWqLBrSo/6ab229f4f735814ceaf91999.md",
+    "created_at": "2026-09-22 07:10:44 UTC",
+    "processed_at": "2026-09-22 07:10:44 UTC",
+    "google_news_url": "https://news.google.com/search?q=Dolphins+return+to+Venice+canals",
+    "raw_html_file": "https://serpapi.com/searches/s_79YkQnF5vd0-GsAYZXMmK6ae6ZQMMZg6pDWqLBrSo/6ab229f4f735814ceaf91999.html",
+    "total_time_taken": 2.12
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Dolphins return to Venice canals"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "There’s a dolphin living in the Venice canals",
+      "source": {
+        "name": "CNN",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cnn.com/2025/11/11/world/video/dolphin-venice-canal-digvid-vrtc",
+      "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/115121-mimmodolphinvenice-thumb-clean-2.jpg?c=9x16",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJPVXBtVURoVFJtUnZaWFkzVFJEakJSaWZBeWdLTWdZMVE1eFJKUWs",
+      "date": "11/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-11T08:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Dolphins Spotted in Venice’s Grand Canal—for Real This Time",
+      "source": {
+        "name": "Smithsonian Magazine",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.smithsonianmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Theresa Machemer"
+        ]
+      },
+      "link": "https://www.smithsonianmag.com/smart-news/dolphins-spotted-venices-grand-canal-real-time-180977403/",
+      "thumbnail": "https://th-thumbnailer.cdn-si-edu.com/ZrVOUdZGcksLiLXIyZd8W4JcZmY=/1026x684/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/5b/c9/5bc98501-2f41-4b8d-8ecf-5c5c44dd57d4/apr2-venicedolphins.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRXRkZtTjAwM01FUXhRV0ZRVFJERUF4aW1CU2dLTWdZQkFJQWtud2s",
+      "date": "04/05/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-04-05T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Did Dolphins, Swans 'Return' to Italian Waterways in Virus Lockdown?",
+      "source": {
+        "name": "Snopes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.snopes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bethania Palma"
+        ]
+      },
+      "link": "https://www.snopes.com/fact-check/dolphins-swans-italy-lockdown/",
+      "thumbnail": "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2020/03/GettyImages-1207641865.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJVWHB4UjNKMlJHaGhZbFZqVFJDNkFoallCQ2dLTWdZQkFKNmxEQW8",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Venice’s newest marvel is an acrobatic dolphin. His refusal to leave puts him in danger",
+      "source": {
+        "name": "Los Angeles Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Colleen Barry"
+        ]
+      },
+      "link": "https://www.latimes.com/science/story/2025-11-18/venices-newest-marvel-is-wild-dolphin-his-refusal-to-leave-is-dangerous",
+      "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/190c246/2147483647/strip/true/crop/1143x1481+0+0/resize/1200x1555!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2F56%2Fa6dde11d4431a85f3e0edccfcf1c%2Fa5a2ebf7bc1b4e448106516dce8205c7.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBlalpIV0hacVdsbDZUVzVwVFJEMkJCam1BeWdLTWdZVllacnhMQWc",
+      "date": "11/18/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-18T08:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "The Canals in Venice Are so Still, Dolphins and Swans Are Returning for the First Time in Years",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kelly Corbett"
+        ]
+      },
+      "link": "https://news.yahoo.com/canals-venice-still-dolphins-swans-135200271.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/24bcbd77cdb1d55401793f115a3e7ed6926f1daf9ffda1437d9d8b9294ffd75f/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcountry_living_105%2F83d006df665480d197f3f6d16d009779",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZPRWxQYVdoT1lteDZkMjlNVFJDSUF4aVBCaWdLTWdZQk1ZSXlXUUk",
+      "date": "03/21/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-21T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Venice canals are clear enough to see fish as coronavirus halts tourism in the city",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julia Jacobo"
+        ]
+      },
+      "link": "https://abcnews.com/International/venice-canals-clear-fish-coronavirus-halts-tourism-city/story?id=69662690",
+      "thumbnail": "https://s.abcnews.com/images/International/venice-canals-01-gty-jef-200318_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVOM0pmZVVOeVJsVlFlVXhUVFJDZkF4ampCU2dLTWdNQlF4QQ",
+      "date": "03/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-18T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "These dolphins took a day trip up Venice’s Grand Canal",
+      "source": {
+        "name": "CNN",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julia Buckley"
+        ]
+      },
+      "link": "https://www.cnn.com/travel/article/venice-canal-dolphins",
+      "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/210323163026-venice-dolphins-1.jpeg?q=w_1471,h_828,x_0,y_0,c_fill/w_860",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBhVnB6ZDBoMmMycGpjM1IzVFJDZkF4amlCU2dLTWdOUllBdw",
+      "date": "03/23/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-03-23T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "dolphins return to italian port and venice canals run clear as humans self-isolate",
+      "source": {
+        "name": "designboom.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.designboom.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kieron Marchese"
+        ]
+      },
+      "link": "https://www.designboom.com/design/venice-dolphins-italy-coronavirus-03-19-2020/",
+      "thumbnail": "https://static.designboom.com/wp-content/uploads/2020/03/venice-dolphins-italy-coronavirus-designboom-600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVRNbEJwY1VSVmNHMTJZMGhHVFJEWUJCajBBeWdLTWdNQjRBQQ",
+      "date": "03/19/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-19T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Amid Lockdown, Optimistic Photos Show Dolphins and Swans Return to Venice",
+      "source": {
+        "name": "Hyperallergic",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hyperallergic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hakim Bishara"
+        ]
+      },
+      "link": "https://hyperallergic.com/clear-canals-venice/",
+      "thumbnail": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2020/03/venice_canal_1000.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNURWxJY21FeFpqSkZjek5EVFJDekF4akJCU2dLTWdZTkVZU01PUU0",
+      "date": "03/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-18T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "'Nature is taking back Venice': wildlife returns to tourist-free city",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "John Brunton"
+        ]
+      },
+      "link": "https://www.theguardian.com/environment/2020/mar/20/nature-is-taking-back-venice-wildlife-returns-to-tourist-free-city",
+      "thumbnail": "https://i.guim.co.uk/img/media/9681c2add180d0e901e2832ba8a0f8b217575364/0_0_7360_4414/master/7360.jpg?width=445&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNla1JzU1hoaFVXZEhkWGcyVFJDTEFoaTlBeWdLTWdZWkVJdzNwQVk",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Venice canals run clear, dolphins appear in Italy’s waterways amid coronavirus lockdown",
+      "source": {
+        "name": "Classic FM",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.classicfm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rosie Pentreath"
+        ]
+      },
+      "link": "https://www.classicfm.com/music-news/coronavirus/venice-canals-clear-dolphins-swim-italy-lockdown/",
+      "thumbnail": "https://imgs.classicfm.com/images/135470?crop=16_9&width=660&relax=1&format=webp&signature=J2ivlYpfP2eT-0tsW2hYfhzAELM=",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHhjazVNYVZjMldVNVpOMGhNVFJEckFoaVVCU2dLTWdNQlFRUQ",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Fake animal news abounds on social media as coronavirus upends life",
+      "source": {
+        "name": "National Geographic",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nationalgeographic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Natasha Daly"
+        ]
+      },
+      "link": "https://www.nationalgeographic.com/animals/article/coronavirus-pandemic-fake-animal-viral-social-media-posts",
+      "thumbnail": "https://i.natgeofe.com/n/78d9fffc-764d-4965-a055-8049274af8c3/03-fake-animal-news-gettyimages-1207596590.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVlUWGd3Y0V4RVFsaGhka1ZCVFJERUF4aW1CU2dLTWdNQmNCZw",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Dolphins in the Venice canals? Nope, that didn't happen.",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Perry"
+        ]
+      },
+      "link": "https://mashable.com/article/coronavirus-fake-dolphins-venice-animals-viral-posts",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/00OPLEdIG3VHIlz1ChS4mpb/hero-image.fill.size_1248x702.v1623389129.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWhlbEJNU1U5RE9FcHRWbTU1VFJDZkF4ampCU2dLTWdB",
+      "date": "06/23/2021, 11:17 PM, +0000 UTC",
+      "iso_date": "2021-06-23T23:17:54Z"
+    },
+    {
+      "position": 14,
+      "title": "Dolphins Spotted Swimming in Venice's Grand Canal: A 'Beautiful and Rare Moment'",
+      "source": {
+        "name": "people.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://people.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gabrielle Chung"
+        ]
+      },
+      "link": "https://people.com/pets/dolphins-spotted-swimming-in-venices-grand-canal/",
+      "thumbnail": "https://people.com/thmb/AsvI42MVe2dwUfgy8vIRLyEaocE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/dolphins-venice-d25bdc084d984febabaacc129814a9c3.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpZbUZNUlRkeE9UbFVabXRNVFJERUF4aW1CU2dLTWdhbDFJN3NSUVU",
+      "date": "03/23/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-03-23T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Venice canals play host to dolphins in wake of COVID-19 lockdown",
+      "source": {
+        "name": "Divernet",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://divernet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://divernet.com/scuba-news/venice-canals-play-host-to-dolphins-in-wake-of-covid-19-lockdown/",
+      "thumbnail": "https://divernet.com/wp-content/uploads/2024/12/dolphin-3233579_1920-768x432.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpjM2hHUWtWcFduSkVNMU5pVFJDZkF4ampCU2dLTWdZNVU1SlJKUWc",
+      "date": "03/19/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-19T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Dolphins Return To Venice's Crystal-Clear Canals Amid Coronavirus Lockdown",
+      "source": {
+        "name": "Travel and Leisure Asia",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.travelandleisureasia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanka Chakrabarti"
+        ]
+      },
+      "link": "https://www.travelandleisureasia.com/in/destinations/dolphins-return-venice/",
+      "thumbnail": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2020/03/Clear-Venice-Canals-feature-.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaRkpOWDBwSk1HMDBibVJzVFJDZkF4ampCU2dLTWdhSmNZckZ0Z1U",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Italy: Dolphins return to Venice's canals as public under coronavirus lockdown",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Falah Gulzar"
+        ]
+      },
+      "link": "https://gulfnews.com/world/europe/italy-dolphins-return-to-venices-canals-as-public-under-coronavirus-lockdown-1.1584624481080",
+      "thumbnail": "https://media.assettype.com/gulfnews%2Fimport%2F2020%2F03%2F19%2FDolphins-in-Venice_170f2f9e50f_large.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlhWFoyVWpscVowdFlTbmhmVFJEb0FoamdBeWdLTWdPQk1nWQ",
+      "date": "03/19/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-19T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Dolphins return to Italy’s coast amid coronavirus lockdown: ‘Nature just hit the reset button’",
+      "source": {
+        "name": "Global News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Meaghan Wray"
+        ]
+      },
+      "link": "https://globalnews.ca/news/6697281/dolphins-italy-coronavirus/",
+      "thumbnail": "https://globalnews.ca/wp-content/uploads/2020/03/animals-edited.jpg?quality=65&strip=all&w=720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpZV3hLT1ZkUU1tUnBPSE5vVFJEZ0F4aUFCU2dLTWdZVmdJTE1LUWM",
+      "date": "03/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-18T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Why do people want so badly to believe this fake story is true?",
+      "source": {
+        "name": "National Geographic",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nationalgeographic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rachael Bale"
+        ]
+      },
+      "link": "https://www.nationalgeographic.com/animals/article/why-do-people-want-so-badly-to-believe-this-fake-story-is-true",
+      "thumbnail": "https://i.natgeofe.com/n/4d7716bf-a7d5-401a-a06a-c236f867ca65/03-fake-animal-news-gettyimages-1207596590.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVlUWGd3Y0V4RVFsaGhka1ZCVFJERUF4aW1CU2dLTWdNQmNCZw",
+      "date": "03/27/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-27T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Dolphins were (really) caught swimming in a Venice canal during COVID-19 restrictions",
+      "source": {
+        "name": "The Hill",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anagha Srikanth"
+        ]
+      },
+      "link": "https://thehill.com/changing-america/sustainability/environment/544632-dolphins-were-really-caught-swimming-in-a-venice/",
+      "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2021/03/ca_stripeddolphin_istock.jpg?strip=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXV0pzTjBSTE1VTkNaRXg1VFJDeEF4akZCU2dLTWdZdFlaYnZxQWM",
+      "date": "03/23/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-03-23T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "The Real Story Behind Venice’s Newly Crystal-Clear Canals",
+      "source": {
+        "name": "AFAR",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.afar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "John Newton"
+        ]
+      },
+      "link": "https://www.afar.com/magazine/clear-water-in-venice-means-the-return-of-wildlife",
+      "thumbnail": "https://afar.brightspotcdn.com/dims4/default/7957754/2147483647/strip/true/crop/1300x867+0+0/resize/900x600!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2F38%2F09%2Fb70fcfd2c152e7bea140f68e52ed%2Foriginal-ap-20072323054964.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSakpCVldkeGFHbHBYMmhuVFJERUF4aW1CU2dLTWdhQmNJeUpQUVk",
+      "date": "03/19/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-19T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Not fake news: Dolphins spotted in Venice lagoon in 'exceptionally' rare visit",
+      "source": {
+        "name": "SMH.com.au",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.smh.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nick Squires"
+        ]
+      },
+      "link": "https://www.smh.com.au/traveller/inspiration/not-fake-news-dolphins-spotted-in-venice-lagoon-in-exceptionally-rare-visit-20210324-h1usvo.html",
+      "thumbnail": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.9241%2C$ratio_1.777778%2C$width_632%2C$x_2%2C$y_0/t_crop_custom/q_86%2Cf_auto/b20bbda8511502ee9edf75f5cb30928caf56d298",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFabFpvYkRreVZsOUJlRGd0VFJESkFoaklCQ2dLTWdZdEZJZVAwUU0",
+      "date": "03/24/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-03-24T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Dolphins Return to Italy's Ports Amidst Coronavirus Lockdown",
+      "source": {
+        "name": "Green Matters",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.greenmatters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Pygas"
+        ]
+      },
+      "link": "https://www.greenmatters.com/p/dolphins-in-venice-canals",
+      "thumbnail": "https://media.greenmatters.com/brand-img/BrYB8YImy/0x0/gettyimages-1039875286-1584621482100.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFjV2MzUmtoWFRtWjViRmRIVFJERUF4aW5CU2dLTWdrZGtJYU9zZVdhTWdF",
+      "date": "03/19/2020, 12:59 PM, +0000 UTC",
+      "iso_date": "2020-03-19T12:59:31Z"
+    },
+    {
+      "position": 24,
+      "title": "Covid-19 upside? Dolphins return to Italy and clear Venice canals as humans self-isolate",
+      "source": {
+        "name": "Esquire Middle East",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.esquireme.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.esquireme.com/news/44556-covid-19-upside-dolphins-return-to-the-venice-canals-as-humans-self-isolate",
+      "thumbnail": "https://www.esquireme.com/wp-content/uploads/sites/9/cloud/2021/09/08/133432156.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdRM0JwYlhGeFVXUk9WblE1VFJERUF4aW1CU2dLTWdhZFk0cU9LUVU",
+      "date": "03/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-18T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Dolphins Return To Clean Venice Canals As Italy Enters Second Week Of Lockdown!",
+      "source": {
+        "name": "curlytales.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kanika Sharma"
+        ]
+      },
+      "link": "https://curlytales.com/dolphins-return-to-clean-venice-canals-as-italy-enters-second-week-of-lockdown/",
+      "thumbnail": "https://curlytales.com/wp-content/uploads/2020/03/Dolphin-FB.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdha05WTUdKVmEwcFFMV2xQVFJDUkF4ajhCU2dLTWdZQmNJd0Nxd2M",
+      "date": "03/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-18T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "As Italy quarantines over coronavirus, misleading reports of swans and dolphins in Venice canals go viral",
+      "source": {
+        "name": "The Hill",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anagha Srikanth"
+        ]
+      },
+      "link": "https://thehill.com/changing-america/sustainability/environment/488286-italys-coronavirus-lockdown-shows-what-nature/",
+      "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2020/03/ca_venice_31820getty.jpg?strip=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTZTamx1VG5WQmMwZERTbE53VFJDeEF4akZCU2dLTWdNQmNCWQ",
+      "date": "03/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-18T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Dolphins return to canals in Venice as Italy stays under quarantine",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/travel/italy/dolphins-return-to-canals-in-venice-as-italy-stays-under-quarantine/ps74714784.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-74714771,width-550,height-433.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFaR2xhTTJkUE1GazBRa0pOVFJESEFSajlBU2dCTWdZNVlKclNxQWc",
+      "date": "03/19/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-19T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Seabirds and fish: nature moves into spaces left empty by Italian coronavirus quarantine – video",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.theguardian.com/world/video/2020/mar/20/dolphins-and-fish-nature-moves-into-spaces-left-empty-by-italian-coronavirus-quarantine-video",
+      "thumbnail": "https://i.guim.co.uk/img/media/368e9ea63a02044a9399e65e7257bd188117838a/0_0_5211_2932/5211.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpUQzFsU0V4Wk5qQlRiMnR6VFJDR0FoalJBeWdLTWdB",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Reality Check",
+      "source": {
+        "name": "Teachers College - Columbia University",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tc.columbia.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Will Bunch"
+        ]
+      },
+      "link": "https://www.tc.columbia.edu/articles/2020/april/reality-check-using-media-literacy-to-push-back-on-fake-news/",
+      "thumbnail": "https://www.tc.columbia.edu/media/general/venice-canals.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFZa1ZTYkZNMU1VTkVMVkJpVFJERUF4aW1CU2dLTWdrQlFJS25NV1NwbUFB",
+      "date": "04/23/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-04-23T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "WATCH: Dolphins and other fish return to Venice’s newly-clear canals and waterways",
+      "source": {
+        "name": "www.irishpost.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.irishpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.irishpost.com/index.php/news/watch-dolphins-fish-return-venices-newly-clear-canals-waterways-181884",
+      "thumbnail": "https://i.ytimg.com/vi/98pjKYs7YMU/mqdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVM0F0UWxaVWFXcGpjMkpDVFJDMEFSakFBaWdLTWdZQkZvQXRXZ0k",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Italy Lockdown: No, Photos of Dolphins & Swans Are Not From Venice",
+      "source": {
+        "name": "The Quint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thequint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thequint.com/news/webqoof/dolphin-swam-pictures-not-from-venice-fact-check",
+      "thumbnail": "https://cf-images.assettype.com/thequint%2F2020-03%2F5494bdc2-34c2-4de5-b5d4-d5e75ea493f6%2FUntitled_3.jpg?auto=format%2Ccompress&fmt=webp&width=720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtjR2RvYzI0NFpYSTRkVWRmVFJDVkF4alFCU2dLTWdB",
+      "date": "03/21/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-21T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Viral images of animals 'returning' to canals of Venice are false",
+      "source": {
+        "name": "London Evening Standard",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.standard.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bonnie Christian"
+        ]
+      },
+      "link": "https://www.standard.co.uk/news/world/dolphins-venice-canals-coronavirus-lockdown-italy-a4390686.html",
+      "thumbnail": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/03/23/08/venicecanal2303.jpg?crop=8:5,smart&quality=75&auto=webp&width=1000",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVV1pGVURKRmJrY3pkVU5hVFJERUF4aW5CU2dLTWdZQk1ZakVJZ1E",
+      "date": "03/23/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-23T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "As Mumbai enters Covid-19 lockdown, dolphins spotted off the coast",
+      "source": {
+        "name": "Esquire Middle East",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.esquireme.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.esquireme.com/news/44686-as-mumbai-enters-covid-19-lockdown-dolphins-spotted-off-the-coast",
+      "thumbnail": "https://www.esquireme.com/wp-content/uploads/sites/9/cloud/2021/09/08/mumbai.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZTSE5GUVVWcFpHc3RZMU5CVFJDOUF4aXhCU2dLTWdZVlFvTE9JUW8",
+      "date": "03/23/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-23T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "The Coronavirus Meme About “Nature Is Healing” Is So Damn Funny",
+      "source": {
+        "name": "BuzzFeed News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.buzzfeednews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emmanuel Felton"
+        ]
+      },
+      "link": "https://www.buzzfeednews.com/article/emmanuelfelton/coronavirus-meme-nature-is-healing-we-are-the-virus",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2020-04/7/19/enhanced/a947089f7035/original-549-1586289056-6.jpg?crop=1244:829;0,0&resize=1250:830",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVibUZoUWpSNVRETXpORU5vVFJEREF4aW9CU2dLTWdrQmdaQ2t2dVZFcndF",
+      "date": "04/07/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-04-07T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Dolphins, swans return to Venetian canals as Italy remains in complete lockdown",
+      "source": {
+        "name": "orissapost.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.orissapost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.orissapost.com/dolphins-swans-return-to-venetian-canals-as-italy-remains-in-complete-lockdown/",
+      "thumbnail": "https://www.orissapost.com/wp-content/uploads/2020/03/FotoJet.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1aVTlGTld0aVZGYzBjVEZZVFJEdkF4anJCQ2dLTWdrQllJUlp3Q1BCc3dB",
+      "date": "03/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-18T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Schools Of Dolphins Return Near Marine Drive Thanks To Drop In Water Traffic",
+      "source": {
+        "name": "curlytales.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gizel Menezes"
+        ]
+      },
+      "link": "https://curlytales.com/schools-of-dolphins-return-near-marine-drive-thanks-to-drop-in-water-traffic/",
+      "thumbnail": "https://curlytales.com/wp-content/uploads/2020/03/dolphins-The-National-e1584690352842.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFVSFJ6TlVaUlNHdE1XV3h5VFJDZkF4ampCU2dLTWdZbGNaS050UVk",
+      "date": "03/20/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-20T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "5 Positive Things Amidst COVID-19 Outbreak That Prove That The Earth Is Healing",
+      "source": {
+        "name": "curlytales.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sannjanaa Shenoyy"
+        ]
+      },
+      "link": "https://curlytales.com/5-positive-things-amidst-covid-19-outbreak-that-prove-that-the-earth-is-healing/",
+      "thumbnail": "https://curlytales.com/wp-content/uploads/2020/03/Website-Thumbnail-Safe-Frame-2-3.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1NV2RvYjFCSVJsVnVjamhTVFJER0F4aWpCU2dLTWdB",
+      "date": "03/21/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-21T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "The Dolphins Have Returned to Italy / Nature Is Healing",
+      "source": {
+        "name": "knowyourmeme.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://knowyourmeme.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://knowyourmeme.com/memes/the-dolphins-have-returned-to-italy-nature-is-healing",
+      "thumbnail": "https://i.kym-cdn.com/entries/icons/mobile/000/033/502/dolphin.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJTWHAwWlRGb1FrZFBOVVZYVFJDZkF4ampCU2dLTWdhTmRJenNwUWM",
+      "date": "12/18/2020, 06:00 PM, +0000 UTC",
+      "iso_date": "2020-12-18T18:00:05Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

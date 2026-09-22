@@ -1,0 +1,32 @@
+{
+  "search_metadata": {
+    "id": "6ab22de7f607a9fea5a06c9b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qswQwgHdUBY28sMHh76a1sZuwZQPHHKYPDIUxK5ZB00/6ab22de7f607a9fea5a06c9b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/qswQwgHdUBY28sMHh76a1sZuwZQPHHKYPDIUxK5ZB00/6ab22de7f607a9fea5a06c9b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/qswQwgHdUBY28sMHh76a1sZuwZQPHHKYPDIUxK5ZB00/6ab22de7f607a9fea5a06c9b.json_with_pixel_position",
+    "created_at": "2026-09-22 07:27:35 UTC",
+    "processed_at": "2026-09-22 07:27:35 UTC",
+    "google_url": "https://www.google.com/search?q=%22Newly+formed+once-in-a-century+asteroid+crater+found+in+Gree%22&oq=%22Newly+formed+once-in-a-century+asteroid+crater+found+in+Gree%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/qswQwgHdUBY28sMHh76a1sZuwZQPHHKYPDIUxK5ZB00/6ab22de7f607a9fea5a06c9b.html",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Newly formed once-in-a-century asteroid crater found in Gree\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Newly formed once-in-a-century asteroid crater found in Gree\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.14,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "\"Newly formed once-in-a-century asteroid crater found in Greece\"",
+    "showing_results_for": "\"Newly formed once-in-a-century asteroid crater found in Greece\""
+  },
+  "ai_overview": {
+    "page_token": "QZ8kBHiczVVbcuI4FF3ArKP5IeAHhphUubokYcA8EhxISPihjGzEyxZYELf5mzXMFmZVs5qWDeYVnKT7o2v8Yb2urs7VvUfn738XU2_-31__TNbrJbsThCAI8oRSsnDymLqCxUIPC2O6YD6efA_ftEIGM03MOFOthOTQetv00aAlzTtGR1qhxgrMM_EWbTiymDPjHn_MmDAU-G_-rVDhgzzLO16-9lxU27CoiDM1L4tSOf8gWC43AH_uMybR3wRzYHxgFFl85SME6AA0jhMIxY1-YhINCHeJokkU9a-fqe8QPaIdQNCpdLYVDEDlAOUhFQc6hYuC_clBfB6MTvwg2Cve4n91P9LTDUFqNOTMBWifLKX6QxeGHLoJUEeJnCWbzjYTYB6PN6LFfSVhAtQ6hRUIntKR8w1NAxTnwNQ_S7apPysoOar1WuMzgk144YrCyOeNJEzxBMcdn0X1jHplkdYm66G8hW_V5yVWV_JSdTe9ZqhKDYkGAh5xuwW1bMceTobi93gsyVJRLBdu1ZuYSJgdmMROmdQL6uIE3q8pMvOtPJQSGqFDntE5fp2P0bUSgGhvit6v8Q3JbSNw8EyaZ0a7DPPSJWCgg_P80PLummEyUWcABPqJyRFSNPmeRpfQIhrtUkri7r7MTsEboHsS6EliK1cq9V3U_Nw9eczKO8NzBxA05uAY8MUbRgCEyDDh7oZWSoxJOV5Fgs-8ABK9D_yhMJLb3oWQRNQ-xsNXmjEvKghB7pcuI7PGPuJow_TgFT5ePGfwOgd5ekALfUL4tA9-5cU0E75clP8Zbd58X6X1pTMr68v6S7e4HYC6W-iRpxBcpwl1R7-gOPh_RaREjxbxfDqRzC8RiRA9XY923aMeRURChJAUIundFD0KEpOjHl1GjbonRPpEj36VSPqHREpIepVI1WtE0tOIlOjRGZG6Z3oEr-vRgUi_o0fwN_Uo5pWza87FaTMjqSJV7626ZDQdDFY5617qlVbLh1ZJeZCqK0Y-Famxu75zLXtxM5zad1BurEP7Zsgn6J1jZ1baN1m-d4JFmB1T33XsLPWwk5t6OSuHHW-98cOsxdaOT6d2FvsW73HDjWdnp1625jsOdriDjLvwqSZaitX3wte-QVX1cWzVxeqYPT7Anjto4tqEV3EnN2i1b6na2dSc21tR0bslOSz0RqVhu2_UfVyUy21SUFVkLozSrMrELS2Nczl1UuhY_ox1_LqdMysMSZKJ5s_bUW69XXovJdHoz5gRNi1_W3VfBjEapq0WOVFlpbA7mGdcH2u8PhQC7k3QJxAD9ApMnp0ni_I2AGatxBMGMwxbQ4e9ac5tWVIkuYDHhZE0ctSMS9bhUlOUDPN8TfoJjzFCOw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QZ8kBHiczVVbcuI4FF3ArKP5IeAHhphUubokYcA8EhxISPihjGzEyxZYELf5mzXMFmZVs5qWDeYVnKT7o2v8Yb2urs7VvUfn738XU2_-31__TNbrJbsThCAI8oRSsnDymLqCxUIPC2O6YD6efA_ftEIGM03MOFOthOTQetv00aAlzTtGR1qhxgrMM_EWbTiymDPjHn_MmDAU-G_-rVDhgzzLO16-9lxU27CoiDM1L4tSOf8gWC43AH_uMybR3wRzYHxgFFl85SME6AA0jhMIxY1-YhINCHeJokkU9a-fqe8QPaIdQNCpdLYVDEDlAOUhFQc6hYuC_clBfB6MTvwg2Cve4n91P9LTDUFqNOTMBWifLKX6QxeGHLoJUEeJnCWbzjYTYB6PN6LFfSVhAtQ6hRUIntKR8w1NAxTnwNQ_S7apPysoOar1WuMzgk144YrCyOeNJEzxBMcdn0X1jHplkdYm66G8hW_V5yVWV_JSdTe9ZqhKDYkGAh5xuwW1bMceTobi93gsyVJRLBdu1ZuYSJgdmMROmdQL6uIE3q8pMvOtPJQSGqFDntE5fp2P0bUSgGhvit6v8Q3JbSNw8EyaZ0a7DPPSJWCgg_P80PLummEyUWcABPqJyRFSNPmeRpfQIhrtUkri7r7MTsEboHsS6EliK1cq9V3U_Nw9eczKO8NzBxA05uAY8MUbRgCEyDDh7oZWSoxJOV5Fgs-8ABK9D_yhMJLb3oWQRNQ-xsNXmjEvKghB7pcuI7PGPuJow_TgFT5ePGfwOgd5ekALfUL4tA9-5cU0E75clP8Zbd58X6X1pTMr68v6S7e4HYC6W-iRpxBcpwl1R7-gOPh_RaREjxbxfDqRzC8RiRA9XY923aMeRURChJAUIundFD0KEpOjHl1GjbonRPpEj36VSPqHREpIepVI1WtE0tOIlOjRGZG6Z3oEr-vRgUi_o0fwN_Uo5pWza87FaTMjqSJV7626ZDQdDFY5617qlVbLh1ZJeZCqK0Y-Famxu75zLXtxM5zad1BurEP7Zsgn6J1jZ1baN1m-d4JFmB1T33XsLPWwk5t6OSuHHW-98cOsxdaOT6d2FvsW73HDjWdnp1625jsOdriDjLvwqSZaitX3wte-QVX1cWzVxeqYPT7Anjto4tqEV3EnN2i1b6na2dSc21tR0bslOSz0RqVhu2_UfVyUy21SUFVkLozSrMrELS2Nczl1UuhY_ox1_LqdMysMSZKJ5s_bUW69XXovJdHoz5gRNi1_W3VfBjEapq0WOVFlpbA7mGdcH2u8PhQC7k3QJxAD9ApMnp0ni_I2AGatxBMGMwxbQ4e9ac5tWVIkuYDHhZE0ctSMS9bhUlOUDPN8TfoJjzFCOw"
+  }
+}

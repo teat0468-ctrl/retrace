@@ -1,0 +1,1219 @@
+{
+  "search_metadata": {
+    "id": "6ab229ba95e0b36fd448637f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LCaOS-Ls-783wJzt6BDbAkbvMy1eqYy7tiaG6BZuOCI/6ab229ba95e0b36fd448637f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LCaOS-Ls-783wJzt6BDbAkbvMy1eqYy7tiaG6BZuOCI/6ab229ba95e0b36fd448637f.md",
+    "created_at": "2026-09-22 07:09:46 UTC",
+    "processed_at": "2026-09-22 07:09:46 UTC",
+    "google_news_url": "https://news.google.com/search?q=bans+microplastics+drinking+water+new+update",
+    "raw_html_file": "https://serpapi.com/searches/LCaOS-Ls-783wJzt6BDbAkbvMy1eqYy7tiaG6BZuOCI/6ab229ba95e0b36fd448637f.html",
+    "total_time_taken": 6.14
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "bans microplastics drinking water new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "A Columbia team counted about 240,000 plastic particles in a litre of bottled water and put their mass at roughly 10 nanograms: four and a half years into treaty talks there is no agreed text, and the only microplastics banned EU-wide are microbeads and glitter",
+      "source": {
+        "name": "Silicon Canals",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://siliconcanals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://siliconcanals.com/jcb-a-columbia-team-counted-about-240-000-plastic-particles-in-a-litre-of-bottled-water-and-put-their-mass-at-roughly-10-nanograms-four-and-a-half-years-into-treaty-talks-there-is-no-agreed-text-and-t/",
+      "thumbnail": "https://siliconcanals.com/wp-content/uploads/2026/09/bottled-water-microplastics.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXBVVk5oYkVsb2N6aGtRbkpNVFJERUF4aW1CU2dLTWdzQkVJYWhwS05ENW5wY05n",
+      "date": "09/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-02T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "India has found microplastics everywhere. So why are we still unsure how to regulate them?",
+      "source": {
+        "name": "Down To Earth",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.downtoearth.org.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.downtoearth.org.in/waste/india-has-found-microplastics-everywhere-so-why-are-we-still-unsure-how-to-regulate-them",
+      "thumbnail": "https://cf-images.assettype.com/downtoearth/2026-09-14/iomwtx5g/iStock-1170923784.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVhVzVFWVhkeVlucGxSVXhsVFJERUF4aW1CU2dLTWdhVm9vNXRPUVk",
+      "date": "09/14/2026, 09:43 AM, +0000 UTC",
+      "iso_date": "2026-09-14T09:43:17Z"
+    },
+    {
+      "position": 3,
+      "title": "Quarterly Victories: Summer 2026 Update",
+      "source": {
+        "name": "Food & Water Watch",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.foodandwaterwatch.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.foodandwaterwatch.org/2026/06/11/summer-2026-victories/",
+      "thumbnail": "https://www.foodandwaterwatch.org/wp-content/uploads/2025/06/Summer-Victories-1024x427.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZSV1puTjJOWVFrbFZTVlpMVFJEbEFoamFCaWdLTWdZUkVJcnFuUWc",
+      "date": "06/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-11T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Contaminants Compass",
+      "source": {
+        "name": "McGuireWoods",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mcguirewoods.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mcguirewoods.com/contaminants-compass/",
+      "thumbnail": "https://www.mcguirewoods.com/wp-content/uploads/sites/2/2026/05/Contaminants-Compass-archive-banner-1024x299.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5ZMlpDZUZCR1gweGtRMlJ5VFJDckFoaUFDQ2dLTWdNQlVBTQ",
+      "date": "05/19/2026, 10:55 AM, +0000 UTC",
+      "iso_date": "2026-05-19T10:55:53Z"
+    },
+    {
+      "position": 5,
+      "title": "Good News This Week: California City Banned Datacenters for Good, a Teenager Filtered Out Microplastics, and FIFA Reversed Its Water Bottle Ban",
+      "source": {
+        "name": "we are mitú",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://wearemitu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://wearemitu.com/wearemitu/news/good-news-this-week-datacenters-microplastic-filter-fifa/",
+      "thumbnail": "https://d18ufwot1963hr.cloudfront.net/wp-content-production/uploads/2026/06/Good-News-04-1244x700.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtUazF1YkhOUmJFMXNWREJPVFJDb0FSaXJBaWdCTWdB",
+      "date": "06/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-19T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Illinois law is the first in the Great Lakes region to designate industrial plastic pellets as pollution",
+      "source": {
+        "name": "Chicago Tribune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.chicagotribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Hawthorne"
+        ]
+      },
+      "link": "https://www.chicagotribune.com/2026/08/11/plastic-pellets-nurdles-pollution-illinois-law/",
+      "thumbnail": "https://www.chicagotribune.com/wp-content/uploads/2026/08/CTC-L-microplastics-illinois-law03_265519393.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURVREZKVTNSRGEyRmhjalIxVFJERUF4aW1CU2dLTWdhdDhvZ1RTUVE",
+      "date": "08/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-11T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "EPA announces steps to address microplastics, pharmaceuticals in drinking water",
+      "source": {
+        "name": "WHYY",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://whyy.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zoe Read"
+        ]
+      },
+      "link": "https://whyy.org/articles/microplastics-pharmaceuticals-drinking-water-epa-trump/",
+      "thumbnail": "https://whyy.org/wp-content/uploads/2026/04/microplastics-ap-file-2020-768x432.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1iR0ZMTUdaS2IwRlZRbGR5VFJDZkF4ampCU2dLTWdhZEFZNk9nUXc",
+      "date": "04/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-03T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Trump admin to weaken 'forever chemicals' ban, but many Americans are concerned about safe drinking water",
+      "source": {
+        "name": "Audacy",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.audacy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lauren Barry"
+        ]
+      },
+      "link": "https://www.audacy.com/national/news/trump-admin-to-weaken-forever-chemicals-ban-but-many-americans-are-concerned-about-safe-drinking-water",
+      "thumbnail": "https://www.audacy.com/media-library/nearly-half-of-u-s-tap-water-contains-forever-chemicals-study-finds.jpg?id=66712035&width=1245&height=700&quality=70&coordinates=0%2C42%2C0%2C43",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUhWV1JJT0Voc05EZG1XRXhQVFJDZkF4ampCU2dLTWdB",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "RFK Jr. takes action on microplastics, PFAS in water. Here's what to know.",
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sara Moniuszko"
+        ]
+      },
+      "link": "https://www.usatoday.com/story/life/health-wellness/2026/04/02/rfk-jr-microplastics-pfas-water/89432848007/",
+      "thumbnail": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/02/USAT/89439326007-20260402-t-184720-z-1853405057-rc-26-hkav-6-z-6-c-rtrmadp-3-usaepamicroplastics.JPG?crop=5499,3093,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRNbEZpV0VSU1EyUkVWVkpVVFJDb0FSaXNBaWdCTWdheE1aU3VMUWM",
+      "date": "04/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-02T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "RFK Jr launches $134M+ national program to study microplastics in the human body, drinking water",
+      "source": {
+        "name": "Fox News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexandra Koch"
+        ]
+      },
+      "link": "https://www.foxnews.com/health/rfk-jr-launches-134m-national-program-study-microplastics-human-body-drinking-water",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1280/720/microplastic.png?ve=1&tl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlabVJDT1RGSGJUZFpTV3hLVFJDZkF4ampCU2dLTWdZTk1ZU2xSZ1E",
+      "date": "04/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-02T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Posts claim EPA added abortion meds, birth control to water contaminant 'watch list.' We broke down the facts",
+      "source": {
+        "name": "Snopes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.snopes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Grace Deng"
+        ]
+      },
+      "link": "https://www.snopes.com/fact-check/epa-birth-control-abortion-meds/",
+      "thumbnail": "https://mediaproxy.snopes.com/width/600/https://media.snopes.com/2026/05/birth_control.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhTamRaWkdGc04wcEVVazF3VFJEU0FoallCQ2dLTWdhSlpZaW9xZ2c",
+      "date": "05/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "As plastics clog the Great Lakes, industry presses to make more and downplays dangers, Tribune analysis finds",
+      "source": {
+        "name": "Chicago Tribune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.chicagotribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Hawthorne"
+        ]
+      },
+      "link": "https://www.chicagotribune.com/2026/05/31/plastics-clog-the-great-lakes/",
+      "thumbnail": "https://www.chicagotribune.com/wp-content/uploads/2026/05/ctc-l-plastics-erie34_262493448.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBORkJWV2pWNVkzQXpjRnBCVFJERUF4aW5CU2dLTWdZQlFwSVRIUWs",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Microplastics Update: Regulatory and Litigation Developments in 2025",
+      "source": {
+        "name": "Crowell & Moring LLP",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.crowell.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.crowell.com/en/insights/client-alerts/microplastics-update-regulatory-and-litigation-developments-in-2025",
+      "thumbnail": "https://www.crowell.com/a/web/MsQPDqsu9FAgFnAX7s4tp/aWUN7P/2025-11-13_microplastics_upt_2025.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZiWFJVVWtwSlZqTXpOMUpTVFJDaUFSaTNBaWdCTWdZRklJcWtGZ3M",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "EU cracks down on forever chemicals in drinking water. Will it work?",
+      "source": {
+        "name": "Euronews.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.euronews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Liam Gilliver"
+        ]
+      },
+      "link": "https://www.euronews.com/2026/01/14/eu-cracks-down-on-forever-chemicals-with-new-protections-for-drinking-water-what-will-chan",
+      "thumbnail": "https://images.euronews.com/articles/stories/09/61/12/75/1536x864_cmsv2_e2767eed-4242-5391-b30e-b56f0ca971d6-9611275.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1WbkJwWTI5SU15MWpiekpHVFJDZkF4ampCU2dLTWdhcE5KRE9JUWc",
+      "date": "01/13/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-13T08:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Bottled water contains 3 times more nanoplastics than tap water",
+      "source": {
+        "name": "Cleveland.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cleveland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julie Washington"
+        ]
+      },
+      "link": "https://www.cleveland.com/medical/2026/02/bottled-water-contains-3-times-more-nanoplastics-than-tap-water.html",
+      "thumbnail": "https://www.cleveland.com/resizer/v2/TVMEX72YWBAGTN4DHGXR7TTAG4.jpg?auth=e2282fa9fff7d08179f66bed774d174f968ba6f864148993d12e146d2bb940cc&width=500&smart=true&quality=90",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRVemhmYVdKcVFtcFdXRFpOVFJEakF4ajBBeWdLTWdZVlVvb09zUVU",
+      "date": "02/13/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-13T08:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Sierra Club supports new microplastics bill package with committee testimony",
+      "source": {
+        "name": "Sierra Club",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sierraclub.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nora Naughton"
+        ]
+      },
+      "link": "https://www.sierraclub.org/michigan/blog/2025/09/sierra-club-supports-new-microplastics-bill-package-committee-testimony",
+      "thumbnail": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/2025-09/screenshot-2025-09-09-at-3.48.20-pm.png.webp?itok=JKkgNoly",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNPWE13UVVreFVrZzBjbWRCVFJDMkF4aThCU2dLTWdB",
+      "date": "09/10/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-10T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "EPA takes first step to regulate microplastics in drinking water",
+      "source": {
+        "name": "NBC News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Erika Edwards",
+          "Aria Bendix"
+        ]
+      },
+      "link": "https://www.nbcnews.com/health/health-news/epa-microplastics-antidepressants-water-list-rfk-jr-zeldin-rcna266439",
+      "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2026-03/260304-Robert-F-Kennedy-Jr-ch-1316-fb5b42.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNiVFZhWldwaFUydEpVelJCVFJDSEF4aVBCaWdLTWdheFZJcXZKUWc",
+      "date": "04/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-02T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Plastic Pollution Fight Goes Local as Broader Efforts Fall Short",
+      "source": {
+        "name": "Bloomberg Law News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.bloomberglaw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah J. Morath"
+        ]
+      },
+      "link": "https://news.bloomberglaw.com/us-law-week/plastic-pollution-fight-goes-local-as-broader-efforts-fall-short",
+      "thumbnail": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F9b%2Fa7%2Faefc69fa4cdc978f561616fa2c94%2Fbli-scientist-exam-water2.png&width=1240&height=480&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhkSGxETlRsbGN5MHhSREY0VFJDTEFSanBBaWdCTWdrZEZJWnNuV2Q3TVFF",
+      "date": "05/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-08T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Managing microplastics across the Delaware River Watershed",
+      "source": {
+        "name": "NJ Spotlight News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.njspotlightnews.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maddy Lauria"
+        ]
+      },
+      "link": "https://www.njspotlightnews.org/2025/12/managing-microplastics-across-the-delaware-river-watershed/",
+      "thumbnail": "https://www.njspotlightnews.org/wp-content/uploads/sites/123/2025/12/IMG_7110-1536x2048-1-225x300.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRMHhvZFRRNVFWaGFSMmxUVFJDc0FoamhBU2dLTWdZQkVKQUZMZ1k",
+      "date": "12/23/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-23T08:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "How to Submit a Comment to EPA to Protect Water from Microplastics",
+      "source": {
+        "name": "Food & Water Watch",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.foodandwaterwatch.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mary Grant"
+        ]
+      },
+      "link": "https://www.foodandwaterwatch.org/2026/07/16/microplastics-epa-public-comment/",
+      "thumbnail": "https://www.foodandwaterwatch.org/wp-content/uploads/2026/07/EPA-Microplastics-Comment-Final.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtlbEJYZDBWaFZVMTNRMFphVFJEbUFoalpCaWdLTWdtcFFZS3VOU1F1cHdJ",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Susanne Rust"
+        ]
+      },
+      "link": "https://www.yahoo.com/news/politics/articles/bold-pledge-epa-shelves-microplastics-100000310.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/ecf47d593e665c1b1f19d9f0db40227a5c7b8681299d39fcffb36040d8f40be5/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F37f643cfa4ac6de827d85d7e02c4855d.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWxhbVIxVW5KQ2JHcFVVVzlKVFJERUF4aW1CU2dLTWdB",
+      "date": "06/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-30T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "‘Clean water,’ ‘equity,’ ‘microplastics’ and other words banned in leaked USDA memo",
+      "source": {
+        "name": "Investigate Midwest",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://investigatemidwest.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joel Bleifuss"
+        ]
+      },
+      "link": "https://investigatemidwest.org/2025/04/07/clean-water-equity-microplastics-and-other-words-banned-in-leaked-usda-memo/",
+      "thumbnail": "https://i0.wp.com/investigatemidwest.org/wp-content/uploads/2025/04/leakedmemo.png?fit=539%2C465&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUZRMUZyU3pOeVpEQlRZV1U1VFJEUkF4aWJCQ2dLTWdPUk5TQQ",
+      "date": "04/07/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-07T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Per- and Polyfluoroalkyl Substances (PFAS)",
+      "source": {
+        "name": "fda.gov",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fda.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.fda.gov/food/environmental-contaminants-food/and-polyfluoroalkyl-substances-pfas",
+      "thumbnail": "https://www.fda.gov/files/2024-04-11-PFAS-1600x900-151025%20wlogo.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNZVWR0YzJoQ2QyNUhXblZDVFJDZkF4ampCU2dLTWdrQklJeDRwS2pReGdJ",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "CA nears first-in-nation ban on plastic glitter in cosmetics",
+      "source": {
+        "name": "CalMatters",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://calmatters.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lynn La"
+        ]
+      },
+      "link": "https://calmatters.org/newsletter/glitter-cosmetics-ban-newsletter/",
+      "thumbnail": "https://i0.wp.com/calmatters.org/wp-content/uploads/2025/07/070825_Makeup_ISTOCK_CM_01.jpg?resize=780%2C519&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9jblJqVUhaemVrbFRXVUpyVFJERUF4aW5CU2dLTWdZUlpJSklzZ00",
+      "date": "07/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-09T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Premature or precautionary? California is first to tackle microplastics in drinking water",
+      "source": {
+        "name": "CalMatters",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://calmatters.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rachel Becker"
+        ]
+      },
+      "link": "https://calmatters.org/environment/2021/03/california-microplastics-drinking-water/",
+      "thumbnail": "https://i0.wp.com/calmatters.org/wp-content/uploads/2021/03/Courtesy_microplastics_UToronto_01.jpg?fit=1200%2C800&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJjWEpVTjJNMWJIZEdRazlqVFJERUF4aW1CU2dLTWdZZElJckxuQVE",
+      "date": "03/15/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-03-15T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Solving the world’s microplastics problem: 4 solutions cities and states are trying after global treaty talks collapsed",
+      "source": {
+        "name": "The Conversation",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah J. Morath"
+        ]
+      },
+      "link": "https://theconversation.com/solving-the-worlds-microplastics-problem-4-solutions-cities-and-states-are-trying-after-global-treaty-talks-collapsed-263782",
+      "thumbnail": "https://images.theconversation.com/files/689961/original/file-20250909-56-73gur6.jpg?ixlib=rb-4.1.1&rect=21%2C0%2C3018%2C2012&q=50&auto=format&w=768&h=512&fit=crop&dpr=2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNlSFpHVUhocE5uaGpZMlZYVFJDM0FSaVRBaWdCTWdZQklZNU9LUWM",
+      "date": "09/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-15T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "California Environmental Law & Policy Update 7.10.26",
+      "source": {
+        "name": "JD Supra",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.jdsupra.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.jdsupra.com/legalnews/california-environmental-law-policy-7047305/",
+      "date": "07/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-13T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Oregon could ban more single-use plastics, require washing machine filters",
+      "source": {
+        "name": "Statesman Journal",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.statesmanjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tracy Loew"
+        ]
+      },
+      "link": "https://www.statesmanjournal.com/story/news/politics/2025/02/17/oregon-microplastic-pollution-single-use-plastic-bills/78292105007/",
+      "thumbnail": "https://www.statesmanjournal.com/gcdn/presto/2018/08/07/PSAL/0062bf0e-de22-498b-9d62-7fd444e50f5d-PlasticBags_ar_05.JPG?crop=2399,1343,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdhVlEwUjIxelJqRnBTR2xIVFJEekFoaVVCU2dLTWdZQlVJWU1wZ2c",
+      "date": "02/17/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-17T08:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "EPA moves to designate microplastics and pharmaceuticals as contaminants in drinking water",
+      "source": {
+        "name": "The Boston Globe",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jennifer G. Mcdermott",
+          "Ali Swenson"
+        ]
+      },
+      "link": "https://www.bostonglobe.com/2026/04/06/nation/epa-contaminants-drinking-water/",
+      "thumbnail": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ZKAX4CDFUBGFLA6W4RNMB3356Y.jpg?auth=15c92c2f80c20c7ce0874fe931a263b73163557a446baf444f50298316d369c7&width=1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5OMlF4ZUVWR1oxbDVURlpOVFJEREF4aW9CU2dLTWdhQlE0Q3EzUUU",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "DAILY DIGEST, 6/30-7/1: EPA shelves microplastics testing in U.S. drinking water; Klamath Dams removal notches another big win for salmon; Will runoff water from Boyle Heights warehouse contaminate LA River?; Colorado’s top negotiator says lower basin",
+      "source": {
+        "name": "Maven's Notebook",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mavensnotebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://mavensnotebook.com/2026/06/30/daily-digest-6-30-7-1-epa-shelves-microplastics-testing-in-u-s-drinking-water-klamath-dams-removal-notches-another-big-win-for-salmon-will-runoff-water-from-boyle-heights-warehouse-contaminate-la/",
+      "thumbnail": "https://mavensnotebook.com/wp-content/uploads/2023/02/Header_Daily-2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRlREUzV25SWE0waHhNVXRaVFJDSEF4aVBCaWdLTWdhaE5KS0xIUWs",
+      "date": "06/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-30T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Legislators, Advocates and Farmers Call for Ban of Toxic Sewage Sludge on Farmland",
+      "source": {
+        "name": "nysenate.gov",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nysenate.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nysenate.gov/newsroom/press-releases/2025/pete-harckham/legislators-advocates-and-farmers-call-ban-toxic-0",
+      "thumbnail": "https://www.nysenate.gov/sites/default/files/styles/760x377/public/2025/05/02/biosolids-press-conf-1-4-30-25.jpg?itok=lMSKpR0p",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtibEpHZVhjMlMyZGlNM1JwVFJDZkFSaS1BaWdCTWdZQkFKWUVsZ2s",
+      "date": "05/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-02T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Here’s what you’re really swallowing when you drink bottled water",
+      "source": {
+        "name": "washingtonpost.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shannon Osaka"
+        ]
+      },
+      "link": "https://www.washingtonpost.com/climate-environment/2024/01/08/microplastics-nanoplastics-bottled-water-study/",
+      "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3PNPE4OXWN4CCSDK4NARFYBIIQ.jpg&w=1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhTM2MwY0hrdFQwTnZVekJCVFJERUF4aW1CU2dLTWdZUlpZNm9xUVk",
+      "date": "01/09/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-09T08:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Michigan steps-up hunt for microplastic pollution in state waters",
+      "source": {
+        "name": "MLive.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Garret M. Ellison"
+        ]
+      },
+      "link": "https://www.mlive.com/environment/2025/09/michigan-steps-up-scrutiny-of-microplastic-pollution-in-state-waters.html",
+      "thumbnail": "https://www.mlive.com/resizer/v2/QAP53U2Y5JHM5KPXQBEOEP6JLI.JPG?auth=b2a670889f522e19c9de17b155e13a05b74a7a960b7dda6c0c7fdc078a1e5fb0&width=1280&smart=true&quality=90",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhbEZ4UkRZNWNXdHlNV00zVFJERUF4aW1CU2dLTWdhVmNvcU93UVE",
+      "date": "09/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-14T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Microplastics: what are they and why are they a problem",
+      "source": {
+        "name": "ClientEarth",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.clientearth.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.clientearth.org/latest/news/microplastics-what-are-they-and-why-are-they-a-problem/",
+      "thumbnail": "https://www.clientearth.org/media/m4ybmgki/trash-4897350_1920.jpg?width=880&height=540&format=webp&v=1db61b8a6c90430",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVWMDFQWDI1c1drdDNTVkY0VFJDeUF4akRCU2dLTWdhQkVJelVFQXM",
+      "date": "12/19/2023, 01:42 AM, +0000 UTC",
+      "iso_date": "2023-12-19T01:42:12Z"
+    },
+    {
+      "position": 35,
+      "title": "Fast fashion: EU laws for sustainable textile consumption",
+      "source": {
+        "name": "European Parliament",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.europarl.europa.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.europarl.europa.eu/topics/en/article/20201208STO93327/fast-fashion-eu-laws-for-sustainable-textile-consumption",
+      "thumbnail": "https://www.europarl.europa.eu/resources/library/images/20250910PHT30261/20250910PHT30261-cl.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRMmswVFcwMFZEQXdNV3RTVFJEckJCanZBeWdLTWdZZEJJYk5MUWc",
+      "date": "09/12/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-12T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "NATIONAL STRATEGY TO END THE USE OF PAPER STRAWS",
+      "source": {
+        "name": "The White House (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.whitehouse.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.whitehouse.gov/fact-sheets/2025/03/a-report-of-the-domestic-policy-council/",
+      "thumbnail": "https://www.whitehouse.gov/wp-content/uploads/2025/04/Screenshot-2025-04-06-145201.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkRjgxY25SWWMyTlhaME01VFJDeUFoanJCeWdLTWdhSk1ab25IZ28",
+      "date": "03/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-28T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "NEW REPORT: California’s plastic bag regulation isn’t working as intended",
+      "source": {
+        "name": "Environment America",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://environmentamerica.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://environmentamerica.org/california/media-center/new-report-californias-plastic-bag-regulation-isnt-working-as-intended/",
+      "date": "02/08/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-02-08T08:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Drinking bottled water every day exposes you to up to 90,000 microplastics a year",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zainab Husain"
+        ]
+      },
+      "link": "https://gulfnews.com/uae/environment/drinking-bottled-water-every-day-exposes-you-to-up-to-90000-microplastics-a-year-1.500392980",
+      "thumbnail": "https://media.assettype.com/gulfnews/2025-12-29/tyoi95jc/Microplastic?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdOVnBmUVd0R1NsZE9YMEZCVFJERUF4aW1CU2dLTWdrQllJamd2Q05wTGdJ",
+      "date": "12/29/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-29T08:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "‘Even if we stop drinking we will be exposed’: a French region has banned tap water. Is it a warning for the rest of Europe?",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Phoebe Weston"
+        ]
+      },
+      "link": "https://www.theguardian.com/environment/2025/jul/01/pfas-forever-chemicals-water-contamination-saint-louis-france-aoe",
+      "thumbnail": "https://i.guim.co.uk/img/media/1d776806465ff16d11054845f43dee6158d7f3a8/0_0_6771_4514/master/6771.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVkREpzWmsxdlRsaGZUbDlZVFJDMkFoalJBeWdLTWdrbEU0Z3lrU3FMRXdF",
+      "date": "07/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-01T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "California Gov. Gavin Newsom signs law banning grocery stores from offering plastic bags",
+      "source": {
+        "name": "Sacramento Bee",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sacbee.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andrew Sheeler"
+        ]
+      },
+      "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article292903394.html",
+      "thumbnail": "https://www.sanluisobispo.com/public/latest-news/2m71pd/picture275681086/alternates/LANDSCAPE_1200/new%20bag%20photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJhVEV0YkhkUE1FeG5UVkZFVFJDZkF4ampCU2dLTWdhRllZYlR6QUk",
+      "date": "09/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-23T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Yes, Detergent Pods Are Plastic. No, You Shouldn’t Worry About Them.",
+      "source": {
+        "name": "nytimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nytimes.com/wirecutter/reviews/advice-plastic-in-detergent-pods/",
+      "thumbnail": "https://cdn.thewirecutter.com/wp-content/media/2025/11/ADVICE-PVA-PVOH-PODS-TopArt-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdZbEJYYlZKM00yczNNRTV2VFJDSEF4aVBCaWdLTWdhSllwS3RLUWM",
+      "date": "11/10/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-10T08:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "California Governor signs bill to ban all plastic bags at checkout",
+      "source": {
+        "name": "PIRG",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pirg.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://pirg.org/updates/california-governor-signs-bill-to-ban-all-plastic-bags-at-checkout/",
+      "thumbnail": "https://pirg.org/wp-content/uploads/2024/04/AS_090224_untitled_0112-resized.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpTRU5hYjJNeFZVSk9iMmhZVFJDZkF4ampCU2dLTWdZQlVJN0ZLUWc",
+      "date": "09/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-23T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Plastics and Human Health | Plastics and the Environment Series",
+      "source": {
+        "name": "Geneva Environment Network",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.genevaenvironmentnetwork.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.genevaenvironmentnetwork.org/resources/updates/plastics-and-health/",
+      "thumbnail": "https://www.genevaenvironmentnetwork.org/wp-content/uploads/2022/07/GENPlastics_health.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFMVkUzV2tRd09UWjBXVXRoVFJDdEF4akxCU2dLTWdhUk1wUXBzUVk",
+      "date": "07/10/2022, 12:50 AM, +0000 UTC",
+      "iso_date": "2022-07-10T00:50:17Z"
+    },
+    {
+      "position": 44,
+      "title": "The UK is falling behind in tackling microplastic pollution – here are three ways the government can catch up",
+      "source": {
+        "name": "University of Portsmouth",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.port.ac.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.port.ac.uk/news-events-and-blogs/blogs/academic-expertise/the-uk-is-falling-behind-in-tackling-microplastic-pollution-here-are-three-ways-the-government-can-catch-up",
+      "thumbnail": "https://www.port.ac.uk/sites/default/files/styles/event_blog_news_mobile/public/media/images/shutterstock_1491378407.jpg?itok=tgw13Hto",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1XSHBOWldWT1FuWkRNbDloVFJEQUFoamdBeWdLTWdhVm9vNXRPUVk",
+      "date": "05/07/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-07T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Single-Use Plastics",
+      "source": {
+        "name": "Britannica",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.britannica.com/procon/single-use-plastics-debate",
+      "thumbnail": "https://cdn.britannica.com/10/260710-050-DA1C481F/Fruit-coolers-cocktails-for-sale-market-Barcelona-Spain.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVRVTltYVRSTE1XNVRiazVHVFJEZ0F4aUFCU2dLTWdrQkFJWkFEQ1FzLUFB",
+      "date": "09/16/2026, 05:00 AM, +0000 UTC",
+      "iso_date": "2026-09-16T05:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Alarm as microplastics are found in human blood for the first time",
+      "source": {
+        "name": "WAMC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wamc.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.wamc.org/news/2022-03-30/alarm-as-microplastics-are-found-in-human-blood-for-the-first-time",
+      "thumbnail": "https://npr.brightspotcdn.com/dims4/default/24227f1/2147483647/strip/true/crop/500x300+0+0/resize/880x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwamc%2Ffiles%2F201511%2Fmicrobeads-5-gyres.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDViVFF6ZEhsSlgydEROWGw1VFJDdEF4akxCU2dLTWdrQkE0Wk1CU3FoYVFJ",
+      "date": "03/30/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-03-30T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "England to ban plastic wet wipes in a bid to clean up rivers and seas",
+      "source": {
+        "name": "Positive News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.positive.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tom Pattinson"
+        ]
+      },
+      "link": "https://www.positive.news/environment/england-to-ban-plastic-wet-wipes/",
+      "thumbnail": "https://www.positive.news/wp-content/uploads/2025/11/iStock-1168730611-1800x0-c-center.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9RekoyYmxneE5ucG9UMW95VFJERUF4aW1CU2dLTWdZQlVJUUt0Z1k",
+      "date": "11/19/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-19T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Interactive Map: PFAS Contamination Crisis: New Data Show 9,728 Sites in 50 States",
+      "source": {
+        "name": "Environmental Working Group",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ewg.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ewg.org/interactive-maps/pfas_contamination/",
+      "thumbnail": "https://static.ewg.org/reports/2019/pfas-contamination/img/EWG_InteractiveMap-Link_PFASMap_C01.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbHBTVjNWNlIwUlBOamhLVFJDMUFoamZCeWdLTWdNcEl3dw",
+      "date": "05/04/2020, 04:23 PM, +0000 UTC",
+      "iso_date": "2020-05-04T16:23:32Z"
+    },
+    {
+      "position": 49,
+      "title": "How microplastics are infiltrating the food you eat",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Isabelle Gerretsen"
+        ]
+      },
+      "link": "https://www.bbc.com/future/article/20230103-how-plastic-is-getting-into-our-food",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/480xn/p0dsv66n.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNURk5zYlU5M1drSkpNMWwxVFJDT0FoamdBeWdLTWdZdFE0eE9MUVU",
+      "date": "01/04/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-01-04T08:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Inhaling, eating, drinking plastic",
+      "source": {
+        "name": "newagebd.net",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newagebd.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newagebd.net/post/opinion/271697/inhaling-eating-drinking-plastic",
+      "thumbnail": "https://outspoken.newagebd.com/files/img/202507/c2f040c5223e93765328dc9283ed34fd.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNYMVZ3Y3pKRWNVVnJSMW8zVFJDaEF4amdCU2dLTWdZTmQ0NW9yZ1U",
+      "date": "08/04/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-04T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "California Bans All Plastic Bags After Its First Effort Backfired (Published 2024)",
+      "source": {
+        "name": "nytimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Soumya Karlamangla"
+        ]
+      },
+      "link": "https://www.nytimes.com/2024/09/23/us/california-plastic-bags-ban.html",
+      "thumbnail": "https://static01.nyt.com/images/2024/09/23/multimedia/23nat-bags-vklf/23nat-bags-vklf-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9PREpOVEVsWWJVUlFZM280VFJDUUF4allCQ2dLTWdZQlFJeEdwUVk",
+      "date": "09/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-23T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Brevard County extends ban on sewage sludge, citing water pollution concerns",
+      "source": {
+        "name": "Florida Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.floridatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jim Waymer"
+        ]
+      },
+      "link": "https://www.floridatoday.com/story/news/local/environment/2026/05/06/brevard-bans-spread-sewage-sludge-until-new-florida-rules-kick-in/89951980007/",
+      "thumbnail": "https://www.floridatoday.com/gcdn/-mm-/fb370a0967a5575887ef4937f956f293f7f09fb9/c=0-923-1732-1897/local/-/media/2015/07/31/Brevard/B9318274690Z.1_20150731141525_000_GKBBG65P6.1-0.jpg?width=660&height=371&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlREZhTUhFelVpMVFVSEUzVFJEekFoaVVCU2dLTWdZQk41SWt0d2M",
+      "date": "05/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-06T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "France advances the fight against plastic pollution",
+      "source": {
+        "name": "surfrider.eu",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://surfrider.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://surfrider.eu/news/surfrider-europe-obtient-plus-dengagements-contre-pollution-plastique-niveau-francais/",
+      "thumbnail": "https://surfrider.eu/wp-content/uploads/2023/06/2005055591.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpaWG8zZFRkWVRHTjBlbWRSVFJEZEF4aURCU2dLTWdtQjVJcGx6aVJra0FF",
+      "date": "04/22/2026, 03:57 PM, +0000 UTC",
+      "iso_date": "2026-04-22T15:57:09Z"
+    },
+    {
+      "position": 54,
+      "title": "Leaked Memo Reveals Insane Ban on Words Agriculture Department Can Say",
+      "source": {
+        "name": "The New Republic",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newrepublic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ellie Houghtaling"
+        ]
+      },
+      "link": "https://newrepublic.com/post/193395/agriculture-department-ban-words-safe-drinking-water",
+      "thumbnail": "https://images.newrepublic.com/01e75461567117c7934de1c447c0078b63f14dd1.jpeg?auto=format&fit=crop&crop=faces&q=65&w=768&ar=3%3A2&ixlib=react-9.11.0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlZalE0V0V4b1pVY3dOa1E0VFJERUF4aW1CU2dLTWdZaEFxRDBqQXM",
+      "date": "03/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-31T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Up, Up and Not OK: Letting Go of Balloons Could Soon Be Illegal in Florida (Published 2024)",
+      "source": {
+        "name": "nytimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cara Buckley"
+        ]
+      },
+      "link": "https://www.nytimes.com/2024/05/08/climate/florida-balloons-outdoors-ban.html",
+      "thumbnail": "https://static01.nyt.com/images/2024/05/08/science/08CLI-BALLOONBAN/08CLI-BALLOONBAN-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFZVE5QYTJoUlVVSklRbE5ZVFJDUUF4allCQ2dLTWdiQjBZN1VRQVU",
+      "date": "05/08/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-05-08T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Also fed up with microplastics?",
+      "source": {
+        "name": "FPS Public Health",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.health.belgium.be&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.health.belgium.be/en/news/2023-10-also-fed-microplastics",
+      "thumbnail": "https://www.health.belgium.be/sites/default/files/styles/full_scaled_mini/public/media/images/2025-11/kim_inleiding_eng.jpg?itok=6-taeXlC",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRjbE5EVDNCU1ozZDRjRTg1VFJDTEF4al9BaWdLTWdhZEJJaXVJUWc",
+      "date": "11/17/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-17T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Detecting and catching microplastics in our tap water using light",
+      "source": {
+        "name": "Open Access Government",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.openaccessgovernment.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emily Warrender"
+        ]
+      },
+      "link": "https://www.openaccessgovernment.org/electro-photonic-tweezer-detecting-microplastics-water-using-light-nanoplastics/154009/",
+      "thumbnail": "https://www.openaccessgovernment.org/wp-content/uploads/2023/03/iStock-1317882487-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9NMEZXTWpBd1UwbGpXbEJtVFJERUF4aW1CU2dLTWdrQk00WkpzZVM0YVFJ",
+      "date": "03/01/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-03-01T08:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Brevard County considers extending its ban on sewage sludge",
+      "source": {
+        "name": "Florida Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.floridatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jim Waymer"
+        ]
+      },
+      "link": "https://www.floridatoday.com/story/news/local/environment/2026/05/05/brevard-to-consider-keeping-temporary-biosolids-ban-for-seventh-year/89921404007/",
+      "thumbnail": "https://www.floridatoday.com/gcdn/-mm-/fb370a0967a5575887ef4937f956f293f7f09fb9/c=0-923-1732-1897/local/-/media/2015/07/31/Brevard/B9318274690Z.1_20150731141525_000_GKBBG65P6.1-0.jpg?width=660&height=371&fit=crop&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlREZhTUhFelVpMVFVSEUzVFJEekFoaVVCU2dLTWdZQk41SWt0d2M",
+      "date": "05/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Delaware River Basin Commission votes to ban fracking in the watershed",
+      "source": {
+        "name": "WHYY",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://whyy.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Susan Phillips"
+        ]
+      },
+      "link": "https://whyy.org/articles/delaware-river-basin-commission-votes-to-ban-fracking-in-the-watershed/",
+      "thumbnail": "https://whyy.org/wp-content/uploads/2021/02/Delaware-River-Project-21-768x512.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU1WakpJUVZWU05EWlJXVWRKVFJERUF4aW1CU2dLTWdPQnF3dw",
+      "date": "02/25/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-02-25T08:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Plastic pollution - the never ending story",
+      "source": {
+        "name": "WWF",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wwf.org.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.wwf.org.uk/learn/environment/plastic-pollution",
+      "thumbnail": "https://www.wwf.org.uk/sites/default/files/styles/ar_16x9_640px/public/2019-06/Plastic%20bag_0.jpg?h=82f92a78&itok=iohJfd6J",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9WM1J3ZUVneWFVTTFjV0pzVFJEb0FoaUFCU2dLTWdhbFJKS3dIUWc",
+      "date": "09/30/2025, 04:00 PM, +0000 UTC",
+      "iso_date": "2025-09-30T16:00:18Z"
+    },
+    {
+      "position": 61,
+      "title": "Microplastics Found in Drinking Water",
+      "source": {
+        "name": "Surfrider Foundation",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.surfrider.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.surfrider.org/news/microplastics-found-in-bottled-and-tap-drinking-water",
+      "thumbnail": "https://www.surfrider.org/hs/hsstatic/content_shared_assets/static-1.4092/img/default-amp-logo.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iKENnNU1iWGhVZW1oaGQyZHdOMjlxVFJBOEdEd29DaklHSFRPS3pyRUg",
+      "date": "09/29/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-09-29T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Are microplastics harmful? Health Canada funds research on potential risks",
+      "source": {
+        "name": "Global News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Saba Aziz"
+        ]
+      },
+      "link": "https://globalnews.ca/news/10268237/microplastic-risks-health-canada-research/",
+      "thumbnail": "https://i1.wp.com/media.globalnews.ca/videostatic/news/j4s6r4psah-zqj1i0wuot/ward.jpg?w=1040&quality=70&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhPVTFLWHpOa2FsSkxiRkUxVFJDZkF4ampCU2dLTWdhbEJJQU0yZ00",
+      "date": "02/02/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-02-02T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Tofino bans plastic water bottles",
+      "source": {
+        "name": "Ha-Shilth-Sa Newspaper",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://hashilthsa.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nora O'Malley"
+        ]
+      },
+      "link": "https://hashilthsa.com/news/2025-09-17/tofino-bans-plastic-water-bottles",
+      "thumbnail": "https://hashilthsa.com/sites/default/files/photos/1lilly-woodbury.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllblJUTm1kMVN6bHRjMEpOVFJEQkFSaUZBaWdCTWdZWkVKaVFEUXM",
+      "date": "09/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-17T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "What You Can Do to Fight Plastic Pollution",
+      "source": {
+        "name": "State of the Planet",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.climate.columbia.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Renee Cho"
+        ]
+      },
+      "link": "https://news.climate.columbia.edu/2018/05/11/can-fight-plastic-pollution/",
+      "thumbnail": "https://media.news.climate.columbia.edu/wp-content/uploads/2018/05/MarineLitter_BoEide-637x426.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXZTbmN5UTIxVlgxOXNhMDA0VFJDcUF4ajlCQ2dLTWc0QkFJU0FES1ZROWtpZTZITGhGZw",
+      "date": "05/11/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-05-11T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "New Illinois Law Bans Free Single-Use Plastic Bottles In Hotel Rooms To Cut Waste",
+      "source": {
+        "name": "Patch",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jonah Meadows"
+        ]
+      },
+      "link": "https://patch.com/illinois/evanston/new-illinois-law-bans-free-plastic-bottles-hotel-rooms-cut-waste",
+      "thumbnail": "https://patch.com/img/cdn20/users/22915293/20240906/020849/styles/patch_image/public/img-7966___06140749871.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlVWFZOZFZWdE5YaE9RbVF5VFJEZ0F4aUFCU2dLTWdrRklvb3FIU2lDMEFF",
+      "date": "09/06/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-06T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Worried about microplastics? You might want to start boiling your tap water, a new study suggests",
+      "source": {
+        "name": "Toronto Star",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kevin Jiang"
+        ]
+      },
+      "link": "https://www.thestar.com/news/canada/worried-about-microplastics-you-might-want-to-start-boiling-your-tap-water-a-new-study/article_754b72e4-d702-11ee-9b93-0f2bd79610de.html",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/e3/3e388501-ca44-52f3-ba92-d45e7c6d81a1/65e0b049971fb.image.jpg?resize=1200%2C800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhaRGxDYVc1VGJsQnhibVpYVFJERUF4aW1CU2dLTWdhZEE1QnNsUVk",
+      "date": "02/29/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-02-29T08:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "WHO launches health review after microplastics found in 90% of bottled water",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Graham Readfearn"
+        ]
+      },
+      "link": "https://www.theguardian.com/environment/2018/mar/15/microplastics-found-in-more-than-90-of-bottled-water-study-says",
+      "thumbnail": "https://i.guim.co.uk/img/media/039611ed1468ff485dbc9e8ac918a0b9b5306abd/71_0_4557_2736/master/4557.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtURXhYVXkxTk5uQlBlbXRNVFJDWEFoalJBeWdLTWdaSk1JcFlIQWs",
+      "date": "03/15/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-03-15T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "I Really Hate It When Robert F. Kennedy Jr. Is Right",
+      "source": {
+        "name": "The New Republic",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newrepublic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Liza Featherstone"
+        ]
+      },
+      "link": "https://newrepublic.com/article/178468/really-hate-robert-f-kennedy-jr-right",
+      "thumbnail": "https://images.newrepublic.com/ae9f3d2c01ae1a4fbf311e0c5da0a540d9041652.jpeg?auto=format&fit=crop&crop=faces&q=65&w=1000&ar=3%3A2&ixlib=react-9.11.0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTRGRQZDJ4V05rdHlkalJtVFJERUF4aW1CU2dLTWdhcFJZN3RJUWs",
+      "date": "01/29/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-29T08:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "WHO calls for more research into microplastics and a crackdown on plastic pollution",
+      "source": {
+        "name": "World Health Organization (WHO)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.who.int&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.who.int/news/item/22-08-2019-who-calls-for-more-research-into-microplastics-and-a-crackdown-on-plastic-pollution",
+      "thumbnail": "https://cdn.who.int/media/images/default-source/imported/plastic-bottles-floatting.jpg?sfvrsn=55b08987_19",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNURlY0VWpOT2JsQjRZelJuVFJDNUFSaVJBaWdCTWdhQk1vWmxvUVU",
+      "date": "08/22/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-08-22T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Solving the world’s microplastics problem: 4 solutions cities and states are trying after global treaty talks collapsed",
+      "source": {
+        "name": "Down To Earth",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.downtoearth.org.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah J. Morath"
+        ]
+      },
+      "link": "https://www.downtoearth.org.in/waste/solving-the-worlds-microplastics-problem-4-solutions-cities-and-states-are-trying-after-global-treaty-talks-collapsed",
+      "thumbnail": "https://cf-images.assettype.com/downtoearth/2025-09-17/a9qh2wt3/iStock-1409308613.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhTbU5zYldKM1VrSnZTRWR1VFJDZkF4ampCU2dLTWdZVkVZeUxHUVU",
+      "date": "09/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-17T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Plastic fibres found in tap water around the world, study reveals",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Damian Carrington"
+        ]
+      },
+      "link": "https://www.theguardian.com/environment/2017/sep/06/plastic-fibres-found-tap-water-around-world-study-reveals",
+      "thumbnail": "https://i.guim.co.uk/img/media/8823ba96e573ec93df2d311034849105be15b692/0_293_4696_2817/master/4696.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpOMXBUYjB4dmNTMVZNMUJqVFJDWEFoalJBeWdLTWdhdFFJWnZRUVE",
+      "date": "09/05/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-09-05T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "UK drinking water 99.9% free of microplastics, according to new study",
+      "source": {
+        "name": "CGTN",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newseu.cgtn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Thomas Wintle"
+        ]
+      },
+      "link": "https://newseu.cgtn.com/news/2020-09-15/UK-drinking-water-99-9-free-of-microplastics-according-to-new-study-TMJyhyM72E/index.html",
+      "thumbnail": "https://newseu.cgtn.com/news/2020-09-15/UK-drinking-water-99-9-free-of-microplastics-according-to-new-study-TMJyhyM72E/img/183d14430aae45f988e33a0fabf02914/183d14430aae45f988e33a0fabf02914.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVOR05wUW14QlgwczViRmhhVFJDZkF4ampCU2dLTWdiQklvUVVvUWM",
+      "date": "09/15/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-09-15T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Bye Bye, Balloons: Why This South African Park Banned Them",
+      "source": {
+        "name": "Global Citizen",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.globalcitizen.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lerato Mogoatlhe"
+        ]
+      },
+      "link": "https://www.globalcitizen.org/en/content/south-africa-park-bans-balloons/",
+      "thumbnail": "https://img.globalcitizen.org/uHXN9CUAdANnKc58JoQhG2zi5fL0NmhdAzv_dEUn/1600x900%2Ffilters%3Aquality%2885%29%3Afocal%281121%2C790%29%2Fhttps%3A%2F%2Fmedia.globalcitizen.org%2F65%2F6b%2F656b7880-1bdf-4bdf-b344-fddd4aba9c38%2Fballoons.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFNM1UxTmxaYVdFMDRVelpCVFJDb0FSaXNBaWdCTWdhVkFvb3BEZ28",
+      "date": "05/09/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-09T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Parents object to metal water bottle ban at private school",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/cities/Delhi/parents-object-to-metal-water-bottle-ban-at-private-school/article70520008.ece",
+      "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+      "date": "01/18/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-18T08:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Tackling plastic pollution",
+      "source": {
+        "name": "Greenpeace",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.greenpeace.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.greenpeace.org/aotearoa/explore/tackling-plastic-pollution/",
+      "thumbnail": "https://www.greenpeace.org/static/planet4-aotearoa-stateless/2018/04/d9e47d1b-gp0strjagtreated.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXViMjFwVVZoNldWTXhiMHRUVFJEREF4aW9CU2dLTWdZUmlKWm9yZ2M",
+      "date": "09/03/2024, 07:14 AM, +0000 UTC",
+      "iso_date": "2024-09-03T07:14:29Z"
+    },
+    {
+      "position": 76,
+      "title": "One-litre bottled water could contain about 240,000 plastic pieces: Study",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/india-news/one-litre-bottled-water-could-contain-about-240-000-plastic-pieces-study-124010901084_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-02/21/full/1550687568-3169.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBVazl5TkZJeVJYQmZjVnBxVFJEUUF4anNCQ2dLTWdrQklJeEFJeWMxVXdF",
+      "date": "01/09/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-09T08:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "QC bans disposable, single-use plastics at city hall, city-run facilities",
+      "source": {
+        "name": "Inquirer.net",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://newsinfo.inquirer.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jan Escosio"
+        ]
+      },
+      "link": "https://newsinfo.inquirer.net/2054839/qc-bans-disposable-single-use-plastics-at-city-hall-city-run-facilities",
+      "thumbnail": "https://newsinfo.inquirer.net/files/2025/04/belmote-22April2025.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBiREZPZW5KNFJYcFpORWhYVFJDZkF4ampCU2dLTWdZQmNJWk51QVE",
+      "date": "04/22/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-22T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "From trash to table Microplastics in our food chain",
+      "source": {
+        "name": "today.thefinancialexpress.com.bd",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://today.thefinancialexpress.com.bd&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://today.thefinancialexpress.com.bd/special-issues/world-environment-day-2025/from-trash-to-table-microplastics-in-our-food-chain-1749066480",
+      "thumbnail": "https://today.thefinancialexpress.com.bd/uploads/1749066480.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNSVlJWYnpGS01Hd3pPRlUzVFJERUF4aW1CU2dLTWdtQmNZYlZLR2lwVUFF",
+      "date": "06/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-05T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

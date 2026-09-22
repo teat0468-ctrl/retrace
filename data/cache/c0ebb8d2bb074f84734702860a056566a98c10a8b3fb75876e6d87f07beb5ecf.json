@@ -1,0 +1,307 @@
+{
+  "search_metadata": {
+    "id": "6ab229f9d649a9490c6fe0b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lmIrn40ftszTCCMMmxXeVl-j0hsB6teocgfKGyXpiPk/6ab229f9d649a9490c6fe0b8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lmIrn40ftszTCCMMmxXeVl-j0hsB6teocgfKGyXpiPk/6ab229f9d649a9490c6fe0b8.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/lmIrn40ftszTCCMMmxXeVl-j0hsB6teocgfKGyXpiPk/6ab229f9d649a9490c6fe0b8.json_with_pixel_position",
+    "created_at": "2026-09-22 07:10:49 UTC",
+    "processed_at": "2026-09-22 07:10:49 UTC",
+    "google_url": "https://www.google.com/search?q=dolphins+return+venice+canals+2025&oq=dolphins+return+venice+canals+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/lmIrn40ftszTCCMMmxXeVl-j0hsB6teocgfKGyXpiPk/6ab229f9d649a9490c6fe0b8.html",
+    "total_time_taken": 0.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "dolphins return venice canals 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "dolphins return venice canals 2025",
+    "total_results": 43,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "rzFEB3iczVXdcqpIEH6AfY71JomAYoKpok71jGgUoxJjsuaGQiADCgyKSMzd3u9j7FPt0-yA4l8kyTkXW0sVMNPT0z_T_c3359-eG8z--e0vZ7kMo1uOS5KkTCglnl02qc8Z0TowuVfqRQvT-RHReGHariWbzoL6dmm9kqslM5L5ku3KV0N_bcznI7Xd8Go9OvD6Rp_CqJSZkPWJEdlT5uFtGnE6xz6z36sNNilHZTsot55q0j2qifxUKld4oV7uc4bPFOC_e9pO-tVgBu1PlFKN7zyEgALQ2Qswzn7KgUo6IcwkToU4HZ_3qWwiesCbAGHQGLw3TIDGLpR-YRz4MFycbD0nmT-Uevwk2TPWsm9zO1OKFaEwG3JkAu4Plgrt4RNFFroGeCCmxvJNR5sJaHv37XRx20kmAemOogaCUXHkbIPahtoMNOWrYmvKk4hzV91xi0k4i7DG5bnJgv0EzjUdMxssorSf8WOdpy1nqVfe0ar5FJrSvBJKfvyoriWhI9CEMydMz6OGZVu6o_M_srlQEWp8vXojXWZAMqMdkqJDJD0md7yDekuKtXK3jIQcRnhXZ3wcv8Lm-FwLILxVxR_X8P60MewsE_VIaVNh1roEXhQ4rg-tZ8eMUC64iwAS5UBlH1Iq_Aij09BSGG1KSrLhts0Og2_D8CDRg8I2znTqh6yZ3y14tMYHxWMDCDoz2Cd8cocRQAi3NbQ5obmYxSQCOtYCTTsJJL0f2EXRzk97k0Ke0f0-H7aiZrhoYIyYXRqC1mZHuNFIN7g7q-jh5DpD5zHIygNd_AXgix70nRtTy_Fy0v6HsGn232jt0dVe56peTzzcsl9s_crCN80ZOQ8T6k9-gnHM_xWQcj7yMnkxkLRvAYkQpZiPNsM9H6VAwoSQAiApwwI-SnKVPR-dZo2HB0D6go9-FkjKp0DKQXoWSM1zQFKKgJTz0RGQhkd8hM7z0Q5Iv8JH6Bf5KMOVvfkdk1M8JYUkpSz7zzQwOj06Dxy1FbzXwzek8Q-GOta-JKlXf3nrG5Z3qbvWLap0lmvrUmcCemtbpblsUS903CC6WNjLeBFcrOzANe0L0wgML7qo8JVayfcWVOYNcdacxHD11kWGhTzSma75uOVXw0o8bWMUuo142VMhEqT4auB2m-Mn46WTPNZcrSeRZxBr_MvT_RBW1-v3UTjoBit11EyuhxNHcdRmaxw34Z52SDRGD6okXOvRNfWxFYMdh_rL2BeNP_puEAvPN4ZVu8GU971RFlgkE-k1jKeS6AWzkr8wZdYIIoGeBs8ETMBj0FgZNEzZm7D3mlUGlSLT0O1oJds3dUEUKlXztToRJrZU8slyHcp1vhQFC1n4F_7WQxU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rzFEB3iczVXdcqpIEH6AfY71JomAYoKpok71jGgUoxJjsuaGQiADCgyKSMzd3u9j7FPt0-yA4l8kyTkXW0sVMNPT0z_T_c3359-eG8z--e0vZ7kMo1uOS5KkTCglnl02qc8Z0TowuVfqRQvT-RHReGHariWbzoL6dmm9kqslM5L5ku3KV0N_bcznI7Xd8Go9OvD6Rp_CqJSZkPWJEdlT5uFtGnE6xz6z36sNNilHZTsot55q0j2qifxUKld4oV7uc4bPFOC_e9pO-tVgBu1PlFKN7zyEgALQ2Qswzn7KgUo6IcwkToU4HZ_3qWwiesCbAGHQGLw3TIDGLpR-YRz4MFycbD0nmT-Uevwk2TPWsm9zO1OKFaEwG3JkAu4Plgrt4RNFFroGeCCmxvJNR5sJaHv37XRx20kmAemOogaCUXHkbIPahtoMNOWrYmvKk4hzV91xi0k4i7DG5bnJgv0EzjUdMxssorSf8WOdpy1nqVfe0ar5FJrSvBJKfvyoriWhI9CEMydMz6OGZVu6o_M_srlQEWp8vXojXWZAMqMdkqJDJD0md7yDekuKtXK3jIQcRnhXZ3wcv8Lm-FwLILxVxR_X8P60MewsE_VIaVNh1roEXhQ4rg-tZ8eMUC64iwAS5UBlH1Iq_Aij09BSGG1KSrLhts0Og2_D8CDRg8I2znTqh6yZ3y14tMYHxWMDCDoz2Cd8cocRQAi3NbQ5obmYxSQCOtYCTTsJJL0f2EXRzk97k0Ke0f0-H7aiZrhoYIyYXRqC1mZHuNFIN7g7q-jh5DpD5zHIygNd_AXgix70nRtTy_Fy0v6HsGn232jt0dVe56peTzzcsl9s_crCN80ZOQ8T6k9-gnHM_xWQcj7yMnkxkLRvAYkQpZiPNsM9H6VAwoSQAiApwwI-SnKVPR-dZo2HB0D6go9-FkjKp0DKQXoWSM1zQFKKgJTz0RGQhkd8hM7z0Q5Iv8JH6Bf5KMOVvfkdk1M8JYUkpSz7zzQwOj06Dxy1FbzXwzek8Q-GOta-JKlXf3nrG5Z3qbvWLap0lmvrUmcCemtbpblsUS903CC6WNjLeBFcrOzANe0L0wgML7qo8JVayfcWVOYNcdacxHD11kWGhTzSma75uOVXw0o8bWMUuo142VMhEqT4auB2m-Mn46WTPNZcrSeRZxBr_MvT_RBW1-v3UTjoBit11EyuhxNHcdRmaxw34Z52SDRGD6okXOvRNfWxFYMdh_rL2BeNP_puEAvPN4ZVu8GU971RFlgkE-k1jKeS6AWzkr8wZdYIIoGeBs8ETMBj0FgZNEzZm7D3mlUGlSLT0O1oJds3dUEUKlXztToRJrZU8slyHcp1vhQFC1n4F_7WQxU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Maria Canals-Barrera (@maria_cb)",
+      "link": "https://www.instagram.com/maria_cb/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAV4dhEo3NtplbtNXQL7LWq3oGJB-fF9CmE2x2biTbU1QOFXA-qu6LoqaUDbLLoMPeOqo4chjmFqSH3pFu_wzvmMMsI1bgYIaHGC0J56PO0c_Ef7OYWNvp_C-OyKEk&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.instagram.com › maria_cb",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "... Canals-Barrera says she's ready to return to Theresa Russo for a possible film.",
+      "snippet_highlighted_words": [
+        "Canals",
+        "return"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... Canals-Barrera says she's ready to return to Theresa Russo for a possible film.",
+          "source_info_link": "https://www.instagram.com/maria_cb/?hl=en",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVjRkaEVvM050cGxidE5YUUw3TFdxM29HSkItZkY5Q21FMngyYmlUYlUxUU9GWEEtcXU2TG9xYVVEYkxMb01QZU9xbzRjaGptRnFTSDNwRnVfd3p2bU1Nc0kxYmdZSWFIR0MwSjU2UE8wY19FZjdPWVdOdnBfQy1PeUtFaxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVjRkaEVvM050cGxidE5YUUw3TFdxM29HSkItZkY5Q21FMngyYmlUYlUxUU9GWEEtcXU2TG9xYVVEYkxMb01QZU9xbzRjaGptRnFTSDNwRnVfd3p2bU1Nc0kxYmdZSWFIR0MwSjU2UE8wY19FZjdPWVdOdnBfQy1PeUtFaxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Instagram"
+    },
+    {
+      "position": 2,
+      "title": "Are water pumps and canals worth it? : r/songsofsyx",
+      "link": "https://www.reddit.com/r/songsofsyx/comments/1lth5wk/are_water_pumps_and_canals_worth_it/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFcRL6drr-u-DcO3wZf6B84pZFw8_sTnlpqI7jDKwoK4OdYY0EtNHofbdHFL_NzNrxz5L4-H8X4I6FHdKRv2RpjYNqQzONOfHfD6WtF1boHu8c9cRc5rDqggoQ6QIeAXYMq72acFMrDLieek0ZrMeLMzl_6n5DzkKLx8DmZ6pBfbdOeoRVuWzq9xYni2P&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.reddit.com › songsofsyx › comments › are...",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "date": "Jul 7, 2025",
+      "snippet": "the farm (each square is 28x28 minus the canals) 72 waterpumpers Is irrigation worth it? I feel like I'm using too much people (72 water pumpers which ...",
+      "about_this_result": {
+        "source": {
+          "description": "The canal logic isn't very complicated: each pump adds 100 (or 101?) water to the canals, flood filling from itself and counting a canal it ...",
+          "source_info_link": "https://www.reddit.com/r/songsofsyx/comments/1lth5wk/are_water_pumps_and_canals_worth_it/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZjUkw2ZHJyLXUtRGNPM3daZjZCODRwWkZ3OF9zVG5scHFJN2pES3dvSzRPZFlZMEV0TkhvZmJkSEZMX056TnJ4ejVMNC1IOFg0STZGSGRLUnYyUnBqWU5xUXpPTk9mSGZENld0RjFib0h1OGM5Y1JjNXJEcWdnb1E2UUllQVhZTXE3MmFjRk1yRExpZWVrMFpyTWVMTXpsXzZuNUR6a0tMeDhEbVo2cEJmYmRPZW9SVnVXenE5eFluaTJQEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZjUkw2ZHJyLXUtRGNPM3daZjZCODRwWkZ3OF9zVG5scHFJN2pES3dvSzRPZFlZMEV0TkhvZmJkSEZMX056TnJ4ejVMNC1IOFg0STZGSGRLUnYyUnBqWU5xUXpPTk9mSGZENld0RjFib0h1OGM5Y1JjNXJEcWdnb1E2UUllQVhZTXE3MmFjRk1yRExpZWVrMFpyTWVMTXpsXzZuNUR6a0tMeDhEbVo2cEJmYmRPZW9SVnVXenE5eFluaTJQEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Reddit"
+    },
+    {
+      "position": 3,
+      "title": "How in the hell do you build canals? : r/civ",
+      "link": "https://www.reddit.com/r/civ/comments/b1ftst/how_in_the_hell_do_you_build_canals/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFc05EYEg8PF-16z1e-QNuJih00DPsq-IkFgSAi98TN0QKGUp46VpVTVb1faS4uOT7jBLLm7HDzZ14KjEfqIY8dQbjutjDLGS7FSiyjUT4tifXEo-EO4WnDqK-zRRYB1y1RufU4rHC9zoFBpQA1bTdWZyRMULvPOQ5YR3Pfa-VHuWJ8SzPg&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://www.reddit.com › civ › comments › how_in_the...",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "date": "Mar 15, 2019",
+      "snippet": "Seriously, I was excoted to build them once I researched steam power. None of my cities seem to be eligible for them and it's definitely driving me insane. ...",
+      "about_this_result": {
+        "source": {
+          "description": "It will build one or two canal districts upon completion, and those canal districts have the same requirements as the regular canal districts.",
+          "source_info_link": "https://www.reddit.com/r/civ/comments/b1ftst/how_in_the_hell_do_you_build_canals/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZjMDVFWUVnOFBGLTE2ejFlLVFOdUppaDAwRFBzcS1Ja0ZnU0FpOThUTjBRS0dVcDQ2VnBWVFZiMWZhUzR1T1Q3akJMTG03SER6WjE0S2pFZnFJWThkUWJqdXRqRExHUzdGU2l5alVUNHRpZlhFby1FTzRXbkRxSy16UlJZQjF5MVJ1ZlU0ckhDOXpvRkJwUUExYlRkV1p5Uk1VTHZQT1E1WVIzUGZhLVZIdVdKOFN6UGcSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZjMDVFWUVnOFBGLTE2ejFlLVFOdUppaDAwRFBzcS1Ja0ZnU0FpOThUTjBRS0dVcDQ2VnBWVFZiMWZhUzR1T1Q3akJMTG03SER6WjE0S2pFZnFJWThkUWJqdXRqRExHUzdGU2l5alVUNHRpZlhFby1FTzRXbkRxSy16UlJZQjF5MVJ1ZlU0ckhDOXpvRkJwUUExYlRkV1p5Uk1VTHZQT1E1WVIzUGZhLVZIdVdKOFN6UGcSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Reddit"
+    },
+    {
+      "position": 4,
+      "title": "Historic Erie Canal",
+      "link": "https://www.facebook.com/groups/592524657969509/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVYMid4x077aZtK6zMLuVfmA21oIWwTq6ftc7MlgxVmrMwg9Nz1KNDoOhuLkC8Ko7QDBiZy6f-rrO1Bb7OWEZNfDtVtnaS0TDStqX1TX9r2CEgtz8QXsTSpmt4lYRNC4Unq8cV&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › Facebook Groups",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "This Group is dedicated to the Erie Canal & any other NYS canal new or old. The Old Erie Canal may be the focal point but we're talking about the Crown...",
+      "snippet_highlighted_words": [
+        "Canal",
+        "canal",
+        "Canal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This Group is dedicated to the Erie Canal & any other NYS canal new or old. The Old Erie Canal may be the focal point but we're talking about the Crown...",
+          "source_info_link": "https://www.facebook.com/groups/592524657969509/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVllNaWQ0eDA3N2FadEs2ek1MdVZmbUEyMW9JV3dUcTZmdGM3TWxneFZtck13ZzlOejFLTkRvT2h1TGtDOEtvN1FEQmlaeTZmLXJyTzFCYjdPV0VaTmZEdFZ0bmFTMFREU3RxWDFUWDlyMkNFZ3R6OFFYc1RTcG10NGxZUk5DNFVucThjVhIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVllNaWQ0eDA3N2FadEs2ek1MdVZmbUEyMW9JV3dUcTZmdGM3TWxneFZtck13ZzlOejFLTkRvT2h1TGtDOEtvN1FEQmlaeTZmLXJyTzFCYjdPV0VaTmZEdFZ0bmFTMFREU3RxWDFUWDlyMkNFZ3R6OFFYc1RTcG10NGxZUk5DNFVucThjVhIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Facebook"
+    },
+    {
+      "position": 5,
+      "title": "The Venice Beach Canals in Los Angeles California",
+      "link": "https://www.youtube.com/watch?v=ljOCYGZr6sk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVhvCMZNky674fBZttxsTCbJayFuMu7nXkQ1BqKRiDQTYg3yf7SZJlWki9AbzDFdBeNsMFIu-RpzL75jfRZIVre4z25hruVk77f5LzaDQXfuhsFrqB1TtMaM3s-zYXkA&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Sep 12, 2021",
+      "snippet": "A tour of the last remaining canals in Venice Beach California. Many of the streets in Venice were once canals, and only one small section ...",
+      "snippet_highlighted_words": [
+        "canals",
+        "Venice",
+        "Venice",
+        "canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A tour of the last remaining canals in Venice Beach California. Many of the streets in Venice were once canals, and only one small section ...",
+          "source_info_link": "https://www.youtube.com/watch?v=ljOCYGZr6sk",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmh2Q01aTmt5Njc0ZkJadHR4c1RDYkpheUZ1TXU3blhrUTFCcUtSaURRVFlnM3lmN1NaSmxXa2k5QWJ6REZkQmVOc01GSXUtUnB6TDc1amZSWklWcmU0ejI1aHJ1Vms3N2Y1THphRFFYZnVoc0ZycUIxVHRNYU0zcy16WVhrQRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmh2Q01aTmt5Njc0ZkJadHR4c1RDYkpheUZ1TXU3blhrUTFCcUtSaURRVFlnM3lmN1NaSmxXa2k5QWJ6REZkQmVOc01GSXUtUnB6TDc1amZSWklWcmU0ejI1aHJ1Vms3N2Y1THphRFFYZnVoc0ZycUIxVHRNYU0zcy16WVhrQRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 6,
+      "title": "Narrowboat canal travel UK - Rick Steves Travel Forum",
+      "link": "https://community.ricksteves.com/travel-forum/england/narrowboat-canal-travel-uk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFT6hPZPNBTpSnry2QLLkGP3XoSIoa3n4LHk2blWVWfgvNfL2NAB7i6FACHU8Fx1PQ6TMLOzrJWHjrMiaHSHvMqzqvbcIA3I2EwUFJ3l93gyL8PTelMVFvVqdR_9HQtogi41-FM3TR0-MEzigAshSFWjLokelkKMHSN_0XN0CV8OYkUAA&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://community.ricksteves.com › travel-forum › england",
+      "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBgCdASogACAAPrkurlcnIacnG_DgFwlAFSTpmM-ptaIJoRSxL7D8NxA9PWIBm1VPGqcKR_wK7qb-07VC6nwAAP7-rL8s8fWDju1_yaa9Jv2SOHAMyXyomgeiarLertHEryKkZcEAE0zAjmbEZpfazq8qd3eyGLtzInUAS1xbxK2K8qaqEH2Yb9bIRCcx5ORsSF8lm_FdR6SrrQMBDYPJTmpH5VhyBXoSS5u_f7q3Oiop8URj7_adZt5UIC3ldRF1syCOfX2YSH6XL7z7wTByHzg_yRzSwtYKoXoWS2IiW3MVlx8pc4ea_yI8y76vc8JyoOzKcydagqyfjafbrBmp8AcGrTxFwFGHv0p6nSEjRyZc0nOVk7mhpI2ux8YJXLn9bhwFWil4MXPF4oscbiIPDbDKoWHp_bcNg0OT_zrrsNACOiRunmmMrj_pTimPMO3bQAAA.webp",
+      "date": "Oct 9, 2024",
+      "snippet": "Hi all helpers! I'm planning a trip to the UK next year and want to spend one or two weeks travelling on the canals in a narrowboat.",
+      "snippet_highlighted_words": [
+        "canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hi all helpers! I'm planning a trip to the UK next year and want to spend one or two weeks travelling on the canals in a narrowboat.",
+          "source_info_link": "https://community.ricksteves.com/travel-forum/england/narrowboat-canal-travel-uk",
+          "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBgCdASogACAAPrkurlcnIacnG_DgFwlAFSTpmM-ptaIJoRSxL7D8NxA9PWIBm1VPGqcKR_wK7qb-07VC6nwAAP7-rL8s8fWDju1_yaa9Jv2SOHAMyXyomgeiarLertHEryKkZcEAE0zAjmbEZpfazq8qd3eyGLtzInUAS1xbxK2K8qaqEH2Yb9bIRCcx5ORsSF8lm_FdR6SrrQMBDYPJTmpH5VhyBXoSS5u_f7q3Oiop8URj7_adZt5UIC3ldRF1syCOfX2YSH6XL7z7wTByHzg_yRzSwtYKoXoWS2IiW3MVlx8pc4ea_yI8y76vc8JyoOzKcydagqyfjafbrBmp8AcGrTxFwFGHv0p6nSEjRyZc0nOVk7mhpI2ux8YJXLn9bhwFWil4MXPF4oscbiIPDbDKoWHp_bcNg0OT_zrrsNACOiRunmmMrj_pTimPMO3bQAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZUNmhQWlBOQlRwU25yeTJRTExrR1AzWG9TSW9hM240TEhrMmJsV1ZXZmd2TmZMMk5BQjdpNkZBQ0hVOEZ4MVBRNlRNTE96ckpXSGpyTWlhSFNIdk1xenF2YmNJQTNJMkV3VUZKM2w5M2d5TDhQVGVsTVZGdlZxZFJfOUhRdG9naTQxLUZNM1RSMC1NRXppZ0FzaFNGV2pMb2tlbGtLTUhTTl8wWE4wQ1Y4T1lrVUFBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZUNmhQWlBOQlRwU25yeTJRTExrR1AzWG9TSW9hM240TEhrMmJsV1ZXZmd2TmZMMk5BQjdpNkZBQ0hVOEZ4MVBRNlRNTE96ckpXSGpyTWlhSFNIdk1xenF2YmNJQTNJMkV3VUZKM2w5M2d5TDhQVGVsTVZGdlZxZFJfOUhRdG9naTQxLUZNM1RSMC1NRXppZ0FzaFNGV2pMb2tlbGtLTUhTTl8wWE4wQ1Y4T1lrVUFBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Rick Steves"
+    },
+    {
+      "position": 7,
+      "title": "What are the downsides of living on the Venice canals?",
+      "link": "https://www.reddit.com/r/AskLosAngeles/comments/1o48td5/what_are_the_downsides_of_living_on_the_venice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFfRY_2LF9qVlOG8K9HeHpJNCykqp8qKmD4ARJABbj4NnucIDcXe3ENcR7byJV8Ra_u6GQLrbmLuuABy6UDWCyOj76mo-9lii_SjIBSUjqVnBv6mvaaFgS72-8pAyEwKV-L4EHdlW60eKeFWvyukvhoHc8kOOmpUVUJEkWP_RVSOQixWNN4xxMeZ_O7oDA9lnaDQrMEDYRs6j7WQ&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.reddit.com › AskLosAngeles › comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "date": "Oct 11, 2025",
+      "snippet": "I was just walking around the Venice canals and looking at Zillow. Houses seem relatively inexpensive (under 1.5 M for original bungalows, under 3 M ...",
+      "about_this_result": {
+        "source": {
+          "description": "The closer you live to the \"cool\" parts of Venice, the more you will have to deal with crime, homeless, tourists, more traffic, less parking, ...",
+          "source_info_link": "https://www.reddit.com/r/AskLosAngeles/comments/1o48td5/what_are_the_downsides_of_living_on_the_venice/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmUllfMkxGOXFWbE9HOEs5SGVIcEpOQ3lrcXA4cUttRDRBUkpBQmJqNE5udWNJRGNYZTNFTmNSN2J5SlY4UmFfdTZHUUxyYm1MdXVBQnk2VURXQ3lPajc2bW8tOWxpaV9TaklCU1VqcVZuQnY2bXZhYUZnUzcyLThwQXlFd0tWLUw0RUhkbFc2MGVLZUZXdnl1a3Zob0hjOGtPT21wVVZVSkVrV1BfUlZTT1FpeFdOTjR4eE1lWl9PN29EQTlsbmFEUXJNRURZUnM2ajdXURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmUllfMkxGOXFWbE9HOEs5SGVIcEpOQ3lrcXA4cUttRDRBUkpBQmJqNE5udWNJRGNYZTNFTmNSN2J5SlY4UmFfdTZHUUxyYm1MdXVBQnk2VURXQ3lPajc2bW8tOWxpaV9TaklCU1VqcVZuQnY2bXZhYUZnUzcyLThwQXlFd0tWLUw0RUhkbFc2MGVLZUZXdnl1a3Zob0hjOGtPT21wVVZVSkVrV1BfUlZTT1FpeFdOTjR4eE1lWl9PN29EQTlsbmFEUXJNRURZUnM2ajdXURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Reddit"
+    },
+    {
+      "position": 8,
+      "title": "Lorena Canals | Official Store of Washable Rugs ...",
+      "link": "https://lorenacanals.com/?srsltid=AU7gw4X2H_KxBBx1VIhmp-kYdv9D-SqXDus2HSSBwj7OVuqwB1dzus7j",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFa2iHvRbcYb74gexL4PNGLr1QkG3mG1WZK-Dt_9r-fJGz-Tq_9VV2ATg55CUGrds5Mucn1ju9_525mkCSrGDL2fnSJLkehSOkq4TRXEUdD-ok2x4OC7Zlcq6CQHHyJcC6SQMRCCwubgnY8wuAfwAFnt_tWfGW4Oqxi2P0BIqYL38Mp5L019Ml12zgU-hFg&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://lorenacanals.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACHr_7WAAAAFHRSTlMAXqLU-P8guhWKOZQKb_Aq5Md9TBpw5IIAAAF3SURBVHgBbVIBroUgDFOwCIIAcv-7_o5FP5rXxICsa-twmbAauwGbNevyA24HpCocwPhv3bAYDt0fEUB8t7NNdZMenECeRAqwyxIrCBsLXxrgnn7gYtkCyNZmLo01-twam9QvoK7DIK0UOoVR73zUj3eIO0IQl6gGm_Rv_pV6aKjJztai2zfDU8hwKwJ21r9ddpHgfOl2SJx2aGVtde9cMxzjdT7HEoeLzq4BGdJ9srPz0FKl8nFKuMbIdkb0sEtCW5BpVR8Csn560QCsDJ69CWm6JNHN-BAWOgj8P2HLqusQNGMZt3c9FhoykWBjjJcDQg-Ae0Len5kwsJQMIFPmpEqn7ErvQqV_lF70jr0MSqx-jvq6Rz2G4sR0hl7fBaP3JoZwn_oqAmn-Yc5ZH5cYB33NCEMjn34M6cyj3zzRPYThGghbQex-aKbJsUmaYAcniJB9pfL5FWEY1jQfiCBM19--G4jpB95AkPNYzKB-0WOrlG6xT4d_30QPjxtCiK4AAAAASUVORK5CYII.png",
+      "snippet": "Discover our handcrafted washable rugs, made with natural fibers. A unique collection of slow textile decor for kids and your home.",
+      "about_this_result": {
+        "source": {
+          "description": "Discover our handcrafted washable rugs, made with natural fibers. A unique collection of slow textile decor for kids and your home.",
+          "source_info_link": "https://lorenacanals.com/?srsltid=AU7gw4X2H_KxBBx1VIhmp-kYdv9D-SqXDus2HSSBwj7OVuqwB1dzus7j",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACHr_7WAAAAFHRSTlMAXqLU-P8guhWKOZQKb_Aq5Md9TBpw5IIAAAF3SURBVHgBbVIBroUgDFOwCIIAcv-7_o5FP5rXxICsa-twmbAauwGbNevyA24HpCocwPhv3bAYDt0fEUB8t7NNdZMenECeRAqwyxIrCBsLXxrgnn7gYtkCyNZmLo01-twam9QvoK7DIK0UOoVR73zUj3eIO0IQl6gGm_Rv_pV6aKjJztai2zfDU8hwKwJ21r9ddpHgfOl2SJx2aGVtde9cMxzjdT7HEoeLzq4BGdJ9srPz0FKl8nFKuMbIdkb0sEtCW5BpVR8Csn560QCsDJ69CWm6JNHN-BAWOgj8P2HLqusQNGMZt3c9FhoykWBjjJcDQg-Ae0Len5kwsJQMIFPmpEqn7ErvQqV_lF70jr0MSqx-jvq6Rz2G4sR0hl7fBaP3JoZwn_oqAmn-Yc5ZH5cYB33NCEMjn34M6cyj3zzRPYThGghbQex-aKbJsUmaYAcniJB9pfL5FWEY1jQfiCBM19--G4jpB95AkPNYzKB-0WOrlG6xT4d_30QPjxtCiK4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZhMmlIdlJiY1liNzRnZXhMNFBOR0xyMVFrRzNtRzFXWkstRHRfOXItZkpHei1UcV85VlYyQVRnNTVDVUdyZHM1TXVjbjFqdTlfNTI1bWtDU3JHREwyZm5TSkxrZWhTT2txNFRSWEVVZEQtb2syeDRPQzdabGNxNkNRSEh5SmNDNlNRTVJDQ3d1YmduWTh3dUFmd0FGbnRfdFdmR1c0T3F4aTJQMEJJcVlMMzhNcDVMMDE5TWwxMnpnVS1oRmcSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZhMmlIdlJiY1liNzRnZXhMNFBOR0xyMVFrRzNtRzFXWkstRHRfOXItZkpHei1UcV85VlYyQVRnNTVDVUdyZHM1TXVjbjFqdTlfNTI1bWtDU3JHREwyZm5TSkxrZWhTT2txNFRSWEVVZEQtb2syeDRPQzdabGNxNkNRSEh5SmNDNlNRTVJDQ3d1YmduWTh3dUFmd0FGbnRfdFdmR1c0T3F4aTJQMEJJcVlMMzhNcDVMMDE5TWwxMnpnVS1oRmcSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Lorena Canals"
+    },
+    {
+      "position": 9,
+      "title": "This Village Has No Roads - Only Canals and Boats",
+      "link": "https://www.youtube.com/watch?v=SeI012as6qA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV9UzdHiOIM00-Acat0GQlClA0qcB-rjKPKSiIzIulfO6wCS0zAjpP75W5YlGunwGw6Ijkw0PzgiR2jXQRKNgjCppVj0CUeYd3RwjvIdDCyFFeyoIdK-cDS5Ywob7UFw&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Jul 20, 2025",
+      "snippet": "... #LifeStyle © Gone With the Wynns 2025. This Village Has No Roads - Only Canals and Boats. @gonewiththewynns26K likes1M views1 year ago more.",
+      "snippet_highlighted_words": [
+        "2025",
+        "Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... #LifeStyle © Gone With the Wynns 2025. This Village Has No Roads - Only Canals and Boats. @gonewiththewynns26K likes1M views1 year ago more.",
+          "source_info_link": "https://www.youtube.com/watch?v=SeI012as6qA",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjlVemRIaU9JTTAwLUFjYXQwR1FsQ2xBMHFjQi1yaktQS1NpSXpJdWxmTzZ3Q1MwekFqcFA3NVc1WWxHdW53R3c2SWprdzBQemdpUjJqWFFSS05nakNwcFZqMENVZVlkM1J3anZJZERDeUZGZXlvSWRLLWNEUzVZd29iN1VGdxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjlVemRIaU9JTTAwLUFjYXQwR1FsQ2xBMHFjQi1yaktQS1NpSXpJdWxmTzZ3Q1MwekFqcFA3NVc1WWxHdW53R3c2SWprdzBQemdpUjJqWFFSS05nakNwcFZqMENVZVlkM1J3anZJZERDeUZGZXlvSWRLLWNEUzVZd29iN1VGdxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube",
+      "read_more_link": "https://www.youtube.com/watch?v=SeI012as6qA#:~:text=This%20Village%20Has%20No%20Roads,more"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=dolphins+return+venice+canals+2025&sca_esv=e7914123cf3b1be8&ei=-SmyaqqUKIDl5NoPlOaOoAU&start=10&sa=N&sstk=AS6-VmIxaw2k2rTD3LPro91T3QLGRYZLBwsz1BdxpoG4p8qyMqAr15poVjFh3Rt3SHZMxZ7Ee4V-P9luhMnQFfiidGae1puqymcX0w&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQ8NMDegQIQRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=dolphins+return+venice+canals+2025&sca_esv=e7914123cf3b1be8&ei=-SmyaqqUKIDl5NoPlOaOoAU&start=10&sa=N&sstk=AS6-VmIxaw2k2rTD3LPro91T3QLGRYZLBwsz1BdxpoG4p8qyMqAr15poVjFh3Rt3SHZMxZ7Ee4V-P9luhMnQFfiidGae1puqymcX0w&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQ8tMDegQIQRAE",
+      "3": "https://www.google.com/search?q=dolphins+return+venice+canals+2025&sca_esv=e7914123cf3b1be8&ei=-SmyaqqUKIDl5NoPlOaOoAU&start=20&sa=N&sstk=AS6-VmIxaw2k2rTD3LPro91T3QLGRYZLBwsz1BdxpoG4p8qyMqAr15poVjFh3Rt3SHZMxZ7Ee4V-P9luhMnQFfiidGae1puqymcX0w&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQ8tMDegQIQRAG",
+      "4": "https://www.google.com/search?q=dolphins+return+venice+canals+2025&sca_esv=e7914123cf3b1be8&ei=-SmyaqqUKIDl5NoPlOaOoAU&start=30&sa=N&sstk=AS6-VmIxaw2k2rTD3LPro91T3QLGRYZLBwsz1BdxpoG4p8qyMqAr15poVjFh3Rt3SHZMxZ7Ee4V-P9luhMnQFfiidGae1puqymcX0w&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQ8tMDegQIQRAI",
+      "5": "https://www.google.com/search?q=dolphins+return+venice+canals+2025&sca_esv=e7914123cf3b1be8&ei=-SmyaqqUKIDl5NoPlOaOoAU&start=40&sa=N&sstk=AS6-VmIxaw2k2rTD3LPro91T3QLGRYZLBwsz1BdxpoG4p8qyMqAr15poVjFh3Rt3SHZMxZ7Ee4V-P9luhMnQFfiidGae1puqymcX0w&ved=2ahUKEwjq9PaH0YGXAxWAMlkFHRSzA1QQ8tMDegQIQRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dolphins+return+venice+canals+2025&start=40"
+    }
+  }
+}

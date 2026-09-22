@@ -1,0 +1,356 @@
+{
+  "search_metadata": {
+    "id": "6ab2302d2c2bb4269483f12c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Mu9tyhcd4g1MV5aZ7_lwMlb1FQH0h5ZO5Z_CU8ODbeM/6ab2302d2c2bb4269483f12c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Mu9tyhcd4g1MV5aZ7_lwMlb1FQH0h5ZO5Z_CU8ODbeM/6ab2302d2c2bb4269483f12c.md",
+    "created_at": "2026-09-22 07:37:17 UTC",
+    "processed_at": "2026-09-22 07:37:17 UTC",
+    "google_news_url": "https://news.google.com/search?q=Leaked+documents+prove+NASA+faked+the+moon+landing",
+    "raw_html_file": "https://serpapi.com/searches/Mu9tyhcd4g1MV5aZ7_lwMlb1FQH0h5ZO5Z_CU8ODbeM/6ab2302d2c2bb4269483f12c.html",
+    "total_time_taken": 1.94
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Leaked documents prove NASA faked the moon landing"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Did we really land on the moon? Artemis II launches, conspiracies debunked",
+      "source": {
+        "name": "Florida Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.floridatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eric Lagatta",
+          "Lianna Norman"
+        ]
+      },
+      "link": "https://www.floridatoday.com/story/tech/science/space/2026/03/31/moon-landing-fake-conspiracy-theory-kardashian-buzz-aldrin-nasa-artemis/89392567007/",
+      "thumbnail": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/03/16/NPOH/89187193007-alan-shepard-image-from-reuters.JPG?crop=2199,1237,x0,y706&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTSEV4V0dGQk5tSXdlRVJWVFJDb0FSaXNBaWdCTWdZQmtJWkZ1Z00",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Moon Denialists Are So Pathetic That They’re Using AI to Fake Artemis Footage",
+      "source": {
+        "name": "Futurism",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://futurism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Victor Tangermann"
+        ]
+      },
+      "link": "https://futurism.com/artificial-intelligence/moon-denialists-ai-fake-artemis-footage",
+      "thumbnail": "https://futurism.com/wp-content/uploads/2026/04/moon-denialists-ai-fake-artemis-footage.jpg?quality=85&w=1152",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRXVXR0V2pORlMzcGxTSEZFVFJDUkF4ajlCU2dLTWdrQllJcU5MQ2MxVWdF",
+      "date": "04/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-13T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Pentagon Releases UFO Files: Moon Landing Sighting, “Orbs Launching Orbs” Among Claims",
+      "source": {
+        "name": "The Hollywood Reporter",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hollywoodreporter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "James Hibberd"
+        ]
+      },
+      "link": "https://www.hollywoodreporter.com/news/general-news/trump-ufo-files-revelations-1236590123/",
+      "thumbnail": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-10.35.19%E2%80%AFAM-2.png?w=1541&h=1028&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtTSFZOWnpOUldsUkVkVkl5VFJERUF4aW1CU2dLTWdheFFacndJQWs",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "From green screen to mysterious object on Moon — Artemis II conspiracy theories flood social media",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/science/from-green-screen-to-mysterious-object-on-moon-artemis-ii-conspiracy-theories-flood-social-media/articleshow/130184251.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-130184764,width-1280,height-720,imgsize-37572,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdOR2xrU0VWaFNIaFBaRW81VFJDZkF4ampCU2dLTWdrQllJN1BzQ2JZNmdF",
+      "date": "04/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-11T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "How Stanley Kubrick Staged the Moon Landing by Rich Cohen",
+      "source": {
+        "name": "The Paris Review",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theparisreview.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rich Cohen"
+        ]
+      },
+      "link": "https://www.theparisreview.org/blog/2019/07/18/how-stanley-kubrick-staged-the-moon-landing-and-other-stories/",
+      "thumbnail": "https://www.theparisreview.org/blog/wp-content/uploads/2019/07/olkhfczrhnqzmkdh6mjv.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZlazF0UVdORFlsY3hOblk1VFJDLUF4aXZCU2dLTWdZbFJZck5KUVk",
+      "date": "07/18/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-07-18T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "How moon landing conspiracy theories began and why they persist today",
+      "source": {
+        "name": "The University of Manchester",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.manchester.ac.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.manchester.ac.uk/about/news/moon-landing-conspiracy-theories/",
+      "thumbnail": "https://content.presspage.com/uploads/1369/1920_file-20190709-44487-a3hvd-279983.jpg?10000",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFjVTlsWXpZdFoyMURPRk5ZVFJDcUF4alJCU2dLTWdZMVVvNFJzUVU",
+      "date": "07/12/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-07-12T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Did NASA fake the Moon landing? The real history that debunks the conspiracy",
+      "source": {
+        "name": "HistoryExtra",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.historyextra.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jonny Wilkes"
+        ]
+      },
+      "link": "https://www.historyextra.com/period/20th-century/did-nasa-fake-moon-landing-real-history-conspiracy/",
+      "thumbnail": "https://images.immediate.co.uk/production/volatile/sites/7/2023/01/Conspiracy-WL-Moonlanding-f078310.jpg?quality=90&resize=620,414",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlka1ppWm1oM1FWbG1kelZqVFJDM0FSaVRBaWdCTWdZSlE0N0Z1Z1U",
+      "date": "01/26/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-01-26T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "False: No Evidence NASA's \"Project Anchor\" Predicts Earth Will Lose Gravity for Seven Seconds on August 12, 2026",
+      "source": {
+        "name": "srilanka.factcrescendo.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://srilanka.factcrescendo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://srilanka.factcrescendo.com/english/false-nasa-project-anchor-earth-loses-gravity-august-12-2026/",
+      "thumbnail": "https://srilanka.factcrescendo.com/english/wp-content/uploads/2026/07/06-2607-cover.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNZV2syWWtaT1gwSnpUSEpsVFJDa0F4anVCQ2dLTWdZQk5aYXJxUWM",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Did Wikileaks Release Faked Moon Landing Footage?",
+      "source": {
+        "name": "Snopes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.snopes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Evon"
+        ]
+      },
+      "link": "https://www.snopes.com/fact-check/wikileaks-faked-moon-landing/",
+      "thumbnail": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/01/moon-landing-hoax-video.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhVWEpQY1dGcVdFbDBiR055VFJDZkF4ampCU2dLTWdhZGhKQ3JOUVk",
+      "date": "01/03/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-01-03T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "UFO documents released by Pentagon describe floating objects and flashes of light",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.co.uk/news/articles/c1m2epkey44o",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/320x180/p0nk7gzx.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNiMGhVWW1GZkxVOWtibE41VFJDMEFSakFBaWdLTWdZMTA0WndUUU0",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Yes, the United States Certainly DID Land Humans on the Moon",
+      "source": {
+        "name": "Smithsonian Magazine",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.smithsonianmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Roger D. Launius"
+        ]
+      },
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/yes-united-states-certainly-did-land-humans-moon-180972161/",
+      "thumbnail": "https://th-thumbnailer.cdn-si-edu.com/9TaYiZjV2ZoqC_FWt62dFaLs_fs=/1026x684/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/0b/0b/0b0b6b60-e976-47de-a9ac-33714c9aadce/moondeniers-final.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBjakp4T0haRlVqTlBkM2R6VFJERUF4aW1CU2dLTWdZdGhZYk9SUU0",
+      "date": "05/16/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-16T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Wikileaks didn’t release moon landing hoax evidence",
+      "source": {
+        "name": "PolitiFact",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://politifact.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ciara O'rourke"
+        ]
+      },
+      "link": "https://politifact.com/factchecks/2022/oct/25/viral-image/no-wikileaks-didnt-release-evidence-that-the-moon/",
+      "thumbnail": "https://politifact.com/wp-content/uploads/2025/10/AP_6907200163-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVVamhVUW1KRmEwbE5aazh0VFJDcUJCaXFCQ2dLTWdhaFVwb3lwUWc",
+      "date": "10/25/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-10-25T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "50 years later, moon-hoax idea hangs on",
+      "source": {
+        "name": "Northwest Arkansas Democrat-Gazette",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nwaonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joel Achenbach"
+        ]
+      },
+      "link": "https://www.nwaonline.com/news/2019/may/26/the-truth-is-out-there-20190526/",
+      "thumbnail": "https://wehco.media.clients.ellingtoncms.com/img/photos/2019/05/25/resized_272427-7a-moon-buzz-0526_8-26453_t320.JPG?fa67021387348b8667950d2a49bd5d6642c5ab68",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdlbGxUU3pjNWMwczJiMmN5VFJEQUFoakFBaWdLTWdZaFk1b3lwUWc",
+      "date": "05/26/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-26T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "NASA hacker says agency removes aliens from photos, faked moon landing",
+      "source": {
+        "name": "Chron",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.chron.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Carol Christian"
+        ]
+      },
+      "link": "https://www.chron.com/news/nation-world/space/article/NASA-hackers-says-agency-removes-aliens-from-6684188.php",
+      "thumbnail": "https://s.hdnux.com/photos/42/50/65/9080136/6/1920x0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9SbDlvVTE5dlFtUkNVSEZDVFJDMkF4aThCU2dLTWdhZHNaSUxPUVk",
+      "date": "12/08/2015, 08:00 AM, +0000 UTC",
+      "iso_date": "2015-12-08T08:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "NASA video fuels theories it's 'faking' Artemis II with green screens",
+      "source": {
+        "name": "Daily Mail",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailymail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stacy Liberatore"
+        ]
+      },
+      "link": "https://www.dailymail.com/sciencetech/article-15709671/nasa-artemis-moon-hoax-greenscreen.html",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/13/1775564365395_9359077547238988.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZURGsxY0ZjNFUweDJla1k1VFJDZkF4ampCU2dLTWdZSlVvUk5NUU0",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Artemis II video fuels theories that Apollo moon landings were fake",
+      "source": {
+        "name": "Daily Mail",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailymail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stacy Liberatore"
+        ]
+      },
+      "link": "https://www.dailymail.com/sciencetech/article-15704803/artemis-nasa-apollo-moon-landing-fake.html",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/1775238227596_8117652301064580.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRbUZEZEV0c2JEWTJRMmhhVFJDZkF4ampCU2dLTWdZaFU0Z01JZ00",
+      "date": "04/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-03T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Fact Check: Video Is NOT Proof That Moon Landing Was Hoax -- It's Lampoon Of Conspiracy Theories",
+      "source": {
+        "name": "leadstories.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://leadstories.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Thompson"
+        ]
+      },
+      "link": "https://leadstories.com/hoax-alert/2022/10/fact-check-video-is-not-proof-of-apollo-11-hoax-its-lampoon-about-moon-landing-conspiracies.html",
+      "thumbnail": "https://leadstories.com/assets_c/2022/10/screenshot_3480329-thumb-352xauto-3097215.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTbWRGVGxwTUxYZG1RVWR2VFJER0FSamdBaWdLTWdhUkNKU0hEZ3M",
+      "date": "10/21/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-10-21T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Moon landing: Brian Cox's brutal assessment of NASA hoax theory exposed",
+      "source": {
+        "name": "Daily Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.express.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Callum Hoare"
+        ]
+      },
+      "link": "https://www.express.co.uk/news/science/1231296/moon-landing-faked-brian-cox-nasa-apollo-11-outburst-bbc-producer-spt",
+      "thumbnail": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1231296.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSRlpKVkMwMldGRXhXRmwxVFJDcUF4alBCU2dLTWdZTk9aYW1uZ2c",
+      "date": "01/22/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-01-22T08:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "The Global Intelligence Files - Re: [Military] US/MIL - NASA admits original moon landing tapes got erased",
+      "source": {
+        "name": "WikiLeaks",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://wikileaks.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://wikileaks.org/gifiles/docs/16/1696718_re-military-us-mil-nasa-admits-original-moon-landing-tapes.html",
+      "thumbnail": "https://wikileaks.org/static/gfx/gifiles.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJka3cyVDNOMGNVSTFTMnhOVFJDNUFSalFCU2dLTWdZQlFJckRKZ2M",
+      "date": "05/13/2015, 12:41 AM, +0000 UTC",
+      "iso_date": "2015-05-13T00:41:20Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

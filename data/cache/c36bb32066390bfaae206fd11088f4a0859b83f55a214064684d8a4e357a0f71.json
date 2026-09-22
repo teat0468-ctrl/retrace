@@ -1,0 +1,381 @@
+{
+  "search_metadata": {
+    "id": "6ab028ed12eb14a677f7a7f5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9B7u1kUFH4eVJAHRGwO5SjToLThGLWF7O93BjjibPxU/6ab028ed12eb14a677f7a7f5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/9B7u1kUFH4eVJAHRGwO5SjToLThGLWF7O93BjjibPxU/6ab028ed12eb14a677f7a7f5.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/9B7u1kUFH4eVJAHRGwO5SjToLThGLWF7O93BjjibPxU/6ab028ed12eb14a677f7a7f5.json_with_pixel_position",
+    "created_at": "2026-09-20 18:41:49 UTC",
+    "processed_at": "2026-09-20 18:41:49 UTC",
+    "google_url": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&oq=nasa+discovers+huge+crater+moon+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9B7u1kUFH4eVJAHRGwO5SjToLThGLWF7O93BjjibPxU/6ab028ed12eb14a677f7a7f5.html",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "nasa discovers huge crater moon before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "nasa discovers huge crater moon before:2026-01-01",
+    "total_results": 4360000,
+    "time_taken_displayed": 0.76,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Something Weird Is Happening in the Moon's Biggest Crater ...",
+      "link": "https://www.youtube.com/watch?v=KtHE3QxYGpQ",
+      "thumbnail": "https://serpapi.com/searches/6ab028ed12eb14a677f7a7f5/images/pKalXY9fkl9FvBR43yhJe8njbeWDP6fSkjCUmnoNYxM.jpeg",
+      "channel": "BRIGHT SIDE",
+      "duration": "10:09",
+      "platform": "YouTube",
+      "date": "Dec 1, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRsq3mUOaOaO6qf5Kj818Yh_NnMNQHd6yuedw",
+      "key_moments": [
+        {
+          "time": "01:23",
+          "title": "The South Pole Aken Basin",
+          "link": "https://www.youtube.com/watch?v=KtHE3QxYGpQ&t=83"
+        },
+        {
+          "time": "04:02",
+          "title": "Artemis 3",
+          "link": "https://www.youtube.com/watch?v=KtHE3QxYGpQ&t=242"
+        },
+        {
+          "time": "08:42",
+          "title": "Gas Leaks from inside the Moon Itself",
+          "link": "https://www.youtube.com/watch?v=KtHE3QxYGpQ&t=522"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "The Massive Chunk of Metal Hiding in the Moon",
+      "link": "https://www.youtube.com/watch?v=2pAVHB2-uas",
+      "thumbnail": "https://serpapi.com/searches/6ab028ed12eb14a677f7a7f5/images/Jj_trbLnNE0ng4pQvavY-p0noZffEi84KGT54p2PHCM.jpeg",
+      "channel": "SciShow Space",
+      "duration": "5:23",
+      "platform": "YouTube",
+      "date": "Feb 11, 2022"
+    },
+    {
+      "position": 3,
+      "title": "Scientists Discover A Mysterious Anomaly Inside Moon's ...",
+      "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw",
+      "thumbnail": "https://serpapi.com/searches/6ab028ed12eb14a677f7a7f5/images/DwiZw9MMDlSfS7uESxgFGz7AOSBy0Vz4gKd_k2aXY6g.jpeg",
+      "channel": "Anton Petrov",
+      "duration": "9:32",
+      "platform": "YouTube",
+      "date": "Jun 18, 2019",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT7kPx6UghP_qsPOTWHlVREAs8V2v7tD8zQQw",
+      "key_moments": [
+        {
+          "time": "00:29",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=29"
+        },
+        {
+          "time": "01:17",
+          "title": "South Pole-Aitken Basin",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=77"
+        },
+        {
+          "time": "02:13",
+          "title": "Project Grail",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=133"
+        },
+        {
+          "time": "02:43",
+          "title": "Why it's so difficult to orbit the Moon",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=163"
+        },
+        {
+          "time": "03:28",
+          "title": "Unusual gravitational anomaly",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=208"
+        },
+        {
+          "time": "07:37",
+          "title": "Potential for mining",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=457"
+        },
+        {
+          "time": "07:51",
+          "title": "Future studies",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=471"
+        },
+        {
+          "time": "08:47",
+          "title": "Outro",
+          "link": "https://www.youtube.com/watch?v=3eyJ3pvDNhw&t=527"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "New Crater on the Moon The LROC team discovered a new ...",
+      "link": "https://www.instagram.com/reel/DRPNxTDCPvs/?hl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab028ed12eb14a677f7a7f5/images/NPL8uukNrcCHwTpkkRxrSVTfendTSea0n_DTzp0x1Yw.jpeg",
+      "channel": "All Around Science (Official)",
+      "duration": "0:09",
+      "platform": "Instagram",
+      "date": "Nov 19, 2025"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "9CDSIniczVXNcqpIFH6AeY5xkyigmIupom51t6gEM7FNjKMbCpvfKLTSRqK7eY9ZzlPN00yDqJBoMvcupuZUkuY0J-f_4_vjr0UQzf_-5U9_vV6yW0FIkqTmUeotnBqhoWCxbUQEly5YTPzvjL7GxAlslfgxDZ3KdqM2KoSpYsUJ1G-PQWKtVwaSH7vLNR7M3W2VYlrJXKjmzGLOC4_w9sIEU-B_5r822lypsZoT1ZSwP74ZkJFhTGp1sd6oPQhWyA3Afyca9mB63gF02Yi_0r52lTrQAdQKnnTgZSc8WU32rxHOXiHvoje4jznMzDH_bZu7XtLmt3l_2hf_l4eAJTXJcgEgybKEIPi6moLgvJZDXZ906mhdlrx79HRTnHEp15J4SUnt8CxMgNApSDEYd-OX0jh2inhA6VHYhmB0OW_eH0MHzTnA2rkSioK1Z_k4uf6ky28E2-OLKwqzmB-SEBCfZA8xS_cZPbVE2nOnk85SkeLhpr8ZmFFdZFiZPstdGWGBzLjdglq2Y5u-KX7PdKkuNcVW45tynQGJsCOSWBFJA_A6e-z7crADtX4NSgcYof3QwYeJaVxH-pnCIMpNz4wYnm7TgeUjxZ2i33yUECAKtCEoj9YYpH3tHlS-ozs-GghOiZyipsv_EUZ78QrGaLhPRKe5YdFib9UtQLcwWB2c-8y8rxv3To_tD4YlAPJUwBwcGjN573kCMPK0FANI68G8a6ToYw6QcVTgIWEN8C9Urp0q0XKjQk5pC3QM7oGucZ_BSA-81DnW9ommy5DH6mjvEHdh4Sc8zBj9m0_fGYFfgSgVfMDLu_UvwkZ7GCxciH_rhXPT3TnxtCrqg53vGjYD52FCw9kPMA75XwFpz0dazkeXgaR9DaSMj-AnfJQ9T45ASpcX0YtAgt3zfHR_lo_KdSMwLALpcz76YSChT4G038OzQKLngbS8CCQveQ-kMh9p5_noCKSf4SP4k3yU4crZH2Vyen3xLpKUVrXux-6ukbTx_YqQwG6PX1j0Nt-J9eRLknLD9W1o2YtrM7BvYf1uvbWvTX5Bbx27slIji1lXdsAI3Tgxu_JfPeeKxNbaia9CSqOrmePS2LnluLypihL_qYSLmKqi1UzwzrM9Q5SNuDdetXy3S-TEWklNX47n8ex5NGQMPTTDTisaSzdSor1NlZW9Me4MAw31h06fPHUVjv3F_WyKE6JsFncDKIU06SXVaquzXI5_b-lsNzWVziikcnP5EDtPXisWk_4biST3ho6tqb99TLQBsUbUW2aZMbW_8lhbnj-vp0oljInKN0GOwB0GY4-vJMpWFYwsys8E4O4NnxSsMGKZDtuottMSGy0iKc2GK80UtxJ66-1SlaUKi2JV-gc-n0nR",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9CDSIniczVXNcqpIFH6AeY5xkyigmIupom51t6gEM7FNjKMbCpvfKLTSRqK7eY9ZzlPN00yDqJBoMvcupuZUkuY0J-f_4_vjr0UQzf_-5U9_vV6yW0FIkqTmUeotnBqhoWCxbUQEly5YTPzvjL7GxAlslfgxDZ3KdqM2KoSpYsUJ1G-PQWKtVwaSH7vLNR7M3W2VYlrJXKjmzGLOC4_w9sIEU-B_5r822lypsZoT1ZSwP74ZkJFhTGp1sd6oPQhWyA3Afyca9mB63gF02Yi_0r52lTrQAdQKnnTgZSc8WU32rxHOXiHvoje4jznMzDH_bZu7XtLmt3l_2hf_l4eAJTXJcgEgybKEIPi6moLgvJZDXZ906mhdlrx79HRTnHEp15J4SUnt8CxMgNApSDEYd-OX0jh2inhA6VHYhmB0OW_eH0MHzTnA2rkSioK1Z_k4uf6ky28E2-OLKwqzmB-SEBCfZA8xS_cZPbVE2nOnk85SkeLhpr8ZmFFdZFiZPstdGWGBzLjdglq2Y5u-KX7PdKkuNcVW45tynQGJsCOSWBFJA_A6e-z7crADtX4NSgcYof3QwYeJaVxH-pnCIMpNz4wYnm7TgeUjxZ2i33yUECAKtCEoj9YYpH3tHlS-ozs-GghOiZyipsv_EUZ78QrGaLhPRKe5YdFib9UtQLcwWB2c-8y8rxv3To_tD4YlAPJUwBwcGjN573kCMPK0FANI68G8a6ToYw6QcVTgIWEN8C9Urp0q0XKjQk5pC3QM7oGucZ_BSA-81DnW9ommy5DH6mjvEHdh4Sc8zBj9m0_fGYFfgSgVfMDLu_UvwkZ7GCxciH_rhXPT3TnxtCrqg53vGjYD52FCw9kPMA75XwFpz0dazkeXgaR9DaSMj-AnfJQ9T45ASpcX0YtAgt3zfHR_lo_KdSMwLALpcz76YSChT4G038OzQKLngbS8CCQveQ-kMh9p5_noCKSf4SP4k3yU4crZH2Vyen3xLpKUVrXux-6ukbTx_YqQwG6PX1j0Nt-J9eRLknLD9W1o2YtrM7BvYf1uvbWvTX5Bbx27slIji1lXdsAI3Tgxu_JfPeeKxNbaia9CSqOrmePS2LnluLypihL_qYSLmKqi1UzwzrM9Q5SNuDdetXy3S-TEWklNX47n8ex5NGQMPTTDTisaSzdSor1NlZW9Me4MAw31h06fPHUVjv3F_WyKE6JsFncDKIU06SXVaquzXI5_b-lsNzWVziikcnP5EDtPXisWk_4biST3ho6tqb99TLQBsUbUW2aZMbW_8lhbnj-vp0oljInKN0GOwB0GY4-vJMpWFYwsys8E4O4NnxSsMGKZDtuottMSGy0iKc2GK80UtxJ66-1SlaUKi2JV-gc-n0nR"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The moon's largest crater didn't form in the way we thought",
+      "link": "https://www.newscientist.com/article/2499287-the-moons-largest-crater-didnt-form-in-the-way-we-thought/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFYzArA2pLhppohF0sDBTdInSBzDVIZJaFzpx9pBh83xoo_tIXcuh9CuP0Ks2Wg14DI1R792tH3KQPgX68FZOJA2QIMLm_RaIZdEAzah9jF-rl5HJoJGXppJC8kje3HJynwLubfjyrNWaar0eu4YMyQro0QBQR9WuS79UCHtVdSSNXzez-Or0JwXD91kbPVLSP782aaYe7PJIPyI&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.newscientist.com › article › 2499287-the-...",
+      "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAACQBgCdASocABwAPtFAtFooIqgoFAEAGgliALDynw4WPnA-jtQADszngTWbUcrzcrC5ijukZKHDlKrfaW8AAP72BY2AjDGmzw75u01x70uH6UUlmJ8F-E-hi1qJWltCSB9ZMvY3Jsb9UpLTAH_jxbrgiq76E7qdhvS-aDmjQ9_XaxW1fYFRsuWkcnXOp6EpheBYc9zFzhsOuJNGucsU-DXcgTAkdRKki_ERwc5C4p2r3009_XL68lXvJGAh1Vfmeb-dffpnFT3E34CuDl9i73Pv9lrsnDe1zE8YDNT0OtT4f-1PooJaKvh-v7OL3-rlrc-FJ8XHevK_TVN_OVtuARYeu96uH4AdSq81DH422SP2HiGeQskMf9Xin-i---Lf8e4pKmfK0_nsAl328La-ndM55a4ut_1C7jPD8xJT8loLJKELEP8Z6iE6wXrLKziwAAA.webp",
+      "date": "Oct 8, 2025",
+      "snippet": "Astronomers think the basin was created by a massive asteroid scraping along the lunar surface, carving out a crater thousands of kilometres wide and 12 ...",
+      "snippet_highlighted_words": [
+        "massive",
+        "crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Astronomers think the basin was created by a massive asteroid scraping along the lunar surface, carving out a crater thousands of kilometres wide and 12 ...",
+          "source_info_link": "https://www.newscientist.com/article/2499287-the-moons-largest-crater-didnt-form-in-the-way-we-thought/",
+          "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAACQBgCdASocABwAPtFAtFooIqgoFAEAGgliALDynw4WPnA-jtQADszngTWbUcrzcrC5ijukZKHDlKrfaW8AAP72BY2AjDGmzw75u01x70uH6UUlmJ8F-E-hi1qJWltCSB9ZMvY3Jsb9UpLTAH_jxbrgiq76E7qdhvS-aDmjQ9_XaxW1fYFRsuWkcnXOp6EpheBYc9zFzhsOuJNGucsU-DXcgTAkdRKki_ERwc5C4p2r3009_XL68lXvJGAh1Vfmeb-dffpnFT3E34CuDl9i73Pv9lrsnDe1zE8YDNT0OtT4f-1PooJaKvh-v7OL3-rlrc-FJ8XHevK_TVN_OVtuARYeu96uH4AdSq81DH422SP2HiGeQskMf9Xin-i---Lf8e4pKmfK0_nsAl328La-ndM55a4ut_1C7jPD8xJT8loLJKELEP8Z6iE6wXrLKziwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "New Scientist",
+      "read_more_link": "https://www.newscientist.com/article/2499287-the-moons-largest-crater-didnt-form-in-the-way-we-thought/#:~:text=Astronomers%20think%20the%20basin%20was,wide%20and%2012%20kilometres%20deep."
+    },
+    {
+      "position": 2,
+      "title": "Why Study Moon Craters?",
+      "link": "https://science.nasa.gov/moon/lunar-craters/why-study-craters/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVHe-KGJHWZXP2-zWFbLW8A6YS0QAGXaUCM_-QN7STPMZWIISsTfe20WHCPhj2m5hgp-uinoKQWOxCBK22i1Cx9LfAc4J17eKNFaJ0SsFMDcepbKfsHqfZnN3Ys5b2BtFAPgP-7suKovQg10pGBwI7YwI&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov › moon › lunar-craters › why-st...",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "date": "Apr 8, 2025",
+      "snippet": "NASA's Lunar Reconnaissance Orbiter found new craters forming on the Moon at a rate 33 percent higher than expected.",
+      "snippet_highlighted_words": [
+        "NASA's",
+        "found",
+        "craters",
+        "Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NASA's Lunar Reconnaissance Orbiter found new craters forming on the Moon at a rate 33 percent higher than expected.",
+          "source_info_link": "https://science.nasa.gov/moon/lunar-craters/why-study-craters/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "NASA Science (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Huge mystery blob found under the moon's far side",
+      "link": "https://www.nationalgeographic.com/science/article/massive-blob-discovered-moon-surface",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFVtSRC1Vw_i4xgY9Sc_GHqbFaxJ3BpoIERIOItw28PdIhQjs6rkDnvELISXdXHixvgt-2U33JejSVkBqj4vCLMTwbTm8nBq6d9w5xyKDvcgaP-3riLosbQ3532VndDnrlV28gzM6chqbNrUl5qc9MyZogCEYAhQBwvSEja-3hFPY2w0who9oQn9Qpg&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://www.nationalgeographic.com › Science",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAV0lEQVR4AWNwL_CB4_9nGMSBeB8Q_6cGhpoljmzHoLNwHzmYEgv1gFgYJE4C1qPIQpA4KZhGFo5aOGrhqIWjFo5aOGrhqIWjFtKzESUM0jOomonDv-UNAHDLM_g8duTkAAAAAElFTkSuQmCC.png",
+      "date": "Jun 11, 2019",
+      "snippet": "Researchers have discovered something massive lurking underneath the far side of the moon: a mysterious blob with the mass akin to a pile of metal five ...",
+      "snippet_highlighted_words": [
+        "discovered",
+        "massive",
+        "moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Researchers have discovered something massive lurking underneath the far side of the moon: a mysterious blob with the mass akin to a pile of metal five ...",
+          "source_info_link": "https://www.nationalgeographic.com/science/article/massive-blob-discovered-moon-surface",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAV0lEQVR4AWNwL_CB4_9nGMSBeB8Q_6cGhpoljmzHoLNwHzmYEgv1gFgYJE4C1qPIQpA4KZhGFo5aOGrhqIWjFo5aOGrhqIWjFtKzESUM0jOomonDv-UNAHDLM_g8duTkAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "National Geographic",
+      "read_more_link": "https://www.nationalgeographic.com/science/article/massive-blob-discovered-moon-surface#:~:text=Researchers%20have%20discovered%20something%20massive,the%20Big%20Island%20of%20Hawaii."
+    },
+    {
+      "position": 4,
+      "title": "NASA SVS | The Moon's Clavius Crater",
+      "link": "https://svs.gsfc.nasa.gov/4868",
+      "displayed_link": "https://svs.gsfc.nasa.gov · Oct 26, 2020",
+      "thumbnail": "https://serpapi.com/searches/6ab028ed12eb14a677f7a7f5/images/qp26Rq4-IhfJzDqNsewMMTjkMnheUGC0PRCtVRED4Nk.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3rjwsHQDbAc-BpgG8j1iU2N6BsFg9CduKH7XfEoNxTTCWSax8pdWw6VGoAD-9gmjtfUE-pyK9Z7QsYvH-_3c9vAxMDL2GBPts9-43k0SWkYd8Cf_Z31HGH_Eyjhd5Eq2dl7-dJ2tNXb2CIMtpfB0EFQ4fW79VPy_eSIyUYMWU5kN8dmbRJt1yEeHa-2cGI2M57qnHAm4Jym2lfhyjeSMfk_SXdpxl9fZZD4G5RBnQkrSAOPe_Xkf1XSLYTX7wwox1Ckp_doxM8zU2B06CxJoHIw39WN70jkiA0OunogX1GCU58zpn55w4SE176AtiU7FcEw1uZBOnwwzm0lh019m6LdqQQatcIqhWZdkkFacb4niUlhDcR-3dmQZKc_NAEGEIZT7-SJ9kVNIR-7UdxifPFoJKRcwAAAA.webp",
+      "snippet": "Clavius is among the largest and oldest craters on the Moon. Located in the far southern area of the Moon's near side, it's visible in binoculars and small ...",
+      "duration": "0:29",
+      "about_this_result": {
+        "source": {
+          "description": "Clavius is among the largest and oldest craters on the Moon. Located in the far southern area of the Moon's near side, it's visible in binoculars and small ...",
+          "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3rjwsHQDbAc-BpgG8j1iU2N6BsFg9CduKH7XfEoNxTTCWSax8pdWw6VGoAD-9gmjtfUE-pyK9Z7QsYvH-_3c9vAxMDL2GBPts9-43k0SWkYd8Cf_Z31HGH_Eyjhd5Eq2dl7-dJ2tNXb2CIMtpfB0EFQ4fW79VPy_eSIyUYMWU5kN8dmbRJt1yEeHa-2cGI2M57qnHAm4Jym2lfhyjeSMfk_SXdpxl9fZZD4G5RBnQkrSAOPe_Xkf1XSLYTX7wwox1Ckp_doxM8zU2B06CxJoHIw39WN70jkiA0OunogX1GCU58zpn55w4SE176AtiU7FcEw1uZBOnwwzm0lh019m6LdqQQatcIqhWZdkkFacb4niUlhDcR-3dmQZKc_NAEGEIZT7-SJ9kVNIR-7UdxifPFoJKRcwAAAA.webp"
+        }
+      },
+      "source": "NASA Scientific Visualization Studio · Ernie Wright"
+    },
+    {
+      "position": 5,
+      "title": "Mass Anomaly Detected Under the Moon's Largest Crater",
+      "link": "https://news.web.baylor.edu/news/story/2019/mass-anomaly-detected-under-moons-largest-crater",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFYk8pQdudLNsjmZ0MP-75S359OUHtuc_L5rXG1cF4WrX-iZiVxIbKgysPJY2yQ2dJm6BYlDqZ6REuCOgapfebExPnAnfi0WTnIBGSJ1U2ADNuxInDIteFLC023sBDWrM7D_vgmKVGJihYwq7gIrw3ThJe06bmYNDVe4X1qsW_ajbivHjzwAW4KSFz_kj4JxF&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://news.web.baylor.edu › news › story › mass-ano...",
+      "favicon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0v1jgQIBvJZLDHeZQb-HbHcdzQSDPMiAr0GvYu7lgAAP7oudY_5gvpTswFmGyDfitMkGENPvBnNvD0SL_qFsDbV0A3uR5SSIQ9TZe9HI1L685oEv5WZbLjEQVKx6MKhMxt9g5waR43quf2WbqZ6pxb_1ZedMVWnOyJCc9ccqtcasc6BH8_9YC11tsmzHzqGzPqVfm0WgsRlFE4ZAq9RBSkiBudoBTBujwHYtH_mJy5ln4ZspFmIeyXw8P2nYj-F1jTHUo1oBicRZWcNQz79MSVxkV3ChehHTJQSvVyhf3v-P-nsHHhNiHAwX5BX3PuN520-fcAAA.webp",
+      "date": "Jun 10, 2019",
+      "snippet": "A mysterious large mass of material has been discovered beneath the largest crater in our solar system — the Moon's South Pole-Aitken basin — and may contain ...",
+      "snippet_highlighted_words": [
+        "largest crater in our solar system"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A mysterious large mass of material has been discovered beneath the largest crater in our solar system — the Moon's South Pole-Aitken basin — and may contain ...",
+          "source_info_link": "https://news.web.baylor.edu/news/story/2019/mass-anomaly-detected-under-moons-largest-crater",
+          "icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0v1jgQIBvJZLDHeZQb-HbHcdzQSDPMiAr0GvYu7lgAAP7oudY_5gvpTswFmGyDfitMkGENPvBnNvD0SL_qFsDbV0A3uR5SSIQ9TZe9HI1L685oEv5WZbLjEQVKx6MKhMxt9g5waR43quf2WbqZ6pxb_1ZedMVWnOyJCc9ccqtcasc6BH8_9YC11tsmzHzqGzPqVfm0WgsRlFE4ZAq9RBSkiBudoBTBujwHYtH_mJy5ln4ZspFmIeyXw8P2nYj-F1jTHUo1oBicRZWcNQz79MSVxkV3ChehHTJQSvVyhf3v-P-nsHHhNiHAwX5BX3PuN520-fcAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "Baylor University"
+    },
+    {
+      "position": 6,
+      "title": "The Biggest Crater on The Moon Is Much Bigger Than We ...",
+      "link": "https://www.reddit.com/r/spaceporn/comments/1hajo4x/the_biggest_crater_on_the_moon_is_much_bigger/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFTgqJvB8GYCPN7g7ShWnjQNNnRS4O0i8ENnX5gVde2nibyWLqPd2zuW6Tzj0UkX7VrnhnT0WzrLMYEZl1qXkJPFkeGQJ1jERIEJEWejUgWWthAs_vpe2RafVnCk8wcADxIs6GVjPnorZzEbbwXimO6dyKIvS521jHmST_ssb0RGv6boeS_p782SWJ3i39WIm5fi1I8nB&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQFnoECDIQAQ&uoh=1",
+      "displayed_link": "130+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "A new 225-meter (740-foot) crater appeared on the Moon. NASA's lunar orbiter (LRO) imaged the dramatic aftermath.",
+      "snippet_highlighted_words": [
+        "225-meter (740-foot) crater appeared on the Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A new 225-meter (740-foot) crater appeared on the Moon. NASA's lunar orbiter (LRO) imaged the dramatic aftermath.",
+          "source_info_link": "https://www.reddit.com/r/spaceporn/comments/1hajo4x/the_biggest_crater_on_the_moon_is_much_bigger/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "Reddit · r/spaceporn"
+    },
+    {
+      "position": 7,
+      "title": "A New Freckle on the Face of the Moon",
+      "link": "https://lroc.im-ldi.com/images/1464",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAV9vwjvl30qu1-NmdXS8bpifxARPEl78YHvHVZXkT-yG3XoJYECViu-0NtE7-M50B9-Tw7VLlvP7AMitmaJWXv90o3JP1Etak4iBxtA5izF_7PuccUfDM&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://lroc.im-ldi.com › images",
+      "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASocABwAPtE-tFooIigoFAEAGglpAAgQOIFvVHG3rmmnBaVHmy7H71eWTLmeWLmqbAAgAAD-9glwjvTX6qlbzyuNnQo5Rp08RSvTSLQhZGe7XJCnJu5kPYVUUtP2Aw8398MWD8WXzQuqFoDK2J8figIzW2KDOswohCQ_BdBCfDJdh_uo8zcfkAWYYHuP17mh32JuCMBU5CsBTXGXf1399X_0CHjmzaj6iziUwLiGc5fkybq_JWR-PdHxVZrOz9DoEFFCtL8wXa64NdTCHo94uRR--VAIdG37kFvgAAAA.webp",
+      "date": "Nov 13, 2025",
+      "snippet": "The LROC team identified this new 22-m diameter crater by detecting changes in images taken before and after the impact, constraining its formation to between ...",
+      "snippet_highlighted_words": [
+        "crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The LROC team identified this new 22-m diameter crater by detecting changes in images taken before and after the impact, constraining its formation to between ...",
+          "source_info_link": "https://lroc.im-ldi.com/images/1464",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASocABwAPtE-tFooIigoFAEAGglpAAgQOIFvVHG3rmmnBaVHmy7H71eWTLmeWLmqbAAgAAD-9glwjvTX6qlbzyuNnQo5Rp08RSvTSLQhZGe7XJCnJu5kPYVUUtP2Aw8398MWD8WXzQuqFoDK2J8figIzW2KDOswohCQ_BdBCfDJdh_uo8zcfkAWYYHuP17mh32JuCMBU5CsBTXGXf1399X_0CHjmzaj6iziUwLiGc5fkybq_JWR-PdHxVZrOz9DoEFFCtL8wXa64NdTCHo94uRR--VAIdG37kFvgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "Lunar Reconnaissance Orbiter Camera",
+      "read_more_link": "https://lroc.im-ldi.com/images/1464#:~:text=The%20LROC%20team%20identified%20this,December%202009%20and%20December%202012."
+    },
+    {
+      "position": 8,
+      "title": "What is the South Pole-Aitken Basin?",
+      "link": "https://science.nasa.gov/moon/lunar-craters/what-is-the-south-pole-aitken-basin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFe99caM8aMbPPdZb0oPXDdCUQRTsnQ5oLb6B28YeQUxd-by1jkFnerkv5i6bnqF04Vehc_o1imqMi6VonuZfflS56KyY9W7y7weA8U2qXsbPwaxO8n3BBGo9ZhohmZQgf-V-6SN5z2sdMgJfLukylS-cbFAkNlm1QqzjWef6LbB0lFXs&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQFnoECDUQAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov › moon › lunar-craters › what-i...",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "date": "Apr 8, 2025",
+      "snippet": "The South Pole-Aitken basin (SPA) is the Moon's largest impact feature, named because it spans the territory from the small Aitken crater to the Moon's ...",
+      "snippet_highlighted_words": [
+        "The South Pole-Aitken basin (SPA) is the Moon's largest impact feature"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The South Pole-Aitken basin (SPA) is the Moon's largest impact feature, named because it spans the territory from the small Aitken crater to the Moon's ...",
+          "source_info_link": "https://science.nasa.gov/moon/lunar-craters/what-is-the-south-pole-aitken-basin/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "NASA Science (.gov)",
+      "read_more_link": "https://science.nasa.gov/moon/lunar-craters/what-is-the-south-pole-aitken-basin/#:~:text=The%20South%20Pole%2DAitken%20basin%20(SPA),quarter%20of%20the%20Moon's%20surface."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=10&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8NMDegQILBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=10&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAE",
+      "3": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=20&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAG",
+      "4": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=30&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAI",
+      "5": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=40&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAK",
+      "6": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=50&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAM",
+      "7": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=60&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAO",
+      "8": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=70&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAQ",
+      "9": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=80&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAS",
+      "10": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+before:2026-01-01&sca_esv=de9039c1853f1b8f&ei=7SiwatqKC4SGptQPkfy-oQo&start=90&sa=N&sstk=AS6-VmJynhVpVBF5qbkpGrUeHCtYEfjD6qgOB4A16_wdxlaW2GPuydp6dqJ70h917JSmQFnEFTaDyUNAR2Hobnq3ps7iJkibQHqOqQ&ved=2ahUKEwiatfTj5_2WAxUEg4kEHRG-L6QQ8tMDegQILBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+before%3A2026-01-01&start=90"
+    }
+  }
+}

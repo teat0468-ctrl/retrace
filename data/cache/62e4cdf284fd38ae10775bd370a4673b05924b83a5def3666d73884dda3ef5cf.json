@@ -1,0 +1,150 @@
+{
+  "search_metadata": {
+    "id": "6ab22a466838634254fc1570",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sAigp-fgoSueNCJkiF03Rvl-cRiUBihsheorzpnjKDA/6ab22a466838634254fc1570.json",
+    "markdown_endpoint": "https://serpapi.com/searches/sAigp-fgoSueNCJkiF03Rvl-cRiUBihsheorzpnjKDA/6ab22a466838634254fc1570.md",
+    "created_at": "2026-09-22 07:12:06 UTC",
+    "processed_at": "2026-09-22 07:12:06 UTC",
+    "google_news_url": "https://news.google.com/search?q=Is+India+Post+really+running+a+%E2%80%98Dak+Seva+Gifts%E2%80%99+scheme+where+people+can+receive+gifts+or+rewards%3F",
+    "raw_html_file": "https://serpapi.com/searches/sAigp-fgoSueNCJkiF03Rvl-cRiUBihsheorzpnjKDA/6ab22a466838634254fc1570.html",
+    "total_time_taken": 7.84
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Is India Post really running a ‘Dak Seva Gifts’ scheme where people can receive gifts or rewards?"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "India Post gift offer goes viral on social media, but what is the ‘Dak Seva Gifts’ scheme? PIB responds",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/india-post-gift-offer-goes-viral-on-social-media-but-what-is-the-dak-seva-gifts-scheme-pib-responds/articleshow/134363559.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134363643,width-1200,height-900,resizemode-4,imgsize-112815/dak-seva-gifts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZaM0ZOVWxGek56TmtRa3B3VFJEZ0F4aUFCU2dLTWdhTmNaWW9yZ2M",
+      "date": "09/20/2026, 04:35 AM, +0000 UTC",
+      "iso_date": "2026-09-20T04:35:29Z"
+    },
+    {
+      "position": 2,
+      "title": "Government Flags Fake India Post 'Dak Seva Gifts' Messages Circulating On Social Media",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Srishti Sisodia"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/government-flags-fake-india-post-dak-seva-gifts-messages-circulating-on-social-media-11570755",
+      "thumbnail": "https://c.ndtvimg.com/2026-05/qssf42ls_india-post_625x300_31_May_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRPV1JtWVVRdFZEaG9WVWxQVFJDZkF4ampCU2dLTWdZZEpaRHNIUWc",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Got An India Post Gift Message? Here’s What PIB Says About Dak Seva Gifts",
+      "source": {
+        "name": "outlookmoney.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.outlookmoney.com/news/got-an-india-post-gift-message-heres-what-pib-says-about-dak-seva-gifts",
+      "thumbnail": "https://media.assettype.com/outlookmoney/2026-09-21/bqrojt5u/WhatsApp-Image-2026-09-21-at-2.19.45-PM.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpXbmxSWHpSTlZrOVBhR0p1VFJDZEF4am1CU2dLTWdZaFlJVE9LUVU",
+      "date": "09/21/2026, 08:56 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:56:07Z"
+    },
+    {
+      "position": 4,
+      "title": "PIB Fact Check debunks message claiming India Post is offering gifts or rewards",
+      "source": {
+        "name": "ibtimes.co.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ibtimes.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ibtimes.co.in/pib-fact-check-debunks-message-claiming-india-post-offering-gifts-rewards-902491",
+      "thumbnail": "https://data1.ibtimes.co.in/en/full/832889/pib-fact-check-saturday-debunked-message-circulating-social-media-claiming-that-india-post.jpg?w=220&h=138",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZaVnBqUVVsamNtTkxlRmhaVFJDS0FSamNBU2dLTWdZTkJZQW9EZ3c",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Today’s top News – 20 September 2026",
+      "source": {
+        "name": "Saachi Baat",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://saachibaat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://saachibaat.com/politics/todays-top-news-20-september-2026/",
+      "thumbnail": "https://saachibaat.com/wp-content/uploads/2026/07/PM-Modi-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVlR3RGYkROM1pYVnlRMDFKVFJEZ0F4aUFCU2dLTWdhcE5acnRIUWs",
+      "date": "09/20/2026, 03:42 AM, +0000 UTC",
+      "iso_date": "2026-09-20T03:42:39Z"
+    },
+    {
+      "position": 6,
+      "title": "Got Dak Seva Gifts message? It can drain your bank account in seconds, how to stay safe",
+      "source": {
+        "name": "digit.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.digit.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bhaskar Sharma"
+        ]
+      },
+      "link": "https://www.digit.in/news/general/got-dak-seva-gifts-message-it-can-drain-your-bank-account-in-seconds-how-to-stay-safe.html",
+      "thumbnail": "https://static.digit.in/Dak-Seva-Gifts-message.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlSV1J0TW1ab1pVZGtlbkZJVFJDZkF4ampCU2dLTWdZTkJZTG9oUXc",
+      "date": "03/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-16T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab22a4e6e2237a737b79996",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-GGzIqXJk22ML29nOpE2ywZ6YOUVoh8EYHpQtlm5lkk/6ab22a4e6e2237a737b79996.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-GGzIqXJk22ML29nOpE2ywZ6YOUVoh8EYHpQtlm5lkk/6ab22a4e6e2237a737b79996.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-GGzIqXJk22ML29nOpE2ywZ6YOUVoh8EYHpQtlm5lkk/6ab22a4e6e2237a737b79996.json_with_pixel_position",
+    "created_at": "2026-09-22 07:12:14 UTC",
+    "processed_at": "2026-09-22 07:12:14 UTC",
+    "google_url": "https://www.google.com/search?q=%22Is+India+Post+really+running+a+%E2%80%98Dak+Seva+Gifts%E2%80%99+scheme+where%22&oq=%22Is+India+Post+really+running+a+%E2%80%98Dak+Seva+Gifts%E2%80%99+scheme+where%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-GGzIqXJk22ML29nOpE2ywZ6YOUVoh8EYHpQtlm5lkk/6ab22a4e6e2237a737b79996.html",
+    "total_time_taken": 0.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Is India Post really running a ‘Dak Seva Gifts’ scheme where\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Is India Post really running a ‘Dak Seva Gifts’ scheme where\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "wxDQsHiczVVbcuo4EF3ArCP8kIsfQIBUuW5JsiHOA3AgD_ihbFnIBmODZXDI3-xlljErmdWMbDAYAknu_Zgaf1hSq9Xd6u6j8-dfnutP__njbyeK5uxaEOI4LtEgoB4p4WAmmGztY2EceCzEzk8WLENMXFvBThjMSGG9UsoFzBSxQFyl7y7WZtgL77q1p2o76DpERWvwUEhNKCPLZGTCPbxNmDAS-G96UVb5osRKxC-1nqv1B1itiJN6SRalRqkjmDOuAP67T3eSvwGmQP9EKdH4zkcp0AC43QsQSgctp5IsKDeJEiFK5qd9apuIHtEmQNBVu-8qBkDdhdI5GwfKh4virec49QcTj59c9oS19N_crrTziuDsbeiBCfCQ2zprDx0p8tANgLqVxFh26OAwBcbevZ5sbjsJU1C_CaAKwdP5yPmBOx1Up8DQviq2oT1XUObqftDiEsGmvHFFwQr5IAkudnA6CVnSz6jfEIOWE43kd7hqPs9xfSHP67Nl_25dl26lIBawxfW8wLSJPXJG4s90LclSVWyUa_XLFEiY7ZDE8kjqxzeiA9tRgIzSfQlKGYzQrs4on1OeGD6goxZIl7C31UD5LS0TZdlGYGeZmgdWmtsDOgVDDRzWJ2hs_MBMcMMAiLWcyj6kRPgRRsehJTDalJSm022b5YPXQU_fG84VVj3RqeiDAIEteAz1g-KhAQhup2B_4aM3jAIIkW7ATYYWlTSgyj4VAAwAbzvDOAokeR_4Q6Fn2d5cIbvOw_4-fOcuxYWKEOR2gzmAOk_hRiM54O6swsej5wyexiAvD7hHXwD-3Ae_82IaGV6O2j8Pm6aqLvXmmx-_RMC3rpqvg_aD_FiduO25cRomwcz6BcbB_ysgZXzkpfLzQDK-BSRKtfN8tJnu-SgBEqKUngGStgHSRz6KM5U9Hx0DCfVyQPqCj34VSNqnQMpAehJIzVNA0s4BKeOjAyD1DvgInuajHZB-h4_gb_JRiiuyGQ7JaTmhZ0mqqf6ohWoDYnRvLo2x7k6mUX84XIm69TVJjWfR9cy0vcuRa19D-TZa25cjLgiuiV1YKBeyrLOi7tuuWewGLCqGxPS8dTFc-r7r06JZvNDki7p40air5rTYIyuz2HLHEcvEjSLDDpmRYuyQkHBzhZkXBopoVpsidL0O7Xc6VJo71beB7OoNLC9-mE0rvIoDVpuPBthcw8XNKL6avg6t-XtrrHpVRzZV6HaNcvuFxM640cNSaExMc7BoVPXl-JX0o4WPVzZpToewRp5q3TILyY0tSrZXtX5MbbU97obDnn7fu33z3sfrZZf4fZYGxpT6oNe3O69Du60VZiFWeONUKGgb4IUCDNAAGLxsT2bAxxgYrSteSVhg2BwRtlJIrSFVJLmMx2VLski9MKPReq5UKgXmh4r0LwaCUfs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wxDQsHiczVVbcuo4EF3ArCP8kIsfQIBUuW5JsiHOA3AgD_ihbFnIBmODZXDI3-xlljErmdWMbDAYAknu_Zgaf1hSq9Xd6u6j8-dfnutP__njbyeK5uxaEOI4LtEgoB4p4WAmmGztY2EceCzEzk8WLENMXFvBThjMSGG9UsoFzBSxQFyl7y7WZtgL77q1p2o76DpERWvwUEhNKCPLZGTCPbxNmDAS-G96UVb5osRKxC-1nqv1B1itiJN6SRalRqkjmDOuAP67T3eSvwGmQP9EKdH4zkcp0AC43QsQSgctp5IsKDeJEiFK5qd9apuIHtEmQNBVu-8qBkDdhdI5GwfKh4virec49QcTj59c9oS19N_crrTziuDsbeiBCfCQ2zprDx0p8tANgLqVxFh26OAwBcbevZ5sbjsJU1C_CaAKwdP5yPmBOx1Up8DQviq2oT1XUObqftDiEsGmvHFFwQr5IAkudnA6CVnSz6jfEIOWE43kd7hqPs9xfSHP67Nl_25dl26lIBawxfW8wLSJPXJG4s90LclSVWyUa_XLFEiY7ZDE8kjqxzeiA9tRgIzSfQlKGYzQrs4on1OeGD6goxZIl7C31UD5LS0TZdlGYGeZmgdWmtsDOgVDDRzWJ2hs_MBMcMMAiLWcyj6kRPgRRsehJTDalJSm022b5YPXQU_fG84VVj3RqeiDAIEteAz1g-KhAQhup2B_4aM3jAIIkW7ATYYWlTSgyj4VAAwAbzvDOAokeR_4Q6Fn2d5cIbvOw_4-fOcuxYWKEOR2gzmAOk_hRiM54O6swsej5wyexiAvD7hHXwD-3Ae_82IaGV6O2j8Pm6aqLvXmmx-_RMC3rpqvg_aD_FiduO25cRomwcz6BcbB_ysgZXzkpfLzQDK-BSRKtfN8tJnu-SgBEqKUngGStgHSRz6KM5U9Hx0DCfVyQPqCj34VSNqnQMpAehJIzVNA0s4BKeOjAyD1DvgInuajHZB-h4_gb_JRiiuyGQ7JaTmhZ0mqqf6ohWoDYnRvLo2x7k6mUX84XIm69TVJjWfR9cy0vcuRa19D-TZa25cjLgiuiV1YKBeyrLOi7tuuWewGLCqGxPS8dTFc-r7r06JZvNDki7p40air5rTYIyuz2HLHEcvEjSLDDpmRYuyQkHBzhZkXBopoVpsidL0O7Xc6VJo71beB7OoNLC9-mE0rvIoDVpuPBthcw8XNKL6avg6t-XtrrHpVRzZV6HaNcvuFxM640cNSaExMc7BoVPXl-JX0o4WPVzZpToewRp5q3TILyY0tSrZXtX5MbbU97obDnn7fu33z3sfrZZf4fZYGxpT6oNe3O69Du60VZiFWeONUKGgb4IUCDNAAGLxsT2bAxxgYrSteSVhg2BwRtlJIrSFVJLmMx2VLski9MKPReq5UKgXmh4r0LwaCUfs"
+  }
+}

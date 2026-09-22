@@ -1,0 +1,1091 @@
+{
+  "search_metadata": {
+    "id": "6ab11142d10c6abd3e00180f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FvHmJ-1-9qQi8ArPsukchjWl6ft8K0LCOeaDaFj9_ak/6ab11142d10c6abd3e00180f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FvHmJ-1-9qQi8ArPsukchjWl6ft8K0LCOeaDaFj9_ak/6ab11142d10c6abd3e00180f.md",
+    "created_at": "2026-09-21 11:13:06 UTC",
+    "processed_at": "2026-09-21 11:13:06 UTC",
+    "google_news_url": "https://news.google.com/search?q=Did+Apple+really+just+introduce+the+iPhone+Duo%2C+or+is+this+story+based+on+information+that+was+already+reported+earlier%3F",
+    "raw_html_file": "https://serpapi.com/searches/FvHmJ-1-9qQi8ArPsukchjWl6ft8K0LCOeaDaFj9_ak/6ab11142d10c6abd3e00180f.html",
+    "total_time_taken": 3.55
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Did Apple really just introduce the iPhone Duo, or is this story based on information that was already reported earlier?"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Apple’s biggest gadgets just got an upgrade — here’s what’s actually new, plus what you can buy now",
+      "source": {
+        "name": "nbcnews.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bethany Heitman"
+        ]
+      },
+      "link": "https://www.nbcnews.com/select/shopping/apple-iphone-18-airpods-5-watch-series-12-launch-rcna598416",
+      "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2026-09/apple-97e440.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVhSEpXWkRsTmJuSkdhR2hGVFJDSEF4aVBCaWdLTWdZSllKTE1MUWM",
+      "date": "09/18/2026, 05:44 PM, +0000 UTC",
+      "iso_date": "2026-09-18T17:44:05Z"
+    },
+    {
+      "position": 2,
+      "title": "Apple unveils iPhone Duo",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "thumbnail": "https://www.apple.com/newsroom/videos/2026/autoplay/09/apple-unveils-iphone-duo/apple-iphone-duo-opening/posters/Apple-iPhone-Duo-opening-iPhone-Duo-260909.jpg.large_2x.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXbEF4Y1VoS1NYbzRXR04wVFJDZkF4ampCU2dLTWdZdFZZek9xUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Which iPhone Should You Buy (or Avoid) Right Now?",
+      "source": {
+        "name": "WIRED",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julian Chokkattu",
+          "Simon Hill"
+        ]
+      },
+      "link": "https://www.wired.com/gallery/iphone-buying-guide/",
+      "thumbnail": "https://media.wired.com/photos/6aaaeda66403e0048085a4ec/16:9/w_4976,h_2799,c_limit/DSC_9462.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRZa2hwU2tKcGFsbHlXbWRuVFJDZkF4ampCU2dLTWdhZFZwZ3JKZ2c",
+      "date": "09/17/2026, 12:00 PM, +0000 UTC",
+      "iso_date": "2026-09-17T12:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "iPhone Duo: Everything We Know",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/roundup/iphone-duo/",
+      "thumbnail": "https://images.macrumors.com/t/U4i31CcdtVCWNdOuSX9mr53w_sc=/800x0/smart/article-new/2026/09/iphone-duo.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVjQzFHWWxOVVFrSkJOM0ZRVFJDZkF4ampCU2dLTWdhbFpJek9yUVU",
+      "date": "09/19/2026, 06:08 PM, +0000 UTC",
+      "iso_date": "2026-09-19T18:08:32Z"
+    },
+    {
+      "position": 5,
+      "title": "Apple may skip the iPhone 19 entirely: Here’s why",
+      "source": {
+        "name": "Gulf Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gulfbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nida Sohail"
+        ]
+      },
+      "link": "https://gulfbusiness.com/en/2026/gadgets/apple-may-skip-the-iphone-19-entirely-heres-why/",
+      "thumbnail": "https://media.gulfbusiness.com/2026/09/apple-iphone.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpMVmh1YkRCNldFUm9RMGgwVFJDZkF4ampCU2dLTWdtZGNvZ3VyU2FUYndF",
+      "date": "09/18/2026, 09:59 AM, +0000 UTC",
+      "iso_date": "2026-09-18T09:59:32Z"
+    },
+    {
+      "position": 6,
+      "title": "Apple hikes price of older iPhones, now more expensive than at launch",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amanda Yeo"
+        ]
+      },
+      "link": "https://mashable.com/tech/iphone-price-increase-apple-16-17-air",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/03uksNtI7wRVlQxxRHuSDty/hero-image.fill.size_1248x702.v1789006059.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNZbWRRV1hsV1dFeHpla1ZSVFJDZkF4ampCU2dLTWdrRkFveEZHYWlCOEFF",
+      "date": "09/10/2026, 02:18 AM, +0000 UTC",
+      "iso_date": "2026-09-10T02:18:52Z"
+    },
+    {
+      "position": 7,
+      "title": "Apple unveils foldable iPhone Duo and other highlights from its annual tech showcase",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aimee Picchi"
+        ]
+      },
+      "link": "https://www.cbsnews.com/news/apple-event-today-foldable-iphone/",
+      "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/e1561961-fa21-4d82-84dc-ec786141dcaf/thumbnail/640x457/cf9d7cbd1629bd05301635ffa16b207e/apple-iphone-18-pro-color-lineup-260909.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRlbkpQUTJRNFgxTk1hMVIwVFJDLUFSaUtBaWdCTWdhUklZd0xHUW8",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Apple’s new iPhone 18 Pro & iPhone Duo colors are here",
+      "source": {
+        "name": "Macworld",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Filipe Espósito",
+          "Karen haslam"
+        ]
+      },
+      "link": "https://www.macworld.com/article/3116701/iphone-18-pro-colors-revealed-exclusive-look-at-apples-2026-models.html",
+      "thumbnail": "https://www.macworld.com/wp-content/uploads/2026/09/3116701-0-97854500-1789039636-iphone-18-pro.jpg?quality=50&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1UVlZWV2xkNFVuaHhNbFJZVFJERUF4aW1CU2dLTWdhUklZd0xHUW8",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-2up-260909_inline.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtjVEpxTTJoRlQwWlNkbEZhVFJDUUJSalVBeWdLTWdNUk13dw",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Want a New iPhone 18 Pro or iPhone Duo? Here's How Much They Cost With Apple Upgrade",
+      "source": {
+        "name": "PCMag",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jason Cohen",
+          "Courtney Johnston"
+        ]
+      },
+      "link": "https://www.pcmag.com/explainers/how-much-cost-iphone-18-pro-iphone-duo-apple-upgrade-leasing-program",
+      "thumbnail": "https://i.pcmag.com/imagery/articles/012uyLYZFG7uR04sNgFJWwH-3..v1788999517.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZWRTlxYmtWRlYyOVBUMDlYVFJDZkF4ampCU2dLTWdZQmNJcEpyZ2M",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Apple’s Foldable iPhone Ultra Could Launch Tomorrow, but Arrive Later",
+      "source": {
+        "name": "cnet.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Lumb"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/bc58c3fe-086a-4d0c-ad35-c83fb9b0d8e6.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBiR3RYVURSRVlWYzJPVFpGVFJDZkF4ampCU2dLTWdPSlFRNA",
+      "date": "09/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-04T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Apple’s iPhone Duo Lands in Germany and Austria at ~€2,300, Minus Siri AI",
+      "source": {
+        "name": "trendingtopics.eu",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.trendingtopics.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jakob Steinschaden"
+        ]
+      },
+      "link": "https://www.trendingtopics.eu/apples-iphone-duo-lands-in-germany-and-austria-at-e2300-minus-siri-ai/",
+      "thumbnail": "https://www.trendingtopics.eu/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-780x439.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZVa2xRYW1jMGRteHRkek16VFJDZkF4amlCU2dLTWdtUllvaEpPYVpVU3dJ",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "iPhone Duo: Apple’s First Foldable iPhone Explained",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/iphone-duo-is-this-apple-s-first-foldable-iphone-updated",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/iPhone_Duo_Is_Looking_More_Likely_Could_Apple_s_iPhone_Fold_Really_Drop_the_iPhone_Ultra_Name_1_d80077a4-a91c-4816-b447-933da04837f9.webp?v=1789060631",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxWMUE0TUVNNWRrSk9jbDlDVFJDOUFSaUtBaWdCTWdZZEZKWnFGUXM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "The Duo is drool-worthy, but the iPhone 18 Pro camera features win for me",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Lovejoy"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/10/the-duo-is-drool-worthy-but-the-iphone-18-pro-camera-features-win-for-me/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-Duo-is-drool-worthy-but-the-iPhone-18-Pro-camera-features-win-for-me.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWhjRE0zUVhOQlp5MTRSM0p5VFJDSEF4aVBCaWdLTWdNdGhoQQ",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Apple’s folding iPhone Duo is for everyone complaining that Apple lost its touch",
+      "source": {
+        "name": "British GQ",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gq-magazine.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Robert Leedham"
+        ]
+      },
+      "link": "https://www.gq-magazine.co.uk/article/apple-iphone-duo-review-september-2026",
+      "thumbnail": "https://media.gq-magazine.co.uk/photos/6aa2755dc1b48bbd11a13945/master/w_2560%2Cc_limit/apple%2520%2520copy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNkRzQwT1Uwd1RUZE9Vazg1VFJEZ0F4aUFCU2dLTWdZUk1vd1R0UVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "iPhone Ultra rumors: design, release date, cost",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marko Zivkovic"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/08/28/iphone-ultra-what-to-expect-from-apples-first-foldable-iphone-and-when",
+      "thumbnail": "https://media.appleinsider.com/gallery/68697-144828-Fold---11-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZjVTlTYzFKSmJIRnZibGQyVFJDZkF4ampCU2dLTWdZQmtJd0p1Z1U",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Meet the foldable iPhone Duo: The device's name and cost reportedly revealed",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matt Binder"
+        ]
+      },
+      "link": "https://mashable.com/tech/meet-the-iphone-duo-apple-foldable",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/03tyAiYWgxqnaVAIczGU2lB/hero-image.fill.size_1248x702.v1788961455.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVXRzlWV1c4eFRURnZWemN3VFJDZkF4ampCU2dLTWdZbGRZN05yUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/08/28/reasons-to-wait-iphone-18-pro/",
+      "thumbnail": "https://images.macrumors.com/t/XuhVHIMIrLxXTYMCv1j2beBay1g=/400x0/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9TbGRWU2s5cFFtUm5hVkJQVFJEaEFSaVFBeWdLTWdZQklJcUxuUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Major updates for Apple’s software platforms are now available",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/article/Apple-OS-availability-hero_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFSMFo2VEV0Zk9YQlVURUZuVFJDZkF4ampCU2dLTWdrTlVaSzFwT2loU0FJ",
+      "date": "09/14/2026, 05:11 PM, +0000 UTC",
+      "iso_date": "2026-09-14T17:11:40Z"
+    },
+    {
+      "position": 20,
+      "title": "Apple Event 2026 recap: Everything announced, including foldable iPhone Duo",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chance Townsend"
+        ]
+      },
+      "link": "https://mashable.com/tech/apple-event-2026-everything-announced-iphone-18-duo",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/03koa4UoytHxFERwobJWrYX/hero-image.fill.size_1248x702.v1788971581.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFXVWRNVG1OWlQzaHBhSFpyVFJDZkF4ampCU2dLTWdZbEpJek5IUWs",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Where’s the iPhone 18? Here’s Why Apple Didn’t Reveal a New Standard iPhone",
+      "source": {
+        "name": "cnet.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Lumb"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/mobile/wheres-the-iphone-18-heres-why-apple-didnt-reveal-a-new-standard-iphone/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/d0526108-6fda-43ff-bc73-caa4cecc157e.jpg?w=864",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxUbTVLVFd0RlJVOXNSRXgyVFJDZkF4ampCU2dLTWdZQkJZZ09tZ28",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Apple iPhone 18 Pro Max: release date, price, specs, and must-know features",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Iskra Petrova"
+        ]
+      },
+      "link": "https://www.phonearena.com/iphone-18-pro-max-release-date-price-features-news",
+      "thumbnail": "https://m-cdn.phonearena.com/images/hub/642-wide-two_1200/Apple-iPhone-18-Pro-Max-release-date-price-specs-and-must-know-features.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFiVFZtVlRneGJVaG5VSEpYVFJDZkF4ampCU2dLTWdhcFJJN09KUWs",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Apple launches $1,999 iPhone Duo in biggest redesign in years",
+      "source": {
+        "name": "Gulf Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gulfbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gareth van Zyl",
+          "Gareth van Onselen"
+        ]
+      },
+      "link": "https://gulfbusiness.com/2026/tech/apple-iphone-duo-foldable-phone-price-features/",
+      "thumbnail": "https://media.gulfbusiness.com/2026/09/ustrump-3.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhhekZUTlRWSE1ISlhjREZrVFJDY0F4am5CU2dLTWdhSlVZNFRMUWM",
+      "date": "09/11/2026, 02:31 AM, +0000 UTC",
+      "iso_date": "2026-09-11T02:31:50Z"
+    },
+    {
+      "position": 24,
+      "title": "iPhone Duo Is Official: Apple’s First Foldable iPhone Explained",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/iphone-duo-is-this-apple-s-first-foldable-iphone",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/iPhone_Duo_Is_This_Apple_s_First_Foldable_iPhone_1_9f8347ac-2d5f-41ee-b9d3-a6139140b7d1.webp?v=1789294692",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhUQzFUUVVjM2MxQnpTMkpyVFJEQ0FSaURBaWdCTWdhWkE1QnBFUXM",
+      "date": "09/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-07T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+      "thumbnail": "https://images.macrumors.com/t/RpS_NbMfV5uA3pY-49XvA6SGQwo=/400x0/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSa1kyWlMxQldqWXpObEZVVFJEaEFSaVFBeWdLTWdZQk1JN2xJQW8",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Apple Didn’t Invent Foldables—but iPhone Duo Is the Most Complete Foldable Yet",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/tr/blogs/news/iphone-duo-is-the-most-complete-foldable-yet",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/Apple_Didn_t_Invent_Foldables_but_iPhone_Duo_Is_the_Most_Complete_Foldable_Yet1.webp?v=1789403395",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdRbWM0VkV0M1JtNWhhMWt0VFJDZkF4amlCU2dLTWdrVkE0b0pFV3RjRWdF",
+      "date": "09/14/2026, 06:59 PM, +0000 UTC",
+      "iso_date": "2026-09-14T18:59:58Z"
+    },
+    {
+      "position": 27,
+      "title": "Apple’s first foldable can be named iPhone Duo, not Ultra",
+      "source": {
+        "name": "Huawei Central",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.huaweicentral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emiko Matsui"
+        ]
+      },
+      "link": "https://www.huaweicentral.com/apples-first-foldable-can-be-named-iphone-duo-not-ultra/",
+      "thumbnail": "https://www.huaweicentral.com/wp-content/uploads/2026/06/PuraXMax.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhiRGh6Ylhwc2MzQXlSRnA1VFJDZkF4ampCU2dLTWdhZFk0cHVyUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "iPhone Fold: Launch, Design, Specs, Price and Other Details",
+      "source": {
+        "name": "TechPP",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://techpp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://techpp.com/roundup/iphone-fold/",
+      "thumbnail": "https://techpp.com/wp-content/uploads/2026/02/iPhone-Duo-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZjMEpVWlVoYWIxOVhNVGQyVFJDUUF4aUFCaWdLTWdtUk1ZcG5NYVpNaHdJ",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Apple Skipping iPhone 18 Launch This Year",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Rossignol"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/",
+      "thumbnail": "https://images.macrumors.com/t/Q6I_jFNwoSbeuAyOQ2bRDNzrSBc=/1600x0/article-new/2026/07/Apple-Skipping-iPhone-18-This-Year.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJWbGxXZDFaeVQxQnlMVm8xVFJDZkF4ampCU2dLTWdZRmRZcUVOZ1U",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Will the iPhone Duo/ iPhone Ultra Sell Out at Launch? Production Is Reportedly Still Very Limited",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/will-the-iphone-ultra-sell-out-at-launch-production-is-reportedly-still-very-limited",
+      "thumbnail": "https://zeerawireless.com/cdn/shop/files/ZEERAColorGuardProCaseforiPhoneUltra_VeganLeatherMagSafeCasewithBuilt-InTemperedGlassScreenProtector31.jpg?v=1787073828&width=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5UMHhRZDA1TU1XWktjbWRVVFJDcUJCaXFCQ2dLTWdZTlFwQVNJUWc",
+      "date": "09/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-05T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "iPhone 18 Pro Max Release Date: Sept. 18 or 25? Price, Preorder & Colors",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/iphone-18-pro-max-rumors-release-date-price-colors-and-preorder-details",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0482/3957/5208/files/iPhone_18_Pro_Max_Dark_Cherry_Ice_Blue_Dark_Gray_and_Classic_Silver6.png?v=1778053840",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtiRkpZWVVSWWJGSmpVbEZJVFJDZkF4amlCU2dLTWdZRk1ZQ21JQWs",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Apple Now Sending Critical Security Alerts to iPhones Running iOS 17 and Earlier",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/03/27/critical-security-alerts-sent-to-ios-17-iphones/",
+      "thumbnail": "https://images.macrumors.com/t/zlUDcgnhwQTCx6FAfSXQYB2X48k=/400x0/article-new/2026/03/lock-screen-notifications-for-iPhones-running-out-of-date-versions-of-iOS-feature-3.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVRlY0Y0RNdFZVSlVPVmN0VFJEaEFSaVFBeWdLTWdZbEpJeXRyUVU",
+      "date": "03/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-27T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Why the MacBook Neo 2 may arrive sooner than expected",
+      "source": {
+        "name": "Macworld",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Filipe Espósito"
+        ]
+      },
+      "link": "https://www.macworld.com/article/3108728/why-the-macbook-neo-2-may-arrive-sooner-than-expected.html",
+      "thumbnail": "https://www.macworld.com/wp-content/uploads/2026/04/macbook_neo_silksong-1.jpg?quality=50&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpaM0JFYUdWTFdtczJiMUoyVFJDZkF4ampCU2dLTWdZaFJZenRIUWs",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "iOS 26.4.1 Problems Reported by iPhone Users After the Update",
+      "source": {
+        "name": "The Mac Observer",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.macobserver.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akshay Kumar"
+        ]
+      },
+      "link": "https://www.macobserver.com/news/ios-26-4-1-problems-reported-by-iphone-users-after-the-update/",
+      "thumbnail": "https://www.macobserver.com/wp-content/uploads/2026/04/Apples-iOS-26.4.1-Update-May-Arrive-This-Week-or-Next-Logs-Suggest.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlRMk5yVlRoV1RFVndZM0Z4VFJDZkF4ampCU2dLTWdhcE1vcXZIUVk",
+      "date": "04/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-12T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "iPhone Fold: What it could look like, how much it will cost, and when it will launch",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mike Wuerthele",
+          "Malcolm Owen"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/01/10/iphone-fold-what-it-could-look-like-how-much-it-will-cost-and-when-it-will-launch",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/66272-139035-Fold---12-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9WRlZ3Y0hJNFQyRm9UalJxVFJDZkF4ampCU2dLTWdhQkVvNU9MUWc",
+      "date": "01/09/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-09T08:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "iPhone 18 Pro Max vs iPhone 17 Pro Max: Should You Upgrade in 2026?",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/iphone-18-pro-max-vs-iphone-17-pro-max-what-s-new-and-should-you-upgrade-2026",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/iPhone_18_Pro_Max_vs_iPhone_17_Pro_Max_design_f18807df-e4be-435c-9dc1-f435e2578de7.webp?v=1787335332",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJaMU5hTTNaSmVVcENVR010VFJDVUF4ajNCU2dLTWdZVlFwRE9OUWc",
+      "date": "04/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-30T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Apple Just Unveiled a Folding iPhone, and It Looks Good",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Caitlin McGarry",
+          "Brenda Stolyar"
+        ]
+      },
+      "link": "https://www.nytimes.com/wirecutter/reviews/apple-iphone-18-event-recap-20260909/",
+      "thumbnail": "https://cdn.thewirecutter.com/wp-content/media/2026/09/NEWS-IPHONE-18-EVENT-RECAP-iPhone_Duo-2x1-2.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNZVFozWW1KNWIyVlFMVEJzVFJDSEF4aVBCaWdLTWdhaFlZd1JzUVU",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
+      "source": {
+        "name": "WIRED",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julian Chokkattu"
+        ]
+      },
+      "link": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
+      "thumbnail": "https://media.wired.com/photos/6aa1c4fb3d47803dbc28f562/master/w_2560%2Cc_limit/Apple-Event-Gear-DSC_9455.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlMVTlTTTJGWlN5MXhNRmh0VFJERUF4aW1CU2dLTWdZUmRJN0xyUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "iPhone 18 Pro price: Apple cuts trade-in values on older models",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Tauber"
+        ]
+      },
+      "link": "https://mashable.com/tech/apple-lowers-iphone-trade-in-values-iphone-18",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/07jpe5P7Lbjr1xVxFSI5ZAN/hero-image.fill.size_1248x702.v1788985553.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhVRkV5VFZoclJWUlpiSEpUVFJDZkF4ampCU2dLTWdZdEpZYnZIUWM",
+      "date": "09/09/2026, 08:50 PM, +0000 UTC",
+      "iso_date": "2026-09-09T20:50:25Z"
+    },
+    {
+      "position": 40,
+      "title": "I just touched the iPhone Duo and Apple just solved the foldable crease problem in the most wonderfully basic way",
+      "source": {
+        "name": "techradar.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lance Ulanoff"
+        ]
+      },
+      "link": "https://www.techradar.com/phones/iphone/iphone-duo-hands-on",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/AFhxLLs8QJArr5s2N8Kur4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVhalEzYkVSb2RIRm5kVzE2VFJDZkF4ampCU2dLTWdhQllKQnZwUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Apple Advances 3% as First Foldable iPhone Arrives at Its Highest Price Ever; Skyworks Rallies 9%, Alphabet Ticks Up",
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Moadel, M.Ed."
+        ]
+      },
+      "link": "https://247wallst.com/investing/2026/09/11/apple-advances-3-as-first-foldable-iphone-arrives-at-its-highest-price-ever-skyworks-rallies-9-alphabet-ticks-up/",
+      "thumbnail": "https://247wallst.com/wp-content/uploads/2025/01/GettyImages-2173355716-200x133.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBaRmhEUzFKWVFubFNjWEZLVFJDRkFSaklBU2dLTWdNbEZBSQ",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Apple: We Don't Need No Fold-A-Phone P2 - The Cost Of A Good iPhone Duo Launch (AAPL)",
+      "source": {
+        "name": "Seeking Alpha",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://seekingalpha.com/article/4946043-apple-we-dont-need-no-fold-a-phone-p2-the-cost-of-a-good-iphone-duo-launch",
+      "thumbnail": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178382515/image_2178382515.jpg?io=getty-c-w1280",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNNR1UwUkV0WVowY3pka1V3VFJERUF4aW1CU2dLTWdhRmxaRHJPUVk",
+      "date": "09/14/2026, 03:20 PM, +0000 UTC",
+      "iso_date": "2026-09-14T15:20:25Z"
+    },
+    {
+      "position": 43,
+      "title": "Need to Upgrade Your iPhone? Get Last Year's Model. | Reviews by Wirecutter",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brenda Stolyar"
+        ]
+      },
+      "link": "https://www.nytimes.com/wirecutter/reviews/the-iphone-is-our-favorite-smartphone/",
+      "thumbnail": "https://cdn.thewirecutter.com/wp-content/media/2026/09/BEST-IPHONES-2048px-2498-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNjV3M0VVdkQ2FtVnZXa0pFVFJDSEF4aVBCaWdLTWdtQlFJcXVJZWd0aVFJ",
+      "date": "09/16/2026, 12:01 PM, +0000 UTC",
+      "iso_date": "2026-09-16T12:01:00Z"
+    },
+    {
+      "position": 44,
+      "title": "iPhone Fold release date: Why September 2026 now looks likely",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gulfnews.com/lifestyle/iphone-fold-release-date-why-september-2026-now-looks-likely-1.500390936",
+      "thumbnail": "https://media.assettype.com/gulfnews/import/2022/05/12/iPhone-Air-1_180b6f9e92f_large.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRla1ZITUdGeVRqTmxWMFI1VFJEZ0F4al9CQ2dLTWdZZFE0aHNvUVE",
+      "date": "12/26/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-26T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Apple iPhone Event 2026 – Everything Announced, Including the iPhone Duo",
+      "source": {
+        "name": "IGN Africa",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://za.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jacqueline Thomas"
+        ]
+      },
+      "link": "https://za.ign.com/iphone-18/240784/apple-iphone-event-2026-everything-announced-including-the-iphone-duo",
+      "thumbnail": "https://sm.ign.com/t/ign_za/news/a/apple-ipho/apple-iphone-event-2026-everything-announced-including-the-i_qm88.1200.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxRM2t0VDFCSVZuRjZlazVmVFJDZkF4ampCU2dLTWdZbEpZYk5HUWc",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "iPhone 18 Pro Rumor Reality Check: 20 Claims Ranked by Likelihood",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/09/ranked-best-features-rumored-iphone-18/",
+      "thumbnail": "https://images.macrumors.com/t/3iRowgsUHgF0LBVPu3Hou7YG2Pg=/400x0/article-new/2026/07/iPhone-18-Rumor-Check-20-Claims-Ranked-by-Likelihood-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNNRVJHVDFSaWRTMXpSVkJXVFJEaEFSaVFBeWdLTWdZRlFJcUpLUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
+      "thumbnail": "https://i.ytimg.com/vi/KeYsx498wuU/mqdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVVzlKV1cxQmFWUm1WVnAyVFJDMEFSakFBaWdLTWdZbFZZcXVLUVk",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Supply chain hints that iPhone Fold won't ship until 2027",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "William Gallagher"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/06/15/here-we-go-again-supply-chain-thinks-iphone-fold-will-ship-in-2027-not-2026",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/67949-143251-000-lead-iPhone-Fold-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUJSbGx1VjJwdVpFRklZMlp3VFJDZkF4ampCU2dLTWdNRmNRZw",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "I got a first look at Apple’s new £2k iPhone – it’s not just the price that makes it stand out",
+      "source": {
+        "name": "The Telegraph",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.telegraph.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Britta O'boyle",
+          "Nathan Spendelow"
+        ]
+      },
+      "link": "https://www.telegraph.co.uk/recommended/tech/apple-foldable-iphone-launch-everything-announced/",
+      "thumbnail": "https://www.telegraph.co.uk/content/dam/recommended/2026/09/10/TELEMMGLPICT000501937101_17889986831560.jpeg?impolicy=OG-Standard",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRXVVEwTVdkV1gwMTRVbGRRVFJDZkF4ampCU2dLTWdZaE1KUnRKUWc",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "iPhone 18 Pro Leaks Are Everywhere. Which Ones Can You Actually Trust?",
+      "source": {
+        "name": "PCMag Australia",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://au.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jibin Joseph"
+        ]
+      },
+      "link": "https://au.pcmag.com/mobile-phones/119130/iphone-18-pro-leaks-are-everywhere-which-ones-can-you-actually-trust",
+      "thumbnail": "https://sm.pcmag.com/t/pcmag_au/news/c/considerin/considering-an-iphone-18-pro-upgrade-here-are-all-the-rumors_rxyc.640.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpObTltZEU5Q01XZDNkazlaVFJEb0FoaUFCU2dLTWdZQk1vNEpIZ2s",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
+      "thumbnail": "https://images.macrumors.com/t/D7dgLa5xHWDBfE96P6Gwqof8gLY=/400x0/article-new/2025/09/iphone-17-rear-camera.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURXVEEyWWxWSFlYQkplbGc1VFJEaEFSaVFBeWdLTWdZZEFaNXdHUW8",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "I Was Fed Up With Spam Calls. Here's How I Silenced Them for Good",
+      "source": {
+        "name": "PCMag",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kim Key"
+        ]
+      },
+      "link": "https://www.pcmag.com/how-to/i-was-fed-up-with-spam-calls-heres-how-i-silenced-them-for-good",
+      "thumbnail": "https://i.pcmag.com/imagery/articles/060aHZmyoGP2W1r8ihxMZiH-1..v1784204255.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSemRFVWpGRmJtaHVhRVprVFJDY0F4am9CU2dLTWdZWlFvWUxuZ2M",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "iPhone Duo: Is This Apple’s First Foldable iPhone?",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/ru/blogs/news/iphone-duo-is-this-apple-s-first-foldable-iphone",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/iPhone_Duo_Is_This_Apple_s_First_Foldable_iPhone_1.webp?v=1788791211",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRYMGM1UjNKV1RESnZVMWxLVFJEZ0F4aUFCU2dLTWdhWkE1QnBFUXM",
+      "date": "09/07/2026, 02:25 PM, +0000 UTC",
+      "iso_date": "2026-09-07T14:25:28Z"
+    },
+    {
+      "position": 54,
+      "title": "iPhone 18 Pro Max: Release Date, Price, Specs & 12 Biggest Upgrades",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/iphone-18-pro-max-release-date-price-specs-rumors-2026",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/iPhone_18_Pro_Max_Dark_Cherry_Ice_Blue_Dark_Gray_and_Classic_Silver6_6ac7a56e-2dba-49b3-9a9e-030efd7086c5.png?v=1787198412",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtiRkpZWVVSWWJGSmpVbEZJVFJDZkF4amlCU2dLTWdZRk1ZQ21JQWs",
+      "date": "05/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-04T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Apple unveils iPhone 18 Pro and first foldable iPhone Duo: UAE prices, pre-order dates",
+      "source": {
+        "name": "Gulf Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gulfbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Neesha Salian"
+        ]
+      },
+      "link": "https://gulfbusiness.com/en/2026/tech/apple-unveils-iphone-18-pro-and-iphone-duo-uae-prices-pre-order-dates",
+      "thumbnail": "https://media.gulfbusiness.com/2026/09/iphone_.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxUbm90Um1aNlZVdERjRlJPVFJDZkF4ampCU2dLTWdhZE1veE1HUW8",
+      "date": "09/11/2026, 07:47 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:47:36Z"
+    },
+    {
+      "position": 56,
+      "title": "Foldable iPhone Review: Is Apple’s First Fold Actually Any Good?",
+      "source": {
+        "name": "techcityng.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techcityng.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bukola Oyeyemi"
+        ]
+      },
+      "link": "https://www.techcityng.com/foldable-iphone-review-apple-iphone-duo/",
+      "thumbnail": "https://e8wm23is9ki.exactdn.com/wp-content/uploads/2026/09/IMG_1585.jpeg?strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpTMk5mVTBaV1lrWmhjR1ZJVFJDZkF4ampCU2dLTWdZQmtJd0p1Z1U",
+      "date": "09/20/2026, 11:36 PM, +0000 UTC",
+      "iso_date": "2026-09-20T23:36:03Z"
+    },
+    {
+      "position": 57,
+      "title": "Apple's upgraded Siri is late but not lost — the real story is timing",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andrew Orr"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/02/16/apples-upgraded-siri-is-late-but-not-lost----the-real-story-is-timing",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/66730-139932-IMG_1548-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNRVmhmY1ZGNk4waENaRFpSVFJDZkF4ampCU2dLTWdZWlE1QXFIUW8",
+      "date": "02/16/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-16T08:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Keeping the Streak Alive: The Story of Duolingo",
+      "source": {
+        "name": "Quartr",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://quartr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Philip Svensson"
+        ]
+      },
+      "link": "https://quartr.com/insights/edge/keeping-the-streak-alive-the-story-of-duolingo",
+      "thumbnail": "https://a.storyblok.com/f/182663/1600x1600/92f978170e/duolingo_hero_square.png/m/3840x0/filters:quality(85)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlPVmREU0dkNlNFeGhlVGx2VFJDcUJCaXFCQ2dLTWdZWlpKS05MUWM",
+      "date": "11/28/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-28T08:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "No, Google Gemini will not be taking over your iPhone, Apple Intelligence, or Siri",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wesley Hilliard"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/01/12/no-google-gemini-will-not-be-taking-over-your-iphone-apple-intelligence-or-siri",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/66343-139143-Apple-Gemini-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRVVmhFYVdWU2MzaDFkMXBFVFJDZkF4ampCU2dLTWdhbFZJcXRKUVU",
+      "date": "01/12/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-12T08:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Apple just dropped 6 new products. What are they?",
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Greta Cross"
+        ]
+      },
+      "link": "https://www.usatoday.com/story/tech/2026/03/04/apple-drops-6-new-products-what-are-they/88978352007/",
+      "thumbnail": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/04/USAT/88980397007-apple-mac-book-neocolorlineup-260304-bigjpgmedium-2-x.jpg?crop=1383,779,x0,y72&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJVRXBEZG5neGNIRkpTekp3VFJDb0FSaXNBaWdCTWdZWmNvWnVOUVk",
+      "date": "03/04/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-04T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "iOS 26.3.1 Problems Reported by iPhone Users After Installing the Update",
+      "source": {
+        "name": "The Mac Observer",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.macobserver.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mike Peterson"
+        ]
+      },
+      "link": "https://www.macobserver.com/news/ios-26-3-1-problems-reported-by-iphone-users-after-installing-the-update/",
+      "thumbnail": "https://www.macobserver.com/wp-content/uploads/2026/03/iOS-26.3.1-Problems.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJkbWg0VUZZNU5tcERXa3B0VFJDZkF4ampCU2dLTWdhcGc0aE9zUVE",
+      "date": "03/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-12T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "iPhone Ultra now said to be confined to one market at launch - GSMArena.com news",
+      "source": {
+        "name": "GSMArena.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gsmarena.com/iphone_ultra_now_said_to_be_confined_to_one_market_at_launch-news-74164.php",
+      "thumbnail": "https://st.gsmarena.com/imgroot/news/26/08/iphone-ultra-confined-to-one-market/-1220x526/gsmarena_000.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVNUalZJYUcxR2RXbzFXSE52VFJEckFoak1CaWdLTWdPaEV3QQ",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Apple Quietly Blocks Updates for Popular 'Vibe Coding' Apps [Updated]",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/03/18/apple-blocks-updates-for-vibe-coding-apps/",
+      "thumbnail": "https://images.macrumors.com/t/5VmU_KvzHewge8EESNKnU-duolI=/400x0/article-new/2022/01/iOS-App-Store-General-Feature-Black.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBSMUZCVjJGa2VXeGllVGM0VFJEaEFSaVFBeWdLTWdhcGhaRE9NUVk",
+      "date": "03/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-18T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Apple’s iPhone 17 Event Recap: New iPhones, Apple Watches, and AirPods | Reviews by Wirecutter",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brenda Stolyar"
+        ]
+      },
+      "link": "https://www.nytimes.com/wirecutter/reviews/apple-iphone-17-event-recap-20250909/",
+      "thumbnail": "https://cdn.thewirecutter.com/wp-content/media/2025/09/NEWS-RECAP-IPHONE-17-EVENT-001-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFTVVZPUWt4akxWSlNkMkZ3VFJDSEF4aVBCaWdLTWdZVkNKUVdhUUU",
+      "date": "09/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-09T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "iPhone Fold vs iPhone 18 Pro Max: Is Apple’s Foldable Actually iPhone Duo?",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/iphone-fold-vs-iphone-18-pro-max",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/iPhone_Duo_Is_Here_Everything_Apple_Announced_About_Its_First_Foldable_iPhone2_95887089-eda9-42fb-9d8c-811d5970ffdd.webp?v=1789056728",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVTRFpMYm1OUk1XZFVkRk0zVFJEdUJCanRBeWdLTWdrWkE0UXhJZWhVMXdB",
+      "date": "05/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-12T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Introducing Apple Intelligence for iPhone, iPad, and Mac",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/article/Apple-WWDC24-Apple-Intelligence-hero-240610_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVWbFZGWDBjMWVFVmlTM3BoVFJDb0FSaXNBaWdCTWdrTllJN3l2R1dhQ2dJ",
+      "date": "06/10/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-06-10T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Data Privacy Day at Apple: Improving transparency and empowering users",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2021/01/data-privacy-day-at-apple-improving-transparency-and-empowering-users/",
+      "thumbnail": "https://www.apple.com/newsroom/images/values/privacy/standard/apple_privacy-day_privacy-logo_01282021_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxXRFZMZVZORE1tbDRYMHBJVFJDZkF4ampCU2dLTWdhVm81U0t1UVk",
+      "date": "01/27/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-27T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

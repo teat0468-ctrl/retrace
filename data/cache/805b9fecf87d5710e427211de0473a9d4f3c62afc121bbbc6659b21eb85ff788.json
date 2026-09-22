@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab22d09d02d2aa3eb9313ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Rs8grae7eIXI3QUR5pbxS2r4aN5g7StfwQUAF0ENrmE/6ab22d09d02d2aa3eb9313ae.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Rs8grae7eIXI3QUR5pbxS2r4aN5g7StfwQUAF0ENrmE/6ab22d09d02d2aa3eb9313ae.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Rs8grae7eIXI3QUR5pbxS2r4aN5g7StfwQUAF0ENrmE/6ab22d09d02d2aa3eb9313ae.json_with_pixel_position",
+    "created_at": "2026-09-22 07:23:53 UTC",
+    "processed_at": "2026-09-22 07:23:53 UTC",
+    "google_url": "https://www.google.com/search?q=%22New+study+links+5G+cell+phones+to+brain+cancer%22&oq=%22New+study+links+5G+cell+phones+to+brain+cancer%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Rs8grae7eIXI3QUR5pbxS2r4aN5g7StfwQUAF0ENrmE/6ab22d09d02d2aa3eb9313ae.html",
+    "total_time_taken": 0.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"New study links 5G cell phones to brain cancer\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"New study links 5G cell phones to brain cancer\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "O0mQp3iczVbJkuI4EP2A-Y7mQhW2wTSmIhwdkmzAZjVQC3VxeENQeAHLhQtuc57fmK-ar2nZbIbCVdV96BgdtKQzU0_KfEr__a879xf__fXPLIqW5I5h4jgu4SDArlOyAo8xyMa3mGngktCa_disxUrBIiJbcOYiGpU3RqQPm9HUXay1wUbduFjjC6mJqJsGcV6ox7cXwugM7RbfKhJdlEjJ8UvNh6rQhVWefRFKZZarl_qM4VEF8OeaMkt6DSyA8oFSovGVhjGQAVBPAoTSQc6oJAtMXaJEiJL59T3lHaIh2gEEA2mwlSwApCOUfi4OlIWL4v3OcbofTHb84LBXvKV9Y7-S8xVB7mnwmQvQzXzK9YcuFCl0DaABnzg7GJ0ZY6CdtleSj_tMsjAQWgGUILjPR04N2gqoLoAmfxZsTX7g0WGrzqRJJYyNaeKyjBnSgWPm1sxKJyFJ8hmN62zQnEV6eQvXjYelJazKS8F7Hbc3AqdyQcxYJtVzA8N2bH2msz_SNVfmqmy9UhNuUiJZ5MgkkmXSOG6xM9iLAqSVOiXIHWiEjnFG5_hlukbXUgCiveqZQXrJXXS6bQSOnrFx5qCxN1AweJbBeXyCerJUaALuW4sAEMsZlROkRPieRpfQEhrtQorT6T7NsuAVMMocNBNY6UqmoncCBPbk0aR3iucOIFAX4HTgizcMAwiRosHdDa34FBN_ugqwM9W0CyDJ-0AfCuVw24dD7Vr3dB76pZ3yQkIIUr_BMlFT9ydODOZHr3CYik_G8DoHaXhAB31C-LwGv_Jiage-XKR_ljZy37d9t6Y-EU-1fTSdVkLQn_ZehBrUrtMk8MxfqDjW_4pIh3rkpvJ8ImlfIhLGcn492k1P9SghEsIY5xBJHuXUo_igcqpHl0RCowyRPqlHv0ok-UMiHUh6lUiNa0SS84h0qEdnRBrRehQf0cLr9ehIpN-pR_A361HKK2c3nBen1xecX6Sm6qAzDe1hwx49t99izE7ehK2g98arz4vU1IvuPMN2b_S5fQfLarSxb3QqCO4cu7ASv5XLPScukujV3hSTP05SrDaLluO6xeUs8B1SjIKiGRpzv2gZvuWE1KDguWEgskYtegCtiWfgydzHHolt9QlGagBDfzh77D4tV2TlKc8dPVSbtvkk1eFt9PDUMQyn-vjcMldvj6bDk1tL2zp-d-10206vWdPWwq0ylBSZtOw6X_vu6e1qoz-6b5OJ05b8cc9l8X3D3sotaOrPLja9jnw_HLrDUYqKiOX1ypCa1eUYswUvtESaF3wV9DTwiIEF0ARoNCr3RkDHGGjN7zRQsEAsQ3fIWnRqdY7nyhVrWjE50xEKHo42S5HnC8QPRe4nE7ZCnQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=O0mQp3iczVbJkuI4EP2A-Y7mQhW2wTSmIhwdkmzAZjVQC3VxeENQeAHLhQtuc57fmK-ar2nZbIbCVdV96BgdtKQzU0_KfEr__a879xf__fXPLIqW5I5h4jgu4SDArlOyAo8xyMa3mGngktCa_disxUrBIiJbcOYiGpU3RqQPm9HUXay1wUbduFjjC6mJqJsGcV6ox7cXwugM7RbfKhJdlEjJ8UvNh6rQhVWefRFKZZarl_qM4VEF8OeaMkt6DSyA8oFSovGVhjGQAVBPAoTSQc6oJAtMXaJEiJL59T3lHaIh2gEEA2mwlSwApCOUfi4OlIWL4v3OcbofTHb84LBXvKV9Y7-S8xVB7mnwmQvQzXzK9YcuFCl0DaABnzg7GJ0ZY6CdtleSj_tMsjAQWgGUILjPR04N2gqoLoAmfxZsTX7g0WGrzqRJJYyNaeKyjBnSgWPm1sxKJyFJ8hmN62zQnEV6eQvXjYelJazKS8F7Hbc3AqdyQcxYJtVzA8N2bH2msz_SNVfmqmy9UhNuUiJZ5MgkkmXSOG6xM9iLAqSVOiXIHWiEjnFG5_hlukbXUgCiveqZQXrJXXS6bQSOnrFx5qCxN1AweJbBeXyCerJUaALuW4sAEMsZlROkRPieRpfQEhrtQorT6T7NsuAVMMocNBNY6UqmoncCBPbk0aR3iucOIFAX4HTgizcMAwiRosHdDa34FBN_ugqwM9W0CyDJ-0AfCuVw24dD7Vr3dB76pZ3yQkIIUr_BMlFT9ydODOZHr3CYik_G8DoHaXhAB31C-LwGv_Jiage-XKR_ljZy37d9t6Y-EU-1fTSdVkLQn_ZehBrUrtMk8MxfqDjW_4pIh3rkpvJ8ImlfIhLGcn492k1P9SghEsIY5xBJHuXUo_igcqpHl0RCowyRPqlHv0ok-UMiHUh6lUiNa0SS84h0qEdnRBrRehQf0cLr9ehIpN-pR_A361HKK2c3nBen1xecX6Sm6qAzDe1hwx49t99izE7ehK2g98arz4vU1IvuPMN2b_S5fQfLarSxb3QqCO4cu7ASv5XLPScukujV3hSTP05SrDaLluO6xeUs8B1SjIKiGRpzv2gZvuWE1KDguWEgskYtegCtiWfgydzHHolt9QlGagBDfzh77D4tV2TlKc8dPVSbtvkk1eFt9PDUMQyn-vjcMldvj6bDk1tL2zp-d-10206vWdPWwq0ylBSZtOw6X_vu6e1qoz-6b5OJ05b8cc9l8X3D3sotaOrPLja9jnw_HLrDUYqKiOX1ypCa1eUYswUvtESaF3wV9DTwiIEF0ARoNCr3RkDHGGjN7zRQsEAsQ3fIWnRqdY7nyhVrWjE50xEKHo42S5HnC8QPRe4nE7ZCnQ"
+  }
+}

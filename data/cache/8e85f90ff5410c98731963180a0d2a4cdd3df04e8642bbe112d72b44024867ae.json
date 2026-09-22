@@ -1,0 +1,1471 @@
+{
+  "search_metadata": {
+    "id": "6ab1565a0a915678f3b06ee6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8Ua17r7QArvtS2UW-P8uBCy2s3VGt5-LA2Jfw0tn5JU/6ab1565a0a915678f3b06ee6.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8Ua17r7QArvtS2UW-P8uBCy2s3VGt5-LA2Jfw0tn5JU/6ab1565a0a915678f3b06ee6.md",
+    "created_at": "2026-09-21 16:07:54 UTC",
+    "processed_at": "2026-09-21 16:07:54 UTC",
+    "google_news_url": "https://news.google.com/search?q=Scientists+discover+a+new+Earth-like+planet",
+    "raw_html_file": "https://serpapi.com/searches/8Ua17r7QArvtS2UW-P8uBCy2s3VGt5-LA2Jfw0tn5JU/6ab1565a0a915678f3b06ee6.html",
+    "total_time_taken": 13.87
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Scientists discover a new Earth-like planet"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Scientists Discover a Planet With the Most Earth-like Conditions Yet",
+      "source": {
+        "name": "Time Magazine",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://time.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeffrey Kluger"
+        ]
+      },
+      "link": "https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/",
+      "thumbnail": "https://static.time.com/v3/assets/bltea6093859af6183b/bltc5cbf7b59a20a95a/6a58f3956a33e541fc2668ab/cfa-055-helium_atmosphere_planet3H.jpg?branch=production&width=3840&quality=75&auto=webp&crop=3:2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1SMmhEWkV4UU5VSlBZbGxCVFJERUF4aW1CU2dLTWdhSlVwTGxvZ2s",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Harvard scientists detect atmosphere on distant ‘Earth-like’ planet",
+      "source": {
+        "name": "current.fas.harvard.edu",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://current.fas.harvard.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kermit Pattison"
+        ]
+      },
+      "link": "https://current.fas.harvard.edu/stories/harvard-scientists-detect-atmosphere-distant-earth-planet",
+      "thumbnail": "https://current.fas.harvard.edu/sites/default/files/styles/fas_scale_840/public/2026-07/cfa-055-helium_atomsphere_planet3H_lrg.jpg?itok=xb_8NLP-",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZUMDE2WDJsdFV6VkljR1k1VFJERUF4aW1CU2dLTWdhSlFwTGxvZ2s",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "UC Irvine astronomers discover a new Earth-like exoplanet",
+      "source": {
+        "name": "UC Irvine News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.uci.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.uci.edu/2026/06/30/uc-irvine-astronomers-discover-a-new-earth-like-exoplanet/",
+      "thumbnail": "https://news.uci.edu/files/2026/06/M-dwarf-deep-red-star-copy-720x480.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpTSGQ1ZG5GWFRqTnBVMVZoVFJERUF4aW1CU2dLTWdhcEZLS3VHUW8",
+      "date": "06/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-30T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Scientists discover planet with Earth-like atmosphere",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chase DiBenedetto"
+        ]
+      },
+      "link": "https://mashable.com/science/exoplanet-earth-like-atmosphere-potential-for-life",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/02DU0jeGj5bYiXnN5ojjUG1/hero-image.fill.size_1248x702.v1784304788.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRSWHBFWDFSMGVUVmFXR3RXVFJDZkF4ampCU2dLTWdrZFE0TE9vV2x6RkFF",
+      "date": "07/17/2026, 04:53 PM, +0000 UTC",
+      "iso_date": "2026-07-17T16:53:40Z"
+    },
+    {
+      "position": 5,
+      "title": "First atmosphere found around Earth-like planet LHS 1140b",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallab Ghosh"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2cd8/live/f3f60290-81d1-11f1-926f-c90d1bcfbc84.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9VMEV3Vld4cVREQkVVVFJxVFJEQUFoamdBeWdLTWdhSlFwTGxvZ2s",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone",
+      "source": {
+        "name": "Space",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chelsea Gohd"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/nEzX2M7miYS5dGjqB5kcU7.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5Xa1ZOWDB0SlMzSjJaVUZyVFJDZkF4ampCU2dLTWdhUlVwS21vZ2s",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
+      "source": {
+        "name": "ScienceDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sciencedaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
+      "thumbnail": "https://www.sciencedaily.com/images/1920/exoplanet-lhs-1140-b.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNkVGswUkcweE4zVllibkkwVFJDZkF4ampCU2dLTWdZTlFwREZuZ2s",
+      "date": "07/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-21T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Discovery Alert: An Ice-Cold Earth?",
+      "source": {
+        "name": "NASA Science (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://science.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pat Brennan"
+        ]
+      },
+      "link": "https://science.nasa.gov/universe/exoplanets/discovery-alert-an-ice-cold-earth/",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/exoplanet-artists-concepts/HD%20137010%20b_FINAL.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdORUZ4T1c0NGRFcHZlV2d4VFJDZkF4ampCU2dLTWdhbFZJN05xUVk",
+      "date": "01/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-27T08:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Researchers discover Earth-like planet with atmosphere 48 light-years away",
+      "source": {
+        "name": "Scripps News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scrippsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Justin Boggs"
+        ]
+      },
+      "link": "https://www.scrippsnews.com/science-and-tech/space/researchers-discover-earth-like-planet-with-atmosphere-48-light-years-away",
+      "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/b4a678e/2147483647/strip/true/crop/1024x576+0+97/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F74%2F3d%2F0d4fa5e646669ff5e0eff282c4e5%2Fap24345685383223.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdRbFo2YmtGR1MySTVlRWxJVFJDZkF4ampCU2dLTWdZWjVZQ3RTUU0",
+      "date": "07/22/2026, 05:49 PM, +0000 UTC",
+      "iso_date": "2026-07-22T17:49:57Z"
+    },
+    {
+      "position": 10,
+      "title": "'It's absolutely exciting!': Astronomers discover an atmosphere around an Earth-like planet in the habitable zone for first time ever",
+      "source": {
+        "name": "Live Science",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Maule"
+        ]
+      },
+      "link": "https://www.livescience.com/space/exoplanets/its-absolutely-exciting-astronomers-discover-an-atmosphere-around-an-earth-like-planet-in-the-habitable-zone-for-first-time-ever",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/JhHmeAraJQ6kGUnqu97DsZ.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNkelJaVUhsT09WbE1lVm80VFJDZkF4ampCU2dLTWdhSk1wRGxIZ28",
+      "date": "07/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-19T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "How Will the Nancy Grace Roman Space Telescope Discover New Exoplanets?",
+      "source": {
+        "name": "Britannica",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.britannica.com/science/How-Will-the-Nancy-Grace-Roman-Space-Telescope-Discover-New-Exoplanets",
+      "thumbnail": "https://cdn.britannica.com/28/289328-050-3D5A5E89/today-in-history-nasa-earthlike-planet.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDRNV2hsY21kbWJtRnZSRUpyVFJERUF4aW1CU2dLTWdzQlVKU3NIU25ZcmJsSGV3",
+      "date": "08/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-30T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Scientists Say They’ve Identified an Earth-Like Planet Right Next Door",
+      "source": {
+        "name": "futurism.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://futurism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Frank Landymore"
+        ]
+      },
+      "link": "https://futurism.com/space/scientists-discover-earth-like-planet-right-next-door",
+      "thumbnail": "https://futurism.com/wp-content/uploads/2026/07/scientists-discover-earth-like-planet-right-next-door.jpg?quality=85&w=2048",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNWMUZRUW05UWFrVm1VbmhrVFJERUF4aW1CU2dLTWdhWlpJN3JMUWM",
+      "date": "07/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-11T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Astronomers discover what may be a new type of planet",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julia Jacobo"
+        ]
+      },
+      "link": "https://abcnews.com/International/astronomers-discover-new-type-planet-sulfurous-atmosphere/story?id=131117894",
+      "thumbnail": "https://s.abcnews.com/images/US/planet-rt-er-260316_1773693252431_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJXazQxV2tGMWNXRTFiMXA0VFJDZkF4ampCU2dLTWdrTkpJcHZHV3F4OHdB",
+      "date": "03/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-16T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Scientists have found a completely new type of planet. And it absolutely stinks",
+      "source": {
+        "name": "BBC Sky at Night Magazine",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.skyatnightmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.skyatnightmagazine.com/news/l-98-59-d-exoplanet-discovery",
+      "thumbnail": "https://c02.purpledshub.com/uploads/sites/48/2026/05/L-98-59-d.jpg?w=1200&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSeTF0ZEhFNVpqVmlVRkpPVFJERUF4aW1CU2dLTWdhWlpJN3JMUWM",
+      "date": "05/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-10T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "A potentially habitable new planet has been discovered 146 light-years away – but it may be -70C",
+      "source": {
+        "name": "theguardian.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Donna Lu"
+        ]
+      },
+      "link": "https://www.theguardian.com/science/2026/jan/29/a-potentially-habitable-new-planet-has-been-discovered-146-light-years-awfrom-earth-but-it-may-be--70c",
+      "thumbnail": "https://i.guim.co.uk/img/media/0b4e3d7dc456637696f588cc9c01e094ac84df5f/101_0_1631_1080/master/1631.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZSSEJNUW5Gd2JWOWtNamxvVFJDMEFoalJBeWdLTWdZbFZJeU5xUVk",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Astronomers find an atmosphere on an Earthlike planet a CU Boulder professor helped discover",
+      "source": {
+        "name": "Daily Camera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailycamera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Doak"
+        ]
+      },
+      "link": "https://www.dailycamera.com/2026/08/05/cu-boulder-earthlike-planet-atmosphere/",
+      "thumbnail": "https://www.dailycamera.com/wp-content/uploads/2026/08/DCC-L-PLANET-0804-01.jpg?w=1800&resize=1800,1800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHlSMHQyV0VSVVVIcDRTMDQwVFJDcUJCaXFCQ2dLTWdB",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "The best places to look for alien life: Scientists identify 45 Earth-like worlds to explore for a 'Project Hail Mary'",
+      "source": {
+        "name": "The Royal Astronomical Society",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ras.ac.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gillis Lowry"
+        ]
+      },
+      "link": "https://www.ras.ac.uk/news-and-press/research-highlights/best-places-look-alien-life-scientists-identify-45-earth-worlds",
+      "thumbnail": "https://www.ras.ac.uk/sites/default/files/styles/media_demo_full_cropped/public/2026-03/Gillis-Lowry-Rocky-HZ-2026.jpeg?itok=90Ac7uue",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRSbFJaUWpWUFJXWXhaRGxuVFJERUF4aW1CU2dLTWdrQlVveFBxZVhBU1FJ",
+      "date": "03/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-19T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Scientists discover planet with the most Earth-like conditions yet",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.co.uk/newsround/articles/c0qvzee1nzjo",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/51e5/live/a5ff8160-81c2-11f1-97b7-87871fc222bc.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXa3h0T1U0dFRVUkJjSFEwVFJDZkF4ampCU2dLTWdhSklwTGtsZ28",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Astronomers discover a giant, rocky 'mega-Earth' 23 times more massive than our planet",
+      "source": {
+        "name": "Space",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Mathewson"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/qnXj4xKhNsjzUZs5FLDy2M-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFkMGd5T1dvMVFUUjNMV3gxVFJDZkF4ampCU2dLTWdrVmM1Q293cVZVQ3dJ",
+      "date": "08/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-19T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "This nearby planet is like Earth, it could be habitable... And we very nearly missed it",
+      "source": {
+        "name": "BBC Sky at Night Magazine",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.skyatnightmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anita Chandran"
+        ]
+      },
+      "link": "https://www.skyatnightmagazine.com/news/hd-137010-b-exoplanet-discovery",
+      "thumbnail": "https://c02.purpledshub.com/uploads/sites/48/2026/05/HD-137010-b.jpg?w=1200&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFWRlpuWjBwaFRFVmFkbUp3VFJERUF4aW1CU2dLTWdZaFZJeU5xUVk",
+      "date": "05/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "'Totally counterintuitive': Scientists accidentally discover magnetic fields around 7 distant planets, opening new window in the search for life",
+      "source": {
+        "name": "Live Science",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ivan Farkas"
+        ]
+      },
+      "link": "https://www.livescience.com/space/exoplanets/totally-counterintuitive-scientists-accidentally-discover-magnetic-fields-around-7-distant-planets-opening-new-window-in-the-search-for-life",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/wVjqRcn5GSntyc7ucPSBsG.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNaRzlaY2t0YVdWbE1XV1Z0VFJDZkF4amlCU2dLTWdZWmRZNE12Z1U",
+      "date": "06/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-03T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Newly discovered ‘super-Earth’ offers prime target in search for alien life",
+      "source": {
+        "name": "The Pennsylvania State University",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.psu.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adrienne Berard"
+        ]
+      },
+      "link": "https://www.psu.edu/news/research/story/newly-discovered-super-earth-offers-prime-target-search-alien-life",
+      "thumbnail": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_1500w/public/2025/10/planet-sized-uci.png?h=19ad3fdd&itok=I7HCB8Jh",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRkbWxOYjJ3dFptWlRkRlkzVFJEZ0F4aUFCU2dLTWdrQlVKTENzaVltaUFJ",
+      "date": "10/23/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-23T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Astronomers discover a new type of planet that probably smells like rotten eggs",
+      "source": {
+        "name": "Space",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Robert Lea"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Zcia7NESBP4mm2EKZPMTAB.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1ZVTVMZFVWVk5XUkZPVmhpVFJDZkF4ampCU2dLTWdrUk5JcHZHYXF4OHdB",
+      "date": "03/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-16T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Scientists discover new chilly Earth-like planet",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.co.uk/newsround/articles/cjw1gjgzv01o",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9809/live/e72624f0-fdb5-11f0-8e3f-176b350fc659.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNSbE5YYlROWFgycHlXRFI0VFJDZkF4ampCU2dLTWdhbFZJN05xUVk",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Could Life Exist Here? Scientists Discover Potentially Habitable Earth-Like Exoplanet",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ritu Singh"
+        ]
+      },
+      "link": "https://www.ndtv.com/science/could-life-exist-here-scientists-discover-potentially-habitable-earth-like-exoplanet-11729408",
+      "thumbnail": "https://c.ndtvimg.com/2026-07/0e3s3qrc_-gj-3378b_625x300_05_July_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZXRWRWWTJkRVVsUnZaVXRXVFJDZkF4ampCU2dLTWdZdE1vcFBMUVk",
+      "date": "07/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-05T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Scientists discover an Earth-like planet right next door",
+      "source": {
+        "name": "geekspin",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://geekspin.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://geekspin.co/scientists-discover-earth-like-planet-right-next-door/",
+      "thumbnail": "https://geekspin.co/wp-content/uploads/2026/07/M-dwarf-deep-red-star-copy-720x480-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFVbk5IUWtRMGFVNURSekJJVFJERUF4aW1CU2dLTWdhbEZLS3VHUW8",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Scientists announce huge discovery in search for alien life",
+      "source": {
+        "name": "The Independent",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andrew Griffin"
+        ]
+      },
+      "link": "https://www.independent.co.uk/space/alien-life-planet-exoplanet-world-b3016382.html",
+      "thumbnail": "https://static.independent.co.uk/2026/07/17/8/21/cfa-055-helium_atmosphere_planet3H.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxVekF3UVV3NFdWcElTRWhTVFJERUF4aW1CU2dLTWdhSlFwTGxvZ2s",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Scientists discover 3 Earth-size exoplanets that may have double sunsets — like Tatooine in Star Wars",
+      "source": {
+        "name": "Space",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Robert Lea"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/exoplanets/scientists-discover-3-earth-size-exoplanets-that-may-have-double-sunsets-like-tatooine-in-star-wars",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/uaYFSzBtdyTrcQrHKxcPYF.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJTREJ2TW0xSVlWcGZWRWhwVFJDZkF4ampCU2dLTWdhQmtKQUR3d1k",
+      "date": "10/27/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-27T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Earth-Like Worlds Could Have Formed Billions of Years Earlier Than Scientists Thought",
+      "source": {
+        "name": "SciTechDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scitechdaily.com/earth-like-worlds-could-have-formed-billions-of-years-earlier-than-scientists-thought/",
+      "thumbnail": "https://scitechdaily.com/images/Earth-Like-Alien-Exoplanet-Moon.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJYekJSWW5Kd1RWaERSREJmVFJERUF4aW1CU2dLTWdtQkVZWU5HYWJJdGdB",
+      "date": "08/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-21T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Two new planets discovered outside Solar System. One of them could be like Earth",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/science/story/two-new-planets-discovered-outside-solar-system-one-of-them-could-be-like-earth-2984486-2026-09-01",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/new-super-earth-discovery-015125801-16x9_0.jpg?VersionId=jIaeamBQmrwX9maRCIyfuH04aRW8Udw8&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhPRkZ3UmprNE5VWkJRa2syVFJDZkF4ampCU2dLTWdrVlFZeG53aVNEcHdJ",
+      "date": "09/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-01T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "'It's a planet within a planet': Experts have found a strange secret realm hidden at Earth's core",
+      "source": {
+        "name": "BBC Science Focus Magazine",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sciencefocus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Colin Stuart"
+        ]
+      },
+      "link": "https://www.sciencefocus.com/planet-earth/secret-realm-hidden-earths-core",
+      "thumbnail": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/5b01190e-72de-481f-a7e5-fe5e02dd1a35/thumbnails/a76f33fe-2859-4f25-841a-bf80b1571e4f.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFTSFYxVTFObVpFTktiVGhrVFJERUF4aW1CU2dLTWdZbFE1QlBLUWM",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Astronomers Discover Potentially Habitable “Super-Earth” Just 18 Light-Years Away",
+      "source": {
+        "name": "SciTechDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scitechdaily.com/astronomers-discover-potentially-habitable-super-earth-just-18-light-years-away/",
+      "thumbnail": "https://scitechdaily.com/images/Exoplanet-GJ-251-C.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlTMVJqYkhSbVVtSlVUVXd3VFJESkF4aWVCU2dLTWdrQlFKTGhNaVltaGdJ",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Super Earth near our Solar System: Scientists find potentially habitable planet that receives almost the s",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/super-earth-near-our-solar-system-scientists-find-potentially-habitable-planet-that-receives-almost-the-same-sunlight-as-earth-lies-in-perfect-goldilocks-zone-for-life/articleshow/132215429.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132215485,width-1200,height-900,resizemode-4,imgsize-1604550/scientists-discover-earth-like-planet-just-25-light-years-away-that-could-support-life.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBiSFUwZEV0RFVVTlpYM2s0VFJEZ0F4aUFCU2dLTWdZUlVweUhwZ2c",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Scientists Discover Atmosphere Around Earth-Like Planet That Could Support Water",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Astitva Raj"
+        ]
+      },
+      "link": "https://www.ndtv.com/science/scientists-discover-atmosphere-around-earth-like-planet-that-could-support-liquid-water-11794359",
+      "thumbnail": "https://c.ndtvimg.com/2026-07/mge4vu84_nasa_625x300_20_July_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBhVEZZTUVwU1RHbDBNWGxoVFJDZkF4ampCU2dLTWdZQk5KS1BKUWc",
+      "date": "07/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-20T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Scientists Discover 'Potentially Habitable' Earth-Like Planet Candidate",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Srishti Sisodia"
+        ]
+      },
+      "link": "https://www.ndtv.com/science/scientists-discover-potentially-habitable-earth-like-planet-candidate-10901287",
+      "thumbnail": "https://c.ndtvimg.com/2026-01/eh67mo84_hd-137010-b-planet_625x300_28_January_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFiV1ZYVTJFdGVUaHhTREJRVFJDeUF4akNCU2dLTWdhbFpJeXRyUVk",
+      "date": "01/28/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-28T08:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Scientists discover a new state of matter at Earth’s center",
+      "source": {
+        "name": "ScienceDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sciencedaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sciencedaily.com/releases/2025/12/251209043053.htm",
+      "thumbnail": "https://www.sciencedaily.com/images/1920/earth-structure-layers.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpkWEpsZVdsaGNXWlFlak5rVFJDZkF4ampCU2dLTWdZaFJJeU5KUWM",
+      "date": "12/10/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-10T08:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Nearby super-Earth may be our best chance yet to find alien life",
+      "source": {
+        "name": "ScienceDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sciencedaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sciencedaily.com/releases/2025/11/251113071618.htm",
+      "thumbnail": "https://www.sciencedaily.com/images/1920/exoplanet-gj-251-c.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZPVzFMYlZCQk0ySjRhMGhpVFJDZkF4ampCU2dLTWdrQk1KRENxdVlsaFFJ",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-13T08:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Scientists discover new rock type on Mars",
+      "source": {
+        "name": "University of Portsmouth",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.port.ac.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.port.ac.uk/news-events-and-blogs/news/scientists-discover-new-rock-type-on-mars",
+      "thumbnail": "https://www.port.ac.uk/sites/default/files/styles/event_blog_news_mobile/public/media/images/pexels-zelch-12498801.jpg?itok=fyf7kyK8",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXphVmRGVkUwMWRWUmlRekIwVFJDT0FoamdBeWdLTWdZbFJJaXRxUVU",
+      "date": "06/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-17T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Scientists discover 1st evidence of 4.5-billion-year-old 'proto-Earth' buried deep within our planet",
+      "source": {
+        "name": "Space",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sharmila Kuthunur"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/earth/scientists-discover-1st-evidence-of-4-5-billion-year-old-proto-earth-buried-deep-within-our-planet",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/rappuyHPnrZUGV9P4gwwL9-1920-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlialZ2UVU1SmN6WkpUVGt3VFJDZkF4ampCU2dLTWdZTk5KQkhvZ2M",
+      "date": "10/20/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-20T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "The epic hunt for a planet just like Earth",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/future/article/20251003-the-epic-hunt-for-a-planet-just-like-earth",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/480xn/p0m6nj30.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRaM1I2TFUxVmRUQjNZM1V5VFJDT0FoamdBeWdLTWdZaFJJeXNKUVk",
+      "date": "10/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-05T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Scientists Discover New Type Of Liquid Planet That Exists In A \"Molten, Mushy State\", Smells Like Rotten Eggs",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ritu Singh"
+        ]
+      },
+      "link": "https://www.ndtv.com/science/scientists-discover-new-type-of-liquid-planet-that-exists-in-a-molten-mushy-state-smells-like-rotten-eggs-11225521",
+      "thumbnail": "https://c.ndtvimg.com/2026-03/tjmvh9m_l-9859-d_625x300_17_March_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9UVkE1VUZwM1ZuTndRbGRsVFJDeUF4akNCU2dLTWdhdGNZWVN3UU0",
+      "date": "03/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-17T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Astronomers Find Planet Close To Solar System With Earth-Like Size And Orbit",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Astitva Raj"
+        ]
+      },
+      "link": "https://www.ndtv.com/science/astronomers-find-planet-close-to-solar-system-with-earth-like-size-and-orbit-10918130",
+      "thumbnail": "https://c.ndtvimg.com/2026-01/224n1qk8_science_625x300_31_January_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtVVGROWkRSTU9VRmpiemRVVFJDeUF4akNCU2dLTWdNeGhSQQ",
+      "date": "01/31/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-31T08:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Did NASA Just Find ET's Home? Scientists Detect an Earth-like Planet Orbiting a Sun-like Star",
+      "source": {
+        "name": "The Debrief",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thedebrief.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Christopher Plain"
+        ]
+      },
+      "link": "https://thedebrief.org/did-nasa-just-find-ets-home-scientists-detect-an-earth-like-planet-orbiting-a-sun-like-star/",
+      "thumbnail": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/02/RESIZE-crop-HD-137010-b_FINAL-360x240.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROVkZPUzJZMWVXcGlibXRrVFJEd0FSam9BaWdLTWdhZFZJN01xUVk",
+      "date": "02/03/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-03T08:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Scientists identify 45 planets that could support alien life",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.co.uk/newsround/articles/c5y9xy5q158o",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8d07/live/cff23fc0-8cbe-11f0-b391-6936825093bd.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNMVI2UVZaRmNrbzNiMTgxVFJDSEF4aVBCaWdLTWdhaEVwaHZsUXM",
+      "date": "03/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-24T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Astronomers discover bizarre 'runaway' planet that's acting like a star, eating 6 billion tons per second",
+      "source": {
+        "name": "Live Science",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Elizabeth Howell"
+        ]
+      },
+      "link": "https://www.livescience.com/space/astronomy/astronomers-discover-bizarre-runaway-planet-thats-acting-like-a-star-eating-6-billion-tons-per-second",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Kg6gQDquFF5daVu6yDWDoK-1920-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBZMnAyYkVrNFQyUjBNSFZxVFJDZkF4ampCU2dLTWdrRlk1Qk5xYWVhendF",
+      "date": "11/06/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-06T08:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Possibly habitable ‘Earth-like’ planet found",
+      "source": {
+        "name": "News.com.au",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news.com.au/technology/science/space/australian-astronomers-discover-potentially-habitable-earthlike-planet-150-light-years-away/news-story/103baf3bc8afb36eea14a9b5eb2382c9",
+      "thumbnail": "https://content.api.news/v3/images/bin/c6716731de20c2d99f5835619fd883f4",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJjVTFRWm1vd1ZGUjNjeTE0VFJDZkF4ampCU2dLTWdrdEVJeHZuR2NPVVFF",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Scientists discover earth-like exoplanet that could have water on its surface",
+      "source": {
+        "name": "irishexaminer.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.irishexaminer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nicola Davis"
+        ]
+      },
+      "link": "https://www.irishexaminer.com/world/arid-41881015.html",
+      "thumbnail": "https://www.irishexaminer.com/cms_media/module_img/10319/5159806_4_org_011155d5-77cf-4f8b-9373-e608d5b7aeb0.jpg.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDROMVZHYld0aE1URm5OVzVzVFJDaUF4amVCU2dLTWdB",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "A new Earth-like world? Scientists discover potentially habitable planet",
+      "source": {
+        "name": "The News International",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thenews.com.pk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Qaddus Tahir"
+        ]
+      },
+      "link": "https://www.thenews.com.pk/latest/1390214-a-new-earth-like-world-scientists-discover-potentially-habitable-planet",
+      "thumbnail": "https://www.thenews.com.pk/assets/uploads/2026-01-29/1390214_110720_updates.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1ObkZGYURaalRsRnlNVkJ1VFJDakF4amRCU2dLTWdrSk1wQXVNU2FwN0FF",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "New telescope cuts through space noise in hunt for distant Earth-like worlds",
+      "source": {
+        "name": "research-and-innovation.ec.europa.eu",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://projects.research-and-innovation.ec.europa.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jonathan O'Callaghan"
+        ]
+      },
+      "link": "https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/new-telescope-cuts-through-space-noise-hunt-distant-earth-worlds",
+      "thumbnail": "https://projects.research-and-innovation.ec.europa.eu/sites/default/files/styles/focal_ratio_3_2_medium/public/hm/field/image/New%20telescopes%20will%20help%20researchers%20in%20the%20quest%20for%20distant%20Earth-like%20planets.jpg?h=a7b9b091&itok=bD_PW3sJ",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iVk5MYUVSVFNYTmFhVTA0VFJDUUF4allCQ2dLTWdhVmNZWXV1UVE",
+      "date": "10/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-02T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Scientists discover first direct evidence that slivers of 'proto-Earth' may survive today",
+      "source": {
+        "name": "Live Science",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sascha Pare"
+        ]
+      },
+      "link": "https://www.livescience.com/planet-earth/geology/scientists-discover-first-direct-evidence-that-slivers-of-proto-earth-may-survive-today",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/aad2rVJFNPy4Q78jm2emGF.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdURXB2VVdsMlJtbDVaSFJGVFJDZkF4ampCU2dLTWdrQkFJN3RCR2VpQVFN",
+      "date": "10/21/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-21T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Astronomers discover a nearby Super-Earth that may harbor life",
+      "source": {
+        "name": "geekspin",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://geekspin.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://geekspin.co/astronomers-spot-a-super-earth-that-may-harbor-life/",
+      "thumbnail": "https://geekspin.co/wp-content/uploads/2025/11/planet-sized-uci.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHljR2RoYUV4ek1YbHZMWGR3VFJESUF4aWdCU2dLTWdrQlFKRGhNaVltaGdJ",
+      "date": "11/26/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-26T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "NASA’s Tally of Planets Outside Our Solar System Reaches 6,000",
+      "source": {
+        "name": "NASA Jet Propulsion Laboratory (JPL) (.gov)",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jpl.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.jpl.nasa.gov/news/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/",
+      "thumbnail": "https://i.ytimg.com/vi/vAna9jBZRd8/mqdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRVbWt6UVVoek5WbEpibXR4VFJDMEFSakFBaWdLTWdZUmM1QXB0UVk",
+      "date": "09/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-17T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Seismic Mystery Solved: Scientists Find a New State of Matter at Earth’s Center",
+      "source": {
+        "name": "SciTechDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scitechdaily.com/seismic-mystery-solved-scientists-find-a-new-state-of-matter-at-earths-center/",
+      "thumbnail": "https://scitechdaily.com/images/Inside-Earth-Layers-Glowing-Core.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhVFpFYmpGeUxXbzFSVUl6VFJERUF4aW1CU2dLTWdhUllvNUpMUVk",
+      "date": "12/01/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-01T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Scientists find promising hints of life on distant planet K2-18b",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallab Ghosh"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/c39jj9vkr34o",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/0b0e/live/6fd33320-16b1-11f0-b1b3-7358f8d35a35.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURSVTlDV1MxV2RHaEtjbkF4VFJDT0FoamdBeWdLTWdNMUlRNA",
+      "date": "04/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-17T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Scientists discover super-Earth exoplanets are more common in the universe than we thought",
+      "source": {
+        "name": "Space",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Robert Lea"
+        ]
+      },
+      "link": "https://www.space.com/the-universe/exoplanets/scientists-discover-super-earth-exoplanets-are-more-common-in-the-universe-than-we-thought",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/3Levqc3djPCwueu7Wn6uNT-1600-80.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjbmt3WjJsQk5UbHNkbkJZVFJDZkF4ampCU2dLTWdZSlVJNk9KQWM",
+      "date": "04/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-24T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "The discovery of a new Earth-like planet could shed further light on what makes a planet habitable",
+      "source": {
+        "name": "The Conversation",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vigneshwaran Krishnamurthy",
+          "Hiroyuki Tako Ishikawa"
+        ]
+      },
+      "link": "https://theconversation.com/the-discovery-of-a-new-earth-like-planet-could-shed-further-light-on-what-makes-a-planet-habitable-234127",
+      "thumbnail": "https://images.theconversation.com/files/606711/original/file-20240712-17-aa803w.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C3242%2C2160&q=50&auto=format&w=768&h=512&fit=crop&dpr=2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkVVYwVXpSMFJrdG5RMGczVFJERUF4aW1CU2dLTWdZTnlZeW14Z1E",
+      "date": "07/29/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-29T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Scientists discover a 'second Earth' twice the size of our planet near a red dwarf star, 154 light-years",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/science/scientists-discover-a-second-earth-twice-the-size-of-our-planet-near-a-red-dwarf-star-154-light-years-away/articleshow/122291798.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-122291924,width-1280,height-720,resizemode-4/122291924.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUROR0ptZG1kSGRtZFpNVlpIVFJDZkF4ampCU2dLTWdNVnNRWQ",
+      "date": "07/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-09T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Astronomers Discover Potentially Habitable Earth-Like Planet Just 35 Light-Years Away",
+      "source": {
+        "name": "SciTechDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scitechdaily.com/astronomers-discover-potentially-habitable-earth-like-planet-just-35-light-years-away/",
+      "thumbnail": "https://scitechdaily.com/images/Illustration-of-the-Planetary-System-of-L-98%E2%80%9359.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1iamh5UjJwWlprUTJRVGt5VFJDZkF4ampCU2dLTWdhaFE0RHVvUUk",
+      "date": "07/26/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-26T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "‘Alien Earth’ close to our planet could host life, scientists discover",
+      "source": {
+        "name": "BBC Science Focus Magazine",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sciencefocus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Noa Leach"
+        ]
+      },
+      "link": "https://www.sciencefocus.com/news/new-habitable-planet",
+      "thumbnail": "https://c02.purpledshub.com/uploads/sites/41/2024/05/Gliese-12-b-habitable-planet-NASAJPL-CaltechR.-Hurt-Caltech-IPAC-e1716467694746.jpg?w=1200&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJlbGhKVWs5ZmMxSjJWSHBoVFJERUF4aW1CU2dLTWdZQlFJNUN4d1E",
+      "date": "05/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-05-23T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Scientists discover a new Super-Earth: TOI-512 b",
+      "source": {
+        "name": "Tech Explorist",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.techexplorist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amit Malewar"
+        ]
+      },
+      "link": "https://www.techexplorist.com/toi-512-b-new-super-earth-discovered/98189/",
+      "thumbnail": "https://www.techexplorist.com/wp-content/uploads/2025/03/super-earth-TOI-512-b-696x392.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURkMWxHWjJKa1VGcEJibU4zVFJDSUF4aTRCU2dLTWdNZGxCWQ",
+      "date": "03/26/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-26T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet (Published 2025)",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Carl Zimmer"
+        ]
+      },
+      "link": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
+      "thumbnail": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxWREYxTkU1R01HeHliRkpGVFJDUUF4allCQ2dLTWdNVk13bw",
+      "date": "04/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-17T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Scientists find Earth-like exoplanets to be common in the universe",
+      "source": {
+        "name": "thebrighterside.news",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thebrighterside.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joshua Shavit"
+        ]
+      },
+      "link": "https://www.thebrighterside.news/post/scientists-find-earth-like-exoplanets-to-be-common-in-the-universe/",
+      "thumbnail": "https://www.thebrighterside.news/uploads/2025/04/exoplanet-5.webp?format=auto&optimize=high&width=1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpOMEY1WlZGNGVscEpiRFJOVFJDd0F4akhCU2dLTWdZdFVvUlFwUWM",
+      "date": "04/27/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-27T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Scientists discover a new Earth-like planet in the universe",
+      "source": {
+        "name": "Notebookcheck",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexis Stegmann"
+        ]
+      },
+      "link": "https://www.notebookcheck.net/Scientists-discover-a-new-Earth-like-planet-in-the-universe.1053224.0.html",
+      "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Scientists-discover-a-new-Earth-like-planet-in-the-universe.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdjWFZOYVZkV1QwSnVZVFJIVFJEZ0F4aUFCU2dLTWdhZFZJN0xxUVk",
+      "date": "07/07/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-07T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Scientists Discover New Geological Link Between Earth and Venus",
+      "source": {
+        "name": "Universe Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.universetoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Evan Gough"
+        ]
+      },
+      "link": "https://www.universetoday.com/articles/scientists-discover-new-geological-link-between-earth-and-venus",
+      "thumbnail": "https://www.universetoday.com/article_images/Ishtar-Terra-zoom.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZSbE5rTFU5SFF5MWxiVlY0VFJDVEF4ajZCU2dLTWdZQkVJYXFwUVU",
+      "date": "08/07/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-08-07T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "A New 'Earth' Next Door? Scientists Detect Possible Habitable Planet Around Closest Sun-Like Star",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikhil Pandey"
+        ]
+      },
+      "link": "https://www.ndtv.com/science/a-new-earth-next-door-scientists-detect-possible-habitable-planet-around-closest-sun-like-star-9094189",
+      "thumbnail": "https://c.ndtvimg.com/2025-08/kscta2o8_alpha-centauri-b_625x300_15_August_25.jpeg?im=FeatureCrop,algorithm=dnn,width=400,height=225&q=70",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthV05QTFdabWMyVlVlVzVFVFJEaEFSaVFBeWdLTWdZNWtvd3l1UVU",
+      "date": "08/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-15T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Researchers discover Earth-sized planet Gliese 12 b",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Caroline Gall"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/c511xnyw3pyo",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/97df/live/af273a20-1901-11ef-876b-c77a1c45f857.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdXSGMwYkUxMlZYTm9aVkpMVFJDTkFoamdBeWdLTWdtRmNZNFR0YWU1REFJ",
+      "date": "05/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-05-23T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Scientists discover four Earth-like planets orbiting Barnard's Star",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/science/scientists-discover-four-earth-like-planets-orbiting-barnards-star/articleshow/119930323.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-119930468,width-1280,height-720,resizemode-4/119930468.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXNRbVUwZWpWSFNFWnpNbkZyVFJDZkF4ampCU2dLTWdB",
+      "date": "04/03/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-03T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Experts at MSU help NASA find new earth-like planet",
+      "source": {
+        "name": "WILX",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wilx.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brendan Vrabel"
+        ]
+      },
+      "link": "https://www.wilx.com/2023/01/10/experts-msu-help-nasa-find-new-earth-like-planet/",
+      "thumbnail": "https://gray-wilx-prod.gtv-cdn.com/resizer/v2/JNDZLUPNXFG6NIE4KXP3ABNJPU.jpg?auth=c0f06e340e8628fba07da1ecff5bc4e4d89786b62d7e8fd12793f88ef629dd83&width=1200&height=600&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBOVU5pV1U5RVdIRTJSbUZvVFJDSEF4aVBCaWdLTWdhSm9ZYnJQUVk",
+      "date": "01/10/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-01-10T08:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Chinese, German scientists discover super-Earth planet in Sun-like star's habitable zone",
+      "source": {
+        "name": "China Daily Global Edition",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://global.chinadaily.com.cn&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://global.chinadaily.com.cn/a/202506/04/WS683fa373a310a04af22c30da.html",
+      "thumbnail": "https://img2.chinadaily.com.cn/images/202506/04/683fb35fa310a04a9679a5b0.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNkRk15TXpFMk0xRTRNVVZqVFJELUJCamhBeWdLTWdhdFFvWlFJUWs",
+      "date": "06/04/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-04T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Scientists detect signs of a hidden planet in our solar system",
+      "source": {
+        "name": "thebrighterside.news",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thebrighterside.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joshua Shavit"
+        ]
+      },
+      "link": "https://www.thebrighterside.news/post/scientists-detect-signs-of-a-hidden-planet-in-our-solar-system/",
+      "thumbnail": "https://www.thebrighterside.news/uploads/2025/06/Planet-9-scaled.jpg?format=auto&optimize=high&width=1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhRalZEVTNKUFRYVm9PVk40VFJDZkF4ampCU2dLTWdNQmNBdw",
+      "date": "06/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-09T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Astrocomb breakthrough could help discover Earth-like planets",
+      "source": {
+        "name": "Sky News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.sky.com/story/astrocomb-breakthrough-could-help-discover-earth-like-planets-13103465",
+      "thumbnail": "https://e3.365dm.com/24/03/1600x900/skynews-chile-extremely-large-telescope_6503576.jpg?20240328175801",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWSEpsUTNkalEzQlRNV3RJVFJDZkF4ampCU2dLTWdhdElJWlBLUVU",
+      "date": "03/29/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-03-29T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Intl efforts led by Chinese scientists discover super-Earth with new technique",
+      "source": {
+        "name": "Global Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globaltimes.cn&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.globaltimes.cn/page/202506/1335378.shtml",
+      "thumbnail": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-06-04/b7365e81-d885-4f9b-a782-feeaaec87c4b.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxOelJNWVd3eFZXMXJVRzEzVFJEX0FSakdBU2dCTWdhcFVvQXdvUWc",
+      "date": "06/04/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-04T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "'Most promising yet' signs of alien life discovered on planet k2-18b",
+      "source": {
+        "name": "Live Science",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jess Thomson"
+        ]
+      },
+      "link": "https://www.livescience.com/space/exoplanets/alien-world-may-be-teeming-with-life-new-chemical-biosignatures-indicate",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/VFJrjREi5WFVRrqL2HBEbG.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpXRko2Y0hsemNqQjNhemM0VFJDZkF4ampCU2dLTWdhZE00aU5RUVU",
+      "date": "04/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-17T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Scientists Discover ‘Super-Earth’ GJ 251 c Just 20 Light-Years Away",
+      "source": {
+        "name": "GK Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gktoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gktoday.in/scientists-discover-super-earth-gj-251-c-just-20-light-years-away/",
+      "thumbnail": "https://www.gktoday.in/wp-content/uploads/2025/10/20251025090829-300x196.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlOM2xRWkhoTlRVcFZTMjVvVFJERUFSaXNBaWdLTWdhUllZanpTQVE",
+      "date": "10/25/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-25T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Long-Standing Planetary Mystery Solved: Scientists Discover Mars Has an Earth-Like Core",
+      "source": {
+        "name": "SciTechDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mhairi Reid",
+          "Kevin S Olsen"
+        ]
+      },
+      "link": "https://scitechdaily.com/long-standing-planetary-mystery-solved-scientists-discover-mars-has-an-earth-like-core/",
+      "thumbnail": "https://scitechdaily.com/images/Illustration-of-Mars-Showing-Internal-Core-Structure.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdObm93TUZkd1pqYzNRVzVyVFJDd0F4akZCU2dLTWdhbFJJcXRJUVk",
+      "date": "09/20/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-20T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "Astronomers Discover Hidden Earth-Like Worlds Orbiting Nearby Dwarf Stars",
+      "source": {
+        "name": "SciTechDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scitechdaily.com/astronomers-discover-hidden-earth-like-worlds-orbiting-nearby-dwarf-stars/",
+      "thumbnail": "https://scitechdaily.com/images/Habitable-Atmosphere-Exoplanet-Art-Concept-Illustration.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRlSGRDTFMwNU1sQlNSV2huVFJERUF4aW1CU2dLTWdhTlVwQkpyZ2M",
+      "date": "07/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-01T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "Scientists find Earth-like planet that could support life",
+      "source": {
+        "name": "The Independent",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andrew Griffin"
+        ]
+      },
+      "link": "https://www.independent.co.uk/space/planet-earth-venus-gliese-alien-b2550242.html",
+      "thumbnail": "https://static.independent.co.uk/2024/05/23/19/Gl12b_Illustration_less_atmosphere.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZMmhOVGpBeE4zbFVkRFIyVFJDZkF4ampCU2dLTWdZSlVJN2x4Z1E",
+      "date": "05/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-05-23T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Scientists discover new minimoons orbiting Earth – what could this mean for our planet’s future",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/science/scientists-discover-new-minimoons-orbiting-earth-what-could-this-mean-for-our-planets-future/articleshow/120924103.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-120924181,width-1280,height-720,resizemode-4/120924181.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNNemhKUm1Sb1R6aHhlR3RwVFJDZkF4ampCU2dLTWdtbFVvb1RvV2lEa0FF",
+      "date": "05/06/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-06T07:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "Scientists discover exoplanet orbiting Barnard's Star, just six light years from Earth",
+      "source": {
+        "name": "TechSpot",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techspot.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techspot.com/news/104975-scientists-discover-exoplanet-orbiting-barnard-star-six-light.html",
+      "thumbnail": "https://www.techspot.com/images2/news/bigimage/2024/10/2024-10-03-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1YM1UyTWs4emRWUnRjRzV3VFJEZ0F4aUFCU2dLTWdZSlVvYlBwUWs",
+      "date": "10/03/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-03T07:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "Scientists Discover Mysterious Earth-Like Patterns in Martian Soil",
+      "source": {
+        "name": "SciTechDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://scitechdaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lindsey Valich"
+        ]
+      },
+      "link": "https://scitechdaily.com/scientists-discover-mysterious-earth-like-patterns-in-martian-soil/",
+      "thumbnail": "https://scitechdaily.com/images/Martian-Surface-Mars.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWFVSFpIWlVaaFJHVkNaVTVHVFJERUF4aW1CU2dLTWd1SkVJcXZzR1NKTWpsTm9R",
+      "date": "06/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-29T07:00:00Z"
+    },
+    {
+      "position": 81,
+      "title": "'20 light-years away': Scientists discover a new Earth-like world in the habitable zone",
+      "source": {
+        "name": "WION",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.wionews.com/web-stories/science-technology/20-light-years-away-scientists-discover-a-new-earth-like-world-in-the-habitable-zone-8704953",
+      "thumbnail": "https://cdn1.wionews.com/dev/wion/images/2025/20250505/Pcu5OijdiTMdMdzpPfDJ.jpg?imwidth=900&imheight=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBZbEJ2YlRCTU1XRnJjREJzVFJDQUJSamdBeWdLTWdhSkE1VG1BUXM",
+      "date": "02/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-09T08:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "NASA's New Telescope Aims To Detect Alien Life On Earth-Like Planets By 2050",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikhil Pandey"
+        ]
+      },
+      "link": "https://www.ndtv.com/science/nasas-new-telescope-aims-to-detect-alien-life-on-earth-like-planets-by-2050-6072467",
+      "thumbnail": "https://c.ndtvimg.com/2024-07/i9o50fk8_habitable-worlds-observatory_625x300_10_July_24.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhYMjFIYTFsdVRFb3pSbmt3VFJDeUF4akNCU2dLTWdZWklvUnJvUU0",
+      "date": "07/10/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-10T07:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "Japanese scientists find ‘Earth-like planet’ in our solar system",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/science/japanese-scientists-find-earth-like-planet-in-our-solar-system/articleshow/103444324.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-103444344,width-1280,height-720,resizemode-4/103444344.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJWbVZIVkU1M1pHaE5kRTk2VFJDZkF4ampCU2dLTWdtQkk1S0lGYXU1REFJ",
+      "date": "09/08/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-09-08T07:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Indian scientists discover new planet. It's five times larger than Earth",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/science/story/indian-scientists-prl-ahmedabad-discover-new-planet-it-is-five-times-bigger-than-earth-2624404-2024-10-28",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202410/exoplanet-super-earth-illustration-05592446-16x9.jpg?VersionId=03Q1SIksc9e0LskxSn4ckdge758UaL2x&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJhRGszZFU5Q1VXRTRjWHBRVFJDZkF4ampCU2dLTWdZTllvNFR2UVU",
+      "date": "10/28/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-28T07:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "'Temperature at 42°C': UK Scientists discover new planet 'close' to Earth that could support human life",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/visualstories/news/temperature-at-42c-uk-scientists-discover-new-planet-close-to-earth-that-could-support-human-life-144741-18-06-2024",
+      "thumbnail": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/cropped-Gliese-12b.jpeg?size=*:900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpOa2hHTURGaVEwbG5URVJ6VFJDQUJSamdBeWdLTWdPaEFobw",
+      "date": "06/18/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-06-18T07:00:00Z"
+    },
+    {
+      "position": 86,
+      "title": "‘4,000-light-years away’: Scientists discover Earth-like planet that may offer insights into humanity’s future",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/visualstories/news/4000-light-years-away-scientists-discover-earth-like-planet-that-may-offer-insights-into-humanitys-future-185811-11-11-2024",
+      "thumbnail": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/11/cropped-earth-like.jpg?size=*:900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViV2xCVFdOaVEzRlVjbWR2VFJDQUJSamdBeWdLTWdaSlFKaFZwQWc",
+      "date": "11/11/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-11-11T08:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "Scientists discover new potential habitable earth-sized planet",
+      "source": {
+        "name": "coventryobserver.co.uk",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://coventryobserver.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://coventryobserver.co.uk/news/coventry-news-scientists-discover-new-potential-habitable-earth-sized-planet/",
+      "thumbnail": "https://coventryobserver.co.uk/wp-content/uploads/2024/05/planet-new-cov-771x434.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZaREJzTVZOT1VXOUxkR0U0VFJDZkF4amlCU2dLTWdrSmdvNFR0YWV4N0FF",
+      "date": "05/30/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-05-30T07:00:00Z"
+    },
+    {
+      "position": 88,
+      "title": "NASA discover new earth like planet",
+      "source": {
+        "name": "IOL",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://iol.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://iol.co.za/news/2011-12-06-nasa-discover-new-earth-like-planet/",
+      "thumbnail": "https://iol-prod.appspot.com/image/4e81eb382d9f5fa913ce25da917cb2cb5a02da15=w700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJjV3RwV1doaldUZHpaR3RHVFJDOUFSaUxBaWdCTWdrUk1vTHozS0tEREFJ",
+      "date": "12/05/2011, 08:00 AM, +0000 UTC",
+      "iso_date": "2011-12-05T08:00:00Z"
+    },
+    {
+      "position": 89,
+      "title": "Scientists find potentially habitable Earth-like planet not too far from our own solar neighborhood",
+      "source": {
+        "name": "starlust.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://starlust.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://starlust.org/scientists-find-potentially-habitable-earth-like-planet-not-too-far-from-our-own-solar-neighborhood/",
+      "thumbnail": "https://d3hedi16gruj5j.cloudfront.net/809140/uploads/e48596e0-76be-11f1-9968-89efef77f456_1200_630.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRhRGhwWkZaR1RHdExValJvVFJDUkF4ajhCU2dLTWdhcEJLU3VFUXM",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "Scientists discover potentially habitable 'super-Earth' just 25 light-years from our solar system",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Trisha Bhattacharya"
+        ]
+      },
+      "link": "https://www.livemint.com/science/scientists-discover-potentially-habitable-super-earth-just-25-light-years-from-our-solar-system-11783283622557.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/www-space-com-astronomy-exoplanets-133203803_1783284472566_1783284487031_faef4964-f79e-4af6-8045-d0ab3e63f1ec.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVaREl5TUc1TFdFOU5NbmRXVFJDZkF4ampCU2dLTWdhbEFKWlpnQTA",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "Scientists discover atmosphere on an Earth-like planet for the first time",
+      "source": {
+        "name": "Zamin.uz",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://zamin.uz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zamin.uz/en/technology/212837-scientists-discover-atmosphere-on-an-earth-like-planet-for-the-first-time.html",
+      "thumbnail": "https://zamin.uz/uploads/posts/2026-07/zamin_olimlar-yerga-oxshash-sayyorada-ilk-bor-atmosfera-mavjudligi_20260717_030018_34161af0.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9iM3AzTm5veVdWQnJjREIwVFJDZEF4am1CU2dLTWdNQndnWQ",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "Earth-sized planet just 40 light-years away could have an atmosphere capable of sustaining life, astronomers reveal",
+      "source": {
+        "name": "Daily Mail",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailymail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wiliam Hunter"
+        ]
+      },
+      "link": "https://www.dailymail.com/sciencetech/article-15076667/Planet-life-sustaining-atmosphere-revealed.html",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2025/09/08/12/101939625-0-image-a-12_1757331561863.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhVRVF0VDB4SVUzRklXazlpVFJELUFoajhCQ2dLTWdrUlVZaUhObVk5OUFB",
+      "date": "09/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-08T07:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Scientists discover new planet which could support human life if we can reach it",
+      "source": {
+        "name": "UNILAD",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.unilad.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emily Brown"
+        ]
+      },
+      "link": "https://www.unilad.com/technology/space/scientists-discover-habitable-planet-gliese-12-b-289781-20240523",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHRmOTU2OTI3YWI5OWYxZjNmLzY2NGY0ZTc0MWRhOTZjZjczNTlhNWE5NC9ORVdfUExBTkVUXy5wbmc.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRZMVo1U1dwSVUyWlNXRFpKVFJDZkF4ampCU2dLTWdhTk1JYUdLZ1k",
+      "date": "05/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-05-23T07:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "Scientists discover 'Super-Earth' planet that could provide answer for finding extraterrestrial life",
+      "source": {
+        "name": "LADbible",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ladbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Burke"
+        ]
+      },
+      "link": "https://www.ladbible.com/news/science/super-earth-planet-discovery-kepler725c-extraterrestrial-life-538691-20250604",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHQ2ZDViMjIxODcwYTQxZTg2LzY4NDBhNGFjZjhlMTgzODBkNmViNmM4Ny9zdXBlci1lYXJ0aC5wbmc.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFSRTgwYUdGME1EUTNiRGxsVFJDZkF4ampCU2dLTWdhVlVvNHhKUWc",
+      "date": "06/04/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-04T07:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "Scientists discover new details about mysterious planet floating through atmosphere",
+      "source": {
+        "name": "UNILAD",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.unilad.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ella Scott"
+        ]
+      },
+      "link": "https://www.unilad.com/technology/space/simp-0136-planet-brightness-infrared-radiation-578163-20250324",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQwN2RiMjdlZTBiNmY5YjMwLzY3ZTE3N2QzMGMyZDcyODk4YTVjMjZkZi9zY2llbnRpc3RzLWRpc2NvdmVyLW5ldy1kZXRhaWxzLW15c3RlcmlvdXMtcGxhbmV0LWZsb2F0aW5nLXRocm91Z2gtYXRtb3NwaGVyZS5wbmc.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVOVXBzWVRsT2EwWkpkRlZHVFJDZkF4ampCU2dLTWdZaFJZek1vUVk",
+      "date": "03/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-24T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

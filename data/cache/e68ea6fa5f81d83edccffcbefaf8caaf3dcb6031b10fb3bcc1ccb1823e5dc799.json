@@ -1,0 +1,278 @@
+{
+  "search_metadata": {
+    "id": "6ab22a4fae678c084cbf100a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/X039gtJNHzaoSv87lG9wq-mBAI1WvQoqCkXsaLrG2Bs/6ab22a4fae678c084cbf100a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/X039gtJNHzaoSv87lG9wq-mBAI1WvQoqCkXsaLrG2Bs/6ab22a4fae678c084cbf100a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/X039gtJNHzaoSv87lG9wq-mBAI1WvQoqCkXsaLrG2Bs/6ab22a4fae678c084cbf100a.json_with_pixel_position",
+    "created_at": "2026-09-22 07:12:15 UTC",
+    "processed_at": "2026-09-22 07:12:15 UTC",
+    "google_url": "https://www.google.com/search?q=india+post+really+running+dak+seva+before%3A2026-01-01&oq=india+post+really+running+dak+seva+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/X039gtJNHzaoSv87lG9wq-mBAI1WvQoqCkXsaLrG2Bs/6ab22a4fae678c084cbf100a.html",
+    "total_time_taken": 0.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "india post really running dak seva before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "india post really running dak seva before:2026-01-01",
+    "total_results": 19800,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "Y2wiTXiczVXLkqJIFP2A-Y52YymgYqkRREdmggJqlfiq1o2BgCkKpIolhbtezJ_MV83XTILiq6Squhcdk0GQr5v3kfeePD__cWxv-e9ff8-325VfY5ggCPKYEOxYeYO4jO6HnsHMiONvjPn3cCcUM4YvsBnLFgZoHer-TEWrtbPe-p2c6b3YgGTiI8JkqvvWgmp8W_jMhKG_5beiSCd5P295-caQr7QhX2IXlXyB5ar5Z0Z3qQD4c02ZR38NLIHygVAk8ZWGMZAAUM8LCMWddCESTTBViaJFFI3v25QOHnXRwUHQETt70QBAPLnynOoHunQXBUfLQWwPRhY_CPaOtvhfP86kdEGQGg2-UgHaF1up-tCNIHVdA6hTipQlhy4PQwy0s3kl2jxWkoFBRSZQhGCQ7jk90FQAvwSa9FmyNWlYQomp1qhBVxgT08JlmemGdhxjG3MjHmz8qJ5Rv8qSBlaR3e93Kt1HUUfieD_g1mrOqduohRljSuUcopuWOZlP2O_xnCtwPFstPlYeYiAZ_glJ_iWS-oHMzuHTliAt38pDLoEROuUZXfsv0Tm6VwIQHUXR-z16ILltBE6asX4ldMgwLV0MxhK4zg-pxtcMYbIg-wAE0oXI2aVo8T2Mbl2LYHRIKY6HxzK7dF4BvYtALxIr3qnUd1FTu0fwaOI7wWsFEKhLcA745g3DAEKkaPBwQ-tS7FMJwLMEvV0NaNqNI9H7QB8KJbntRPbQ2ud46E4zxoWIEKR6ySoSU48RRwfsk1bYvXnO4H0M0vSAFvoE8GkNfuXF1BK83JT_FWwmTotbis0e3Jp7rpXDlT0sbnf98vhJuw8T4k5_gXGM_xWQEj5y4vV0IGlfAhLGUjofHYZnPoqAhDDGKUCSeil8FCQiZz66jRr1LoD0CR_9KpCkD4GUgPQukOr3gCSlASnhoysg9a74CN7noxOQfoeP4G_yUYwr69Bdk9PrAqeSlNzVy7v-JPSeNGM2Hqx3w1AO-93m_E3UPiWpmbutubrpPExsswYL6jY0HyZ0gdQsM7MWbM-09eyK-NvsxtIdJ8xuXj3P9nDW1JdZ39rp2ak1IxurVmAL5RzL0S_jOhsisDpfL_9Q-b5qNsKdqJrt16ZMPKU6mxUH_MacvS55r6i660FfIg4HFkqBtct1XezWRxbeN30tEOWwWxmI3ULXKj0HrGQ33qoT84drzAMddVuy1Om0K1Vb6gOZhGwom225MHIVHu2HygvpufwQyW0RxP74wriRmwb8vIIao4y7MQRaESUMnjTwgoEB0AhoNB8DndA-AFqjTFMEM76hTyx_J1iPVa7EFYrGrDjlplYl4-JtuBKqbMb3NgL3H8P0PYo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y2wiTXiczVXLkqJIFP2A-Y52YymgYqkRREdmggJqlfiq1o2BgCkKpIolhbtezJ_MV83XTILiq6Squhcdk0GQr5v3kfeePD__cWxv-e9ff8-325VfY5ggCPKYEOxYeYO4jO6HnsHMiONvjPn3cCcUM4YvsBnLFgZoHer-TEWrtbPe-p2c6b3YgGTiI8JkqvvWgmp8W_jMhKG_5beiSCd5P295-caQr7QhX2IXlXyB5ar5Z0Z3qQD4c02ZR38NLIHygVAk8ZWGMZAAUM8LCMWddCESTTBViaJFFI3v25QOHnXRwUHQETt70QBAPLnynOoHunQXBUfLQWwPRhY_CPaOtvhfP86kdEGQGg2-UgHaF1up-tCNIHVdA6hTipQlhy4PQwy0s3kl2jxWkoFBRSZQhGCQ7jk90FQAvwSa9FmyNWlYQomp1qhBVxgT08JlmemGdhxjG3MjHmz8qJ5Rv8qSBlaR3e93Kt1HUUfieD_g1mrOqduohRljSuUcopuWOZlP2O_xnCtwPFstPlYeYiAZ_glJ_iWS-oHMzuHTliAt38pDLoEROuUZXfsv0Tm6VwIQHUXR-z16ILltBE6asX4ldMgwLV0MxhK4zg-pxtcMYbIg-wAE0oXI2aVo8T2Mbl2LYHRIKY6HxzK7dF4BvYtALxIr3qnUd1FTu0fwaOI7wWsFEKhLcA745g3DAEKkaPBwQ-tS7FMJwLMEvV0NaNqNI9H7QB8KJbntRPbQ2ud46E4zxoWIEKR6ySoSU48RRwfsk1bYvXnO4H0M0vSAFvoE8GkNfuXF1BK83JT_FWwmTotbis0e3Jp7rpXDlT0sbnf98vhJuw8T4k5_gXGM_xWQEj5y4vV0IGlfAhLGUjofHYZnPoqAhDDGKUCSeil8FCQiZz66jRr1LoD0CR_9KpCkD4GUgPQukOr3gCSlASnhoysg9a74CN7noxOQfoeP4G_yUYwr69Bdk9PrAqeSlNzVy7v-JPSeNGM2Hqx3w1AO-93m_E3UPiWpmbutubrpPExsswYL6jY0HyZ0gdQsM7MWbM-09eyK-NvsxtIdJ8xuXj3P9nDW1JdZ39rp2ak1IxurVmAL5RzL0S_jOhsisDpfL_9Q-b5qNsKdqJrt16ZMPKU6mxUH_MacvS55r6i660FfIg4HFkqBtct1XezWRxbeN30tEOWwWxmI3ULXKj0HrGQ33qoT84drzAMddVuy1Om0K1Vb6gOZhGwom225MHIVHu2HygvpufwQyW0RxP74wriRmwb8vIIao4y7MQRaESUMnjTwgoEB0AhoNB8DndA-AFqjTFMEM76hTyx_J1iPVa7EFYrGrDjlplYl4-JtuBKqbMb3NgL3H8P0PYo"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What does India Post do? Where do we even begin... ...",
+      "link": "https://www.instagram.com/reel/DPtYvILEV5z/?hl=en",
+      "displayed_link": "56.8K+ likes · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab22a4fae678c084cbf100a/images/mu9MU03x6OY4qAytjuBoPdmnC6cPy33utgmSYqVUMOs.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "They said that India Post today goes far beyond traditional mail delivery, with faster delivery services, Aadhaar-related facilities, PAN and Passport Seva ...",
+      "duration": "0:17",
+      "about_this_result": {
+        "source": {
+          "description": "They said that India Post today goes far beyond traditional mail delivery, with faster delivery services, Aadhaar-related facilities, PAN and Passport Seva ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnRieXZkdGtoLThLLThhUDYyaFpLWUhMWW8wdXkxcm81X0RUNDBkSEJHT2p6WExHODRLT29BUUY3dEpzbWlJNTctbEFsRkpRSlBKZk9pTGlfazlCb1pHUHNLdmVjZURVS050bXpVSW5BWThmc3BOT3VLUFFHcXFlQkRueW5UN3AzRHlHb2l3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnRieXZkdGtoLThLLThhUDYyaFpLWUhMWW8wdXkxcm81X0RUNDBkSEJHT2p6WExHODRLT29BUUY3dEpzbWlJNTctbEFsRkpRSlBKZk9pTGlfazlCb1pHUHNLdmVjZURVS050bXpVSW5BWThmc3BOT3VLUFFHcXFlQkRueW5UN3AzRHlHb2l3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Instagram · indiapost_dop"
+    },
+    {
+      "position": 2,
+      "title": "Wrapping up the year with gratitude for our customers, ...",
+      "link": "https://www.instagram.com/reel/DS7YfghEVsw/?hl=en",
+      "displayed_link": "8.1K+ likes · 8 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab22a4fae678c084cbf100a/images/mu9MU03x6OY4qAytjuBoPSNf7sGvnbQWxDd8bE7MqaI.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "भारतीय डाक India Post Dak Sewa-Jan Sewa Proud to be a part of INDIA POST 4 Years COMPLETED OF DEDICATED SERVICE Celebrating 4 Years of Trust ...",
+      "duration": "0:21",
+      "about_this_result": {
+        "source": {
+          "description": "भारतीय डाक India Post Dak Sewa-Jan Sewa Proud to be a part of INDIA POST 4 Years COMPLETED OF DEDICATED SERVICE Celebrating 4 Years of Trust ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkZLN1V2cGt6UzJDdzJxN0U1MEZHYWpxN2ZjLXFLc3RaRER6YmFnVjRIR2RBSUpaNTJvUnBCOXE5V0luTVdLbDFmMlBDZ3pCeDNwRGwtS1ktS2UzY2ZFQm9xa1d6dUFlVl9SQkxvU3lldklPSF90b0RZbnpyUFpERGNPUFZsWHJvNnlOTlRnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkZLN1V2cGt6UzJDdzJxN0U1MEZHYWpxN2ZjLXFLc3RaRER6YmFnVjRIR2RBSUpaNTJvUnBCOXE5V0luTVdLbDFmMlBDZ3pCeDNwRGwtS1ktS2UzY2ZFQm9xa1d6dUFlVl9SQkxvU3lldklPSF90b0RZbnpyUFpERGNPUFZsWHJvNnlOTlRnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Instagram · indiapost_dop"
+    },
+    {
+      "position": 3,
+      "title": "Who knew Post Office could look this cute? GenZ ...",
+      "link": "https://www.instagram.com/p/DR6hGA-kdNG/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVcxO_iQJviTGSZOAWKo2parTL8Kdl-lCHCQvxvGKbrGaYhZWqGQSdX80eoT9jUcfyx7DMOeqzNhGFCQtzY7jDZZAFO9GPJt7cwFOtUyhsKdRLwFs5pHjVZpHlMAIy3Oz3Cw&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQFnoECCQQAQ&uoh=1",
+      "displayed_link": "370+ likes",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "Visit the Gen Z Post Office near you and tell us your experience. (Post Office, GenZ, GenZ Post Office, Revamp, Aesthetics, India Post, Dak Sewa Jan Sewa).",
+      "snippet_highlighted_words": [
+        "India Post",
+        "Dak Sewa",
+        "Sewa"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Visit the Gen Z Post Office near you and tell us your experience. (Post Office, GenZ, GenZ Post Office, Revamp, Aesthetics, India Post, Dak Sewa Jan Sewa).",
+          "source_info_link": "https://www.instagram.com/p/DR6hGA-kdNG/?hl=en",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmN4T19pUUp2aVRHU1pPQVdLbzJwYXJUTDhLZGwtbENIQ1F2eHZHS2JyR2FZaFpXcUdRU2RYODBlb1Q5alVjZnl4N0RNT2Vxek5oR0ZDUXR6WTdqRFpaQUZPOUdQSnQ3Y3dGT3RVeWhzS2RSTHdGczVwSGpWWnBIbE1BSXkzT3ozQ3cSBBoCCAAaoQUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_QQIABAAGAAgACoXCgVpbmRpYRXbK4ZAGglpbmRpYXBvc3QqJQoEcG9zdBWeg8RAGglpbmRpYXBvc3QaBnBvc3RhbBoFcG9zdHMqNQoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5GgRmYWtlKisKB3J1bm5pbmcV73EWPhoDcnVuGgZydW5uaW4aBHJ1bnMaCHRyYWNraW5nKhQKA2RhaxUV_eE_GghpdjtwO2RhayojCgRzZXZhFfnRaT8aBXNldmFrGgRzZXdhGglpdjtwO3NldmEymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWY3hPX2lRSnZpVEdTWk9BV0tvMnBhclRMOEtkbC1sQ0hDUXZ4dkdLYnJHYVloWldxR1FTZFg4MGVvVDlqVWNmeXg3RE1PZXF6TmhHRkNRdHpZN2pEWlpBRk85R1BKdDdjd0ZPdFV5aHNLZFJMd0ZzNXBIalZacEhsTUFJeTNPejNDdzpGV2hvIGtuZXcgPGI-UG9zdDwvYj4gT2ZmaWNlIGNvdWxkIGxvb2sgdGhpcyBjdXRlPyBHZW5aIC4uLiAtIEluc3RhZ3JhbUKwAVZpc2l0IHRoZSBHZW4gWiBQb3N0IE9mZmljZSBuZWFyIHlvdSBhbmQgdGVsbCB1cyB5b3VyIGV4cGVyaWVuY2UuIChQb3N0IE9mZmljZSwgR2VuWiwgR2VuWiBQb3N0IE9mZmljZSwgUmV2YW1wLCBBZXN0aGV0aWNzLCA8Yj5JbmRpYSBQb3N0PC9iPiwgPGI-RGFrIFNld2E8L2I-IEphbiA8Yj5TZXdhPC9iPikuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmN4T19pUUp2aVRHU1pPQVdLbzJwYXJUTDhLZGwtbENIQ1F2eHZHS2JyR2FZaFpXcUdRU2RYODBlb1Q5alVjZnl4N0RNT2Vxek5oR0ZDUXR6WTdqRFpaQUZPOUdQSnQ3Y3dGT3RVeWhzS2RSTHdGczVwSGpWWnBIbE1BSXkzT3ozQ3cSBBoCCAAaoQUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_QQIABAAGAAgACoXCgVpbmRpYRXbK4ZAGglpbmRpYXBvc3QqJQoEcG9zdBWeg8RAGglpbmRpYXBvc3QaBnBvc3RhbBoFcG9zdHMqNQoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5GgRmYWtlKisKB3J1bm5pbmcV73EWPhoDcnVuGgZydW5uaW4aBHJ1bnMaCHRyYWNraW5nKhQKA2RhaxUV_eE_GghpdjtwO2RhayojCgRzZXZhFfnRaT8aBXNldmFrGgRzZXdhGglpdjtwO3NldmEymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWY3hPX2lRSnZpVEdTWk9BV0tvMnBhclRMOEtkbC1sQ0hDUXZ4dkdLYnJHYVloWldxR1FTZFg4MGVvVDlqVWNmeXg3RE1PZXF6TmhHRkNRdHpZN2pEWlpBRk85R1BKdDdjd0ZPdFV5aHNLZFJMd0ZzNXBIalZacEhsTUFJeTNPejNDdzpGV2hvIGtuZXcgPGI-UG9zdDwvYj4gT2ZmaWNlIGNvdWxkIGxvb2sgdGhpcyBjdXRlPyBHZW5aIC4uLiAtIEluc3RhZ3JhbUKwAVZpc2l0IHRoZSBHZW4gWiBQb3N0IE9mZmljZSBuZWFyIHlvdSBhbmQgdGVsbCB1cyB5b3VyIGV4cGVyaWVuY2UuIChQb3N0IE9mZmljZSwgR2VuWiwgR2VuWiBQb3N0IE9mZmljZSwgUmV2YW1wLCBBZXN0aGV0aWNzLCA8Yj5JbmRpYSBQb3N0PC9iPiwgPGI-RGFrIFNld2E8L2I-IEphbiA8Yj5TZXdhPC9iPikuIgIQAUgAWABoAA",
+      "source": "Instagram · indiapost_dop",
+      "read_more_link": "https://www.instagram.com/p/DR6hGA-kdNG/?hl=en#:~:text=Visit%20the%20Gen%20Z%20Post,Post%2C%20Dak%20Sewa%20Jan%20Sewa)"
+    },
+    {
+      "position": 4,
+      "title": "India Post introduces 'Dak Sewa' to logo",
+      "link": "https://www.facebook.com/groups/panindiapostal/posts/4002189923343710/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV1ZIld_Vw3KK-Rd5eDzLVHtteNsuAcbNLpVqZhQQukbbJ_IqwFnHLQuXQi1RSdtHQMvcm9wnMdE_-6Xu3rTCd8-tfUDQI6TB4N4Q0bUN9-dUY7pUwOSSymMCACMmIKG8t-Mnz7tS-N_oBq7B1yjRwy3cF1cpKGGSl7g&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQFnoECCIQAQ&uoh=1",
+      "displayed_link": "1 comment",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "New logo of India Post. Strengthening Our Identity! We are proud to announce the incorporation of 'Dak Sewa-Jan Sewa' into the existing logo of India Post.",
+      "snippet_highlighted_words": [
+        "incorporation of 'Dak Sewa-Jan Sewa' into the existing logo of India Post"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "New logo of India Post. Strengthening Our Identity! We are proud to announce the incorporation of 'Dak Sewa-Jan Sewa' into the existing logo of India Post.",
+          "source_info_link": "https://www.facebook.com/groups/panindiapostal/posts/4002189923343710/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjFaSWxkX1Z3M0tLLVJkNWVEekxWSHR0ZU5zdUFjYk5McFZxWmhRUXVrYmJKX0lxd0ZuSExRdVhRaTFSU2R0SFFNdmNtOXduTWRFXy02WHUzclRDZDgtdGZVRFFJNlRCNE40UTBiVU45LWRVWTdwVXdPU1N5bU1DQUNNbUlLRzh0LU1uejd0Uy1OX29CcTdCMXlqUnd5M2NGMWNwS0dHU2w3ZxIEGgIIABq-BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCaBQgAEAAYACAAKhcKBWluZGlhFe6PyUAaCWluZGlhcG9zdColCgRwb3N0FanezkAaCWluZGlhcG9zdBoGcG9zdGFsGgVwb3N0cyo1CgZyZWFsbHkVAAAAABoIYWN0dWFsbHkaCWV4dHJlbWVseRoFdHJ1bHkaBHZlcnkaBGZha2UqKwoHcnVubmluZxXJLMc9GgNydW4aBnJ1bm5pbhoEcnVucxoIdHJhY2tpbmcqFAoDZGFrFVq0q0AaCGl2O3A7ZGFrKiMKBHNldmEVdrkcPxoFc2V2YWsaBHNld2EaCWl2O3A7c2V2YTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVYxWklsZF9WdzNLSy1SZDVlRHpMVkh0dGVOc3VBY2JOTHBWcVpoUVF1a2JiSl9JcXdGbkhMUXVYUWkxUlNkdEhRTXZjbTl3bk1kRV8tNlh1M3JUQ2Q4LXRmVURRSTZUQjRONFEwYlVOOS1kVVk3cFV3T1NTeW1NQ0FDTW1JS0c4dC1Nbno3dFMtTl9vQnE3QjF5alJ3eTNjRjFjcEtHR1NsN2c6STxiPkluZGlhIFBvc3Q8L2I-IGludHJvZHVjZXMgJiMzOTs8Yj5EYWsgU2V3YTwvYj4mIzM5OyB0byBsb2dvIC0gRmFjZWJvb2tCqgFOZXcgbG9nbyBvZiBJbmRpYSBQb3N0LiBTdHJlbmd0aGVuaW5nIE91ciBJZGVudGl0eSEgV2UgYXJlIHByb3VkIHRvIGFubm91bmNlIHRoZSA8Yj5pbmNvcnBvcmF0aW9uIG9mICYjMzk7RGFrIFNld2EtSmFuIFNld2EmIzM5OyBpbnRvIHRoZSBleGlzdGluZyBsb2dvIG9mIEluZGlhIFBvc3Q8L2I-LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjFaSWxkX1Z3M0tLLVJkNWVEekxWSHR0ZU5zdUFjYk5McFZxWmhRUXVrYmJKX0lxd0ZuSExRdVhRaTFSU2R0SFFNdmNtOXduTWRFXy02WHUzclRDZDgtdGZVRFFJNlRCNE40UTBiVU45LWRVWTdwVXdPU1N5bU1DQUNNbUlLRzh0LU1uejd0Uy1OX29CcTdCMXlqUnd5M2NGMWNwS0dHU2w3ZxIEGgIIABq-BRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCaBQgAEAAYACAAKhcKBWluZGlhFe6PyUAaCWluZGlhcG9zdColCgRwb3N0FanezkAaCWluZGlhcG9zdBoGcG9zdGFsGgVwb3N0cyo1CgZyZWFsbHkVAAAAABoIYWN0dWFsbHkaCWV4dHJlbWVseRoFdHJ1bHkaBHZlcnkaBGZha2UqKwoHcnVubmluZxXJLMc9GgNydW4aBnJ1bm5pbhoEcnVucxoIdHJhY2tpbmcqFAoDZGFrFVq0q0AaCGl2O3A7ZGFrKiMKBHNldmEVdrkcPxoFc2V2YWsaBHNld2EaCWl2O3A7c2V2YTK4AS9nb3RvP3VybD1DQUVTZmdIck96QVYxWklsZF9WdzNLSy1SZDVlRHpMVkh0dGVOc3VBY2JOTHBWcVpoUVF1a2JiSl9JcXdGbkhMUXVYUWkxUlNkdEhRTXZjbTl3bk1kRV8tNlh1M3JUQ2Q4LXRmVURRSTZUQjRONFEwYlVOOS1kVVk3cFV3T1NTeW1NQ0FDTW1JS0c4dC1Nbno3dFMtTl9vQnE3QjF5alJ3eTNjRjFjcEtHR1NsN2c6STxiPkluZGlhIFBvc3Q8L2I-IGludHJvZHVjZXMgJiMzOTs8Yj5EYWsgU2V3YTwvYj4mIzM5OyB0byBsb2dvIC0gRmFjZWJvb2tCqgFOZXcgbG9nbyBvZiBJbmRpYSBQb3N0LiBTdHJlbmd0aGVuaW5nIE91ciBJZGVudGl0eSEgV2UgYXJlIHByb3VkIHRvIGFubm91bmNlIHRoZSA8Yj5pbmNvcnBvcmF0aW9uIG9mICYjMzk7RGFrIFNld2EtSmFuIFNld2EmIzM5OyBpbnRvIHRoZSBleGlzdGluZyBsb2dvIG9mIEluZGlhIFBvc3Q8L2I-LiICEAFIAFgAaAA",
+      "source": "Facebook · Pan India Postal Pictorial Place Cancellations",
+      "read_more_link": "https://www.facebook.com/groups/panindiapostal/posts/4002189923343710/#:~:text=New%20logo%20of%20India%20Post.,logo%20of%20India%20Post.%20%F0%9F%94%B9"
+    },
+    {
+      "position": 5,
+      "title": "India Post",
+      "link": "https://en.wikipedia.org/wiki/India_Post",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVff-L0TCjFrmFhih0KOvnveGZlLkO2NOsAsXOMTv2BIuo2VspHxiXDtHdT2_7KF4cOpGFWCPvzVc0bdxS_RN5OVFkilhFW3ITYKQDcjdZAQSfbT84kEJHBZS42A&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › India_Post",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "date": "Feb 22, 2022",
+      "snippet": "It is involved in delivering mail (post), remitting money by money orders, accepting deposits under Small Savings Schemes, providing life insurance coverage ...",
+      "snippet_highlighted_words": [
+        "post"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "It is involved in delivering mail (post), remitting money by money orders, accepting deposits under Small Savings Schemes, providing life insurance coverage ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/India_Post",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmZmLUwwVENqRnJtRmhpaDBLT3ZudmVHWmxMa08yTk9zQXNYT01UdjJCSXVvMlZzcEh4aVhEdEhkVDJfN0tGNGNPcEdGV0NQdnpWYzBiZHhTX1JONU9WRmtpbGhGVzNJVFlLUURjamRaQVFTZmJUODRrRUpIQlpTNDJBEgQaAggAGu4EEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyAQIABAAGAAgACoXCgVpbmRpYRVka3hAGglpbmRpYXBvc3QqJQoEcG9zdBVXUXpAGglpbmRpYXBvc3QaBnBvc3RhbBoFcG9zdHMqNQoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5GgRmYWtlKisKB3J1bm5pbmcVAAAAABoDcnVuGgZydW5uaW4aBHJ1bnMaCHRyYWNraW5nKhQKA2RhaxVWJ_k-GghpdjtwO2RhayojCgRzZXZhFVIfaT0aBXNldmFrGgRzZXdhGglpdjtwO3NldmEykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWZmYtTDBUQ2pGcm1GaGloMEtPdm52ZUdabExrTzJOT3NBc1hPTVR2MkJJdW8yVnNwSHhpWER0SGRUMl83S0Y0Y09wR0ZXQ1B2elZjMGJkeFNfUk41T1ZGa2lsaEZXM0lUWUtRRGNqZFpBUVNmYlQ4NGtFSkhCWlM0MkE6HTxiPkluZGlhIFBvc3Q8L2I-IC0gV2lraXBlZGlhQqwBSXQgaXMgaW52b2x2ZWQgaW4gZGVsaXZlcmluZyBtYWlsICg8Yj5wb3N0PC9iPiksIHJlbWl0dGluZyBtb25leSBieSBtb25leSBvcmRlcnMsIGFjY2VwdGluZyBkZXBvc2l0cyB1bmRlciBTbWFsbCBTYXZpbmdzIFNjaGVtZXMsIHByb3ZpZGluZyBsaWZlIGluc3VyYW5jZSBjb3ZlcmFnZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmZmLUwwVENqRnJtRmhpaDBLT3ZudmVHWmxMa08yTk9zQXNYT01UdjJCSXVvMlZzcEh4aVhEdEhkVDJfN0tGNGNPcEdGV0NQdnpWYzBiZHhTX1JONU9WRmtpbGhGVzNJVFlLUURjamRaQVFTZmJUODRrRUpIQlpTNDJBEgQaAggAGu4EEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyAQIABAAGAAgACoXCgVpbmRpYRVka3hAGglpbmRpYXBvc3QqJQoEcG9zdBVXUXpAGglpbmRpYXBvc3QaBnBvc3RhbBoFcG9zdHMqNQoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5GgRmYWtlKisKB3J1bm5pbmcVAAAAABoDcnVuGgZydW5uaW4aBHJ1bnMaCHRyYWNraW5nKhQKA2RhaxVWJ_k-GghpdjtwO2RhayojCgRzZXZhFVIfaT0aBXNldmFrGgRzZXdhGglpdjtwO3NldmEykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWZmYtTDBUQ2pGcm1GaGloMEtPdm52ZUdabExrTzJOT3NBc1hPTVR2MkJJdW8yVnNwSHhpWER0SGRUMl83S0Y0Y09wR0ZXQ1B2elZjMGJkeFNfUk41T1ZGa2lsaEZXM0lUWUtRRGNqZFpBUVNmYlQ4NGtFSkhCWlM0MkE6HTxiPkluZGlhIFBvc3Q8L2I-IC0gV2lraXBlZGlhQqwBSXQgaXMgaW52b2x2ZWQgaW4gZGVsaXZlcmluZyBtYWlsICg8Yj5wb3N0PC9iPiksIHJlbWl0dGluZyBtb25leSBieSBtb25leSBvcmRlcnMsIGFjY2VwdGluZyBkZXBvc2l0cyB1bmRlciBTbWFsbCBTYXZpbmdzIFNjaGVtZXMsIHByb3ZpZGluZyBsaWZlIGluc3VyYW5jZSBjb3ZlcmFnZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/India_Post#:~:text=%5B6%5D%20It%20is%20involved%20in,Schemes%2C%20providing%20life%20insurance%20coverage"
+    },
+    {
+      "position": 6,
+      "title": "Different faces, different places, one aim- Dak Sewa Jan Sewa! ...",
+      "link": "https://www.facebook.com/PostOffice.IN/posts/different-faces-different-places-one-aim-dak-sewa-jan-sewawhat-is-your-gang-up-t/1139440478291089/",
+      "displayed_link": "1.1K+ reactions · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab22a4fae678c084cbf100a/images/mu9MU03x6OY4qAytjuBoPfm6nXZSEOz21GLD6H3IbSA.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "New logo of India Post. Strengthening Our Identity! We are proud to announce the incorporation of 'Dak Sewa-Jan Sewa' into the existing logo of India Post.",
+      "duration": "0:26",
+      "about_this_result": {
+        "source": {
+          "description": "New logo of India Post. Strengthening Our Identity! We are proud to announce the incorporation of 'Dak Sewa-Jan Sewa' into the existing logo of India Post.",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0Zad3FWZ2J6WXh0dThLSmZhUFZvdnRkVGR1TGQ0NkptMjQzRGJ1dG8zUVllZU1XMG16ZUVINEZ4MlpQNnA1aFZHTmFRRVE1VngxUktKQ1IzZzhtNlFFOURqdnBGbHY3elE4QW9kaTdkdUd4cHJMNkhJVkV5SGZvcmRKdE1tbWpfeXhEZXVNSm12ZTFMcV8yT2txVXlnaTFoM3FuU0tVdjJLbVZBWEgxc0lud0wtWFEtV1dkbV8tZHFQU00wdF90bGtWWXl6UkFCdkdwcTJwVFhrR29XTTVyakJ3dUszM0ROanBqbmtYaU82cFNQMkZBZnd6VWVuNEgwUGs1OUpjbll0QjVmeHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0Zad3FWZ2J6WXh0dThLSmZhUFZvdnRkVGR1TGQ0NkptMjQzRGJ1dG8zUVllZU1XMG16ZUVINEZ4MlpQNnA1aFZHTmFRRVE1VngxUktKQ1IzZzhtNlFFOURqdnBGbHY3elE4QW9kaTdkdUd4cHJMNkhJVkV5SGZvcmRKdE1tbWpfeXhEZXVNSm12ZTFMcV8yT2txVXlnaTFoM3FuU0tVdjJLbVZBWEgxc0lud0wtWFEtV1dkbV8tZHFQU00wdF90bGtWWXl6UkFCdkdwcTJwVFhrR29XTTVyakJ3dUszM0ROanBqbmtYaU82cFNQMkZBZnd6VWVuNEgwUGs1OUpjbll0QjVmeHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook · India Post"
+    },
+    {
+      "position": 7,
+      "title": "A milestone for India and a proud moment for all of us. Dr. ...",
+      "link": "https://www.instagram.com/reel/DSIJLHRktC2/?hl=en",
+      "displayed_link": "1.8K+ likes · 9 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab22a4fae678c084cbf100a/images/mu9MU03x6OY4qAytjuBoPTCRQCzZikLCeXRXxGTIhMQ.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "India Post marked a significant step towards a smarter, more accessible and citizen-centric postal experience with the launch of the Dak Sewa App & Dak Mitra ...",
+      "duration": "1:05",
+      "about_this_result": {
+        "source": {
+          "description": "India Post marked a significant step towards a smarter, more accessible and citizen-centric postal experience with the launch of the Dak Sewa App & Dak Mitra ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRnODU5ME16cnR2anhpNUZ3eXdjNmlzaldXNl9JVzZVNk9Ob3NzVExTeXkyTzh5VE1MckFGSHFjVnNhcmc4dU9ON21aYjZjNlp2UWRBRU9OU21BSTh1bFQteHlxdlc1a3M4NGwzMkwwVHQ2ZXNoVXItc21rUDM0cUQyV2hWRjgyYS1SbVJnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRnODU5ME16cnR2anhpNUZ3eXdjNmlzaldXNl9JVzZVNk9Ob3NzVExTeXkyTzh5VE1MckFGSHFjVnNhcmc4dU9ON21aYjZjNlp2UWRBRU9OU21BSTh1bFQteHlxdlc1a3M4NGwzMkwwVHQ2ZXNoVXItc21rUDM0cUQyV2hWRjgyYS1SbVJnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Instagram · indiapost_dop"
+    },
+    {
+      "position": 8,
+      "title": "India Post launches Dak Sewa app for parcel tracking and ...",
+      "link": "https://www.linkedin.com/posts/saritha-valthati-a15397222_indiapost-daksewaapp-digitalindia-activity-7392214779454582784-L59C",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStQEB6zswFYgZjcZLoAjJgaH9RClTWYk2fm4tw-kTNwaoG0ph2KMQehseAufz173YmFjdGV_fzYq325QSyNodQXCvb3LFJ40szkqSC7V3avHAWvC0ZIGfmU5pMkugthD_VjcwZKdHjCxEVKA92exnEjEDq7ZxiLHKGCNLc1UGYbUBC8wQzvVomti3ZHcNB393KhUvO63dNKDrhYEwFpT0uBkAMzMn1w7dHd1vCqBscFzDnzXARlUf&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQFnoECC8QAQ&uoh=1",
+      "displayed_link": "3 reactions",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "The “Dak Sewa” app has refreshed India Post's digital service suite — letting users book parcels, track consignments, calculate postage, and locate post-offices ...",
+      "snippet_highlighted_words": [
+        "Dak Sewa",
+        "India Post's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The “Dak Sewa” app has refreshed India Post's digital service suite — letting users book parcels, track consignments, calculate postage, and locate post-offices ...",
+          "source_info_link": "https://www.linkedin.com/posts/saritha-valthati-a15397222_indiapost-daksewaapp-digitalindia-activity-7392214779454582784-L59C",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZZZ1pqY1pMb0FqSmdhSDlSQ2xUV1lrMmZtNHR3LWtUTndhb0cwcGgyS01RZWhzZUF1ZnoxNzNZbUZqZEdWX2Z6WXEzMjVRU3lOb2RRWEN2YjNMRko0MHN6a3FTQzdWM2F2SEFXdkMwWklHZm1VNXBNa3VndGhEX1ZqY3daS2RIakN4RVZLQTkyZXhuRWpFRHE3WnhpTEhLR0NOTGMxVUdZYlVCQzh3UXp2Vm9tdGkzWkhjTkIzOTNLaFV2TzYzZE5LRHJoWUV3RnBUMHVCa0FNek1uMXc3ZEhkMXZDcUJzY0Z6RG56WEFSbFVmEgQaAggAGqgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIQGCAAQABgAIAAqFwoFaW5kaWEV8E-VQBoJaW5kaWFwb3N0KiUKBHBvc3QVynPOQBoJaW5kaWFwb3N0GgZwb3N0YWwaBXBvc3RzKjUKBnJlYWxseRUAAAAAGghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoEZmFrZSorCgdydW5uaW5nFQAAAAAaA3J1bhoGcnVubmluGgRydW5zGgh0cmFja2luZyoUCgNkYWsV5waFQBoIaXY7cDtkYWsqIwoEc2V2YRUAAAAAGgVzZXZhaxoEc2V3YRoJaXY7cDtzZXZhMoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZZZ1pqY1pMb0FqSmdhSDlSQ2xUV1lrMmZtNHR3LWtUTndhb0cwcGgyS01RZWhzZUF1ZnoxNzNZbUZqZEdWX2Z6WXEzMjVRU3lOb2RRWEN2YjNMRko0MHN6a3FTQzdWM2F2SEFXdkMwWklHZm1VNXBNa3VndGhEX1ZqY3daS2RIakN4RVZLQTkyZXhuRWpFRHE3WnhpTEhLR0NOTGMxVUdZYlVCQzh3UXp2Vm9tdGkzWkhjTkIzOTNLaFV2TzYzZE5LRHJoWUV3RnBUMHVCa0FNek1uMXc3ZEhkMXZDcUJzY0Z6RG56WEFSbFVmOlI8Yj5JbmRpYSBQb3N0PC9iPiBsYXVuY2hlcyA8Yj5EYWsgU2V3YTwvYj4gYXBwIGZvciBwYXJjZWwgPGI-dHJhY2tpbmc8L2I-IGFuZCBtb3JlQsEBVGhlIOKAnDxiPkRhayBTZXdhPC9iPuKAnSBhcHAgaGFzIHJlZnJlc2hlZCA8Yj5JbmRpYSBQb3N0JiMzOTtzPC9iPiBkaWdpdGFsIHNlcnZpY2Ugc3VpdGUg4oCUIGxldHRpbmcgdXNlcnMgYm9vayBwYXJjZWxzLCB0cmFjayBjb25zaWdubWVudHMsIGNhbGN1bGF0ZSBwb3N0YWdlLCBhbmQgbG9jYXRlIHBvc3Qtb2ZmaWNlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZZZ1pqY1pMb0FqSmdhSDlSQ2xUV1lrMmZtNHR3LWtUTndhb0cwcGgyS01RZWhzZUF1ZnoxNzNZbUZqZEdWX2Z6WXEzMjVRU3lOb2RRWEN2YjNMRko0MHN6a3FTQzdWM2F2SEFXdkMwWklHZm1VNXBNa3VndGhEX1ZqY3daS2RIakN4RVZLQTkyZXhuRWpFRHE3WnhpTEhLR0NOTGMxVUdZYlVCQzh3UXp2Vm9tdGkzWkhjTkIzOTNLaFV2TzYzZE5LRHJoWUV3RnBUMHVCa0FNek1uMXc3ZEhkMXZDcUJzY0Z6RG56WEFSbFVmEgQaAggAGqgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIQGCAAQABgAIAAqFwoFaW5kaWEV8E-VQBoJaW5kaWFwb3N0KiUKBHBvc3QVynPOQBoJaW5kaWFwb3N0GgZwb3N0YWwaBXBvc3RzKjUKBnJlYWxseRUAAAAAGghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoEZmFrZSorCgdydW5uaW5nFQAAAAAaA3J1bhoGcnVubmluGgRydW5zGgh0cmFja2luZyoUCgNkYWsV5waFQBoIaXY7cDtkYWsqIwoEc2V2YRUAAAAAGgVzZXZhaxoEc2V3YRoJaXY7cDtzZXZhMoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZZZ1pqY1pMb0FqSmdhSDlSQ2xUV1lrMmZtNHR3LWtUTndhb0cwcGgyS01RZWhzZUF1ZnoxNzNZbUZqZEdWX2Z6WXEzMjVRU3lOb2RRWEN2YjNMRko0MHN6a3FTQzdWM2F2SEFXdkMwWklHZm1VNXBNa3VndGhEX1ZqY3daS2RIakN4RVZLQTkyZXhuRWpFRHE3WnhpTEhLR0NOTGMxVUdZYlVCQzh3UXp2Vm9tdGkzWkhjTkIzOTNLaFV2TzYzZE5LRHJoWUV3RnBUMHVCa0FNek1uMXc3ZEhkMXZDcUJzY0Z6RG56WEFSbFVmOlI8Yj5JbmRpYSBQb3N0PC9iPiBsYXVuY2hlcyA8Yj5EYWsgU2V3YTwvYj4gYXBwIGZvciBwYXJjZWwgPGI-dHJhY2tpbmc8L2I-IGFuZCBtb3JlQsEBVGhlIOKAnDxiPkRhayBTZXdhPC9iPuKAnSBhcHAgaGFzIHJlZnJlc2hlZCA8Yj5JbmRpYSBQb3N0JiMzOTtzPC9iPiBkaWdpdGFsIHNlcnZpY2Ugc3VpdGUg4oCUIGxldHRpbmcgdXNlcnMgYm9vayBwYXJjZWxzLCB0cmFjayBjb25zaWdubWVudHMsIGNhbGN1bGF0ZSBwb3N0YWdlLCBhbmQgbG9jYXRlIHBvc3Qtb2ZmaWNlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "LinkedIn · Saritha Valthati",
+      "read_more_link": "https://www.linkedin.com/posts/saritha-valthati-a15397222_indiapost-daksewaapp-digitalindia-activity-7392214779454582784-L59C#:~:text=The%20%E2%80%9CDak%20Sewa%E2%80%9D%20app%20has,%E2%80%94%20all%20from%20their%20mobile."
+    },
+    {
+      "position": 9,
+      "title": "National Postal Week 2025 – Technology Day Celebrating ...",
+      "link": "https://www.facebook.com/keralapostalcircle/videos/-national-postal-week-2025-technology-day-celebrating-the-digital-transformation/2223908441447602/",
+      "displayed_link": "10+ reactions · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab22a4fae678c084cbf100a/images/mu9MU03x6OY4qAytjuBoPa139pnuSo_V0stt_uaLMv4.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "This tutorial explains the recruitment process for 23,757 Gramin Dak Sevak (GDS) positions in India for July 2026. It guides viewers on how to navigate the ...",
+      "duration": "0:24",
+      "about_this_result": {
+        "source": {
+          "description": "This tutorial explains the recruitment process for 23,757 Gramin Dak Sevak (GDS) positions in India for July 2026. It guides viewers on how to navigate the ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZSdVhHVHBGM0hHQUhCME0wSGJSNXNWZHlELURvMVRqT01zbURUT2tYX2JxVjAwbFd3cm4tcmRibGRCYjRLVGJ4NzM3UmFYc0lnUlJzYUNWRUJjMkxJUE0xQmtPSy1TMlV6azJOQlJzQ2d5N1BocDRVYUREUEEwamZldDY0cUFQbXBkMklmVnh2VUF1NHUtTXZDQzVaYy15ZTRuczJsTl92SFdmTjJHczBjajdzNlpTMFJrbVlka2R2b012NElRR2ZJVG5UeTRVX3hCS1VqMWhxQmZKeFl4REpBU2had193eElodzRabE9NclBVTnlwLWRmbzhCR0tDczBrVWpwTXRjVFE0TXpvbFhJM0FrURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZSdVhHVHBGM0hHQUhCME0wSGJSNXNWZHlELURvMVRqT01zbURUT2tYX2JxVjAwbFd3cm4tcmRibGRCYjRLVGJ4NzM3UmFYc0lnUlJzYUNWRUJjMkxJUE0xQmtPSy1TMlV6azJOQlJzQ2d5N1BocDRVYUREUEEwamZldDY0cUFQbXBkMklmVnh2VUF1NHUtTXZDQzVaYy15ZTRuczJsTl92SFdmTjJHczBjajdzNlpTMFJrbVlka2R2b012NElRR2ZJVG5UeTRVX3hCS1VqMWhxQmZKeFl4REpBU2had193eElodzRabE9NclBVTnlwLWRmbzhCR0tDczBrVWpwTXRjVFE0TXpvbFhJM0FrURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Facebook · Kerala Postal Circle"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=10&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8NMDegQIKxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=10&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAE",
+      "3": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=20&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAG",
+      "4": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=30&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAI",
+      "5": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=40&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAK",
+      "6": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=50&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAM",
+      "7": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=60&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAO",
+      "8": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=70&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAQ",
+      "9": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=80&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAS",
+      "10": "https://www.google.com/search?q=india+post+really+running+dak+seva+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=UCqyasfJCpqlqtsP-dnWiAo&start=90&sa=N&sstk=AS6-VmI9P06E5fABiyCXxjlIRHKISWaJMfaOQfCsZdHR7Gr5blv41oiIJRHFu8jBcRtg3pyiznTI8z2O9U6gfgHkwy9SqYRQxDmteA&ved=2ahUKEwjHsZex0YGXAxWakmoFHfmsFaEQ8tMDegQIKxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+post+really+running+dak+seva+before%3A2026-01-01&start=90"
+    }
+  }
+}

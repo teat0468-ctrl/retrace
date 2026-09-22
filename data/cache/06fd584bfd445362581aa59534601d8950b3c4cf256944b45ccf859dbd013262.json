@@ -1,0 +1,504 @@
+{
+  "search_metadata": {
+    "id": "6ab22deb2088afef68ef4cb0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zo3xILin_6iSLy260yXeV8Uq5VmyLiDfZG9umiU_yBc/6ab22deb2088afef68ef4cb0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zo3xILin_6iSLy260yXeV8Uq5VmyLiDfZG9umiU_yBc/6ab22deb2088afef68ef4cb0.md",
+    "created_at": "2026-09-22 07:27:39 UTC",
+    "processed_at": "2026-09-22 07:27:39 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?q=newly+formed+century+asteroid+crater+found&hl=en&num=10",
+    "raw_html_file": "https://serpapi.com/searches/zo3xILin_6iSLy260yXeV8Uq5VmyLiDfZG9umiU_yBc/6ab22deb2088afef68ef4cb0.html",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "newly formed century asteroid crater found",
+    "hl": "en",
+    "num": "10"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 21600,
+    "time_taken_displayed": 0.18,
+    "query_displayed": "newly formed century asteroid crater found"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Meteorite craters and impact structures of the Earth",
+      "result_id": "1e7AeoiN9SMJ",
+      "type": "Book",
+      "link": "https://books.google.com/books?hl=en&lr=&id=8EmKCdNUvN0C&oi=fnd&pg=PA1&dq=newly+formed+century+asteroid+crater+found&ots=P3yAa43GGG&sig=UyOD3O7eAbDUE7vLcCHdFry3Qv0",
+      "snippet": "… They range in age from recent craters formed this century to the … the Haviland crater itself was recognized relatively recently, … The largest meteorite fragment found in the crater was 39 …",
+      "publication_info": {
+        "summary": "PW Hodge - 1994 - books.google.com",
+        "authors": [
+          {
+            "name": "PW Hodge"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1e7AeoiN9SMJ",
+        "cited_by": {
+          "total": 159,
+          "link": "https://scholar.google.com/scholar?cites=2591132777936121557&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "2591132777936121557",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2591132777936121557&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:1e7AeoiN9SMJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A1e7AeoiN9SMJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=2591132777936121557&hl=en&as_sdt=0,5",
+          "cluster_id": "2591132777936121557",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2591132777936121557&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Meteorite Impact Suggested by Shatter Cones in Rock: Three cryptoexplosion structures yield new evidence of natural hypervelocity shocks.",
+      "result_id": "7mRSTYUUqtQJ",
+      "link": "https://www.science.org/doi/abs/10.1126/science.131.3416.1781",
+      "snippet": "… We discovered some shatter cones in a thin bed along a new road cut not far from the struc… formed at Meteor Crater. Only crater-forming meteorites of somewhat larger size than the …",
+      "publication_info": {
+        "summary": "RS Dietz - Science, 1960 - science.org",
+        "authors": [
+          {
+            "name": "RS Dietz"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7mRSTYUUqtQJ",
+        "cited_by": {
+          "total": 149,
+          "link": "https://scholar.google.com/scholar?cites=15324083244841985262&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "15324083244841985262",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15324083244841985262&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7mRSTYUUqtQJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A7mRSTYUUqtQJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=15324083244841985262&hl=en&as_sdt=0,5",
+          "cluster_id": "15324083244841985262",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=15324083244841985262&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "T. rex and the Crater of Doom",
+      "result_id": "7yrfI-mi8YQJ",
+      "link": "https://www.torrossa.com/gs/resourceProxy?an=5643015&publisher=FZO137",
+      "snippet": "… discovered one on its way is not clear, but there have been a number of proposals for deflecting asteroids … At Gubbio, and in each new outcrop we found, there was a layer of clay about …",
+      "publication_info": {
+        "summary": "W Alvarez - 2013 - torrossa.com",
+        "authors": [
+          {
+            "name": "W Alvarez"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7yrfI-mi8YQJ",
+        "cited_by": {
+          "total": 534,
+          "link": "https://scholar.google.com/scholar?cites=9579617004606663407&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "9579617004606663407",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9579617004606663407&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7yrfI-mi8YQJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A7yrfI-mi8YQJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cluster=9579617004606663407&hl=en&as_sdt=0,5",
+          "cluster_id": "9579617004606663407",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=9579617004606663407&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Meteor crater",
+      "result_id": "YCT07PKAaRkJ",
+      "type": "Book",
+      "link": "https://books.google.com/books?hl=en&lr=&id=_Sh4DAAAQBAJ&oi=fnd&pg=PA6&dq=newly+formed+century+asteroid+crater+found&ots=2prKGLuWz8&sig=p8sh-lZu4edE_JsqVQlLfOKZkG0",
+      "snippet": "… This controversy would last for almost a century, until 1960, … , located in the high desert adjacent to the Meteor Crater. The rest of … the meteorite impact, steam expanded the newly formed …",
+      "publication_info": {
+        "summary": "NF Davis - 2016 - books.google.com",
+        "authors": [
+          {
+            "name": "NF Davis"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YCT07PKAaRkJ",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=1831136504348681312&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "1831136504348681312",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1831136504348681312&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:YCT07PKAaRkJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AYCT07PKAaRkJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=1831136504348681312&hl=en&as_sdt=0,5",
+          "cluster_id": "1831136504348681312",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1831136504348681312&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "The cratering history of asteroid (21) Lutetia",
+      "result_id": "Sf-tl7VyYDsJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0032063311003217",
+      "snippet": "… crater saturation occurs (namely, the newly formed craters erase previous ones leaving the overall crater … section, Achaia crater SFD is characterized by a flexure point located at 4 < D < …",
+      "publication_info": {
+        "summary": "S Marchi, M Massironi, JB Vincent, A Morbidelli… - Planetary and Space …, 2012 - Elsevier",
+        "authors": [
+          {
+            "name": "S Marchi",
+            "link": "https://scholar.google.com/citations?user=VqhiSlsAAAAJ&hl=en&oi=sra",
+            "author_id": "VqhiSlsAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VqhiSlsAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "M Massironi"
+          },
+          {
+            "name": "JB Vincent",
+            "link": "https://scholar.google.com/citations?user=Il0ZfvsAAAAJ&hl=en&oi=sra",
+            "author_id": "Il0ZfvsAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Il0ZfvsAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Morbidelli"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/1111.3628"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Sf-tl7VyYDsJ",
+        "cited_by": {
+          "total": 58,
+          "link": "https://scholar.google.com/scholar?cites=4278545770261380937&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "4278545770261380937",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4278545770261380937&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Sf-tl7VyYDsJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ASf-tl7VyYDsJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cluster=4278545770261380937&hl=en&as_sdt=0,5",
+          "cluster_id": "4278545770261380937",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4278545770261380937&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Asteroid search leakage radiation and SETI",
+      "result_id": "V5-qwziev7MJ",
+      "link": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2704/0000/Asteroid-search-leakage-radiation-and-SETI/10.1117/12.243442.short",
+      "snippet": "… Barrington Meteor crater in Arizona, the recently discovered … ages is an anomaly discovered in this century. Its cause … for asteroids and comets will constitute a powerful new form …",
+      "publication_info": {
+        "summary": "CT Helmers Jr - … for Extraterrestrial Intelligence (SETI) in the …, 1996 - spiedigitallibrary.org",
+        "authors": [
+          {
+            "name": "CT Helmers Jr"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=V5-qwziev7MJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=12952245019978932055&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "12952245019978932055",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12952245019978932055&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:V5-qwziev7MJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AV5-qwziev7MJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12952245019978932055&hl=en&as_sdt=0,5",
+          "cluster_id": "12952245019978932055",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12952245019978932055&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Asteroid and comet flux in the neighborhood of Earth",
+      "result_id": "0uaUkGamRgQJ",
+      "link": "https://pubs.geoscienceworld.org/gsa/books/edited-volume/388/chapter/3797391",
+      "snippet": "… Among 51 new Earth-crossing asteroids found in the last … of a comet the size of IRAS-Araki-Alcock in the present century would … About half the comet impacts may have occurred during …",
+      "publication_info": {
+        "summary": "EM Shoemaker, RF Wolfe, CS Shoemaker - 1990 - pubs.geoscienceworld.org",
+        "authors": [
+          {
+            "name": "EM Shoemaker"
+          },
+          {
+            "name": "RF Wolfe"
+          },
+          {
+            "name": "CS Shoemaker"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0uaUkGamRgQJ",
+        "cited_by": {
+          "total": 260,
+          "link": "https://scholar.google.com/scholar?cites=308116583964010194&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "308116583964010194",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=308116583964010194&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0uaUkGamRgQJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A0uaUkGamRgQJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=308116583964010194&hl=en&as_sdt=0,5",
+          "cluster_id": "308116583964010194",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=308116583964010194&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "An overview of the asteroids: The asteroids III perspective",
+      "result_id": "w-PFV9UguwoJ",
+      "link": "https://books.google.com/books?hl=en&lr=&id=fBA8EAAAQBAJ&oi=fnd&pg=PA3&dq=newly+formed+century+asteroid+crater+found&ots=X9_23zoPVv&sig=nrIGEczB6MOdRGasbAVCnkuM0jk",
+      "snippet": "… This new century begins with asteroids no longer being … ; some C and D asteroids can be found in the inner main belt… phase of crater formation on a rocky asteroid is dominated by …",
+      "publication_info": {
+        "summary": "WF Bottke Jr, A Cellino, P Paolicchi, RP Binzel - Asteroids III, 2002 - books.google.com",
+        "authors": [
+          {
+            "name": "WF Bottke Jr",
+            "link": "https://scholar.google.com/citations?user=7-65k-oAAAAJ&hl=en&oi=sra",
+            "author_id": "7-65k-oAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7-65k-oAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Cellino",
+            "link": "https://scholar.google.com/citations?user=inlKzmQAAAAJ&hl=en&oi=sra",
+            "author_id": "inlKzmQAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=inlKzmQAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "P Paolicchi"
+          },
+          {
+            "name": "RP Binzel",
+            "link": "https://scholar.google.com/citations?user=PzbmZ9oAAAAJ&hl=en&oi=sra",
+            "author_id": "PzbmZ9oAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PzbmZ9oAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "swri.edu",
+          "file_format": "PDF",
+          "link": "https://www2.boulder.swri.edu/~bottke/Reprints/Bottke-etal_2002_AstIII_Introduction.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=w-PFV9UguwoJ",
+        "cited_by": {
+          "total": 84,
+          "link": "https://scholar.google.com/scholar?cites=773247861696881603&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "773247861696881603",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=773247861696881603&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:w-PFV9UguwoJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3Aw-PFV9UguwoJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=773247861696881603&hl=en&as_sdt=0,5",
+          "cluster_id": "773247861696881603",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=773247861696881603&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "The cratering history of asteroid (2867) Steins",
+      "result_id": "CZGhdMpzKnAJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0032063310000905",
+      "snippet": "… describing the formation and evolution of main belt asteroids, that … Other uncertain crater-like features are located close to the … an equilibrium point where new craters erase old ones …",
+      "publication_info": {
+        "summary": "S Marchi, C Barbieri, M Küppers, F Marzari… - Planetary and Space …, 2010 - Elsevier",
+        "authors": [
+          {
+            "name": "S Marchi",
+            "link": "https://scholar.google.com/citations?user=VqhiSlsAAAAJ&hl=en&oi=sra",
+            "author_id": "VqhiSlsAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VqhiSlsAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "C Barbieri"
+          },
+          {
+            "name": "M Küppers"
+          },
+          {
+            "name": "F Marzari"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/1003.5655"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CZGhdMpzKnAJ",
+        "cited_by": {
+          "total": 60,
+          "link": "https://scholar.google.com/scholar?cites=8082399794647109897&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "8082399794647109897",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8082399794647109897&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:CZGhdMpzKnAJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ACZGhdMpzKnAJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cluster=8082399794647109897&hl=en&as_sdt=0,5",
+          "cluster_id": "8082399794647109897",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8082399794647109897&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "Impacts from space: the implications for uniformitarian geology",
+      "result_id": "HAqL8UgISKwJ",
+      "link": "https://www.lyellcollection.org/doi/abs/10.1144/GSL.SP.1999.150.01.06",
+      "snippet": "… More recently, as evidence has accumulated for the KT … he found no ash, lava, or hot spring deposits in or near the crater… -old Meteor Crater, also called the Barringer Meteorite Crater, …",
+      "publication_info": {
+        "summary": "UB Marvin - Geological Society, London, Special Publications, 1999 - lyellcollection.org",
+        "authors": [
+          {
+            "name": "UB Marvin"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HAqL8UgISKwJ",
+        "cited_by": {
+          "total": 29,
+          "link": "https://scholar.google.com/scholar?cites=12414181482229860892&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "12414181482229860892",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12414181482229860892&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:HAqL8UgISKwJ:scholar.google.com/&scioq=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AHAqL8UgISKwJ%3Ascholar.google.com%2F"
+      }
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "campo del cielo meteorite craters",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=1&q=campo+del+cielo+meteorite+craters&qst=br"
+    },
+    {
+      "query": "impact structures meteorite craters",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=2&q=impact+structures+meteorite+craters&qst=br"
+    },
+    {
+      "query": "meteor crater low velocity impact",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=3&q=meteor+crater+low+velocity+impact&qst=br"
+    },
+    {
+      "query": "fifth century meteorite impact",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=4&q=fifth+century+meteorite+impact&qst=br"
+    },
+    {
+      "query": "formation of lunar craters last billion",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=5&q=formation+of+lunar+craters+last+billion&qst=br"
+    },
+    {
+      "query": "probable meteorite impact crater",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=6&q=probable+meteorite+impact+crater&qst=br"
+    },
+    {
+      "query": "geological importance meteorite impact craters",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=7&q=geological+importance+meteorite+impact+craters&qst=br"
+    },
+    {
+      "query": "physical properties craters on asteroid",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=8&q=physical+properties+craters+on+asteroid&qst=br"
+    },
+    {
+      "query": "largest crater asteroid lutetia",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=9&q=largest+crater+asteroid+lutetia&qst=br"
+    },
+    {
+      "query": "large crater asteroid steins",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=10&q=large+crater+asteroid+steins&qst=br"
+    },
+    {
+      "query": "core formation differentiated asteroids",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=11&q=core+formation+differentiated+asteroids&qst=br"
+    },
+    {
+      "query": "formation of lunar craters object population",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=12&q=formation+of+lunar+craters+object+population&qst=br"
+    },
+    {
+      "query": "central sweden meteorite impact crater",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=13&q=central+sweden+meteorite+impact+crater&qst=br"
+    },
+    {
+      "query": "formation of lunar craters billion years",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=14&q=formation+of+lunar+craters+billion+years&qst=br"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "3": "https://scholar.google.com/scholar?start=20&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "4": "https://scholar.google.com/scholar?start=30&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "5": "https://scholar.google.com/scholar?start=40&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "6": "https://scholar.google.com/scholar?start=50&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "7": "https://scholar.google.com/scholar?start=60&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "8": "https://scholar.google.com/scholar?start=70&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "9": "https://scholar.google.com/scholar?start=80&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5",
+      "10": "https://scholar.google.com/scholar?start=90&q=newly+formed+century+asteroid+crater+found&hl=en&as_sdt=0,5"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=40",
+      "6": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=50",
+      "7": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=60",
+      "8": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=70",
+      "9": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=80",
+      "10": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=newly+formed+century+asteroid+crater+found&start=90"
+    }
+  }
+}

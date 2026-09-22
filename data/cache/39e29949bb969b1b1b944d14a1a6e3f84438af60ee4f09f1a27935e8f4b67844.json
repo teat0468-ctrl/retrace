@@ -1,0 +1,301 @@
+{
+  "search_metadata": {
+    "id": "6ab23030217ade3e9923532a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a9SFK6BAWUV4zeISaFKjnPmOm6Px7RXuYhluzXj6kjY/6ab23030217ade3e9923532a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/a9SFK6BAWUV4zeISaFKjnPmOm6Px7RXuYhluzXj6kjY/6ab23030217ade3e9923532a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a9SFK6BAWUV4zeISaFKjnPmOm6Px7RXuYhluzXj6kjY/6ab23030217ade3e9923532a.json_with_pixel_position",
+    "created_at": "2026-09-22 07:37:20 UTC",
+    "processed_at": "2026-09-22 07:37:20 UTC",
+    "google_url": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+before%3A2026-01-01&oq=leaked+documents+prove+nasa+faked+moon+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a9SFK6BAWUV4zeISaFKjnPmOm6Px7RXuYhluzXj6kjY/6ab23030217ade3e9923532a.html",
+    "total_time_taken": 0.35
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "leaked documents prove nasa faked moon before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "leaked documents prove nasa faked moon before:2026-01-01",
+    "total_results": 27,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "bBZTRXiczVXZcuI4FP2A-Y7hhQQvmASocnXJsglmawwhNLxQRpbFYltgOzjw1p8yVfNV8zUjG8wWnKT7YWpULmu7uovuPTo__3bm3vKfP_6aheEqqHJcFEUFQilxcAFRlzODrYc4mzqBj2bfAvrqIzy3ZDTzqYtz241czKFA5nN4LrdVuDVfi-16x17OW-2uZ7-OIzDKJSrkydQM8IJZeFsE3IRjv-WfRZVNCkEBe4VN97loqGTtG7Qg8mKx8J0zXSYA_rumz-K_AZZA_0AolvhKIwRoADROCxAmnXYmEk8IUwnjRRiPb9vU9h714N5B0FW7OxUBoB5d-Z7pBzx3F0YHy1FiT4ktfhDsDW3Jv3aYadmCIDMacqECtM-2MvXBK0HmugFgV4qVpYcuDhNgnMzr8eahkhAB5TpVVAUMsj1nB5o6KC2BoX2WbEN7kWBqqjV6YiucRVjh8tzUZ53AzdEMJQM_iOsZPld4Wq-0x2IXlXf1H6IwkxovZYVvmTXhUXojHJoyOYeaFrYmswn_LZkLolDiK8XH8l0CJBQckRScI-k5qvMzpRNSaBRaBUVIYQSPeYaX_mtsDm-VgAIPovD9HjzdNgRHzcS8ENpnmJUuAWMNXOaHVvbXrKQL9QCASDsTObkUL76H0bVrMYz2KSXJ8FBm587roK-fFJ8lVr1Rqe-iZnYP4DHUd4KXChTQWIJTwFdvGAGKAnVD2d_QWkockk5XkfpnXDkSvw_sodDT206D2rf2KR6200xwoUKoML10BXo6u0LjeGB-1Kr0rp4z5TYGWXpAC34C-KymfOXFNFK8XJX_OWye1rY5GDWpcP84X0I-HNVf_JHNOxEIotswoe70FxgH_a-AlPKRk6xnA8n4EpAI0bL5aD888VEMJEgIyQCStgfSez6KUpETH11HDftnQPqEj34VSNqHQEpBehNItVtA0rKAlPLRBZD6F3yk3OajI5B-h4-U3-SjBFd4312S0-uCZJJUDY_G9mJyP13YAnC6DWGlPI-Gg8am0v2cpGw3rLqm5dxN5lZVERvh1rqbsAVaxVZuLTvYXGIrb1H06mIvDPIrn25w3jMDM28nWy6lXn6KberjKoPnwz0vsC_nOj6VeVOq9Gf4pfzQX6njcqnXFLz6Smx1hv5yXVoNyuVppeRJj53B_brZsB1_5e08d1fahetlOO-vNk-qiLQ1xA8DsSLB-Zs07ujThdBu6-F6uNiiH2PdbPUjS-hbNWIHO6SJix7Wey8VQR83hIk38moTja7L_W1DcD1AEr8CeSiKjSd2YDvkc66PZFYdEgEdAwwJQACOgMFyMzAp6yNgPD2wdCm5AJkTHGxk_FgRJEEsIrs4Faa4nHNJuF3JkpQLPF8W_gUkdEnV",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bBZTRXiczVXZcuI4FP2A-Y7hhQQvmASocnXJsglmawwhNLxQRpbFYltgOzjw1p8yVfNV8zUjG8wWnKT7YWpULmu7uovuPTo__3bm3vKfP_6aheEqqHJcFEUFQilxcAFRlzODrYc4mzqBj2bfAvrqIzy3ZDTzqYtz241czKFA5nN4LrdVuDVfi-16x17OW-2uZ7-OIzDKJSrkydQM8IJZeFsE3IRjv-WfRZVNCkEBe4VN97loqGTtG7Qg8mKx8J0zXSYA_rumz-K_AZZA_0AolvhKIwRoADROCxAmnXYmEk8IUwnjRRiPb9vU9h714N5B0FW7OxUBoB5d-Z7pBzx3F0YHy1FiT4ktfhDsDW3Jv3aYadmCIDMacqECtM-2MvXBK0HmugFgV4qVpYcuDhNgnMzr8eahkhAB5TpVVAUMsj1nB5o6KC2BoX2WbEN7kWBqqjV6YiucRVjh8tzUZ53AzdEMJQM_iOsZPld4Wq-0x2IXlXf1H6IwkxovZYVvmTXhUXojHJoyOYeaFrYmswn_LZkLolDiK8XH8l0CJBQckRScI-k5qvMzpRNSaBRaBUVIYQSPeYaX_mtsDm-VgAIPovD9HjzdNgRHzcS8ENpnmJUuAWMNXOaHVvbXrKQL9QCASDsTObkUL76H0bVrMYz2KSXJ8FBm587roK-fFJ8lVr1Rqe-iZnYP4DHUd4KXChTQWIJTwFdvGAGKAnVD2d_QWkockk5XkfpnXDkSvw_sodDT206D2rf2KR6200xwoUKoML10BXo6u0LjeGB-1Kr0rp4z5TYGWXpAC34C-KymfOXFNFK8XJX_OWye1rY5GDWpcP84X0I-HNVf_JHNOxEIotswoe70FxgH_a-AlPKRk6xnA8n4EpAI0bL5aD888VEMJEgIyQCStgfSez6KUpETH11HDftnQPqEj34VSNqHQEpBehNItVtA0rKAlPLRBZD6F3yk3OajI5B-h4-U3-SjBFd4312S0-uCZJJUDY_G9mJyP13YAnC6DWGlPI-Gg8am0v2cpGw3rLqm5dxN5lZVERvh1rqbsAVaxVZuLTvYXGIrb1H06mIvDPIrn25w3jMDM28nWy6lXn6KberjKoPnwz0vsC_nOj6VeVOq9Gf4pfzQX6njcqnXFLz6Smx1hv5yXVoNyuVppeRJj53B_brZsB1_5e08d1fahetlOO-vNk-qiLQ1xA8DsSLB-Zs07ujThdBu6-F6uNiiH2PdbPUjS-hbNWIHO6SJix7Wey8VQR83hIk38moTja7L_W1DcD1AEr8CeSiKjSd2YDvkc66PZFYdEgEdAwwJQACOgMFyMzAp6yNgPD2wdCm5AJkTHGxk_FgRJEEsIrs4Faa4nHNJuF3JkpQLPF8W_gUkdEnV"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Prove it - Wisconsin DNR",
+      "link": "https://dnr.wisconsin.gov/GoWild/conservationCard.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVEEPXlDCCMUeFDVWs0QBCROZE5vIwPTaXVO1E8tWm5oy0jGi0HoIG-_hp9fX6uUQ9WWQ9mhroTfPCA169qgj4NNpOHA7a3Rrcvlzb6yTER3VMwAm0gfuY1ujd0FL40f6f7kegRwGvQT3i&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://dnr.wisconsin.gov › GoWild › conservationCard",
+      "favicon": "https://serpapi.com/images/i/UklGRkgCAABXRUJQVlA4IDwCAADwCQCdASogACAAAsBMJbACdM5M6boM4EGA2yl2Z-gB0rH-qrWfQZ-YT338xXAywOG_vBozfO-zn_QuoefrscX9tOhr2M_aQyXcx5Kl4rc7fibHPnMQNKeAAP76rXjBXhi-Kucu2yn5WbU7yG-UiMK7CuKueIpBVRdY7dfoQLPX0BauANtv0jm8ZGn13-tYeZGY08HCtwl0WmYnR58_ceBJN3oPwDeWE_ryWQShWVNU21Zkp8VBEe7pmMHsuuwW7fWA7mBbLZr1SYDE9esxoNs6ENfxHwHCfv_6a_vbDQZKBvwR416-caJ-NKOuNC39bBPHgDon5NiNRxDZnmGPfUMAQ8M1iVQO7fsWuIyMo5Oso_U8UniZ13z6FrwmXlB2ENMTFdw1awYm9WT6Hr1y2_0yMkle8g-v2Rlu1UPAxnW6WEFBiLKbnJR0mNJUOScdZ7pfk7nbNafbBg9zWHL2jS6mz8J_mcNUU1ycAKut3_mC9lbf6hfYPijTWSMF38xyIZMe5NdWGjheqY42ACZc20vu-1BAXNL9HE7B73PPN0YF_wH7yazvnBfA-DcxUfJI42R3onNN12sOgii5ySS3yoqJFJRO-r5iWHAR-_3JBJu1n0RkrxiqNUDsHHsth9kXooDIRszvlxrzHV8Mftqf6wKzJ1uW1ox-23WIXw0yIcd1VN6gvyb42_idUVFAMk6LQyZqG17Ns9yn7xdqt6LNPPccOAW7hmxzwpH0WuIRlsC2UjG_ZrJ4QjI-T8tAAA.webp",
+      "snippet": "Provide one of the following documents: WI DOT issued Driver's License, WI DOT issued State ID card, Tribal Identification Card*, voter registration showing ...",
+      "snippet_highlighted_words": [
+        "documents"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Provide one of the following documents: WI DOT issued Driver's License, WI DOT issued State ID card, Tribal Identification Card*, voter registration showing ...",
+          "source_info_link": "https://dnr.wisconsin.gov/GoWild/conservationCard.html",
+          "icon": "https://serpapi.com/images/i/UklGRkgCAABXRUJQVlA4IDwCAADwCQCdASogACAAAsBMJbACdM5M6boM4EGA2yl2Z-gB0rH-qrWfQZ-YT338xXAywOG_vBozfO-zn_QuoefrscX9tOhr2M_aQyXcx5Kl4rc7fibHPnMQNKeAAP76rXjBXhi-Kucu2yn5WbU7yG-UiMK7CuKueIpBVRdY7dfoQLPX0BauANtv0jm8ZGn13-tYeZGY08HCtwl0WmYnR58_ceBJN3oPwDeWE_ryWQShWVNU21Zkp8VBEe7pmMHsuuwW7fWA7mBbLZr1SYDE9esxoNs6ENfxHwHCfv_6a_vbDQZKBvwR416-caJ-NKOuNC39bBPHgDon5NiNRxDZnmGPfUMAQ8M1iVQO7fsWuIyMo5Oso_U8UniZ13z6FrwmXlB2ENMTFdw1awYm9WT6Hr1y2_0yMkle8g-v2Rlu1UPAxnW6WEFBiLKbnJR0mNJUOScdZ7pfk7nbNafbBg9zWHL2jS6mz8J_mcNUU1ycAKut3_mC9lbf6hfYPijTWSMF38xyIZMe5NdWGjheqY42ACZc20vu-1BAXNL9HE7B73PPN0YF_wH7yazvnBfA-DcxUfJI42R3onNN12sOgii5ySS3yoqJFJRO-r5iWHAR-_3JBJu1n0RkrxiqNUDsHHsth9kXooDIRszvlxrzHV8Mftqf6wKzJ1uW1ox-23WIXw0yIcd1VN6gvyb42_idUVFAMk6LQyZqG17Ns9yn7xdqt6LNPPccOAW7hmxzwpH0WuIRlsC2UjG_ZrJ4QjI-T8tAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkVFUFhsRENDTVVlRkRWV3MwUUJDUk9aRTV2SXdQVGFYVk8xRTh0V201b3kwakdpMEhvSUctX2hwOWZYNnVVUTlXV1E5bWhyb1RmUENBMTY5cWdqNE5OcE9IQTdhM1JyY3ZsemI2eVRFUjNWTXdBbTBnZnVZMXVqZDBGTDQwZjZmN2tlZ1J3R3ZRVDNpEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkVFUFhsRENDTVVlRkRWV3MwUUJDUk9aRTV2SXdQVGFYVk8xRTh0V201b3kwakdpMEhvSUctX2hwOWZYNnVVUTlXV1E5bWhyb1RmUENBMTY5cWdqNE5OcE9IQTdhM1JyY3ZsemI2eVRFUjNWTXdBbTBnZnVZMXVqZDBGTDQwZjZmN2tlZ1J3R3ZRVDNpEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Wisconsin Department of Natural Resources (.gov)",
+      "read_more_link": "https://dnr.wisconsin.gov/GoWild/conservationCard.html#:~:text=Provide%20one%20of%20the%20following,business%20name)%20and%20Wisconsin%20address."
+    },
+    {
+      "position": 2,
+      "title": "Register on Election Day - Minnesota Secretary Of State",
+      "link": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFUzTL-lU8f3preuPR2VLfMVyIYNwbQJGBX64YDkvDqxIgLXXOUSm3Yy-pPy41bENMwfjiMWktjYu20tZUQ61LL_X6SxjDu00WyVjU6W7xivxpfbkUw1p8McSwGJVN_x1vkr1AiM0wC6vSznrymN9lRU208aY6lYlTXGtLtMFf3Q5b9btuxA&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://www.sos.mn.gov › register-to-vote › register-on-e...",
+      "snippet": "To register at your polling place on Election Day, bring one proof of residence listed below. ① ID with current name and address. Valid Minnesota driver's ...",
+      "snippet_highlighted_words": [
+        "proof"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "To register at your polling place on Election Day, bring one proof of residence listed below. ① ID with current name and address. Valid Minnesota driver's ...",
+          "source_info_link": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZVelRMLWxVOGYzcHJldVBSMlZMZk1WeUlZTndiUUpHQlg2NFlEa3ZEcXhJZ0xYWE9VU20zWXktcFB5NDFiRU5Nd2ZqaU1Xa3RqWXUyMHRaVVE2MUxMX1g2U3hqRHUwMFd5VmpVNlc3eGl2eHBmYmtVdzFwOE1jU3dHSlZOX3gxdmtyMUFpTTB3QzZ2U3pucnltTjlsUlUyMDhhWTZsWWxUWEd0THRNRmYzUTViOWJ0dXhBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZVelRMLWxVOGYzcHJldVBSMlZMZk1WeUlZTndiUUpHQlg2NFlEa3ZEcXhJZ0xYWE9VU20zWXktcFB5NDFiRU5Nd2ZqaU1Xa3RqWXUyMHRaVVE2MUxMX1g2U3hqRHUwMFd5VmpVNlc3eGl2eHBmYmtVdzFwOE1jU3dHSlZOX3gxdmtyMUFpTTB3QzZ2U3pucnltTjlsUlUyMDhhWTZsWWxUWEd0THRNRmYzUTViOWJ0dXhBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Minnesota Secretary Of State (.gov)",
+      "read_more_link": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/#:~:text=To%20register%20at%20your%20polling,receipt%20for%20any%20of%20these."
+    },
+    {
+      "position": 3,
+      "title": "Why people believe they can't draw - and how to prove ...",
+      "link": "https://www.youtube.com/watch?v=7TXEZ4tP06c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVCGIedVf0teA6elxQJkWoier43vwGMK2l8Lfyt_GwgL2f_TibTShfezGUU3g7ojaBJavMyR_MPuT1NmE26kHc8zujpwwyIEpBl5Pd7K9duP6IBx-4KQTwOduEiHJdBg&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "snippet": "Why is it that so many people think they can't draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a ...",
+      "about_this_result": {
+        "source": {
+          "description": "Why is it that so many people think they can't draw? Where did we learn to believe that? Graham Shaw will shatter this illusion – quite literally - in a ...",
+          "source_info_link": "https://www.youtube.com/watch?v=7TXEZ4tP06c",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkNHSWVkVmYwdGVBNmVseFFKa1dvaWVyNDN2d0dNSzJsOExmeXRfR3dnTDJmX1RpYlRTaGZlekdVVTNnN29qYUJKYXZNeVJfTVB1VDFObUUyNmtIYzh6dWpwd3d5SUVwQmw1UGQ3SzlkdVA2SUJ4LTRLUVR3T2R1RWlISmRCZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkNHSWVkVmYwdGVBNmVseFFKa1dvaWVyNDN2d0dNSzJsOExmeXRfR3dnTDJmX1RpYlRTaGZlekdVVTNnN29qYUJKYXZNeVJfTVB1VDFObUUyNmtIYzh6dWpwd3d5SUVwQmw1UGQ3SzlkdVA2SUJ4LTRLUVR3T2R1RWlISmRCZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 4,
+      "title": "TODAY Show - App Store",
+      "link": "https://apps.apple.com/us/app/today-show/id416357699",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVbuzV4l14dXeuxBshAogWVakha2yQZHHsDU5MduPTkTiqu4wBHmsxmnlAtFhPYeLczx0IOsQYa6jux-I9apFWhK2-HwDNNVMnYaEFsyaIv0RctgCn7kvPOy5lX7bpgXP7ylDf9hrB6A&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://apps.apple.com › app › today-show",
+      "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3un4qxhPbgXbNvNBXge66tSokrl0v5vj9zs2XQxuLXXJHGpcPrpAZTYAA_vkIZIGfUiDzFfqAxbyYtEyy4V1a36NON4NOOXkEZqpHUh8XV2KOTwbSs7VKrG9g-uf_xMDGvAFjpofE32yKtDjq__NwADSp3ouZZxwyJttil7cpr2AGu_vAaKHHSxeyT8Pixo1xOXBQlIuHn0XAHdTwaD1RiA6Y0En4KPK3oZ8HMi8Xuwm4TDMLgcvsKybSNlJDh2dMhqMABfTBggSnUMfQsePNAEm3g1Nd9W5aWq6_hKtSJzNLI1iBxRUzo158P75lQSZnr-iqULYihzNO1uRPkhZ1Hgk3rl3jJGfdutfpTJWsJCV7zEJefBnxBh4lTm3ffKmR4tq7GBgAAA.webp",
+      "snippet": "Download the new TODAY app for the best of America's #1 morning show! All day. Anytime. Anywhere. * Catch up with your favorite TODAY hosts, ...",
+      "snippet_highlighted_words": [
+        "show"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Download the new TODAY app for the best of America's #1 morning show! All day. Anytime. Anywhere. * Catch up with your favorite TODAY hosts, ...",
+          "source_info_link": "https://apps.apple.com/us/app/today-show/id416357699",
+          "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3un4qxhPbgXbNvNBXge66tSokrl0v5vj9zs2XQxuLXXJHGpcPrpAZTYAA_vkIZIGfUiDzFfqAxbyYtEyy4V1a36NON4NOOXkEZqpHUh8XV2KOTwbSs7VKrG9g-uf_xMDGvAFjpofE32yKtDjq__NwADSp3ouZZxwyJttil7cpr2AGu_vAaKHHSxeyT8Pixo1xOXBQlIuHn0XAHdTwaD1RiA6Y0En4KPK3oZ8HMi8Xuwm4TDMLgcvsKybSNlJDh2dMhqMABfTBggSnUMfQsePNAEm3g1Nd9W5aWq6_hKtSJzNLI1iBxRUzo158P75lQSZnr-iqULYihzNO1uRPkhZ1Hgk3rl3jJGfdutfpTJWsJCV7zEJefBnxBh4lTm3ffKmR4tq7GBgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmJ1elY0bDE0ZFhldXhCc2hBb2dXVmFraGEyeVFaSEhzRFU1TWR1UFRrVGlxdTR3Qkhtc3htbmxBdEZoUFllTGN6eDBJT3NRWWE2anV4LUk5YXBGV2hLMi1Id0ROTlZNbllhRUZzeWFJdjBSY3RnQ243a3ZQT3k1bFg3YnBnWFA3eWxEZjlockI2QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmJ1elY0bDE0ZFhldXhCc2hBb2dXVmFraGEyeVFaSEhzRFU1TWR1UFRrVGlxdTR3Qkhtc3htbmxBdEZoUFllTGN6eDBJT3NRWWE2anV4LUk5YXBGV2hLMi1Id0ROTlZNbllhRUZzeWFJdjBSY3RnQ243a3ZQT3k1bFg3YnBnWFA3eWxEZjlockI2QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Apple",
+      "read_more_link": "https://apps.apple.com/us/app/today-show/id416357699#:~:text=Download%20the%20new%20TODAY%20app,rest%20of%20the%20TODAY%20team!"
+    },
+    {
+      "position": 5,
+      "title": "How to Prove United States Citizenship | SOS",
+      "link": "https://www.maine.gov/sos/bmv/visit-your-bmv-branch/how-to-prove-united-states-citizenship",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFeyRL8vQzx4tNRogedSwkvvIS7T0lyz1POGi2vNcJvE6zkECrbNt1I3YnVpaU3pHQXKeW3ULNs2oXCUVfayHVCzohKgy4-Vjxo3v7dYgGkkrBLM-0cGXDJfdWaLOSYlEVnBqXDDo5rkLkmqv1mlwRaN-81SOFPfndBrQkY5dGXgEvmTiQpdYeaepJak2ag&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.maine.gov › bmv › visit-your-bmv-branch",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASocABwAPtFAtFooIqgoFAEAGgloAKkja5qAmeDx4tL2XHbJQ1-u5Hz6Qft9WlAwZAAA_vnENGNQn41u5C-DG1uGX3o1ycp5CH_rqKjEaki-iAOqyYrn3x-LhbATcE-LjzbVmGZ2lJoAXztcZFoCsCFsO8v0NoruR_PeGNQ-x-OYlyWRmcN1Zs_buSw1qVzRxy83rPMq7OzqAwCp-1rEcCOy9gxpW24hBTT_1eIifrZu2bVQSbdCE1cQYUUdQ_Tev7xYvazwowhMcdQJWcKdNe9dyORAuixAR0lFssuNytKVgpkAAAA.webp",
+      "snippet": "The following is a list of the most common documents United States citizens and nationals present to satisfy this requirement. Documents must be legible, valid, ...",
+      "snippet_highlighted_words": [
+        "documents",
+        "Documents"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The following is a list of the most common documents United States citizens and nationals present to satisfy this requirement. Documents must be legible, valid, ...",
+          "source_info_link": "https://www.maine.gov/sos/bmv/visit-your-bmv-branch/how-to-prove-united-states-citizenship",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASocABwAPtFAtFooIqgoFAEAGgloAKkja5qAmeDx4tL2XHbJQ1-u5Hz6Qft9WlAwZAAA_vnENGNQn41u5C-DG1uGX3o1ycp5CH_rqKjEaki-iAOqyYrn3x-LhbATcE-LjzbVmGZ2lJoAXztcZFoCsCFsO8v0NoruR_PeGNQ-x-OYlyWRmcN1Zs_buSw1qVzRxy83rPMq7OzqAwCp-1rEcCOy9gxpW24hBTT_1eIifrZu2bVQSbdCE1cQYUUdQ_Tev7xYvazwowhMcdQJWcKdNe9dyORAuixAR0lFssuNytKVgpkAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZleVJMOHZReng0dE5Sb2dlZFN3a3Z2SVM3VDBseXoxUE9HaTJ2TmNKdkU2emtFQ3JiTnQxSTNZblZwYVUzcEhRWEtlVzNVTE5zMm9YQ1VWZmF5SFZDem9oS2d5NC1WanhvM3Y3ZFlnR2trckJMTS0wY0dYREpmZFdhTE9TWWxFVm5CcVhERG81cmtMa21xdjFtbHdSYU4tODFTT0ZQZm5kQnJRa1k1ZEdYZ0V2bVRpUXBkWWVhZXBKYWsyYWcSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZleVJMOHZReng0dE5Sb2dlZFN3a3Z2SVM3VDBseXoxUE9HaTJ2TmNKdkU2emtFQ3JiTnQxSTNZblZwYVUzcEhRWEtlVzNVTE5zMm9YQ1VWZmF5SFZDem9oS2d5NC1WanhvM3Y3ZFlnR2trckJMTS0wY0dYREpmZFdhTE9TWWxFVm5CcVhERG81cmtMa21xdjFtbHdSYU4tODFTT0ZQZm5kQnJRa1k1ZEdYZ0V2bVRpUXBkWWVhZXBKYWsyYWcSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Maine.gov",
+      "read_more_link": "https://www.maine.gov/sos/bmv/visit-your-bmv-branch/how-to-prove-united-states-citizenship#:~:text=The%20following%20is%20a%20list,or%20have%20no%20expiration%20date."
+    },
+    {
+      "position": 6,
+      "title": "How to Prove Presence | VCF",
+      "link": "https://www.vcf.gov/how-prove-presence",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVWCNHR5Tg6MkdfUYOm7ghQS_kZPmVV8yoch7Apr3Xn9-XLhDqwaTqczwx4a_b_tOkbr2nXH8vcV742TDN6Z72yu4YxuzYzwCBY2UfP-u7HRtC65LXGaAw7Wc&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.vcf.gov › how-prove-presence",
+      "favicon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAADwAwCdASoQABAAAsBMJbACdH8I__bat5teoASpbxBPJf1VHw0ZOZ54AP7ykeTN4gjcWcK18EO1K3tf_-m6qTBIqPvK6JBDBpRXw2qvmR8ky0nP53Fqr_aKpwKr0Jxe2I-YQY-v7r3eAbA26kP-XMr0NSIxlnpOGkAF6Af7OpmbuLrssUtMmAS_B6FqCCcbA4TMZcBWsvget4iHmYkTInSGYNBK6tI2swaNauvC8mZu3hjYBYWlHsXqxZAAAA.webp",
+      "snippet": "The VCF works with many employers, unions, and other entities to help claimants get the documents they need to prove where they were and when they were there.",
+      "snippet_highlighted_words": [
+        "documents",
+        "prove"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The VCF works with many employers, unions, and other entities to help claimants get the documents they need to prove where they were and when they were there.",
+          "source_info_link": "https://www.vcf.gov/how-prove-presence",
+          "icon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAADwAwCdASoQABAAAsBMJbACdH8I__bat5teoASpbxBPJf1VHw0ZOZ54AP7ykeTN4gjcWcK18EO1K3tf_-m6qTBIqPvK6JBDBpRXw2qvmR8ky0nP53Fqr_aKpwKr0Jxe2I-YQY-v7r3eAbA26kP-XMr0NSIxlnpOGkAF6Af7OpmbuLrssUtMmAS_B6FqCCcbA4TMZcBWsvget4iHmYkTInSGYNBK6tI2swaNauvC8mZu3hjYBYWlHsXqxZAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVldDTkhSNVRnNk1rZGZVWU9tN2doUVNfa1pQbVZWOHlvY2g3QXByM1huOS1YTGhEcXdhVHFjend4NGFfYl90T2ticjJuWEg4dmNWNzQyVERONlo3Mnl1NFl4dXpZendDQlkyVWZQLXU3SFJ0QzY1TFhHYUF3N1djEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVldDTkhSNVRnNk1rZGZVWU9tN2doUVNfa1pQbVZWOHlvY2g3QXByM1huOS1YTGhEcXdhVHFjend4NGFfYl90T2ticjJuWEg4dmNWNzQyVERONlo3Mnl1NFl4dXpZendDQlkyVWZQLXU3SFJ0QzY1TFhHYUF3N1djEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "September 11th Victim Compensation Fund (VCF) (.gov)",
+      "read_more_link": "https://www.vcf.gov/how-prove-presence#:~:text=The%20VCF%20works%20with%20many,and%20when%20they%20were%20there."
+    },
+    {
+      "position": 7,
+      "title": "prove, v. meanings, etymology and more",
+      "link": "https://www.oed.com/dictionary/prove_v",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVa_gBEi2N-Nrhsiy20eSvs8y5xhEB0ovy8GMEo6flVRiKrT844Ju1Cl8c2Z1_pCUwqAsJfrVkrmcM9S0j0c-g3PN_1V7j9ITGK0aIJ0ZjXSWwAzkr1jg1OhU&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.oed.com › dictionary › prove_v",
+      "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglAE6ZQBRdPFH8ydIB0IAdmvyhPaQmJba7uWnD3YkDJjQzAAP7yl99hFWIfW6VoG2baRDq8lsvjpFNx5R6NHH4Jn1OtRKPQxft_Piaz3dgfTMxcoHGU_LjT4B-2xRfrfcIqHVMYaqBM1f0nFh0NxdmmLaKNG4oz8zJW49vrEXCxoTzfifrfEHI6X_0a8kdtMFkpAzFSL5k-_LNl8tA_4ELxzweDXbq8mle3CNf-4Oeo--M7L9TacCap6mLmE2-cxMIjxsqueXNIZHf7xgb1LHDnA-vFMWP51iXm5YlK8uf09YwmBE0V9l7AAAA.webp",
+      "snippet": "transitive. To put (a person or thing) to the test; to test or assess the genuineness or qualities of; (Scottish) to test by tasting, to sample.",
+      "about_this_result": {
+        "source": {
+          "description": "transitive. To put (a person or thing) to the test; to test or assess the genuineness or qualities of; (Scottish) to test by tasting, to sample.",
+          "source_info_link": "https://www.oed.com/dictionary/prove_v",
+          "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglAE6ZQBRdPFH8ydIB0IAdmvyhPaQmJba7uWnD3YkDJjQzAAP7yl99hFWIfW6VoG2baRDq8lsvjpFNx5R6NHH4Jn1OtRKPQxft_Piaz3dgfTMxcoHGU_LjT4B-2xRfrfcIqHVMYaqBM1f0nFh0NxdmmLaKNG4oz8zJW49vrEXCxoTzfifrfEHI6X_0a8kdtMFkpAzFSL5k-_LNl8tA_4ELxzweDXbq8mle3CNf-4Oeo--M7L9TacCap6mLmE2-cxMIjxsqueXNIZHf7xgb1LHDnA-vFMWP51iXm5YlK8uf09YwmBE0V9l7AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVmFfZ0JFaTJOLU5yaHNpeTIwZVN2czh5NXhoRUIwb3Z5OEdNRW82ZmxWUmlLclQ4NDRKdTFDbDhjMloxX3BDVXdxQXNKZnJWa3JtY005UzBqMGMtZzNQTl8xVjdqOUlUR0swYUlKMFpqWFNXd0F6a3IxamcxT2hVEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVmFfZ0JFaTJOLU5yaHNpeTIwZVN2czh5NXhoRUIwb3Z5OEdNRW82ZmxWUmlLclQ4NDRKdTFDbDhjMloxX3BDVXdxQXNKZnJWa3JtY005UzBqMGMtZzNQTl8xVjdqOUlUR0swYUlKMFpqWFNXd0F6a3IxamcxT2hVEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Oxford English Dictionary",
+      "read_more_link": "https://www.oed.com/dictionary/prove_v#:~:text=transitive.%20To%20put%20(a%20person,test%20by%20tasting%2C%20to%20sample."
+    },
+    {
+      "position": 8,
+      "title": "Required Identity Documentation : Oregon Driver & Motor ...",
+      "link": "https://www.oregon.gov/odot/dmv/pages/driverid/idproof.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVA1MPHozFmKCvgeOrzvo9PgVS0VIdDMqbYV0EqvTPD8EMSV8fSi0lhoYBVMykkbDEb_rW2MAxsYsPBMV-9FadWuxzlfWswmtVIjnSX2F1Rz2Dj5sfVuEHd1TY0-6a1PZKj_Bl4CEZtj-x2fY4ZtI&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.oregon.gov › pages › driverid › idproof",
+      "favicon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADQBwCdASocABwAPtE-tFooIigoFAEAGgloABPXNSdaAcH0uJms1AOkB6I36QBxRk6e6iKmcFyUkdhxKqIAjGtDTHZOpMlVQAD-94Frkch5RSoRLPe2l0HsYPEuIAAmJKEOixlkQq0HKa0LNJZ2K79tWmRTbb5i-8ArlMBRhGNF_P3pE7X6uuEN8R7jOTGoRD75x2A--s-by2LIYzeEynUnhJ1zQ8SgysegY7bQzaOJTtFfQ1lo0vP5GVWbgf--Kv7njkdwVsIwmgGWl2gqsPepJ_4jFy2yAbic7j6HCIiLc_rVZc33MNBpKK3Elc9hHaZoLd1IkHPxZXQTHpqZw1nXWJCa75KerJpdD-aByJzgxtiG6YmPzMX_kdNs8KsWhbIOcau6e_Oqoz0rmFoqHDkvdY4bJwHPaEl0uAODR5co1nvEFt67dhD7ixi1M-6XoKKAAA.webp",
+      "snippet": "Oregon DMV has the right to ask for additional proof or refuse any document. Proof of Identity and Date of Birth for Non-REAL ID.",
+      "snippet_highlighted_words": [
+        "proof",
+        "document",
+        "Proof"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Oregon DMV has the right to ask for additional proof or refuse any document. Proof of Identity and Date of Birth for Non-REAL ID.",
+          "source_info_link": "https://www.oregon.gov/odot/dmv/pages/driverid/idproof.aspx",
+          "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADQBwCdASocABwAPtE-tFooIigoFAEAGgloABPXNSdaAcH0uJms1AOkB6I36QBxRk6e6iKmcFyUkdhxKqIAjGtDTHZOpMlVQAD-94Frkch5RSoRLPe2l0HsYPEuIAAmJKEOixlkQq0HKa0LNJZ2K79tWmRTbb5i-8ArlMBRhGNF_P3pE7X6uuEN8R7jOTGoRD75x2A--s-by2LIYzeEynUnhJ1zQ8SgysegY7bQzaOJTtFfQ1lo0vP5GVWbgf--Kv7njkdwVsIwmgGWl2gqsPepJ_4jFy2yAbic7j6HCIiLc_rVZc33MNBpKK3Elc9hHaZoLd1IkHPxZXQTHpqZw1nXWJCa75KerJpdD-aByJzgxtiG6YmPzMX_kdNs8KsWhbIOcau6e_Oqoz0rmFoqHDkvdY4bJwHPaEl0uAODR5co1nvEFt67dhD7ixi1M-6XoKKAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVkExTVBIb3pGbUtDdmdlT3J6dm85UGdWUzBWSWRETXFiWVYwRXF2VFBEOEVNU1Y4ZlNpMGxob1lCVk15a2tiREViX3JXMk1BeHNZc1BCTVYtOUZhZFd1eHpsZldzd210VklqblNYMkYxUnoyRGo1c2ZWdUVIZDFUWTAtNmExUFpLal9CbDRDRVp0ai14MmZZNFp0SRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVkExTVBIb3pGbUtDdmdlT3J6dm85UGdWUzBWSWRETXFiWVYwRXF2VFBEOEVNU1Y4ZlNpMGxob1lCVk15a2tiREViX3JXMk1BeHNZc1BCTVYtOUZhZFd1eHpsZldzd210VklqblNYMkYxUnoyRGo1c2ZWdUVIZDFUWTAtNmExUFpLal9CbDRDRVp0ai14MmZZNFp0SRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Oregon.gov",
+      "read_more_link": "https://www.oregon.gov/odot/dmv/pages/driverid/idproof.aspx#:~:text=Oregon%20DMV%20has%20the%20right,of%20Birth%20for%20Non%2DREAL%20ID"
+    },
+    {
+      "position": 9,
+      "title": "I Entered A Jiu-Jitsu Tournament To Prove It Doesn't Work",
+      "link": "https://www.youtube.com/watch?v=EAJ2vt8wUbY",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVcgtPeIaTk0EeolYwTOygeirkRfZYaaRm2ogPPxTyNbnK0hNPhvFTzGVrBBOX0o6ecg5p5jnaLc-vCw5WePM3CB8w_cL3gj0-Ek3w1U3e1GaPtA4DwhlPVRnkejsktA&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "snippet": "Does Brazilian Jiu Jitsu work in self-defense or street fight? Today I compete in a Jiujitsu tournament to see what happens if you don't go to the ground.",
+      "about_this_result": {
+        "source": {
+          "description": "Does Brazilian Jiu Jitsu work in self-defense or street fight? Today I compete in a Jiujitsu tournament to see what happens if you don't go to the ground.",
+          "source_info_link": "https://www.youtube.com/watch?v=EAJ2vt8wUbY",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmNndFBlSWFUazBFZW9sWXdUT3lnZWlya1JmWllhYVJtMm9nUFB4VHlOYm5LMGhOUGh2RlR6R1ZyQkJPWDBvNmVjZzVwNWpuYUxjLXZDdzVXZVBNM0NCOHdfY0wzZ2owLUVrM3cxVTNlMUdhUHRBNER3aGxQVlJua2Vqc2t0QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmNndFBlSWFUazBFZW9sWXdUT3lnZWlya1JmWllhYVJtMm9nUFB4VHlOYm5LMGhOUGh2RlR6R1ZyQkJPWDBvNmVjZzVwNWpuYUxjLXZDdzVXZVBNM0NCOHdfY0wzZ2owLUVrM3cxVTNlMUdhUHRBNER3aGxQVlJua2Vqc2t0QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=MDCyau3MHNfkiLMPnfuZwAY&start=10&sa=N&sstk=AS6-VmIXB0quam4mi0yfo_oJtiTzTzWGhjP1LFyPJib1e88HdQFv409Yv_ER9h-wfe_okDga912nLyGjuLdF0Kd3E2joSHkGd5BNcg&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQ8NMDegQIPhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=MDCyau3MHNfkiLMPnfuZwAY&start=10&sa=N&sstk=AS6-VmIXB0quam4mi0yfo_oJtiTzTzWGhjP1LFyPJib1e88HdQFv409Yv_ER9h-wfe_okDga912nLyGjuLdF0Kd3E2joSHkGd5BNcg&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=leaked+documents+prove+nasa+faked+moon+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=MDCyau3MHNfkiLMPnfuZwAY&start=20&sa=N&sstk=AS6-VmIXB0quam4mi0yfo_oJtiTzTzWGhjP1LFyPJib1e88HdQFv409Yv_ER9h-wfe_okDga912nLyGjuLdF0Kd3E2joSHkGd5BNcg&ved=2ahUKEwjtpL7-1oGXAxVXMmIAHZ19BmgQ8tMDegQIPhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=leaked+documents+prove+nasa+faked+moon+before%3A2026-01-01&start=20"
+    }
+  }
+}

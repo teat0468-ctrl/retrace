@@ -1,0 +1,324 @@
+{
+  "search_metadata": {
+    "id": "6ab1594669819d7038746f66",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/iPYyd8xLijizHKU2yD5ov8Zf6SeeI0bVU43VK1Sv5VE/6ab1594669819d7038746f66.json",
+    "markdown_endpoint": "https://serpapi.com/searches/iPYyd8xLijizHKU2yD5ov8Zf6SeeI0bVU43VK1Sv5VE/6ab1594669819d7038746f66.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/iPYyd8xLijizHKU2yD5ov8Zf6SeeI0bVU43VK1Sv5VE/6ab1594669819d7038746f66.json_with_pixel_position",
+    "created_at": "2026-09-21 16:20:22 UTC",
+    "processed_at": "2026-09-21 16:20:22 UTC",
+    "google_url": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&oq=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/iPYyd8xLijizHKU2yD5ov8Zf6SeeI0bVU43VK1Sv5VE/6ab1594669819d7038746f66.html",
+    "total_time_taken": 0.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what actually happened iit bombay professor before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "what actually happened iit bombay professor before:2026-01-01",
+    "total_results": 269000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "ICTdhXiczVVbcuI4FF3ArGP4oYNtwAZS5eqShBNMQ0AJhNA_LlsY2cFGBDm8_mYDs4pZ1axmZIPBMDjp7o-pUQGSpaOre9E5Pn_8Ffjz2d-__elF0YLfStJ6vS5RxmjglggLJZtv50SasoAvifd1u9IrBcJ1ueD6-mMQbmzuk2bXGasPrK-RlaaBYSHZoluOzd1XEXHzyiVLEj-z3ytN8VDiJXdespxOd-Va93wLSmW5XCn1JDsUAPDfNdMDKO6fgJEPEkvmD0XDGCAzGwnCpEOnmXWCAwZNVmA8vn4m2scRCYLk-L43Vz0utrAU0srNA2bTheNDcuPkPEAx-KjYK9H2NVBwWcuVllMNPgsB7jNLufEgoGd5CiBFsCUDnIahZ3iEs8cb8Qa4R_QwcJt14FH6wTWKDXddQJ6AiT67bIbMOkyPuuOCr6Y0oYK4suQsRadIPvFIMljymM9o0JDZnXGzrvZGrNZvDkYtbfjek2sdra0-ql0sEUfgAmZP3InlWfLX5FkpK6rcqNTqXxIhEX5UEs8qCe2wM8URbUSk1ClBJZUROtL24j8W3AJXi4ToAL1yKRlix6uH7dTOQMzjbgODrn8RZ-jGt9E9TTTLAFSziNNtI3BNRvvxaShk5O8TEcIzQHr9GYSYbWfiZGqG639VeLZxnyFMGWVCegk8p7pJjSdwKhiec1Ngfc-IGRtr4JkkOZEsg5N3jGleJBK_H8SlGMYxzAGbtPtTPWLlDieU92Ld0OEwFo9xIHy84REc30UXOqAXQkrbSHzvvE8En9vY5xAhm4NeLuiflU1L1uqDl_62jdxB9WGMuoPxt2DWAs-jDrguExY6P-E45H8lpL0fmQc_yheS-UNCwhjl-9F-mPqRn3gGxBjnCAm1c_yomkJOfnQpJNjJCMn72I9-VkjoQyGlIr0qJDQ7rGaFhPKElPpRVkh--9yPssme_OgopF_yI_ZrfpToyt135-b0_kpzTereCt2d1e3PaqQ36diNl0dgBsaOzEdvn5vUNIxuQ3sSfLH8yS0st6Pt5IslJtitOym86WvPjoo2id7tINgWPXuxcOfupOj7UdERmrW3xcWSTV3O2bLouFO2dG-FRrUbWRGfQhgsmS7btddu2TaUgbYLxrXBzVRBNKiz2ihcvTnNfvuZKr32AjktRV25DwEKtrNWtIs6CpvikR04M-Xpu-zNKqFstscbr_OIm7hbq49u6ivHsjqzUJuux-S53Nj0rPApuNkMdy9e9AxVU61vvpMqtceNaLMDNMmH66S5hhp46M81XgiXRBekqFLwgMGIClqiseATBUObiX4N8L0GsAELnNiWy1e6Um6UbbUi1ypytU5ktRDSaLvQNbXA50td-QeV40NW",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ICTdhXiczVVbcuI4FF3ArGP4oYNtwAZS5eqShBNMQ0AJhNA_LlsY2cFGBDm8_mYDs4pZ1axmZIPBMDjp7o-pUQGSpaOre9E5Pn_8Ffjz2d-__elF0YLfStJ6vS5RxmjglggLJZtv50SasoAvifd1u9IrBcJ1ueD6-mMQbmzuk2bXGasPrK-RlaaBYSHZoluOzd1XEXHzyiVLEj-z3ytN8VDiJXdespxOd-Va93wLSmW5XCn1JDsUAPDfNdMDKO6fgJEPEkvmD0XDGCAzGwnCpEOnmXWCAwZNVmA8vn4m2scRCYLk-L43Vz0utrAU0srNA2bTheNDcuPkPEAx-KjYK9H2NVBwWcuVllMNPgsB7jNLufEgoGd5CiBFsCUDnIahZ3iEs8cb8Qa4R_QwcJt14FH6wTWKDXddQJ6AiT67bIbMOkyPuuOCr6Y0oYK4suQsRadIPvFIMljymM9o0JDZnXGzrvZGrNZvDkYtbfjek2sdra0-ql0sEUfgAmZP3InlWfLX5FkpK6rcqNTqXxIhEX5UEs8qCe2wM8URbUSk1ClBJZUROtL24j8W3AJXi4ToAL1yKRlix6uH7dTOQMzjbgODrn8RZ-jGt9E9TTTLAFSziNNtI3BNRvvxaShk5O8TEcIzQHr9GYSYbWfiZGqG639VeLZxnyFMGWVCegk8p7pJjSdwKhiec1Ngfc-IGRtr4JkkOZEsg5N3jGleJBK_H8SlGMYxzAGbtPtTPWLlDieU92Ld0OEwFo9xIHy84REc30UXOqAXQkrbSHzvvE8En9vY5xAhm4NeLuiflU1L1uqDl_62jdxB9WGMuoPxt2DWAs-jDrguExY6P-E45H8lpL0fmQc_yheS-UNCwhjl-9F-mPqRn3gGxBjnCAm1c_yomkJOfnQpJNjJCMn72I9-VkjoQyGlIr0qJDQ7rGaFhPKElPpRVkh--9yPssme_OgopF_yI_ZrfpToyt135-b0_kpzTereCt2d1e3PaqQ36diNl0dgBsaOzEdvn5vUNIxuQ3sSfLH8yS0st6Pt5IslJtitOym86WvPjoo2id7tINgWPXuxcOfupOj7UdERmrW3xcWSTV3O2bLouFO2dG-FRrUbWRGfQhgsmS7btddu2TaUgbYLxrXBzVRBNKiz2ihcvTnNfvuZKr32AjktRV25DwEKtrNWtIs6CpvikR04M-Xpu-zNKqFstscbr_OIm7hbq49u6ivHsjqzUJuux-S53Nj0rPApuNkMdy9e9AxVU61vvpMqtceNaLMDNMmH66S5hhp46M81XgiXRBekqFLwgMGIClqiseATBUObiX4N8L0GsAELnNiWy1e6Um6UbbUi1ypytU5ktRDSaLvQNbXA50td-QeV40NW"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "r/iitbombay",
+      "link": "https://www.reddit.com/r/iitbombay/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAV_nlUnYNDxUDM0vq66v9S7yrbl-EtqHaeWIA3CGP5vBXyYOcBY1Eh5kqEwo3L-j7drHnzuvMdmfoyFIqwcfF2N6EAFIFiSAdCwfighJyO8Y-SdG9OLPQ&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBwQAQ&uoh=1",
+      "displayed_link": "29.8K+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "The student was caught cheating and was reportedly threatened with a one-year suspension, after which he died by suicide. His parents have made allegations of ...",
+      "about_this_result": {
+        "source": {
+          "description": "The student was caught cheating and was reportedly threatened with a one-year suspension, after which he died by suicide. His parents have made allegations of ...",
+          "source_info_link": "https://www.reddit.com/r/iitbombay/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVl9ubFVuWU5EeFVETTB2cTY2djlTN3lyYmwtRXRxSGFlV0lBM0NHUDV2Qlh5WU9jQlkxRWg1a3FFd28zTC1qN2RySG56dXZNZG1mb3lGSXF3Y2ZGMk42RUFGSUZpU0FkQ3dmaWdoSnlPOFktU2RHOU9MUFESBBoCCAAa7AUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGBQgAEAAYACAAKhIKBHdoYXQV0PoJPxoFd2hpY2gqQQoIYWN0dWFsbHkV-5BiPRoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBWRFcU9GgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVKCCiQBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRUv9qFAGgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchWJUr4-GgdmYWN1bHR5MokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVl9ubFVuWU5EeFVETTB2cTY2djlTN3lyYmwtRXRxSGFlV0lBM0NHUDV2Qlh5WU9jQlkxRWg1a3FFd28zTC1qN2RySG56dXZNZG1mb3lGSXF3Y2ZGMk42RUFGSUZpU0FkQ3dmaWdoSnlPOFktU2RHOU9MUFE6G3IvPGI-aWl0Ym9tYmF5PC9iPiAtIFJlZGRpdEKnAVRoZSBzdHVkZW50IHdhcyBjYXVnaHQgY2hlYXRpbmcgYW5kIHdhcyByZXBvcnRlZGx5IHRocmVhdGVuZWQgd2l0aCBhIG9uZS15ZWFyIHN1c3BlbnNpb24sIGFmdGVyIHdoaWNoIGhlIGRpZWQgYnkgc3VpY2lkZS4gSGlzIHBhcmVudHMgaGF2ZSBtYWRlIGFsbGVnYXRpb25zIG9mJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVl9ubFVuWU5EeFVETTB2cTY2djlTN3lyYmwtRXRxSGFlV0lBM0NHUDV2Qlh5WU9jQlkxRWg1a3FFd28zTC1qN2RySG56dXZNZG1mb3lGSXF3Y2ZGMk42RUFGSUZpU0FkQ3dmaWdoSnlPOFktU2RHOU9MUFESBBoCCAAa7AUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGBQgAEAAYACAAKhIKBHdoYXQV0PoJPxoFd2hpY2gqQQoIYWN0dWFsbHkV-5BiPRoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBWRFcU9GgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVKCCiQBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRUv9qFAGgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchWJUr4-GgdmYWN1bHR5MokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVl9ubFVuWU5EeFVETTB2cTY2djlTN3lyYmwtRXRxSGFlV0lBM0NHUDV2Qlh5WU9jQlkxRWg1a3FFd28zTC1qN2RySG56dXZNZG1mb3lGSXF3Y2ZGMk42RUFGSUZpU0FkQ3dmaWdoSnlPOFktU2RHOU9MUFE6G3IvPGI-aWl0Ym9tYmF5PC9iPiAtIFJlZGRpdEKnAVRoZSBzdHVkZW50IHdhcyBjYXVnaHQgY2hlYXRpbmcgYW5kIHdhcyByZXBvcnRlZGx5IHRocmVhdGVuZWQgd2l0aCBhIG9uZS15ZWFyIHN1c3BlbnNpb24sIGFmdGVyIHdoaWNoIGhlIGRpZWQgYnkgc3VpY2lkZS4gSGlzIHBhcmVudHMgaGF2ZSBtYWRlIGFsbGVnYXRpb25zIG9mJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Reddit · r/iitbombay",
+      "read_more_link": "https://www.reddit.com/r/iitbombay/#:~:text=The%20student%20was%20caught%20cheating,obviously%20need%20to%20be%20investigated."
+    },
+    {
+      "position": 2,
+      "title": "IIT Bombay professor Basudev Biswal sparked controversy ...",
+      "link": "https://www.facebook.com/indiatimes/posts/iit-bombay-professor-basudev-biswal-sparked-controversy-on-linkedin-by-downplayi/874362738134654/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFWF42HPNCiXw6KFKvdu_V_wgu_9M2kb6P316YG7YM0k_AdgdODfuONwVnGZK6pIPXP4QaaEYgvz1rkmY2E8sHnkNqDfKWrynHRI20M6U1jMLTm4pggs1I5Dr2OW3xNRRtKUjMWktLE_v8qWBy9311YSy-hn3Nup8cCjfNRhVxcd5581GYMQ7S1EF7kZYmERLW4gEMDnXSf-gSlB5Orc8NcGTRqHKaGY0KUy_6L43p_rJ-J5YLseL3ACJqKIOMuva&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBMQAQ&uoh=1",
+      "displayed_link": "10+ reactions",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "IIT Bombay professor Basudev Biswal sparked controversy on LinkedIn by downplaying student suicide statistics, claiming they are below the national average.",
+      "snippet_highlighted_words": [
+        "IIT Bombay professor"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "IIT Bombay professor Basudev Biswal sparked controversy on LinkedIn by downplaying student suicide statistics, claiming they are below the national average.",
+          "source_info_link": "https://www.facebook.com/indiatimes/posts/iit-bombay-professor-basudev-biswal-sparked-controversy-on-linkedin-by-downplayi/874362738134654/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZXRjQySFBOQ2lYdzZLRkt2ZHVfVl93Z3VfOU0ya2I2UDMxNllHN1lNMGtfQWRnZE9EZnVPTndWbkdaSzZwSVBYUDRRYWFFWWd2ejFya21ZMkU4c0hua05xRGZLV3J5bkhSSTIwTTZVMWpNTFRtNHBnZ3MxSTVEcjJPVzN4TlJSdEtVak1Xa3RMRV92OHFXQnk5MzExWVN5LWhuM051cDhjQ2pmTlJoVnhjZDU1ODFHWU1RN1MxRUY3a1pZbUVSTFc0Z0VNRG5YU2YtZ1NsQjVPcmM4TmNHVFJxSEthR1kwS1V5XzZMNDNwX3JKLUo1WUxzZUwzQUNKcUtJT011dmESBBoCCAAanQcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA-QYIABAAGAAgACoSCgR3aGF0Fdk6rD4aBXdoaWNoKkEKCGFjdHVhbGx5FQAAAAAaBmFjdHVhbBoHZXhhY3RseRoGcmVhbGx5GgV0cnVseRoQYWN0dWFsbHloYXBwZW5lZCqCAQoIaGFwcGVuZWQVAAAAABoGaGFwcGVuGgloYXBwZW5pbmcaB2hhcHBlbnMaCG9jY3VycmVkGgp0b29rIHBsYWNlGhBhY3R1YWxseWhhcHBlbmVkGgRkaWVkGghpbmNpZGVudBoGa2lsbGVkGgVkZWF0aBoIYWNjaWRlbnQaBG5ld3MqRQoDaWl0FfjdnUAaBGlpdGIaHmluZGlhbiBpbnN0aXR1dGUgb2YgdGVjaG5vbG9neRoJaWl0Ym9tYmF5GghpdjtwO2lpdCorCgZib21iYXkVhKJYQBoEaWl0YhoJaWl0Ym9tYmF5GgtpdjtwO2JvbWJheSoZCglwcm9mZXNzb3IVNLlOQBoHZmFjdWx0eTKWAi9nb3RvP3VybD1DQUVTeEFFQjZ6c3dGV0Y0MkhQTkNpWHc2S0ZLdmR1X1Zfd2d1XzlNMmtiNlAzMTZZRzdZTTBrX0FkZ2RPRGZ1T053Vm5HWks2cElQWFA0UWFhRVlndnoxcmttWTJFOHNIbmtOcURmS1dyeW5IUkkyME02VTFqTUxUbTRwZ2dzMUk1RHIyT1czeE5SUnRLVWpNV2t0TEVfdjhxV0J5OTMxMVlTeS1objNOdXA4Y0NqZk5SaFZ4Y2Q1NTgxR1lNUTdTMUVGN2taWW1FUkxXNGdFTURuWFNmLWdTbEI1T3JjOE5jR1RScUhLYUdZMEtVeV82TDQzcF9ySi1KNVlMc2VMM0FDSnFLSU9NdXZhOkU8Yj5JSVQgQm9tYmF5IHByb2Zlc3NvcjwvYj4gQmFzdWRldiBCaXN3YWwgc3BhcmtlZCBjb250cm92ZXJzeSBvbiAuLi5CowE8Yj5JSVQgQm9tYmF5IHByb2Zlc3NvcjwvYj4gQmFzdWRldiBCaXN3YWwgc3BhcmtlZCBjb250cm92ZXJzeSBvbiBMaW5rZWRJbiBieSBkb3ducGxheWluZyBzdHVkZW50IHN1aWNpZGUgc3RhdGlzdGljcywgY2xhaW1pbmcgdGhleSBhcmUgYmVsb3cgdGhlIG5hdGlvbmFsIGF2ZXJhZ2UuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZXRjQySFBOQ2lYdzZLRkt2ZHVfVl93Z3VfOU0ya2I2UDMxNllHN1lNMGtfQWRnZE9EZnVPTndWbkdaSzZwSVBYUDRRYWFFWWd2ejFya21ZMkU4c0hua05xRGZLV3J5bkhSSTIwTTZVMWpNTFRtNHBnZ3MxSTVEcjJPVzN4TlJSdEtVak1Xa3RMRV92OHFXQnk5MzExWVN5LWhuM051cDhjQ2pmTlJoVnhjZDU1ODFHWU1RN1MxRUY3a1pZbUVSTFc0Z0VNRG5YU2YtZ1NsQjVPcmM4TmNHVFJxSEthR1kwS1V5XzZMNDNwX3JKLUo1WUxzZUwzQUNKcUtJT011dmESBBoCCAAanQcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA-QYIABAAGAAgACoSCgR3aGF0Fdk6rD4aBXdoaWNoKkEKCGFjdHVhbGx5FQAAAAAaBmFjdHVhbBoHZXhhY3RseRoGcmVhbGx5GgV0cnVseRoQYWN0dWFsbHloYXBwZW5lZCqCAQoIaGFwcGVuZWQVAAAAABoGaGFwcGVuGgloYXBwZW5pbmcaB2hhcHBlbnMaCG9jY3VycmVkGgp0b29rIHBsYWNlGhBhY3R1YWxseWhhcHBlbmVkGgRkaWVkGghpbmNpZGVudBoGa2lsbGVkGgVkZWF0aBoIYWNjaWRlbnQaBG5ld3MqRQoDaWl0FfjdnUAaBGlpdGIaHmluZGlhbiBpbnN0aXR1dGUgb2YgdGVjaG5vbG9neRoJaWl0Ym9tYmF5GghpdjtwO2lpdCorCgZib21iYXkVhKJYQBoEaWl0YhoJaWl0Ym9tYmF5GgtpdjtwO2JvbWJheSoZCglwcm9mZXNzb3IVNLlOQBoHZmFjdWx0eTKWAi9nb3RvP3VybD1DQUVTeEFFQjZ6c3dGV0Y0MkhQTkNpWHc2S0ZLdmR1X1Zfd2d1XzlNMmtiNlAzMTZZRzdZTTBrX0FkZ2RPRGZ1T053Vm5HWks2cElQWFA0UWFhRVlndnoxcmttWTJFOHNIbmtOcURmS1dyeW5IUkkyME02VTFqTUxUbTRwZ2dzMUk1RHIyT1czeE5SUnRLVWpNV2t0TEVfdjhxV0J5OTMxMVlTeS1objNOdXA4Y0NqZk5SaFZ4Y2Q1NTgxR1lNUTdTMUVGN2taWW1FUkxXNGdFTURuWFNmLWdTbEI1T3JjOE5jR1RScUhLYUdZMEtVeV82TDQzcF9ySi1KNVlMc2VMM0FDSnFLSU9NdXZhOkU8Yj5JSVQgQm9tYmF5IHByb2Zlc3NvcjwvYj4gQmFzdWRldiBCaXN3YWwgc3BhcmtlZCBjb250cm92ZXJzeSBvbiAuLi5CowE8Yj5JSVQgQm9tYmF5IHByb2Zlc3NvcjwvYj4gQmFzdWRldiBCaXN3YWwgc3BhcmtlZCBjb250cm92ZXJzeSBvbiBMaW5rZWRJbiBieSBkb3ducGxheWluZyBzdHVkZW50IHN1aWNpZGUgc3RhdGlzdGljcywgY2xhaW1pbmcgdGhleSBhcmUgYmVsb3cgdGhlIG5hdGlvbmFsIGF2ZXJhZ2UuIgIQAUgAWABoAA",
+      "source": "Facebook · Indiatimes"
+    },
+    {
+      "position": 3,
+      "title": "IIT Bombay's Failure to Create an Inclusive Campus the ...",
+      "link": "https://www.newsclick.in/IIT-Bombay-Failure-Create-Inclusive-Campus-Reason-Behind-Darshan-Solanki-Death-Family",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFS-MV2vbsFQBc0MByQNzMLSRaN8F-LWaYdKbDpauvS7xxiGBV_-mNtdB9WUhGN_5p7wVR0IA-R8Emd0scZqr1qCFfVXQNt8Aiqn1qydo1RyCCJbYjw81K-dOhgEeG6BpnnOgGpHQmPqZUKk_FxZ_n2Nh3UyeQOipZrIqekC9mJhjF1w459SWUcV57dGG2Ez73DvatenYkvA3SfHTckLPtlCE&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.newsclick.in › IIT-Bombay-Failure-Create-I...",
+      "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABwBQCdASoSAB8APtEutFooIagoGAEAGgloALbpPJoAPQsgef7sLZv5GRAkNrl-YkrcQYF4AP72Et_r20gkGvqpEpj5Xp-e_zQls_le2v6w1aDhxMXD0Lc31bvh_W6hBUJAVboenakbKDM9nzlpThENzBllCag81qzmA93GOo46Pe6uChP8YKj_uqwAnyk5Ex-lsrwudM8lvSm2dL0v6URkJ3CKtaZJG_HT1XjX_cLrEMMf_Fb6izctQgz4TS_j_QbRL7PDHc_TcmQ8rZe9OP9cueuuGedqgpGZ0tHA0E2AIBnJYBfF-SwV7aPNqTCf2jSgasef6pHoVeVEvQouAA.webp",
+      "date": "Feb 16, 2023",
+      "snippet": "iit Darshan Solanki, a B.Tech student at the Indian Institute of Technology (Bombay), died by alleged suicide on February 12 at the campus.",
+      "snippet_highlighted_words": [
+        "iit",
+        "Indian Institute of Technology",
+        "Bombay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "iit Darshan Solanki, a B.Tech student at the Indian Institute of Technology (Bombay), died by alleged suicide on February 12 at the campus.",
+          "source_info_link": "https://www.newsclick.in/IIT-Bombay-Failure-Create-Inclusive-Campus-Reason-Behind-Darshan-Solanki-Death-Family",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABwBQCdASoSAB8APtEutFooIagoGAEAGgloALbpPJoAPQsgef7sLZv5GRAkNrl-YkrcQYF4AP72Et_r20gkGvqpEpj5Xp-e_zQls_le2v6w1aDhxMXD0Lc31bvh_W6hBUJAVboenakbKDM9nzlpThENzBllCag81qzmA93GOo46Pe6uChP8YKj_uqwAnyk5Ex-lsrwudM8lvSm2dL0v6URkJ3CKtaZJG_HT1XjX_cLrEMMf_Fb6izctQgz4TS_j_QbRL7PDHc_TcmQ8rZe9OP9cueuuGedqgpGZ0tHA0E2AIBnJYBfF-SwV7aPNqTCf2jSgasef6pHoVeVEvQouAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZTLU1WMnZic0ZRQmMwTUJ5UU56TUxTUmFOOEYtTFdhWWRLYkRwYXV2Uzd4eGlHQlZfLW1OdGRCOVdVaEdOXzVwN3dWUjBJQS1SOEVtZDBzY1pxcjFxQ0ZmVlhRTnQ4QWlxbjFxeWRvMVJ5Q0NKYllqdzgxSy1kT2hnRWVHNkJwbm5PZ0dwSFFtUHFaVUtrX0Z4Wl9uMk5oM1V5ZVFPaXBacklxZWtDOW1KaGpGMXc0NTlTV1VjVjU3ZEdHMkV6NzNEdmF0ZW5Za3ZBM1NmSFRja0xQdGxDRRIEGgIIABr0BhICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQM4GCAAQABgAIAAqEgoEd2hhdBXGamY9GgV3aGljaCpBCghhY3R1YWxseRUAAAAAGgZhY3R1YWwaB2V4YWN0bHkaBnJlYWxseRoFdHJ1bHkaEGFjdHVhbGx5aGFwcGVuZWQqggEKCGhhcHBlbmVkFeb8XT4aBmhhcHBlbhoJaGFwcGVuaW5nGgdoYXBwZW5zGghvY2N1cnJlZBoKdG9vayBwbGFjZRoQYWN0dWFsbHloYXBwZW5lZBoEZGllZBoIaW5jaWRlbnQaBmtpbGxlZBoFZGVhdGgaCGFjY2lkZW50GgRuZXdzKkUKA2lpdBVJAIVAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FeS7f0AaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqGQoJcHJvZmVzc29yFYUXDj8aB2ZhY3VsdHky7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlMtTVYydmJzRlFCYzBNQnlRTnpNTFNSYU44Ri1MV2FZZEtiRHBhdXZTN3h4aUdCVl8tbU50ZEI5V1VoR05fNXA3d1ZSMElBLVI4RW1kMHNjWnFyMXFDRmZWWFFOdDhBaXFuMXF5ZG8xUnlDQ0piWWp3ODFLLWRPaGdFZUc2QnBubk9nR3BIUW1QcVpVS2tfRnhaX24yTmgzVXllUU9pcFpySXFla0M5bUpoakYxdzQ1OVNXVWNWNTdkR0cyRXo3M0R2YXRlbllrdkEzU2ZIVGNrTFB0bENFOkU8Yj5JSVQgQm9tYmF5JiMzOTtzPC9iPiBGYWlsdXJlIHRvIENyZWF0ZSBhbiBJbmNsdXNpdmUgQ2FtcHVzIHRoZSAuLi5CoAE8Yj5paXQ8L2I-IERhcnNoYW4gU29sYW5raSwgYSBCLlRlY2ggc3R1ZGVudCBhdCB0aGUgPGI-SW5kaWFuIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5PC9iPiAoPGI-Qm9tYmF5PC9iPiksIGRpZWQgYnkgYWxsZWdlZCBzdWljaWRlIG9uIEZlYnJ1YXJ5IDEyIGF0IHRoZSBjYW1wdXMuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZTLU1WMnZic0ZRQmMwTUJ5UU56TUxTUmFOOEYtTFdhWWRLYkRwYXV2Uzd4eGlHQlZfLW1OdGRCOVdVaEdOXzVwN3dWUjBJQS1SOEVtZDBzY1pxcjFxQ0ZmVlhRTnQ4QWlxbjFxeWRvMVJ5Q0NKYllqdzgxSy1kT2hnRWVHNkJwbm5PZ0dwSFFtUHFaVUtrX0Z4Wl9uMk5oM1V5ZVFPaXBacklxZWtDOW1KaGpGMXc0NTlTV1VjVjU3ZEdHMkV6NzNEdmF0ZW5Za3ZBM1NmSFRja0xQdGxDRRIEGgIIABr0BhICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQM4GCAAQABgAIAAqEgoEd2hhdBXGamY9GgV3aGljaCpBCghhY3R1YWxseRUAAAAAGgZhY3R1YWwaB2V4YWN0bHkaBnJlYWxseRoFdHJ1bHkaEGFjdHVhbGx5aGFwcGVuZWQqggEKCGhhcHBlbmVkFeb8XT4aBmhhcHBlbhoJaGFwcGVuaW5nGgdoYXBwZW5zGghvY2N1cnJlZBoKdG9vayBwbGFjZRoQYWN0dWFsbHloYXBwZW5lZBoEZGllZBoIaW5jaWRlbnQaBmtpbGxlZBoFZGVhdGgaCGFjY2lkZW50GgRuZXdzKkUKA2lpdBVJAIVAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FeS7f0AaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqGQoJcHJvZmVzc29yFYUXDj8aB2ZhY3VsdHky7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlMtTVYydmJzRlFCYzBNQnlRTnpNTFNSYU44Ri1MV2FZZEtiRHBhdXZTN3h4aUdCVl8tbU50ZEI5V1VoR05fNXA3d1ZSMElBLVI4RW1kMHNjWnFyMXFDRmZWWFFOdDhBaXFuMXF5ZG8xUnlDQ0piWWp3ODFLLWRPaGdFZUc2QnBubk9nR3BIUW1QcVpVS2tfRnhaX24yTmgzVXllUU9pcFpySXFla0M5bUpoakYxdzQ1OVNXVWNWNTdkR0cyRXo3M0R2YXRlbllrdkEzU2ZIVGNrTFB0bENFOkU8Yj5JSVQgQm9tYmF5JiMzOTtzPC9iPiBGYWlsdXJlIHRvIENyZWF0ZSBhbiBJbmNsdXNpdmUgQ2FtcHVzIHRoZSAuLi5CoAE8Yj5paXQ8L2I-IERhcnNoYW4gU29sYW5raSwgYSBCLlRlY2ggc3R1ZGVudCBhdCB0aGUgPGI-SW5kaWFuIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5PC9iPiAoPGI-Qm9tYmF5PC9iPiksIGRpZWQgYnkgYWxsZWdlZCBzdWljaWRlIG9uIEZlYnJ1YXJ5IDEyIGF0IHRoZSBjYW1wdXMuIgIQAUgAWABoAA",
+      "source": "NewsClick"
+    },
+    {
+      "position": 4,
+      "title": "Jayakrishnan Athipettah's Post",
+      "link": "https://www.linkedin.com/posts/jayakrishnan-athipettah-ba228751_iit-bombay-student-commits-suicide-after-activity-7357362067303002113-T83C",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFczmznghBXln-S8S_9TTquHz1wuHL9wM30QzMj8bcA5UauPwt0O9ShR3sxRzrgdcW-UqX-tRyjHOOWuWMoGPKtvBQan5fPNgxiGM7ROV2JTnwrQ2P4UZXivHJ1o97Qp64SMiDRP1QnoTkGvtC25vddqgchaESv2Kw0ZyBT_Cy9wHl9FKz-lyuLJyzdDKiXh92ImRblYqrOooLV6zSNA32vh_C-olTQxW_zN3_PM30-xi-WlPLVf-1lIVpsYXPSc&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBYQAQ&uoh=1",
+      "displayed_link": "270+ reactions",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "A fourth-year IIT-Bombay student, allegedly died by suicide after jumping from his hostel terrace in the early hours of Saturday. IIT-Bombay has issued a ...",
+      "snippet_highlighted_words": [
+        "IIT",
+        "Bombay",
+        "IIT",
+        "Bombay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A fourth-year IIT-Bombay student, allegedly died by suicide after jumping from his hostel terrace in the early hours of Saturday. IIT-Bombay has issued a ...",
+          "source_info_link": "https://www.linkedin.com/posts/jayakrishnan-athipettah-ba228751_iit-bombay-student-commits-suicide-after-activity-7357362067303002113-T83C",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0Zjem16bmdoQlhsbi1TOFNfOVRUcXVIejF3dUhMOXdNMzBRek1qOGJjQTVVYXVQd3QwTzlTaFIzc3hSenJnZGNXLVVxWC10UnlqSE9PV3VXTW9HUEt0dkJRYW41ZlBOZ3hpR003Uk9WMkpUbndyUTJQNFVaWGl2SEoxbzk3UXA2NFNNaURSUDFRbm9Ua0d2dEMyNXZkZHFnY2hhRVN2Mkt3MFp5QlRfQ3k5d0hsOUZLei1seXVMSnl6ZERLaVhoOTJJbVJibFlxck9vb0xWNnpTTkEzMnZoX0Mtb2xUUXhXX3pOM19QTTMwLXhpLVdsUExWZi0xbElWcHNZWFBTYxIEGgIIABqfBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD7BggAEAAYACAAKhIKBHdoYXQVrPGGPRoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBUAAAAAGgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQV2aB7QBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRX2CH5AGgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchUvUyE_GgdmYWN1bHR5MpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0Zjem16bmdoQlhsbi1TOFNfOVRUcXVIejF3dUhMOXdNMzBRek1qOGJjQTVVYXVQd3QwTzlTaFIzc3hSenJnZGNXLVVxWC10UnlqSE9PV3VXTW9HUEt0dkJRYW41ZlBOZ3hpR003Uk9WMkpUbndyUTJQNFVaWGl2SEoxbzk3UXA2NFNNaURSUDFRbm9Ua0d2dEMyNXZkZHFnY2hhRVN2Mkt3MFp5QlRfQ3k5d0hsOUZLei1seXVMSnl6ZERLaVhoOTJJbVJibFlxck9vb0xWNnpTTkEzMnZoX0Mtb2xUUXhXX3pOM19QTTMwLXhpLVdsUExWZi0xbElWcHNZWFBTYzotSmF5YWtyaXNobmFuIEF0aGlwZXR0YWgmIzM5O3MgUG9zdCAtIExpbmtlZEluQr4BQSBmb3VydGgteWVhciA8Yj5JSVQ8L2I-LTxiPkJvbWJheTwvYj4gc3R1ZGVudCwgYWxsZWdlZGx5IGRpZWQgYnkgc3VpY2lkZSBhZnRlciBqdW1waW5nIGZyb20gaGlzIGhvc3RlbCB0ZXJyYWNlIGluIHRoZSBlYXJseSBob3VycyBvZiBTYXR1cmRheS4gPGI-SUlUPC9iPi08Yj5Cb21iYXk8L2I-IGhhcyBpc3N1ZWQgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0Zjem16bmdoQlhsbi1TOFNfOVRUcXVIejF3dUhMOXdNMzBRek1qOGJjQTVVYXVQd3QwTzlTaFIzc3hSenJnZGNXLVVxWC10UnlqSE9PV3VXTW9HUEt0dkJRYW41ZlBOZ3hpR003Uk9WMkpUbndyUTJQNFVaWGl2SEoxbzk3UXA2NFNNaURSUDFRbm9Ua0d2dEMyNXZkZHFnY2hhRVN2Mkt3MFp5QlRfQ3k5d0hsOUZLei1seXVMSnl6ZERLaVhoOTJJbVJibFlxck9vb0xWNnpTTkEzMnZoX0Mtb2xUUXhXX3pOM19QTTMwLXhpLVdsUExWZi0xbElWcHNZWFBTYxIEGgIIABqfBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD7BggAEAAYACAAKhIKBHdoYXQVrPGGPRoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBUAAAAAGgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQV2aB7QBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRX2CH5AGgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchUvUyE_GgdmYWN1bHR5MpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0Zjem16bmdoQlhsbi1TOFNfOVRUcXVIejF3dUhMOXdNMzBRek1qOGJjQTVVYXVQd3QwTzlTaFIzc3hSenJnZGNXLVVxWC10UnlqSE9PV3VXTW9HUEt0dkJRYW41ZlBOZ3hpR003Uk9WMkpUbndyUTJQNFVaWGl2SEoxbzk3UXA2NFNNaURSUDFRbm9Ua0d2dEMyNXZkZHFnY2hhRVN2Mkt3MFp5QlRfQ3k5d0hsOUZLei1seXVMSnl6ZERLaVhoOTJJbVJibFlxck9vb0xWNnpTTkEzMnZoX0Mtb2xUUXhXX3pOM19QTTMwLXhpLVdsUExWZi0xbElWcHNZWFBTYzotSmF5YWtyaXNobmFuIEF0aGlwZXR0YWgmIzM5O3MgUG9zdCAtIExpbmtlZEluQr4BQSBmb3VydGgteWVhciA8Yj5JSVQ8L2I-LTxiPkJvbWJheTwvYj4gc3R1ZGVudCwgYWxsZWdlZGx5IGRpZWQgYnkgc3VpY2lkZSBhZnRlciBqdW1waW5nIGZyb20gaGlzIGhvc3RlbCB0ZXJyYWNlIGluIHRoZSBlYXJseSBob3VycyBvZiBTYXR1cmRheS4gPGI-SUlUPC9iPi08Yj5Cb21iYXk8L2I-IGhhcyBpc3N1ZWQgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "LinkedIn · Jayakrishnan Athipettah",
+      "read_more_link": "https://www.linkedin.com/posts/jayakrishnan-athipettah-ba228751_iit-bombay-student-commits-suicide-after-activity-7357362067303002113-T83C#:~:text=A%20fourth%2Dyear%20IIT%2DBombay%20student%2C%20allegedly,on%20its%20official%20X%20account."
+    },
+    {
+      "position": 5,
+      "title": "What is the funniest thing you've heard from a professor at ...",
+      "link": "https://www.quora.com/What-is-the-funniest-thing-youve-heard-from-a-professor-at-IIT",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFbm6cL5Wiw-oypkAkqMuq8O3sJ6qRVDvbqQi_iBFR9plB_wrsP1aoihyrwMefCmLdfC4juTaZKc3GedUkAdzf-5LVkiS0shHMXxdRCY5NfY6Aogn0bLWhaq9lTfEEmq3WHIlsyRxc5aSVQMV-YGFruEWlMDa_h1-xhKrwdG00kCrdpg1M71tZg&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECB0QAQ&uoh=1",
+      "displayed_link": "50+ answers",
+      "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "snippet": "What is the funniest thing you've heard from a professor at IIT?",
+      "about_this_result": {
+        "source": {
+          "description": "In IITB, once there was a professor in civil engineering soceity who was teaching a course on Construction Modelling. He was explaining different types of ...",
+          "source_info_link": "https://www.quora.com/What-is-the-funniest-thing-youve-heard-from-a-professor-at-IIT",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZibTZjTDVXaXctb3lwa0FrcU11cThPM3NKNnFSVkR2YnFRaV9pQkZSOXBsQl93cnNQMWFvaWh5cndNZWZDbUxkZkM0anVUYVpLYzNHZWRVa0FkemYtNUxWa2lTMHNoSE1YeGRSQ1k1TmZZNkFvZ24wYkxXaGFxOWxUZkVFbXEzV0hJbHN5UnhjNWFTVlFNVi1ZR0ZydUVXbE1EYV9oMS14aEtyd2RHMDBrQ3JkcGcxTTcxdFpnEgQaAggAGu4GEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMoGCAAQABgAIAAqEgoEd2hhdBUKCm5AGgV3aGljaCpBCghhY3R1YWxseRWgID0-GgZhY3R1YWwaB2V4YWN0bHkaBnJlYWxseRoFdHJ1bHkaEGFjdHVhbGx5aGFwcGVuZWQqggEKCGhhcHBlbmVkFUZkMz8aBmhhcHBlbhoJaGFwcGVuaW5nGgdoYXBwZW5zGghvY2N1cnJlZBoKdG9vayBwbGFjZRoQYWN0dWFsbHloYXBwZW5lZBoEZGllZBoIaW5jaWRlbnQaBmtpbGxlZBoFZGVhdGgaCGFjY2lkZW50GgRuZXdzKkUKA2lpdBUhahBAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5Fc5vID8aBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqGQoJcHJvZmVzc29yFSTDX0AaB2ZhY3VsdHkyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RmJtNmNMNVdpdy1veXBrQWtxTXVxOE8zc0o2cVJWRHZicVFpX2lCRlI5cGxCX3dyc1AxYW9paHlyd01lZkNtTGRmQzRqdVRhWktjM0dlZFVrQWR6Zi01TFZraVMwc2hITVh4ZFJDWTVOZlk2QW9nbjBiTFdoYXE5bFRmRUVtcTNXSElsc3lSeGM1YVNWUU1WLVlHRnJ1RVdsTURhX2gxLXhoS3J3ZEcwMGtDcmRwZzFNNzF0Wmc6UldoYXQgaXMgdGhlIGZ1bm5pZXN0IHRoaW5nIHlvdSYjMzk7dmUgaGVhcmQgZnJvbSBhIDxiPnByb2Zlc3NvcjwvYj4gYXQgPGI-SUlUPC9iPj9CsQFJbiA8Yj5JSVRCPC9iPiwgb25jZSB0aGVyZSB3YXMgYSA8Yj5wcm9mZXNzb3I8L2I-IGluIGNpdmlsIGVuZ2luZWVyaW5nIHNvY2VpdHkgd2hvIHdhcyB0ZWFjaGluZyBhIGNvdXJzZSBvbiBDb25zdHJ1Y3Rpb24gTW9kZWxsaW5nLiBIZSB3YXMgZXhwbGFpbmluZyBkaWZmZXJlbnQgdHlwZXMgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZibTZjTDVXaXctb3lwa0FrcU11cThPM3NKNnFSVkR2YnFRaV9pQkZSOXBsQl93cnNQMWFvaWh5cndNZWZDbUxkZkM0anVUYVpLYzNHZWRVa0FkemYtNUxWa2lTMHNoSE1YeGRSQ1k1TmZZNkFvZ24wYkxXaGFxOWxUZkVFbXEzV0hJbHN5UnhjNWFTVlFNVi1ZR0ZydUVXbE1EYV9oMS14aEtyd2RHMDBrQ3JkcGcxTTcxdFpnEgQaAggAGu4GEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMoGCAAQABgAIAAqEgoEd2hhdBUKCm5AGgV3aGljaCpBCghhY3R1YWxseRWgID0-GgZhY3R1YWwaB2V4YWN0bHkaBnJlYWxseRoFdHJ1bHkaEGFjdHVhbGx5aGFwcGVuZWQqggEKCGhhcHBlbmVkFUZkMz8aBmhhcHBlbhoJaGFwcGVuaW5nGgdoYXBwZW5zGghvY2N1cnJlZBoKdG9vayBwbGFjZRoQYWN0dWFsbHloYXBwZW5lZBoEZGllZBoIaW5jaWRlbnQaBmtpbGxlZBoFZGVhdGgaCGFjY2lkZW50GgRuZXdzKkUKA2lpdBUhahBAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5Fc5vID8aBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqGQoJcHJvZmVzc29yFSTDX0AaB2ZhY3VsdHkyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RmJtNmNMNVdpdy1veXBrQWtxTXVxOE8zc0o2cVJWRHZicVFpX2lCRlI5cGxCX3dyc1AxYW9paHlyd01lZkNtTGRmQzRqdVRhWktjM0dlZFVrQWR6Zi01TFZraVMwc2hITVh4ZFJDWTVOZlk2QW9nbjBiTFdoYXE5bFRmRUVtcTNXSElsc3lSeGM1YVNWUU1WLVlHRnJ1RVdsTURhX2gxLXhoS3J3ZEcwMGtDcmRwZzFNNzF0Wmc6UldoYXQgaXMgdGhlIGZ1bm5pZXN0IHRoaW5nIHlvdSYjMzk7dmUgaGVhcmQgZnJvbSBhIDxiPnByb2Zlc3NvcjwvYj4gYXQgPGI-SUlUPC9iPj9CsQFJbiA8Yj5JSVRCPC9iPiwgb25jZSB0aGVyZSB3YXMgYSA8Yj5wcm9mZXNzb3I8L2I-IGluIGNpdmlsIGVuZ2luZWVyaW5nIHNvY2VpdHkgd2hvIHdhcyB0ZWFjaGluZyBhIGNvdXJzZSBvbiBDb25zdHJ1Y3Rpb24gTW9kZWxsaW5nLiBIZSB3YXMgZXhwbGFpbmluZyBkaWZmZXJlbnQgdHlwZXMgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Quora"
+    },
+    {
+      "position": 6,
+      "title": "Kalpit Veerwal",
+      "link": "https://x.com/kalpitveerwal/status/1930299654761263312",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAV7RRvSh3fl5TRKtV5LVDlJs3y7-Io1ldmxxVRzPNQysIusKgPiZDRklnehVxA866A90V2x_0pH3CgieVSiRfS82KBjK1g22LE-tBqVAc5-UbmsMEe5UFzKWPEa1mcXT8aW_xWVZsut_9v&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBkQAQ&uoh=1",
+      "displayed_link": "150+ likes",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+      "snippet": "Professor Ajit Diwan from IIT Bombay CSE Department. he passed away earlier this year. As you may know, he passed away earlier this year. forever be missed.",
+      "snippet_highlighted_words": [
+        "Professor",
+        "IIT Bombay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Professor Ajit Diwan from IIT Bombay CSE Department. he passed away earlier this year. As you may know, he passed away earlier this year. forever be missed.",
+          "source_info_link": "https://x.com/kalpitveerwal/status/1930299654761263312",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjdSUnZTaDNmbDVUUkt0VjVMVkRsSnMzeTctSW8xbGRteHhWUnpQTlF5c0l1c0tnUGlaRFJrbG5laFZ4QTg2NkE5MFYyeF8wcEgzQ2dpZVZTaVJmUzgyS0JqSzFnMjJMRS10QnFWQWM1LVVibXNNRWU1VUZ6S1dQRWExbWNYVDhhV194V1Zac3V0Xzl2EgQaAggAGv4FEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQNoFCAAQABgAIAAqEgoEd2hhdBWsMLI9GgV3aGljaCpBCghhY3R1YWxseRUAAAAAGgZhY3R1YWwaB2V4YWN0bHkaBnJlYWxseRoFdHJ1bHkaEGFjdHVhbGx5aGFwcGVuZWQqggEKCGhhcHBlbmVkFQAAAAAaBmhhcHBlbhoJaGFwcGVuaW5nGgdoYXBwZW5zGghvY2N1cnJlZBoKdG9vayBwbGFjZRoQYWN0dWFsbHloYXBwZW5lZBoEZGllZBoIaW5jaWRlbnQaBmtpbGxlZBoFZGVhdGgaCGFjY2lkZW50GgRuZXdzKkUKA2lpdBV1RABAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FXVEAEAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqGQoJcHJvZmVzc29yFSyl5T8aB2ZhY3VsdHkyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWN1JSdlNoM2ZsNVRSS3RWNUxWRGxKczN5Ny1JbzFsZG14eFZSelBOUXlzSXVzS2dQaVpEUmtsbmVoVnhBODY2QTkwVjJ4XzBwSDNDZ2llVlNpUmZTODJLQmpLMWcyMkxFLXRCcVZBYzUtVWJtc01FZTVVRnpLV1BFYTFtY1hUOGFXX3hXVlpzdXRfOXY6E0thbHBpdCBWZWVyd2FsIG9uIFhCqgE8Yj5Qcm9mZXNzb3I8L2I-IEFqaXQgRGl3YW4gZnJvbSA8Yj5JSVQgQm9tYmF5PC9iPiBDU0UgRGVwYXJ0bWVudC4gaGUgcGFzc2VkIGF3YXkgZWFybGllciB0aGlzIHllYXIuIEFzIHlvdSBtYXkga25vdywgaGUgcGFzc2VkIGF3YXkgZWFybGllciB0aGlzIHllYXIuIGZvcmV2ZXIgYmUgbWlzc2VkLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjdSUnZTaDNmbDVUUkt0VjVMVkRsSnMzeTctSW8xbGRteHhWUnpQTlF5c0l1c0tnUGlaRFJrbG5laFZ4QTg2NkE5MFYyeF8wcEgzQ2dpZVZTaVJmUzgyS0JqSzFnMjJMRS10QnFWQWM1LVVibXNNRWU1VUZ6S1dQRWExbWNYVDhhV194V1Zac3V0Xzl2EgQaAggAGv4FEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQNoFCAAQABgAIAAqEgoEd2hhdBWsMLI9GgV3aGljaCpBCghhY3R1YWxseRUAAAAAGgZhY3R1YWwaB2V4YWN0bHkaBnJlYWxseRoFdHJ1bHkaEGFjdHVhbGx5aGFwcGVuZWQqggEKCGhhcHBlbmVkFQAAAAAaBmhhcHBlbhoJaGFwcGVuaW5nGgdoYXBwZW5zGghvY2N1cnJlZBoKdG9vayBwbGFjZRoQYWN0dWFsbHloYXBwZW5lZBoEZGllZBoIaW5jaWRlbnQaBmtpbGxlZBoFZGVhdGgaCGFjY2lkZW50GgRuZXdzKkUKA2lpdBV1RABAGgRpaXRiGh5pbmRpYW4gaW5zdGl0dXRlIG9mIHRlY2hub2xvZ3kaCWlpdGJvbWJheRoIaXY7cDtpaXQqKwoGYm9tYmF5FXVEAEAaBGlpdGIaCWlpdGJvbWJheRoLaXY7cDtib21iYXkqGQoJcHJvZmVzc29yFSyl5T8aB2ZhY3VsdHkyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWN1JSdlNoM2ZsNVRSS3RWNUxWRGxKczN5Ny1JbzFsZG14eFZSelBOUXlzSXVzS2dQaVpEUmtsbmVoVnhBODY2QTkwVjJ4XzBwSDNDZ2llVlNpUmZTODJLQmpLMWcyMkxFLXRCcVZBYzUtVWJtc01FZTVVRnpLV1BFYTFtY1hUOGFXX3hXVlpzdXRfOXY6E0thbHBpdCBWZWVyd2FsIG9uIFhCqgE8Yj5Qcm9mZXNzb3I8L2I-IEFqaXQgRGl3YW4gZnJvbSA8Yj5JSVQgQm9tYmF5PC9iPiBDU0UgRGVwYXJ0bWVudC4gaGUgcGFzc2VkIGF3YXkgZWFybGllciB0aGlzIHllYXIuIEFzIHlvdSBtYXkga25vdywgaGUgcGFzc2VkIGF3YXkgZWFybGllciB0aGlzIHllYXIuIGZvcmV2ZXIgYmUgbWlzc2VkLiICEAFIAFgAaAA",
+      "source": "X · kalpitveerwal"
+    },
+    {
+      "position": 7,
+      "title": "Stress, dropouts, suicides: Unravelling IIT's casteism problem",
+      "link": "https://www.newslaundry.com/2023/03/28/stress-dropouts-suicides-unravelling-iits-casteism-problem",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFfYNZACdrt3HHEWThRuEz-qhiTjKuVNxbPmjmNA8x5ZP-qxsmxlQrnsoHs7XXQ9qELOeQnNM4L6Xw47tbSi_jXdW5nwnkg9c3Ros_zBOAiw6ERjUhr-unE-KJI7_Nek_-F7b3McQs7fYWxDJdm0c_q78uERs6idG-GUv1i7pUejZuDgR8ESXMv5ZIwY7NPixtl4Pljs&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.newslaundry.com › Report",
+      "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAACQBQCdASocABwAPtE8tFooIigoFAEAGglsAHhn9NtwYRgSpDye06a8V2-8ZmKNgIpU3w4fQAD-y1pqTPnv0edj9qV8mZqLg5m-wB-c7BCSABnZdUvo485T7XBzZeydD1Va50rxiSD_P__9ZGaw8eX__7g4_nOqHL_2DjsjC22cfsWqsuHkYwpYyfupXEYYbhUZCEOeC4Se6MlmEdbpJKpPlIp1GyKt53U93d-ZWwXg3DPzeYj6crTbc4nRJnS7_DHNORim0D8jRZrTK2XIZMnsf8T6YL80zs8zbeFBgGd_9b-v3CsGNrpw3lreqdMy_lquy-zTnZEgfy_omRPnke-vpqDgAAAA.webp",
+      "date": "Mar 27, 2023",
+      "snippet": "Two years later, he died by suicide on campus. “Throughout his school, he never scored below 90 percent. But at IIT, his confidence and mental health was ...",
+      "snippet_highlighted_words": [
+        "IIT"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Two years later, he died by suicide on campus. “Throughout his school, he never scored below 90 percent. But at IIT, his confidence and mental health was ...",
+          "source_info_link": "https://www.newslaundry.com/2023/03/28/stress-dropouts-suicides-unravelling-iits-casteism-problem",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAACQBQCdASocABwAPtE8tFooIigoFAEAGglsAHhn9NtwYRgSpDye06a8V2-8ZmKNgIpU3w4fQAD-y1pqTPnv0edj9qV8mZqLg5m-wB-c7BCSABnZdUvo485T7XBzZeydD1Va50rxiSD_P__9ZGaw8eX__7g4_nOqHL_2DjsjC22cfsWqsuHkYwpYyfupXEYYbhUZCEOeC4Se6MlmEdbpJKpPlIp1GyKt53U93d-ZWwXg3DPzeYj6crTbc4nRJnS7_DHNORim0D8jRZrTK2XIZMnsf8T6YL80zs8zbeFBgGd_9b-v3CsGNrpw3lreqdMy_lquy-zTnZEgfy_omRPnke-vpqDgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZmWU5aQUNkcnQzSEhFV1RoUnVFei1xaGlUakt1Vk54YlBtam1OQTh4NVpQLXF4c214bFFybnNvSHM3WFhROXFFTE9lUW5OTTRMNlh3NDd0YlNpX2pYZFc1bndua2c5YzNSb3NfekJPQWl3NkVSalVoci11bkUtS0pJN19OZWtfLUY3YjNNY1FzN2ZZV3hESmRtMGNfcTc4dUVSczZpZEctR1V2MWk3cFVlalp1RGdSOEVTWE12NVpJd1k3TlBpeHRsNFBsanMSBBoCCAAa8gYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDMBggAEAAYACAAKhIKBHdoYXQVerqXPhoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBX9HZk-GgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVglaHQBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRX3LvE_GgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchUhPAg_GgdmYWN1bHR5Mt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZmWU5aQUNkcnQzSEhFV1RoUnVFei1xaGlUakt1Vk54YlBtam1OQTh4NVpQLXF4c214bFFybnNvSHM3WFhROXFFTE9lUW5OTTRMNlh3NDd0YlNpX2pYZFc1bndua2c5YzNSb3NfekJPQWl3NkVSalVoci11bkUtS0pJN19OZWtfLUY3YjNNY1FzN2ZZV3hESmRtMGNfcTc4dUVSczZpZEctR1V2MWk3cFVlalp1RGdSOEVTWE12NVpJd1k3TlBpeHRsNFBsanM6SVN0cmVzcywgZHJvcG91dHMsIHN1aWNpZGVzOiBVbnJhdmVsbGluZyA8Yj5JSVQmIzM5O3M8L2I-IGNhc3RlaXNtIHByb2JsZW1CqwFUd28geWVhcnMgbGF0ZXIsIGhlIGRpZWQgYnkgc3VpY2lkZSBvbiBjYW1wdXMuIOKAnFRocm91Z2hvdXQgaGlzIHNjaG9vbCwgaGUgbmV2ZXIgc2NvcmVkIGJlbG93IDkwIHBlcmNlbnQuIEJ1dCBhdCA8Yj5JSVQ8L2I-LCBoaXMgY29uZmlkZW5jZSBhbmQgbWVudGFsIGhlYWx0aCB3YXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZmWU5aQUNkcnQzSEhFV1RoUnVFei1xaGlUakt1Vk54YlBtam1OQTh4NVpQLXF4c214bFFybnNvSHM3WFhROXFFTE9lUW5OTTRMNlh3NDd0YlNpX2pYZFc1bndua2c5YzNSb3NfekJPQWl3NkVSalVoci11bkUtS0pJN19OZWtfLUY3YjNNY1FzN2ZZV3hESmRtMGNfcTc4dUVSczZpZEctR1V2MWk3cFVlalp1RGdSOEVTWE12NVpJd1k3TlBpeHRsNFBsanMSBBoCCAAa8gYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDMBggAEAAYACAAKhIKBHdoYXQVerqXPhoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBX9HZk-GgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVglaHQBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRX3LvE_GgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchUhPAg_GgdmYWN1bHR5Mt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZmWU5aQUNkcnQzSEhFV1RoUnVFei1xaGlUakt1Vk54YlBtam1OQTh4NVpQLXF4c214bFFybnNvSHM3WFhROXFFTE9lUW5OTTRMNlh3NDd0YlNpX2pYZFc1bndua2c5YzNSb3NfekJPQWl3NkVSalVoci11bkUtS0pJN19OZWtfLUY3YjNNY1FzN2ZZV3hESmRtMGNfcTc4dUVSczZpZEctR1V2MWk3cFVlalp1RGdSOEVTWE12NVpJd1k3TlBpeHRsNFBsanM6SVN0cmVzcywgZHJvcG91dHMsIHN1aWNpZGVzOiBVbnJhdmVsbGluZyA8Yj5JSVQmIzM5O3M8L2I-IGNhc3RlaXNtIHByb2JsZW1CqwFUd28geWVhcnMgbGF0ZXIsIGhlIGRpZWQgYnkgc3VpY2lkZSBvbiBjYW1wdXMuIOKAnFRocm91Z2hvdXQgaGlzIHNjaG9vbCwgaGUgbmV2ZXIgc2NvcmVkIGJlbG93IDkwIHBlcmNlbnQuIEJ1dCBhdCA8Yj5JSVQ8L2I-LCBoaXMgY29uZmlkZW5jZSBhbmQgbWVudGFsIGhlYWx0aCB3YXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Newslaundry",
+      "read_more_link": "https://www.newslaundry.com/2023/03/28/stress-dropouts-suicides-unravelling-iits-casteism-problem#:~:text=Two%20years%20later%2C%20he%20died,said%20his%20father%20Sanjay%20Ambhore."
+    },
+    {
+      "position": 8,
+      "title": "Dr. Preeti Rao",
+      "link": "https://acr.iitbombay.org/womengenzero/preeti.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVbc8hz_IOO3c_X57XPvFKZ0WJouBNUrXDcA81hxmYXCRIS8BBJBuHTwGCwcNHmFpGOpU9EiyauzfMmEPUK_wsnypfpJ4aLihGdf3010k7t7khHy_b2IGPKstkgf4oMYf62kLjAlg&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://acr.iitbombay.org › womengenzero › preeti",
+      "favicon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAAAwCACdASogACAAAsBMJaQAUYHwo6FxFV9b1hBgSoJMK8q_Mi8_frt8Af6x9YD0Iv2mLVNLDSdxZ6M9B3P9xIv71YMfVvCucs6GAAD-6K43UuzmXRkAjkCWO95y776_OVitxoUilX9m7CjJcwtPCt2ThqYeoD8JteUlrY3bgni12522-QtlFyq6fD428s4YJf4FeWGa9MQV9DSVGin0RswXnR-z3DMyVL_kJz58FwtaNaj01plC9ToXbnbNKOZs41gturYxYoTVnSSucREYlbBJeAS3tOqaF9y3HsHkpHIQBARHUaSn5d7mBqZTAX5JW7pvdR0k-O6pR9wc5VJQyKHTfM0EjqFqk-bMTrSeUdh11ecnaBfpHMI_xpHrZzeMEhLa-8CzoZe5yw38-PKjqy1s4wD2uEnY4PJkIqY_ZXkEjW_UuOHBucE72WVSqZurlNpoNIKMvcgMZYu3Sh4q1U4Faj_OeQsKCapPf0wJjUq_UwALKyw7hXjDrPG0GE5cpwPzTa9n2mnbubdCYNeWpfrQHVLMnDcQxGIkT3ymZEbVAtj4aBPaDDybim131e03AKiIXiZU2jRdaPeR5Zb-tK-ShoHp9__2wagxOn8HjiaWmE4lUk1CtWuINh1nsYk7-nYMYme60YZaAAAA.webp",
+      "date": "Nov 1, 2022",
+      "snippet": "It was really a series of accidents that brought me to IIT rather than any strategy or plan!",
+      "snippet_highlighted_words": [
+        "really",
+        "IIT"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "It was really a series of accidents that brought me to IIT rather than any strategy or plan!",
+          "source_info_link": "https://acr.iitbombay.org/womengenzero/preeti.html",
+          "icon": "https://serpapi.com/images/i/UklGRvYBAABXRUJQVlA4IOoBAAAwCACdASogACAAAsBMJaQAUYHwo6FxFV9b1hBgSoJMK8q_Mi8_frt8Af6x9YD0Iv2mLVNLDSdxZ6M9B3P9xIv71YMfVvCucs6GAAD-6K43UuzmXRkAjkCWO95y776_OVitxoUilX9m7CjJcwtPCt2ThqYeoD8JteUlrY3bgni12522-QtlFyq6fD428s4YJf4FeWGa9MQV9DSVGin0RswXnR-z3DMyVL_kJz58FwtaNaj01plC9ToXbnbNKOZs41gturYxYoTVnSSucREYlbBJeAS3tOqaF9y3HsHkpHIQBARHUaSn5d7mBqZTAX5JW7pvdR0k-O6pR9wc5VJQyKHTfM0EjqFqk-bMTrSeUdh11ecnaBfpHMI_xpHrZzeMEhLa-8CzoZe5yw38-PKjqy1s4wD2uEnY4PJkIqY_ZXkEjW_UuOHBucE72WVSqZurlNpoNIKMvcgMZYu3Sh4q1U4Faj_OeQsKCapPf0wJjUq_UwALKyw7hXjDrPG0GE5cpwPzTa9n2mnbubdCYNeWpfrQHVLMnDcQxGIkT3ymZEbVAtj4aBPaDDybim131e03AKiIXiZU2jRdaPeR5Zb-tK-ShoHp9__2wagxOn8HjiaWmE4lUk1CtWuINh1nsYk7-nYMYme60YZaAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJjOGh6X0lPTzNjX1g1N1hQdkZLWjBXSm91Qk5VclhEY0E4MWh4bVlYQ1JJUzhCQkpCdUhUd0dDd2NOSG1GcEdPcFU5RWl5YXV6Zk1tRVBVS193c255cGZwSjRhTGloR2RmMzAxMGs3dDdraEh5X2IySUdQS3N0a2dmNG9NWWY2MmtMakFsZxIEGgIIABrABRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCcBQgAEAAYACAAKhIKBHdoYXQVtX38PhoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBW0664-GgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVjCTPQBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRWfEMNAGgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchXi8oE_GgdmYWN1bHR5Mp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJjOGh6X0lPTzNjX1g1N1hQdkZLWjBXSm91Qk5VclhEY0E4MWh4bVlYQ1JJUzhCQkpCdUhUd0dDd2NOSG1GcEdPcFU5RWl5YXV6Zk1tRVBVS193c255cGZwSjRhTGloR2RmMzAxMGs3dDdraEh5X2IySUdQS3N0a2dmNG9NWWY2MmtMakFsZzobRHIuIFByZWV0aSBSYW8gLSBJSVQgQm9tYmF5QmpJdCB3YXMgPGI-cmVhbGx5PC9iPiBhIHNlcmllcyBvZiBhY2NpZGVudHMgdGhhdCBicm91Z2h0IG1lIHRvIDxiPklJVDwvYj4gcmF0aGVyIHRoYW4gYW55IHN0cmF0ZWd5IG9yIHBsYW4hIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJjOGh6X0lPTzNjX1g1N1hQdkZLWjBXSm91Qk5VclhEY0E4MWh4bVlYQ1JJUzhCQkpCdUhUd0dDd2NOSG1GcEdPcFU5RWl5YXV6Zk1tRVBVS193c255cGZwSjRhTGloR2RmMzAxMGs3dDdraEh5X2IySUdQS3N0a2dmNG9NWWY2MmtMakFsZxIEGgIIABrABRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCcBQgAEAAYACAAKhIKBHdoYXQVtX38PhoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBW0664-GgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVjCTPQBoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRWfEMNAGgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchXi8oE_GgdmYWN1bHR5Mp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmJjOGh6X0lPTzNjX1g1N1hQdkZLWjBXSm91Qk5VclhEY0E4MWh4bVlYQ1JJUzhCQkpCdUhUd0dDd2NOSG1GcEdPcFU5RWl5YXV6Zk1tRVBVS193c255cGZwSjRhTGloR2RmMzAxMGs3dDdraEh5X2IySUdQS3N0a2dmNG9NWWY2MmtMakFsZzobRHIuIFByZWV0aSBSYW8gLSBJSVQgQm9tYmF5QmpJdCB3YXMgPGI-cmVhbGx5PC9iPiBhIHNlcmllcyBvZiBhY2NpZGVudHMgdGhhdCBicm91Z2h0IG1lIHRvIDxiPklJVDwvYj4gcmF0aGVyIHRoYW4gYW55IHN0cmF0ZWd5IG9yIHBsYW4hIgIQAUgAWABoAA",
+      "source": "IIT Bombay ACR"
+    },
+    {
+      "position": 9,
+      "title": "Tathagat Avatar Tulsi",
+      "link": "https://en.wikipedia.org/wiki/Tathagat_Avatar_Tulsi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVehzXdFkWQaUD3HB1Kpyc1c88nrZTquGsR6CAU0Kl6rKWkhEEQ4k6Pdf_Kg_z__xDsAfewmZmuri4Sr9i0HBnTmZWgfqe5tXZCQ5zomKs0AHpCnQj84vWafJNuGh7v3yOjgfHgXZa&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0QFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Tathagat_Avatar_Tulsi",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "date": "Aug 15, 2021",
+      "snippet": "His one-year probation at IIT Bombay got confirmed in 2013. He took four year long leave from 2014 to 2017 because of his allergic asthma in the hot and humid ...",
+      "snippet_highlighted_words": [
+        "IIT Bombay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "His one-year probation at IIT Bombay got confirmed in 2013. He took four year long leave from 2014 to 2017 because of his allergic asthma in the hot and humid ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Tathagat_Avatar_Tulsi",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmVoelhkRmtXUWFVRDNIQjFLcHljMWM4OG5yWlRxdUdzUjZDQVUwS2w2cktXa2hFRVE0azZQZGZfS2dfel9feERzQWZld21abXVyaTRTcjlpMEhCblRtWldnZnFlNXRYWkNRNXpvbUtzMEFIcENuUWo4NHZXYWZKTnVHaDd2M3lPamdmSGdYWmESBBoCCAAajgYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDoBQgAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBUAAAAAGgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVxYXvPxoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRU-YMA_GgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchW414U_GgdmYWN1bHR5Mp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmVoelhkRmtXUWFVRDNIQjFLcHljMWM4OG5yWlRxdUdzUjZDQVUwS2w2cktXa2hFRVE0azZQZGZfS2dfel9feERzQWZld21abXVyaTRTcjlpMEhCblRtWldnZnFlNXRYWkNRNXpvbUtzMEFIcENuUWo4NHZXYWZKTnVHaDd2M3lPamdmSGdYWmE6IVRhdGhhZ2F0IEF2YXRhciBUdWxzaSAtIFdpa2lwZWRpYUKuAUhpcyBvbmUteWVhciBwcm9iYXRpb24gYXQgPGI-SUlUIEJvbWJheTwvYj4gZ290IGNvbmZpcm1lZCBpbiAyMDEzLiBIZSB0b29rIGZvdXIgeWVhciBsb25nIGxlYXZlIGZyb20gMjAxNCB0byAyMDE3IGJlY2F1c2Ugb2YgaGlzIGFsbGVyZ2ljIGFzdGhtYSBpbiB0aGUgaG90IGFuZCBodW1pZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmVoelhkRmtXUWFVRDNIQjFLcHljMWM4OG5yWlRxdUdzUjZDQVUwS2w2cktXa2hFRVE0azZQZGZfS2dfel9feERzQWZld21abXVyaTRTcjlpMEhCblRtWldnZnFlNXRYWkNRNXpvbUtzMEFIcENuUWo4NHZXYWZKTnVHaDd2M3lPamdmSGdYWmESBBoCCAAajgYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDoBQgAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqQQoIYWN0dWFsbHkVAAAAABoGYWN0dWFsGgdleGFjdGx5GgZyZWFsbHkaBXRydWx5GhBhY3R1YWxseWhhcHBlbmVkKoIBCghoYXBwZW5lZBUAAAAAGgZoYXBwZW4aCWhhcHBlbmluZxoHaGFwcGVucxoIb2NjdXJyZWQaCnRvb2sgcGxhY2UaEGFjdHVhbGx5aGFwcGVuZWQaBGRpZWQaCGluY2lkZW50GgZraWxsZWQaBWRlYXRoGghhY2NpZGVudBoEbmV3cypFCgNpaXQVxYXvPxoEaWl0YhoeaW5kaWFuIGluc3RpdHV0ZSBvZiB0ZWNobm9sb2d5GglpaXRib21iYXkaCGl2O3A7aWl0KisKBmJvbWJheRU-YMA_GgRpaXRiGglpaXRib21iYXkaC2l2O3A7Ym9tYmF5KhkKCXByb2Zlc3NvchW414U_GgdmYWN1bHR5Mp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmVoelhkRmtXUWFVRDNIQjFLcHljMWM4OG5yWlRxdUdzUjZDQVUwS2w2cktXa2hFRVE0azZQZGZfS2dfel9feERzQWZld21abXVyaTRTcjlpMEhCblRtWldnZnFlNXRYWkNRNXpvbUtzMEFIcENuUWo4NHZXYWZKTnVHaDd2M3lPamdmSGdYWmE6IVRhdGhhZ2F0IEF2YXRhciBUdWxzaSAtIFdpa2lwZWRpYUKuAUhpcyBvbmUteWVhciBwcm9iYXRpb24gYXQgPGI-SUlUIEJvbWJheTwvYj4gZ290IGNvbmZpcm1lZCBpbiAyMDEzLiBIZSB0b29rIGZvdXIgeWVhciBsb25nIGxlYXZlIGZyb20gMjAxNCB0byAyMDE3IGJlY2F1c2Ugb2YgaGlzIGFsbGVyZ2ljIGFzdGhtYSBpbiB0aGUgaG90IGFuZCBodW1pZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Tathagat_Avatar_Tulsi#:~:text=His%20one%2Dyear%20probation%20at%20IIT,and%20humid%20climate%20of%20Mumbai."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=10&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8NMDegQIPxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=10&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAE",
+      "3": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=20&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAG",
+      "4": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=30&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAI",
+      "5": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=40&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAK",
+      "6": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=50&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAM",
+      "7": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=60&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAO",
+      "8": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=70&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAQ",
+      "9": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=80&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAS",
+      "10": "https://www.google.com/search?q=what+actually+happened+iit+bombay+professor+before:2026-01-01&sca_esv=1292a53073048c05&ei=RlmxasicDMbY5NoP6cv66AU&start=90&sa=N&sstk=AS6-VmIUM2hok5KuimMbIGxkjOE6s_zQkbDODGVjQiG7ISGNt4BAUlSD5LphNzWvsOgxukjAGwceKDCrG2c030tXNXDmW_6smwEjvw&ved=2ahUKEwjI192DioCXAxVGLFkFHemlHl0Q8tMDegQIPxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+actually+happened+iit+bombay+professor+before%3A2026-01-01&start=90"
+    }
+  }
+}

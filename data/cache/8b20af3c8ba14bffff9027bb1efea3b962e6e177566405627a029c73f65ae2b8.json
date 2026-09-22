@@ -1,0 +1,27 @@
+{
+  "search_metadata": {
+    "id": "6ab15944550cc41f23f1d535",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eqvGz0xqXSagi8vXQwO9rJMVCuNY3hqyL9R2N9Opb0w/6ab15944550cc41f23f1d535.json",
+    "markdown_endpoint": "https://serpapi.com/searches/eqvGz0xqXSagi8vXQwO9rJMVCuNY3hqyL9R2N9Opb0w/6ab15944550cc41f23f1d535.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/eqvGz0xqXSagi8vXQwO9rJMVCuNY3hqyL9R2N9Opb0w/6ab15944550cc41f23f1d535.json_with_pixel_position",
+    "created_at": "2026-09-21 16:20:20 UTC",
+    "processed_at": "2026-09-21 16:20:20 UTC",
+    "google_url": "https://www.google.com/search?q=%22What+actually+happened+in+the+IIT+Bombay+professor+Suryanarayana+Doolla+case%3F+Did+the+professor+threaten+the+student+after+he+was+caught+using+ChatGPT+in+an+exam%2C+or+is+that+claim+different+from+IIT+Bombay%E2%80%99s+official+account%3F%22&oq=%22What+actually+happened+in+the+IIT+Bombay+professor+Suryanarayana+Doolla+case%3F+Did+the+professor+threaten+the+student+after+he+was+caught+using+ChatGPT+in+an+exam%2C+or+is+that+claim+different+from+IIT+Bombay%E2%80%99s+official+account%3F%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/eqvGz0xqXSagi8vXQwO9rJMVCuNY3hqyL9R2N9Opb0w/6ab15944550cc41f23f1d535.html",
+    "total_time_taken": 0.89
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"What actually happened in the IIT Bombay professor Suryanarayana Doolla case? Did the professor threaten the student after he was caught using ChatGPT in an exam, or is that claim different from IIT Bombay’s official account?\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"What actually happened in the IIT Bombay professor Suryanarayana Doolla case? Did the professor threaten the student after he was caught using ChatGPT in an exam, or is that claim different from IIT Bombay’s official account?\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+}

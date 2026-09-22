@@ -1,0 +1,406 @@
+{
+  "search_metadata": {
+    "id": "6ab1744a318660c14ac3a2f6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lOLNaI5Zjua-tt7V3fVwFcMJL6bJObWvRjblItN_6kI/6ab1744a318660c14ac3a2f6.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lOLNaI5Zjua-tt7V3fVwFcMJL6bJObWvRjblItN_6kI/6ab1744a318660c14ac3a2f6.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/lOLNaI5Zjua-tt7V3fVwFcMJL6bJObWvRjblItN_6kI/6ab1744a318660c14ac3a2f6.json_with_pixel_position",
+    "created_at": "2026-09-21 18:15:38 UTC",
+    "processed_at": "2026-09-21 18:15:38 UTC",
+    "google_url": "https://www.google.com/search?q=whatsapp+start+charging+messages+before%3A2026-01-01&oq=whatsapp+start+charging+messages+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/lOLNaI5Zjua-tt7V3fVwFcMJL6bJObWvRjblItN_6kI/6ab1744a318660c14ac3a2f6.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "whatsapp start charging messages before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "whatsapp start charging messages before:2026-01-01",
+    "total_results": 65500000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "WhatsApp API Pricing 2025: New Per-Message Charges ...",
+      "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU",
+      "thumbnail": "https://serpapi.com/searches/6ab1744a318660c14ac3a2f6/images/G7ZOFJJsVbj5uPVV5wcXRbnkzVMwmU_5vco9OQuQCgk.jpeg",
+      "channel": "Respond.io",
+      "duration": "5:44",
+      "platform": "YouTube",
+      "date": "Jul 3, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTvJx2jU0pE-ewix5ngR9OnyLKt2Bskpry_zA",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "What is WhatsApp API pricing and what will you learn in this video?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=0"
+        },
+        {
+          "time": "00:15",
+          "title": "Why did Meta change the WhatsApp Business API pricing model in 2025?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=15"
+        },
+        {
+          "time": "00:53",
+          "title": "How does WhatsApp API message-based billing work?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=53"
+        },
+        {
+          "time": "01:14",
+          "title": "What are the new prices for WhatsApp template and session messages?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=74"
+        },
+        {
+          "time": "01:47",
+          "title": "How did the Customer Service Window rules and costs change?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=107"
+        },
+        {
+          "time": "02:30",
+          "title": "How are WhatsApp Business Calling API calls charged?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=150"
+        },
+        {
+          "time": "03:20",
+          "title": "Which free entry points for WhatsApp conversations are still available?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=200"
+        },
+        {
+          "time": "03:57",
+          "title": "What are the benefits of using WhatsApp API via respond.io as your BSP?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=237"
+        },
+        {
+          "time": "04:15",
+          "title": "WhatsApp API example pricing scenario: how much does this real use case cost?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=255"
+        },
+        {
+          "time": "05:18",
+          "title": "Is WhatsApp Business API worth it for your business in 2025?",
+          "link": "https://www.youtube.com/watch?v=MlaTvL-XzDU&t=318"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "WhatsApp Business Pricing Explained | Message Types, Costs ...",
+      "link": "https://www.youtube.com/watch?v=14PykVZHKs0",
+      "thumbnail": "https://serpapi.com/searches/6ab1744a318660c14ac3a2f6/images/cT4JQ09gtMeVa6AVjsZ516lLtASUls-mGXnl6KnjQ1w.jpeg",
+      "channel": "Picky Assist",
+      "duration": "1:56",
+      "platform": "YouTube",
+      "date": "Oct 6, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT_Rc036h1QvGkwfLCp0Pam6pjBrOCUCu12pQ"
+    },
+    {
+      "position": 3,
+      "title": "Your WhatsApp Bills Are About to Change (Here's Why)",
+      "link": "https://www.youtube.com/watch?v=h9VW4i_iH0Y",
+      "thumbnail": "https://serpapi.com/searches/6ab1744a318660c14ac3a2f6/images/iMkUkJaeXFoPajjn8BBKjRydc_Dh-x8KEdngFkBO85o.jpeg",
+      "channel": "SleekFlow",
+      "duration": "2:33",
+      "platform": "YouTube",
+      "date": "Sep 3, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQBf7QkMWftX76uVsH1gizmevyP1kkZK0FFBg",
+      "key_moments": [
+        {
+          "time": "00:11",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=h9VW4i_iH0Y&t=11"
+        },
+        {
+          "time": "00:21",
+          "title": "WhatsApp Message Template categories",
+          "link": "https://www.youtube.com/watch?v=h9VW4i_iH0Y&t=21"
+        },
+        {
+          "time": "00:53",
+          "title": "What messages are free",
+          "link": "https://www.youtube.com/watch?v=h9VW4i_iH0Y&t=53"
+        },
+        {
+          "time": "01:31",
+          "title": "How to save WhatsApp messaging cost",
+          "link": "https://www.youtube.com/watch?v=h9VW4i_iH0Y&t=91"
+        }
+      ]
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ZaTafniczZbhcqI6FMcf4D7H9UtbQapoO-PsJBEsWrUputX94kTAgIIoodL6bd9ln-o-zQ0oCq60u_vhzs20JoSTk3N6zs9_v_9wndXyn7--22G4ZveCEEVRmfo-da2y4XsCYe8rQ5j7LgsM-8v7tnlbMlhTLFlOU1_pbySor7RvRIz61afX7uJRBKNScqQ5nRFmLbjHtwUTpgL_WP592-IPZVa2VuXRcODKEprrGJQlsXJXHgjE4wbgvxsTClA860ApNuKvtF_yhjFAWtYThMmETjtRYgcUmryB8frynWjvR7OTTwCe7FXNZvyIn5o8FMYBs-HCySG4SXIfoBh8lOwFb_scKDjP5cIoyAbnXIB25lWhPwhoLk5uSBF8EAFO3dCcPcLZ65X4ANxbDDCwWg1gU_pBGfkBtQcMHWjos2L7SGvA9CqV8X7VBJPyxhWFWcCniuAYtpEsAhb3Mxreif4DVReLbVXvP_eB0wvHUn8-d9zZttXyIsGYcTvXJ6ZlTu2p-CV5rkiVmnh3W29cJyAZ7EgSy5JkM9_Xwbju2az8WIaVFCN0bNvj33i_4L0FzpNMHiE6WOSKoqRbaTUQOHqmJOcjPa1g0HPO_IysuBq900ZLAqCatThVG4FLGO3XpyXHyNkHwsFTQFr-jAXf7WT8ZHKGEfhpwPONFkw7SoP03DDf6hpVdHBKGOZ7k9s6thJ3bMzAVyOJych3cFwu7SyQ-PuBF0U55KCnSe1H-5QPv0DFScvbMTd0NIrhUQ4NHx94BsfvojMO6BlI6Xjhv6r9CfCFw__chGNz4OWs_bPYKLXNznGs7XN7OHkYAEeWSXe1Gt-qZkQvY-J7s99QHON_BdJej7SDHhWDpP0SSBijYj3aL1M9chLNgBjjApBQp0CPqqnJSY_OQYKPGZDsj_Xod0FCH4KUQnoRJLQ8vM2ChIpASvUoC5LTyetRLoyjHh1B-iM98v9MjxKurP2UF6fXBS0UKRXhDVh6zgi_9v0I7xa7caS_tHvUdcGnIjX3wnuPmO711DHvodQJ383rKd_w7y2ztGlGNgkZWa-vWEiC8MqwSUCdFb3yLMYItdjVzJr7gXUviZJ8I1b4T8lzA78pkpq73s26s7BdXW_XePO09sfmm0KIyXaAbJbTd1mVVcomcCkNxZf2S0cibu-1KynTqex2tjdLpMpDcVwH6qQuv1kRHNSduahsGnXv9U5hg9akG7rDb26tCkfuIGSPG2Okjxs7c_BW7yG93t6q0WaURMOau8gNbvDQer4VS15gNHkfVCnoY_BCeSeiCW8hCkbE53MEcFsGWIElZpCpxfh_zlatdledm3KjZtXMOSl5NHxfN6uVElsFzcq_rmhCEg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZaTafniczZbhcqI6FMcf4D7H9UtbQapoO-PsJBEsWrUputX94kTAgIIoodL6bd9ln-o-zQ0oCq60u_vhzs20JoSTk3N6zs9_v_9wndXyn7--22G4ZveCEEVRmfo-da2y4XsCYe8rQ5j7LgsM-8v7tnlbMlhTLFlOU1_pbySor7RvRIz61afX7uJRBKNScqQ5nRFmLbjHtwUTpgL_WP592-IPZVa2VuXRcODKEprrGJQlsXJXHgjE4wbgvxsTClA860ApNuKvtF_yhjFAWtYThMmETjtRYgcUmryB8frynWjvR7OTTwCe7FXNZvyIn5o8FMYBs-HCySG4SXIfoBh8lOwFb_scKDjP5cIoyAbnXIB25lWhPwhoLk5uSBF8EAFO3dCcPcLZ65X4ANxbDDCwWg1gU_pBGfkBtQcMHWjos2L7SGvA9CqV8X7VBJPyxhWFWcCniuAYtpEsAhb3Mxreif4DVReLbVXvP_eB0wvHUn8-d9zZttXyIsGYcTvXJ6ZlTu2p-CV5rkiVmnh3W29cJyAZ7EgSy5JkM9_Xwbju2az8WIaVFCN0bNvj33i_4L0FzpNMHiE6WOSKoqRbaTUQOHqmJOcjPa1g0HPO_IysuBq900ZLAqCatThVG4FLGO3XpyXHyNkHwsFTQFr-jAXf7WT8ZHKGEfhpwPONFkw7SoP03DDf6hpVdHBKGOZ7k9s6thJ3bMzAVyOJych3cFwu7SyQ-PuBF0U55KCnSe1H-5QPv0DFScvbMTd0NIrhUQ4NHx94BsfvojMO6BlI6Xjhv6r9CfCFw__chGNz4OWs_bPYKLXNznGs7XN7OHkYAEeWSXe1Gt-qZkQvY-J7s99QHON_BdJej7SDHhWDpP0SSBijYj3aL1M9chLNgBjjApBQp0CPqqnJSY_OQYKPGZDsj_Xod0FCH4KUQnoRJLQ8vM2ChIpASvUoC5LTyetRLoyjHh1B-iM98v9MjxKurP2UF6fXBS0UKRXhDVh6zgi_9v0I7xa7caS_tHvUdcGnIjX3wnuPmO711DHvodQJ383rKd_w7y2ztGlGNgkZWa-vWEiC8MqwSUCdFb3yLMYItdjVzJr7gXUviZJ8I1b4T8lzA78pkpq73s26s7BdXW_XePO09sfmm0KIyXaAbJbTd1mVVcomcCkNxZf2S0cibu-1KynTqex2tjdLpMpDcVwH6qQuv1kRHNSduahsGnXv9U5hg9akG7rDb26tCkfuIGSPG2Okjxs7c_BW7yG93t6q0WaURMOau8gNbvDQer4VS15gNHkfVCnoY_BCeSeiCW8hCkbE53MEcFsGWIElZpCpxfh_zlatdledm3KjZtXMOSl5NHxfN6uVElsFzcq_rmhCEg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "WhatsApp Business Platform Pricing",
+      "link": "https://whatsappbusiness.com/products/platform-pricing/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVDmnhSrjXXn0r6iNH-54vbvfxpVJWiqcEXd2YayLUuWUDk3sbQI6MzLNuKmOJ17Usk_irH4sbd8utyVc5oZfY33p1YHMiP2ST9zVdi8oCap7i-kfvhx-NpvPtt6nWqQbd0L27vknWHq-OcQ&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://whatsappbusiness.com › Products",
+      "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAADwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0y4iW4o12AbxyRGQ2GaEYG_Vd6nN-M6_BPUE6IaZMrO5_QqaDAAP74uj4xcsVWWDy_Du_yV1-DJYUPW0_mZcPfUdOUNtfKaL1LwqMwVptxsqkR0r8kXOPcVbYkTK2iXPb6_6_Mp5JvLTf_7_aod75QGi59q5sL4_j8UsRUMxXPOToZFrRI_-4ueyb0PnRMr25cT0dp9f_AQrtsfqweReqPFJfy42H0pkwWo1NdJrt5RVbuaU7ua32KANzxoaeeg7ZQZfavroEKjg_5uEhARoLusCo0VTmAD8yl-9Ru4-XrZEiIaQpxsyL-xBjjRj11RI7aEKfk2iCpJ5yw5WJDo8n7m2MMlg5r0L2wMEm8yNUo9bwQIWJi_ZKTrUexnDOg5Ih2m-Lf15GyGeqjMbDT9eS1ZYAA.webp",
+      "date": "Jun 30, 2025",
+      "snippet": "We charge when a message is delivered (not sent). · We charge based on who the message is sent to and the category of the message. · Our rates vary by market – ...",
+      "snippet_highlighted_words": [
+        "charge",
+        "message",
+        "charge",
+        "message",
+        "message"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We charge when a message is delivered (not sent). · We charge based on who the message is sent to and the category of the message. · Our rates vary by market – ...",
+          "source_info_link": "https://whatsappbusiness.com/products/platform-pricing/",
+          "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAADwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0y4iW4o12AbxyRGQ2GaEYG_Vd6nN-M6_BPUE6IaZMrO5_QqaDAAP74uj4xcsVWWDy_Du_yV1-DJYUPW0_mZcPfUdOUNtfKaL1LwqMwVptxsqkR0r8kXOPcVbYkTK2iXPb6_6_Mp5JvLTf_7_aod75QGi59q5sL4_j8UsRUMxXPOToZFrRI_-4ueyb0PnRMr25cT0dp9f_AQrtsfqweReqPFJfy42H0pkwWo1NdJrt5RVbuaU7ua32KANzxoaeeg7ZQZfavroEKjg_5uEhARoLusCo0VTmAD8yl-9Ru4-XrZEiIaQpxsyL-xBjjRj11RI7aEKfk2iCpJ5yw5WJDo8n7m2MMlg5r0L2wMEm8yNUo9bwQIWJi_ZKTrUexnDOg5Ih2m-Lf15GyGeqjMbDT9eS1ZYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkRtbmhTcmpYWG4wcjZpTkgtNTR2YnZmeHBWSldpcWNFWGQyWWF5TFV1V1VEazNzYlFJNk16TE51S21PSjE3VXNrX2lySDRzYmQ4dXR5VmM1b1pmWTMzcDFZSE1pUDJTVDl6VmRpOG9DYXA3aS1rZnZoeC1OcHZQdHQ2bldxUWJkMEwyN3ZrbldIcS1PY1ESBBoCCAAaqwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBQgAEAAYACAAKg8KCHdoYXRzYXBwFRoqSUAqSQoFc3RhcnQVAAAAABoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcVAAAAABoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFWOiCkAaB21lc3NhZ2UaCW1lc3NhZ2luZzKkAS9nb3RvP3VybD1DQUVTYndIck96QVZEbW5oU3JqWFhuMHI2aU5ILTU0dmJ2ZnhwVkpXaXFjRVhkMllheUxVdVdVRGszc2JRSTZNekxOdUttT0oxN1Vza19pckg0c2JkOHV0eVZjNW9aZlkzM3AxWUhNaVAyU1Q5elZkaThvQ2FwN2kta2Z2aHgtTnB2UHR0Nm5XcVFiZDBMMjd2a25XSHEtT2NROik8Yj5XaGF0c0FwcDwvYj4gQnVzaW5lc3MgUGxhdGZvcm0gUHJpY2luZ0LbAVdlIDxiPmNoYXJnZTwvYj4gd2hlbiBhIDxiPm1lc3NhZ2U8L2I-IGlzIGRlbGl2ZXJlZCAobm90IHNlbnQpLiAmbWlkZG90OyBXZSA8Yj5jaGFyZ2U8L2I-IGJhc2VkIG9uIHdobyB0aGUgPGI-bWVzc2FnZTwvYj4gaXMgc2VudCB0byBhbmQgdGhlIGNhdGVnb3J5IG9mIHRoZSA8Yj5tZXNzYWdlPC9iPi4gJm1pZGRvdDsgT3VyIHJhdGVzIHZhcnkgYnkgbWFya2V0IOKAkyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkRtbmhTcmpYWG4wcjZpTkgtNTR2YnZmeHBWSldpcWNFWGQyWWF5TFV1V1VEazNzYlFJNk16TE51S21PSjE3VXNrX2lySDRzYmQ4dXR5VmM1b1pmWTMzcDFZSE1pUDJTVDl6VmRpOG9DYXA3aS1rZnZoeC1OcHZQdHQ2bldxUWJkMEwyN3ZrbldIcS1PY1ESBBoCCAAaqwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBQgAEAAYACAAKg8KCHdoYXRzYXBwFRoqSUAqSQoFc3RhcnQVAAAAABoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcVAAAAABoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFWOiCkAaB21lc3NhZ2UaCW1lc3NhZ2luZzKkAS9nb3RvP3VybD1DQUVTYndIck96QVZEbW5oU3JqWFhuMHI2aU5ILTU0dmJ2ZnhwVkpXaXFjRVhkMllheUxVdVdVRGszc2JRSTZNekxOdUttT0oxN1Vza19pckg0c2JkOHV0eVZjNW9aZlkzM3AxWUhNaVAyU1Q5elZkaThvQ2FwN2kta2Z2aHgtTnB2UHR0Nm5XcVFiZDBMMjd2a25XSHEtT2NROik8Yj5XaGF0c0FwcDwvYj4gQnVzaW5lc3MgUGxhdGZvcm0gUHJpY2luZ0LbAVdlIDxiPmNoYXJnZTwvYj4gd2hlbiBhIDxiPm1lc3NhZ2U8L2I-IGlzIGRlbGl2ZXJlZCAobm90IHNlbnQpLiAmbWlkZG90OyBXZSA8Yj5jaGFyZ2U8L2I-IGJhc2VkIG9uIHdobyB0aGUgPGI-bWVzc2FnZTwvYj4gaXMgc2VudCB0byBhbmQgdGhlIGNhdGVnb3J5IG9mIHRoZSA8Yj5tZXNzYWdlPC9iPi4gJm1pZGRvdDsgT3VyIHJhdGVzIHZhcnkgYnkgbWFya2V0IOKAkyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "WhatsApp for Business",
+      "read_more_link": "https://whatsappbusiness.com/products/platform-pricing/#:~:text=We%20charge%20when%20a%20message,is%20delivered%20(not%20sent).&text=We%20charge%20based%20on%20who,the%20category%20of%20the%20message.&text=Our%20rates%20vary%20by%20market,publish%20our%20rates%20for%20transparency."
+    },
+    {
+      "position": 2,
+      "title": "About pricing for marketing messages",
+      "link": "https://faq.whatsapp.com/1022626499062292",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVIxWRUbz0lIJ9pbWDbOITiaVxeNDm6KNLnZTnR1kcUN_6408b3F0HeUvsLlQbbOU3K8C48V4BKJqviQ7AGKDWSTJOVXpv_atiTDOG3KoaXqKHhJYX4dGwLy9gsZI&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://faq.whatsapp.com › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASogACAAPrUurVanIacnG_DgFolsAJ0ygxyngG8S7yJ5QDRBWgoFPdQx2fwzZditlJvWPWLDwwd-uGH4lzkx3sLAdJGmYAD--LPdgD9gb3DgCAz2-wSVYybcoBZSU1U0qUvjAW535UAkb1UUPfzH3vc2ixFzMgXlNqUcisYD19Cl281GePo49P-RspyRIPnlDT2LnbGPIyPEwzR_GzYDePYyo9eMFP_WtAbl26vxgXKL8Vb5Wb8iiP_Vv1Jt8BdrnB121NKL213vUqtaK9_vF6q7I9XqOF3tC9WE6mVZNfcf_nTBCc9je_dXnDjYRJuqJOmcMPuXwW9EMptaM_JV0Jk517L5FDbgdxUzQZ42twMhQ0k7sCXVIBpJOXnmXjIF5eLHvBtDqGXT-uis8t2ZHledIAmJz86nXlFylryQ5BjdgYeibUarqzTxRkkgKsLgCw_tXnqknY7ZgWTxVy5sCXi8k1fWdbIY9jmuRS5Tf-fKDHncAAA.webp",
+      "date": "Sep 6, 2023",
+      "snippet": "With marketing messages, you only pay for each message that is delivered to a contact within five days of being sent.",
+      "snippet_highlighted_words": [
+        "messages",
+        "pay",
+        "message"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With marketing messages, you only pay for each message that is delivered to a contact within five days of being sent.",
+          "source_info_link": "https://faq.whatsapp.com/1022626499062292",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASogACAAPrUurVanIacnG_DgFolsAJ0ygxyngG8S7yJ5QDRBWgoFPdQx2fwzZditlJvWPWLDwwd-uGH4lzkx3sLAdJGmYAD--LPdgD9gb3DgCAz2-wSVYybcoBZSU1U0qUvjAW535UAkb1UUPfzH3vc2ixFzMgXlNqUcisYD19Cl281GePo49P-RspyRIPnlDT2LnbGPIyPEwzR_GzYDePYyo9eMFP_WtAbl26vxgXKL8Vb5Wb8iiP_Vv1Jt8BdrnB121NKL213vUqtaK9_vF6q7I9XqOF3tC9WE6mVZNfcf_nTBCc9je_dXnDjYRJuqJOmcMPuXwW9EMptaM_JV0Jk517L5FDbgdxUzQZ42twMhQ0k7sCXVIBpJOXnmXjIF5eLHvBtDqGXT-uis8t2ZHledIAmJz86nXlFylryQ5BjdgYeibUarqzTxRkkgKsLgCw_tXnqknY7ZgWTxVy5sCXi8k1fWdbIY9jmuRS5Tf-fKDHncAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkl4V1JVYnowbElKOXBiV0RiT0lUaWFWeGVORG02S05MblpUblIxa2NVTl82NDA4YjNGMEhlVXZzTGxRYmJPVTNLOEM0OFY0QktKcXZpUTdBR0tEV1NUSk9WWHB2X2F0aVRET0czS29hWHFLSGhKWVg0ZEd3THk5Z3NaSRIEGgIIABrnBBICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMEECAAQABgAIAAqDwoId2hhdHNhcHAVHMTfQCpJCgVzdGFydBUAAAAAGgViZWdpbhoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoHc3RhcnRlZBoIc3RhcnRpbmcaBnN0YXJ0cypKCghjaGFyZ2luZxUAAAAAGgdiaWxsaW5nGgZjaGFyZ2UaB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaDWl2O3A7Y2hhcmdpbmcqIwoIbWVzc2FnZXMV2LePQBoHbWVzc2FnZRoJbWVzc2FnaW5nMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkl4V1JVYnowbElKOXBiV0RiT0lUaWFWeGVORG02S05MblpUblIxa2NVTl82NDA4YjNGMEhlVXZzTGxRYmJPVTNLOEM0OFY0QktKcXZpUTdBR0tEV1NUSk9WWHB2X2F0aVRET0czS29hWHFLSGhKWVg0ZEd3THk5Z3NaSTpJQWJvdXQgcHJpY2luZyBmb3IgbWFya2V0aW5nIDxiPm1lc3NhZ2VzPC9iPiAtIDxiPldoYXRzQXBwPC9iPiBIZWxwIENlbnRlckKKAVdpdGggbWFya2V0aW5nIDxiPm1lc3NhZ2VzPC9iPiwgeW91IG9ubHkgPGI-cGF5PC9iPiBmb3IgZWFjaCA8Yj5tZXNzYWdlPC9iPiB0aGF0IGlzIGRlbGl2ZXJlZCB0byBhIGNvbnRhY3Qgd2l0aGluIGZpdmUgZGF5cyBvZiBiZWluZyBzZW50LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkl4V1JVYnowbElKOXBiV0RiT0lUaWFWeGVORG02S05MblpUblIxa2NVTl82NDA4YjNGMEhlVXZzTGxRYmJPVTNLOEM0OFY0QktKcXZpUTdBR0tEV1NUSk9WWHB2X2F0aVRET0czS29hWHFLSGhKWVg0ZEd3THk5Z3NaSRIEGgIIABrnBBICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMEECAAQABgAIAAqDwoId2hhdHNhcHAVHMTfQCpJCgVzdGFydBUAAAAAGgViZWdpbhoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoHc3RhcnRlZBoIc3RhcnRpbmcaBnN0YXJ0cypKCghjaGFyZ2luZxUAAAAAGgdiaWxsaW5nGgZjaGFyZ2UaB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaDWl2O3A7Y2hhcmdpbmcqIwoIbWVzc2FnZXMV2LePQBoHbWVzc2FnZRoJbWVzc2FnaW5nMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkl4V1JVYnowbElKOXBiV0RiT0lUaWFWeGVORG02S05MblpUblIxa2NVTl82NDA4YjNGMEhlVXZzTGxRYmJPVTNLOEM0OFY0QktKcXZpUTdBR0tEV1NUSk9WWHB2X2F0aVRET0czS29hWHFLSGhKWVg0ZEd3THk5Z3NaSTpJQWJvdXQgcHJpY2luZyBmb3IgbWFya2V0aW5nIDxiPm1lc3NhZ2VzPC9iPiAtIDxiPldoYXRzQXBwPC9iPiBIZWxwIENlbnRlckKKAVdpdGggbWFya2V0aW5nIDxiPm1lc3NhZ2VzPC9iPiwgeW91IG9ubHkgPGI-cGF5PC9iPiBmb3IgZWFjaCA8Yj5tZXNzYWdlPC9iPiB0aGF0IGlzIGRlbGl2ZXJlZCB0byBhIGNvbnRhY3Qgd2l0aGluIGZpdmUgZGF5cyBvZiBiZWluZyBzZW50LiICEAFIAFgAaAA",
+      "source": "WhatsApp Help Center"
+    },
+    {
+      "position": 3,
+      "title": "WhatsApp pricing changes: Pay per message starting July ...",
+      "link": "https://help.zoho.com/portal/en/community/topic/whatsapp-pricing-changes-pay-per-message-starting-july-1-2025",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFejs-WDJ97U_oFus_XH2O0Pp8OPIpchsw0Unia2KFUlUumrqWHI2F7vTJ0mUtddOlRNLdhSIxN8al2H17OavfZ__BOHxgJglp-pZrMN_UWoh85st1psy6K57v5xZdC3V4NzhVIMBeS8sBV5ZyCVOyKQK3b71Uw_rzwZ2IvvrXgv8fcWYfeRYDDnrrPev6iouHswbUUzSHj6oXaply_6e1kE&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://help.zoho.com › portal › community › topic",
+      "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHeWgrwG2AuxT0AOlZroehQOO8mQpxyCZ8NvZMUTwN47XHqXgAD-_S_5CZBduZYWuaoNj9aKJQk4Uk80sQjy20kFQYoRxQiLhCHsUhzzy8nBNz84Bndzhl-w1-rA6b2v0nXQkyoyixATJXZ05R_tfHtdLAosPcOzc_1_5_6_8XBQ7_9_9rn8mqMwT7iHicFbWWal193RrG2s9PY0HmgooGaumGMOfhATjNSGPAoOCFVm3XkDrryMZC_8f81erBsrN_m39fbIMVtXFE5CPjWxsxaBGPMAmbXFx_YKU3zJmF3LyL56PWHpXYoBZZbyJotd1C-XnKMLfpSH58JiRoznuMGG8mHZjvXcy1bwd_KKu8ry1W6QaoxB4cenUGIadE3pW222_6Cs-AAAAA.webp",
+      "date": "Jul 1, 2025",
+      "snippet": "Starting July 1, 2025, WhatsApp is shifting from conversation-based pricing to per-message billing. That means every business-initiated message you send will ...",
+      "snippet_highlighted_words": [
+        "Starting July 1, 2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Starting July 1, 2025, WhatsApp is shifting from conversation-based pricing to per-message billing. That means every business-initiated message you send will ...",
+          "source_info_link": "https://help.zoho.com/portal/en/community/topic/whatsapp-pricing-changes-pay-per-message-starting-july-1-2025",
+          "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHeWgrwG2AuxT0AOlZroehQOO8mQpxyCZ8NvZMUTwN47XHqXgAD-_S_5CZBduZYWuaoNj9aKJQk4Uk80sQjy20kFQYoRxQiLhCHsUhzzy8nBNz84Bndzhl-w1-rA6b2v0nXQkyoyixATJXZ05R_tfHtdLAosPcOzc_1_5_6_8XBQ7_9_9rn8mqMwT7iHicFbWWal193RrG2s9PY0HmgooGaumGMOfhATjNSGPAoOCFVm3XkDrryMZC_8f81erBsrN_m39fbIMVtXFE5CPjWxsxaBGPMAmbXFx_YKU3zJmF3LyL56PWHpXYoBZZbyJotd1C-XnKMLfpSH58JiRoznuMGG8mHZjvXcy1bwd_KKu8ry1W6QaoxB4cenUGIadE3pW222_6Cs-AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZlanMtV0RKOTdVX29GdXNfWEgyTzBQcDhPUElwY2hzdzBVbmlhMktGVWxVdW1ycVdISTJGN3ZUSjBtVXRkZE9sUk5MZGhTSXhOOGFsMkgxN09hdmZaX19CT0h4Z0pnbHAtcFpyTU5fVVdvaDg1c3QxcHN5Nks1N3Y1eFpkQzNWNE56aFZJTUJlUzhzQlY1WnlDVk95S1FLM2I3MVV3X3J6d1oySXZ2clhndjhmY1dZZmVSWUREbnJyUGV2NmlvdUhzd2JVVXpTSGo2b1hhcGx5XzZlMWtFEgQaAggAGu8FEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyQUIABAAGAAgACoPCgh3aGF0c2FwcBXgRb5AKkkKBXN0YXJ0FQAAAAAaBWJlZ2luGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5GgdzdGFydGVkGghzdGFydGluZxoGc3RhcnRzKkoKCGNoYXJnaW5nFQAAAAAaB2JpbGxpbmcaBmNoYXJnZRoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoNaXY7cDtjaGFyZ2luZyojCghtZXNzYWdlcxWOqW5AGgdtZXNzYWdlGgltZXNzYWdpbmcy7QEvZ290bz91cmw9Q0FFU3BRRUI2enN3RmVqcy1XREo5N1Vfb0Z1c19YSDJPMFBwOE9QSXBjaHN3MFVuaWEyS0ZVbFV1bXJxV0hJMkY3dlRKMG1VdGRkT2xSTkxkaFNJeE44YWwySDE3T2F2ZlpfX0JPSHhnSmdscC1wWnJNTl9VV29oODVzdDFwc3k2SzU3djV4WmRDM1Y0TnpoVklNQmVTOHNCVjVaeUNWT3lLUUszYjcxVXdfcnp3WjJJdnZyWGd2OGZjV1lmZVJZRERucnJQZXY2aW91SHN3YlVVelNIajZvWGFwbHlfNmUxa0U6UjxiPldoYXRzQXBwPC9iPiBwcmljaW5nIGNoYW5nZXM6IDxiPlBheTwvYj4gcGVyIDxiPm1lc3NhZ2Ugc3RhcnRpbmc8L2I-IEp1bHkgMSAuLi5CrQE8Yj5TdGFydGluZyBKdWx5IDEsIDIwMjU8L2I-LCBXaGF0c0FwcCBpcyBzaGlmdGluZyBmcm9tIGNvbnZlcnNhdGlvbi1iYXNlZCBwcmljaW5nIHRvIHBlci1tZXNzYWdlIGJpbGxpbmcuIFRoYXQgbWVhbnMgZXZlcnkgYnVzaW5lc3MtaW5pdGlhdGVkIG1lc3NhZ2UgeW91IHNlbmQgd2lsbCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZlanMtV0RKOTdVX29GdXNfWEgyTzBQcDhPUElwY2hzdzBVbmlhMktGVWxVdW1ycVdISTJGN3ZUSjBtVXRkZE9sUk5MZGhTSXhOOGFsMkgxN09hdmZaX19CT0h4Z0pnbHAtcFpyTU5fVVdvaDg1c3QxcHN5Nks1N3Y1eFpkQzNWNE56aFZJTUJlUzhzQlY1WnlDVk95S1FLM2I3MVV3X3J6d1oySXZ2clhndjhmY1dZZmVSWUREbnJyUGV2NmlvdUhzd2JVVXpTSGo2b1hhcGx5XzZlMWtFEgQaAggAGu8FEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyQUIABAAGAAgACoPCgh3aGF0c2FwcBXgRb5AKkkKBXN0YXJ0FQAAAAAaBWJlZ2luGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5GgdzdGFydGVkGghzdGFydGluZxoGc3RhcnRzKkoKCGNoYXJnaW5nFQAAAAAaB2JpbGxpbmcaBmNoYXJnZRoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoNaXY7cDtjaGFyZ2luZyojCghtZXNzYWdlcxWOqW5AGgdtZXNzYWdlGgltZXNzYWdpbmcy7QEvZ290bz91cmw9Q0FFU3BRRUI2enN3RmVqcy1XREo5N1Vfb0Z1c19YSDJPMFBwOE9QSXBjaHN3MFVuaWEyS0ZVbFV1bXJxV0hJMkY3dlRKMG1VdGRkT2xSTkxkaFNJeE44YWwySDE3T2F2ZlpfX0JPSHhnSmdscC1wWnJNTl9VV29oODVzdDFwc3k2SzU3djV4WmRDM1Y0TnpoVklNQmVTOHNCVjVaeUNWT3lLUUszYjcxVXdfcnp3WjJJdnZyWGd2OGZjV1lmZVJZRERucnJQZXY2aW91SHN3YlVVelNIajZvWGFwbHlfNmUxa0U6UjxiPldoYXRzQXBwPC9iPiBwcmljaW5nIGNoYW5nZXM6IDxiPlBheTwvYj4gcGVyIDxiPm1lc3NhZ2Ugc3RhcnRpbmc8L2I-IEp1bHkgMSAuLi5CrQE8Yj5TdGFydGluZyBKdWx5IDEsIDIwMjU8L2I-LCBXaGF0c0FwcCBpcyBzaGlmdGluZyBmcm9tIGNvbnZlcnNhdGlvbi1iYXNlZCBwcmljaW5nIHRvIHBlci1tZXNzYWdlIGJpbGxpbmcuIFRoYXQgbWVhbnMgZXZlcnkgYnVzaW5lc3MtaW5pdGlhdGVkIG1lc3NhZ2UgeW91IHNlbmQgd2lsbCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Zoho"
+    },
+    {
+      "position": 4,
+      "title": "Which pricing model actually makes sense for a WhatsApp- ...",
+      "link": "https://www.reddit.com/r/SaaS/comments/1pgp45q/which_pricing_model_actually_makes_sense_for_a/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFWybpgSwbsZQ-mW2YzZUUUMmfHb54WltXdRwoshQw4s5n6vt2mgNaCC0tD7ha3WEHw4yNDn0hSdOpMC9hDqihSrH30vX6_qoIj1OAUlUXvxNSYQbNCRgcgs747GIsYRC0PqKQG59BjjAiqtHUJzy0D34qjYOrb60FZsMZaap0FruBVwRsUbstm8Oq-yOUl6ZzEo&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECDIQAQ&uoh=1",
+      "displayed_link": "10+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Quick clarification: WhatsApp is free for personal chatting, but not for business operations. WhatsApp Business API charges for each 24-hour conversation ...",
+      "about_this_result": {
+        "source": {
+          "description": "Each time a conversation starts, you get a 24-hour window to send unlimited messages. Billing depends on how many conversation windows you open per month.  ...",
+          "source_info_link": "https://www.reddit.com/r/SaaS/comments/1pgp45q/which_pricing_model_actually_makes_sense_for_a/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXeWJwZ1N3YnNaUS1tVzJZelpVVVVNbWZIYjU0V2x0WGRSd29zaFF3NHM1bjZ2dDJtZ05hQ0MwdEQ3aGEzV0VIdzR5TkRuMGhTZE9wTUM5aERxaWhTckgzMHZYNl9xb0lqMU9BVWxVWHZ4TlNZUWJOQ1JnY2dzNzQ3R0lzWVJDMFBxS1FHNTlCampBaXF0SFVKenkwRDM0cWpZT3JiNjBGWnNNWmFhcDBGcnVCVndSc1Vic3RtOE9xLXlPVWw2WnpFbxIEGgIIABrcBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4BQgAEAAYACAAKg8KCHdoYXRzYXBwFWlfqEAqSQoFc3RhcnQVu2YEPxoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcVzElrPxoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFZGP1D8aB21lc3NhZ2UaCW1lc3NhZ2luZzLZAS9nb3RvP3VybD1DQUVTbGdFQjZ6c3dGV3licGdTd2JzWlEtbVcyWXpaVVVVTW1mSGI1NFdsdFhkUndvc2hRdzRzNW42dnQybWdOYUNDMHREN2hhM1dFSHc0eU5EbjBoU2RPcE1DOWhEcWloU3JIMzB2WDZfcW9JajFPQVVsVVh2eE5TWVFiTkNSZ2Nnczc0N0dJc1lSQzBQcUtRRzU5QmpqQWlxdEhVSnp5MEQzNHFqWU9yYjYwRlpzTVphYXAwRnJ1QlZ3UnNVYnN0bThPcS15T1VsNlp6RW86QldoaWNoIHByaWNpbmcgbW9kZWwgYWN0dWFsbHkgbWFrZXMgc2Vuc2UgZm9yIGEgPGI-V2hhdHNBcHA8L2I-IC4uLkLAAUVhY2ggdGltZSBhIGNvbnZlcnNhdGlvbiA8Yj5zdGFydHM8L2I-LCB5b3UgZ2V0IGEgMjQtaG91ciB3aW5kb3cgdG8gc2VuZCB1bmxpbWl0ZWQgPGI-bWVzc2FnZXM8L2I-LiA8Yj5CaWxsaW5nPC9iPiBkZXBlbmRzIG9uIGhvdyBtYW55IGNvbnZlcnNhdGlvbiB3aW5kb3dzIHlvdSBvcGVuIHBlciBtb250aC4gPGI-PC9iPiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXeWJwZ1N3YnNaUS1tVzJZelpVVVVNbWZIYjU0V2x0WGRSd29zaFF3NHM1bjZ2dDJtZ05hQ0MwdEQ3aGEzV0VIdzR5TkRuMGhTZE9wTUM5aERxaWhTckgzMHZYNl9xb0lqMU9BVWxVWHZ4TlNZUWJOQ1JnY2dzNzQ3R0lzWVJDMFBxS1FHNTlCampBaXF0SFVKenkwRDM0cWpZT3JiNjBGWnNNWmFhcDBGcnVCVndSc1Vic3RtOE9xLXlPVWw2WnpFbxIEGgIIABrcBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4BQgAEAAYACAAKg8KCHdoYXRzYXBwFWlfqEAqSQoFc3RhcnQVu2YEPxoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcVzElrPxoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFZGP1D8aB21lc3NhZ2UaCW1lc3NhZ2luZzLZAS9nb3RvP3VybD1DQUVTbGdFQjZ6c3dGV3licGdTd2JzWlEtbVcyWXpaVVVVTW1mSGI1NFdsdFhkUndvc2hRdzRzNW42dnQybWdOYUNDMHREN2hhM1dFSHc0eU5EbjBoU2RPcE1DOWhEcWloU3JIMzB2WDZfcW9JajFPQVVsVVh2eE5TWVFiTkNSZ2Nnczc0N0dJc1lSQzBQcUtRRzU5QmpqQWlxdEhVSnp5MEQzNHFqWU9yYjYwRlpzTVphYXAwRnJ1QlZ3UnNVYnN0bThPcS15T1VsNlp6RW86QldoaWNoIHByaWNpbmcgbW9kZWwgYWN0dWFsbHkgbWFrZXMgc2Vuc2UgZm9yIGEgPGI-V2hhdHNBcHA8L2I-IC4uLkLAAUVhY2ggdGltZSBhIGNvbnZlcnNhdGlvbiA8Yj5zdGFydHM8L2I-LCB5b3UgZ2V0IGEgMjQtaG91ciB3aW5kb3cgdG8gc2VuZCB1bmxpbWl0ZWQgPGI-bWVzc2FnZXM8L2I-LiA8Yj5CaWxsaW5nPC9iPiBkZXBlbmRzIG9uIGhvdyBtYW55IGNvbnZlcnNhdGlvbiB3aW5kb3dzIHlvdSBvcGVuIHBlciBtb250aC4gPGI-PC9iPiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Reddit · r/SaaS"
+    },
+    {
+      "position": 5,
+      "title": "Cost of WhatsApp messages per day?",
+      "link": "https://www.facebook.com/groups/developerkaki/posts/2563058374040060/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVirmhjBX_2xhFUnDuvuIJUTmrai9C9nQgH2d7hKGB-3dWRjvkSydDFKD0rGaLM1hHZb51qBLBBuXd2_iv1ulZPepgRgr8NSdtDJbyUyY0LpG2eXAJnQg8fDc-aP497o0SXtRpaYtjdJ9KFS-0zLan5Mw3D-FIME8t&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECBUQAQ&uoh=1",
+      "displayed_link": "10+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "What i understand from this meta website and attached picture, per msg is about 0.07 USD which is very expensive. 1k messages per day would easily around ...",
+      "about_this_result": {
+        "source": {
+          "description": "Starting October 1, 2026, WhatsApp will begin charging businesses for certain customer replies sent through its WhatsApp Business Platform.",
+          "source_info_link": "https://www.facebook.com/groups/developerkaki/posts/2563058374040060/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmlybWhqQlhfMnhoRlVuRHV2dUlKVVRtcmFpOUM5blFnSDJkN2hLR0ItM2RXUmp2a1N5ZERGS0QwckdhTE0xaEhaYjUxcUJMQkJ1WGQyX2l2MXVsWlBlcGdSZ3I4TlNkdERKYnlVeVkwTHBHMmVYQUpuUWc4ZkRjLWFQNDk3bzBTWHRScGFZdGpkSjlLRlMtMHpMYW41TXczRC1GSU1FOHQSBBoCCAAahgUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDgBAgAEAAYACAAKg8KCHdoYXRzYXBwFaTItUAqSQoFc3RhcnQVKGN0PxoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcVAWF6PxoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFWK1nkAaB21lc3NhZ2UaCW1lc3NhZ2luZzK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZpcm1oakJYXzJ4aEZVbkR1dnVJSlVUbXJhaTlDOW5RZ0gyZDdoS0dCLTNkV1JqdmtTeWRERktEMHJHYUxNMWhIWmI1MXFCTEJCdVhkMl9pdjF1bFpQZXBnUmdyOE5TZHRESmJ5VXlZMExwRzJlWEFKblFnOGZEYy1hUDQ5N28wU1h0UnBhWXRqZEo5S0ZTLTB6TGFuNU13M0QtRklNRTh0Ojs8Yj5Db3N0PC9iPiBvZiA8Yj5XaGF0c0FwcCBtZXNzYWdlczwvYj4gcGVyIGRheT8gLSBGYWNlYm9va0KSATxiPlN0YXJ0aW5nIE9jdG9iZXIgMSwgMjAyNjwvYj4sIFdoYXRzQXBwIHdpbGwgYmVnaW4gY2hhcmdpbmcgYnVzaW5lc3NlcyBmb3IgY2VydGFpbiBjdXN0b21lciByZXBsaWVzIHNlbnQgdGhyb3VnaCBpdHMgV2hhdHNBcHAgQnVzaW5lc3MgUGxhdGZvcm0uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmlybWhqQlhfMnhoRlVuRHV2dUlKVVRtcmFpOUM5blFnSDJkN2hLR0ItM2RXUmp2a1N5ZERGS0QwckdhTE0xaEhaYjUxcUJMQkJ1WGQyX2l2MXVsWlBlcGdSZ3I4TlNkdERKYnlVeVkwTHBHMmVYQUpuUWc4ZkRjLWFQNDk3bzBTWHRScGFZdGpkSjlLRlMtMHpMYW41TXczRC1GSU1FOHQSBBoCCAAahgUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDgBAgAEAAYACAAKg8KCHdoYXRzYXBwFaTItUAqSQoFc3RhcnQVKGN0PxoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcVAWF6PxoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFWK1nkAaB21lc3NhZ2UaCW1lc3NhZ2luZzK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZpcm1oakJYXzJ4aEZVbkR1dnVJSlVUbXJhaTlDOW5RZ0gyZDdoS0dCLTNkV1JqdmtTeWRERktEMHJHYUxNMWhIWmI1MXFCTEJCdVhkMl9pdjF1bFpQZXBnUmdyOE5TZHRESmJ5VXlZMExwRzJlWEFKblFnOGZEYy1hUDQ5N28wU1h0UnBhWXRqZEo5S0ZTLTB6TGFuNU13M0QtRklNRTh0Ojs8Yj5Db3N0PC9iPiBvZiA8Yj5XaGF0c0FwcCBtZXNzYWdlczwvYj4gcGVyIGRheT8gLSBGYWNlYm9va0KSATxiPlN0YXJ0aW5nIE9jdG9iZXIgMSwgMjAyNjwvYj4sIFdoYXRzQXBwIHdpbGwgYmVnaW4gY2hhcmdpbmcgYnVzaW5lc3NlcyBmb3IgY2VydGFpbiBjdXN0b21lciByZXBsaWVzIHNlbnQgdGhyb3VnaCBpdHMgV2hhdHNBcHAgQnVzaW5lc3MgUGxhdGZvcm0uIgIQAUgAWABoAA",
+      "source": "Facebook · Developer Kaki"
+    },
+    {
+      "position": 6,
+      "title": "WhatsApp Messaging Pricing",
+      "link": "https://www.twilio.com/en-us/whatsapp/pricing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV4PengaV8CrDhRqpoDhVnufcvLOUgjVzYlGYvSchxE1Tdc6DFMsMgRMx3bLPVG4RWzI6wW5hyE7lf8cnPv8Doo_oYj8R8YV-EjMR0ipC2v7Gx6yYz2WuyCB1mhATvZdbK&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://www.twilio.com › en-us › whatsapp › pricing",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADwBQCdASocABwAPsEusFgnoaenm_DwGAlsAJ0yhILPoASIvxKIoBORypIMkY9gtGqGS_2Ily0UAAD9H2-j872xJnHMfKQYe0AJd6t4RlbSX7V0xE8EpuJqdUG2omMg_j5PnMzQXz5zo9-_-Zosaq3v2MUANlbaxQVMc8yLdEDVTg4zRS1Xf-jXPxz-r01viAj8ksEorXL68dOTW7GzjlBvyevBU5OpkC1hNFpixT_BiNKRA5R-M9bswcQUqpasSVaLwk5U9j9wh8nGbnxZBJzRqlT5EufW76A9Dm2wJV2j-Ec3gzLXGvSNU3_PYU70K53qL0AA.webp",
+      "date": "Aug 3, 2025",
+      "snippet": "messages start at $0.0034/message. Twilio's per-message fee for WhatsApp is $0.005, inbound or outbound*. You are charged for each template message you send.",
+      "snippet_highlighted_words": [
+        "messages start at $0.0034/message"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "messages start at $0.0034/message. Twilio's per-message fee for WhatsApp is $0.005, inbound or outbound*. You are charged for each template message you send.",
+          "source_info_link": "https://www.twilio.com/en-us/whatsapp/pricing",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADwBQCdASocABwAPsEusFgnoaenm_DwGAlsAJ0yhILPoASIvxKIoBORypIMkY9gtGqGS_2Ily0UAAD9H2-j872xJnHMfKQYe0AJd6t4RlbSX7V0xE8EpuJqdUG2omMg_j5PnMzQXz5zo9-_-Zosaq3v2MUANlbaxQVMc8yLdEDVTg4zRS1Xf-jXPxz-r01viAj8ksEorXL68dOTW7GzjlBvyevBU5OpkC1hNFpixT_BiNKRA5R-M9bswcQUqpasSVaLwk5U9j9wh8nGbnxZBJzRqlT5EufW76A9Dm2wJV2j-Ec3gzLXGvSNU3_PYU70K53qL0AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjRQZW5nYVY4Q3JEaFJxcG9EaFZudWZjdkxPVWdqVnpZbEdZdlNjaHhFMVRkYzZERk1zTWdSTXgzYkxQVkc0Uld6STZ3VzVoeUU3bGY4Y25QdjhEb29fb1lqOFI4WVYtRWpNUjBpcEMydjdHeDZ5WXoyV3V5Q0IxbWhBVHZaZGJLEgQaAggAGusEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxQQIABAAGAAgACoPCgh3aGF0c2FwcBU3jIRAKkkKBXN0YXJ0FbPbwT8aBWJlZ2luGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5GgdzdGFydGVkGghzdGFydGluZxoGc3RhcnRzKkoKCGNoYXJnaW5nFQAAAAAaB2JpbGxpbmcaBmNoYXJnZRoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoNaXY7cDtjaGFyZ2luZyojCghtZXNzYWdlcxUK-rM_GgdtZXNzYWdlGgltZXNzYWdpbmcylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWNFBlbmdhVjhDckRoUnFwb0RoVm51ZmN2TE9VZ2pWellsR1l2U2NoeEUxVGRjNkRGTXNNZ1JNeDNiTFBWRzRSV3pJNndXNWh5RTdsZjhjblB2OERvb19vWWo4UjhZVi1Fak1SMGlwQzJ2N0d4NnlZejJXdXlDQjFtaEFUdlpkYks6KjxiPldoYXRzQXBwIE1lc3NhZ2luZzwvYj4gUHJpY2luZyAtIFR3aWxpb0KoATxiPm1lc3NhZ2VzIHN0YXJ0IGF0ICQwLjAwMzQvbWVzc2FnZTwvYj4uIFR3aWxpbyYjMzk7cyBwZXItbWVzc2FnZSBmZWUgZm9yIFdoYXRzQXBwIGlzICQwLjAwNSwgaW5ib3VuZCBvciBvdXRib3VuZCouIFlvdSBhcmUgY2hhcmdlZCBmb3IgZWFjaCB0ZW1wbGF0ZSBtZXNzYWdlIHlvdSBzZW5kLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjRQZW5nYVY4Q3JEaFJxcG9EaFZudWZjdkxPVWdqVnpZbEdZdlNjaHhFMVRkYzZERk1zTWdSTXgzYkxQVkc0Uld6STZ3VzVoeUU3bGY4Y25QdjhEb29fb1lqOFI4WVYtRWpNUjBpcEMydjdHeDZ5WXoyV3V5Q0IxbWhBVHZaZGJLEgQaAggAGusEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxQQIABAAGAAgACoPCgh3aGF0c2FwcBU3jIRAKkkKBXN0YXJ0FbPbwT8aBWJlZ2luGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5GgdzdGFydGVkGghzdGFydGluZxoGc3RhcnRzKkoKCGNoYXJnaW5nFQAAAAAaB2JpbGxpbmcaBmNoYXJnZRoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoNaXY7cDtjaGFyZ2luZyojCghtZXNzYWdlcxUK-rM_GgdtZXNzYWdlGgltZXNzYWdpbmcylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWNFBlbmdhVjhDckRoUnFwb0RoVm51ZmN2TE9VZ2pWellsR1l2U2NoeEUxVGRjNkRGTXNNZ1JNeDNiTFBWRzRSV3pJNndXNWh5RTdsZjhjblB2OERvb19vWWo4UjhZVi1Fak1SMGlwQzJ2N0d4NnlZejJXdXlDQjFtaEFUdlpkYks6KjxiPldoYXRzQXBwIE1lc3NhZ2luZzwvYj4gUHJpY2luZyAtIFR3aWxpb0KoATxiPm1lc3NhZ2VzIHN0YXJ0IGF0ICQwLjAwMzQvbWVzc2FnZTwvYj4uIFR3aWxpbyYjMzk7cyBwZXItbWVzc2FnZSBmZWUgZm9yIFdoYXRzQXBwIGlzICQwLjAwNSwgaW5ib3VuZCBvciBvdXRib3VuZCouIFlvdSBhcmUgY2hhcmdlZCBmb3IgZWFjaCB0ZW1wbGF0ZSBtZXNzYWdlIHlvdSBzZW5kLiICEAFIAFgAaAA",
+      "source": "Twilio"
+    },
+    {
+      "position": 7,
+      "title": "WhatsApp might start charging you for broadcasts....",
+      "link": "https://www.linkedin.com/posts/elliot-scott_whatsapp-retention-activity-7369658354660515842-XCLu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFcv10vB5HZcx_3lOz4bgjjdkSCZY5Knk9jcBD-V1iM5biU3iPhiEN_cKXTOrEOObE4SlNDuuOVPkNfHQSfWTzbB080tbeK8BOxZIWZ-GzyK_hk7EjbKMf9snrMDpjjXkZ39KDV3bk-1U_oxKEuJ9n1eIRBK304fZXLsslzt6itaMZtLy6jeB65aG6cxJz7kVzdBMkg&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECD8QAQ&uoh=1",
+      "displayed_link": "10+ reactions",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "WhatsApp might start charging you for broadcasts.... Meta's testing broadcast caps. 30 free messages per month, and charging for extras with scheduling tools ...",
+      "snippet_highlighted_words": [
+        "WhatsApp might start charging you for broadcasts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "WhatsApp might start charging you for broadcasts.... Meta's testing broadcast caps. 30 free messages per month, and charging for extras with scheduling tools ...",
+          "source_info_link": "https://www.linkedin.com/posts/elliot-scott_whatsapp-retention-activity-7369658354660515842-XCLu",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZjdjEwdkI1SFpjeF8zbE96NGJnampka1NDWlk1S25rOWpjQkQtVjFpTTViaVUzaVBoaUVOX2NLWFRPckVPT2JFNFNsTkR1dU9WUGtOZkhRU2ZXVHpiQjA4MHRiZUs4Qk94WklXWi1HenlLX2hrN0VqYktNZjlzbnJNRHBqalhrWjM5S0RWM2JrLTFVX294S0V1SjluMWVJUkJLMzA0ZlpYTHNzbHp0Nml0YU1adEx5NmplQjY1YUc2Y3hKejdrVnpkQk1rZxIEGgIIABrfBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC7BQgAEAAYACAAKg8KCHdoYXRzYXBwFdMElkAqSQoFc3RhcnQVfgNYQBoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcV4mteQBoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFaz4ZD8aB21lc3NhZ2UaCW1lc3NhZ2luZzLcAS9nb3RvP3VybD1DQUVTbUFFQjZ6c3dGY3YxMHZCNUhaY3hfM2xPejRiZ2pqZGtTQ1pZNUtuazlqY0JELVYxaU01YmlVM2lQaGlFTl9jS1hUT3JFT09iRTRTbE5EdXVPVlBrTmZIUVNmV1R6YkIwODB0YmVLOEJPeFpJV1otR3p5S19oazdFamJLTWY5c25yTURwampYa1ozOUtEVjNiay0xVV9veEtFdUo5bjFlSVJCSzMwNGZaWExzc2x6dDZpdGFNWnRMeTZqZUI2NWFHNmN4Sno3a1Z6ZEJNa2c6UTxiPldoYXRzQXBwPC9iPiBtaWdodCA8Yj5zdGFydCBjaGFyZ2luZzwvYj4geW91IGZvciBicm9hZGNhc3RzLi4uLiB8IEVsbGlvdCBTY290dEKxATxiPldoYXRzQXBwIG1pZ2h0IHN0YXJ0IGNoYXJnaW5nIHlvdSBmb3IgYnJvYWRjYXN0czwvYj4uLi4uIE1ldGEmIzM5O3MgdGVzdGluZyBicm9hZGNhc3QgY2Fwcy4gMzAgZnJlZSBtZXNzYWdlcyBwZXIgbW9udGgsIGFuZCBjaGFyZ2luZyBmb3IgZXh0cmFzIHdpdGggc2NoZWR1bGluZyB0b29scyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZjdjEwdkI1SFpjeF8zbE96NGJnampka1NDWlk1S25rOWpjQkQtVjFpTTViaVUzaVBoaUVOX2NLWFRPckVPT2JFNFNsTkR1dU9WUGtOZkhRU2ZXVHpiQjA4MHRiZUs4Qk94WklXWi1HenlLX2hrN0VqYktNZjlzbnJNRHBqalhrWjM5S0RWM2JrLTFVX294S0V1SjluMWVJUkJLMzA0ZlpYTHNzbHp0Nml0YU1adEx5NmplQjY1YUc2Y3hKejdrVnpkQk1rZxIEGgIIABrfBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC7BQgAEAAYACAAKg8KCHdoYXRzYXBwFdMElkAqSQoFc3RhcnQVfgNYQBoFYmVnaW4aB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaB3N0YXJ0ZWQaCHN0YXJ0aW5nGgZzdGFydHMqSgoIY2hhcmdpbmcV4mteQBoHYmlsbGluZxoGY2hhcmdlGgdjaGFyZ2VzGgRjb3N0GgVjb3N0cxoDcGF5Gg1pdjtwO2NoYXJnaW5nKiMKCG1lc3NhZ2VzFaz4ZD8aB21lc3NhZ2UaCW1lc3NhZ2luZzLcAS9nb3RvP3VybD1DQUVTbUFFQjZ6c3dGY3YxMHZCNUhaY3hfM2xPejRiZ2pqZGtTQ1pZNUtuazlqY0JELVYxaU01YmlVM2lQaGlFTl9jS1hUT3JFT09iRTRTbE5EdXVPVlBrTmZIUVNmV1R6YkIwODB0YmVLOEJPeFpJV1otR3p5S19oazdFamJLTWY5c25yTURwampYa1ozOUtEVjNiay0xVV9veEtFdUo5bjFlSVJCSzMwNGZaWExzc2x6dDZpdGFNWnRMeTZqZUI2NWFHNmN4Sno3a1Z6ZEJNa2c6UTxiPldoYXRzQXBwPC9iPiBtaWdodCA8Yj5zdGFydCBjaGFyZ2luZzwvYj4geW91IGZvciBicm9hZGNhc3RzLi4uLiB8IEVsbGlvdCBTY290dEKxATxiPldoYXRzQXBwIG1pZ2h0IHN0YXJ0IGNoYXJnaW5nIHlvdSBmb3IgYnJvYWRjYXN0czwvYj4uLi4uIE1ldGEmIzM5O3MgdGVzdGluZyBicm9hZGNhc3QgY2Fwcy4gMzAgZnJlZSBtZXNzYWdlcyBwZXIgbW9udGgsIGFuZCBjaGFyZ2luZyBmb3IgZXh0cmFzIHdpdGggc2NoZWR1bGluZyB0b29scyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "LinkedIn · Elliot Scott",
+      "read_more_link": "https://www.linkedin.com/posts/elliot-scott_whatsapp-retention-activity-7369658354660515842-XCLu#:~:text=WhatsApp%20might%20start%20charging%20you,for%20extras%20with%20scheduling%20tools."
+    },
+    {
+      "position": 8,
+      "title": "About pricing for business broadcasts",
+      "link": "https://faq.whatsapp.com/1356785542323967",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVoNAAAVZdlnvJMxn4IMKmJz9Gy1KPNSOJN_gCHQC7pGx0kBp4DHqYqTWG1afVvQCb1oepQDdvYGKvjdkfCe3iPKlfMdxeFMz2VeFDSe5e6GkzajCjXunwrXD-d6o&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQFnoECDoQAQ&uoh=1",
+      "displayed_link": "https://faq.whatsapp.com › ...",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASogACAAPrUurVanIacnG_DgFolsAJ0ygxyngG8S7yJ5QDRBWgoFPdQx2fwzZditlJvWPWLDwwd-uGH4lzkx3sLAdJGmYAD--LPdgD9gb3DgCAz2-wSVYybcoBZSU1U0qUvjAW535UAkb1UUPfzH3vc2ixFzMgXlNqUcisYD19Cl281GePo49P-RspyRIPnlDT2LnbGPIyPEwzR_GzYDePYyo9eMFP_WtAbl26vxgXKL8Vb5Wb8iiP_Vv1Jt8BdrnB121NKL213vUqtaK9_vF6q7I9XqOF3tC9WE6mVZNfcf_nTBCc9je_dXnDjYRJuqJOmcMPuXwW9EMptaM_JV0Jk517L5FDbgdxUzQZ42twMhQ0k7sCXVIBpJOXnmXjIF5eLHvBtDqGXT-uis8t2ZHledIAmJz86nXlFylryQ5BjdgYeibUarqzTxRkkgKsLgCw_tXnqknY7ZgWTxVy5sCXi8k1fWdbIY9jmuRS5Tf-fKDHncAAA.webp",
+      "date": "May 5, 2025",
+      "snippet": "You only pay for each message that is delivered to a contact within five days of being sent. The balance for each delivered message is accumulated.",
+      "snippet_highlighted_words": [
+        "pay",
+        "message",
+        "message"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You only pay for each message that is delivered to a contact within five days of being sent. The balance for each delivered message is accumulated.",
+          "source_info_link": "https://faq.whatsapp.com/1356785542323967",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCACdASogACAAPrUurVanIacnG_DgFolsAJ0ygxyngG8S7yJ5QDRBWgoFPdQx2fwzZditlJvWPWLDwwd-uGH4lzkx3sLAdJGmYAD--LPdgD9gb3DgCAz2-wSVYybcoBZSU1U0qUvjAW535UAkb1UUPfzH3vc2ixFzMgXlNqUcisYD19Cl281GePo49P-RspyRIPnlDT2LnbGPIyPEwzR_GzYDePYyo9eMFP_WtAbl26vxgXKL8Vb5Wb8iiP_Vv1Jt8BdrnB121NKL213vUqtaK9_vF6q7I9XqOF3tC9WE6mVZNfcf_nTBCc9je_dXnDjYRJuqJOmcMPuXwW9EMptaM_JV0Jk517L5FDbgdxUzQZ42twMhQ0k7sCXVIBpJOXnmXjIF5eLHvBtDqGXT-uis8t2ZHledIAmJz86nXlFylryQ5BjdgYeibUarqzTxRkkgKsLgCw_tXnqknY7ZgWTxVy5sCXi8k1fWdbIY9jmuRS5Tf-fKDHncAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm9OQUFBVlpkbG52Sk14bjRJTUttSno5R3kxS1BOU09KTl9nQ0hRQzdwR3gwa0JwNERIcVlxVFdHMWFmVnZRQ2Ixb2VwUURkdllHS3ZqZGtmQ2UzaVBLbGZNZHhlRk16MlZlRkRTZTVlNkdremFqQ2pYdW53clhELWQ2bxIEGgIIABr_BBICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQNkECAAQABgAIAAqDwoId2hhdHNhcHAVHMTfQCpJCgVzdGFydBUAAAAAGgViZWdpbhoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoHc3RhcnRlZBoIc3RhcnRpbmcaBnN0YXJ0cypKCghjaGFyZ2luZxUAAAAAGgdiaWxsaW5nGgZjaGFyZ2UaB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaDWl2O3A7Y2hhcmdpbmcqIwoIbWVzc2FnZXMV4dvGPxoHbWVzc2FnZRoJbWVzc2FnaW5nMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm9OQUFBVlpkbG52Sk14bjRJTUttSno5R3kxS1BOU09KTl9nQ0hRQzdwR3gwa0JwNERIcVlxVFdHMWFmVnZRQ2Ixb2VwUURkdllHS3ZqZGtmQ2UzaVBLbGZNZHhlRk16MlZlRkRTZTVlNkdremFqQ2pYdW53clhELWQ2bzpDQWJvdXQgcHJpY2luZyBmb3IgYnVzaW5lc3MgYnJvYWRjYXN0cyAtIDxiPldoYXRzQXBwPC9iPiBIZWxwIENlbnRlckKoAVlvdSBvbmx5IDxiPnBheTwvYj4gZm9yIGVhY2ggPGI-bWVzc2FnZTwvYj4gdGhhdCBpcyBkZWxpdmVyZWQgdG8gYSBjb250YWN0IHdpdGhpbiBmaXZlIGRheXMgb2YgYmVpbmcgc2VudC4gVGhlIGJhbGFuY2UgZm9yIGVhY2ggZGVsaXZlcmVkIDxiPm1lc3NhZ2U8L2I-IGlzIGFjY3VtdWxhdGVkLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm9OQUFBVlpkbG52Sk14bjRJTUttSno5R3kxS1BOU09KTl9nQ0hRQzdwR3gwa0JwNERIcVlxVFdHMWFmVnZRQ2Ixb2VwUURkdllHS3ZqZGtmQ2UzaVBLbGZNZHhlRk16MlZlRkRTZTVlNkdremFqQ2pYdW53clhELWQ2bxIEGgIIABr_BBICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQNkECAAQABgAIAAqDwoId2hhdHNhcHAVHMTfQCpJCgVzdGFydBUAAAAAGgViZWdpbhoHY2hhcmdlcxoEY29zdBoFY29zdHMaA3BheRoHc3RhcnRlZBoIc3RhcnRpbmcaBnN0YXJ0cypKCghjaGFyZ2luZxUAAAAAGgdiaWxsaW5nGgZjaGFyZ2UaB2NoYXJnZXMaBGNvc3QaBWNvc3RzGgNwYXkaDWl2O3A7Y2hhcmdpbmcqIwoIbWVzc2FnZXMV4dvGPxoHbWVzc2FnZRoJbWVzc2FnaW5nMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm9OQUFBVlpkbG52Sk14bjRJTUttSno5R3kxS1BOU09KTl9nQ0hRQzdwR3gwa0JwNERIcVlxVFdHMWFmVnZRQ2Ixb2VwUURkdllHS3ZqZGtmQ2UzaVBLbGZNZHhlRk16MlZlRkRTZTVlNkdremFqQ2pYdW53clhELWQ2bzpDQWJvdXQgcHJpY2luZyBmb3IgYnVzaW5lc3MgYnJvYWRjYXN0cyAtIDxiPldoYXRzQXBwPC9iPiBIZWxwIENlbnRlckKoAVlvdSBvbmx5IDxiPnBheTwvYj4gZm9yIGVhY2ggPGI-bWVzc2FnZTwvYj4gdGhhdCBpcyBkZWxpdmVyZWQgdG8gYSBjb250YWN0IHdpdGhpbiBmaXZlIGRheXMgb2YgYmVpbmcgc2VudC4gVGhlIGJhbGFuY2UgZm9yIGVhY2ggZGVsaXZlcmVkIDxiPm1lc3NhZ2U8L2I-IGlzIGFjY3VtdWxhdGVkLiICEAFIAFgAaAA",
+      "source": "WhatsApp Help Center",
+      "read_more_link": "https://faq.whatsapp.com/1356785542323967#:~:text=You%20only%20pay%20for%20each,each%20delivered%20message%20is%20accumulated."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=10&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=10&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=20&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=30&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=40&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=50&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=60&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=70&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=80&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=whatsapp+start+charging+messages+before:2026-01-01&sca_esv=3e5594fd685e5dfa&ei=SnSxar7nIZa0wN4PuKjL0AU&start=90&sa=N&sstk=AS6-VmINXyOd5kiuovbfdFfyzbeGToPyJlo95BLBNhH2qXaS-6hrnUwSbv-XPkrr9kfcQtHuT5-2ZJz03Y-Cb_u54vEPFZqevXM1Xw&ved=2ahUKEwi-tNrlo4CXAxUWGtAFHTjUEloQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=whatsapp+start+charging+messages+before%3A2026-01-01&start=90"
+    }
+  }
+}

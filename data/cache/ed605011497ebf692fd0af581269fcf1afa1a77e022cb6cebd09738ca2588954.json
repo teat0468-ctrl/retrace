@@ -1,0 +1,857 @@
+{
+  "search_metadata": {
+    "id": "6ab22cf70e285da44990f8e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SIU3oL0x14lE7p2iyDpqfv2cvkQVbfti9o5A3XlZapo/6ab22cf70e285da44990f8e1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SIU3oL0x14lE7p2iyDpqfv2cvkQVbfti9o5A3XlZapo/6ab22cf70e285da44990f8e1.md",
+    "created_at": "2026-09-22 07:23:35 UTC",
+    "processed_at": "2026-09-22 07:23:35 UTC",
+    "google_news_url": "https://news.google.com/search?q=New+study+links+5G+cell+phones+to+brain+cancer",
+    "raw_html_file": "https://serpapi.com/searches/SIU3oL0x14lE7p2iyDpqfv2cvkQVbfti9o5A3XlZapo/6ab22cf70e285da44990f8e1.html",
+    "total_time_taken": 16.99
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "New study links 5G cell phones to brain cancer"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Study links cell tower and cell phone radiation to changes in blood cells tied to immune health",
+      "source": {
+        "name": "ehn.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ehn.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ehn.org/cell-tower-radiation-blood-cells",
+      "thumbnail": "https://www.ehn.org/media-library/a-cell-tower-near-a-neighborhood.png?id=65094531&width=1200&height=800&quality=50&coordinates=195%2C0%2C195%2C0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROWGxZZDJvdGRsOUhjazl0VFJERUF4aW1CU2dLTWdZcEpZTHRHUW8",
+      "date": "02/28/2026, 02:44 AM, +0000 UTC",
+      "iso_date": "2026-02-28T02:44:16Z"
+    },
+    {
+      "position": 2,
+      "title": "Can Cell Phone Radiation Cause Cancer or Brain Tumors?",
+      "source": {
+        "name": "Everyday Health",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.everydayhealth.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Korin Miller"
+        ]
+      },
+      "link": "https://www.everydayhealth.com/cancer/should-you-be-worried-about-cell-phone-radiation-and-cancer/",
+      "thumbnail": "https://images.everydayhealth.com/images/2026/do-cell-phones-raise-cancer-risk-1440x810.jpg?w=576",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTV0ZuVWpFd1FrMVBXVTFLVFJERUFoakFCQ2dLTWdZeE1Jb1JwUVk",
+      "date": "01/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-23T08:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Old cell phone fears surface amid new Washington fight",
+      "source": {
+        "name": "Fierce Network",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fierce-network.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.fierce-network.com/wireless/old-cell-phone-fears-surface-amid-new-washington-fight",
+      "thumbnail": "https://qtxasset.com/cdn-cgi/image/w=384,h=216,f=auto,fit=crop,g=0.5x0.5/https://qtxasset.com/quartz/qcloud4/media/image/phones%20ears%20USE.jpg?VersionId=G64elrVev5VWTCeWu2BE2_0Y87Dx_YoD",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlWWFJ2Y0ZOeGVGbFdSMUJFVFJDb0FSaXNBaWdCTWdNQk1Cdw",
+      "date": "01/21/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-21T08:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Do I Need to Worry About Smartphone Radiation? (Published 2023)",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Caroline Hopkins"
+        ]
+      },
+      "link": "https://www.nytimes.com/2023/11/14/well/live/cellphone-radiation-effects.html",
+      "thumbnail": "https://static01.nyt.com/images/2023/11/21/multimedia/14ASKWELL-SMARTPHONE-RADIATION1-hwkg/14ASKWELL-SMARTPHONE-RADIATION1-hwkg-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVTbnBETldJeGFqSmlabkp5VFJEckJCanZBeWdLTWdhcEU0NXVJUWs",
+      "date": "01/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-23T08:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "RFK Jr. tells USA TODAY 5G towers for cellphone use 'a major health concern'",
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Will Carless",
+          "Bart Jansen"
+        ]
+      },
+      "link": "https://www.usatoday.com/story/news/politics/2026/01/16/robert-kennedy-5g-electromagnetic-radiation/88220793007/",
+      "thumbnail": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/01/16/USAT/88221402007-20260116-vpc-rfk-jr-interview-flu-shot-thumb-00-00-00-00-still-005.jpg?crop=1919,1079,x0,y0&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXplRXRoTkUxMmIxRnBiV2hOVFJEekFoaVVCU2dLTWdtUlVvalVvS2l4S2dJ",
+      "date": "01/16/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-16T08:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Exclusive | RFK Jr.’s Health Department Quietly Removes Webpages Saying Cellphones Aren’t Dangerous",
+      "source": {
+        "name": "WSJ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Liz Essley Whyte",
+          "Patience Haggin"
+        ]
+      },
+      "link": "https://www.wsj.com/health/rfk-jr-s-health-department-is-studying-health-effects-of-cellphones-b4c3a468",
+      "thumbnail": "https://images.wsj.net/im-00414337?width=700&height=466",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpaVWxQVG0xYWFXTTNTM0pDVFJERUF4aW5CU2dLTWdtQkU2SlNsYXJRNHdJ",
+      "date": "01/15/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-15T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Massive international study finds no link between mobile phone radiation and cancer",
+      "source": {
+        "name": "ZME Science",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zmescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.zmescience.com/science/news-science/massive-international-study-finds-no-link-between-mobile-phone-radiation-and-cancer/",
+      "thumbnail": "https://cdn.zmescience.com/wp-content/uploads/2026/02/Scrolling_on_phone.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVkbEl0Y2w5cVQwTlZiRVV6VFJDZkF4ampCU2dLTWdZUkJZaUxTUVE",
+      "date": "02/05/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-05T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Do mobile phones cause brain cancer? New study investigates the long-debated link (and finally gives a cl",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/etimes/wellness/do-mobile-phones-cause-brain-cancer-new-study-investigates-the-long-debated-link-and-finally-gives-a-clear-answer/articleshow/132475216.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132475316,width-1280,height-720,imgsize-255758,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJSSGN0UW1FdE0zZG5VbE5wVFJDZkF4ampCU2dLTWdhVkJwZ3FDZ28",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Large-scale rat study finds no link between cell phone radiation and cancer",
+      "source": {
+        "name": "DongA Science",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dongascience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Byeongku Lee"
+        ]
+      },
+      "link": "https://www.dongascience.com/en/news/76221",
+      "thumbnail": "https://image.dongascience.com/Photo/2024/09/52d6678a216813837c772b26c5e18a0f.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRUREUyWjBaaVlUWlNhemhmVFJERUF4aW1CU2dLTWdrQkJJUkdWcUtLSXdN",
+      "date": "02/03/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-03T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Do cellphones cause brain cancer? A WHO review of 63 studies finds no link.",
+      "source": {
+        "name": "The Washington Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rachel Pannett"
+        ]
+      },
+      "link": "https://www.washingtonpost.com/wellness/2024/09/03/cellphones-cancer-risk-radiation/",
+      "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZMHZWHTOPDR5FZROEOQU4Y5XPQ.JPG&w=1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtUMEV3Umw5WVdHdEdiMnRsVFJERUF4aW1CU2dLTWdNUkZ3Zw",
+      "date": "09/03/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-03T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "No link between mobile phones and brain cancer, WHO-backed study says",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ed Osmond",
+          "Jennifer Rigby",
+          "Sharon Singleton"
+        ]
+      },
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/no-link-between-mobile-phones-brain-cancer-who-led-study-says-2024-09-03/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/FOEWI23CMZKXJDXTJ67W3GP5FQ.jpg?auth=6b11a20003cd3951a7e51d5daf936d2e8bd60591b63889c9e0ded153f951c18f&width=1080&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5kREZGZW5BemJWTlVZMVIzVFJERUF4aW1CU2dLTWdZdFE0b3lJUWc",
+      "date": "09/03/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-03T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Cell phones and cancer: New UC Berkeley study suggests cell phones sharply increase tumor risk",
+      "source": {
+        "name": "KTVU",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ktvu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sharon Song"
+        ]
+      },
+      "link": "https://www.ktvu.com/news/new-uc-berkeley-study-draws-strong-link-between-cell-phone-use-and-cancer",
+      "thumbnail": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2019/09/764/432/GettyImages-73915740_1513562590367_4693416_ver1.0_640_360.jpg?ve=1&tl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZibUl0VkhwR2VIUkthVVV3VFJDZ0F4amhCU2dLTWdZWk9JQm8wZ0k",
+      "date": "07/06/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-07-06T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Health Secretary RFK Jr. is ‘very concerned’ about 5G towers, claims they can cause cancer and DNA damage",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/world/us/health-secretary-rfk-jr-is-very-concerned-about-5g-towers-claims-they-can-cause-cancer-and-dna-damage/articleshow/126626910.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-126626929,width-1280,height-720,imgsize-154802,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpSbHBXVTJ4a0xWSlhjRzFEVFJDZkF4ampCU2dLTWdhWlo0aHBwZ2c",
+      "date": "01/18/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-18T08:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "What Does the Science Say About Cell Phones and Cancer?",
+      "source": {
+        "name": "MedPage Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.medpagetoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jennifer Henderson"
+        ]
+      },
+      "link": "https://www.medpagetoday.com/special-reports/features/114816",
+      "thumbnail": "https://assets.medpagetoday.net/media/images/114xxx/114816.jpg?width=0.8",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhRMlkxYVhwRFZIRnZOMHR6VFJDZkF4ampCU2dLTWdtTllwTEdvbWhGckFF",
+      "date": "03/25/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-25T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "The Truth About Cell Phone Radiation and Cancer, According to Experts",
+      "source": {
+        "name": "Prevention",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prevention.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Madeleine Haase",
+          "Gina Way"
+        ]
+      },
+      "link": "https://www.prevention.com/health/a65788198/cell-phones-radiation-cancer-risk/",
+      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/hand-holding-mobile-phone-royalty-free-image-1758309595.pjpeg?crop=0.66698xw:1xh;center,top&resize=640:*",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURURko1V2xGYVZtZDNaaTFuVFJDcUJCaXFCQ2dLTWdZWmM1QnVOUVk",
+      "date": "09/19/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-19T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Do Cell Phones Cause Cancer?",
+      "source": {
+        "name": "Memorial Sloan Kettering Cancer Center",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mskcc.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mskcc.org/news/do-cell-phones-cause",
+      "thumbnail": "https://www.mskcc.org/sites/default/files/styles/large/public/node/176083/3x2/1122848328224429.yhcs5oosfkeol2mosytz_height640.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9UMVJ2UnpaRlYwaE5kR2RKVFJDckF4aUFCU2dLTWdZaE5ZWXJIZ2s",
+      "date": "05/20/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-20T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Kennedy praises cellphone bans in schools, citing mix of science and misinformation",
+      "source": {
+        "name": "NBC News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aria Bendix"
+        ]
+      },
+      "link": "https://www.nbcnews.com/health/kids-health/kennedy-cell-phone-bans-schools-rcna197347",
+      "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2025-03/250320-RFK-Capitol-phone-aa-246-ce358d.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpka0ZsZWxCWFZYTldkVVk0VFJEWkF4aUlCU2dLTWdtQkE2SkNqNnRVcFFJ",
+      "date": "03/22/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-22T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Russian Misinformation Campaign Links 5G Internet to Cancer",
+      "source": {
+        "name": "Cancer Health",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cancerhealth.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Casey Halter"
+        ]
+      },
+      "link": "https://www.cancerhealth.com/article/russian-misinformation-campaign-links-5g-internet-cancer",
+      "thumbnail": "https://cdn1.poz.com/73701_iphone-is-000068971809.jpg_103754ea-5ac3-4d58-8105-4d614b843b8d.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlPSGh0VDNJNGMzZDJXakZNVFJEU0FoakVCU2dLTWdtVklJcXZKT1VtUndJ",
+      "date": "06/12/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-06-12T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Majority of studies report human health impacts from cell tower radiation exposure",
+      "source": {
+        "name": "ehn.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ehn.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ehn.org/cell-tower-radiation-health-effects",
+      "thumbnail": "https://www.ehn.org/media-library/scientific-research-on-cell-tower-radiation-exposure-to-people-reports-associations-with-numerous-health-effects.jpg?id=65564654&width=1200&height=800&quality=50&coordinates=206%2C0%2C207%2C0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNWMGRSVG5sNlJGcEtaV05CVFJERUF4aW1CU2dLTWdhOWNvQTBRUVE",
+      "date": "04/17/2026, 05:46 AM, +0000 UTC",
+      "iso_date": "2026-04-17T05:46:12Z"
+    },
+    {
+      "position": 20,
+      "title": "Study of Cellphone Risks Finds ‘Some Evidence’ of Link to Cancer, at Least in Male Rats (Published 2018)",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "William Broad"
+        ]
+      },
+      "link": "https://www.nytimes.com/2018/11/01/health/cellphone-radiation-cancer.html",
+      "thumbnail": "https://static01.nyt.com/images/2018/11/02/science/02cellphones-print/02CELLPHONES-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURRWFZsU0Zvd2VWQlVaek5JVFJDUUF4allCQ2dLTWdZaHhvb0x3Z1U",
+      "date": "11/01/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-11-01T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "RFK Jr to investigate whether phones cause cancer",
+      "source": {
+        "name": "The Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thetimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thetimes.com/us/american-politics/article/do-phones-cause-cancer-rfk-study-iphone-radiation-bsvdbtssl",
+      "thumbnail": "https://www.thetimes.com/imageserver/image/6cec4b34-8c32-4000-bb13-98fd3509a9fc.jpg?strip=all&format=webp&crop=2416px%2C1359px%2C1225px%2C527px&resize=2360",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpjVTExUkhKeVp6aHZZbFo1VFJDZkF4ampCU2dLTWdrQk1KeDVsQ3FEU1FJ",
+      "date": "01/16/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-16T08:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "No cancer danger from mobile phones, research concludes",
+      "source": {
+        "name": "dw.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Fred Schwaller"
+        ]
+      },
+      "link": "https://www.dw.com/en/no-cancer-danger-from-mobile-phones-research-concludes/a-70133650",
+      "thumbnail": "https://static.dw.com/image/61707694_804.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlVelV0V205T1NGWm1ZMFV0VFJDcUJCaXFCQ2dLTWdrVlk0UlFKYWVLOXdB",
+      "date": "09/05/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-05T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Science on the health effects of wireless radiation",
+      "source": {
+        "name": "ehn.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ehn.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Theodora M. Scarato",
+          "Katherine Mcmahon"
+        ]
+      },
+      "link": "https://www.ehn.org/wireless-radiation-health-effects",
+      "thumbnail": "https://www.ehn.org/media-library/science-on-the-health-effects-of-wireless-radiation.jpg?id=56505028&width=1200&height=800&quality=50&coordinates=100%2C0%2C100%2C0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJTa2gzVkVwaGNYcFBXSEpyVFJERUF4aW1CU2dLTWdZQlVKU1hKQWc",
+      "date": "04/08/2025, 06:16 PM, +0000 UTC",
+      "iso_date": "2025-04-08T18:16:49Z"
+    },
+    {
+      "position": 24,
+      "title": "WHO-backed meta-study finds no evidence that cellphone radiation causes brain cancer",
+      "source": {
+        "name": "The Register",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brandon Vigliarolo"
+        ]
+      },
+      "link": "https://www.theregister.com/offbeat/2024/09/04/meta-study-no-evidence-that-cellphones-cause-brain-cancer/803250",
+      "thumbnail": "https://image.theregister.com/253669.webp?width=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZkRTFvVVVGalExOVdXV3Q0VFJDM0FSaVRBaWdCTWdZWkpwSUtHZ2s",
+      "date": "09/04/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-04T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Cancer: No Link to Cellphone Use, WHO Review Finds",
+      "source": {
+        "name": "Newsweek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pandora Dewan"
+        ]
+      },
+      "link": "https://www.newsweek.com/cancer-cellphone-mobile-5g-who-1947991",
+      "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/2463053-woman-using-mobile-phone.jpg?w=1600&quality=80&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXZNV0owUkc1SWNUTTRjbWhsVFJERUF4aW5CU2dLTWdB",
+      "date": "09/03/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-03T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Now RFK Jr Wants To Launch An Investigation Into Cellphone Radiation. Here's What We Know",
+      "source": {
+        "name": "IFLScience",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.iflscience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "KATIE. SPALDING"
+        ]
+      },
+      "link": "https://www.iflscience.com/now-rfk-jr-wants-to-launch-an-investigation-into-cellphone-radiation-heres-what-we-know-82285",
+      "thumbnail": "https://assets.iflscience.com/assets/articleNo/82285/aImg/88638/cell-phone-s.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpXVkpFWTNVMk1WZFRXa1ZhVFJDTEFoaVFBeWdLTWdZdEJJeXVKUVk",
+      "date": "01/21/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-21T08:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "The inconvenient truth about cancer and mobile phones",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Dowie",
+          "Mark Hertsgaard"
+        ]
+      },
+      "link": "https://www.theguardian.com/technology/2018/jul/14/mobile-phones-cancer-inconvenient-truths",
+      "thumbnail": "https://i.guim.co.uk/img/media/21e24eca81fb280d735f6a06effb599038ad9ad5/0_998_3345_2395/master/3345.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFablp1ZDFwaVRtNVRORWt5VFJETkFoalJBeWdLTWdhaFk0cHVNUVk",
+      "date": "07/14/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-07-14T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Here’s Why You Shouldn’t Freak Out Over That New Study Linking Cancer To Cell Phones",
+      "source": {
+        "name": "BuzzFeed News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.buzzfeednews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Vergano"
+        ]
+      },
+      "link": "https://www.buzzfeednews.com/article/danvergano/cell-phone-cancer-rats",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/31/19/asset/buzzfeed-prod-web-06/sub-buzz-18567-1541028826-1.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpOMUV3Y2tsRlozSlpYMGQwVFJEZ0F4aUFCU2dLTWdZeGs0cFFOUVU",
+      "date": "11/01/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-11-01T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "After several childhood cancer cases at one school, parents question radiation from cell tower",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cbsnews.com/news/cell-tower-shut-down-some-california-parents-link-to-several-cases-of-childhood-cancer/",
+      "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2019/04/04/0b3d7da0-5e90-4c6e-84b0-9e91220c034a/thumbnail/1200x630/ba381917d2814be273b3dba3c27998a2/ctm-0404-childhood-cancer.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRVGR0U1d4V05UWkRia3RtVFJDUkF4ajhCU2dLTWdZUlVJTHpJQWs",
+      "date": "04/04/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-04-04T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Let’s get to the bottom of it – 7 common cancer myths, unpicked",
+      "source": {
+        "name": "Cancer Research UK - Cancer News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.cancerresearchuk.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.cancerresearchuk.org/2023/07/19/lets-get-to-the-bottom-of-it-7-common-cancer-myths-unpicked/",
+      "thumbnail": "https://news.cancerresearchuk.org/wp-content/uploads/2023/07/cancer-myths-header.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9iekIzUldwelRuRmtlVlpVVFJDZkF4ampCU2dLTWdhTlU1Q0pwUVU",
+      "date": "07/19/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-07-19T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "5G Wireless Rekindles Decades-Old Fight Over Cellular Health Risks",
+      "source": {
+        "name": "vice.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.vice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Karl Bode"
+        ]
+      },
+      "link": "https://www.vice.com/en/article/5g-wireless-rekindles-fight-over-cellular-health-risks/",
+      "thumbnail": "https://www.vice.com/wp-content/uploads/sites/2/2018/09/1536960569233-shutterstock_1014932728.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTVmxTZWtaR1pqZFdVRzlTVFJERUF4aW1CU2dLTWdheEU0aVJJUWc",
+      "date": "09/17/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-09-17T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Does 5G cause or spread the coronavirus? Here’s what experts say",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aaron Pressman"
+        ]
+      },
+      "link": "https://fortune.com/2020/04/07/5g-coronavirus-health-cancer-radiation-studies-safely-use-cellphone/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2020/04/GettyImages-1209295301-e1586212560970.jpg?resize=1200,600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFjWFZvZWtNeVpXVkpSamRsVFJDSEF4aVBCaWdLTWdZdGtZSU95UUk",
+      "date": "04/07/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-04-07T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "It Turns Out Cell Phones Don’t Cause Brain Cancer After All",
+      "source": {
+        "name": "relevantmagazine.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://relevantmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Annie Eisner"
+        ]
+      },
+      "link": "https://relevantmagazine.com/culture/tech-gaming/it-turns-out-cell-phones-dont-cause-brain-cancer-after-all/",
+      "thumbnail": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2024/09/Mobile-phones-do-not-give-you-brain-cancer-major-study-concludes_Slice_RLV_2023-scaled.jpg?fit=1600%2C1066&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBObWgzVW1aaGNtaFpkVXA2VFJERUF4aW5CU2dLTWdZcE01SlNIUWs",
+      "date": "09/05/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-05T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Cellphones and cancer: 9 things you should know right now",
+      "source": {
+        "name": "CNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kent German"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/mobile/9-things-you-should-know-about-that-recent-cellphone-cancer-link-study/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/1d03d5a3-95b6-4dd4-99a1-2da341ae50a2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlMVGxwYjJGQ2FHbE1RbFZ1VFJERUF4aW1CU2dLTWdhZFZvd3FvZ2c",
+      "date": "06/06/2016, 07:00 AM, +0000 UTC",
+      "iso_date": "2016-06-06T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Worried about 5G and Cancer? Here’s Why Wireless Networks Pose No Known Health Risk",
+      "source": {
+        "name": "tidbits.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://tidbits.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Glenn Fleishman"
+        ]
+      },
+      "link": "https://tidbits.com/2019/12/06/worried-about-5g-and-cancer-heres-why-wireless-networks-pose-no-health-risk/",
+      "thumbnail": "https://tidbits.com/uploads/2019/12/spooky-antennas-900x0-c-default.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW1kbFJNYVdsVlR6Qm9kRVJoVFJERUF4aW1CU2dLTWdPbEV3dw",
+      "date": "12/06/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-12-06T08:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Syracuse takes steps to address uncertainty over 5G wireless network",
+      "source": {
+        "name": "Syracuse.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.syracuse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Weiner"
+        ]
+      },
+      "link": "https://www.syracuse.com/news/2019/05/syracuse-takes-steps-to-address-uncertainty-over-5g-wireless-network.html",
+      "thumbnail": "https://www.syracuse.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FFGRJBJFMP5EVXAK3HM7UUFUP4E.JPG?auth=5ae7fc630cf351392831c0eb8d6b8aa26f294c47216ad31f8b51213f0e503027&width=500&smart=true&quality=90",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRkMUJZTlhReE1FOVdWM0I0VFJEM0FoajBBeWdLTWdhQmdJS3UxQUU",
+      "date": "05/10/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-10T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Is 5G hazardous to your health?",
+      "source": {
+        "name": "CNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marguerite Reardon"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/mobile/is-5g-making-you-sick-probably-not/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/4026ab27-aa7d-4ae8-8afa-ba8d3c93f288.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXRFpCVkU1UE1HNXJTRXA0VFJEdkF4anJCQ2dLTWdZbEZJcXVsUVE",
+      "date": "07/30/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-07-30T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Do cell phones cause brain tumors? Debate rages",
+      "source": {
+        "name": "CNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Don Reisinger"
+        ]
+      },
+      "link": "https://www.cnet.com/home/smart-home/do-cell-phones-cause-brain-tumors-debate-rages/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/84a78019-f0f1-11e2-8c7c-d4ae52e62bcc.jpg?resize=1200,675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNWVXQ0YkRrNVVUZFBTa05hVFJDZkF4ampCU2dLTWdrQkE0Ymx3cVJjQkFN",
+      "date": "10/21/2011, 07:00 AM, +0000 UTC",
+      "iso_date": "2011-10-21T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "The Truth About Apple AirPods",
+      "source": {
+        "name": "MedPage Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.medpagetoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Doctor Mike"
+        ]
+      },
+      "link": "https://www.medpagetoday.com/popmedicine/dr-mike/111814",
+      "thumbnail": "https://assets.medpagetoday.net/media/images/111xxx/111814.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJhRk5YZWxoMlRURnhkbEYyVFJDZkF4ampCU2dLTWdrSlVack5wV2pCU1FJ",
+      "date": "09/05/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-05T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Mobile phone use doesn't increase brain cancer risk, says research review",
+      "source": {
+        "name": "Sky News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.sky.com/story/mobile-phone-use-doesnt-increase-brain-cancer-risk-says-rsearch-review-13209113",
+      "thumbnail": "https://e3.365dm.com/24/09/1600x900/skynews-phone-mobile_6675822.jpg?20240903152737",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBWazlSYlZGV1pXTklZbVEwVFJDZkF4ampCU2dLTWdhNVFvSlJ0UVE",
+      "date": "09/03/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-03T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Mobile phones not linked to brain cancers, WHO-commissioned review finds - Expert Reaction",
+      "source": {
+        "name": "Science Media Centre",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sciencemediacentre.co.nz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sciencemediacentre.co.nz/2024/09/04/mobile-phones-not-linked-to-brain-cancers-who-commissioned-review-finds-expert-reaction/",
+      "thumbnail": "https://www.sciencemediacentre.co.nz/wp-content/upload/2024/09/taylor-grote-L3qUP8MpExc-unsplash-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNjRWx2T0ZwSk0weFhURkZPVFJERUF4aW1CU2dLTWdhNUFZenlsQVk",
+      "date": "09/04/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-04T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Real 5G issues overshadowed by Covid-19 conspiracy theories",
+      "source": {
+        "name": "Investigate Europe",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investigate-europe.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.investigate-europe.eu/posts/5g-covid-conspiracy",
+      "thumbnail": "https://www.investigate-europe.eu/_next/image?url=https%3A%2F%2Fminio.cloud-storage--dbw6s88mlxz6.addon.code.run%3A443%2Fuploads%2F5G-image.png&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdVVzVPYUdsdVJURlBWbXR5VFJDYkFSakdBaWdCTWdZUkVJak9IUXM",
+      "date": "06/11/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-06-11T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Study: Cell phones don’t increase brain tumor risk in kids",
+      "source": {
+        "name": "CNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marguerite Reardon"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/mobile/study-cell-phones-dont-increase-brain-tumor-risk-in-kids/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/5970b8b6-f0f3-11e2-8c7c-d4ae52e62bcc.jpg?resize=1200,675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNWVXQ0YkRrNVVUZFBTa05hVFJDZkF4ampCU2dLTWdrQkE0Ymx3cVJjQkFN",
+      "date": "07/28/2011, 07:00 AM, +0000 UTC",
+      "iso_date": "2011-07-28T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "WHSC - Radiation from cell phones a human carcinogen, new review finds",
+      "source": {
+        "name": "whsc.on.ca",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.whsc.on.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.whsc.on.ca/What-s-new/News-Archive/Radiation-from-cell-phones-a-human-carcinogen-new-review-finds",
+      "thumbnail": "https://www.whsc.on.ca/getattachment/db5df899-58ae-4a94-87af-5a67074a3810/Radiation-from-cell-phones-a-human-carcinogen-new.aspx?maxsidesize=310",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVVVUpUWlRaS09IVkRiMFZNVFJEWUFSaWdBaWdLTWdZSmlJeWxOZ1k",
+      "date": "05/08/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-08T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "There’s a clear cell phone-cancer link, but FDA is downplaying it",
+      "source": {
+        "name": "thehill.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ronald Melnick"
+        ]
+      },
+      "link": "https://thehill.com/opinion/healthcare/416515-theres-a-clear-cell-phone-cancer-link-but-fda-is-downplaying-it/",
+      "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2017/04/cellphone_city_street_546258752.jpg?strip=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVXV2hIUTFOeE56bFVkSFJCVFJDZkF4ampCU2dLTWdhaFJJS0xKUWc",
+      "date": "11/13/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-11-13T08:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "On zombie health risks: RFK Jr.’s crusade against cell phones and vaccines",
+      "source": {
+        "name": "Genetic Literacy Project",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://geneticliteracyproject.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "geoffrey Kabat"
+        ]
+      },
+      "link": "https://geneticliteracyproject.org/2025/07/02/on-zombie-health-risks-rfk-jr-s-crusade-against-cell-phones-and-vaccines/",
+      "thumbnail": "https://geneticliteracyproject.org/wp-content/uploads/elementor/thumbs/Screenshot-2025-06-30-at-9.33.48%E2%80%AFAM-rjqi3sgwdfijwvu9pocdcd4xb3y0paqpjviqqxdg3o.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRjakV5VjJKRWJYZFpURGhuVFJDNEF4aTRCU2dLTWdB",
+      "date": "07/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-02T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Do You Need to Protect Yourself against EMF Dangers?",
+      "source": {
+        "name": "Chris Kresser",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://chriskresser.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Kresser"
+        ]
+      },
+      "link": "https://chriskresser.com/do-you-need-to-protect-yourself-against-emf-dangers/",
+      "thumbnail": "https://chriskresser.com/wp-content/uploads/casey-horner-339173-unsplash-small.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHRSVlk1ZEc1cGNVWnhjbkU0VFJERUF4aW1CU2dLTWdNUlFSUQ",
+      "date": "04/26/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-04-26T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "It’s official: Mobile phones don’t cause cancer",
+      "source": {
+        "name": "Information Age | ACS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://ia.acs.org.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Braue"
+        ]
+      },
+      "link": "https://ia.acs.org.au/article/2024/it-s-official--mobile-phones-don-t-cause-cancer.html",
+      "thumbnail": "https://ia.acs.org.au/content/dam/ia/article/images/2024/woman%20on%20phone%20cancer.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkelJTUzNsa1ltZHFXSEZUVFJDZkF4amlCU2dLTWdhdEpaek9HUW8",
+      "date": "09/04/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-04T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Figure of the Week: 5G",
+      "source": {
+        "name": "EUvsDisinfo",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://euvsdisinfo.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://euvsdisinfo.eu/figure-of-the-week-5g/",
+      "thumbnail": "https://euvsdisinfo.eu/uploads/2019/05/MIGHT-KILL-YOU.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9OVzlxYVhadmNGaHdaMEp2VFJDSEF4aVBCaWdLTWdZQkFJaFVrQWc",
+      "date": "05/14/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-14T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Link between cell phones and cancer may be unjustified",
+      "source": {
+        "name": "CNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dara Kerr"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/mobile/link-between-cell-phones-and-cancer-may-be-unjustified/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/683c2161-f0ec-11e2-8c7c-d4ae52e62bcc.jpg?resize=1200,675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNWVXQ0YkRrNVVUZFBTa05hVFJDZkF4ampCU2dLTWdrQkE0Ymx3cVJjQkFN",
+      "date": "04/27/2012, 07:00 AM, +0000 UTC",
+      "iso_date": "2012-04-27T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "How mobile phones cause cancer, depression",
+      "source": {
+        "name": "The Guardian Nigeria News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://guardian.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://guardian.ng/features/how-mobile-phones-cause-cancer-depression/",
+      "thumbnail": "https://cdn.guardian.ng/wp-content/uploads/2018/11/cell-phones-and-brain-cancer.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNaloxZEZCNFp6WkpkakJOVFJDZkF4ampCU2dLTWdhVlE0U0tOUU0",
+      "date": "11/13/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-11-13T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "New study supported by World Health Organisation explains link between mobile phones and brain cancer",
+      "source": {
+        "name": "LADbible",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ladbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brenna Cooper"
+        ]
+      },
+      "link": "https://www.ladbible.com/lifestyle/phone-usage-radio-waves-cancer-radiation-debunked-122850-20260717",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHQxZTFjM2U2Y2NmNDY5ZmY2LzZhNWE1YWU0NTE0YzRjMDEwOTU5YWIyNS9waG9uZV9jYW5jZXJfc3R1ZHkuanBn.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZaVlZ3WmtGRVJYRXRWMU4xVFJDZkF4ampCU2dLTWdZWk5vcEpvZ1k",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

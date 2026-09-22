@@ -1,0 +1,318 @@
+{
+  "search_metadata": {
+    "id": "6ab229f7dd2e16605f336597",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TTx-ZEU4Z-KNacgxfUt07evvSdHBWpM9Cu_UPVk39YI/6ab229f7dd2e16605f336597.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TTx-ZEU4Z-KNacgxfUt07evvSdHBWpM9Cu_UPVk39YI/6ab229f7dd2e16605f336597.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/TTx-ZEU4Z-KNacgxfUt07evvSdHBWpM9Cu_UPVk39YI/6ab229f7dd2e16605f336597.json_with_pixel_position",
+    "created_at": "2026-09-22 07:10:47 UTC",
+    "processed_at": "2026-09-22 07:10:47 UTC",
+    "google_url": "https://www.google.com/search?q=%22Dolphins+return+to+Venice+canals%22&oq=%22Dolphins+return+to+Venice+canals%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/TTx-ZEU4Z-KNacgxfUt07evvSdHBWpM9Cu_UPVk39YI/6ab229f7dd2e16605f336597.html",
+    "total_time_taken": 0.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Dolphins return to Venice canals\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Dolphins return to Venice canals\"",
+    "total_results": 30,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "SQ6DJHiczVXZkqJIFP2A-Y72pWoUFLeKIDoyE9w31HLpFwNTTCiBVBKlrLf-l_mq-YH5jUlQ3Eq6qvuho4kAcjl3y3tP3u__2Ja7-vev_0zfX7OnTCYIgjShlNhGGlMno7O9izNLajMPm18Z3XrYsBYyNj3qGKn9Ts6lMJOFlGHJ5b2z13djtbl1fael9cRSdfu3tkpFKuTZXGfGC7fw-sIyswz_rL7kFD5Js7Thpne9YU5TyMbTaDorZHPpbkZ3OAD8vmdKwq8GVqCeDKqHiM88hAAVgMZ5AaHop15AwgnhKlG4iMLxfZvqwaM-OjgIekrvTcEAKCdXuol-oEt3UXC0HET2YGjxB8He0RZ9K8eZmgwEidGQKxWgfbGVqA_dALnrGkA9KVQWC10JE6CdzdfDzWMlYQJKNQoVCJ6TPecCzTrIr4CmfpRsTR1JKDbVmlb5SmZBeOEKmbnHf2LGwiaOBh4L6xkNywKtLMYI9xWAJ8S3x8FkOapu7Q2tzbevIIPnHGdTfWEsZuZM-BrNxayYF8q5YukxIhJmJyaxSyYNg5pgwo5PkZZupaEY0wid8oyu_Vf5HN0rAYiOUPR-jwvEp43ASTNpXoEOGealS8A3FVznh5ajY4YwXqgxAAL1AnJ2KVx8T6Nb10jIkiilhETC5J3zdTC4CPQiscqdSn0XNbd7JI-mvANeK4CgsQLngG_uMAIgRHUNHk5oI0U-SQCeEZVwrGk3joT3A78o6vFpH0KII2qf4-E7zYgXCkKQ66XrUKhxjDiUt05aYf_mOoP3OcjTA1roA8InPfAzN6YW8-Wm_C9po3ZYW5-Pqpb7POqWysO2a38rdTaCxbrafZpQZ_4THQf_UUSK-5EdrScTSfsUkQhRk_vRYRj3IxWFREKEkAQiqYOEfhTEkHM_uo0aDS6I9EE_-lkiqT8kUkzSu0Sq3COSmkSkqB_dEmlw1Y_g_X50ItKv9CP4i_0o4pVx-F03p-0LSWxSVVDo-2y6a5HpzlesnoFhvlzFpj2Yftyklo7_5OgL-3FmLZ5gtuHvF48zvkCfjEVqI3_JZhVqr03LZQ-e4W8998GnDyPDtbDxgHVXtxmHpBzbo7KgS3hsFCoqVCcDDJnQKeafe2PcmYw3m0LDNHa7UeCN34YvaKyPRn2NtLrz4bQsVeYT5u8ponW1B1W7O8_PCrO6aU3E2UZvDwhDtQ1eFopFivfFYl566TXexKVaXGa92iTrSO38KtdyN5LT7-57cN0eorG9669nJPKLyUpt3H1V8675xlKOh2VeCxIBHQ2MCcAATYHGM6Ehyt-AvwWeHJhiWJ8ZbCcbxbIoidkcXubm4twopRzi79dyWUgx15PF1M5Y8MjN56YaWGKuV6gK0-oEvE7WHToFtYVBmvmSlpeIxpG-LH4Kmk5b_wNHYmHr",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SQ6DJHiczVXZkqJIFP2A-Y72pWoUFLeKIDoyE9w31HLpFwNTTCiBVBKlrLf-l_mq-YH5jUlQ3Eq6qvuho4kAcjl3y3tP3u__2Ja7-vev_0zfX7OnTCYIgjShlNhGGlMno7O9izNLajMPm18Z3XrYsBYyNj3qGKn9Ts6lMJOFlGHJ5b2z13djtbl1fael9cRSdfu3tkpFKuTZXGfGC7fw-sIyswz_rL7kFD5Js7Thpne9YU5TyMbTaDorZHPpbkZ3OAD8vmdKwq8GVqCeDKqHiM88hAAVgMZ5AaHop15AwgnhKlG4iMLxfZvqwaM-OjgIekrvTcEAKCdXuol-oEt3UXC0HET2YGjxB8He0RZ9K8eZmgwEidGQKxWgfbGVqA_dALnrGkA9KVQWC10JE6CdzdfDzWMlYQJKNQoVCJ6TPecCzTrIr4CmfpRsTR1JKDbVmlb5SmZBeOEKmbnHf2LGwiaOBh4L6xkNywKtLMYI9xWAJ8S3x8FkOapu7Q2tzbevIIPnHGdTfWEsZuZM-BrNxayYF8q5YukxIhJmJyaxSyYNg5pgwo5PkZZupaEY0wid8oyu_Vf5HN0rAYiOUPR-jwvEp43ASTNpXoEOGealS8A3FVznh5ajY4YwXqgxAAL1AnJ2KVx8T6Nb10jIkiilhETC5J3zdTC4CPQiscqdSn0XNbd7JI-mvANeK4CgsQLngG_uMAIgRHUNHk5oI0U-SQCeEZVwrGk3joT3A78o6vFpH0KII2qf4-E7zYgXCkKQ66XrUKhxjDiUt05aYf_mOoP3OcjTA1roA8InPfAzN6YW8-Wm_C9po3ZYW5-Pqpb7POqWysO2a38rdTaCxbrafZpQZ_4THQf_UUSK-5EdrScTSfsUkQhRk_vRYRj3IxWFREKEkAQiqYOEfhTEkHM_uo0aDS6I9EE_-lkiqT8kUkzSu0Sq3COSmkSkqB_dEmlw1Y_g_X50ItKv9CP4i_0o4pVx-F03p-0LSWxSVVDo-2y6a5HpzlesnoFhvlzFpj2Yftyklo7_5OgL-3FmLZ5gtuHvF48zvkCfjEVqI3_JZhVqr03LZQ-e4W8998GnDyPDtbDxgHVXtxmHpBzbo7KgS3hsFCoqVCcDDJnQKeafe2PcmYw3m0LDNHa7UeCN34YvaKyPRn2NtLrz4bQsVeYT5u8ponW1B1W7O8_PCrO6aU3E2UZvDwhDtQ1eFopFivfFYl566TXexKVaXGa92iTrSO38KtdyN5LT7-57cN0eorG9669nJPKLyUpt3H1V8675xlKOh2VeCxIBHQ2MCcAATYHGM6Ehyt-AvwWeHJhiWJ8ZbCcbxbIoidkcXubm4twopRzi79dyWUgx15PF1M5Y8MjN56YaWGKuV6gK0-oEvE7WHToFtYVBmvmSlpeIxpG-LH4Kmk5b_wNHYmHr"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "A majestic creature sharing wisdom.",
+      "link": "https://www.facebook.com/groups/discovercolorado/posts/825965914852758/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVGPUgG2fIZZ2ui-Ejtz_okxppCB1ccOMTIZEEzJuCidu4blk09HRq0QGr7sy0FheajZ-YOSslFny38N_QhqzvZu8GhUyW1Qo-kcVyzZ1-thPwXC9gw5iZmP4Q0gLS3aYgyywyFZ9DROs0vLcu6G3lk0-hNPIHzpXh1xE&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › discovercolorado › posts",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "date": "Dec 23, 2020",
+      "snippet": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Deborah Studenic Stempien and 434 others. 435 ...",
+      "snippet_highlighted_words": [
+        "Dolphins Return To Venice's Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Deborah Studenic Stempien and 434 others. 435 ...",
+          "source_info_link": "https://www.facebook.com/groups/discovercolorado/posts/825965914852758/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkdQVWdHMmZJWloydWktRWp0el9va3hwcENCMWNjT01USVpFRXpKdUNpZHU0YmxrMDlIUnEwUUdyN3N5MEZoZWFqWi1ZT1NzbEZueTM4Tl9RaHF6dlp1OEdoVXlXMVFvLWtjVnl6WjEtdGhQd1hDOWd3NWlabVA0UTBnTFMzYVlneXl3eUZaOURST3MwdkxjdTZHM2xrMC1oTlBJSHpwWGgxeEUSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkdQVWdHMmZJWloydWktRWp0el9va3hwcENCMWNjT01USVpFRXpKdUNpZHU0YmxrMDlIUnEwUUdyN3N5MEZoZWFqWi1ZT1NzbEZueTM4Tl9RaHF6dlp1OEdoVXlXMVFvLWtjVnl6WjEtdGhQd1hDOWd3NWlabVA0UTBnTFMzYVlneXl3eUZaOURST3MwdkxjdTZHM2xrMC1oTlBJSHpwWGgxeEUSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/groups/discovercolorado/posts/825965914852758/#:~:text=Swans%20%26%20Dolphins%20Return%20To,435%20reactions%20%C2%B7"
+    },
+    {
+      "position": 2,
+      "title": "Every cloud has a silver lining.....",
+      "link": "https://www.facebook.com/groups/300857770076000/posts/2854871024674649/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAV0bqfAL4hQ-vtpv3VrgVKCBcVambkscPcbCfdTblH2sKq1qCuGWBRI7X5EZpTbYWr3a4TDh6p0CFdiyLOKfvAKd1ggylgXJ4-WflirDhgde8DgL8rHHaE9IF7JTef7Ivqnyj0B9oScx8co7F-CCM2mNEr5R4l3UL89DE&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "date": "Aug 31, 2024",
+      "snippet": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Simon Falconer and 4 others. 5 reactions ·. 1 ...",
+      "snippet_highlighted_words": [
+        "Dolphins Return To Venice's Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Simon Falconer and 4 others. 5 reactions ·. 1 ...",
+          "source_info_link": "https://www.facebook.com/groups/300857770076000/posts/2854871024674649/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVjBicWZBTDRoUS12dHB2M1ZyZ1ZLQ0JjVmFtYmtzY1BjYkNmZFRibEgyc0txMXFDdUdXQlJJN1g1RVpwVGJZV3IzYTRURGg2cDBDRmRpeUxPS2Z2QUtkMWdneWxnWEo0LVdmbGlyRGhnZGU4RGdMOHJISGFFOUlGN0pUZWY3SXZxbnlqMEI5b1NjeDhjbzdGLUNDTTJtTkVyNVI0bDNVTDg5REUSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVjBicWZBTDRoUS12dHB2M1ZyZ1ZLQ0JjVmFtYmtzY1BjYkNmZFRibEgyc0txMXFDdUdXQlJJN1g1RVpwVGJZV3IzYTRURGg2cDBDRmRpeUxPS2Z2QUtkMWdneWxnWEo0LVdmbGlyRGhnZGU4RGdMOHJISGFFOUlGN0pUZWY3SXZxbnlqMEI5b1NjeDhjbzdGLUNDTTJtTkVyNVI0bDNVTDg5REUSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/groups/300857770076000/posts/2854871024674649/#:~:text=Swans%20%26%20Dolphins%20Return%20To,1%20comment"
+    },
+    {
+      "position": 3,
+      "title": "Last summer, this solo bottlenose dolphin appeared in the ...",
+      "link": "https://www.facebook.com/PopSci/posts/last-summer-this-solo-bottlenose-dolphin-appeared-in-the-waters-of-venice-and-it/1278701127465057/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFc0d1DP0IiPeqDsNzbTqDhsRYAo5JRWD6lWqHubod64OQDRgLmgbaxNWcuFvk0i9N_nY88N3wJjIFnqCnM28_YkNj4WFnGmWOG-Hz9mFt2imdpf9EccumcRpgVrL7fxEkylS8TfdFOdxw2R1U9f0GBx6hn5PIMH6GzHbyWchRplbrWWJ8xbn0P7gGheMHMV45AK8CQq1dZtKxx2ibg6jsm3807-clemEPtDlqu6yB8X8eIE23FOEFIYkHbB5&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › PopSci › posts › last-sum...",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "date": "Feb 26, 2026",
+      "snippet": "Dolphins return to Venice canals after 60 years. Moss & Fog. 6y · Public · dolphins are back in the canals of Venice for the first time in 60 ...",
+      "snippet_highlighted_words": [
+        "Dolphins return to Venice canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dolphins return to Venice canals after 60 years. Moss & Fog. 6y · Public · dolphins are back in the canals of Venice for the first time in 60 ...",
+          "source_info_link": "https://www.facebook.com/PopSci/posts/last-summer-this-solo-bottlenose-dolphin-appeared-in-the-waters-of-venice-and-it/1278701127465057/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZjMGQxRFAwSWlQZXFEc056YlRxRGhzUllBbzVKUldENmxXcUh1Ym9kNjRPUURSZ0xtZ2JheE5XY3VGdmswaTlOX25ZODhOM3dKaklGbnFDbk0yOF9Za05qNFdGbkdtV09HLUh6OW1GdDJpbWRwZjlFY2N1bWNScGdWckw3ZnhFa3lsUzhUZmRGT2R4dzJSMVU5ZjBHQng2aG41UElNSDZHekhieVdjaFJwbGJyV1dKOHhibjBQN2dHaGVNSE1WNDVBSzhDUXExZFp0S3h4MmliZzZqc20zODA3LWNsZW1FUHREbHF1NnlCOFg4ZUlFMjNGT0VGSVlrSGJCNRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZjMGQxRFAwSWlQZXFEc056YlRxRGhzUllBbzVKUldENmxXcUh1Ym9kNjRPUURSZ0xtZ2JheE5XY3VGdmswaTlOX25ZODhOM3dKaklGbnFDbk0yOF9Za05qNFdGbkdtV09HLUh6OW1GdDJpbWRwZjlFY2N1bWNScGdWckw3ZnhFa3lsUzhUZmRGT2R4dzJSMVU5ZjBHQng2aG41UElNSDZHekhieVdjaFJwbGJyV1dKOHhibjBQN2dHaGVNSE1WNDVBSzhDUXExZFp0S3h4MmliZzZqc20zODA3LWNsZW1FUHREbHF1NnlCOFg4ZUlFMjNGT0VGSVlrSGJCNRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/PopSci/posts/last-summer-this-solo-bottlenose-dolphin-appeared-in-the-waters-of-venice-and-it/1278701127465057/#:~:text=Dolphins%20return%20to%20Venice%20canals,first%20time%20in%2060%20years!"
+    },
+    {
+      "position": 4,
+      "title": "My Venice. Click on the photo, please.",
+      "link": "https://www.facebook.com/groups/1634877103194350/posts/1785455681469824/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFfU0bMWOEmcSDJ2siClhsHBbk1njuTf9vOn5GBSlnfcEIFpXj0yye4fEseEP3sYu9oQ-E74kC4_GMjPJF6eKrvaaovvDXdpmstuPR_D7gUTCHT5Pf3kQMa6DPm-svWnVwoxgUlkukvyGhrcJPJ5S9DFuyXZbXCrhS2HgOw&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "date": "Jun 27, 2017",
+      "snippet": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Vanessa Brunet and 14 others. 15 reactions ·. 7 ...",
+      "snippet_highlighted_words": [
+        "Dolphins Return To Venice's Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Vanessa Brunet and 14 others. 15 reactions ·. 7 ...",
+          "source_info_link": "https://www.facebook.com/groups/1634877103194350/posts/1785455681469824/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZmVTBiTVdPRW1jU0RKMnNpQ2xoc0hCYmsxbmp1VGY5dk9uNUdCU2xuZmNFSUZwWGoweXllNGZFc2VFUDNzWXU5b1EtRTc0a0M0X0dNalBKRjZlS3J2YWFvdnZEWGRwbXN0dVBSX0Q3Z1VUQ0hUNVBmM2tRTWE2RFBtLXN2V25Wd294Z1Vsa3VrdnlHaHJjSlBKNVM5REZ1eVhaYlhDcmhTMkhnT3cSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZmVTBiTVdPRW1jU0RKMnNpQ2xoc0hCYmsxbmp1VGY5dk9uNUdCU2xuZmNFSUZwWGoweXllNGZFc2VFUDNzWXU5b1EtRTc0a0M0X0dNalBKRjZlS3J2YWFvdnZEWGRwbXN0dVBSX0Q3Z1VUQ0hUNVBmM2tRTWE2RFBtLXN2V25Wd294Z1Vsa3VrdnlHaHJjSlBKNVM5REZ1eVhaYlhDcmhTMkhnT3cSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/groups/1634877103194350/posts/1785455681469824/#:~:text=Swans%20%26%20Dolphins%20Return%20To,7%20comments"
+    },
+    {
+      "position": 5,
+      "title": "SILVIA TALLON (@nomadsilvia) / X",
+      "link": "https://x.com/nomadsilvia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVrPpODPMrYk3RdWkdcZZxhMcjA1Na2mv7eGVN2pHmNQeii2z8gGU7XhAULxGIV4N_hyHRExQHejlrANwkg7XhP7iT8Azwfm0TNpn30A&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://x.com › nomadsilvia",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+      "snippet": "Mar 18, 2020. Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown storypick.com/water-and-air-… via @storypicker · 2.",
+      "snippet_highlighted_words": [
+        "Dolphins Return To Venice's Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mar 18, 2020. Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown storypick.com/water-and-air-… via @storypicker · 2.",
+          "source_info_link": "https://x.com/nomadsilvia",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWclBwT0RQTXJZazNSZFdrZGNaWnhoTWNqQTFOYTJtdjdlR1ZOMnBIbU5RZWlpMno4Z0dVN1hoQVVMeEdJVjROX2h5SFJFeFFIZWpsckFOd2tnN1hoUDdpVDhBendmbTBUTnBuMzBBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWclBwT0RQTXJZazNSZFdrZGNaWnhoTWNqQTFOYTJtdjdlR1ZOMnBIbU5RZWlpMno4Z0dVN1hoQVVMeEdJVjROX2h5SFJFeFFIZWpsckFOd2tnN1hoUDdpVDhBendmbTBUTnBuMzBBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "X",
+      "read_more_link": "https://x.com/nomadsilvia#:~:text=Mar%2018%2C%202020,2"
+    },
+    {
+      "position": 6,
+      "title": "Dolphins, swans and fish return to many ports around ...",
+      "link": "https://www.facebook.com/officialmalteseislandsweather/posts/dolphins-swans-and-fish-return-to-many-ports-around-the-world-including-venice-/2637493709707216/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1wEB6zswFe1Gaj9ggKf7-WW3esxN1rHJe7WCt2EPK235slBlBZv2z1AGw350HFdDW1XoPsAMrUtIsyvG3R-uwoJV7tzDK6dFTujAdS6QBbhZB3ZCByk_KAxBoLeAKSQwSXxCBxc8A_vHY0PavYXfVwFFcnuFSbNrPPy--2iubh7PoaArW3JndYr-kC-ZsAvqUnrcXilt3dOsVKGAxrtMShtKYi4w2JtNLR5oZkv3DUSTPhGysvf7HnLcQME8GpNqXpIu1TQ6Tk5edVwLDW8gYX5zCHDmUp54ag&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › posts › dolphins-swans-an...",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "date": "Mar 18, 2020",
+      "snippet": "Fish, swans, and dolphins return to Venice's canals during ... Swans & Dolphins Return To Venice's Canals As Air & Water Quality Improves.",
+      "snippet_highlighted_words": [
+        "dolphins return to Venice's canals",
+        "Dolphins Return To Venice's Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Fish, swans, and dolphins return to Venice's canals during ... Swans & Dolphins Return To Venice's Canals As Air & Water Quality Improves.",
+          "source_info_link": "https://www.facebook.com/officialmalteseislandsweather/posts/dolphins-swans-and-fish-return-to-many-ports-around-the-world-including-venice-/2637493709707216/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZlMUdhajlnZ0tmNy1XVzNlc3hOMXJISmU3V0N0MkVQSzIzNXNsQmxCWnYyejFBR3czNTBIRmREVzFYb1BzQU1yVXRJc3l2RzNSLXV3b0pWN3R6REs2ZEZUdWpBZFM2UUJiaFpCM1pDQnlrX0tBeEJvTGVBS1NRd1NYeENCeGM4QV92SFkwUGF2WVhmVndGRmNudUZTYk5yUFB5LS0yaXViaDdQb2FBclczSm5kWXIta0MtWnNBdnFVbnJjWGlsdDNkT3NWS0dBeHJ0TVNodEtZaTR3Mkp0TkxSNW9aa3YzRFVTVFBoR3lzdmY3SG5MY1FNRThHcE5xWHBJdTFUUTZUazVlZFZ3TERXOGdZWDV6Q0hEbVVwNTRhZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZlMUdhajlnZ0tmNy1XVzNlc3hOMXJISmU3V0N0MkVQSzIzNXNsQmxCWnYyejFBR3czNTBIRmREVzFYb1BzQU1yVXRJc3l2RzNSLXV3b0pWN3R6REs2ZEZUdWpBZFM2UUJiaFpCM1pDQnlrX0tBeEJvTGVBS1NRd1NYeENCeGM4QV92SFkwUGF2WVhmVndGRmNudUZTYk5yUFB5LS0yaXViaDdQb2FBclczSm5kWXIta0MtWnNBdnFVbnJjWGlsdDNkT3NWS0dBeHJ0TVNodEtZaTR3Mkp0TkxSNW9aa3YzRFVTVFBoR3lzdmY3SG5MY1FNRThHcE5xWHBJdTFUUTZUazVlZFZ3TERXOGdZWDV6Q0hEbVVwNTRhZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/officialmalteseislandsweather/posts/dolphins-swans-and-fish-return-to-many-ports-around-the-world-including-venice-/2637493709707216/#:~:text=Fish%2C%20swans%2C%20and%20dolphins%20return,Venice's%20canals%20during%20the%20lockdown&text=Swans%20%26%20Dolphins%20Return%20To,Air%20%26%20Water%20Quality%20Improves"
+    },
+    {
+      "position": 7,
+      "title": "Aleksandra Aya (@aya.aleksandrova)",
+      "link": "https://www.facebook.com/aya.aleksandrova/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAV83slavbShPvhw4M5pK4NQwILQGI3mEQE76r36cgfebuY39sLBFLHQunu-DOibMvTBB_YZwQJ8LAEZ2pj4N5IEyv5meHSeT5oH__vaxPau-i6pDzVv1nfoVK3_52u&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › ... › Digital creator",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Swans & Dolphins Return To Venice Canals, As Air, Water Quality Improves During Lockdown. Good news from the country of Italy, and you might ... Raju Musicco ...",
+      "snippet_highlighted_words": [
+        "Dolphins Return To Venice Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Swans & Dolphins Return To Venice Canals, As Air, Water Quality Improves During Lockdown. Good news from the country of Italy, and you might ... Raju Musicco ...",
+          "source_info_link": "https://www.facebook.com/aya.aleksandrova/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjgzc2xhdmJTaFB2aHc0TTVwSzROUXdJTFFHSTNtRVFFNzZyMzZjZ2ZlYnVZMzlzTEJGTEhRdW51LURPaWJNdlRCQl9ZWndRSjhMQUVaMnBqNE41SUV5djVtZUhTZVQ1b0hfX3ZheFBhdS1pNnBEelZ2MW5mb1ZLM181MnUSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjgzc2xhdmJTaFB2aHc0TTVwSzROUXdJTFFHSTNtRVFFNzZyMzZjZ2ZlYnVZMzlzTEJGTEhRdW51LURPaWJNdlRCQl9ZWndRSjhMQUVaMnBqNE41SUV5djVtZUhTZVQ1b0hfX3ZheFBhdS1pNnBEelZ2MW5mb1ZLM181MnUSBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/aya.aleksandrova/#:~:text=Swans%20%26%20Dolphins%20Return%20To,Raju%20Musicco%20and%2011%20others"
+    },
+    {
+      "position": 8,
+      "title": "Forgot how fun it is to drive the OG Oppressor : r/gtaonline",
+      "link": "https://www.reddit.com/r/gtaonline/comments/fvpx80/forgot_how_fun_it_is_to_drive_the_og_oppressor/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFWbgqlwfoOgcMlQVNjChQFAAflNJpU2cAXxQ4Mt47WurjorVcI7DNa3DxCjMz-pQPl9op4XdSIHWWPmfm9ggETk28JhXtQ5SUOOq2SNDXe0RWqqyl2HoOUdfogMbCte48q-q3fXJDfy-Ab4EOV_TBBwUVS4f_v2-mUmHq4pDNbT104K_r95tsJR9Dl-LyDaDwg0PTsa9&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.reddit.com › gtaonline › comments › fvpx80",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "date": "Apr 6, 2020",
+      "snippet": "•. 7y ago. \"Dolphins return to Venice canals because of coronavirus\" Meanwhile in GTAO: Opressor mk2 returns to Opressor. [deleted]. •. 7y ago.",
+      "snippet_highlighted_words": [
+        "Dolphins return to Venice canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "•. 7y ago. \"Dolphins return to Venice canals because of coronavirus\" Meanwhile in GTAO: Opressor mk2 returns to Opressor. [deleted]. •. 7y ago.",
+          "source_info_link": "https://www.reddit.com/r/gtaonline/comments/fvpx80/forgot_how_fun_it_is_to_drive_the_og_oppressor/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZXYmdxbHdmb09nY01sUVZOakNoUUZBQWZsTkpwVTJjQVh4UTRNdDQ3V3Vyam9yVmNJN0ROYTNEeENqTXotcFFQbDlvcDRYZFNJSFdXUG1mbTlnZ0VUazI4SmhYdFE1U1VPT3EyU05EWGUwUldxcXlsMkhvT1VkZm9nTWJDdGU0OHEtcTNmWEpEZnktQWI0RU9WX1RCQndVVlM0Zl92Mi1tVW1IcTRwRE5iVDEwNEtfcjk1dHNKUjlEbC1MeURhRHdnMFBUc2E5EgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZXYmdxbHdmb09nY01sUVZOakNoUUZBQWZsTkpwVTJjQVh4UTRNdDQ3V3Vyam9yVmNJN0ROYTNEeENqTXotcFFQbDlvcDRYZFNJSFdXUG1mbTlnZ0VUazI4SmhYdFE1U1VPT3EyU05EWGUwUldxcXlsMkhvT1VkZm9nTWJDdGU0OHEtcTNmWEpEZnktQWI0RU9WX1RCQndVVlM0Zl92Mi1tVW1IcTRwRE5iVDEwNEtfcjk1dHNKUjlEbC1MeURhRHdnMFBUc2E5EgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Reddit",
+      "read_more_link": "https://www.reddit.com/r/gtaonline/comments/fvpx80/forgot_how_fun_it_is_to_drive_the_og_oppressor/#:~:text=%E2%80%A2,7y%20ago"
+    },
+    {
+      "position": 9,
+      "title": "Nature and animals can speak, you just need to know how ...",
+      "link": "https://www.facebook.com/groups/449905728967998/posts/804365630188671/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVSqwC7ooY5Pswbsnm5vaayUXj8YkMow5F15xFeJfnV3Ls_nTTSJn1wsQkBH3f7Gy0skhoQrSz2bDCM5zG1A1daDfemdYiaOI_PZcBIUSyAwQ8RqHyiNNgcIFD-5qJKEo59peXRWmgpbyKjBXjse_7ApjKOHkFQpRhHA&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58QFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com › groups › posts",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "date": "May 12, 2021",
+      "snippet": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Deborah Studenic Stempien and 434 others. 435 ...",
+      "snippet_highlighted_words": [
+        "Dolphins Return To Venice's Canals"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Swans & Dolphins Return To Venice's Canals, As Air, Water Quality Improves During Lockdown. Deborah Studenic Stempien and 434 others. 435 ...",
+          "source_info_link": "https://www.facebook.com/groups/449905728967998/posts/804365630188671/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlNxd0M3b29ZNVBzd2Jzbm01dmFheVVYajhZa01vdzVGMTV4RmVKZm5WM0xzX25UVFNKbjF3c1FrQkgzZjdHeTBza2hvUXJTejJiRENNNXpHMUExZGFEZmVtZFlpYU9JX1BaY0JJVVN5QXdROFJxSHlpTk5nY0lGRC01cUpLRW81OXBlWFJXbWdwYnlLakJYanNlXzdBcGpLT0hrRlFwUmhIQRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlNxd0M3b29ZNVBzd2Jzbm01dmFheVVYajhZa01vdzVGMTV4RmVKZm5WM0xzX25UVFNKbjF3c1FrQkgzZjdHeTBza2hvUXJTejJiRENNNXpHMUExZGFEZmVtZFlpYU9JX1BaY0JJVVN5QXdROFJxSHlpTk5nY0lGRC01cUpLRW81OXBlWFJXbWdwYnlLakJYanNlXzdBcGpLT0hrRlFwUmhIQRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/groups/449905728967998/posts/804365630188671/#:~:text=Swans%20%26%20Dolphins%20Return%20To,435%20reactions%20%C2%B7"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%22Dolphins+return+to+Venice+canals%22&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntbnW7PE_mEnl9ILnW-JjIVp9QDwg:1790061047696&ei=9ymyavWEKuntmLQP18Gu-Qk&start=10&sa=N&sstk=AS6-VmIGd0TEPOzpcM056rBNq0J55ydi1P1Ihh5TdpraL8AhTczPJk-xSydn65HxfCnE51SAoUHj4E1mvarNMtVEFmL5z2K9iSP9UA&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58Q8NMDegQIPhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%22Dolphins+return+to+Venice+canals%22&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntbnW7PE_mEnl9ILnW-JjIVp9QDwg:1790061047696&ei=9ymyavWEKuntmLQP18Gu-Qk&start=10&sa=N&sstk=AS6-VmIGd0TEPOzpcM056rBNq0J55ydi1P1Ihh5TdpraL8AhTczPJk-xSydn65HxfCnE51SAoUHj4E1mvarNMtVEFmL5z2K9iSP9UA&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58Q8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=%22Dolphins+return+to+Venice+canals%22&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntbnW7PE_mEnl9ILnW-JjIVp9QDwg:1790061047696&ei=9ymyavWEKuntmLQP18Gu-Qk&start=20&sa=N&sstk=AS6-VmIGd0TEPOzpcM056rBNq0J55ydi1P1Ihh5TdpraL8AhTczPJk-xSydn65HxfCnE51SAoUHj4E1mvarNMtVEFmL5z2K9iSP9UA&ved=2ahUKEwi13P6G0YGXAxXpNoYAHdegK58Q8tMDegQIPhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Dolphins+return+to+Venice+canals%22&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Dolphins+return+to+Venice+canals%22&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Dolphins+return+to+Venice+canals%22&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=%22Dolphins+return+to+Venice+canals%22&start=20"
+    }
+  }
+}

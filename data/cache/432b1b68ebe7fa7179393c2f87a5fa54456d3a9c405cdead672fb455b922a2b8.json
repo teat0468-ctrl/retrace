@@ -1,0 +1,169 @@
+{
+  "search_metadata": {
+    "id": "6aac28f0b6a867d63833dd64",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CTtnGHJC1GvxSxH_wCMV4mA7u4zmvjjrhPnX_bC0SY0/6aac28f0b6a867d63833dd64.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CTtnGHJC1GvxSxH_wCMV4mA7u4zmvjjrhPnX_bC0SY0/6aac28f0b6a867d63833dd64.md",
+    "created_at": "2026-09-17 17:52:48 UTC",
+    "processed_at": "2026-09-17 17:52:48 UTC",
+    "google_news_url": "https://news.google.com/search?q=nasa+discovers+massive+crater+moon+new+update",
+    "raw_html_file": "https://serpapi.com/searches/CTtnGHJC1GvxSxH_wCMV4mA7u4zmvjjrhPnX_bC0SY0/6aac28f0b6a867d63833dd64.html",
+    "total_time_taken": 6.11
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "nasa discovers massive crater moon new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "Phys.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://phys.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://phys.org/news/2026-09-nasa-spacecraft-huge-crater-moon.html",
+      "thumbnail": "https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-spacecraft-discov.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBWa1pyYVUwNGNtOUpXSEprVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/17/2026, 08:12 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:12:32Z"
+    },
+    {
+      "position": 2,
+      "title": "'I just stopped, dropped everything, and started looking' | NASA discovers massive, newly formed crater in the moon",
+      "source": {
+        "name": "KGW",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kgw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris McCrory"
+        ]
+      },
+      "link": "https://www.kgw.com/article/news/nation-world/new-moon-crater/507-66844199-58ed-4869-a10e-e2e5e41ee49e",
+      "thumbnail": "https://media.kgw.com/assets/CCT/images/db679fc3-aa88-4958-a943-ba6c158648a6/20260917T120949/db679fc3-aa88-4958-a943-ba6c158648a6_750x422.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFabW8zY1hKalNXWmZjVjl2VFJDZkF4amlCU2dLTWdB",
+      "date": "09/17/2026, 12:28 PM, +0000 UTC",
+      "iso_date": "2026-09-17T12:28:00Z"
+    },
+    {
+      "position": 3,
+      "title": "NASA discovers new, massive crater on the Moon",
+      "source": {
+        "name": "lemonde.fr",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.lemonde.fr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.lemonde.fr/en/science/article/2026/09/17/nasa-discovers-new-massive-crater-on-the-moon_6757617_10.html",
+      "thumbnail": "https://img.lemde.fr/2026/09/16/0/0/1100/1100/664/0/75/0/d7c3569_ftp-1-x0wov25uersu-5108120-01-06.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVWVWRuT1ZsVE5EWlVTRUpRVFJDcUJCaXFCQ2dLTWdhcGxKS3R1UVk",
+      "date": "09/17/2026, 01:36 AM, +0000 UTC",
+      "iso_date": "2026-09-17T01:36:40Z"
+    },
+    {
+      "position": 4,
+      "title": "NASA discovers huge 222-meter-diameter crater on Moon",
+      "source": {
+        "name": "Anadolu Ajansı",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.aa.com.tr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aa.com.tr/en/science-technology/nasa-discovers-huge-222-meter-diameter-crater-on-moon/4059766",
+      "thumbnail": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/09/17/thumbs_b_c_c07ee1529c1603e0e28c0255f396a51e.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZlVkI0VEVoRlgwSXhPR3hpVFJDZkF4amlCU2dLTWdPaEF3QQ",
+      "date": "09/17/2026, 08:20 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:20:37Z"
+    },
+    {
+      "position": 5,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "KSL News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ksl.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.ksl.com/article/51624873/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon",
+      "thumbnail": "https://img.ksl.com/slc/3202/320212/32021211.jpg?filter=kslv2/responsive_story_lg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJhSFU0VTBVemEzTkJhaTEyVFJDZkF4ampCU2dLTWdaRlFKQ1dyQVk",
+      "date": "09/17/2026, 01:50 AM, +0000 UTC",
+      "iso_date": "2026-09-17T01:50:58Z"
+    },
+    {
+      "position": 6,
+      "title": "NASA spacecraft discovers a huge new crater on the moon",
+      "source": {
+        "name": "The Seattle Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.seattletimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcia Dunn"
+        ]
+      },
+      "link": "https://www.seattletimes.com/nation-world/nation/nasa-spacecraft-discovers-a-huge-new-crater-on-the-moon/",
+      "thumbnail": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.org80eea242ad275fda1f7a88587cdccd2fMoon-New_Crater_32981.jpg?d=1560x759",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhjSGN5UTJwS0xXeDRZalJmVFJDQ0F4aWFCaWdLTWdaRlFZN1ZyQVk",
+      "date": "09/16/2026, 06:05 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:05:20Z"
+    },
+    {
+      "position": 7,
+      "title": "'141 Feet Deep, Wider Than Two Football Fields': NASA Spacecraft Discovers Huge New Crater On Moon",
+      "source": {
+        "name": "The Daily Jagran",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thedailyjagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thedailyjagran.com/world/news/nasa-lro-discovers-massive-moon-crater-largest-recent-impact-10329507",
+      "thumbnail": "https://images.thedailyjagran.com/images/2026/09/17/template/image/nasa-1789639883951.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZUbVpWTURkS2VqZFJRMkZrVFJDZkF4ampCU2dLTWdZbGhaS3R0UVk",
+      "date": "09/17/2026, 10:30 AM, +0000 UTC",
+      "iso_date": "2026-09-17T10:30:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

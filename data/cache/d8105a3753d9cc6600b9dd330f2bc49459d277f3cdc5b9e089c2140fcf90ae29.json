@@ -1,0 +1,475 @@
+{
+  "search_metadata": {
+    "id": "6ab22958a3f7305d57680b2b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/D-l_4GZ0bqilW7SB8o9wHfdEEN17Uu1gWKdZBeokek0/6ab22958a3f7305d57680b2b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/D-l_4GZ0bqilW7SB8o9wHfdEEN17Uu1gWKdZBeokek0/6ab22958a3f7305d57680b2b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/D-l_4GZ0bqilW7SB8o9wHfdEEN17Uu1gWKdZBeokek0/6ab22958a3f7305d57680b2b.json_with_pixel_position",
+    "created_at": "2026-09-22 07:08:08 UTC",
+    "processed_at": "2026-09-22 07:08:08 UTC",
+    "google_url": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&oq=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/D-l_4GZ0bqilW7SB8o9wHfdEEN17Uu1gWKdZBeokek0/6ab22958a3f7305d57680b2b.html",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "nasa discovers massive planet killer asteroid before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "nasa discovers massive planet killer asteroid before:2026-01-01",
+    "total_results": 136000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "NASA Confirmed the Most Dangerous Asteroid Is Here",
+      "link": "https://www.youtube.com/watch?v=znfKpNQ4huY",
+      "thumbnail": "https://serpapi.com/searches/6ab22958a3f7305d57680b2b/images/gbAaQcYDMzUw_Eaqx6X8B10N2MMxH3Bpsxvj1xA5FoM.jpeg",
+      "channel": "BRIGHT SIDE",
+      "duration": "4:02:24",
+      "platform": "YouTube",
+      "date": "Oct 15, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLozgQeaI1MXpbUcyUOitsBtZQ-Iuh5NAhuw",
+      "key_moments": [
+        {
+          "time": "05:02",
+          "title": "Mission Apous Pathfinder",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=302"
+        },
+        {
+          "time": "11:21",
+          "title": "The Risk Corridor",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=681"
+        },
+        {
+          "time": "16:30",
+          "title": "The Dart Mission",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=990"
+        },
+        {
+          "time": "20:45",
+          "title": "The James Web Space Telescope",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=1245"
+        },
+        {
+          "time": "22:04",
+          "title": "Two Small Asteroids",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=1324"
+        },
+        {
+          "time": "27:05",
+          "title": "Nasa Launched the Psyche Spacecraft",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=1625"
+        },
+        {
+          "time": "27:25",
+          "title": "What Exactly Makes Psyche Unique",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=1645"
+        },
+        {
+          "time": "44:42",
+          "title": "Tonga Cliff Mystery",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=2682"
+        },
+        {
+          "time": "45:43",
+          "title": "Story of Makalahi in Tonga",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=2743"
+        },
+        {
+          "time": "54:33",
+          "title": "The Tsunami Hits Thailand",
+          "link": "https://www.youtube.com/watch?v=znfKpNQ4huY&t=3273"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "We Just Spotted an Asteroid That Could Destroy a Continent",
+      "link": "https://www.youtube.com/watch?v=jTYoF1LhoDE",
+      "thumbnail": "https://serpapi.com/searches/6ab22958a3f7305d57680b2b/images/QyCh1L91kexdydQyyk_KVOYkZEPT0XEihbayGaLq4qQ.jpeg",
+      "channel": "BRIGHT SIDE",
+      "duration": "9:13",
+      "platform": "YouTube",
+      "date": "Dec 26, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcReWvwQGaokWqV6UujHt32UATF4QJP2mUo4IQ"
+    },
+    {
+      "position": 3,
+      "title": "Doomsday rock found Sus's glare hides the Earth-killer asteroid",
+      "link": "https://www.facebook.com/WIONews/posts/the-shadow-of-the-sun-killer-doomsday-rock-foundsuss-glare-hides-the-earth-kille/1174452711460568/",
+      "thumbnail": "https://serpapi.com/searches/6ab22958a3f7305d57680b2b/images/h-BISPEcnAPhBTD_nemhDf0xEkCHhYrivu4kWbTmS-Q.jpeg",
+      "channel": "WION",
+      "duration": "3:13",
+      "platform": "Facebook",
+      "date": "Oct 22, 2025"
+    },
+    {
+      "position": 4,
+      "title": "Can Humanity Stop A Planet-Killing Asteroid?",
+      "link": "https://www.youtube.com/watch?v=dKm7T13X7n4",
+      "thumbnail": "https://serpapi.com/searches/6ab22958a3f7305d57680b2b/images/cdrZ4k8jza7GkRi0AssvOHhS_joJUKE8iVPZhkzn57Q.jpeg",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "duration": "12:44",
+      "platform": "YouTube",
+      "date": "Sep 16, 2025",
+      "snippet": "To stop a planet-killing asteroid, scientists propose using super dense cosmic bullets called penetrators to pulverize it.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSApwQ_E-RuedqFVw1Jt1ecTISJD97QMsw4Fw"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "l_QFHXiczVXdcqpIEH6AfY71xkTBn4ipok7NDKioMaJG19xQOIwDCmIYIjF3-y57s6-0T7MDin-RJOdcbO0Uxfz1dH893d_0n3-5zmr5z29_22G4ZvfFYhRFBer71CUF7HtFk21XuDj3XRZg-wfzXwNMHEvGduB7JLfdyOUcZrKQI448Qd7WDIzHnvXHw7Kv9W8fJ0IJaLlEhWzMTEYW3MLbghWNIv8tfy8rfFJgBbIqNMdV6QFWK8JCKpQEsV54LJoeFwD_XdPs-K-DJdA-EYolvtMoBSoA7eMCQkmnnojEE8pVongRxePrNtUdogHaAQR9pf-uYACUA5THTBzoFC6K9pajxB6MLX7i7BVtyb-xn6nZgiDTG3qmAjycbGXqQxeCHLoOUL8SK0sPnR2mQD-a1-LNfSZhCqSWDxUInrKR8wMdDVSXQFe_CraujisoNdWdNvlK0aI8cYXiLOCdWHSwjZNBwOJ8RqO64Dft0Ci9w01jvMbSS2ktea-jzlYS26IfFfGMy7m-aRHLsA3hRzIXS2JVqJdr0k1CJMwOTGKnTBpFLcGGvdBHeqFbgGJKI3SIMzrHr_I5upYCEO1F0YetB3S8bQQOmmnnTGoXYZ66FDyr4Dw-fn13zTBdaDEAIvVE5AgpXvxIo0toNGZJElJKk8P0A3gNDE8cPQmsciVTP3jN7e7JoysfBM8VQNBegqPDF28YBRAiTYe7G3qpJJgqx6tI8ekXQOL3gT8UWnrbqVO79nD0h-90El4oCEGu11_HYu29x_EB56AVDi6eM3idgzw8oIu-IHxWg995MfWULxfpf0ab58YCe632ik3HijDHzc540XU7k0h8iq7TxPdmP1Fx8P-KSGk9cpP1bCLp3yISpWp2PdoN03qkophIiFKaQSR1mFGPolTkWI8uvUbDEyJ9UY9-lkjqp0RKSXqVSI1rRFKziJTWozMiDc_qEbxejw5E-pV6BH-xHiW8IrvuvDi9LmhmkWr0erbU3pgGq4XrakjGYzIt6_1We2vpXxapuRfee6bl3hiOdQ9L7XBr3Rh8wb8nVu5FXpnMzFsOw_6GBCzvmYw5G5Jfu-aKhPml47okyJssJIHvWPkZmfsBuS8JpbtbQeRfznMDXxbMamPRi17qJDQEtsHN5VAE1VZnMNGaxpiRW_d2GpUHz2_zJxuMulrv_W4U0dAXFm0sva6UTn9bazfr67IjhVVnpqr0Tr_ratPZW82utPWBbdgue5sPtuNhX5EU9fFZmK1cTwyhtKp0YFcKB83NW70ltYRN5_XJL41BAozJ7kyfNEdj8Iz1nBdgmWdJhYKeDiYUYICmQOcxejJ93kdAb97xsMEcw6ZB2EYmtbpYEUtlPC_PxBmRch4Nt2u5IubYKpDFfwEyMEuH",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=l_QFHXiczVXdcqpIEH6AfY71xkTBn4ipok7NDKioMaJG19xQOIwDCmIYIjF3-y57s6-0T7MDin-RJOdcbO0Uxfz1dH893d_0n3-5zmr5z29_22G4ZvfFYhRFBer71CUF7HtFk21XuDj3XRZg-wfzXwNMHEvGduB7JLfdyOUcZrKQI448Qd7WDIzHnvXHw7Kv9W8fJ0IJaLlEhWzMTEYW3MLbghWNIv8tfy8rfFJgBbIqNMdV6QFWK8JCKpQEsV54LJoeFwD_XdPs-K-DJdA-EYolvtMoBSoA7eMCQkmnnojEE8pVongRxePrNtUdogHaAQR9pf-uYACUA5THTBzoFC6K9pajxB6MLX7i7BVtyb-xn6nZgiDTG3qmAjycbGXqQxeCHLoOUL8SK0sPnR2mQD-a1-LNfSZhCqSWDxUInrKR8wMdDVSXQFe_CraujisoNdWdNvlK0aI8cYXiLOCdWHSwjZNBwOJ8RqO64Dft0Ci9w01jvMbSS2ktea-jzlYS26IfFfGMy7m-aRHLsA3hRzIXS2JVqJdr0k1CJMwOTGKnTBpFLcGGvdBHeqFbgGJKI3SIMzrHr_I5upYCEO1F0YetB3S8bQQOmmnnTGoXYZ66FDyr4Dw-fn13zTBdaDEAIvVE5AgpXvxIo0toNGZJElJKk8P0A3gNDE8cPQmsciVTP3jN7e7JoysfBM8VQNBegqPDF28YBRAiTYe7G3qpJJgqx6tI8ekXQOL3gT8UWnrbqVO79nD0h-90El4oCEGu11_HYu29x_EB56AVDi6eM3idgzw8oIu-IHxWg995MfWULxfpf0ab58YCe632ik3HijDHzc540XU7k0h8iq7TxPdmP1Fx8P-KSGk9cpP1bCLp3yISpWp2PdoN03qkophIiFKaQSR1mFGPolTkWI8uvUbDEyJ9UY9-lkjqp0RKSXqVSI1rRFKziJTWozMiDc_qEbxejw5E-pV6BH-xHiW8IrvuvDi9LmhmkWr0erbU3pgGq4XrakjGYzIt6_1We2vpXxapuRfee6bl3hiOdQ9L7XBr3Rh8wb8nVu5FXpnMzFsOw_6GBCzvmYw5G5Jfu-aKhPml47okyJssJIHvWPkZmfsBuS8JpbtbQeRfznMDXxbMamPRi17qJDQEtsHN5VAE1VZnMNGaxpiRW_d2GpUHz2_zJxuMulrv_W4U0dAXFm0sva6UTn9bazfr67IjhVVnpqr0Tr_ratPZW82utPWBbdgue5sPtuNhX5EU9fFZmK1cTwyhtKp0YFcKB83NW70ltYRN5_XJL41BAozJ7kyfNEdj8Iz1nBdgmWdJhYKeDiYUYICmQOcxejJ93kdAb97xsMEcw6ZB2EYmtbpYEUtlPC_PxBmRch4Nt2u5IubYKpDFfwEyMEuH"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Can a Planet-Killing Asteroid Appear So Quickly That We ...",
+      "link": "https://www.reddit.com/r/asteroid/comments/17lurcm/can_a_planetkilling_asteroid_appear_so_quickly/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFQCxAB5ZmJrRioF4IA4d4-FcSA3mpePBZWfnRealohtJ_JmF7EhPWP1XlbGepkKkTUc_CUguM_Lukpa9r7Fq8EX5FQYgJWONG1P90wDRIfGSNXhyw5t5vRWNPCXKSi8Pi3AG0Fk-V8kD3KPTgw_rQ0rsywyz2STBlG1pmrNOgcv5HWjDVZEMvglQnN-U6Xld01KzdBeI&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQFnoECCIQAQ&uoh=1",
+      "displayed_link": "20+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Are things like asteroids moving at around the same speeds in space? Or could one come at us “super fast” from out of nowhere and end life as we know ...",
+      "about_this_result": {
+        "source": {
+          "description": "Apophis won't hit Earth. · Apophis is nowhere near 'planet killing' size. The dino-killing asteroid was 100,000 times more massive than Apophis, and it wasn't ...",
+          "source_info_link": "https://www.reddit.com/r/asteroid/comments/17lurcm/can_a_planetkilling_asteroid_appear_so_quickly/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZRQ3hBQjVabUpyUmlvRjRJQTRkNC1GY1NBM21wZVBCWldmblJlYWxvaHRKX0ptRjdFaFBXUDFYbGJHZXBrS2tUVWNfQ1VndU1fTHVrcGE5cjdGcThFWDVGUVlnSldPTkcxUDkwd0RSSWZHU05YaHl3NXQ1dlJXTlBDWEtTaThQaTNBRzBGay1WOGtEM0tQVGd3X3JRMHJzeXd5ejJTVEJsRzFwbXJOT2djdjVIV2pEVlpFTXZnbFFuTi1VNlhsZDAxS3pkQmVJEgQaAggAGvgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQGCAAQABgAIAAqHgoEbmFzYRWFXBM-GgZuYXNhJ3MaCWl2O3A7bmFzYSpaCglkaXNjb3ZlcnMVAAAAABoIZGlzY292ZXIaCWRpc2NvdmVyZBoKZGlzY292ZXJlZBoJZGlzY292ZXJ5GgVmaW5kcxoFZm91bmQaDml2O3A7ZGlzY292ZXJzKjcKB21hc3NpdmUVoEcoPxoDYmlnGgVkZW5zZRoFZ2lhbnQaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlKiQKBnBsYW5ldBWf2H5AGgdwbGFuZXRzGgxwbGFuZXRraWxsZXIqOgoGa2lsbGVyFTE8jD8aB2tpbGxlcnMaB2tpbGxpbmcaDHBsYW5ldGtpbGxlchoLaXY7cDtraWxsZXIqMQoIYXN0ZXJvaWQVLFfIQBoJYXN0ZXJvaWRzGgZtZXRlb3IaDWl2O3A7YXN0ZXJvaWQy3gEvZ290bz91cmw9Q0FFU21nRUI2enN3RlFDeEFCNVptSnJSaW9GNElBNGQ0LUZjU0EzbXBlUEJaV2ZuUmVhbG9odEpfSm1GN0VoUFdQMVhsYkdlcGtLa1RVY19DVWd1TV9MdWtwYTlyN0ZxOEVYNUZRWWdKV09ORzFQOTB3RFJJZkdTTlhoeXc1dDV2UldOUENYS1NpOFBpM0FHMEZrLVY4a0QzS1BUZ3dfclEwcnN5d3l6MlNUQmxHMXBtck5PZ2N2NUhXakRWWkVNdmdsUW5OLVU2WGxkMDFLemRCZUk6SUNhbiBhIDxiPlBsYW5ldDwvYj4tPGI-S2lsbGluZyBBc3Rlcm9pZDwvYj4gQXBwZWFyIFNvIFF1aWNrbHkgVGhhdCBXZSAuLi5C0wFBcG9waGlzIHdvbiYjMzk7dCBoaXQgRWFydGguICZtaWRkb3Q7IEFwb3BoaXMgaXMgbm93aGVyZSBuZWFyICYjMzk7PGI-cGxhbmV0PC9iPiBraWxsaW5nJiMzOTsgc2l6ZS4gVGhlIGRpbm8tPGI-a2lsbGluZyBhc3Rlcm9pZDwvYj4gd2FzIDEwMCwwMDAgdGltZXMgbW9yZSA8Yj5tYXNzaXZlPC9iPiB0aGFuIEFwb3BoaXMsIGFuZCBpdCB3YXNuJiMzOTt0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZRQ3hBQjVabUpyUmlvRjRJQTRkNC1GY1NBM21wZVBCWldmblJlYWxvaHRKX0ptRjdFaFBXUDFYbGJHZXBrS2tUVWNfQ1VndU1fTHVrcGE5cjdGcThFWDVGUVlnSldPTkcxUDkwd0RSSWZHU05YaHl3NXQ1dlJXTlBDWEtTaThQaTNBRzBGay1WOGtEM0tQVGd3X3JRMHJzeXd5ejJTVEJsRzFwbXJOT2djdjVIV2pEVlpFTXZnbFFuTi1VNlhsZDAxS3pkQmVJEgQaAggAGvgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQGCAAQABgAIAAqHgoEbmFzYRWFXBM-GgZuYXNhJ3MaCWl2O3A7bmFzYSpaCglkaXNjb3ZlcnMVAAAAABoIZGlzY292ZXIaCWRpc2NvdmVyZBoKZGlzY292ZXJlZBoJZGlzY292ZXJ5GgVmaW5kcxoFZm91bmQaDml2O3A7ZGlzY292ZXJzKjcKB21hc3NpdmUVoEcoPxoDYmlnGgVkZW5zZRoFZ2lhbnQaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlKiQKBnBsYW5ldBWf2H5AGgdwbGFuZXRzGgxwbGFuZXRraWxsZXIqOgoGa2lsbGVyFTE8jD8aB2tpbGxlcnMaB2tpbGxpbmcaDHBsYW5ldGtpbGxlchoLaXY7cDtraWxsZXIqMQoIYXN0ZXJvaWQVLFfIQBoJYXN0ZXJvaWRzGgZtZXRlb3IaDWl2O3A7YXN0ZXJvaWQy3gEvZ290bz91cmw9Q0FFU21nRUI2enN3RlFDeEFCNVptSnJSaW9GNElBNGQ0LUZjU0EzbXBlUEJaV2ZuUmVhbG9odEpfSm1GN0VoUFdQMVhsYkdlcGtLa1RVY19DVWd1TV9MdWtwYTlyN0ZxOEVYNUZRWWdKV09ORzFQOTB3RFJJZkdTTlhoeXc1dDV2UldOUENYS1NpOFBpM0FHMEZrLVY4a0QzS1BUZ3dfclEwcnN5d3l6MlNUQmxHMXBtck5PZ2N2NUhXakRWWkVNdmdsUW5OLVU2WGxkMDFLemRCZUk6SUNhbiBhIDxiPlBsYW5ldDwvYj4tPGI-S2lsbGluZyBBc3Rlcm9pZDwvYj4gQXBwZWFyIFNvIFF1aWNrbHkgVGhhdCBXZSAuLi5C0wFBcG9waGlzIHdvbiYjMzk7dCBoaXQgRWFydGguICZtaWRkb3Q7IEFwb3BoaXMgaXMgbm93aGVyZSBuZWFyICYjMzk7PGI-cGxhbmV0PC9iPiBraWxsaW5nJiMzOTsgc2l6ZS4gVGhlIGRpbm8tPGI-a2lsbGluZyBhc3Rlcm9pZDwvYj4gd2FzIDEwMCwwMDAgdGltZXMgbW9yZSA8Yj5tYXNzaXZlPC9iPiB0aGFuIEFwb3BoaXMsIGFuZCBpdCB3YXNuJiMzOTt0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Reddit · r/asteroid"
+    },
+    {
+      "position": 2,
+      "title": "Asteroid Facts",
+      "link": "https://science.nasa.gov/solar-system/asteroids/facts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVkxcQFsLgwdOyn3n2_rZ0O_cc_ud9H9idKqTAm7dZ1Y8duTeFRFsfOUJ32fGje900Jmmz_GW5lUuSSCxzm-DA6hYDWlV0h9urC0qQF7ODVT8OSpzZkMqpdSxbBvMhydwsOB3tsjNsFYyq&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov › solar-system › asteroids › facts",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "date": "Feb 18, 2025",
+      "snippet": "They leave 60-mile (100-kilometer) wide craters, cause global devastation, and mass extinctions of life. Large Asteroids Have Hit Earth in the Past. Arizona's ...",
+      "snippet_highlighted_words": [
+        "They leave 60-mile (100-kilometer) wide craters"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Asteroid Facts",
+            "link": "https://science.nasa.gov/solar-system/asteroids/facts/#:~:text=Asteroid%20Facts,-Asteroids%2C%20sometimes%20called%20minor"
+          },
+          {
+            "title": "Will An Asteroid Ever Hit...",
+            "link": "https://science.nasa.gov/solar-system/asteroids/facts/#:~:text=Will%20an%20Asteroid%20Ever%20Hit%20Earth%3F,-It%20is%20highly%20unlikely%20that"
+          },
+          {
+            "title": "Large Asteroids Have Hit...",
+            "link": "https://science.nasa.gov/solar-system/asteroids/facts/#:~:text=Large%20Asteroids%20Have%20Hit%20Earth%20in%20the%20Past,-Arizona%27s%20Barringer%20Crater%2C"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "They leave 60-mile (100-kilometer) wide craters, cause global devastation, and mass extinctions of life. Large Asteroids Have Hit Earth in the Past. Arizona's ...",
+          "source_info_link": "https://science.nasa.gov/solar-system/asteroids/facts/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmt4Y1FGc0xnd2RPeW4zbjJfclowT19jY191ZDlIOWlkS3FUQW03ZFoxWThkdVRlRlJGc2ZPVUozMmZHamU5MDBKbW16X0dXNWxVdVNTQ3h6bS1EQTZoWURXbFYwaDl1ckMwcVFGN09EVlQ4T1NwelprTXFwZFN4YkJ2TWh5ZHdzT0IzdHNqTnNGWXlxEgQaAggAGoEGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDZBQgAEAAYACAAKh4KBG5hc2EV-pL0QBoGbmFzYSdzGglpdjtwO25hc2EqWgoJZGlzY292ZXJzFQAAAAAaCGRpc2NvdmVyGglkaXNjb3ZlcmQaCmRpc2NvdmVyZWQaCWRpc2NvdmVyeRoFZmluZHMaBWZvdW5kGg5pdjtwO2Rpc2NvdmVycyo3CgdtYXNzaXZlFbX4Qj0aA2JpZxoFZGVuc2UaBWdpYW50GgRodWdlGgdpbW1lbnNlGgVsYXJnZSokCgZwbGFuZXQVPIsePxoHcGxhbmV0cxoMcGxhbmV0a2lsbGVyKjoKBmtpbGxlchUAAAAAGgdraWxsZXJzGgdraWxsaW5nGgxwbGFuZXRraWxsZXIaC2l2O3A7a2lsbGVyKjEKCGFzdGVyb2lkFXRdH0AaCWFzdGVyb2lkcxoGbWV0ZW9yGg1pdjtwO2FzdGVyb2lkMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmt4Y1FGc0xnd2RPeW4zbjJfclowT19jY191ZDlIOWlkS3FUQW03ZFoxWThkdVRlRlJGc2ZPVUozMmZHamU5MDBKbW16X0dXNWxVdVNTQ3h6bS1EQTZoWURXbFYwaDl1ckMwcVFGN09EVlQ4T1NwelprTXFwZFN4YkJ2TWh5ZHdzT0IzdHNqTnNGWXlxOis8Yj5Bc3Rlcm9pZDwvYj4gRmFjdHMgLSA8Yj5OQVNBPC9iPiBTY2llbmNlQrIBPGI-VGhleSBsZWF2ZSA2MC1taWxlICgxMDAta2lsb21ldGVyKSB3aWRlIGNyYXRlcnM8L2I-LCBjYXVzZSBnbG9iYWwgZGV2YXN0YXRpb24sIGFuZCBtYXNzIGV4dGluY3Rpb25zIG9mIGxpZmUuIExhcmdlIEFzdGVyb2lkcyBIYXZlIEhpdCBFYXJ0aCBpbiB0aGUgUGFzdC4gQXJpem9uYSYjMzk7cyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmt4Y1FGc0xnd2RPeW4zbjJfclowT19jY191ZDlIOWlkS3FUQW03ZFoxWThkdVRlRlJGc2ZPVUozMmZHamU5MDBKbW16X0dXNWxVdVNTQ3h6bS1EQTZoWURXbFYwaDl1ckMwcVFGN09EVlQ4T1NwelprTXFwZFN4YkJ2TWh5ZHdzT0IzdHNqTnNGWXlxEgQaAggAGoEGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDZBQgAEAAYACAAKh4KBG5hc2EV-pL0QBoGbmFzYSdzGglpdjtwO25hc2EqWgoJZGlzY292ZXJzFQAAAAAaCGRpc2NvdmVyGglkaXNjb3ZlcmQaCmRpc2NvdmVyZWQaCWRpc2NvdmVyeRoFZmluZHMaBWZvdW5kGg5pdjtwO2Rpc2NvdmVycyo3CgdtYXNzaXZlFbX4Qj0aA2JpZxoFZGVuc2UaBWdpYW50GgRodWdlGgdpbW1lbnNlGgVsYXJnZSokCgZwbGFuZXQVPIsePxoHcGxhbmV0cxoMcGxhbmV0a2lsbGVyKjoKBmtpbGxlchUAAAAAGgdraWxsZXJzGgdraWxsaW5nGgxwbGFuZXRraWxsZXIaC2l2O3A7a2lsbGVyKjEKCGFzdGVyb2lkFXRdH0AaCWFzdGVyb2lkcxoGbWV0ZW9yGg1pdjtwO2FzdGVyb2lkMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmt4Y1FGc0xnd2RPeW4zbjJfclowT19jY191ZDlIOWlkS3FUQW03ZFoxWThkdVRlRlJGc2ZPVUozMmZHamU5MDBKbW16X0dXNWxVdVNTQ3h6bS1EQTZoWURXbFYwaDl1ckMwcVFGN09EVlQ4T1NwelprTXFwZFN4YkJ2TWh5ZHdzT0IzdHNqTnNGWXlxOis8Yj5Bc3Rlcm9pZDwvYj4gRmFjdHMgLSA8Yj5OQVNBPC9iPiBTY2llbmNlQrIBPGI-VGhleSBsZWF2ZSA2MC1taWxlICgxMDAta2lsb21ldGVyKSB3aWRlIGNyYXRlcnM8L2I-LCBjYXVzZSBnbG9iYWwgZGV2YXN0YXRpb24sIGFuZCBtYXNzIGV4dGluY3Rpb25zIG9mIGxpZmUuIExhcmdlIEFzdGVyb2lkcyBIYXZlIEhpdCBFYXJ0aCBpbiB0aGUgUGFzdC4gQXJpem9uYSYjMzk7cyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "NASA Science (.gov)",
+      "read_more_link": "https://science.nasa.gov/solar-system/asteroids/facts/#:~:text=They%20leave%2060%2Dmile%20(100%2Dkilometer)%20wide,also%20known%20as%20Meteor%20Crater."
+    },
+    {
+      "position": 3,
+      "title": "Huge 'planet killer' asteroid discovered – and it's heading ...",
+      "link": "https://www.theguardian.com/science/2022/nov/01/huge-planet-killer-asteroid-discovered-and-its-heading-our-way",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFacv5ptGjL4wAksyLjuu-7mkYpJR3zk7S4R8reWL3ZkjFbCHP-kISzKDcTF9YO7J4pLMBZ09VGUJUyQJPuoYR2U9o5BCICYkpHtmgax9TtUFM7xbVDNF1_3MujEqUrxPSVX0KjgKxCo3-hPzvISyFwoIlkzlQSHFVr3LVKEUfQNFVy3ohYdKmUB8aX6lVTMmXBRmozSMqU2re-tRnFiSUkE6&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.theguardian.com › science › nov › huge-pl...",
+      "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBQCdASocABwAPtE-tFooIigoFAEAGglmAJ0y3yWP_YIMMTqF2dgphbNqxNSDYKilhEhPUqtQAAD-7pbZSKamBLYQ5IBmGNjRJ5JKVYps-Saq1Tps5dl3F83hYYU6R012lTPPKfXbDfWzApV5rpBTgKJJf7kbSCqDZl7EI5YmO4YT4xGbfZyNc4C5DenXfymfCXRWq_VKeltjuVCLYfqzhF4d1vwxmHP53yPE_h4odBKP5PLQj8BHE62FdWRx0tu2s4-fOAumnTGe5cD-arZENwimfsWj1lGY9YMn-mjOgwX8_pinZuOw-7PIBHccNjjZ58_GM6PBoHc7ry82sgqTP1Ky1vaV__KfNTmoDJk0nQ9tqffT6ypxtwySatf6I_e2L2d4D051ADE02QSmU8_g87yAAA.webp",
+      "date": "Nov 1, 2022",
+      "snippet": "With a diameter of about 1.1km to 2.3km, the team say 2022 AP7 is the largest PHA discovered since 2014 and probably in the top 5% of the largest ever found. “ ...",
+      "snippet_highlighted_words": [
+        "2022 AP7 is the largest PHA discovered since 2014"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With a diameter of about 1.1km to 2.3km, the team say 2022 AP7 is the largest PHA discovered since 2014 and probably in the top 5% of the largest ever found. “ ...",
+          "source_info_link": "https://www.theguardian.com/science/2022/nov/01/huge-planet-killer-asteroid-discovered-and-its-heading-our-way",
+          "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBQCdASocABwAPtE-tFooIigoFAEAGglmAJ0y3yWP_YIMMTqF2dgphbNqxNSDYKilhEhPUqtQAAD-7pbZSKamBLYQ5IBmGNjRJ5JKVYps-Saq1Tps5dl3F83hYYU6R012lTPPKfXbDfWzApV5rpBTgKJJf7kbSCqDZl7EI5YmO4YT4xGbfZyNc4C5DenXfymfCXRWq_VKeltjuVCLYfqzhF4d1vwxmHP53yPE_h4odBKP5PLQj8BHE62FdWRx0tu2s4-fOAumnTGe5cD-arZENwimfsWj1lGY9YMn-mjOgwX8_pinZuOw-7PIBHccNjjZ58_GM6PBoHc7ry82sgqTP1Ky1vaV__KfNTmoDJk0nQ9tqffT6ypxtwySatf6I_e2L2d4D051ADE02QSmU8_g87yAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhY3Y1cHRHakw0d0Frc3lManV1LTdta1lwSlIzems3UzRSOHJlV0wzWmtqRmJDSFAta0lTektEY1RGOVlPN0o0cExNQlowOVZHVUpVeVFKUHVvWVIyVTlvNUJDSUNZa3BIdG1nYXg5VHRVRk03eGJWRE5GMV8zTXVqRXFVcnhQU1ZYMEtqZ0t4Q28zLWhQenZJU3lGd29JbGt6bFFTSEZWcjNMVktFVWZRTkZWeTNvaFlkS21VQjhhWDZsVlRNbVhCUm1velNNcVUycmUtdFJuRmlTVWtFNhIEGgIIABqFBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN8GCAAQABgAIAAqHgoEbmFzYRWdloA-GgZuYXNhJ3MaCWl2O3A7bmFzYSpaCglkaXNjb3ZlcnMVAAAAABoIZGlzY292ZXIaCWRpc2NvdmVyZBoKZGlzY292ZXJlZBoJZGlzY292ZXJ5GgVmaW5kcxoFZm91bmQaDml2O3A7ZGlzY292ZXJzKjcKB21hc3NpdmUVAAAAABoDYmlnGgVkZW5zZRoFZ2lhbnQaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlKiQKBnBsYW5ldBUKfqpAGgdwbGFuZXRzGgxwbGFuZXRraWxsZXIqOgoGa2lsbGVyFazipEAaB2tpbGxlcnMaB2tpbGxpbmcaDHBsYW5ldGtpbGxlchoLaXY7cDtraWxsZXIqMQoIYXN0ZXJvaWQVHobRQBoJYXN0ZXJvaWRzGgZtZXRlb3IaDWl2O3A7YXN0ZXJvaWQy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RmFjdjVwdEdqTDR3QWtzeUxqdXUtN21rWXBKUjN6azdTNFI4cmVXTDNaa2pGYkNIUC1rSVN6S0RjVEY5WU83SjRwTE1CWjA5VkdVSlV5UUpQdW9ZUjJVOW81QkNJQ1lrcEh0bWdheDlUdFVGTTd4YlZETkYxXzNNdWpFcVVyeFBTVlgwS2pnS3hDbzMtaFB6dklTeUZ3b0lsa3psUVNIRlZyM0xWS0VVZlFORlZ5M29oWWRLbVVCOGFYNmxWVE1tWEJSbW96U01xVTJyZS10Um5GaVNVa0U2OmY8Yj5IdWdlPC9iPiAmIzM5OzxiPnBsYW5ldCBraWxsZXI8L2I-JiMzOTsgPGI-YXN0ZXJvaWQgZGlzY292ZXJlZDwvYj4g4oCTIGFuZCBpdCYjMzk7cyBoZWFkaW5nIG91ciAuLi5CsQFXaXRoIGEgZGlhbWV0ZXIgb2YgYWJvdXQgMS4xa20gdG8gMi4za20sIHRoZSB0ZWFtIHNheSA8Yj4yMDIyIEFQNyBpcyB0aGUgbGFyZ2VzdCBQSEEgZGlzY292ZXJlZCBzaW5jZSAyMDE0PC9iPiBhbmQgcHJvYmFibHkgaW4gdGhlIHRvcCA1JSBvZiB0aGUgbGFyZ2VzdCBldmVyIGZvdW5kLiDigJwmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhY3Y1cHRHakw0d0Frc3lManV1LTdta1lwSlIzems3UzRSOHJlV0wzWmtqRmJDSFAta0lTektEY1RGOVlPN0o0cExNQlowOVZHVUpVeVFKUHVvWVIyVTlvNUJDSUNZa3BIdG1nYXg5VHRVRk03eGJWRE5GMV8zTXVqRXFVcnhQU1ZYMEtqZ0t4Q28zLWhQenZJU3lGd29JbGt6bFFTSEZWcjNMVktFVWZRTkZWeTNvaFlkS21VQjhhWDZsVlRNbVhCUm1velNNcVUycmUtdFJuRmlTVWtFNhIEGgIIABqFBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN8GCAAQABgAIAAqHgoEbmFzYRWdloA-GgZuYXNhJ3MaCWl2O3A7bmFzYSpaCglkaXNjb3ZlcnMVAAAAABoIZGlzY292ZXIaCWRpc2NvdmVyZBoKZGlzY292ZXJlZBoJZGlzY292ZXJ5GgVmaW5kcxoFZm91bmQaDml2O3A7ZGlzY292ZXJzKjcKB21hc3NpdmUVAAAAABoDYmlnGgVkZW5zZRoFZ2lhbnQaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlKiQKBnBsYW5ldBUKfqpAGgdwbGFuZXRzGgxwbGFuZXRraWxsZXIqOgoGa2lsbGVyFazipEAaB2tpbGxlcnMaB2tpbGxpbmcaDHBsYW5ldGtpbGxlchoLaXY7cDtraWxsZXIqMQoIYXN0ZXJvaWQVHobRQBoJYXN0ZXJvaWRzGgZtZXRlb3IaDWl2O3A7YXN0ZXJvaWQy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RmFjdjVwdEdqTDR3QWtzeUxqdXUtN21rWXBKUjN6azdTNFI4cmVXTDNaa2pGYkNIUC1rSVN6S0RjVEY5WU83SjRwTE1CWjA5VkdVSlV5UUpQdW9ZUjJVOW81QkNJQ1lrcEh0bWdheDlUdFVGTTd4YlZETkYxXzNNdWpFcVVyeFBTVlgwS2pnS3hDbzMtaFB6dklTeUZ3b0lsa3psUVNIRlZyM0xWS0VVZlFORlZ5M29oWWRLbVVCOGFYNmxWVE1tWEJSbW96U01xVTJyZS10Um5GaVNVa0U2OmY8Yj5IdWdlPC9iPiAmIzM5OzxiPnBsYW5ldCBraWxsZXI8L2I-JiMzOTsgPGI-YXN0ZXJvaWQgZGlzY292ZXJlZDwvYj4g4oCTIGFuZCBpdCYjMzk7cyBoZWFkaW5nIG91ciAuLi5CsQFXaXRoIGEgZGlhbWV0ZXIgb2YgYWJvdXQgMS4xa20gdG8gMi4za20sIHRoZSB0ZWFtIHNheSA8Yj4yMDIyIEFQNyBpcyB0aGUgbGFyZ2VzdCBQSEEgZGlzY292ZXJlZCBzaW5jZSAyMDE0PC9iPiBhbmQgcHJvYmFibHkgaW4gdGhlIHRvcCA1JSBvZiB0aGUgbGFyZ2VzdCBldmVyIGZvdW5kLiDigJwmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "The Guardian",
+      "read_more_link": "https://www.theguardian.com/science/2022/nov/01/huge-planet-killer-asteroid-discovered-and-its-heading-our-way#:~:text=With%20a%20diameter%20of%20about,%E2%80%9C"
+    },
+    {
+      "position": 4,
+      "title": "NASA discovers large asteroid heading towards Earth",
+      "link": "https://www.facebook.com/abcnews.au/videos/nasa-discovers-large-asteroid-heading-towards-earth/602971755066057/",
+      "displayed_link": "40+ reactions · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab22958a3f7305d57680b2b/images/eBtbZ1Qai23y0neln50yyuwBvjuKW-QnwWVJ1OyC6Pc.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "A man explains the facts about an asteroid heading towards Earth, clarifying that it is not a \"planetary killer\" threat. He details the potential impact, ...",
+      "duration": "4:51",
+      "about_this_result": {
+        "source": {
+          "description": "A man explains the facts about an asteroid heading towards Earth, clarifying that it is not a \"planetary killer\" threat. He details the potential impact, ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZUTldDQktZaXA3eUxyaFNyNkpUTmktdkdsX19fUHZsUzYwZXdpdThOUzZIbVktcXIxdG5QQ0x1N0N5bkt1SHJwZ3VyUXZHTDNGd1JEY1pFTlg4a0hmbHgxQXcwQ3VGRW1HVmVxbTRZX1dRX293dXBuSXZQWm5CS01TX2N2VUxJQ01WWXRkcVdBZWhLNk1TOFFjdC03NGc4TDNWVkRsMmszVGtLaC1LLWtNMzVEdVpEczY1YU1SM0I3cTNjbDFQdTViVnRRSVRmSXk1b0lPNlF3RzFjU0QzQUlBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZUTldDQktZaXA3eUxyaFNyNkpUTmktdkdsX19fUHZsUzYwZXdpdThOUzZIbVktcXIxdG5QQ0x1N0N5bkt1SHJwZ3VyUXZHTDNGd1JEY1pFTlg4a0hmbHgxQXcwQ3VGRW1HVmVxbTRZX1dRX293dXBuSXZQWm5CS01TX2N2VUxJQ01WWXRkcVdBZWhLNk1TOFFjdC03NGc4TDNWVkRsMmszVGtLaC1LLWtNMzVEdVpEczY1YU1SM0I3cTNjbDFQdTViVnRRSVRmSXk1b0lPNlF3RzFjU0QzQUlBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · ABC News"
+    },
+    {
+      "position": 5,
+      "title": "Near-Earth Asteroids as of December 2025",
+      "link": "https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFTEUSIyhtBg_euJoxptDdjdn4Qzh9Y6hynwEdizyNLYx3O1n-rJ2uITkqc6PfxjBWFed6t8MzII-CDdLFhjEv_edIAFdWfLOjnTvbN55UAHRfMpcPoqHzfSbkA0stEubOpsUk1NCbPvO4twQJJ1VKRnZ8ljk0JkO-ZZTRzJXUTdnVNiSE31CnqC07rSOCNaJMboLDZ5q7w&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov › planetary-defense › near-earth...",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "date": "Dec 3, 2025",
+      "snippet": "The graphic presents data on near-Earth asteroids as of Decemeber 3, 2025.",
+      "snippet_highlighted_words": [
+        "asteroids"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The graphic presents data on near-Earth asteroids as of Decemeber 3, 2025.",
+          "source_info_link": "https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZURVVTSXlodEJnX2V1Sm94cHREZGpkbjRRemg5WTZoeW53RWRpenlOTFl4M08xbi1ySjJ1SVRrcWM2UGZ4akJXRmVkNnQ4TXpJSS1DRGRMRmhqRXZfZWRJQUZkV2ZMT2puVHZiTjU1VUFIUmZNcGNQb3FIemZTYmtBMHN0RXViT3BzVWsxTkNiUHZPNHR3UUpKMVZLUm5aOGxqazBKa08tWlpUUnpKWFVUZG5WTmlTRTMxQ25xQzA3clNPQ05hSk1ib0xEWjVxN3cSBBoCCAAa9QUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDPBQgAEAAYACAAKh4KBG5hc2EVoUQSQRoGbmFzYSdzGglpdjtwO25hc2EqWgoJZGlzY292ZXJzFQAAAAAaCGRpc2NvdmVyGglkaXNjb3ZlcmQaCmRpc2NvdmVyZWQaCWRpc2NvdmVyeRoFZmluZHMaBWZvdW5kGg5pdjtwO2Rpc2NvdmVycyo3CgdtYXNzaXZlFQAAAAAaA2JpZxoFZGVuc2UaBWdpYW50GgRodWdlGgdpbW1lbnNlGgVsYXJnZSokCgZwbGFuZXQVdQK_PhoHcGxhbmV0cxoMcGxhbmV0a2lsbGVyKjoKBmtpbGxlchUAAAAAGgdraWxsZXJzGgdraWxsaW5nGgxwbGFuZXRraWxsZXIaC2l2O3A7a2lsbGVyKjEKCGFzdGVyb2lkFQAAAAAaCWFzdGVyb2lkcxoGbWV0ZW9yGg1pdjtwO2FzdGVyb2lkMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZURVVTSXlodEJnX2V1Sm94cHREZGpkbjRRemg5WTZoeW53RWRpenlOTFl4M08xbi1ySjJ1SVRrcWM2UGZ4akJXRmVkNnQ4TXpJSS1DRGRMRmhqRXZfZWRJQUZkV2ZMT2puVHZiTjU1VUFIUmZNcGNQb3FIemZTYmtBMHN0RXViT3BzVWsxTkNiUHZPNHR3UUpKMVZLUm5aOGxqazBKa08tWlpUUnpKWFVUZG5WTmlTRTMxQ25xQzA3clNPQ05hSk1ib0xEWjVxN3c6RU5lYXItRWFydGggPGI-QXN0ZXJvaWRzPC9iPiBhcyBvZiBEZWNlbWJlciAyMDI1IC0gPGI-TkFTQTwvYj4gU2NpZW5jZUJRVGhlIGdyYXBoaWMgcHJlc2VudHMgZGF0YSBvbiBuZWFyLUVhcnRoIDxiPmFzdGVyb2lkczwvYj4gYXMgb2YgRGVjZW1lYmVyIDMsIDIwMjUuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZURVVTSXlodEJnX2V1Sm94cHREZGpkbjRRemg5WTZoeW53RWRpenlOTFl4M08xbi1ySjJ1SVRrcWM2UGZ4akJXRmVkNnQ4TXpJSS1DRGRMRmhqRXZfZWRJQUZkV2ZMT2puVHZiTjU1VUFIUmZNcGNQb3FIemZTYmtBMHN0RXViT3BzVWsxTkNiUHZPNHR3UUpKMVZLUm5aOGxqazBKa08tWlpUUnpKWFVUZG5WTmlTRTMxQ25xQzA3clNPQ05hSk1ib0xEWjVxN3cSBBoCCAAa9QUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDPBQgAEAAYACAAKh4KBG5hc2EVoUQSQRoGbmFzYSdzGglpdjtwO25hc2EqWgoJZGlzY292ZXJzFQAAAAAaCGRpc2NvdmVyGglkaXNjb3ZlcmQaCmRpc2NvdmVyZWQaCWRpc2NvdmVyeRoFZmluZHMaBWZvdW5kGg5pdjtwO2Rpc2NvdmVycyo3CgdtYXNzaXZlFQAAAAAaA2JpZxoFZGVuc2UaBWdpYW50GgRodWdlGgdpbW1lbnNlGgVsYXJnZSokCgZwbGFuZXQVdQK_PhoHcGxhbmV0cxoMcGxhbmV0a2lsbGVyKjoKBmtpbGxlchUAAAAAGgdraWxsZXJzGgdraWxsaW5nGgxwbGFuZXRraWxsZXIaC2l2O3A7a2lsbGVyKjEKCGFzdGVyb2lkFQAAAAAaCWFzdGVyb2lkcxoGbWV0ZW9yGg1pdjtwO2FzdGVyb2lkMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZURVVTSXlodEJnX2V1Sm94cHREZGpkbjRRemg5WTZoeW53RWRpenlOTFl4M08xbi1ySjJ1SVRrcWM2UGZ4akJXRmVkNnQ4TXpJSS1DRGRMRmhqRXZfZWRJQUZkV2ZMT2puVHZiTjU1VUFIUmZNcGNQb3FIemZTYmtBMHN0RXViT3BzVWsxTkNiUHZPNHR3UUpKMVZLUm5aOGxqazBKa08tWlpUUnpKWFVUZG5WTmlTRTMxQ25xQzA3clNPQ05hSk1ib0xEWjVxN3c6RU5lYXItRWFydGggPGI-QXN0ZXJvaWRzPC9iPiBhcyBvZiBEZWNlbWJlciAyMDI1IC0gPGI-TkFTQTwvYj4gU2NpZW5jZUJRVGhlIGdyYXBoaWMgcHJlc2VudHMgZGF0YSBvbiBuZWFyLUVhcnRoIDxiPmFzdGVyb2lkczwvYj4gYXMgb2YgRGVjZW1lYmVyIDMsIDIwMjUuIgIQAUgAWABoAA",
+      "source": "NASA Science (.gov)",
+      "read_more_link": "https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/#:~:text=Each%20month%2C%20NASA's%20Planetary%20Defense"
+    },
+    {
+      "position": 6,
+      "title": "Humanity's Real Plan to Stop This Asteroid (Feat. Mark Rober)",
+      "link": "https://www.youtube.com/watch?v=LOn-mmezykQ",
+      "displayed_link": "5.8M+ views · 10 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab22958a3f7305d57680b2b/images/eBtbZ1Qai23y0neln50yymyoFGEULcO9BAYkq-oWJKo.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "In this video we'll play out a fictional asteroid headed for Earth with some help from my friend and former NASA engineer Mark Robber.",
+      "duration": "21:56",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Did an asteroid hit Earth?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=0"
+        },
+        {
+          "time": "01:00",
+          "title": "What happens if an asteroid is headed towards Earth?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=60"
+        },
+        {
+          "time": "01:52",
+          "title": "Is that Mark Rober?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=112"
+        },
+        {
+          "time": "03:26",
+          "title": "How big was the asteroid that killed the dinosaurs?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=206"
+        },
+        {
+          "time": "04:30",
+          "title": "What happens when an asteroid hits Earth?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=270"
+        },
+        {
+          "time": "07:30",
+          "title": "How are asteroids discovered?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=450"
+        },
+        {
+          "time": "10:39",
+          "title": "Will an asteroid hit Earth?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=639"
+        },
+        {
+          "time": "13:15",
+          "title": "Can we stop an asteroid?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=795"
+        },
+        {
+          "time": "15:27",
+          "title": "What if we nuke an asteroid?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=927"
+        },
+        {
+          "time": "18:03",
+          "title": "Did we discover an asteroid?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=1083"
+        },
+        {
+          "time": "19:41",
+          "title": "Did we stop the asteroid from hitting Earth?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=1181"
+        },
+        {
+          "time": "20:42",
+          "title": "Why is this HUGE* If True?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=1242"
+        },
+        {
+          "time": "21:34",
+          "title": "Can we escape Alcatraz?",
+          "link": "https://www.youtube.com/watch?v=LOn-mmezykQ&t=1294"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video we'll play out a fictional asteroid headed for Earth with some help from my friend and former NASA engineer Mark Robber.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmM4UmN5a2NWQndZMjRjQlV6SWVKbllSR2xiWTk4WGIxNlo5ZzBtRUdMdkZwOVc4RDNKUnRKcHBHQUQ5YW1Zbjk3QTlyMEszZVBSdTZzLVE0bURqTzVCWTQ0bGd2Y0xTVlpSZlFEZ3IwTV85MGRXRnlxX1dPd0ExZjVnYjlHZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmM4UmN5a2NWQndZMjRjQlV6SWVKbllSR2xiWTk4WGIxNlo5ZzBtRUdMdkZwOVc4RDNKUnRKcHBHQUQ5YW1Zbjk3QTlyMEszZVBSdTZzLVE0bURqTzVCWTQ0bGd2Y0xTVlpSZlFEZ3IwTV85MGRXRnlxX1dPd0ExZjVnYjlHZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRH3iNNCfOUgYdohZ9JD5IY3dOy-hkjdf4KcA",
+      "source": "YouTube · Cleo Abram"
+    },
+    {
+      "position": 7,
+      "title": "NEO Surveyor",
+      "link": "https://science.nasa.gov/mission/neo-surveyor/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVcjB3XjGz2z-OVYWf8qILSrInkAGqHZY2ruIIGa_k7KhDdk7OTZyw17XnwhZJZKWOkUcQDYCriDXveXiYFoypPZTn2Uhi9WCQYzE1_uPdnjcUJUCGU4qXZzQCEC9jeYjLiA&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov › mission › neo-surveyor",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "date": "Mar 13, 2024",
+      "snippet": "NEO Surveyor is the first space telescope specifically designed to hunt asteroids and comets that may be potential hazards to Earth.",
+      "snippet_highlighted_words": [
+        "asteroids"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Neo Surveyor",
+            "link": "https://science.nasa.gov/mission/neo-surveyor/#:~:text=NEO%20Surveyor,-Finding%20asteroids%20before%20they%20find"
+          },
+          {
+            "title": "Eyes On The Solar System",
+            "link": "https://science.nasa.gov/mission/neo-surveyor/#:~:text=Eyes%20on%20the%20Solar%20System,-NEO%20Surveyor"
+          },
+          {
+            "title": "Copied To Clipboard!",
+            "link": "https://science.nasa.gov/mission/neo-surveyor/#:~:text=Copied%20to%20clipboard%21"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "NEO Surveyor is the first space telescope specifically designed to hunt asteroids and comets that may be potential hazards to Earth.",
+          "source_info_link": "https://science.nasa.gov/mission/neo-surveyor/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmNqQjNYakd6MnotT1ZZV2Y4cUlMU3JJbmtBR3FIWlkycnVJSUdhX2s3S2hEZGs3T1RaeXcxN1hud2haSlpLV09rVWNRRFlDcmlEWHZlWGlZRm95cFBaVG4yVWhpOVdDUVl6RTFfdVBkbmpjVUpVQ0dVNHFYWnpRQ0VDOWplWWpMaUESBBoCCAAaxwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJ8FCAAQABgAIAAqHgoEbmFzYRUmbBFBGgZuYXNhJ3MaCWl2O3A7bmFzYSpaCglkaXNjb3ZlcnMVAAAAABoIZGlzY292ZXIaCWRpc2NvdmVyZBoKZGlzY292ZXJlZBoJZGlzY292ZXJ5GgVmaW5kcxoFZm91bmQaDml2O3A7ZGlzY292ZXJzKjcKB21hc3NpdmUVAAAAABoDYmlnGgVkZW5zZRoFZ2lhbnQaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlKiQKBnBsYW5ldBV6vqI-GgdwbGFuZXRzGgxwbGFuZXRraWxsZXIqOgoGa2lsbGVyFQAAAAAaB2tpbGxlcnMaB2tpbGxpbmcaDHBsYW5ldGtpbGxlchoLaXY7cDtraWxsZXIqMQoIYXN0ZXJvaWQVXWZyPxoJYXN0ZXJvaWRzGgZtZXRlb3IaDWl2O3A7YXN0ZXJvaWQymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWY2pCM1hqR3oyei1PVllXZjhxSUxTcklua0FHcUhaWTJydUlJR2FfazdLaERkazdPVFp5dzE3WG53aFpKWktXT2tVY1FEWUNyaURYdmVYaVlGb3lwUFpUbjJVaGk5V0NRWXpFMV91UGRuamNVSlVDR1U0cVhaelFDRUM5amVZakxpQToiTkVPIFN1cnZleW9yIC0gPGI-TkFTQTwvYj4gU2NpZW5jZUKLAU5FTyBTdXJ2ZXlvciBpcyB0aGUgZmlyc3Qgc3BhY2UgdGVsZXNjb3BlIHNwZWNpZmljYWxseSBkZXNpZ25lZCB0byBodW50IDxiPmFzdGVyb2lkczwvYj4gYW5kIGNvbWV0cyB0aGF0IG1heSBiZSBwb3RlbnRpYWwgaGF6YXJkcyB0byBFYXJ0aC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmNqQjNYakd6MnotT1ZZV2Y4cUlMU3JJbmtBR3FIWlkycnVJSUdhX2s3S2hEZGs3T1RaeXcxN1hud2haSlpLV09rVWNRRFlDcmlEWHZlWGlZRm95cFBaVG4yVWhpOVdDUVl6RTFfdVBkbmpjVUpVQ0dVNHFYWnpRQ0VDOWplWWpMaUESBBoCCAAaxwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJ8FCAAQABgAIAAqHgoEbmFzYRUmbBFBGgZuYXNhJ3MaCWl2O3A7bmFzYSpaCglkaXNjb3ZlcnMVAAAAABoIZGlzY292ZXIaCWRpc2NvdmVyZBoKZGlzY292ZXJlZBoJZGlzY292ZXJ5GgVmaW5kcxoFZm91bmQaDml2O3A7ZGlzY292ZXJzKjcKB21hc3NpdmUVAAAAABoDYmlnGgVkZW5zZRoFZ2lhbnQaBGh1Z2UaB2ltbWVuc2UaBWxhcmdlKiQKBnBsYW5ldBV6vqI-GgdwbGFuZXRzGgxwbGFuZXRraWxsZXIqOgoGa2lsbGVyFQAAAAAaB2tpbGxlcnMaB2tpbGxpbmcaDHBsYW5ldGtpbGxlchoLaXY7cDtraWxsZXIqMQoIYXN0ZXJvaWQVXWZyPxoJYXN0ZXJvaWRzGgZtZXRlb3IaDWl2O3A7YXN0ZXJvaWQymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWY2pCM1hqR3oyei1PVllXZjhxSUxTcklua0FHcUhaWTJydUlJR2FfazdLaERkazdPVFp5dzE3WG53aFpKWktXT2tVY1FEWUNyaURYdmVYaVlGb3lwUFpUbjJVaGk5V0NRWXpFMV91UGRuamNVSlVDR1U0cVhaelFDRUM5amVZakxpQToiTkVPIFN1cnZleW9yIC0gPGI-TkFTQTwvYj4gU2NpZW5jZUKLAU5FTyBTdXJ2ZXlvciBpcyB0aGUgZmlyc3Qgc3BhY2UgdGVsZXNjb3BlIHNwZWNpZmljYWxseSBkZXNpZ25lZCB0byBodW50IDxiPmFzdGVyb2lkczwvYj4gYW5kIGNvbWV0cyB0aGF0IG1heSBiZSBwb3RlbnRpYWwgaGF6YXJkcyB0byBFYXJ0aC4iAhABSABYAGgA",
+      "source": "NASA Science (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "NASA telescope will hunt down 'city killer' asteroids",
+      "link": "https://www.science.org/content/article/nasa-telescope-will-hunt-down-city-killer-asteroids",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFeVEKPIHK7dbZN1YnlQBZ2SPiYY1ohhLxvXwiyKA6uHiVNo892MomNKN7qaxpSm-faZTwKWGN-QkbsKiHczhChlhHTVl9KRPZ01bNGwlkgFqjyiBatNOQtiFVOtO61y9e8ceF1C5OWjXAcd3MmIrwpGRkMKASrPxvL0JLsk7t4JtTWfaz74geQnVlb9rP7k&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://www.science.org › News › News Features",
+      "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmewCMASwBvJflAGACZd3XI3FKc9u7lg0s8KvpFPwgA3NtpyNPrhAAA_tjYvPZ6kzNJDDg6ThYkt-nC_0bnquJjNI_8qX5dBDIN9popu1jfPu5TlPqvKmY7_5mdmbTmMuqP4gz7buK2Ivv-nAVxjFzOzyG9_KK3gUUDI2M3jo1vTFRLHKdBL86gF_B46_w1DqG_6vTqY24tPO_9BVlDwewUSYvXs6_pnSTTu3zqpK9_OlY7OJYp_Z1i9EB_AN9qnHmTEJSGls1Fs301EGsXnOi_SNe8XStlpVc9BZjOBJAvspZmscmx2qAZlY_w3nZ_-IOMOQdgMo57XcCGLeY74yD_SKsQxkblPsbL4Sg_5BRRzbZFUZJ_M7-0BgzWRIWeDooB6MAA.webp",
+      "date": "Dec 11, 2025",
+      "snippet": "More than half of the “city killer” asteroids that might threaten Earth remain undiscovered. With an infrared eye, NASA's NEO Surveyor aims to find them.",
+      "snippet_highlighted_words": [
+        "killer",
+        "asteroids",
+        "NASA's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "More than half of the “city killer” asteroids that might threaten Earth remain undiscovered. With an infrared eye, NASA's NEO Surveyor aims to find them.",
+          "source_info_link": "https://www.science.org/content/article/nasa-telescope-will-hunt-down-city-killer-asteroids",
+          "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmewCMASwBvJflAGACZd3XI3FKc9u7lg0s8KvpFPwgA3NtpyNPrhAAA_tjYvPZ6kzNJDDg6ThYkt-nC_0bnquJjNI_8qX5dBDIN9popu1jfPu5TlPqvKmY7_5mdmbTmMuqP4gz7buK2Ivv-nAVxjFzOzyG9_KK3gUUDI2M3jo1vTFRLHKdBL86gF_B46_w1DqG_6vTqY24tPO_9BVlDwewUSYvXs6_pnSTTu3zqpK9_OlY7OJYp_Z1i9EB_AN9qnHmTEJSGls1Fs301EGsXnOi_SNe8XStlpVc9BZjOBJAvspZmscmx2qAZlY_w3nZ_-IOMOQdgMo57XcCGLeY74yD_SKsQxkblPsbL4Sg_5BRRzbZFUZJ_M7-0BgzWRIWeDooB6MAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZlVkVLUElISzdkYlpOMVlubFFCWjJTUGlZWTFvaGhMeHZYd2l5S0E2dUhpVk5vODkyTW9tTktON3FheHBTbS1mYVpUd0tXR04tUWtic0tpSGN6aENobGhIVFZsOUtSUFowMWJOR3dsa2dGcWp5aUJhdE5PUXRpRlZPdE82MXk5ZThjZUYxQzVPV2pYQWNkM01tSXJ3cEdSa01LQVNyUHh2TDBKTHNrN3Q0SnRUV2Zhejc0Z2VRblZsYjlyUDdrEgQaAggAGucGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwQYIABAAGAAgACoeCgRuYXNhFWXSd0AaBm5hc2EncxoJaXY7cDtuYXNhKloKCWRpc2NvdmVycxVmuxk-GghkaXNjb3ZlchoJZGlzY292ZXJkGgpkaXNjb3ZlcmVkGglkaXNjb3ZlcnkaBWZpbmRzGgVmb3VuZBoOaXY7cDtkaXNjb3ZlcnMqNwoHbWFzc2l2ZRUAAAAAGgNiaWcaBWRlbnNlGgVnaWFudBoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UqJAoGcGxhbmV0FWI1qz8aB3BsYW5ldHMaDHBsYW5ldGtpbGxlcio6CgZraWxsZXIV3P1oQBoHa2lsbGVycxoHa2lsbGluZxoMcGxhbmV0a2lsbGVyGgtpdjtwO2tpbGxlcioxCghhc3Rlcm9pZBUB_L4_Gglhc3Rlcm9pZHMaBm1ldGVvchoNaXY7cDthc3Rlcm9pZDLVAS9nb3RvP3VybD1DQUVTa3dFQjZ6c3dGZVZFS1BJSEs3ZGJaTjFZbmxRQloyU1BpWVkxb2hoTHh2WHdpeUtBNnVIaVZObzg5Mk1vbU5LTjdxYXhwU20tZmFaVHdLV0dOLVFrYnNLaUhjemhDaGxoSFRWbDlLUlBaMDFiTkd3bGtnRnFqeWlCYXROT1F0aUZWT3RPNjF5OWU4Y2VGMUM1T1dqWEFjZDNNbUlyd3BHUmtNS0FTclB4dkwwSkxzazd0NEp0VFdmYXo3NGdlUW5WbGI5clA3azpcPGI-TkFTQTwvYj4gdGVsZXNjb3BlIHdpbGwgaHVudCBkb3duICYjMzk7Y2l0eSA8Yj5raWxsZXI8L2I-JiMzOTsgPGI-YXN0ZXJvaWRzPC9iPiAtIFNjaWVuY2VCtgFNb3JlIHRoYW4gaGFsZiBvZiB0aGUg4oCcY2l0eSA8Yj5raWxsZXI8L2I-4oCdIDxiPmFzdGVyb2lkczwvYj4gdGhhdCBtaWdodCB0aHJlYXRlbiBFYXJ0aCByZW1haW4gdW5kaXNjb3ZlcmVkLiBXaXRoIGFuIGluZnJhcmVkIGV5ZSwgPGI-TkFTQSYjMzk7czwvYj4gTkVPIFN1cnZleW9yIGFpbXMgdG8gZmluZCB0aGVtLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZlVkVLUElISzdkYlpOMVlubFFCWjJTUGlZWTFvaGhMeHZYd2l5S0E2dUhpVk5vODkyTW9tTktON3FheHBTbS1mYVpUd0tXR04tUWtic0tpSGN6aENobGhIVFZsOUtSUFowMWJOR3dsa2dGcWp5aUJhdE5PUXRpRlZPdE82MXk5ZThjZUYxQzVPV2pYQWNkM01tSXJ3cEdSa01LQVNyUHh2TDBKTHNrN3Q0SnRUV2Zhejc0Z2VRblZsYjlyUDdrEgQaAggAGucGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwQYIABAAGAAgACoeCgRuYXNhFWXSd0AaBm5hc2EncxoJaXY7cDtuYXNhKloKCWRpc2NvdmVycxVmuxk-GghkaXNjb3ZlchoJZGlzY292ZXJkGgpkaXNjb3ZlcmVkGglkaXNjb3ZlcnkaBWZpbmRzGgVmb3VuZBoOaXY7cDtkaXNjb3ZlcnMqNwoHbWFzc2l2ZRUAAAAAGgNiaWcaBWRlbnNlGgVnaWFudBoEaHVnZRoHaW1tZW5zZRoFbGFyZ2UqJAoGcGxhbmV0FWI1qz8aB3BsYW5ldHMaDHBsYW5ldGtpbGxlcio6CgZraWxsZXIV3P1oQBoHa2lsbGVycxoHa2lsbGluZxoMcGxhbmV0a2lsbGVyGgtpdjtwO2tpbGxlcioxCghhc3Rlcm9pZBUB_L4_Gglhc3Rlcm9pZHMaBm1ldGVvchoNaXY7cDthc3Rlcm9pZDLVAS9nb3RvP3VybD1DQUVTa3dFQjZ6c3dGZVZFS1BJSEs3ZGJaTjFZbmxRQloyU1BpWVkxb2hoTHh2WHdpeUtBNnVIaVZObzg5Mk1vbU5LTjdxYXhwU20tZmFaVHdLV0dOLVFrYnNLaUhjemhDaGxoSFRWbDlLUlBaMDFiTkd3bGtnRnFqeWlCYXROT1F0aUZWT3RPNjF5OWU4Y2VGMUM1T1dqWEFjZDNNbUlyd3BHUmtNS0FTclB4dkwwSkxzazd0NEp0VFdmYXo3NGdlUW5WbGI5clA3azpcPGI-TkFTQTwvYj4gdGVsZXNjb3BlIHdpbGwgaHVudCBkb3duICYjMzk7Y2l0eSA8Yj5raWxsZXI8L2I-JiMzOTsgPGI-YXN0ZXJvaWRzPC9iPiAtIFNjaWVuY2VCtgFNb3JlIHRoYW4gaGFsZiBvZiB0aGUg4oCcY2l0eSA8Yj5raWxsZXI8L2I-4oCdIDxiPmFzdGVyb2lkczwvYj4gdGhhdCBtaWdodCB0aHJlYXRlbiBFYXJ0aCByZW1haW4gdW5kaXNjb3ZlcmVkLiBXaXRoIGFuIGluZnJhcmVkIGV5ZSwgPGI-TkFTQSYjMzk7czwvYj4gTkVPIFN1cnZleW9yIGFpbXMgdG8gZmluZCB0aGVtLiICEAFIAFgAaAA",
+      "source": "Science | AAAS",
+      "read_more_link": "https://www.science.org/content/article/nasa-telescope-will-hunt-down-city-killer-asteroids#:~:text=More%20than%20half%20of%20the,Surveyor%20aims%20to%20find%20them"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=10&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=10&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=20&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=30&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=40&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=50&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=60&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=70&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=80&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=WCmyar_ONdXMkPIP-OW02AI&start=90&sa=N&sstk=AS6-VmIRe-sfsLLA4woc-gJkhq2tTyChCEzPRHAZW6WbHksAjnSWOLXuusaSfmke-cMtZJ5U3OQo4Sp_QYrRE8aAc9AYIibxTUoPYw&ved=2ahUKEwi_2qG70IGXAxVVJkQIHfgyDSsQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+massive+planet+killer+asteroid+before%3A2026-01-01&start=90"
+    }
+  }
+}

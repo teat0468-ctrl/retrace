@@ -1,0 +1,370 @@
+{
+  "search_metadata": {
+    "id": "6ab22d0bbd17316045ada8d8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-Pqf9D2HquqQ9s1w6Lb3KKgZ40GEEzn0lMX7ab8VE7M/6ab22d0bbd17316045ada8d8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-Pqf9D2HquqQ9s1w6Lb3KKgZ40GEEzn0lMX7ab8VE7M/6ab22d0bbd17316045ada8d8.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-Pqf9D2HquqQ9s1w6Lb3KKgZ40GEEzn0lMX7ab8VE7M/6ab22d0bbd17316045ada8d8.json_with_pixel_position",
+    "created_at": "2026-09-22 07:23:55 UTC",
+    "processed_at": "2026-09-22 07:23:55 UTC",
+    "google_url": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&oq=study+links+cell+phones+brain+cancer+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-Pqf9D2HquqQ9s1w6Lb3KKgZ40GEEzn0lMX7ab8VE7M/6ab22d0bbd17316045ada8d8.html",
+    "total_time_taken": 0.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "study links cell phones brain cancer before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "study links cell phones brain cancer before:2026-01-01",
+    "total_results": 11700000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Research links cell phones to tumors",
+      "link": "https://www.youtube.com/watch?v=WYF2frEpT_Q",
+      "thumbnail": "https://serpapi.com/searches/6ab22d0bbd17316045ada8d8/images/yxNBQDDUbt-mdDwD0HDfkP9jNeiZuge8-KqHOPwYNw0.jpeg",
+      "channel": "KTVU FOX 2 San Francisco",
+      "duration": "5:33",
+      "platform": "YouTube",
+      "date": "Jul 8, 2021",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSau_hY5niaaeeKBC8aW78_R1Ecc7FE4PbCRQ",
+      "key_moments": [
+        {
+          "time": "00:47",
+          "title": "What exactly in the cell phone is causing cancer?",
+          "link": "https://www.youtube.com/watch?v=WYF2frEpT_Q&t=47"
+        },
+        {
+          "time": "01:58",
+          "title": "Should you keep your cell phone away from your body?",
+          "link": "https://www.youtube.com/watch?v=WYF2frEpT_Q&t=118"
+        },
+        {
+          "time": "04:56",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=WYF2frEpT_Q&t=296"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Experts reveal whether mobile phone use linked to brain cancer",
+      "link": "https://www.youtube.com/watch?v=r0o9o0BS8y0",
+      "thumbnail": "https://serpapi.com/searches/6ab22d0bbd17316045ada8d8/images/TbdjQmkLnAxrGCARhmWcUAMwqSs8mevd0QRjHI59_9Y.jpeg",
+      "channel": "SBS News",
+      "duration": "2:24",
+      "platform": "YouTube",
+      "date": "Sep 4, 2024",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQRSFzppBW6VsDq61DADPwa_cCXwQhk6ISFyg"
+    },
+    {
+      "position": 3,
+      "title": "New Study Debunks Fears That Mobile Phones Cause Brain ...",
+      "link": "https://www.youtube.com/watch?v=YUqXs9Y6Ec0",
+      "thumbnail": "https://serpapi.com/searches/6ab22d0bbd17316045ada8d8/images/fx9qM7h9ncz0JH_atwOBOYCqI-7LlXhHFVw6EdfAnew.jpeg",
+      "channel": "10 News",
+      "duration": "2:23",
+      "platform": "YouTube",
+      "date": "Sep 4, 2024"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "TebJYniczVZbcuI4FF3ArKP5IYOfBEiVq0sSBswjwQ2BhB_Klo14-EEswJi_WcLsYVY1q2nZYF7BSbo_psZFWZZ0dXWu7j06_PWPM_MW__7x93S1WtIHjgvDsEB8nzh2AfsuZ9DIw9zEd2iAp9-jjSLlMFX4nD1TUCRGhu_aUF67y5XeXb8-uRGguWSJMjYNas-Zx-2ccmOOvRbfpCrrFGjB9gqbbl_Sq-Qt0P2CyItS4YkzXGYA_rtHm8ZvHSyA9oFRbPGVhxCgAtA8DSCUNOqZSdwhzCWKB1H8fXtPdY_oB9oDBN1qd1fFAFSPUJ4ycaBzuCg87Bwm-8F4xw-CveEtedcOPTXbEGRGQy5cgM7ZVKY_dGXIoOsAdeXYWbroYjEB-ml7LZ48VBImoNzwYRWC52zkbEFLA8UF0NXPkq2rAxmlW7Vf62yEswgrXJ4zA9YI3AxPcfIR0LieUb_C-41KZyR2cXnXeBGFqdwclCHfNmpCSd4SDpvMzvENy7bG0zH_PekLolDkK1KpfJcQCdMjk-g5k_phg5_Cx5WP9EK7AIWURuiYZ3SJX2V9dKsEIDqYovdz6HTaCBw9E-PCaJ9hVroEjFRwmR-_sj9mmA40KAChemZyghQPvqfRNbSYRvuUkuTzUGbn4DXQ006OzxJbvVGp76Jm-x7Io1ffGV46gKC5AKeAr-4wAiBEmg73J_QmJ4Dk01Gk-PQrIPH9wC4KLT3tfQhpOJ1TPGymlfCiihBkfv1lbNY8RBwvmB29wh9X1xm8zUGWHtBGnxA-64FfuTH1lC9X5X9Om5pn4QU1G7tWcVjf8M-RMMbGZLMRJoTcponvmr-gOPh_RaRUj5xkPJtI-peIRIiarUf7z5MexURChJAMIql7Ir3XozA1OenRddSod0akT_ToV4mkfkiklKQ3iVS7RSQ1i0ipHl0QqXehR_C2Hh2J9Dt6BH9TjxJe2fvmUpzWc5IpUjVNoo-zWtgeb5g6iXBW7DRh0wzlZ-lzkZq4qwfXsJy78cx6gGJzFVl3YzbgP9hW7k2hq7UV5eO_mjSPbcfJL6e-Z9O8GRgzL48ND9tB3rQnfmA_MHLe_8kL7JdzncBXeEOeb2s8ncP62iy31i9-t6SBEVVHtdKuWqFCf9uLdK3o95q7QcsLwqL70kXDKYqaroZe5067MaSdfkfa3kthxyWlylAV75fA61k772WwaM67cn0kSg1S6cz7nVpgTSzXtp4Fw92620GxNN7N9G6p3hEbvCtKIposRwkyqtj3Tst-0jbEkHNugBVWHTIBjzoYEoABegU6y82z4bM2BHr9nqUL5ig2xjbdKHapIsiCKOGJZAqmXc65ZBUtFbGSo16gCD8BgF9Dtg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TebJYniczVZbcuI4FF3ArKP5IYOfBEiVq0sSBswjwQ2BhB_Klo14-EEswJi_WcLsYVY1q2nZYF7BSbo_psZFWZZ0dXWu7j06_PWPM_MW__7x93S1WtIHjgvDsEB8nzh2AfsuZ9DIw9zEd2iAp9-jjSLlMFX4nD1TUCRGhu_aUF67y5XeXb8-uRGguWSJMjYNas-Zx-2ccmOOvRbfpCrrFGjB9gqbbl_Sq-Qt0P2CyItS4YkzXGYA_rtHm8ZvHSyA9oFRbPGVhxCgAtA8DSCUNOqZSdwhzCWKB1H8fXtPdY_oB9oDBN1qd1fFAFSPUJ4ycaBzuCg87Bwm-8F4xw-CveEtedcOPTXbEGRGQy5cgM7ZVKY_dGXIoOsAdeXYWbroYjEB-ml7LZ48VBImoNzwYRWC52zkbEFLA8UF0NXPkq2rAxmlW7Vf62yEswgrXJ4zA9YI3AxPcfIR0LieUb_C-41KZyR2cXnXeBGFqdwclCHfNmpCSd4SDpvMzvENy7bG0zH_PekLolDkK1KpfJcQCdMjk-g5k_phg5_Cx5WP9EK7AIWURuiYZ3SJX2V9dKsEIDqYovdz6HTaCBw9E-PCaJ9hVroEjFRwmR-_sj9mmA40KAChemZyghQPvqfRNbSYRvuUkuTzUGbn4DXQ006OzxJbvVGp76Jm-x7Io1ffGV46gKC5AKeAr-4wAiBEmg73J_QmJ4Dk01Gk-PQrIPH9wC4KLT3tfQhpOJ1TPGymlfCiihBkfv1lbNY8RBwvmB29wh9X1xm8zUGWHtBGnxA-64FfuTH1lC9X5X9Om5pn4QU1G7tWcVjf8M-RMMbGZLMRJoTcponvmr-gOPh_RaRUj5xkPJtI-peIRIiarUf7z5MexURChJAMIql7Ir3XozA1OenRddSod0akT_ToV4mkfkiklKQ3iVS7RSQ1i0ipHl0QqXehR_C2Hh2J9Dt6BH9TjxJe2fvmUpzWc5IpUjVNoo-zWtgeb5g6iXBW7DRh0wzlZ-lzkZq4qwfXsJy78cx6gGJzFVl3YzbgP9hW7k2hq7UV5eO_mjSPbcfJL6e-Z9O8GRgzL48ND9tB3rQnfmA_MHLe_8kL7JdzncBXeEOeb2s8ncP62iy31i9-t6SBEVVHtdKuWqFCf9uLdK3o95q7QcsLwqL70kXDKYqaroZe5067MaSdfkfa3kthxyWlylAV75fA61k772WwaM67cn0kSg1S6cz7nVpgTSzXtp4Fw92620GxNN7N9G6p3hEbvCtKIposRwkyqtj3Tst-0jbEkHNugBVWHTIBjzoYEoABegU6y82z4bM2BHr9nqUL5ig2xjbdKHapIsiCKOGJZAqmXc65ZBUtFbGSo16gCD8BgF9Dtg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Cancer: Strong Signal for Cell Phone Effects - PMC - NIH",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2569116/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVgIyCO8RznAlZZ6ccwZddRWSdDyLhNnhhth-LM3VAyHKTTQ0rONY63XHylxwtg6ttTnSP3CTTpLblXm_JfD53rXUxUte_1vNzkmsdl5ODVm9mGXZ12l49M7do0lPFZG2SFEbGvg&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC2569116",
+      "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+      "author": "by MN Mead",
+      "snippet": "“We found that cell phone use is linked to gliomas [malignant brain tumors] and acoustic neuromas [benign tumors of the brain's auditory nerve] and are showing ...",
+      "snippet_highlighted_words": [
+        "cell phone use is linked to gliomas [malignant brain tumors"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "“We found that cell phone use is linked to gliomas [malignant brain tumors] and acoustic neuromas [benign tumors of the brain's auditory nerve] and are showing ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2569116/",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmdJeUNPOFJ6bkFsWlo2Y2N3WmRkUldTZER5TGhObmhodGgtTE0zVkF5SEtUVFEwck9OWTYzWEh5bHh3dGc2dHRUblNQM0NUVHBMYmxYbV9KZkQ1M3JYVXhVdGVfMXZOemttc2RsNU9EVm05bUdYWjEybDQ5TTdkbzBsUEZaRzJTRkViR3ZnEgQaAggAGr8GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmQYIABAAGAAgACo1CgVzdHVkeRXfWcY-GghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVy9DJOBoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBXxE75AGgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFVw9B0AaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhWPjVxAGgticmFpbmNhbmNlcioyCgZjYW5jZXIVhF6SQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWZ0l5Q084UnpuQWxaWjZjY3daZGRSV1NkRHlMaE5uaGh0aC1MTTNWQXlIS1RUUTByT05ZNjNYSHlseHd0ZzZ0dFRuU1AzQ1RUcExibFhtX0pmRDUzclhVeFV0ZV8xdk56a21zZGw1T0RWbTltR1haMTJsNDlNN2RvMGxQRlpHMlNGRWJHdmc6RjxiPkNhbmNlcjwvYj46IFN0cm9uZyBTaWduYWwgZm9yIDxiPkNlbGwgUGhvbmU8L2I-IEVmZmVjdHMgLSBQTUMgLSBOSUhCtQHigJxXZSBmb3VuZCB0aGF0IDxiPmNlbGwgcGhvbmUgdXNlIGlzIGxpbmtlZCB0byBnbGlvbWFzIFttYWxpZ25hbnQgYnJhaW4gdHVtb3JzPC9iPl0gYW5kIGFjb3VzdGljIG5ldXJvbWFzIFtiZW5pZ24gdHVtb3JzIG9mIHRoZSBicmFpbiYjMzk7cyBhdWRpdG9yeSBuZXJ2ZV0gYW5kIGFyZSBzaG93aW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmdJeUNPOFJ6bkFsWlo2Y2N3WmRkUldTZER5TGhObmhodGgtTE0zVkF5SEtUVFEwck9OWTYzWEh5bHh3dGc2dHRUblNQM0NUVHBMYmxYbV9KZkQ1M3JYVXhVdGVfMXZOemttc2RsNU9EVm05bUdYWjEybDQ5TTdkbzBsUEZaRzJTRkViR3ZnEgQaAggAGr8GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmQYIABAAGAAgACo1CgVzdHVkeRXfWcY-GghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVy9DJOBoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBXxE75AGgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFVw9B0AaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhWPjVxAGgticmFpbmNhbmNlcioyCgZjYW5jZXIVhF6SQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWZ0l5Q084UnpuQWxaWjZjY3daZGRSV1NkRHlMaE5uaGh0aC1MTTNWQXlIS1RUUTByT05ZNjNYSHlseHd0ZzZ0dFRuU1AzQ1RUcExibFhtX0pmRDUzclhVeFV0ZV8xdk56a21zZGw1T0RWbTltR1haMTJsNDlNN2RvMGxQRlpHMlNGRWJHdmc6RjxiPkNhbmNlcjwvYj46IFN0cm9uZyBTaWduYWwgZm9yIDxiPkNlbGwgUGhvbmU8L2I-IEVmZmVjdHMgLSBQTUMgLSBOSUhCtQHigJxXZSBmb3VuZCB0aGF0IDxiPmNlbGwgcGhvbmUgdXNlIGlzIGxpbmtlZCB0byBnbGlvbWFzIFttYWxpZ25hbnQgYnJhaW4gdHVtb3JzPC9iPl0gYW5kIGFjb3VzdGljIG5ldXJvbWFzIFtiZW5pZ24gdHVtb3JzIG9mIHRoZSBicmFpbiYjMzk7cyBhdWRpdG9yeSBuZXJ2ZV0gYW5kIGFyZSBzaG93aW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2569116/#:~:text=%E2%80%9CWe%20found%20that%20cell%20phone,auditory%20nerve%5D%20and%20are%20showing"
+    },
+    {
+      "position": 2,
+      "title": "Cell Phones and Cancer Risk Fact Sheet - NCI",
+      "link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFZy7CXsXmYDuCSjD35_shBYy5TPBqEEkobiRTY5-tc0ED1oPROQJo0EE5N5m_rorhNujQblZFIFu32eXoSR_WTrokbqL2bwp04aV1jAIlU7nVrfgboboux9FJFvQ-aiOUTySmSzvybzYOLSRgL4xjxH5as18EFDXOTO-O_K8NKZWahfC7Kv52sajKEb5_CE&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.cancer.gov › about-cancer › risk › radiation",
+      "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAABQBQCdASocABwAPtEutFooIagoGAEAGglAGZvEADzjs4hYwZ85txSe7Qvj6J9oKzT7wAAA_v7CfM_uFio7FGkQn8C1HxcF14iZPbxZTsnidiOJm9iBJhcvI5etdlyqKz5Z65X-FBhd_U5Yaf32507pS79nYQ3eHSOrMlLb0vH7wl-WZ7dUEKo9aK3vEG_PI-0JNGdbErY4CTeSIxt3aZvyUxnEmBkVelhaZttWEu3-ws_UB-AAAA.webp",
+      "date": "Apr 4, 2024",
+      "snippet": "the evidence to date suggests that cell phone use does not cause brain or other kinds of cancer in humans.",
+      "snippet_highlighted_words": [
+        "cell phone",
+        "brain",
+        "cancer"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How is radiofrequency...",
+            "link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet#how-is-radiofrequency-radiation-exposure-measured-in-studies-of-groups-of-people"
+          },
+          {
+            "title": "What has research shown...",
+            "link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet#what-has-research-shown-about-the-link-between-cell-phone-use-and-cancer-risk"
+          },
+          {
+            "title": "Why are the findings from...",
+            "link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet#why-are-the-findings-from-different-studies-of-cell-phone-use-and-cancer-risk-inconsistent"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "the evidence to date suggests that cell phone use does not cause brain or other kinds of cancer in humans.",
+          "source_info_link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet",
+          "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAABQBQCdASocABwAPtEutFooIagoGAEAGglAGZvEADzjs4hYwZ85txSe7Qvj6J9oKzT7wAAA_v7CfM_uFio7FGkQn8C1HxcF14iZPbxZTsnidiOJm9iBJhcvI5etdlyqKz5Z65X-FBhd_U5Yaf32507pS79nYQ3eHSOrMlLb0vH7wl-WZ7dUEKo9aK3vEG_PI-0JNGdbErY4CTeSIxt3aZvyUxnEmBkVelhaZttWEu3-ws_UB-AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaeTdDWHNYbVlEdUNTakQzNV9zaEJZeTVUUEJxRUVrb2JpUlRZNS10YzBFRDFvUFJPUUpvMEVFNU41bV9yb3JoTnVqUWJsWkZJRnUzMmVYb1NSX1dUcm9rYnFMMmJ3cDA0YVYxakFJbFU3blZyZmdib2JvdXg5RkpGdlEtYWlPVVR5U21TenZ5YnpZT0xTUmdMNHhqeEg1YXMxOEVGRFhPVE8tT19LOE5LWldhaGZDN0t2NTJzYWpLRWI1X0NFEgQaAggAGrUGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwYIABAAGAAgACo1CgVzdHVkeRVSpvk_GghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVLaZWPhoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBW6lvdAGgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFaFC2UAaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhUYORdAGgticmFpbmNhbmNlcioyCgZjYW5jZXIV_EHpQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIy1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3Rlp5N0NYc1htWUR1Q1NqRDM1X3NoQll5NVRQQnFFRWtvYmlSVFk1LXRjMEVEMW9QUk9RSm8wRUU1TjVtX3JvcmhOdWpRYmxaRklGdTMyZVhvU1JfV1Ryb2ticUwyYndwMDRhVjFqQUlsVTduVnJmZ2JvYm91eDlGSkZ2US1haU9VVHlTbVN6dnliellPTFNSZ0w0eGp4SDVhczE4RUZEWE9UTy1PX0s4TktaV2FoZkM3S3Y1MnNhaktFYjVfQ0U6OjxiPkNlbGwgUGhvbmVzPC9iPiBhbmQgPGI-Q2FuY2VyPC9iPiBSaXNrIEZhY3QgU2hlZXQgLSBOQ0lCf3RoZSBldmlkZW5jZSB0byBkYXRlIHN1Z2dlc3RzIHRoYXQgPGI-Y2VsbCBwaG9uZTwvYj4gdXNlIGRvZXMgbm90IGNhdXNlIDxiPmJyYWluPC9iPiBvciBvdGhlciBraW5kcyBvZiA8Yj5jYW5jZXI8L2I-IGluIGh1bWFucy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaeTdDWHNYbVlEdUNTakQzNV9zaEJZeTVUUEJxRUVrb2JpUlRZNS10YzBFRDFvUFJPUUpvMEVFNU41bV9yb3JoTnVqUWJsWkZJRnUzMmVYb1NSX1dUcm9rYnFMMmJ3cDA0YVYxakFJbFU3blZyZmdib2JvdXg5RkpGdlEtYWlPVVR5U21TenZ5YnpZT0xTUmdMNHhqeEg1YXMxOEVGRFhPVE8tT19LOE5LWldhaGZDN0t2NTJzYWpLRWI1X0NFEgQaAggAGrUGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwYIABAAGAAgACo1CgVzdHVkeRVSpvk_GghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVLaZWPhoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBW6lvdAGgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFaFC2UAaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhUYORdAGgticmFpbmNhbmNlcioyCgZjYW5jZXIV_EHpQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIy1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3Rlp5N0NYc1htWUR1Q1NqRDM1X3NoQll5NVRQQnFFRWtvYmlSVFk1LXRjMEVEMW9QUk9RSm8wRUU1TjVtX3JvcmhOdWpRYmxaRklGdTMyZVhvU1JfV1Ryb2ticUwyYndwMDRhVjFqQUlsVTduVnJmZ2JvYm91eDlGSkZ2US1haU9VVHlTbVN6dnliellPTFNSZ0w0eGp4SDVhczE4RUZEWE9UTy1PX0s4TktaV2FoZkM3S3Y1MnNhaktFYjVfQ0U6OjxiPkNlbGwgUGhvbmVzPC9iPiBhbmQgPGI-Q2FuY2VyPC9iPiBSaXNrIEZhY3QgU2hlZXQgLSBOQ0lCf3RoZSBldmlkZW5jZSB0byBkYXRlIHN1Z2dlc3RzIHRoYXQgPGI-Y2VsbCBwaG9uZTwvYj4gdXNlIGRvZXMgbm90IGNhdXNlIDxiPmJyYWluPC9iPiBvciBvdGhlciBraW5kcyBvZiA8Yj5jYW5jZXI8L2I-IGluIGh1bWFucy4iAhABSABYAGgA",
+      "source": "National Cancer Institute (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Cell phones don't cause brain cancer: study",
+      "link": "https://hsph.harvard.edu/news/cell-phones-dont-cause-brain-cancer-study/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFRQNTZV7TCBxO0sZHkwFAJ6lZH1JW5lpscd9j4Z90TLsQWfSOATHYVk6uNLDRsWFbfTZgHfk_VFxI2hKostO2-isJRn1dlmnbJxJvHcLxaBpXlPajfa1H4Mnjvwo1PiBggRTJoYHIRTvEWunu0ISszoAP61zfbDIje65Eg&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://hsph.harvard.edu › news › cell-phones-dont-cau...",
+      "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAADwBQCdASocABwAPtEutFooIagoGAEAGgljAM7tp32dl9g8gAfVdIXL7Os1ec6g2B1WfpOwjLrwAAD-9hIWfTD3NKbT1DxIQ4tS9idIBvcdKve_7XiKC9YUHSK0bIUcFJO3r_IckDGHMeFAhInJX1Jv7avHdYtSDxydsDBaTXqeZuNW_kEHYiOOmOsz5qdHtT96qELYwCP7YXlywF-OSQzctZN17J4oRxvenXSBZ2OpFIneZjJMcFj1TO-66pGn4vtCKZ9CZNw_7f3v_pIvcFDgsVO3z3TLIneJjODv9UDQ19PuF5y9emXWR0apQ-DJfZX1vPNVbCiyhgqWWUQRhAAA.webp",
+      "date": "Sep 11, 2024",
+      "snippet": "September 11, 2024 – A major new analysis has found no connection between cell phone use and brain cancer. For the analysis, commissioned by the World ...",
+      "snippet_highlighted_words": [
+        "no connection between cell phone use and brain cancer"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "September 11, 2024 – A major new analysis has found no connection between cell phone use and brain cancer. For the analysis, commissioned by the World ...",
+          "source_info_link": "https://hsph.harvard.edu/news/cell-phones-dont-cause-brain-cancer-study/",
+          "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAADwBQCdASocABwAPtEutFooIagoGAEAGgljAM7tp32dl9g8gAfVdIXL7Os1ec6g2B1WfpOwjLrwAAD-9hIWfTD3NKbT1DxIQ4tS9idIBvcdKve_7XiKC9YUHSK0bIUcFJO3r_IckDGHMeFAhInJX1Jv7avHdYtSDxydsDBaTXqeZuNW_kEHYiOOmOsz5qdHtT96qELYwCP7YXlywF-OSQzctZN17J4oRxvenXSBZ2OpFIneZjJMcFj1TO-66pGn4vtCKZ9CZNw_7f3v_pIvcFDgsVO3z3TLIneJjODv9UDQ19PuF5y9emXWR0apQ-DJfZX1vPNVbCiyhgqWWUQRhAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZSUU5UWlY3VENCeE8wc1pIa3dGQUo2bFpIMUpXNWxwc2NkOWo0WjkwVExzUVdmU09BVEhZVms2dU5MRFJzV0ZiZlRaZ0hma19WRnhJMmhLb3N0TzItaXNKUm4xZGxtbmJKeEp2SGNMeGFCcFhsUGFqZmExSDRNbmp2d28xUGlCZ2dSVEpvWUhJUlR2RVd1bnUwSVNzem9BUDYxemZiRElqZTY1RWcSBBoCCAAa0AYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqBggAEAAYACAAKjUKBXN0dWR5FXqBt0AaCHJlc2VhcmNoGgdzdHVkaWVzGghzdHVkeWluZxoKc3R1ZHlsaW5rcypeCgVsaW5rcxUAAAAAGgpjb25uZWN0aW9uGgtjb25uZWN0aW9ucxoLY29ycmVsYXRpb24aCmh5cGVybGlua3MaBGxpbmsaDHJlbGF0aW9uc2hpcBoKc3R1ZHlsaW5rcypYCgRjZWxsFfyN4UAaCWNlbGxwaG9uZRoKY2VsbHBob25lcxoFY2VsbHMaCGNlbGx1bGFyGg5tb2JpbGUgZGV2aWNlcxoJb2YgbW9iaWxlGgh3aXJlbGVzcyowCgZwaG9uZXMVDOfVQBoObW9iaWxlIGRldmljZXMaBXBob25lGgpjZWxscGhvbmVzKhkKBWJyYWluFWe_0UAaC2JyYWluY2FuY2VyKjIKBmNhbmNlchUhxPVAGgdjYW5jZXJzGgV0dW1vchoGdHVtb3JzGgticmFpbmNhbmNlcjK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGUlFOVFpWN1RDQnhPMHNaSGt3RkFKNmxaSDFKVzVscHNjZDlqNFo5MFRMc1FXZlNPQVRIWVZrNnVOTERSc1dGYmZUWmdIZmtfVkZ4STJoS29zdE8yLWlzSlJuMWRsbW5iSnhKdkhjTHhhQnBYbFBhamZhMUg0TW5qdndvMVBpQmdnUlRKb1lISVJUdkVXdW51MElTc3pvQVA2MXpmYkRJamU2NUVnOkQ8Yj5DZWxsIHBob25lczwvYj4gZG9uJiMzOTt0IGNhdXNlIDxiPmJyYWluIGNhbmNlcjwvYj46IDxiPnN0dWR5PC9iPkKoAVNlcHRlbWJlciAxMSwgMjAyNCDigJMgQSBtYWpvciBuZXcgYW5hbHlzaXMgaGFzIGZvdW5kIDxiPm5vIGNvbm5lY3Rpb24gYmV0d2VlbiBjZWxsIHBob25lIHVzZSBhbmQgYnJhaW4gY2FuY2VyPC9iPi4gRm9yIHRoZSBhbmFseXNpcywgY29tbWlzc2lvbmVkIGJ5IHRoZSBXb3JsZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZSUU5UWlY3VENCeE8wc1pIa3dGQUo2bFpIMUpXNWxwc2NkOWo0WjkwVExzUVdmU09BVEhZVms2dU5MRFJzV0ZiZlRaZ0hma19WRnhJMmhLb3N0TzItaXNKUm4xZGxtbmJKeEp2SGNMeGFCcFhsUGFqZmExSDRNbmp2d28xUGlCZ2dSVEpvWUhJUlR2RVd1bnUwSVNzem9BUDYxemZiRElqZTY1RWcSBBoCCAAa0AYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqBggAEAAYACAAKjUKBXN0dWR5FXqBt0AaCHJlc2VhcmNoGgdzdHVkaWVzGghzdHVkeWluZxoKc3R1ZHlsaW5rcypeCgVsaW5rcxUAAAAAGgpjb25uZWN0aW9uGgtjb25uZWN0aW9ucxoLY29ycmVsYXRpb24aCmh5cGVybGlua3MaBGxpbmsaDHJlbGF0aW9uc2hpcBoKc3R1ZHlsaW5rcypYCgRjZWxsFfyN4UAaCWNlbGxwaG9uZRoKY2VsbHBob25lcxoFY2VsbHMaCGNlbGx1bGFyGg5tb2JpbGUgZGV2aWNlcxoJb2YgbW9iaWxlGgh3aXJlbGVzcyowCgZwaG9uZXMVDOfVQBoObW9iaWxlIGRldmljZXMaBXBob25lGgpjZWxscGhvbmVzKhkKBWJyYWluFWe_0UAaC2JyYWluY2FuY2VyKjIKBmNhbmNlchUhxPVAGgdjYW5jZXJzGgV0dW1vchoGdHVtb3JzGgticmFpbmNhbmNlcjK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGUlFOVFpWN1RDQnhPMHNaSGt3RkFKNmxaSDFKVzVscHNjZDlqNFo5MFRMc1FXZlNPQVRIWVZrNnVOTERSc1dGYmZUWmdIZmtfVkZ4STJoS29zdE8yLWlzSlJuMWRsbW5iSnhKdkhjTHhhQnBYbFBhamZhMUg0TW5qdndvMVBpQmdnUlRKb1lISVJUdkVXdW51MElTc3pvQVA2MXpmYkRJamU2NUVnOkQ8Yj5DZWxsIHBob25lczwvYj4gZG9uJiMzOTt0IGNhdXNlIDxiPmJyYWluIGNhbmNlcjwvYj46IDxiPnN0dWR5PC9iPkKoAVNlcHRlbWJlciAxMSwgMjAyNCDigJMgQSBtYWpvciBuZXcgYW5hbHlzaXMgaGFzIGZvdW5kIDxiPm5vIGNvbm5lY3Rpb24gYmV0d2VlbiBjZWxsIHBob25lIHVzZSBhbmQgYnJhaW4gY2FuY2VyPC9iPi4gRm9yIHRoZSBhbmFseXNpcywgY29tbWlzc2lvbmVkIGJ5IHRoZSBXb3JsZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Harvard T.H. Chan School of Public Health",
+      "read_more_link": "https://hsph.harvard.edu/news/cell-phones-dont-cause-brain-cancer-study/#:~:text=September%2011%2C%202024%20%E2%80%93%20A,Organization%2C%20researchers%20reviewed%2063%20studies."
+    },
+    {
+      "position": 4,
+      "title": "Can Cell Phones Cause Brain Cancer?",
+      "link": "https://www.uhhospitals.org/blog/articles/2025/01/can-cell-phones-cause-brain-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFQPlelafeRADURSw3EJxBJz7IbtQDc-a03O-LdJ8Qa66CSy1Vyp9gqDMzmoWU2cI-LN9fB1KDen6HpCCiZH1OVejXT-urAEz8efrEaminz1Wlcc9CA3IFo2jQV_eUg16oJikGl4LXxAaE3GSV9raXROLNfPtQfPXPjdCwwtpkTlgzBqNYmNfXA&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.uhhospitals.org › blog › articles › 2025/01",
+      "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAwBQCdASocABwAPtEutFooIagoGAEAGglmAMTZiqeYB-qo7NbzFqF63gWpEUIeXvQmAAD-9gdowKk1xtuE_FcVva8Ky7xBXCgPESHZe1GgTG6uU13TmnZMoWbG0uIll5gL5KNznza825BfGVf0tFVdKAJMOceXbNgoGP5beFZjPB98P_1fHy6U1KnVQYkOY6DoXzZIrPCFWkxk6h95bKR_uglhiLWMSedWJq8sp6U4x0nn7gYEQcwLlXJYbHsv0UvZTviqR_XyUQV4B4B3S_j8H-LcAewEBt6fj3hA30EdMxx1qAUeqAAA.webp",
+      "date": "Jan 20, 2025",
+      "snippet": "The World Health Organization (WHO) recently published a large-scale research review that found no connection between cell phone use and an increased risk ...",
+      "snippet_highlighted_words": [
+        "no connection between cell phone use and an increased risk"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The World Health Organization (WHO) recently published a large-scale research review that found no connection between cell phone use and an increased risk ...",
+          "source_info_link": "https://www.uhhospitals.org/blog/articles/2025/01/can-cell-phones-cause-brain-cancer",
+          "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAwBQCdASocABwAPtEutFooIagoGAEAGglmAMTZiqeYB-qo7NbzFqF63gWpEUIeXvQmAAD-9gdowKk1xtuE_FcVva8Ky7xBXCgPESHZe1GgTG6uU13TmnZMoWbG0uIll5gL5KNznza825BfGVf0tFVdKAJMOceXbNgoGP5beFZjPB98P_1fHy6U1KnVQYkOY6DoXzZIrPCFWkxk6h95bKR_uglhiLWMSedWJq8sp6U4x0nn7gYEQcwLlXJYbHsv0UvZTviqR_XyUQV4B4B3S_j8H-LcAewEBt6fj3hA30EdMxx1qAUeqAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRUGxlbGFmZVJBRFVSU3czRUp4Qkp6N0lidFFEYy1hMDNPLUxkSjhRYTY2Q1N5MVZ5cDlncURNem1vV1UyY0ktTE45ZkIxS0RlbjZIcENDaVpIMU9WZWpYVC11ckFFejhlZnJFYW1pbnoxV2xjYzlDQTNJRm8yalFWX2VVZzE2b0ppa0dsNExYeEFhRTNHU1Y5cmFYUk9MTmZQdFFmUFhQamRDd3d0cGtUbGd6QnFOWW1OZlhBEgQaAggAGuYGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwAYIABAAGAAgACo1CgVzdHVkeRUAAAAAGghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVxA2NPxoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBX-4wNBGgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFYRc80AaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhX18vtAGgticmFpbmNhbmNlcioyCgZjYW5jZXIVFIXrQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RlFQbGVsYWZlUkFEVVJTdzNFSnhCSno3SWJ0UURjLWEwM08tTGRKOFFhNjZDU3kxVnlwOWdxRE16bW9XVTJjSS1MTjlmQjFLRGVuNkhwQ0NpWkgxT1ZlalhULXVyQUV6OGVmckVhbWluejFXbGNjOUNBM0lGbzJqUVZfZVVnMTZvSmlrR2w0TFh4QWFFM0dTVjlyYVhST0xOZlB0UWZQWFBqZEN3d3Rwa1RsZ3pCcU5ZbU5mWEE6SENhbiA8Yj5DZWxsIFBob25lczwvYj4gQ2F1c2UgPGI-QnJhaW4gQ2FuY2VyPC9iPj8gLSBVbml2ZXJzaXR5IEhvc3BpdGFsc0KqAVRoZSBXb3JsZCBIZWFsdGggT3JnYW5pemF0aW9uIChXSE8pIHJlY2VudGx5IHB1Ymxpc2hlZCBhIGxhcmdlLXNjYWxlIHJlc2VhcmNoIHJldmlldyB0aGF0IGZvdW5kIDxiPm5vIGNvbm5lY3Rpb24gYmV0d2VlbiBjZWxsIHBob25lIHVzZSBhbmQgYW4gaW5jcmVhc2VkIHJpc2s8L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRUGxlbGFmZVJBRFVSU3czRUp4Qkp6N0lidFFEYy1hMDNPLUxkSjhRYTY2Q1N5MVZ5cDlncURNem1vV1UyY0ktTE45ZkIxS0RlbjZIcENDaVpIMU9WZWpYVC11ckFFejhlZnJFYW1pbnoxV2xjYzlDQTNJRm8yalFWX2VVZzE2b0ppa0dsNExYeEFhRTNHU1Y5cmFYUk9MTmZQdFFmUFhQamRDd3d0cGtUbGd6QnFOWW1OZlhBEgQaAggAGuYGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwAYIABAAGAAgACo1CgVzdHVkeRUAAAAAGghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVxA2NPxoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBX-4wNBGgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFYRc80AaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhX18vtAGgticmFpbmNhbmNlcioyCgZjYW5jZXIVFIXrQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIyzAEvZ290bz91cmw9Q0FFU2pBRUI2enN3RlFQbGVsYWZlUkFEVVJTdzNFSnhCSno3SWJ0UURjLWEwM08tTGRKOFFhNjZDU3kxVnlwOWdxRE16bW9XVTJjSS1MTjlmQjFLRGVuNkhwQ0NpWkgxT1ZlalhULXVyQUV6OGVmckVhbWluejFXbGNjOUNBM0lGbzJqUVZfZVVnMTZvSmlrR2w0TFh4QWFFM0dTVjlyYVhST0xOZlB0UWZQWFBqZEN3d3Rwa1RsZ3pCcU5ZbU5mWEE6SENhbiA8Yj5DZWxsIFBob25lczwvYj4gQ2F1c2UgPGI-QnJhaW4gQ2FuY2VyPC9iPj8gLSBVbml2ZXJzaXR5IEhvc3BpdGFsc0KqAVRoZSBXb3JsZCBIZWFsdGggT3JnYW5pemF0aW9uIChXSE8pIHJlY2VudGx5IHB1Ymxpc2hlZCBhIGxhcmdlLXNjYWxlIHJlc2VhcmNoIHJldmlldyB0aGF0IGZvdW5kIDxiPm5vIGNvbm5lY3Rpb24gYmV0d2VlbiBjZWxsIHBob25lIHVzZSBhbmQgYW4gaW5jcmVhc2VkIHJpc2s8L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "University Hospitals",
+      "read_more_link": "https://www.uhhospitals.org/blog/articles/2025/01/can-cell-phones-cause-brain-cancer#:~:text=The%20World%20Health%20Organization%20(WHO),their%20cell%20phones%20the%20most."
+    },
+    {
+      "position": 5,
+      "title": "Mobile phones are not linked to brain cancer, according ...",
+      "link": "https://www.reddit.com/r/science/comments/1f80yu1/mobile_phones_are_not_linked_to_brain_cancer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFcBPk-ILDSb9UjNoR7XbPdTzV-YFS-kxApgyDizpLnuC7plIaLmHqVQwpxGqzX7CRfaSbiHlNO1oqwgwfBNIHgMhT1ppJcx7SjCE2B2vhc-579Of2zhbE3_YesRgnl2mNbc_TurupOUfc1eTClQa6UdOn6QmOqtg0evekJN7etQwKz93CuE9-xsml24FuPv5lDcw&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECCMQAQ&uoh=1",
+      "displayed_link": "140+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Mobile phones are not linked to brain cancer, according to a major review of 28 years of research | The effect of exposure to radiofrequency fields on cancer ...",
+      "snippet_highlighted_words": [
+        "Mobile phones are not linked to brain cancer"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mobile phones are not linked to brain cancer, according to a major review of 28 years of research | The effect of exposure to radiofrequency fields on cancer ...",
+          "source_info_link": "https://www.reddit.com/r/science/comments/1f80yu1/mobile_phones_are_not_linked_to_brain_cancer/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjQlBrLUlMRFNiOVVqTm9SN1hiUGRUelYtWUZTLWt4QXBneURpenBMbnVDN3BsSWFMbUhxVlF3cHhHcXpYN0NSZmFTYmlIbE5PMW9xd2d3ZkJOSUhnTWhUMXBwSmN4N1NqQ0UyQjJ2aGMtNTc5T2YyemhiRTNfWWVzUmdubDJtTmJjX1R1cnVwT1VmYzFlVENsUWE2VWRPbjZRbU9xdGcwZXZla0pON2V0UXdLejkzQ3VFOS14c21sMjRGdVB2NWxEY3cSBBoCCAAa-wYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1wYIABAAGAAgACo1CgVzdHVkeRUFHzo_GghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVPvMpPRoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBV-Xac_GgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFbA9gEAaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhXfP3FAGgticmFpbmNhbmNlcioyCgZjYW5jZXIVdfKTQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIy2gEvZ290bz91cmw9Q0FFU2x3RUI2enN3RmNCUGstSUxEU2I5VWpOb1I3WGJQZFR6Vi1ZRlMta3hBcGd5RGl6cExudUM3cGxJYUxtSHFWUXdweEdxelg3Q1JmYVNiaUhsTk8xb3F3Z3dmQk5JSGdNaFQxcHBKY3g3U2pDRTJCMnZoYy01NzlPZjJ6aGJFM19ZZXNSZ25sMm1OYmNfVHVydXBPVWZjMWVUQ2xRYTZVZE9uNlFtT3F0ZzBldmVrSk43ZXRRd0t6OTNDdUU5LXhzbWwyNEZ1UHY1bERjdzpOTW9iaWxlIDxiPnBob25lczwvYj4gYXJlIG5vdCBsaW5rZWQgdG8gPGI-YnJhaW4gY2FuY2VyPC9iPiwgYWNjb3JkaW5nIHRvIGEgLi4uQq0BPGI-TW9iaWxlIHBob25lcyBhcmUgbm90IGxpbmtlZCB0byBicmFpbiBjYW5jZXI8L2I-LCBhY2NvcmRpbmcgdG8gYSBtYWpvciByZXZpZXcgb2YgMjggeWVhcnMgb2YgcmVzZWFyY2ggfCBUaGUgZWZmZWN0IG9mIGV4cG9zdXJlIHRvIHJhZGlvZnJlcXVlbmN5IGZpZWxkcyBvbiBjYW5jZXImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjQlBrLUlMRFNiOVVqTm9SN1hiUGRUelYtWUZTLWt4QXBneURpenBMbnVDN3BsSWFMbUhxVlF3cHhHcXpYN0NSZmFTYmlIbE5PMW9xd2d3ZkJOSUhnTWhUMXBwSmN4N1NqQ0UyQjJ2aGMtNTc5T2YyemhiRTNfWWVzUmdubDJtTmJjX1R1cnVwT1VmYzFlVENsUWE2VWRPbjZRbU9xdGcwZXZla0pON2V0UXdLejkzQ3VFOS14c21sMjRGdVB2NWxEY3cSBBoCCAAa-wYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1wYIABAAGAAgACo1CgVzdHVkeRUFHzo_GghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVPvMpPRoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBV-Xac_GgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFbA9gEAaDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhXfP3FAGgticmFpbmNhbmNlcioyCgZjYW5jZXIVdfKTQBoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIy2gEvZ290bz91cmw9Q0FFU2x3RUI2enN3RmNCUGstSUxEU2I5VWpOb1I3WGJQZFR6Vi1ZRlMta3hBcGd5RGl6cExudUM3cGxJYUxtSHFWUXdweEdxelg3Q1JmYVNiaUhsTk8xb3F3Z3dmQk5JSGdNaFQxcHBKY3g3U2pDRTJCMnZoYy01NzlPZjJ6aGJFM19ZZXNSZ25sMm1OYmNfVHVydXBPVWZjMWVUQ2xRYTZVZE9uNlFtT3F0ZzBldmVrSk43ZXRRd0t6OTNDdUU5LXhzbWwyNEZ1UHY1bERjdzpOTW9iaWxlIDxiPnBob25lczwvYj4gYXJlIG5vdCBsaW5rZWQgdG8gPGI-YnJhaW4gY2FuY2VyPC9iPiwgYWNjb3JkaW5nIHRvIGEgLi4uQq0BPGI-TW9iaWxlIHBob25lcyBhcmUgbm90IGxpbmtlZCB0byBicmFpbiBjYW5jZXI8L2I-LCBhY2NvcmRpbmcgdG8gYSBtYWpvciByZXZpZXcgb2YgMjggeWVhcnMgb2YgcmVzZWFyY2ggfCBUaGUgZWZmZWN0IG9mIGV4cG9zdXJlIHRvIHJhZGlvZnJlcXVlbmN5IGZpZWxkcyBvbiBjYW5jZXImbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Reddit · r/science",
+      "read_more_link": "https://www.reddit.com/r/science/comments/1f80yu1/mobile_phones_are_not_linked_to_brain_cancer/#:~:text=Mobile%20phones%20are%20not%20linked,Part%20I%3A%20Most%20researched%20outcomes"
+    },
+    {
+      "position": 6,
+      "title": "Mobile phone use and brain tumour risk – COSMOS, a ...",
+      "link": "https://www.iarc.who.int/news-events/mobile-phone-use-and-brain-tumour-risk-cosmos-a-prospective-cohort-study/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFY8KoJVmvJYA7AFUWsVy65YO_ueDICEnJd1kzqO528aNKXi83JbZ9KXb7KVz7xXa9BOJ7ceMU5ND4GFfgWMCcEUP7fteFC12iIyelLNBPUzX8Ybkrqc_GbqN7psoTMF0cZM4tA_bpJ03P4BA6e2HB7Cc9W1OF_A3qC6pbC5jFTh17bTOf9Zw7qcTzvhz4UgBu0QE9neXtjC8T5InF8_J__58&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.iarc.who.int › news-events › mobile-phone...",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAJ0zJfRwarvLiNeyAcnjmRemfYA3Sv9gB1-Gh2Nz--f_t0k6y6M5Y1zYiwYZDzxQAAD-9hLUBXzL3OdwP0ZXuWFzkSiIaSLijLjWnT9YFC_gKnTgtiN-qGKHk_0NaJbN9VonUiEhJDE0NjbIzjBjo-b44BH4oVxHcX1X8lHCClqNbwoLZ2C7jJFcKXTz3XlMCaJZOUoWH43oEQXqyQTcHOi6yCxgNyAlPnSx1k8w8Sj8iOq4za2DB_6uSo0U3boMQ5BShM_ioT20nvzWlQfHjmxvDmWBKx0emhpMUjvLoXwq7ABbptpDOID2t5WOsy59BRq68NA0uShBemiY26uu5M75n5Egnae3abmYFH0YRrZffvsu2GZ2nFVU96aLBd8M8xbjCyhL5gh9JeB10KtXxuUDnvifDeTZm6bP7_yeIU2WA6_ESFemxy8dcxqBnchCUOgv4XmLOnfmcM8OgRS1obC79ZWGdtD7RE_3mFALO953iLHg4WewgZwSWmMAaigJDN-6swRWnzBwEJ1wAAAA.webp",
+      "date": "Mar 11, 2024",
+      "snippet": "These findings suggest that mobile phone use is not associated with increased risk of developing these tumours. The COSMOS project is a joint project of ...",
+      "snippet_highlighted_words": [
+        "mobile phone use is not associated with increased risk of developing these tumours"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These findings suggest that mobile phone use is not associated with increased risk of developing these tumours. The COSMOS project is a joint project of ...",
+          "source_info_link": "https://www.iarc.who.int/news-events/mobile-phone-use-and-brain-tumour-risk-cosmos-a-prospective-cohort-study/",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAJ0zJfRwarvLiNeyAcnjmRemfYA3Sv9gB1-Gh2Nz--f_t0k6y6M5Y1zYiwYZDzxQAAD-9hLUBXzL3OdwP0ZXuWFzkSiIaSLijLjWnT9YFC_gKnTgtiN-qGKHk_0NaJbN9VonUiEhJDE0NjbIzjBjo-b44BH4oVxHcX1X8lHCClqNbwoLZ2C7jJFcKXTz3XlMCaJZOUoWH43oEQXqyQTcHOi6yCxgNyAlPnSx1k8w8Sj8iOq4za2DB_6uSo0U3boMQ5BShM_ioT20nvzWlQfHjmxvDmWBKx0emhpMUjvLoXwq7ABbptpDOID2t5WOsy59BRq68NA0uShBemiY26uu5M75n5Egnae3abmYFH0YRrZffvsu2GZ2nFVU96aLBd8M8xbjCyhL5gh9JeB10KtXxuUDnvifDeTZm6bP7_yeIU2WA6_ESFemxy8dcxqBnchCUOgv4XmLOnfmcM8OgRS1obC79ZWGdtD7RE_3mFALO953iLHg4WewgZwSWmMAaigJDN-6swRWnzBwEJ1wAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZZOEtvSlZtdkpZQTdBRlVXc1Z5NjVZT191ZURJQ0VuSmQxa3pxTzUyOGFOS1hpODNKYlo5S1hiN0tWejd4WGE5Qk9KN2NlTVU1TkQ0R0ZmZ1dNQ2NFVVA3ZnRlRkMxMmlJeWVsTE5CUFV6WDhZYmtycWNfR2JxTjdwc29UTUYwY1pNNHRBX2JwSjAzUDRCQTZlMkhCN0NjOVcxT0ZfQTNxQzZwYkM1akZUaDE3YlRPZjladzdxY1R6dmh6NFVnQnUwUUU5bmVYdGpDOFQ1SW5GOF9KX181OBIEGgIIABqLBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOUGCAAQABgAIAAqNQoFc3R1ZHkVb76dQBoIcmVzZWFyY2gaB3N0dWRpZXMaCHN0dWR5aW5nGgpzdHVkeWxpbmtzKl4KBWxpbmtzFQPssDsaCmNvbm5lY3Rpb24aC2Nvbm5lY3Rpb25zGgtjb3JyZWxhdGlvbhoKaHlwZXJsaW5rcxoEbGluaxoMcmVsYXRpb25zaGlwGgpzdHVkeWxpbmtzKlgKBGNlbGwVAAAAABoJY2VsbHBob25lGgpjZWxscGhvbmVzGgVjZWxscxoIY2VsbHVsYXIaDm1vYmlsZSBkZXZpY2VzGglvZiBtb2JpbGUaCHdpcmVsZXNzKjAKBnBob25lcxUVRuE_Gg5tb2JpbGUgZGV2aWNlcxoFcGhvbmUaCmNlbGxwaG9uZXMqGQoFYnJhaW4V_SilQBoLYnJhaW5jYW5jZXIqMgoGY2FuY2VyFZbLT0AaB2NhbmNlcnMaBXR1bW9yGgZ0dW1vcnMaC2JyYWluY2FuY2VyMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZZOEtvSlZtdkpZQTdBRlVXc1Z5NjVZT191ZURJQ0VuSmQxa3pxTzUyOGFOS1hpODNKYlo5S1hiN0tWejd4WGE5Qk9KN2NlTVU1TkQ0R0ZmZ1dNQ2NFVVA3ZnRlRkMxMmlJeWVsTE5CUFV6WDhZYmtycWNfR2JxTjdwc29UTUYwY1pNNHRBX2JwSjAzUDRCQTZlMkhCN0NjOVcxT0ZfQTNxQzZwYkM1akZUaDE3YlRPZjladzdxY1R6dmh6NFVnQnUwUUU5bmVYdGpDOFQ1SW5GOF9KX181ODpNTW9iaWxlIDxiPnBob25lPC9iPiB1c2UgYW5kIDxiPmJyYWluPC9iPiB0dW1vdXIgcmlzayDigJMgQ09TTU9TLCBhIC4uLiAtIElBUkNCqAFUaGVzZSBmaW5kaW5ncyBzdWdnZXN0IHRoYXQgPGI-bW9iaWxlIHBob25lIHVzZSBpcyBub3QgYXNzb2NpYXRlZCB3aXRoIGluY3JlYXNlZCByaXNrIG9mIGRldmVsb3BpbmcgdGhlc2UgdHVtb3VyczwvYj4uIFRoZSBDT1NNT1MgcHJvamVjdCBpcyBhIGpvaW50IHByb2plY3Qgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZZOEtvSlZtdkpZQTdBRlVXc1Z5NjVZT191ZURJQ0VuSmQxa3pxTzUyOGFOS1hpODNKYlo5S1hiN0tWejd4WGE5Qk9KN2NlTVU1TkQ0R0ZmZ1dNQ2NFVVA3ZnRlRkMxMmlJeWVsTE5CUFV6WDhZYmtycWNfR2JxTjdwc29UTUYwY1pNNHRBX2JwSjAzUDRCQTZlMkhCN0NjOVcxT0ZfQTNxQzZwYkM1akZUaDE3YlRPZjladzdxY1R6dmh6NFVnQnUwUUU5bmVYdGpDOFQ1SW5GOF9KX181OBIEGgIIABqLBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOUGCAAQABgAIAAqNQoFc3R1ZHkVb76dQBoIcmVzZWFyY2gaB3N0dWRpZXMaCHN0dWR5aW5nGgpzdHVkeWxpbmtzKl4KBWxpbmtzFQPssDsaCmNvbm5lY3Rpb24aC2Nvbm5lY3Rpb25zGgtjb3JyZWxhdGlvbhoKaHlwZXJsaW5rcxoEbGluaxoMcmVsYXRpb25zaGlwGgpzdHVkeWxpbmtzKlgKBGNlbGwVAAAAABoJY2VsbHBob25lGgpjZWxscGhvbmVzGgVjZWxscxoIY2VsbHVsYXIaDm1vYmlsZSBkZXZpY2VzGglvZiBtb2JpbGUaCHdpcmVsZXNzKjAKBnBob25lcxUVRuE_Gg5tb2JpbGUgZGV2aWNlcxoFcGhvbmUaCmNlbGxwaG9uZXMqGQoFYnJhaW4V_SilQBoLYnJhaW5jYW5jZXIqMgoGY2FuY2VyFZbLT0AaB2NhbmNlcnMaBXR1bW9yGgZ0dW1vcnMaC2JyYWluY2FuY2VyMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZZOEtvSlZtdkpZQTdBRlVXc1Z5NjVZT191ZURJQ0VuSmQxa3pxTzUyOGFOS1hpODNKYlo5S1hiN0tWejd4WGE5Qk9KN2NlTVU1TkQ0R0ZmZ1dNQ2NFVVA3ZnRlRkMxMmlJeWVsTE5CUFV6WDhZYmtycWNfR2JxTjdwc29UTUYwY1pNNHRBX2JwSjAzUDRCQTZlMkhCN0NjOVcxT0ZfQTNxQzZwYkM1akZUaDE3YlRPZjladzdxY1R6dmh6NFVnQnUwUUU5bmVYdGpDOFQ1SW5GOF9KX181ODpNTW9iaWxlIDxiPnBob25lPC9iPiB1c2UgYW5kIDxiPmJyYWluPC9iPiB0dW1vdXIgcmlzayDigJMgQ09TTU9TLCBhIC4uLiAtIElBUkNCqAFUaGVzZSBmaW5kaW5ncyBzdWdnZXN0IHRoYXQgPGI-bW9iaWxlIHBob25lIHVzZSBpcyBub3QgYXNzb2NpYXRlZCB3aXRoIGluY3JlYXNlZCByaXNrIG9mIGRldmVsb3BpbmcgdGhlc2UgdHVtb3VyczwvYj4uIFRoZSBDT1NNT1MgcHJvamVjdCBpcyBhIGpvaW50IHByb2plY3Qgb2YmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+      "read_more_link": "https://www.iarc.who.int/news-events/mobile-phone-use-and-brain-tumour-risk-cosmos-a-prospective-cohort-study/#:~:text=These%20findings%20suggest%20that%20mobile,is%20a%20joint%20project%20of"
+    },
+    {
+      "position": 7,
+      "title": "Mobile phone use and brain tumour risk – COSMOS, a ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160412024001387",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVJ9cl2dZDQw01SlIYYqva5mD_x9xBYq4r2OvTy5W9GpglKp0JTygcCTxlQULLPvdiZHHEWo58a8kOXhwuvayQPFGaDGUxChO_TNpKN8d4zsstSUIUipJgI0C4AOrN6MKp5zC_AFA-1aLIwZouUESvffaC-Zoetg&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+      "author": "by M Feychting",
+      "snippet": "Our findings suggest that the cumulative amount of mobile phone use is not associated with the risk of developing glioma, meningioma, or acoustic neuroma.",
+      "snippet_highlighted_words": [
+        "of mobile phone"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our findings suggest that the cumulative amount of mobile phone use is not associated with the risk of developing glioma, meningioma, or acoustic neuroma.",
+          "source_info_link": "https://www.sciencedirect.com/science/article/pii/S0160412024001387",
+          "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVko5Y2wyZFpEUXcwMVNsSVlZcXZhNW1EX3g5eEJZcTRyMk92VHk1VzlHcGdsS3AwSlR5Z2NDVHhsUVVMTFB2ZGlaSEhFV281OGE4a09YaHd1dmF5UVBGR2FER1V4Q2hPX1ROcEtOOGQ0enNzdFNVSVVpcEpnSTBDNEFPck42TUtwNXpDX0FGQS0xYUxJd1pvdVVFU3ZmZmFDLVpvZXRnEgQaAggAGsMGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQYIABAAGAAgACo1CgVzdHVkeRWSlFVAGghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVXqVuOhoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBUu_l8_GgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFZTWgz8aDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhUSAFdAGgticmFpbmNhbmNlcioyCgZjYW5jZXIV4GuXPxoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWSjljbDJkWkRRdzAxU2xJWVlxdmE1bURfeDl4QllxNHIyT3ZUeTVXOUdwZ2xLcDBKVHlnY0NUeGxRVUxMUHZkaVpISEVXbzU4YThrT1hod3V2YXlRUEZHYURHVXhDaE9fVE5wS044ZDR6c3N0U1VJVWlwSmdJMEM0QU9yTjZNS3A1ekNfQUZBLTFhTEl3Wm91VUVTdmZmYUMtWm9ldGc6Rk1vYmlsZSA8Yj5waG9uZTwvYj4gdXNlIGFuZCA8Yj5icmFpbjwvYj4gdHVtb3VyIHJpc2sg4oCTIENPU01PUywgYSAuLi5CoQFPdXIgZmluZGluZ3Mgc3VnZ2VzdCB0aGF0IHRoZSBjdW11bGF0aXZlIGFtb3VudCA8Yj5vZiBtb2JpbGUgcGhvbmU8L2I-IHVzZSBpcyBub3QgYXNzb2NpYXRlZCB3aXRoIHRoZSByaXNrIG9mIGRldmVsb3BpbmcgZ2xpb21hLCBtZW5pbmdpb21hLCBvciBhY291c3RpYyBuZXVyb21hLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVko5Y2wyZFpEUXcwMVNsSVlZcXZhNW1EX3g5eEJZcTRyMk92VHk1VzlHcGdsS3AwSlR5Z2NDVHhsUVVMTFB2ZGlaSEhFV281OGE4a09YaHd1dmF5UVBGR2FER1V4Q2hPX1ROcEtOOGQ0enNzdFNVSVVpcEpnSTBDNEFPck42TUtwNXpDX0FGQS0xYUxJd1pvdVVFU3ZmZmFDLVpvZXRnEgQaAggAGsMGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQYIABAAGAAgACo1CgVzdHVkeRWSlFVAGghyZXNlYXJjaBoHc3R1ZGllcxoIc3R1ZHlpbmcaCnN0dWR5bGlua3MqXgoFbGlua3MVXqVuOhoKY29ubmVjdGlvbhoLY29ubmVjdGlvbnMaC2NvcnJlbGF0aW9uGgpoeXBlcmxpbmtzGgRsaW5rGgxyZWxhdGlvbnNoaXAaCnN0dWR5bGlua3MqWAoEY2VsbBUu_l8_GgljZWxscGhvbmUaCmNlbGxwaG9uZXMaBWNlbGxzGghjZWxsdWxhchoObW9iaWxlIGRldmljZXMaCW9mIG1vYmlsZRoId2lyZWxlc3MqMAoGcGhvbmVzFZTWgz8aDm1vYmlsZSBkZXZpY2VzGgVwaG9uZRoKY2VsbHBob25lcyoZCgVicmFpbhUSAFdAGgticmFpbmNhbmNlcioyCgZjYW5jZXIV4GuXPxoHY2FuY2VycxoFdHVtb3IaBnR1bW9ycxoLYnJhaW5jYW5jZXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWSjljbDJkWkRRdzAxU2xJWVlxdmE1bURfeDl4QllxNHIyT3ZUeTVXOUdwZ2xLcDBKVHlnY0NUeGxRVUxMUHZkaVpISEVXbzU4YThrT1hod3V2YXlRUEZHYURHVXhDaE9fVE5wS044ZDR6c3N0U1VJVWlwSmdJMEM0QU9yTjZNS3A1ekNfQUZBLTFhTEl3Wm91VUVTdmZmYUMtWm9ldGc6Rk1vYmlsZSA8Yj5waG9uZTwvYj4gdXNlIGFuZCA8Yj5icmFpbjwvYj4gdHVtb3VyIHJpc2sg4oCTIENPU01PUywgYSAuLi5CoQFPdXIgZmluZGluZ3Mgc3VnZ2VzdCB0aGF0IHRoZSBjdW11bGF0aXZlIGFtb3VudCA8Yj5vZiBtb2JpbGUgcGhvbmU8L2I-IHVzZSBpcyBub3QgYXNzb2NpYXRlZCB3aXRoIHRoZSByaXNrIG9mIGRldmVsb3BpbmcgZ2xpb21hLCBtZW5pbmdpb21hLCBvciBhY291c3RpYyBuZXVyb21hLiICEAFIAFgAaAA",
+      "source": "ScienceDirect.com",
+      "read_more_link": "https://www.sciencedirect.com/science/article/pii/S0160412024001387#:~:text=Our%20findings%20suggest%20that%20the,glioma%2C%20meningioma%2C%20or%20acoustic%20neuroma."
+    },
+    {
+      "position": 8,
+      "title": "No Link Between Cell Phones and Brain Cancer",
+      "link": "https://www.cancerhealth.com/article/link-cell-phones-brain-cancer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV3ASgS9yo2-m76Dh6bVYvYXEscCaTrTJ5TUCTILorRo_G1ADlw88TtsZbWC91OSrebhed979vAy1jet2jaFXk6e0YlTSGX9Mhj5-lDlz-tPMtBusW_j_h7Q_8NM9sh-4sXrIPBu9p8P8mUY9hD5zOALVs2M6N&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://www.cancerhealth.com › article › link-cell-phon...",
+      "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAADQBQCdASocABwAPtE-tFooIigoFAEAGgllAAPihqAfq5vgAdm7VyFIsyZygmfKf6i5buz5mWwAAP72BVNKDYHi0pQlNCWLRGH6YnwLuKjIt_iLnSf4DCgFUkufa4bSSkLnm_6tZFBTrzvMatRyoWK1z-e1EGEAQsfq5xd4b_41DAf8PR2_R_-5c8apGt3q_Y4Y9qcdOU_-d_-g3CVvsG-INAq-wj97nQ_crf_q4Sqdfon8urzvjxHOU8vyHCxEwbpjHTbM2qHvw4ekFnXxVA3SKgh9fz9VFQpKTxTZBCEfjdu6yWYXH8XI5thmmfxB0EP-P9vnmOPX9-6H9X3v3_myB5AL2_9LANC36vKCF0xfhxsy8ctgAA.webp",
+      "date": "Sep 4, 2024",
+      "snippet": "Cellphone use is not linked to an increased risk for brain or other cancers, according to the findings of a review backed by the World Health Organization (WHO) ...",
+      "snippet_highlighted_words": [
+        "Cellphone use is not linked to an increased risk for brain"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cellphone use is not linked to an increased risk for brain or other cancers, according to the findings of a review backed by the World Health Organization (WHO) ...",
+          "source_info_link": "https://www.cancerhealth.com/article/link-cell-phones-brain-cancer",
+          "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAADQBQCdASocABwAPtE-tFooIigoFAEAGgllAAPihqAfq5vgAdm7VyFIsyZygmfKf6i5buz5mWwAAP72BVNKDYHi0pQlNCWLRGH6YnwLuKjIt_iLnSf4DCgFUkufa4bSSkLnm_6tZFBTrzvMatRyoWK1z-e1EGEAQsfq5xd4b_41DAf8PR2_R_-5c8apGt3q_Y4Y9qcdOU_-d_-g3CVvsG-INAq-wj97nQ_crf_q4Sqdfon8urzvjxHOU8vyHCxEwbpjHTbM2qHvw4ekFnXxVA3SKgh9fz9VFQpKTxTZBCEfjdu6yWYXH8XI5thmmfxB0EP-P9vnmOPX9-6H9X3v3_myB5AL2_9LANC36vKCF0xfhxsy8ctgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjNBU2dTOXlvMi1tNzZEaDZiVll2WVhFc2NDYVRyVEo1VFVDVElMb3JSb19HMUFEbHc4OFR0c1piV0M5MU9TcmViaGVkOTc5dkF5MWpldDJqYUZYazZlMFlsVFNHWDlNaGo1LWxEbHotdFBNdEJ1c1dfal9oN1FfOE5NOXNoLTRzWHJJUEJ1OXA4UDhtVVk5aEQ1ek9BTFZzMk02ThIEGgIIABrLBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKUGCAAQABgAIAAqNQoFc3R1ZHkVqrAiPhoIcmVzZWFyY2gaB3N0dWRpZXMaCHN0dWR5aW5nGgpzdHVkeWxpbmtzKl4KBWxpbmtzFapWiz8aCmNvbm5lY3Rpb24aC2Nvbm5lY3Rpb25zGgtjb3JyZWxhdGlvbhoKaHlwZXJsaW5rcxoEbGluaxoMcmVsYXRpb25zaGlwGgpzdHVkeWxpbmtzKlgKBGNlbGwVeMavQBoJY2VsbHBob25lGgpjZWxscGhvbmVzGgVjZWxscxoIY2VsbHVsYXIaDm1vYmlsZSBkZXZpY2VzGglvZiBtb2JpbGUaCHdpcmVsZXNzKjAKBnBob25lcxU0HdtAGg5tb2JpbGUgZGV2aWNlcxoFcGhvbmUaCmNlbGxwaG9uZXMqGQoFYnJhaW4VhK7pQBoLYnJhaW5jYW5jZXIqMgoGY2FuY2VyFbcdE0EaB2NhbmNlcnMaBXR1bW9yGgZ0dW1vcnMaC2JyYWluY2FuY2VyMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjNBU2dTOXlvMi1tNzZEaDZiVll2WVhFc2NDYVRyVEo1VFVDVElMb3JSb19HMUFEbHc4OFR0c1piV0M5MU9TcmViaGVkOTc5dkF5MWpldDJqYUZYazZlMFlsVFNHWDlNaGo1LWxEbHotdFBNdEJ1c1dfal9oN1FfOE5NOXNoLTRzWHJJUEJ1OXA4UDhtVVk5aEQ1ek9BTFZzMk02TjpBTm8gPGI-TGluazwvYj4gQmV0d2VlbiA8Yj5DZWxsIFBob25lczwvYj4gYW5kIDxiPkJyYWluIENhbmNlcjwvYj5CsAE8Yj5DZWxscGhvbmUgdXNlIGlzIG5vdCBsaW5rZWQgdG8gYW4gaW5jcmVhc2VkIHJpc2sgZm9yIGJyYWluPC9iPiBvciBvdGhlciBjYW5jZXJzLCBhY2NvcmRpbmcgdG8gdGhlIGZpbmRpbmdzIG9mIGEgcmV2aWV3IGJhY2tlZCBieSB0aGUgV29ybGQgSGVhbHRoIE9yZ2FuaXphdGlvbiAoV0hPKSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjNBU2dTOXlvMi1tNzZEaDZiVll2WVhFc2NDYVRyVEo1VFVDVElMb3JSb19HMUFEbHc4OFR0c1piV0M5MU9TcmViaGVkOTc5dkF5MWpldDJqYUZYazZlMFlsVFNHWDlNaGo1LWxEbHotdFBNdEJ1c1dfal9oN1FfOE5NOXNoLTRzWHJJUEJ1OXA4UDhtVVk5aEQ1ek9BTFZzMk02ThIEGgIIABrLBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKUGCAAQABgAIAAqNQoFc3R1ZHkVqrAiPhoIcmVzZWFyY2gaB3N0dWRpZXMaCHN0dWR5aW5nGgpzdHVkeWxpbmtzKl4KBWxpbmtzFapWiz8aCmNvbm5lY3Rpb24aC2Nvbm5lY3Rpb25zGgtjb3JyZWxhdGlvbhoKaHlwZXJsaW5rcxoEbGluaxoMcmVsYXRpb25zaGlwGgpzdHVkeWxpbmtzKlgKBGNlbGwVeMavQBoJY2VsbHBob25lGgpjZWxscGhvbmVzGgVjZWxscxoIY2VsbHVsYXIaDm1vYmlsZSBkZXZpY2VzGglvZiBtb2JpbGUaCHdpcmVsZXNzKjAKBnBob25lcxU0HdtAGg5tb2JpbGUgZGV2aWNlcxoFcGhvbmUaCmNlbGxwaG9uZXMqGQoFYnJhaW4VhK7pQBoLYnJhaW5jYW5jZXIqMgoGY2FuY2VyFbcdE0EaB2NhbmNlcnMaBXR1bW9yGgZ0dW1vcnMaC2JyYWluY2FuY2VyMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjNBU2dTOXlvMi1tNzZEaDZiVll2WVhFc2NDYVRyVEo1VFVDVElMb3JSb19HMUFEbHc4OFR0c1piV0M5MU9TcmViaGVkOTc5dkF5MWpldDJqYUZYazZlMFlsVFNHWDlNaGo1LWxEbHotdFBNdEJ1c1dfal9oN1FfOE5NOXNoLTRzWHJJUEJ1OXA4UDhtVVk5aEQ1ek9BTFZzMk02TjpBTm8gPGI-TGluazwvYj4gQmV0d2VlbiA8Yj5DZWxsIFBob25lczwvYj4gYW5kIDxiPkJyYWluIENhbmNlcjwvYj5CsAE8Yj5DZWxscGhvbmUgdXNlIGlzIG5vdCBsaW5rZWQgdG8gYW4gaW5jcmVhc2VkIHJpc2sgZm9yIGJyYWluPC9iPiBvciBvdGhlciBjYW5jZXJzLCBhY2NvcmRpbmcgdG8gdGhlIGZpbmRpbmdzIG9mIGEgcmV2aWV3IGJhY2tlZCBieSB0aGUgV29ybGQgSGVhbHRoIE9yZ2FuaXphdGlvbiAoV0hPKSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Cancer Health",
+      "read_more_link": "https://www.cancerhealth.com/article/link-cell-phones-brain-cancer#:~:text=Cellphone%20use%20is%20not%20linked,Health%20Organization%20(WHO)%2C%20Reuters%20reports."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=10&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=10&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=20&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=30&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=40&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=50&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=60&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=70&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=80&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=study+links+cell+phones+brain+cancer+before:2026-01-01&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntAXX-YyE-N0EPLTpwgtyerpIYbDA:1790061835126&ei=Cy2yaomeB4umptQPuYOmyAs&start=90&sa=N&sstk=AS6-VmLfQcbSzHy5sVFncysS-UizhtXWO0Wi3K-pBH1SW5qckjymGHArPid_VDTqVSqSV4tTphZMeqi8dezasG3CZreMIkMvQbaDEQ&ved=2ahUKEwjJz7v-04GXAxULk4kEHbmBCbkQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=study+links+cell+phones+brain+cancer+before%3A2026-01-01&start=90"
+    }
+  }
+}

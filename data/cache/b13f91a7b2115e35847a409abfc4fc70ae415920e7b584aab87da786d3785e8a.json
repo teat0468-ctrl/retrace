@@ -1,0 +1,448 @@
+{
+  "search_metadata": {
+    "id": "6ab162d06adf2724e7dc250b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Urnf2l-wFDhiD1DK1AYAWtwgvV6hkh37UL_e6DhI8vY/6ab162d06adf2724e7dc250b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Urnf2l-wFDhiD1DK1AYAWtwgvV6hkh37UL_e6DhI8vY/6ab162d06adf2724e7dc250b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Urnf2l-wFDhiD1DK1AYAWtwgvV6hkh37UL_e6DhI8vY/6ab162d06adf2724e7dc250b.json_with_pixel_position",
+    "created_at": "2026-09-21 17:01:04 UTC",
+    "processed_at": "2026-09-21 17:01:04 UTC",
+    "google_url": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&oq=india+really+replacing+paper+currency+plastic+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Urnf2l-wFDhiD1DK1AYAWtwgvV6hkh37UL_e6DhI8vY/6ab162d06adf2724e7dc250b.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "india really replacing paper currency plastic 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "india really replacing paper currency plastic 2025",
+    "total_results": 121,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Is RBI Replacing Paper Notes With Plastic Currency Soon? Big ...",
+      "link": "https://www.youtube.com/watch?v=3HQJSbHEMh4",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/oOgGnXoGFfk5NgYV9eV5uEAJAt4I8YIrH2OaB-rIJn0.jpeg",
+      "channel": "India Today Global",
+      "duration": "2:17",
+      "platform": "YouTube",
+      "date": "19‏/07‏/2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTAOcOe7Gv2p4P0Xqkj4drMoxaFGAEk0mXxxg"
+    },
+    {
+      "position": 2,
+      "title": "India could be moving from paper notes to plastic currency. ...",
+      "link": "https://www.instagram.com/reel/Ddd_Nh2pQgk/",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/NVOsbsuj75eaETLk4HvjRXLbnzckj1BeXa1t8yr-YPA.jpeg",
+      "channel": "Mohmed Abubacker Samsudeen",
+      "duration": "1:48",
+      "platform": "Instagram",
+      "date": "قبل يومين (2)"
+    },
+    {
+      "position": 3,
+      "title": "Will India Move to Plastic Currency",
+      "link": "https://www.youtube.com/watch?v=anBj6Rphffg",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/s0BmWiBEnJnkPizd7g6x-0NW_1Nmd10jI3-MiSpXF5w.jpeg",
+      "channel": "NDTV Profit",
+      "duration": "5:38",
+      "platform": "YouTube",
+      "date": "20‏/06‏/2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSiKY_zCS5AQzJ-1Q-t0lZVBjvnHMcyq9xFdQ"
+    },
+    {
+      "position": 4,
+      "title": "Plastic Notes To Replace Paper Notes In India? RBI's Currency ...",
+      "link": "https://www.youtube.com/watch?v=RUvKc7ze5-c",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/nFrFzfu9CPkGzXNw6yKcODRHoUWlfs83ZFfA4hCPTkw.jpeg",
+      "channel": "NewsX Live",
+      "duration": "5:48",
+      "platform": "YouTube",
+      "date": "02‏/06‏/2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR0AGGRmZ3PCkWaE3jBmHF21TxZikpHrNGUlA"
+    }
+  ],
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "‪India could be moving from paper notes to plastic currency. ...‬‏ من قِبل ‪Mohmed Abubacker Samsudeen‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 1:48",
+      "source": "Instagram",
+      "profile_name": "Mohmed Abubacker Samsudeen",
+      "extensions": [
+        "Mohmed Abubacker Samsudeen"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "duration": "1:48",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/r1x4WXrp6YlSCBEQFlHKFZuz4otEAN_OxX8FHiWpRco.jpeg",
+      "link": "https://www.instagram.com/reel/Ddd_Nh2pQgk/"
+    },
+    {
+      "position": 2,
+      "title": "‪💵 India's Money May Soon Move from Paper to Plastic ...‬‏ من قِبل ‪Punam Gogoi‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 2:20",
+      "source": "Facebook",
+      "profile_name": "Punam Gogoi",
+      "extensions": [
+        "Punam Gogoi"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "2:20",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/Aa1ZkCnNT8jLVoBKWbL1Jev50sfu7PJhJQzoBh_6tSs.jpeg",
+      "link": "https://www.facebook.com/punamgogoi.official/posts/-indias-money-may-soon-move-from-paper-to-plastic-banknotesindia-is-considering-/10240958126117852/"
+    },
+    {
+      "position": 3,
+      "title": "‪The government has approved ₹10 and ₹20 polymer ...‬‏ من قِبل ‪Marketing Stories‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 0:05",
+      "source": "Instagram",
+      "profile_name": "Marketing Stories",
+      "extensions": [
+        "Marketing Stories"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "duration": "0:05",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/9b_vJaJB5-J3x9SkPur382rOunGaGFCb5p2ocN2nqNE.jpeg",
+      "link": "https://www.instagram.com/marketing_mirrors/reel/Dch_d4Iz031/?hl=ja"
+    },
+    {
+      "position": 4,
+      "title": "‪Big news for Indian currency! 🇮🇳 Paper notes are being ...‬‏ من قِبل ‪sara fatima‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:11",
+      "source": "Facebook",
+      "profile_name": "sara fatima",
+      "extensions": [
+        "sara fatima"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:11",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/hsDgnsnHZ8JGzAwF2aToknrObx_6cHNOastLMcSB690.jpeg",
+      "link": "https://www.facebook.com/Sarujaanu997/videos/big-news-for-indian-currency-paper-notes-are-being-replaced-by-polymer-ones-in-j/1952797531961874/"
+    },
+    {
+      "position": 5,
+      "title": "‪India may soon see plastic currency — but not a replacement ...‬‏ من قِبل ‪Rajnish Mehan on Current Affairs‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:06",
+      "source": "Facebook",
+      "profile_name": "Rajnish Mehan on Current Affairs",
+      "extensions": [
+        "Rajnish Mehan on Current Affairs"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:06",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSItQAZyiCxTh9g9aqTpPYZhokx7JBcil0mIUA7J4HnOp06Zc_OBg9_p2w&s=10",
+      "link": "https://www.facebook.com/61592721714496/videos/-india-may-soon-see-plastic-currency-but-not-a-replacement-for-paper-notesthe-go/1585888686306061/"
+    },
+    {
+      "position": 6,
+      "title": "Will India Replace Paper Notes with Plastic Currency?",
+      "source": "YouTube",
+      "profile_name": "Siingh's Classes",
+      "extensions": [
+        "Siingh's Classes"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "duration": "2:00",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQxWcTLPZ2Rhx6N6HIvSAZVJjwLh_QQtF9m1A",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMlgK-QkDzesvjJYmPYR8huGpi9o13-O9yLtqrIlYA4zZPhJRYHMcGd2g&s",
+      "link": "https://www.youtube.com/shorts/tsXWOlkL1Ng"
+    },
+    {
+      "position": 7,
+      "title": "‪India Considers Switch to Plastic Currency Notes‬‏ من قِبل ‪Now India‬‏ على ‪LinkedIn‬‏. التشغيل على ‪LinkedIn‬‏. 0:45",
+      "source": "LinkedIn",
+      "profile_name": "Now India",
+      "extensions": [
+        "Now India"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "duration": "0:45",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeibLyFjUNtsjHGosyyCB_fpF7Vl0vOZHaUjptp1wrlC1pb8DfovfX9bI&s=10",
+      "link": "https://www.linkedin.com/posts/now-india_plasticnotes-rbi-indianeconomy-activity-7467189719202885632-hV7_"
+    },
+    {
+      "position": 8,
+      "title": "‪The Reserve Bank of India is officially preparing to transition ...‬‏ من قِبل ‪HUSSAIN AHMED‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 2:19",
+      "source": "Instagram",
+      "profile_name": "HUSSAIN AHMED",
+      "extensions": [
+        "HUSSAIN AHMED"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "duration": "2:19",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnDZyYuUzhzVAOBGb4Vj0KrmtFQLNBZVBhgd02c8Mf6pI19qWlFobPtc&s=10",
+      "link": "https://www.instagram.com/reel/DZCsJ0qhb6G/?hl=ar"
+    },
+    {
+      "position": 9,
+      "title": "‪India could soon see polymer (plastic) currency notes! 👀 No ...‬‏ من قِبل ‪LenDen Club‬‏ على ‪Facebook‬‏. التشغيل على ‪Facebook‬‏. 0:44",
+      "source": "Facebook",
+      "profile_name": "LenDen Club",
+      "extensions": [
+        "LenDen Club"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:44",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclDrPlFi4FPhi9ZEqiSwKtNdK1iDe1kPfSxSLR00Ly0TyOvR2UFMIJKk&s=10",
+      "link": "https://www.facebook.com/lendenclub/videos/india-could-soon-see-polymer-plastic-currency-notes-no-this-isnt-another-demonet/1026991946352384/"
+    },
+    {
+      "position": 10,
+      "title": "‪Indian Plastic Notes are coming soon.. Because the RBI is ...‬‏ من قِبل ‪Chandralekha Mittemari Ravikumar‬‏ على ‪Instagram‬‏. التشغيل على ‪Instagram‬‏. 1:34",
+      "source": "Instagram",
+      "profile_name": "Chandralekha Mittemari Ravikumar",
+      "extensions": [
+        "Chandralekha Mittemari Ravikumar"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "duration": "1:34",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4f1o9iuF30RSvh6GAZ790-2Kba5tQuwTa2Fuenr0ifckNLpnMA5ctorM&s=10",
+      "link": "https://www.instagram.com/reel/DY9t2Zcp6vJ/?hl=ar"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is India changing its currency notes to plastic?",
+      "type": "ai_overview",
+      "page_token": "g9Z7UXicHdBNbqMwAEBh9TJdNjZkmCZSNBIDDrIKCBsb8GYEdhJCzE8CxQm7XqFn6KnmNFPN-m0-vY8vfe4uf58-62kaxu1qZYx5OfX9SR9eZN-uyvHRyZUsta5Kedk6Px346yh3_izd3zfpJmwYuEcAzfGYtpu2sMSjhDqrrItFPTZlHYoJ2iwUDi5fFFYZghHYOKHWHbfuI2nQtUK44ABavFUkTF1HscgkXc0oCyfCI5_bwqM-vMU-Dsm-BwSqPadwSSH5oWzixhnO2eIehae7gou8Wmp88IeyaqeU2mQdNqpTwbAwH9yj75aA-q3KE3PQBeSL-4j3xFF2b2SqcJpyE-rBKaC4ZoGaiwewkhYLHvDrIdAzbXTk19IQMK2LHJ2ri54jgEzskUSl9ftbjtzy3p8TRhbZ6JYtch0HisfZq5V56NtPRtrUogThPd5DkXD8LszzUc47-_n_692fYztth1t_-gf3nI1P",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=g9Z7UXicHdBNbqMwAEBh9TJdNjZkmCZSNBIDDrIKCBsb8GYEdhJCzE8CxQm7XqFn6KnmNFPN-m0-vY8vfe4uf58-62kaxu1qZYx5OfX9SR9eZN-uyvHRyZUsta5Kedk6Px346yh3_izd3zfpJmwYuEcAzfGYtpu2sMSjhDqrrItFPTZlHYoJ2iwUDi5fFFYZghHYOKHWHbfuI2nQtUK44ABavFUkTF1HscgkXc0oCyfCI5_bwqM-vMU-Dsm-BwSqPadwSSH5oWzixhnO2eIehae7gou8Wmp88IeyaqeU2mQdNqpTwbAwH9yj75aA-q3KE3PQBeSL-4j3xFF2b2SqcJpyE-rBKaC4ZoGaiwewkhYLHvDrIdAzbXTk19IQMK2LHJ2ri54jgEzskUSl9ftbjtzy3p8TRhbZ6JYtch0HisfZq5V56NtPRtrUogThPd5DkXD8LszzUc47-_n_692fYztth1t_-gf3nI1P",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IklzIEluZGlhIGNoYW5naW5nIGl0cyBjdXJyZW5jeSBub3RlcyB0byBwbGFzdGljPyIsImxrIjoiR2k5cGN5QnBibVJwWVNCamFHRnVaMmx1WnlCcGRITWdZM1Z5Y21WdVkza2dibTkwWlhNZ2RHOGdjR3hoYzNScFl3IiwiYnMiOiJjNVdRUFF2Q01CQ0djYzNrSmdhUkdfellOR1p3TFlKTEowVUg1ek1ON1VGSUpZa1ZfNzNwaDRxQ2dfUHozTDMzSHROTXBCNVNteEdDS3REbVpIT2c0RUZkbmROVzNjR1dRWHNJSlZ3TS1rQXFrU3UtSkFfMHh3emJzV21Na1VJSU9CdzdISUV4VUtHaExDNkxVSzRUT2VNVDZrVG5mNHRzenhZYnA1Xzd2NU94UWpKNE5ycjJtM0tKSFBQUkQ3dHB3clpzZnFwejJsOFVXR2xBc1ByMnRsOUhEdm1nYmYtQmE5YnZQUUEiLCJpZCI6ImZjXzBHS3hhcWJuSW83QXA4NFB1OG4tcUFrXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IklzIEluZGlhIGNoYW5naW5nIGl0cyBjdXJyZW5jeSBub3RlcyB0byBwbGFzdGljPyIsImxrIjoiR2k5cGN5QnBibVJwWVNCamFHRnVaMmx1WnlCcGRITWdZM1Z5Y21WdVkza2dibTkwWlhNZ2RHOGdjR3hoYzNScFl3IiwiYnMiOiJjNVdRUFF2Q01CQ0djYzNrSmdhUkdfellOR1p3TFlKTEowVUg1ek1ON1VGSUpZa1ZfNzNwaDRxQ2dfUHozTDMzSHROTXBCNVNteEdDS3REbVpIT2c0RUZkbmROVzNjR1dRWHNJSlZ3TS1rQXFrU3UtSkFfMHh3emJzV21Na1VJSU9CdzdISUV4VUtHaExDNkxVSzRUT2VNVDZrVG5mNHRzenhZYnA1Xzd2NU94UWpKNE5ycjJtM0tKSFBQUkQ3dHB3clpzZnFwejJsOFVXR2xBc1ByMnRsOUhEdm1nYmYtQmE5YnZQUUEiLCJpZCI6ImZjXzBHS3hhcWJuSW83QXA4NFB1OG4tcUFrXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is 2000 RS notes still valid in 2026?",
+      "type": "ai_overview",
+      "page_token": "Zxcjw3icHdBRboIwGADg7DI-ChVx0cQsYYCTaBmV_i17WaBFqxToJgLzbXfZqXaaJfuO8H3_6HNT_T70quvMdWVZwzBMT2170uVUtLWVX78aYYlc6yIX1WrxuEBPR7EOblvv-WPrJdQY8Il9sMPX4gJZ6ZO8cMyVbBBAoz5iUHemo4g6crGfAc4raXMUfeVAkGgwBvD6EvRIfTGUOrFZ4Cqo8CACFRSbkZQX7w5phElFwpS6-Y7DHPueIxniEBgKYKqYDU7Cll3MM0f6b4pwPBaN3DMt1SGUr5RBjGeZA433SX0d4-Y0CuZyoO49DlQiWHcra7IhvkRJqnGGiBcoMRC7m2c8PBeV7rEdDrFPEpmq246HXj6254SSu7jomoKZg152-wr1e_TW0ZeoTmduIG3cgh3tGDcHmkyOol87k__P9fux7lbmsz39AX7Xg5w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Zxcjw3icHdBRboIwGADg7DI-ChVx0cQsYYCTaBmV_i17WaBFqxToJgLzbXfZqXaaJfuO8H3_6HNT_T70quvMdWVZwzBMT2170uVUtLWVX78aYYlc6yIX1WrxuEBPR7EOblvv-WPrJdQY8Il9sMPX4gJZ6ZO8cMyVbBBAoz5iUHemo4g6crGfAc4raXMUfeVAkGgwBvD6EvRIfTGUOrFZ4Cqo8CACFRSbkZQX7w5phElFwpS6-Y7DHPueIxniEBgKYKqYDU7Cll3MM0f6b4pwPBaN3DMt1SGUr5RBjGeZA433SX0d4-Y0CuZyoO49DlQiWHcra7IhvkRJqnGGiBcoMRC7m2c8PBeV7rEdDrFPEpmq246HXj6254SSu7jomoKZg152-wr1e_TW0ZeoTmduIG3cgh3tGDcHmkyOol87k__P9fux7lbmsz39AX7Xg5w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IklzIDIwMDAgUlMgbm90ZXMgc3RpbGwgdmFsaWQgaW4gMjAyNj8iLCJsayI6IkdpUnBjeUF5TURBd0lISnpJRzV2ZEdWeklITjBhV3hzSUhaaGJHbGtJR2x1SURJd01qWSIsImJzIjoiYzVXUVBRdkNNQkNHY2Mza0pnYVJHX3pZTkdad0xZSkxKMFVINXpNTjdVRklKWWtWXzczcGg0cUNnX1B6M0wzM0h0Tk1wQjVTbXhHQ0t0RG1aSE9nNEVGZG5kTlczY0dXUVhzSUpWd00ta0Fxa1N1LUpBXzB4d3pic1dtTWtVSUlPQnc3SElFeFVLR2hMQzZMVUs0VE9lTVQ2a1RuZjR0c3p4WWJwNV83djVPeFFqSjROcnIybTNLSkhQUFJEN3Rwd3Jac2ZxcHoybDhVV0dsQXNQcjJ0bDlIRHZtZ2JmLUJhOWJ2UFFBIiwiaWQiOiJmY18wR0t4YXFibklvN0FwODRQdThuLXFBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IklzIDIwMDAgUlMgbm90ZXMgc3RpbGwgdmFsaWQgaW4gMjAyNj8iLCJsayI6IkdpUnBjeUF5TURBd0lISnpJRzV2ZEdWeklITjBhV3hzSUhaaGJHbGtJR2x1SURJd01qWSIsImJzIjoiYzVXUVBRdkNNQkNHY2Mza0pnYVJHX3pZTkdad0xZSkxKMFVINXpNTjdVRklKWWtWXzczcGg0cUNnX1B6M0wzM0h0Tk1wQjVTbXhHQ0t0RG1aSE9nNEVGZG5kTlczY0dXUVhzSUpWd00ta0Fxa1N1LUpBXzB4d3pic1dtTWtVSUlPQnc3SElFeFVLR2hMQzZMVUs0VE9lTVQ2a1RuZjR0c3p4WWJwNV83djVPeFFqSjROcnIybTNLSkhQUFJEN3Rwd3Jac2ZxcHoybDhVV0dsQXNQcjJ0bDlIRHZtZ2JmLUJhOWJ2UFFBIiwiaWQiOiJmY18wR0t4YXFibklvN0FwODRQdThuLXFBa181In0%3D"
+    },
+    {
+      "question": "Are plastic currency notes available in India?",
+      "type": "ai_overview",
+      "page_token": "KAZur3icHdBRbpswAIBh9TJ9bCCETosUVaVAIlpobWzj-GUyNsEEG7zGDSFvvcLOsFP1NKt2gP_h-z__6m7ov27-KOfsab1YTNN0145jq5s7MZoFP82DWAiudc1Fv77_ce8_HMQmOYvo6V1EAFtLYuiV2OI6hjnorQVVATktjjxxe0Jbh7xk4nF_hZQVZaVTHuuu2WWHomcZTiThfjKXR7WSRmdsmz2RrQMyZppUKkA4D0kAgpoyJYxEsicj32WkoqqE5rSkXr7McQEbA59rLR2vwpAurY-2F820vjadvxKUBSWKWLNVCg_SE5S84dnPiG5nSTQh5mcmhzbEhOyKFC_ZEE3f_VueWsxxuP_2fEDjOnh9DBlKz4kSE_Tcak_Tru71ufDS6TWGQCL18ULTiF_GDmB4FUdtMM5neVQDrxTKDYlkoE8gSH8LBHFNoQXYXwFwexDnTXD7__Xm18G4tX0f238s8Y92",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KAZur3icHdBRbpswAIBh9TJ9bCCETosUVaVAIlpobWzj-GUyNsEEG7zGDSFvvcLOsFP1NKt2gP_h-z__6m7ov27-KOfsab1YTNN0145jq5s7MZoFP82DWAiudc1Fv77_ce8_HMQmOYvo6V1EAFtLYuiV2OI6hjnorQVVATktjjxxe0Jbh7xk4nF_hZQVZaVTHuuu2WWHomcZTiThfjKXR7WSRmdsmz2RrQMyZppUKkA4D0kAgpoyJYxEsicj32WkoqqE5rSkXr7McQEbA59rLR2vwpAurY-2F820vjadvxKUBSWKWLNVCg_SE5S84dnPiG5nSTQh5mcmhzbEhOyKFC_ZEE3f_VueWsxxuP_2fEDjOnh9DBlKz4kSE_Tcak_Tru71ufDS6TWGQCL18ULTiF_GDmB4FUdtMM5neVQDrxTKDYlkoE8gSH8LBHFNoQXYXwFwexDnTXD7__Xm18G4tX0f238s8Y92",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IkFyZSBwbGFzdGljIGN1cnJlbmN5IG5vdGVzIGF2YWlsYWJsZSBpbiBJbmRpYT8iLCJsayI6IkdoeHdiR0Z6ZEdsaklHTjFjbkpsYm1ONUlHNXZkR1Z6SUdsdVpHbGgiLCJicyI6ImM1V1FQUXZDTUJDR2NjM2tKZ2FSR196WU5HWndMWUpMSjBVSDV6TU43VUZJSllrVl83M3BoNHFDZ19QejNMMzNIdE5NcEI1U214R0NLdERtWkhPZzRFRmRuZE5XM2NHV1FYc0lKVndNLWtBcWtTdS1KQV8weHd6YnNXbU1rVUlJT0J3N0hJRXhVS0doTEM2TFVLNFRPZU1UNmtUbmY0dHN6eFlicDVfN3Y1T3hRako0TnJyMm0zS0pIUFBSRDd0cHdyWnNmcXB6Mmw4VVdHbEFzUHIydGw5SER2bWdiZi1CYTlidlBRQSIsImlkIjoiZmNfMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IkFyZSBwbGFzdGljIGN1cnJlbmN5IG5vdGVzIGF2YWlsYWJsZSBpbiBJbmRpYT8iLCJsayI6IkdoeHdiR0Z6ZEdsaklHTjFjbkpsYm1ONUlHNXZkR1Z6SUdsdVpHbGgiLCJicyI6ImM1V1FQUXZDTUJDR2NjM2tKZ2FSR196WU5HWndMWUpMSjBVSDV6TU43VUZJSllrVl83M3BoNHFDZ19QejNMMzNIdE5NcEI1U214R0NLdERtWkhPZzRFRmRuZE5XM2NHV1FYc0lKVndNLWtBcWtTdS1KQV8weHd6YnNXbU1rVUlJT0J3N0hJRXhVS0doTEM2TFVLNFRPZU1UNmtUbmY0dHN6eFlicDVfN3Y1T3hRako0TnJyMm0zS0pIUFBSRDd0cHdyWnNmcXB6Mmw4VVdHbEFzUHIydGw5SER2bWdiZi1CYTlidlBRQSIsImlkIjoiZmNfMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWtfNSJ9"
+    },
+    {
+      "question": "Will India have a new currency in 2026?",
+      "type": "ai_overview",
+      "page_token": "wD3ozHicHdBfTsIwHADgeBkfoWwyhYQYca0yXc269TfsiyktMLbWTej-wJt38VSexsTvCN_3jzl8Vr9XXeFcc5qPx33fj_Z1vTfbkartWJ7On2qspDEbqap5cBtM7ndqgdvV8vFrtUx400DIULp-cKIkOQWT5nx6yib8JguLgGKDoBIJ5ZGBjK40piYNoyaGppRrwjViRVY5915FA7MaGBIeWPcqQtrKfNZldogYCC8tk-mWu5hb7cW-OgOeVbFnUuDxRSL3oqu7AYzpk3zYbZ8Iop4ziaGt4hSpiS5if49iAs_g4akCnW4x6SSmtfB1JvkU6acGMx-AlUUAfsRwoXqG3M37mhw2lekoIv1byBKdFe3rmizlUB8Szi6qNJZPIqvxcEyRaEUIhPvLKIUokAj8DZpRkVPLk-ud6hb-9f_n4mNn3bw51vs_FP2Cdg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wD3ozHicHdBfTsIwHADgeBkfoWwyhYQYca0yXc269TfsiyktMLbWTej-wJt38VSexsTvCN_3jzl8Vr9XXeFcc5qPx33fj_Z1vTfbkartWJ7On2qspDEbqap5cBtM7ndqgdvV8vFrtUx400DIULp-cKIkOQWT5nx6yib8JguLgGKDoBIJ5ZGBjK40piYNoyaGppRrwjViRVY5915FA7MaGBIeWPcqQtrKfNZldogYCC8tk-mWu5hb7cW-OgOeVbFnUuDxRSL3oqu7AYzpk3zYbZ8Iop4ziaGt4hSpiS5if49iAs_g4akCnW4x6SSmtfB1JvkU6acGMx-AlUUAfsRwoXqG3M37mhw2lekoIv1byBKdFe3rmizlUB8Szi6qNJZPIqvxcEyRaEUIhPvLKIUokAj8DZpRkVPLk-ud6hb-9f_n4mNn3bw51vs_FP2Cdg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IldpbGwgSW5kaWEgaGF2ZSBhIG5ldyBjdXJyZW5jeSBpbiAyMDI2PyIsImxrIjoiR2hkcGJtUnBZU0J1WlhjZ1kzVnljbVZ1WTNrZ01qQXlOZyIsImJzIjoiYzVXUVBRdkNNQkNHY2Mza0pnYVJHX3pZTkdad0xZSkxKMFVINXpNTjdVRklKWWtWXzczcGg0cUNnX1B6M0wzM0h0Tk1wQjVTbXhHQ0t0RG1aSE9nNEVGZG5kTlczY0dXUVhzSUpWd00ta0Fxa1N1LUpBXzB4d3pic1dtTWtVSUlPQnc3SElFeFVLR2hMQzZMVUs0VE9lTVQ2a1RuZjR0c3p4WWJwNV83djVPeFFqSjROcnIybTNLSkhQUFJEN3Rwd3Jac2ZxcHoybDhVV0dsQXNQcjJ0bDlIRHZtZ2JmLUJhOWJ2UFFBIiwiaWQiOiJmY18wR0t4YXFibklvN0FwODRQdThuLXFBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWJXVlZaV1ExZFY5bWNuVk1OWFZmWXpVdFRuYzFhVzVoVDFJemRqUTJVWFJxUmpOMU1tUnpXbUV5Vm5BMVZtbzJORVZQT0RCRlFWQnhaME5EVkRodVN6UnlVbEZpVUhkNVdWQmlRbWxwVFRSWUxXZEtOMGxGVjNsUlp4SVhNRWRMZUdGeFltNUpiemRCY0RnMFVIVTRiaTF4UVdzYUlrRkVjM0k1WmxKR05UZG5YMlpTVVdSZlZVbHJSMjh5ZFZwalZWZEZaV3huYVhjIiwiZmN2IjoiMyIsImVpIjoiMEdLeGFxYm5JbzdBcDg0UHU4bi1xQWsiLCJxYyI6ImMtTXl5c3hMeVV4VUtFcE56TW1wQkZJRk9ZbkptWG5wQ2dXSkJhbEZDc21sUlVXcGVjbVZDa0RoNHBMTVpBVWpBeU5UQVliYWxBSXBld0EiLCJxdWVzdGlvbiI6IldpbGwgSW5kaWEgaGF2ZSBhIG5ldyBjdXJyZW5jeSBpbiAyMDI2PyIsImxrIjoiR2hkcGJtUnBZU0J1WlhjZ1kzVnljbVZ1WTNrZ01qQXlOZyIsImJzIjoiYzVXUVBRdkNNQkNHY2Mza0pnYVJHX3pZTkdad0xZSkxKMFVINXpNTjdVRklKWWtWXzczcGg0cUNnX1B6M0wzM0h0Tk1wQjVTbXhHQ0t0RG1aSE9nNEVGZG5kTlczY0dXUVhzSUpWd00ta0Fxa1N1LUpBXzB4d3pic1dtTWtVSUlPQnc3SElFeFVLR2hMQzZMVUs0VE9lTVQ2a1RuZjR0c3p4WWJwNV83djVPeFFqSjROcnIybTNLSkhQUFJEN3Rwd3Jac2ZxcHoybDhVV0dsQXNQcjJ0bDlIRHZtZ2JmLUJhOWJ2UFFBIiwiaWQiOiJmY18wR0t4YXFibklvN0FwODRQdThuLXFBa181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "YUuRBHiczZXbcuI4EEA_YL9jeSFgm0uAVLmmJOEYcwkohBDmxSVkIxvwBZtr3vZ9P2O_ar9mZHOxIZDMzMPWusqWLHW3ut193H_9M7fd2b9__G0tl374IAibzSbPPI_NzTz1HIGEO5cKE28eBtT6tlvLxQwNZTFj2rKotrZkMXY1rwL8aqm3qrq5BZhlYhVZH5PQnHKL22ko6AJ_zP4s1vlLPsyTIK94bvjkz_DK6OQLolTLdwXicAHw312aBVA09oFyW4hvaT9lDWOAtLQlCOMBJSubWA4oLN6B0fz6mWhvhzsI4uN7llu2Qq7iHUUaN_2AaXfh6ODcKD4PMAw-C_aKtX0MDFzGcuW6EQ0-MwHU1NYn9tiZn1yQIdgQAWan_fSFcPp4JVKAe4kuBma9CizGPkkjV3jsANoHGvoq2R7SqvB41GPI61UTDMYLVxTGAR8kwaYWjSdBGNUzeqmJnlru1HplYk3XojJ-NQF0pVZ_NTGKOcwEOuZyc48YpqFbuvgtfpcKUlmsFSvVuxgkGp5ICtMkdUbDNRERQ41B_jkPpSNG6FS2F9-Y1xa4GiREB9ErSUkVdrR7UGckJaKdtBUcPetndgZmlI1OslAvAFBK-5FkG4FrGO3nyTTCaO8IB08Bx_SnJPhqU0kMp86Cm48hwvNXDdThsaI0yC4Fz0tdY0ofJB_uwhSXtS0lqtiIgVcaO0TTFaxGxalpF9rR_4EnRVFOZvZBHXSSePjOY_zNoQW5VTYYRPColnZSeAanf9EFByzlRjph0WmP1hfA37y8r0U4NgdeLso_jU3jrR64AeuVN80S9Wm_qw-sLUZs1XjB1zHxnPEvdBz6vwJp34-0Qz-6DZL2UyBhjG73o_006UeRPsQY3wAJ7UH62I9KR5GkH12CBNspkKzP-9GvgoQ-BQknZj6ChGZHnRRI6DZI7ANIdvO8H6VBSvrRCaTf6kfe7_WjmCtzP5w3p9WU3W5S22bD3IHle0VyCr7mvpTuez29PpUaytdNauIsHxxizO9023iAheZyZ9zpfMF7MI3MQrZdwybZwCTz-Y4P_pxQ22VZn_hmkKWrIDBdusvy5XBp02xBLJQzzjzwZJGUqCvuXGO4aMMqCRF4mm43qjQzladVa1Cu9MZu9w1K9y-uK4lOYABL0a2wbQ6b24kP-7thqaw13rorsnSktrgRDUsCDetp1NNJvY1Gql_YVXPL3Pp7ZTqg7zoZB2rbMzuqrTNQnQbd1n1rOx5tvdkz9dT3nNQVY8dCWXIXr0HuXX3VccYJqMxLohRsnjEYMl6UaMSrifHb4_eG3_cAKzATUqKb4VqeENOslSdSbSJJ1WK1mHHYcufLJSkTuoEs_QBL0kUj",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YUuRBHiczZXbcuI4EEA_YL9jeSFgm0uAVLmmJOEYcwkohBDmxSVkIxvwBZtr3vZ9P2O_ar9mZHOxIZDMzMPWusqWLHW3ut193H_9M7fd2b9__G0tl374IAibzSbPPI_NzTz1HIGEO5cKE28eBtT6tlvLxQwNZTFj2rKotrZkMXY1rwL8aqm3qrq5BZhlYhVZH5PQnHKL22ko6AJ_zP4s1vlLPsyTIK94bvjkz_DK6OQLolTLdwXicAHw312aBVA09oFyW4hvaT9lDWOAtLQlCOMBJSubWA4oLN6B0fz6mWhvhzsI4uN7llu2Qq7iHUUaN_2AaXfh6ODcKD4PMAw-C_aKtX0MDFzGcuW6EQ0-MwHU1NYn9tiZn1yQIdgQAWan_fSFcPp4JVKAe4kuBma9CizGPkkjV3jsANoHGvoq2R7SqvB41GPI61UTDMYLVxTGAR8kwaYWjSdBGNUzeqmJnlru1HplYk3XojJ-NQF0pVZ_NTGKOcwEOuZyc48YpqFbuvgtfpcKUlmsFSvVuxgkGp5ICtMkdUbDNRERQ41B_jkPpSNG6FS2F9-Y1xa4GiREB9ErSUkVdrR7UGckJaKdtBUcPetndgZmlI1OslAvAFBK-5FkG4FrGO3nyTTCaO8IB08Bx_SnJPhqU0kMp86Cm48hwvNXDdThsaI0yC4Fz0tdY0ofJB_uwhSXtS0lqtiIgVcaO0TTFaxGxalpF9rR_4EnRVFOZvZBHXSSePjOY_zNoQW5VTYYRPColnZSeAanf9EFByzlRjph0WmP1hfA37y8r0U4NgdeLso_jU3jrR64AeuVN80S9Wm_qw-sLUZs1XjB1zHxnPEvdBz6vwJp34-0Qz-6DZL2UyBhjG73o_006UeRPsQY3wAJ7UH62I9KR5GkH12CBNspkKzP-9GvgoQ-BQknZj6ChGZHnRRI6DZI7ANIdvO8H6VBSvrRCaTf6kfe7_WjmCtzP5w3p9WU3W5S22bD3IHle0VyCr7mvpTuez29PpUaytdNauIsHxxizO9023iAheZyZ9zpfMF7MI3MQrZdwybZwCTz-Y4P_pxQ22VZn_hmkKWrIDBdusvy5XBp02xBLJQzzjzwZJGUqCvuXGO4aMMqCRF4mm43qjQzladVa1Cu9MZu9w1K9y-uK4lOYABL0a2wbQ6b24kP-7thqaw13rorsnSktrgRDUsCDetp1NNJvY1Gql_YVXPL3Pp7ZTqg7zoZB2rbMzuqrTNQnQbd1n1rOx5tvdkz9dT3nNQVY8dCWXIXr0HuXX3VccYJqMxLohRsnjEYMl6UaMSrifHb4_eG3_cAKzATUqKb4VqeENOslSdSbSJJ1WK1mHHYcufLJSkTuoEs_QBL0kUj"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Why India May Soon Replace Paper Notes with Plastic Notes",
+      "link": "https://www.ndtv.com/video/why-india-may-soon-replace-paper-notes-with-plastic-notes-explained-1106786",
+      "displayed_link": "https://www.ndtv.com · ‏31‏/05‏/2026",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/VzOhk03JQHGg-1X4w1S-ITUnCaSUM82R6TX-uNiTGoQ.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPrUurVanIacnG_DgFolsAKwvonqp-DREZEbzNa160cy3odLRXX6A2KAA_tiylXPEc6YXkqB1JqdbJ_0wt_luIZj3g6ya3_m_3_ZtVAb4lHQbesRN54jZ_QjvwVwf_6tD_VodrlOPhLwr_rr2AOfVSn0mqQ08VZiS9zfOJBvU5OJrc0lbLAl4yuEcMieU7vq3eGLWDIcL5UefFA0orIWj5oC58sZUkWqA47wg7fu4r0jPPKk5oAWxpM817ciBIroVQAA.webp",
+      "snippet": "India's currency notes could be set for a major transformation as the Reserve Bank of India considers introducing polymer, or plastic, ...",
+      "duration": "4:31",
+      "about_this_result": {
+        "source": {
+          "description": "India's currency notes could be set for a major transformation as the Reserve Bank of India considers introducing polymer, or plastic, ...",
+          "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPrUurVanIacnG_DgFolsAKwvonqp-DREZEbzNa160cy3odLRXX6A2KAA_tiylXPEc6YXkqB1JqdbJ_0wt_luIZj3g6ya3_m_3_ZtVAb4lHQbesRN54jZ_QjvwVwf_6tD_VodrlOPhLwr_rr2AOfVSn0mqQ08VZiS9zfOJBvU5OJrc0lbLAl4yuEcMieU7vq3eGLWDIcL5UefFA0orIWj5oC58sZUkWqA47wg7fu4r0jPPKk5oAWxpM817ciBIroVQAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhR0t3dlNZSElxajV1Ul9TMWVmR29GT1BhRXhLQlRCUUcyd0RzWndkOXVQSVBmN2FnT2VwUVA1ZEt1VWFxaTNzckxFVXhMTDdZMXhKNFh1cUtwa2g2UVp6NVpZR29lRnBqbWpvVjJkMjBST19xMGEtbDRDMGpidW5pT0V1RVBuQkRRWjZ3WVBzdFVDS0d0NWl5bDN4T3JuZmVHRWtSRG85R3dHNEJHRmVtd1lKazB2NnFTdUJXcjBxTVRqbVRmMWhuekVHY3k0QkRUM1p3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhR0t3dlNZSElxajV1Ul9TMWVmR29GT1BhRXhLQlRCUUcyd0RzWndkOXVQSVBmN2FnT2VwUVA1ZEt1VWFxaTNzckxFVXhMTDdZMXhKNFh1cUtwa2g2UVp6NVpZR29lRnBqbWpvVjJkMjBST19xMGEtbDRDMGpidW5pT0V1RVBuQkRRWjZ3WVBzdFVDS0d0NWl5bDN4T3JuZmVHRWtSRG85R3dHNEJHRmVtd1lKazB2NnFTdUJXcjBxTVRqbVRmMWhuekVHY3k0QkRUM1p3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "NDTV · NDTV"
+    },
+    {
+      "position": 2,
+      "title": "India is set to introduce polymer currency notes from FY28 ...",
+      "link": "https://www.facebook.com/BJP4India/posts/india-is-set-to-introduce-polymer-currency-notes-from-fy28-with-10-and-20-denomi/1530205182487096/",
+      "displayed_link": "أكثر من 660 تفاعل · قبل شهر واحد",
+      "thumbnail": "https://serpapi.com/searches/6ab162d06adf2724e7dc250b/images/VzOhk03JQHGg-1X4w1S-IR5eD7S-CJeGeHnKduHb-50.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "India is preparing to introduce plastic (polymer) banknotes through a pilot project led by the Reserve Bank of India. The initiative aims to ...",
+      "duration": "5:44",
+      "about_this_result": {
+        "source": {
+          "description": "India is preparing to introduce plastic (polymer) banknotes through a pilot project led by the Reserve Bank of India. The initiative aims to ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZSZjRpTjNULV9oTlFGLUhpVzFKS2lOQi1QS3ZESXY4QjY0QWdEQ1YxWXRKc1NqcXB2WTRTYXkyUUM3YnNWWnhWVHQxaHpVTVZ6bnRmc3F3S1RCd3htUFdCa2hXMzM5MDkwX2plbnhEOGpSVHotT0laU3lDUEk4Y21hcEtFcUx2V0ZDRlRxVWNHVVJScDZRX0ZXMkRVVzhFcU5zRjF4RXk4OTdBMDh3XzBtcnQ0cUdfTTFpeXltdC1sZFkwb3YxNXN3Umh5UlJaQW1fZ3lmN0pvWW9OWXVURGFKRURxVVFCX09sdGRKYXVPVHRMcGxZSURVdVF0LU00S0JPY3RDd3gSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZSZjRpTjNULV9oTlFGLUhpVzFKS2lOQi1QS3ZESXY4QjY0QWdEQ1YxWXRKc1NqcXB2WTRTYXkyUUM3YnNWWnhWVHQxaHpVTVZ6bnRmc3F3S1RCd3htUFdCa2hXMzM5MDkwX2plbnhEOGpSVHotT0laU3lDUEk4Y21hcEtFcUx2V0ZDRlRxVWNHVVJScDZRX0ZXMkRVVzhFcU5zRjF4RXk4OTdBMDh3XzBtcnQ0cUdfTTFpeXltdC1sZFkwb3YxNXN3Umh5UlJaQW1fZ3lmN0pvWW9OWXVURGFKRURxVVFCX09sdGRKYXVPVHRMcGxZSURVdVF0LU00S0JPY3RDd3gSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook · Bharatiya Janata Party (BJP)"
+    },
+    {
+      "position": 3,
+      "title": "Is RBI replacing paper currency with plastic notes from ...",
+      "link": "https://m.economictimes.com/wealth/save/is-rbi-replacing-paper-currency-with-plastic-notes-from-june-30-2026-check-details/articleshow/131629763.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFUl5y9y9BiigGed7hRnpwz7NdJCLwsoh3RHMNsHijWb108xkAc_scWGzKtqP978QepeiskxtitZ4AeGJKtAKrAKA3g678tl4V9wCt3vTq8kSPXDnZb30H2dESBNeRJTOifJrbzpJ9jgkBuDVpMBGuWNp8xm0g920-gIEF9dPcHkdXrzHn1TAslZ3E4rLgCuav3DUgrT0uUUeLe_5ujHmMSoKE95OuRgB5d09TGPduwRzHJBAX3lBGXVCXQ9xxxZnH3uETXJOZQix&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://m.economictimes.com › save",
+      "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAKwy6M4BtGUG_e7Uf_IM7saSf5E0ERQAAP6cqPZjr7J-9SavpOBfLsbhlRwsMG_a8Rbp-_R4cS-RyVWgx5cgvXgNo_-N4_cBT3AAfxeKB3GuT5gvQ2UDKHi3eJKJK7jykwBhT-W8b8M_9sh_hHbBkT3H1HVTQjuw2pclgD91RkaQw8HgF_E7-Uesx4U0eMZZ9A1fwXZEgmRpqxY79imRAM-wGZUCybLSh9vT7Cu1eXa4O844RnSmSGtBnZe52XwjAOzZeq5f8f8NlC3MH6AA.webp",
+      "date": "10‏/06‏/2026",
+      "snippet": "Viral social media claims about the Reserve Bank of India replacing paper currency with plastic notes by June 30, 2026, are false.",
+      "snippet_highlighted_words": [
+        "India replacing paper currency",
+        "plastic"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Viral social media claims about the Reserve Bank of India replacing paper currency with plastic notes by June 30, 2026, are false.",
+          "source_info_link": "https://m.economictimes.com/wealth/save/is-rbi-replacing-paper-currency-with-plastic-notes-from-june-30-2026-check-details/articleshow/131629763.cms",
+          "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAKwy6M4BtGUG_e7Uf_IM7saSf5E0ERQAAP6cqPZjr7J-9SavpOBfLsbhlRwsMG_a8Rbp-_R4cS-RyVWgx5cgvXgNo_-N4_cBT3AAfxeKB3GuT5gvQ2UDKHi3eJKJK7jykwBhT-W8b8M_9sh_hHbBkT3H1HVTQjuw2pclgD91RkaQw8HgF_E7-Uesx4U0eMZZ9A1fwXZEgmRpqxY79imRAM-wGZUCybLSh9vT7Cu1eXa4O844RnSmSGtBnZe52XwjAOzZeq5f8f8NlC3MH6AA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZVbDV5OXk5QmlpZ0dlZDdoUm5wd3o3TmRKQ0x3c29oM1JITU5zSGlqV2IxMDh4a0FjX3NjV0d6S3RxUDk3OFFlcGVpc2t4dGl0WjRBZUdKS3RBS3JBS0EzZzY3OHRsNFY5d0N0M3ZUcThrU1BYRG5aYjMwSDJkRVNCTmVSSlRPaWZKcmJ6cEo5amdrQnVEVnBNQkd1V05wOHhtMGc5MjAtZ0lFRjlkUGNIa2RYcnpIbjFUQXNsWjNFNHJMZ0N1YXYzRFVnclQwdVVVZUxlXzV1akhtTVNvS0U5NU91UmdCNWQwOVRHUGR1d1J6SEpCQVgzbEJHWFZDWFE5eHh4Wm5IM3VFVFhKT1pRaXgSBBoCCAAa4AkSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC6CQgAEAAYACAAKkIKBWluZGlhFZ2tTUAaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2KcqpAEKBnJlYWxseRUAAAAAGghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoI2LHZitmE2YoaCNmB2LnZhNinGgtpdjtkO3JlYWxseRoNaXY7ZDthY3R1YWxseRoOaXY7ZDtleHRyZW1lbHkaCml2O2Q7dHJ1bHkaCWl2O2Q7dmVyeRoNaXY7ZDvYsdmK2YTZihoNaXY7ZDvZgdi52YTYpyprCglyZXBsYWNpbmcV-gp0QBoHcmVwbGFjZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50Gg7Yp9iz2KrYqNiv2KfZhBoMaXY7ZDtyZXBsYWNlGhNpdjtkO9in2LPYqtio2K_Yp9mEGgZjaGFuZ2UqgwEKBXBhcGVyFW_Ep0AaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaCNio2KfYqNixGgbZiNix2YIaDXBhcGVyY3VycmVuY3kaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgipSCghjdXJyZW5jeRWKk6NAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeRoKaXY7ZDttb25leSpeCgdwbGFzdGljFXrtgkAaDtio2YTYp9iz2KrZitmDGgxpdjtkO3BsYXN0aWMaDWl2O2Q7cGxhc3RpY3MaDGl2O2Q7cG9seW1lchoTaXY7ZDvYqNmE2KfYs9iq2YrZgyoWCgQyMDI1FWbXTz4aCWl2O247MjAyNTKiAi9nb3RvP3VybD1DQUVTelFFQjZ6c3dGVWw1eTl5OUJpaWdHZWQ3aFJucHd6N05kSkNMd3NvaDNSSE1Oc0hpaldiMTA4eGtBY19zY1dHekt0cVA5NzhRZXBlaXNreHRpdFo0QWVHSkt0QUtyQUtBM2c2Nzh0bDRWOXdDdDN2VHE4a1NQWERuWmIzMEgyZEVTQk5lUkpUT2lmSnJienBKOWpna0J1RFZwTUJHdVdOcDh4bTBnOTIwLWdJRUY5ZFBjSGtkWHJ6SG4xVEFzbFozRTRyTGdDdWF2M0RVZ3JUMHVVVWVMZV81dWpIbU1Tb0tFOTVPdVJnQjVkMDlUR1BkdXdSekhKQkFYM2xCR1hWQ1hROXh4eFpuSDN1RVRYSk9aUWl4Ok5JcyBSQkkgPGI-cmVwbGFjaW5nIHBhcGVyIGN1cnJlbmN5PC9iPiB3aXRoIDxiPnBsYXN0aWM8L2I-IG5vdGVzIGZyb20gSnVuZSAuLi5CkAFWaXJhbCBzb2NpYWwgbWVkaWEgY2xhaW1zIGFib3V0IHRoZSBSZXNlcnZlIEJhbmsgb2YgPGI-SW5kaWEgcmVwbGFjaW5nIHBhcGVyIGN1cnJlbmN5PC9iPiB3aXRoIDxiPnBsYXN0aWM8L2I-IG5vdGVzIGJ5IEp1bmUgMzAsIDIwMjYsIGFyZSBmYWxzZS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZVbDV5OXk5QmlpZ0dlZDdoUm5wd3o3TmRKQ0x3c29oM1JITU5zSGlqV2IxMDh4a0FjX3NjV0d6S3RxUDk3OFFlcGVpc2t4dGl0WjRBZUdKS3RBS3JBS0EzZzY3OHRsNFY5d0N0M3ZUcThrU1BYRG5aYjMwSDJkRVNCTmVSSlRPaWZKcmJ6cEo5amdrQnVEVnBNQkd1V05wOHhtMGc5MjAtZ0lFRjlkUGNIa2RYcnpIbjFUQXNsWjNFNHJMZ0N1YXYzRFVnclQwdVVVZUxlXzV1akhtTVNvS0U5NU91UmdCNWQwOVRHUGR1d1J6SEpCQVgzbEJHWFZDWFE5eHh4Wm5IM3VFVFhKT1pRaXgSBBoCCAAa4AkSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkC6CQgAEAAYACAAKkIKBWluZGlhFZ2tTUAaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2KcqpAEKBnJlYWxseRUAAAAAGghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoI2LHZitmE2YoaCNmB2LnZhNinGgtpdjtkO3JlYWxseRoNaXY7ZDthY3R1YWxseRoOaXY7ZDtleHRyZW1lbHkaCml2O2Q7dHJ1bHkaCWl2O2Q7dmVyeRoNaXY7ZDvYsdmK2YTZihoNaXY7ZDvZgdi52YTYpyprCglyZXBsYWNpbmcV-gp0QBoHcmVwbGFjZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50Gg7Yp9iz2KrYqNiv2KfZhBoMaXY7ZDtyZXBsYWNlGhNpdjtkO9in2LPYqtio2K_Yp9mEGgZjaGFuZ2UqgwEKBXBhcGVyFW_Ep0AaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaCNio2KfYqNixGgbZiNix2YIaDXBhcGVyY3VycmVuY3kaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgipSCghjdXJyZW5jeRWKk6NAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeRoKaXY7ZDttb25leSpeCgdwbGFzdGljFXrtgkAaDtio2YTYp9iz2KrZitmDGgxpdjtkO3BsYXN0aWMaDWl2O2Q7cGxhc3RpY3MaDGl2O2Q7cG9seW1lchoTaXY7ZDvYqNmE2KfYs9iq2YrZgyoWCgQyMDI1FWbXTz4aCWl2O247MjAyNTKiAi9nb3RvP3VybD1DQUVTelFFQjZ6c3dGVWw1eTl5OUJpaWdHZWQ3aFJucHd6N05kSkNMd3NvaDNSSE1Oc0hpaldiMTA4eGtBY19zY1dHekt0cVA5NzhRZXBlaXNreHRpdFo0QWVHSkt0QUtyQUtBM2c2Nzh0bDRWOXdDdDN2VHE4a1NQWERuWmIzMEgyZEVTQk5lUkpUT2lmSnJienBKOWpna0J1RFZwTUJHdVdOcDh4bTBnOTIwLWdJRUY5ZFBjSGtkWHJ6SG4xVEFzbFozRTRyTGdDdWF2M0RVZ3JUMHVVVWVMZV81dWpIbU1Tb0tFOTVPdVJnQjVkMDlUR1BkdXdSekhKQkFYM2xCR1hWQ1hROXh4eFpuSDN1RVRYSk9aUWl4Ok5JcyBSQkkgPGI-cmVwbGFjaW5nIHBhcGVyIGN1cnJlbmN5PC9iPiB3aXRoIDxiPnBsYXN0aWM8L2I-IG5vdGVzIGZyb20gSnVuZSAuLi5CkAFWaXJhbCBzb2NpYWwgbWVkaWEgY2xhaW1zIGFib3V0IHRoZSBSZXNlcnZlIEJhbmsgb2YgPGI-SW5kaWEgcmVwbGFjaW5nIHBhcGVyIGN1cnJlbmN5PC9iPiB3aXRoIDxiPnBsYXN0aWM8L2I-IG5vdGVzIGJ5IEp1bmUgMzAsIDIwMjYsIGFyZSBmYWxzZS4iAhABSABYAGgA",
+      "source": "The Economic Times"
+    },
+    {
+      "position": 4,
+      "title": "India may soon replace paper currency with plastic notes In ...",
+      "link": "https://www.linkedin.com/posts/camohit-sardana_india-may-soon-replace-paper-currency-with-activity-7467437364945080320-NieL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESswEB6zswFbHxy7wiAEKCUlO62d8GoVd0sycMjknM8UvM_ajNbviTM4-PEyuVA-v-hhKb3PXx19C_9i_p4fCIrz8_8ZZz6Ticcj8y0Hpr0heaQmtwaSX3F31Apxxb_OVM6M3AD-6GgnzUuZbh0TZLW0sg_yuFj5PlcOn-HwqJCByU8RQ6UMqHZqQh-RdkiiEPESFtRVIUWSefJAXCXo4U6QPVLK0rhLoZzzaBgk-sW6wvm5dgSQ&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQFnoECDoQAQ&uoh=1",
+      "displayed_link": "أكثر من 1.7 ألف تفاعل · قبل 3 أشهر",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "India may soon replace paper currency with plastic notes In FY25, nearly 24 billion banknotes became damaged, soiled, or unfit for circulation ...",
+      "snippet_highlighted_words": [
+        "India may soon replace paper currency with plastic notes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "India may soon replace paper currency with plastic notes In FY25, nearly 24 billion banknotes became damaged, soiled, or unfit for circulation ...",
+          "source_info_link": "https://www.linkedin.com/posts/camohit-sardana_india-may-soon-replace-paper-currency-with-activity-7467437364945080320-NieL",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZiSHh5N3dpQUVLQ1VsTzYyZDhHb1ZkMHN5Y01qa25NOFV2TV9hak5idmlUTTQtUEV5dVZBLXYtaGhLYjNQWHgxOUNfOWlfcDRmQ0lyejhfOFpaejZUaWNjajh5MEhwcjBoZWFRbXR3YVNYM0YzMUFweHhiX09WTTZNM0FELTZHZ256VXVaYmgwVFpMVzBzZ195dUZqNVBsY09uLUh3cUpDQnlVOFJRNlVNcUhacVFoLVJka2lpRVBFU0Z0UlZJVVdTZWZKQVhDWG80VTZRUFZMSzByaExvWnp6YUJnay1zVzZ3dm01ZGdTURIEGgIIABrQCRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCsCQgAEAAYACAAKkIKBWluZGlhFYm8mEAaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2KcqpAEKBnJlYWxseRX24ko-GghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoI2LHZitmE2YoaCNmB2LnZhNinGgtpdjtkO3JlYWxseRoNaXY7ZDthY3R1YWxseRoOaXY7ZDtleHRyZW1lbHkaCml2O2Q7dHJ1bHkaCWl2O2Q7dmVyeRoNaXY7ZDvYsdmK2YTZihoNaXY7ZDvZgdi52YTYpyprCglyZXBsYWNpbmcV4pWyPxoHcmVwbGFjZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50Gg7Yp9iz2KrYqNiv2KfZhBoMaXY7ZDtyZXBsYWNlGhNpdjtkO9in2LPYqtio2K_Yp9mEGgZjaGFuZ2UqgwEKBXBhcGVyFdwBjkAaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaCNio2KfYqNixGgbZiNix2YIaDXBhcGVyY3VycmVuY3kaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgipSCghjdXJyZW5jeRWcO7hAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeRoKaXY7ZDttb25leSpeCgdwbGFzdGljFfY1dEAaDtio2YTYp9iz2KrZitmDGgxpdjtkO3BsYXN0aWMaDWl2O2Q7cGxhc3RpY3MaDGl2O2Q7cG9seW1lchoTaXY7ZDvYqNmE2KfYs9iq2YrZgyoWCgQyMDI1FQAAAAAaCWl2O247MjAyNTKAAi9nb3RvP3VybD1DQUVTc3dFQjZ6c3dGYkh4eTd3aUFFS0NVbE82MmQ4R29WZDBzeWNNamtuTThVdk1fYWpOYnZpVE00LVBFeXVWQS12LWhoS2IzUFh4MTlDXzlpX3A0ZkNJcno4XzhaWno2VGljY2o4eTBIcHIwaGVhUW10d2FTWDNGMzFBcHh4Yl9PVk02TTNBRC02R2duelV1WmJoMFRaTFcwc2dfeXVGajVQbGNPbi1Id3FKQ0J5VThSUTZVTXFIWnFRaC1SZGtpaUVQRVNGdFJWSVVXU2VmSkFYQ1hvNFU2UVBWTEswcmhMb1p6emFCZ2stc1c2d3ZtNWRnU1E6VDxiPkluZGlhPC9iPiBtYXkgc29vbiA8Yj5yZXBsYWNlIHBhcGVyIGN1cnJlbmN5PC9iPiB3aXRoIDxiPnBsYXN0aWM8L2I-IG5vdGVzIEluIC4uLkKeATxiPkluZGlhIG1heSBzb29uIHJlcGxhY2UgcGFwZXIgY3VycmVuY3kgd2l0aCBwbGFzdGljIG5vdGVzPC9iPiBJbiBGWTI1LCBuZWFybHkgMjQgYmlsbGlvbiBiYW5rbm90ZXMgYmVjYW1lIGRhbWFnZWQsIHNvaWxlZCwgb3IgdW5maXQgZm9yIGNpcmN1bGF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZiSHh5N3dpQUVLQ1VsTzYyZDhHb1ZkMHN5Y01qa25NOFV2TV9hak5idmlUTTQtUEV5dVZBLXYtaGhLYjNQWHgxOUNfOWlfcDRmQ0lyejhfOFpaejZUaWNjajh5MEhwcjBoZWFRbXR3YVNYM0YzMUFweHhiX09WTTZNM0FELTZHZ256VXVaYmgwVFpMVzBzZ195dUZqNVBsY09uLUh3cUpDQnlVOFJRNlVNcUhacVFoLVJka2lpRVBFU0Z0UlZJVVdTZWZKQVhDWG80VTZRUFZMSzByaExvWnp6YUJnay1zVzZ3dm01ZGdTURIEGgIIABrQCRIAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkCsCQgAEAAYACAAKkIKBWluZGlhFYm8mEAaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2KcqpAEKBnJlYWxseRX24ko-GghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoI2LHZitmE2YoaCNmB2LnZhNinGgtpdjtkO3JlYWxseRoNaXY7ZDthY3R1YWxseRoOaXY7ZDtleHRyZW1lbHkaCml2O2Q7dHJ1bHkaCWl2O2Q7dmVyeRoNaXY7ZDvYsdmK2YTZihoNaXY7ZDvZgdi52YTYpyprCglyZXBsYWNpbmcV4pWyPxoHcmVwbGFjZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50Gg7Yp9iz2KrYqNiv2KfZhBoMaXY7ZDtyZXBsYWNlGhNpdjtkO9in2LPYqtio2K_Yp9mEGgZjaGFuZ2UqgwEKBXBhcGVyFdwBjkAaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaCNio2KfYqNixGgbZiNix2YIaDXBhcGVyY3VycmVuY3kaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgipSCghjdXJyZW5jeRWcO7hAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeRoKaXY7ZDttb25leSpeCgdwbGFzdGljFfY1dEAaDtio2YTYp9iz2KrZitmDGgxpdjtkO3BsYXN0aWMaDWl2O2Q7cGxhc3RpY3MaDGl2O2Q7cG9seW1lchoTaXY7ZDvYqNmE2KfYs9iq2YrZgyoWCgQyMDI1FQAAAAAaCWl2O247MjAyNTKAAi9nb3RvP3VybD1DQUVTc3dFQjZ6c3dGYkh4eTd3aUFFS0NVbE82MmQ4R29WZDBzeWNNamtuTThVdk1fYWpOYnZpVE00LVBFeXVWQS12LWhoS2IzUFh4MTlDXzlpX3A0ZkNJcno4XzhaWno2VGljY2o4eTBIcHIwaGVhUW10d2FTWDNGMzFBcHh4Yl9PVk02TTNBRC02R2duelV1WmJoMFRaTFcwc2dfeXVGajVQbGNPbi1Id3FKQ0J5VThSUTZVTXFIWnFRaC1SZGtpaUVQRVNGdFJWSVVXU2VmSkFYQ1hvNFU2UVBWTEswcmhMb1p6emFCZ2stc1c2d3ZtNWRnU1E6VDxiPkluZGlhPC9iPiBtYXkgc29vbiA8Yj5yZXBsYWNlIHBhcGVyIGN1cnJlbmN5PC9iPiB3aXRoIDxiPnBsYXN0aWM8L2I-IG5vdGVzIEluIC4uLkKeATxiPkluZGlhIG1heSBzb29uIHJlcGxhY2UgcGFwZXIgY3VycmVuY3kgd2l0aCBwbGFzdGljIG5vdGVzPC9iPiBJbiBGWTI1LCBuZWFybHkgMjQgYmlsbGlvbiBiYW5rbm90ZXMgYmVjYW1lIGRhbWFnZWQsIHNvaWxlZCwgb3IgdW5maXQgZm9yIGNpcmN1bGF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "LinkedIn · Mohit Sardana"
+    },
+    {
+      "position": 5,
+      "title": "What if India's next currency upgrade isn't digital… but ...",
+      "link": "https://www.instagram.com/reel/DZbmgnDsp6d/?hl=ar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVikGhNuC2BN_iKBdxBh4-6BdyT_EgDwFLoSkNBvtN3AVWCnnHEaBAkxDqvQZ6mm6_O3uK61-vDck8mor8danabnvdmnURhS7e5Jk8ooBGr6IQFTMpLcTJfenz1Lx7f2NRgGBTrA&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQFnoECDgQAQ&uoh=1",
+      "displayed_link": "أكثر من 180 معجب · قبل 3 أشهر",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "India could one day move from paper currency to polymer banknotes? ... There is no confirmed date for replacing all Indian paper currency.",
+      "snippet_highlighted_words": [
+        "There is no confirmed date for replacing all Indian paper currency"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "India could one day move from paper currency to polymer banknotes? ... There is no confirmed date for replacing all Indian paper currency.",
+          "source_info_link": "https://www.instagram.com/reel/DZbmgnDsp6d/?hl=ar",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlrR2hOdUMyQk5faUtCZHhCaDQtNkJkeVRfRWdEd0ZMb1NrTkJ2dE4zQVZXQ25uSEVhQkFreERxdlFaNm1tNl9PM3VLNjEtdkRjazhtb3I4ZGFuYWJudmRtblVSaFM3ZTVKazhvb0JHcjZJUUZUTXBMY1RKZmVuejFMeDdmMk5SZ0dCVHJBEgQaAggAGu4IEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQMoICAAQABgAIAAqQgoFaW5kaWEV9OaGQBoK2KfZhtiv2YrYpxoKaXY7ZDtpbmRpYRoLaXY7ZDtpbmRpYW4aD2l2O2Q72KfZhtiv2YrYpyqkAQoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5GgjYsdmK2YTZihoI2YHYudmE2KcaC2l2O2Q7cmVhbGx5Gg1pdjtkO2FjdHVhbGx5Gg5pdjtkO2V4dHJlbWVseRoKaXY7ZDt0cnVseRoJaXY7ZDt2ZXJ5Gg1pdjtkO9ix2YrZhNmKGg1pdjtkO9mB2LnZhNinKmsKCXJlcGxhY2luZxXnk9I-GgdyZXBsYWNlGghyZXBsYWNlZBoLcmVwbGFjZW1lbnQaDtin2LPYqtio2K_Yp9mEGgxpdjtkO3JlcGxhY2UaE2l2O2Q72KfYs9iq2KjYr9in2YQaBmNoYW5nZSqDAQoFcGFwZXIVHZwGQBoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoI2KjYp9io2LEaBtmI2LHZghoNcGFwZXJjdXJyZW5jeRoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKlIKCGN1cnJlbmN5FUobd0AaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5GgppdjtkO21vbmV5Kl4KB3BsYXN0aWMVWBMQQBoO2KjZhNin2LPYqtmK2YMaDGl2O2Q7cGxhc3RpYxoNaXY7ZDtwbGFzdGljcxoMaXY7ZDtwb2x5bWVyGhNpdjtkO9io2YTYp9iz2KrZitmDKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlrR2hOdUMyQk5faUtCZHhCaDQtNkJkeVRfRWdEd0ZMb1NrTkJ2dE4zQVZXQ25uSEVhQkFreERxdlFaNm1tNl9PM3VLNjEtdkRjazhtb3I4ZGFuYWJudmRtblVSaFM3ZTVKazhvb0JHcjZJUUZUTXBMY1RKZmVuejFMeDdmMk5SZ0dCVHJBOmNXaGF0IGlmIDxiPkluZGlhJiMzOTtzPC9iPiBuZXh0IDxiPmN1cnJlbmN5PC9iPiB1cGdyYWRlIGlzbiYjMzk7dCBkaWdpdGFs4oCmIGJ1dCA8Yj5wbGFzdGljPC9iPiAuLi5CkQFJbmRpYSBjb3VsZCBvbmUgZGF5IG1vdmUgZnJvbSBwYXBlciBjdXJyZW5jeSB0byBwb2x5bWVyIGJhbmtub3Rlcz8gLi4uIDxiPlRoZXJlIGlzIG5vIGNvbmZpcm1lZCBkYXRlIGZvciByZXBsYWNpbmcgYWxsIEluZGlhbiBwYXBlciBjdXJyZW5jeTwvYj4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlrR2hOdUMyQk5faUtCZHhCaDQtNkJkeVRfRWdEd0ZMb1NrTkJ2dE4zQVZXQ25uSEVhQkFreERxdlFaNm1tNl9PM3VLNjEtdkRjazhtb3I4ZGFuYWJudmRtblVSaFM3ZTVKazhvb0JHcjZJUUZUTXBMY1RKZmVuejFMeDdmMk5SZ0dCVHJBEgQaAggAGu4IEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQMoICAAQABgAIAAqQgoFaW5kaWEV9OaGQBoK2KfZhtiv2YrYpxoKaXY7ZDtpbmRpYRoLaXY7ZDtpbmRpYW4aD2l2O2Q72KfZhtiv2YrYpyqkAQoGcmVhbGx5FQAAAAAaCGFjdHVhbGx5GglleHRyZW1lbHkaBXRydWx5GgR2ZXJ5GgjYsdmK2YTZihoI2YHYudmE2KcaC2l2O2Q7cmVhbGx5Gg1pdjtkO2FjdHVhbGx5Gg5pdjtkO2V4dHJlbWVseRoKaXY7ZDt0cnVseRoJaXY7ZDt2ZXJ5Gg1pdjtkO9ix2YrZhNmKGg1pdjtkO9mB2LnZhNinKmsKCXJlcGxhY2luZxXnk9I-GgdyZXBsYWNlGghyZXBsYWNlZBoLcmVwbGFjZW1lbnQaDtin2LPYqtio2K_Yp9mEGgxpdjtkO3JlcGxhY2UaE2l2O2Q72KfYs9iq2KjYr9in2YQaBmNoYW5nZSqDAQoFcGFwZXIVHZwGQBoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoI2KjYp9io2LEaBtmI2LHZghoNcGFwZXJjdXJyZW5jeRoKaXY7ZDtwYXBlchoLaXY7ZDtwYXBlcnMaDWl2O2Q72KjYp9io2LEaC2l2O2Q72YjYsdmCKlIKCGN1cnJlbmN5FUobd0AaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5GgppdjtkO21vbmV5Kl4KB3BsYXN0aWMVWBMQQBoO2KjZhNin2LPYqtmK2YMaDGl2O2Q7cGxhc3RpYxoNaXY7ZDtwbGFzdGljcxoMaXY7ZDtwb2x5bWVyGhNpdjtkO9io2YTYp9iz2KrZitmDKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlrR2hOdUMyQk5faUtCZHhCaDQtNkJkeVRfRWdEd0ZMb1NrTkJ2dE4zQVZXQ25uSEVhQkFreERxdlFaNm1tNl9PM3VLNjEtdkRjazhtb3I4ZGFuYWJudmRtblVSaFM3ZTVKazhvb0JHcjZJUUZUTXBMY1RKZmVuejFMeDdmMk5SZ0dCVHJBOmNXaGF0IGlmIDxiPkluZGlhJiMzOTtzPC9iPiBuZXh0IDxiPmN1cnJlbmN5PC9iPiB1cGdyYWRlIGlzbiYjMzk7dCBkaWdpdGFs4oCmIGJ1dCA8Yj5wbGFzdGljPC9iPiAuLi5CkQFJbmRpYSBjb3VsZCBvbmUgZGF5IG1vdmUgZnJvbSBwYXBlciBjdXJyZW5jeSB0byBwb2x5bWVyIGJhbmtub3Rlcz8gLi4uIDxiPlRoZXJlIGlzIG5vIGNvbmZpcm1lZCBkYXRlIGZvciByZXBsYWNpbmcgYWxsIEluZGlhbiBwYXBlciBjdXJyZW5jeTwvYj4uIgIQAUgAWABoAA",
+      "source": "Instagram · freishia"
+    },
+    {
+      "position": 6,
+      "title": "Plastic Currency in India 2026, Need, Impact, Latest News",
+      "link": "https://vajiramandravi.com/current-affairs/plastic-currency-in-india/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVdNNpiN0nEJsAuFLwNogyIFuGS6yhGxNQGY9U85qBnsqeJDxZ-wNr1RJW3ksEP8S-66p37u0VWdISI61rAvJc33GEM4nJ-R8xocmOKCse005GM71mP1eMwjcw3tspD5BRPV1zuVtP49ol0q65ZjbTbQcH8ScP6ptF&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://vajiramandravi.com › plastic-...",
+      "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAAAwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vOXjHCGaoNhXgNsBz_9k5ERML1AGdB9cm1qX-Pj8jyLpo_iTO8AAA_vYJo7F9_ibFFRZeLonjA9fiqJhTehHx0mWeyDfN6xBiyFw5akny8uXQ9gen91puamnz1rmo7mJKJDxrgrvRICX0FUNf6wU1vR6R_Eft9FYlkffjV7269wD0ra_bJpKgGQsK9vPzXmPIl5b3ub4O4p-QQfnI8gfPQj3u8MJ-QXJB0xgsE_wBxUdDnqlrN00AdGnb9L84JvS-e_yj3YQA9pvhrf4nfxYNEgVCgR9n1KJ4G92ccRfb_2pP40w2sR4zrhE6K_kUOrdbV7cE35yDQAA.webp",
+      "date": "05‏/08‏/2026",
+      "snippet": "No replacement of paper currency: The Ministry of Finance clarified that polymer banknotes will be issued alongside existing cotton-paper ...",
+      "snippet_highlighted_words": [
+        "No replacement of paper currency"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "No replacement of paper currency: The Ministry of Finance clarified that polymer banknotes will be issued alongside existing cotton-paper ...",
+          "source_info_link": "https://vajiramandravi.com/current-affairs/plastic-currency-in-india/",
+          "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAAAwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vOXjHCGaoNhXgNsBz_9k5ERML1AGdB9cm1qX-Pj8jyLpo_iTO8AAA_vYJo7F9_ibFFRZeLonjA9fiqJhTehHx0mWeyDfN6xBiyFw5akny8uXQ9gen91puamnz1rmo7mJKJDxrgrvRICX0FUNf6wU1vR6R_Eft9FYlkffjV7269wD0ra_bJpKgGQsK9vPzXmPIl5b3ub4O4p-QQfnI8gfPQj3u8MJ-QXJB0xgsE_wBxUdDnqlrN00AdGnb9L84JvS-e_yj3YQA9pvhrf4nfxYNEgVCgR9n1KJ4G92ccRfb_2pP40w2sR4zrhE6K_kUOrdbV7cE35yDQAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmROTnBpTjBuRUpzQXVGTHdOb2d5SUZ1R1M2eWhHeE5RR1k5VTg1cUJuc3FlSkR4Wi13TnIxUkpXM2tzRVA4Uy02NnAzN3UwVldkSVNJNjFyQXZKYzMzR0VNNG5KLVI4eG9jbU9LQ3NlMDA1R003MW1QMWVNd2pjdzN0c3BENUJSUFYxenVWdFA0OW9sMHE2NVpqYlRiUWNIOFNjUDZwdEYSBBoCCAAa9ggSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDQCAgAEAAYACAAKkIKBWluZGlhFQ5JykAaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2KcqpAEKBnJlYWxseRUAAAAAGghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoI2LHZitmE2YoaCNmB2LnZhNinGgtpdjtkO3JlYWxseRoNaXY7ZDthY3R1YWxseRoOaXY7ZDtleHRyZW1lbHkaCml2O2Q7dHJ1bHkaCWl2O2Q7dmVyeRoNaXY7ZDvYsdmK2YTZihoNaXY7ZDvZgdi52YTYpyprCglyZXBsYWNpbmcVPzSRPxoHcmVwbGFjZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50Gg7Yp9iz2KrYqNiv2KfZhBoMaXY7ZDtyZXBsYWNlGhNpdjtkO9in2LPYqtio2K_Yp9mEGgZjaGFuZ2UqgwEKBXBhcGVyFW1ZLEAaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaCNio2KfYqNixGgbZiNix2YIaDXBhcGVyY3VycmVuY3kaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgipSCghjdXJyZW5jeRW4xdVAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeRoKaXY7ZDttb25leSpeCgdwbGFzdGljFVGLw0AaDtio2YTYp9iz2KrZitmDGgxpdjtkO3BsYXN0aWMaDWl2O2Q7cGxhc3RpY3MaDGl2O2Q7cG9seW1lchoTaXY7ZDvYqNmE2KfYs9iq2YrZgyoWCgQyMDI1FQRYnz8aCWl2O247MjAyNTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZkTk5waU4wbkVKc0F1Rkx3Tm9neUlGdUdTNnloR3hOUUdZOVU4NXFCbnNxZUpEeFotd05yMVJKVzNrc0VQOFMtNjZwMzd1MFZXZElTSTYxckF2SmMzM0dFTTRuSi1SOHhvY21PS0NzZTAwNUdNNzFtUDFlTXdqY3czdHNwRDVCUlBWMXp1VnRQNDlvbDBxNjVaamJUYlFjSDhTY1A2cHRGOkc8Yj5QbGFzdGljIEN1cnJlbmN5PC9iPiBpbiA8Yj5JbmRpYTwvYj4gMjAyNiwgTmVlZCwgSW1wYWN0LCBMYXRlc3QgTmV3c0KZATxiPk5vIHJlcGxhY2VtZW50IG9mIHBhcGVyIGN1cnJlbmN5PC9iPjogVGhlIE1pbmlzdHJ5IG9mIEZpbmFuY2UgY2xhcmlmaWVkIHRoYXQgcG9seW1lciBiYW5rbm90ZXMgd2lsbCBiZSBpc3N1ZWQgYWxvbmdzaWRlIGV4aXN0aW5nIGNvdHRvbi1wYXBlciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmROTnBpTjBuRUpzQXVGTHdOb2d5SUZ1R1M2eWhHeE5RR1k5VTg1cUJuc3FlSkR4Wi13TnIxUkpXM2tzRVA4Uy02NnAzN3UwVldkSVNJNjFyQXZKYzMzR0VNNG5KLVI4eG9jbU9LQ3NlMDA1R003MW1QMWVNd2pjdzN0c3BENUJSUFYxenVWdFA0OW9sMHE2NVpqYlRiUWNIOFNjUDZwdEYSBBoCCAAa9ggSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkDQCAgAEAAYACAAKkIKBWluZGlhFQ5JykAaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGg9pdjtkO9in2YbYr9mK2KcqpAEKBnJlYWxseRUAAAAAGghhY3R1YWxseRoJZXh0cmVtZWx5GgV0cnVseRoEdmVyeRoI2LHZitmE2YoaCNmB2LnZhNinGgtpdjtkO3JlYWxseRoNaXY7ZDthY3R1YWxseRoOaXY7ZDtleHRyZW1lbHkaCml2O2Q7dHJ1bHkaCWl2O2Q7dmVyeRoNaXY7ZDvYsdmK2YTZihoNaXY7ZDvZgdi52YTYpyprCglyZXBsYWNpbmcVPzSRPxoHcmVwbGFjZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50Gg7Yp9iz2KrYqNiv2KfZhBoMaXY7ZDtyZXBsYWNlGhNpdjtkO9in2LPYqtio2K_Yp9mEGgZjaGFuZ2UqgwEKBXBhcGVyFW1ZLEAaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaCNio2KfYqNixGgbZiNix2YIaDXBhcGVyY3VycmVuY3kaCml2O2Q7cGFwZXIaC2l2O2Q7cGFwZXJzGg1pdjtkO9io2KfYqNixGgtpdjtkO9mI2LHZgipSCghjdXJyZW5jeRW4xdVAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeRoKaXY7ZDttb25leSpeCgdwbGFzdGljFVGLw0AaDtio2YTYp9iz2KrZitmDGgxpdjtkO3BsYXN0aWMaDWl2O2Q7cGxhc3RpY3MaDGl2O2Q7cG9seW1lchoTaXY7ZDvYqNmE2KfYs9iq2YrZgyoWCgQyMDI1FQRYnz8aCWl2O247MjAyNTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZkTk5waU4wbkVKc0F1Rkx3Tm9neUlGdUdTNnloR3hOUUdZOVU4NXFCbnNxZUpEeFotd05yMVJKVzNrc0VQOFMtNjZwMzd1MFZXZElTSTYxckF2SmMzM0dFTTRuSi1SOHhvY21PS0NzZTAwNUdNNzFtUDFlTXdqY3czdHNwRDVCUlBWMXp1VnRQNDlvbDBxNjVaamJUYlFjSDhTY1A2cHRGOkc8Yj5QbGFzdGljIEN1cnJlbmN5PC9iPiBpbiA8Yj5JbmRpYTwvYj4gMjAyNiwgTmVlZCwgSW1wYWN0LCBMYXRlc3QgTmV3c0KZATxiPk5vIHJlcGxhY2VtZW50IG9mIHBhcGVyIGN1cnJlbmN5PC9iPjogVGhlIE1pbmlzdHJ5IG9mIEZpbmFuY2UgY2xhcmlmaWVkIHRoYXQgcG9seW1lciBiYW5rbm90ZXMgd2lsbCBiZSBpc3N1ZWQgYWxvbmdzaWRlIGV4aXN0aW5nIGNvdHRvbi1wYXBlciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Vajiram & Ravi"
+    },
+    {
+      "position": 7,
+      "title": "India may soon get plastic money: RBI revives decade-old plan",
+      "link": "https://www.youtube.com/watch?v=ynLJDcLcKMk",
+      "displayed_link": "أكثر من 4.9 ألف مشاهدة · قبل 3 أشهر",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTu0uc0kn04g70DoH9mLF6ABPifsBSlDYV6TTZJldP4z-BiQkNxJ4ng&s",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "The RBI is reportedly reviving its plan to introduce polymer banknotes that last longer, resist damage, and reduce replacement costs.",
+      "duration": "1:01",
+      "about_this_result": {
+        "source": {
+          "description": "The RBI is reportedly reviving its plan to introduce polymer banknotes that last longer, resist damage, and reduce replacement costs.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlI3X2V1MnJSZF9wa0VBQWQ3T3RtRmZUQl8yYkhtNTZPZ1hfVXpHZGhuR3BXUmlQaXNseW5JalNqZmpPOGJIU1JYd0x3YWgyNHo5Q0o4WlJNYTVBd1ZRM2wycy1DQnc0V01wZ1Nld0VzeXNuTTFZUi12YWhlWGQwMEQtQnhrURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlI3X2V1MnJSZF9wa0VBQWQ3T3RtRmZUQl8yYkhtNTZPZ1hfVXpHZGhuR3BXUmlQaXNseW5JalNqZmpPOGJIU1JYd0x3YWgyNHo5Q0o4WlJNYTVBd1ZRM2wycy1DQnc0V01wZ1Nld0VzeXNuTTFZUi12YWhlWGQwMEQtQnhrURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRAGojom0TEmQ3RgnMT3VGtT7Ti2Xq5g8ksaQ",
+      "source": "YouTube · Business Standard"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=10&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8NMDegQIKxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=10&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAE",
+      "3": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=20&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAG",
+      "4": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=30&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAI",
+      "5": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=40&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAK",
+      "6": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=50&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAM",
+      "7": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=60&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAO",
+      "8": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=70&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAQ",
+      "9": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=80&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAS",
+      "10": "https://www.google.com/search?q=india+really+replacing+paper+currency+plastic+2025&sca_esv=faee95f19f118383&sxsrf=APpeQnsP2KHw98Q0EfMnJvjO947UcPnYuw:1790010064578&ei=0GKxaqbnIo7Ap84Pu8n-qAk&start=90&sa=N&sstk=AS6-VmLZobtcqo9iYGBDFldstv58gKX-1roCKw-5NKydm6Sg-aadYx5v7GvMjy2JKRE2Wc0WSeLA6JCTGXZb81Hmq_OX9b_XWlZLcg&ved=2ahUKEwimj6yQk4CXAxUO4MkDHbukH5UQ8tMDegQIKxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+really+replacing+paper+currency+plastic+2025&start=90"
+    }
+  }
+}

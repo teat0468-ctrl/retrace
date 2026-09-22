@@ -1,0 +1,278 @@
+{
+  "search_metadata": {
+    "id": "6ab167164c437fefb366683a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2sYqLGjSh1MVWFC84M3E2gVANAwSCBQjRHRpNxtT2Ug/6ab167164c437fefb366683a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2sYqLGjSh1MVWFC84M3E2gVANAwSCBQjRHRpNxtT2Ug/6ab167164c437fefb366683a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/2sYqLGjSh1MVWFC84M3E2gVANAwSCBQjRHRpNxtT2Ug/6ab167164c437fefb366683a.json_with_pixel_position",
+    "created_at": "2026-09-21 17:19:18 UTC",
+    "processed_at": "2026-09-21 17:19:18 UTC",
+    "google_url": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&oq=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2sYqLGjSh1MVWFC84M3E2gVANAwSCBQjRHRpNxtT2Ug/6ab167164c437fefb366683a.html",
+    "total_time_taken": 0.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "rbi announce paper notes would replaced before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "rbi announce paper notes would replaced before:2026-01-01",
+    "total_results": 146000,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "VaIlPniczZVRcuI4EIYPsOdYXghgMBBIlWtKMgZMQkABQ5IXly0LmcRGxDI45G1usQfYU-1pVjYYDAPJzDxsrQosIbVa3ag__9__9uaL13_--MsNwyW_KZWiKCpSxqhHipj5JYtvFrg0Yx4PsPuNs1WAydxRsBswn-Q2a0XOYa5IOTJX2j55t9bkEa4etWWjOmwWVssISbnEhWLaFicv4oT3F14yS-Lx-qfcEj-KvEgWRdO-66-J2eEbUKxIFbk4KFm-MAD_XdNdoMb9CGiXjcSS_lPeEAKqnvUEYdKph5kosQMaTVZgPD5_prr1IwIEyfFDd1FzudjCUpPuxThgNlz4tAvuKTkPUAQ-S_aMt20OFJzmcqZdyAYduQCdzNJFfxDQoziFIVVhVwIodUOP7FWUPV6LN8CtxQAB0moAl9JPrlFsaPcBHgFd_eqymao3YHpUm4t61UsOFYUrlexAdOXSHLs4GQQ8rmd13JRYWytE1cGUXQ9b42m3bqwG0vVdvVd7qPVRCdvCzmOWQxzTNaVvye9ypVyTmvJ14yoBCfM9STxLkvqB7BkKaTPExbsiLKcYqfuyPfmPRW2Bs0lCdWd65lIyhR2v7rbT24yJvt-tIdCfn_gxSHwb_cNEqwJANRvH4bZVcA6j7fgwFBjNt4EI8DSQXn_GQsz2tIPjzFkw-jFFeDrRgmlF6ZCeGh6Xuk61ETgkDI9rU9jOXS2u2JiBCU4CwvsKVncPXT8JJH4_iEvRdgmM0qS2rXPIRxzQRknJuzE31DBieLRdwccbHsD-XXTCAT0BKW1T8W27XwB_sbGvTQQ2O15Oyv8Im-thm30YjZod3KJuED7rfBo9fXg1KoHzmDDf_gXFwf8rkLZ6pO_06DJI-k-BhJB6WY-2w1SP5olmQITQBZDULUg_6lE1NTno0SlI8C4Dkvu5Hv0qSOqnIKWQngVJfd2tZkFSL4GU6lEWpHnvWI-ywR70aA_Sb-kR-z09Srgi2-5YnFYv9LJIvUWkApk8LBcsmbVvPQPWDH49Q93R1yI188Mb33K8K3Pu3MBKL9w4V6aYYDfEyb0pgT3PW4sFWy0wyS-tJQnyCxYSno_YynPyAVl6FiZO3iYzFpAbwWe9IJXFJ-d7AVMkq-61mNPSzTej5ZRf5KUxMNsFunl-kZtWMOxU2lOIu-GjNWjek_e7Dhv7D43nfkO6BZHUe50Y0-oYyev79YRYQ7SovA4WrDIwQaFmjqv9MTJGw7Fr91aTjxHq17Exc7wal-2hE8KpOalO6h_rWX18m0TDlcindhDoLe7gnB9gRZRDlYJ7BKYUYqA-iUqiwLCY6COAOnWANJjj2DIJXyszi5BmbVZuzsrlhtyQcz4NN0ulKeX4IlDK_wLnCUes",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VaIlPniczZVRcuI4EIYPsOdYXghgMBBIlWtKMgZMQkABQ5IXly0LmcRGxDI45G1usQfYU-1pVjYYDAPJzDxsrQosIbVa3ag__9__9uaL13_--MsNwyW_KZWiKCpSxqhHipj5JYtvFrg0Yx4PsPuNs1WAydxRsBswn-Q2a0XOYa5IOTJX2j55t9bkEa4etWWjOmwWVssISbnEhWLaFicv4oT3F14yS-Lx-qfcEj-KvEgWRdO-66-J2eEbUKxIFbk4KFm-MAD_XdNdoMb9CGiXjcSS_lPeEAKqnvUEYdKph5kosQMaTVZgPD5_prr1IwIEyfFDd1FzudjCUpPuxThgNlz4tAvuKTkPUAQ-S_aMt20OFJzmcqZdyAYduQCdzNJFfxDQoziFIVVhVwIodUOP7FWUPV6LN8CtxQAB0moAl9JPrlFsaPcBHgFd_eqymao3YHpUm4t61UsOFYUrlexAdOXSHLs4GQQ8rmd13JRYWytE1cGUXQ9b42m3bqwG0vVdvVd7qPVRCdvCzmOWQxzTNaVvye9ypVyTmvJ14yoBCfM9STxLkvqB7BkKaTPExbsiLKcYqfuyPfmPRW2Bs0lCdWd65lIyhR2v7rbT24yJvt-tIdCfn_gxSHwb_cNEqwJANRvH4bZVcA6j7fgwFBjNt4EI8DSQXn_GQsz2tIPjzFkw-jFFeDrRgmlF6ZCeGh6Xuk61ETgkDI9rU9jOXS2u2JiBCU4CwvsKVncPXT8JJH4_iEvRdgmM0qS2rXPIRxzQRknJuzE31DBieLRdwccbHsD-XXTCAT0BKW1T8W27XwB_sbGvTQQ2O15Oyv8Im-thm30YjZod3KJuED7rfBo9fXg1KoHzmDDf_gXFwf8rkLZ6pO_06DJI-k-BhJB6WY-2w1SP5olmQITQBZDULUg_6lE1NTno0SlI8C4Dkvu5Hv0qSOqnIKWQngVJfd2tZkFSL4GU6lEWpHnvWI-ywR70aA_Sb-kR-z09Srgi2-5YnFYv9LJIvUWkApk8LBcsmbVvPQPWDH49Q93R1yI188Mb33K8K3Pu3MBKL9w4V6aYYDfEyb0pgT3PW4sFWy0wyS-tJQnyCxYSno_YynPyAVl6FiZO3iYzFpAbwWe9IJXFJ-d7AVMkq-61mNPSzTej5ZRf5KUxMNsFunl-kZtWMOxU2lOIu-GjNWjek_e7Dhv7D43nfkO6BZHUe50Y0-oYyev79YRYQ7SovA4WrDIwQaFmjqv9MTJGw7Fr91aTjxHq17Exc7wal-2hE8KpOalO6h_rWX18m0TDlcindhDoLe7gnB9gRZRDlYJ7BKYUYqA-iUqiwLCY6COAOnWANJjj2DIJXyszi5BmbVZuzsrlhtyQcz4NN0ulKeX4IlDK_wLnCUes"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Several media reports claim that RBI is planning to ...",
+      "link": "https://www.facebook.com/pibfactcheck/posts/several-media-reports-claim-that-rbi-is-planning-to-introduce-new-currency-notes/328978032752327/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFQ-rXIRlhpCzQ4M381dK76F5rrl7IWvVOgErZ_yJTagQxXyCujIFnzbCY_pjswjEZFvpeBefrQ-bqBUoh28qRAWhHpSm0VSxb-YLuCtDHFEZ7BEq0lPCqvB2H2e2mhGi-fsnQegmIwo6U2SgQ1bu7hnX6Zof4gBXLaCTR4sP3rNieUrCiIPMQy4JxtP_aX4tiugHa7p_5J7Swc4aPZF3tbuRLt2rx_eW7uccDAGOpVOBfKbo9iFkQ4la7xUGdo8nFYw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQFnoECB4QAQ&uoh=1",
+      "displayed_link": "30+ reactions",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "... RBI will field-test 100 crore polymer banknotes each in Rs 10 and Rs 20 denominations; paper notes will remain in circulation and no firm launch date has been ...",
+      "snippet_highlighted_words": [
+        "paper notes will remain in circulation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... RBI will field-test 100 crore polymer banknotes each in Rs 10 and Rs 20 denominations; paper notes will remain in circulation and no firm launch date has been ...",
+          "source_info_link": "https://www.facebook.com/pibfactcheck/posts/several-media-reports-claim-that-rbi-is-planning-to-introduce-new-currency-notes/328978032752327/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZRLXJYSVJsaHBDelE0TTM4MWRLNzZGNXJybDdJV3ZWT2dFclpfeUpUYWdReFh5Q3VqSUZuemJDWV9wanN3akVaRnZwZUJlZnJRLWJxQlVvaDI4cVJBV2hIcFNtMFZTeGItWUx1Q3RESEZFWjdCRXEwbFBDcXZCMkgyZTJtaEdpLWZzblFlZ21Jd282VTJTZ1ExYnU3aG5YNlpvZjRnQlhMYUNUUjRzUDNyTmllVXJDaUlQTVF5NEp4dFBfYVg0dGl1Z0hhN3BfNUo3U3djNGFQWkYzdGJ1Ukx0MnJ4X2VXN3VjY0RBR09wVk9CZktibzlpRmtRNGxhN3hVR2RvOG5GWXcSBBoCCAAa4gcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAvgcIABAAGAAgACorCgNyYmkVUZymQBoVcmVzZXJ2ZSBiYW5rIG9mIGluZGlhGghpdjtwO3JiaSqAAQoIYW5ub3VuY2UVAAAAABoJYWR2ZXJ0aXNlGglhbm5vdW5jZWQaDGFubm91bmNlbWVudBoNYW5ub3VuY2VtZW50cxoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGgdkZWNsYXJlGg1pdjtwO2Fubm91bmNlGgRuZXdzGgdmaW5hbmNlKiAKBXBhcGVyFSFH9z8aBnBhcGVycxoKcGFwZXJub3RlcyoYCgVub3RlcxU0rItAGgpwYXBlcm5vdGVzKi0KBXdvdWxkFRJWzz4aA2NhbhoFY291bGQaBW1pZ2h0GgZzaG91bGQaBHdpbGwqcwoIcmVwbGFjZWQVAAAAABoGY2hhbmdlGgdjaGFuZ2VkGgdyZXBsYWNlGgtyZXBsYWNlbWVudBoIcmVwbGFjZXMaCXJlcGxhY2luZxoLc3Vic3RpdHV0ZWQaCnN1cGVyc2VkZWQaDWl2O3A7cmVwbGFjZWQymQIvZ290bz91cmw9Q0FFU3hnRUI2enN3RlEtclhJUmxocEN6UTRNMzgxZEs3NkY1cnJsN0lXdlZPZ0VyWl95SlRhZ1F4WHlDdWpJRm56YkNZX3Bqc3dqRVpGdnBlQmVmclEtYnFCVW9oMjhxUkFXaEhwU20wVlN4Yi1ZTHVDdERIRkVaN0JFcTBsUENxdkIySDJlMm1oR2ktZnNuUWVnbUl3bzZVMlNnUTFidTdoblg2Wm9mNGdCWExhQ1RSNHNQM3JOaWVVckNpSVBNUXk0Snh0UF9hWDR0aXVnSGE3cF81SjdTd2M0YVBaRjN0YnVSTHQycnhfZVc3dWNjREFHT3BWT0JmS2JvOWlGa1E0bGE3eFVHZG84bkZZdzpIU2V2ZXJhbCBtZWRpYSByZXBvcnRzIGNsYWltIHRoYXQgPGI-UkJJPC9iPiBpcyBwbGFubmluZyB0byBpbnRyb2R1Y2UgLi4uQrIBLi4uIFJCSSB3aWxsIGZpZWxkLXRlc3QgMTAwIGNyb3JlIHBvbHltZXIgYmFua25vdGVzIGVhY2ggaW4gUnMgMTAgYW5kIFJzIDIwIGRlbm9taW5hdGlvbnM7IDxiPnBhcGVyIG5vdGVzIHdpbGwgcmVtYWluIGluIGNpcmN1bGF0aW9uPC9iPiBhbmQgbm8gZmlybSBsYXVuY2ggZGF0ZSBoYXMgYmVlbiZuYnNwOy4uLlIDY2FuUgR3aWxsIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZRLXJYSVJsaHBDelE0TTM4MWRLNzZGNXJybDdJV3ZWT2dFclpfeUpUYWdReFh5Q3VqSUZuemJDWV9wanN3akVaRnZwZUJlZnJRLWJxQlVvaDI4cVJBV2hIcFNtMFZTeGItWUx1Q3RESEZFWjdCRXEwbFBDcXZCMkgyZTJtaEdpLWZzblFlZ21Jd282VTJTZ1ExYnU3aG5YNlpvZjRnQlhMYUNUUjRzUDNyTmllVXJDaUlQTVF5NEp4dFBfYVg0dGl1Z0hhN3BfNUo3U3djNGFQWkYzdGJ1Ukx0MnJ4X2VXN3VjY0RBR09wVk9CZktibzlpRmtRNGxhN3hVR2RvOG5GWXcSBBoCCAAa4gcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAvgcIABAAGAAgACorCgNyYmkVUZymQBoVcmVzZXJ2ZSBiYW5rIG9mIGluZGlhGghpdjtwO3JiaSqAAQoIYW5ub3VuY2UVAAAAABoJYWR2ZXJ0aXNlGglhbm5vdW5jZWQaDGFubm91bmNlbWVudBoNYW5ub3VuY2VtZW50cxoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGgdkZWNsYXJlGg1pdjtwO2Fubm91bmNlGgRuZXdzGgdmaW5hbmNlKiAKBXBhcGVyFSFH9z8aBnBhcGVycxoKcGFwZXJub3RlcyoYCgVub3RlcxU0rItAGgpwYXBlcm5vdGVzKi0KBXdvdWxkFRJWzz4aA2NhbhoFY291bGQaBW1pZ2h0GgZzaG91bGQaBHdpbGwqcwoIcmVwbGFjZWQVAAAAABoGY2hhbmdlGgdjaGFuZ2VkGgdyZXBsYWNlGgtyZXBsYWNlbWVudBoIcmVwbGFjZXMaCXJlcGxhY2luZxoLc3Vic3RpdHV0ZWQaCnN1cGVyc2VkZWQaDWl2O3A7cmVwbGFjZWQymQIvZ290bz91cmw9Q0FFU3hnRUI2enN3RlEtclhJUmxocEN6UTRNMzgxZEs3NkY1cnJsN0lXdlZPZ0VyWl95SlRhZ1F4WHlDdWpJRm56YkNZX3Bqc3dqRVpGdnBlQmVmclEtYnFCVW9oMjhxUkFXaEhwU20wVlN4Yi1ZTHVDdERIRkVaN0JFcTBsUENxdkIySDJlMm1oR2ktZnNuUWVnbUl3bzZVMlNnUTFidTdoblg2Wm9mNGdCWExhQ1RSNHNQM3JOaWVVckNpSVBNUXk0Snh0UF9hWDR0aXVnSGE3cF81SjdTd2M0YVBaRjN0YnVSTHQycnhfZVc3dWNjREFHT3BWT0JmS2JvOWlGa1E0bGE3eFVHZG84bkZZdzpIU2V2ZXJhbCBtZWRpYSByZXBvcnRzIGNsYWltIHRoYXQgPGI-UkJJPC9iPiBpcyBwbGFubmluZyB0byBpbnRyb2R1Y2UgLi4uQrIBLi4uIFJCSSB3aWxsIGZpZWxkLXRlc3QgMTAwIGNyb3JlIHBvbHltZXIgYmFua25vdGVzIGVhY2ggaW4gUnMgMTAgYW5kIFJzIDIwIGRlbm9taW5hdGlvbnM7IDxiPnBhcGVyIG5vdGVzIHdpbGwgcmVtYWluIGluIGNpcmN1bGF0aW9uPC9iPiBhbmQgbm8gZmlybSBsYXVuY2ggZGF0ZSBoYXMgYmVlbiZuYnNwOy4uLlIDY2FuUgR3aWxsIgIQAUgAWABoAA",
+      "source": "Facebook · PIB Fact Check",
+      "read_more_link": "https://www.facebook.com/pibfactcheck/posts/several-media-reports-claim-that-rbi-is-planning-to-introduce-new-currency-notes/328978032752327/#:~:text=%23NewsAlert%20%7C%20%F0%9F%9A%A8%20Govt%20approves,launch%20date%20has%20been%20set."
+    },
+    {
+      "position": 2,
+      "title": "Is the ₹500 note set to be phased out by 2026? A #YouTube ...",
+      "link": "https://www.instagram.com/reel/DKcPJnzPxL8/?hl=en",
+      "displayed_link": "460+ likes · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab167164c437fefb366683a/images/4SBqZWRHZ9Qp0Dr2dbfSNINS0_TkxOMyz_yji1Ve2lE.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "No, the RBI has not announced that paper notes will be replaced immediately. What has happened is a step toward exploring polymer (plastic) banknotes for the ...",
+      "duration": "0:19",
+      "about_this_result": {
+        "source": {
+          "description": "No, the RBI has not announced that paper notes will be replaced immediately. What has happened is a step toward exploring polymer (plastic) banknotes for the ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnEwUzlySzhGQl9zeUdkVlc3OTFSYm9MLUVYeTdfeENKVzRLbkEwWlBteXdlMmJkRWxVWV95aG0yWjFEd2lUS2tjWHJtT25IVld5VjN4RDU5bDBlcHpISjRSYlh2SkRlZlJ4cXp4UVpXVUpQdGVwcEZRZG4tN0s1eUVFam1VZ1VOUGl0elFREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnEwUzlySzhGQl9zeUdkVlc3OTFSYm9MLUVYeTdfeENKVzRLbkEwWlBteXdlMmJkRWxVWV95aG0yWjFEd2lUS2tjWHJtT25IVld5VjN4RDU5bDBlcHpISjRSYlh2SkRlZlJ4cXp4UVpXVUpQdGVwcEZRZG4tN0s1eUVFam1VZ1VOUGl0elFREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Instagram · pibfactcheck"
+    },
+    {
+      "position": 3,
+      "title": "Is the RBI going to launch new ₹5000 notes soon? Find out ...",
+      "link": "https://www.facebook.com/factlyindia/videos/is-the-rbi-going-to-launch-new-5000-notes-soon-find-out-here-link-in-bio-for-det/1428462198131959/",
+      "displayed_link": "2 reactions · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab167164c437fefb366683a/images/4SBqZWRHZ9Qp0Dr2dbfSNA4Xi9FuCrxij_heNGb2xB8.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "It announces that the Indian 20 rupee note will be changed to a new 10 rupee note. to be more durable and water-resistant than traditional paper notes,",
+      "duration": "0:58",
+      "about_this_result": {
+        "source": {
+          "description": "It announces that the Indian 20 rupee note will be changed to a new 10 rupee note. to be more durable and water-resistant than traditional paper notes,",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZYRHdtbXl5RGp2YmgyOUZYdXppdWNDWmp3QWZRZHF6MFVXYThwdjQ4eElqSC1JOEZLSGRzbVFlMHpKRTF3V0dWcEdteEdhc3BCWFZId19wcF9iT1Y1QW9qWUY3T2NyaHJNcEQ4dGFja2VuU1poYXY0Y285c1BIZFdtRHgzVmFBVnVCM0NmSUNqcmtFRWxYY2I0WE9WbmhDYlpCYS13djVhQ1VLOWNOYTRHWnJSdkVjejBfVkZqWE9xVkh2aTU2ZG5iMm10c0ptNHFzWk5xekRQOU5qVnNLc3duUHlCYVcwZWZXaDB2TkJZV01mV3I5aTBkQW5sRHA4c2RmeWZsZUxzMDl1EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZYRHdtbXl5RGp2YmgyOUZYdXppdWNDWmp3QWZRZHF6MFVXYThwdjQ4eElqSC1JOEZLSGRzbVFlMHpKRTF3V0dWcEdteEdhc3BCWFZId19wcF9iT1Y1QW9qWUY3T2NyaHJNcEQ4dGFja2VuU1poYXY0Y285c1BIZFdtRHgzVmFBVnVCM0NmSUNqcmtFRWxYY2I0WE9WbmhDYlpCYS13djVhQ1VLOWNOYTRHWnJSdkVjejBfVkZqWE9xVkh2aTU2ZG5iMm10c0ptNHFzWk5xekRQOU5qVnNLc3duUHlCYVcwZWZXaDB2TkJZV01mV3I5aTBkQW5sRHA4c2RmeWZsZUxzMDl1EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · Factly"
+    },
+    {
+      "position": 4,
+      "title": "India's central bank to withdraw ₹2000 currency note from ...",
+      "link": "https://www.facebook.com/WIONews/videos/indias-central-bank-to-withdraw-2000-currency-note-from-circulation/292463446454420/",
+      "displayed_link": "50+ reactions · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab167164c437fefb366683a/images/4SBqZWRHZ9Qp0Dr2dbfSNHebM7psk0VSbfXaFrU3UGw.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "This post is a financial news update announcing that two new Indian currency notes, specifically the RBI and the ₹20 polymer notes, will be released in 2027.",
+      "duration": "9:53",
+      "about_this_result": {
+        "source": {
+          "description": "This post is a financial news update announcing that two new Indian currency notes, specifically the RBI and the ₹20 polymer notes, will be released in 2027.",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoECL2dvdG8_dXJsPUNBRVN0QUVCNnpzd0ZSQlUwTVNNcVVpLVBkR0p1dkFSbVE2T0J6bjlHdnRhNk8xbWl2d1BkRlA4clMwQjNwbkpNMVl4cFZ6R244TVduZWxsZjN6cnlKSHl5VzVaUVlrVGE5UW9YM0NHZkxKSE5GSnhjNndPYnEzRjFCSGg4OGJzdFBWOUpocjNhVnZxM1Q2bzhtdWRQOVg2TFBBSjNkQXlsZXFUS013aTBRYzJBelUzUjBMUVR1SkY3T0xHemJSUjVtMnZ4dFA4NmNpcWhEVVktOWItaGhzNGZJYkxRT2t1NEZNZ05zS2xHdmdCMGdaMUx0bGM1WlkSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoECL2dvdG8_dXJsPUNBRVN0QUVCNnpzd0ZSQlUwTVNNcVVpLVBkR0p1dkFSbVE2T0J6bjlHdnRhNk8xbWl2d1BkRlA4clMwQjNwbkpNMVl4cFZ6R244TVduZWxsZjN6cnlKSHl5VzVaUVlrVGE5UW9YM0NHZkxKSE5GSnhjNndPYnEzRjFCSGg4OGJzdFBWOUpocjNhVnZxM1Q2bzhtdWRQOVg2TFBBSjNkQXlsZXFUS013aTBRYzJBelUzUjBMUVR1SkY3T0xHemJSUjVtMnZ4dFA4NmNpcWhEVVktOWItaGhzNGZJYkxRT2t1NEZNZ05zS2xHdmdCMGdaMUx0bGM1WlkSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook · WION"
+    },
+    {
+      "position": 5,
+      "title": "In a recent announcement, the Reserve Bank of India (RBI) ...",
+      "link": "https://www.instagram.com/p/DJyCaZECpcM/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVHFgMjZXYs5OGMxs9idFsOmpTvxbys-U6gI-V_kzRxPygJTTrSPysro9ygLX1DzG5k8iYfGk762oOyuM1Nt08D5r2iDKeJ5iMonqYTaSX8U5Rl4Ryh1kFauTEtw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQFnoECBkQAQ&uoh=1",
+      "displayed_link": "540+ likes",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "Paper Notes Will Not Be Immediately Withdrawn The government has clarified that there is currently no proposal to replace paper currency with polymer notes.",
+      "snippet_highlighted_words": [
+        "currently no proposal to replace paper currency with polymer notes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Paper Notes Will Not Be Immediately Withdrawn The government has clarified that there is currently no proposal to replace paper currency with polymer notes.",
+          "source_info_link": "https://www.instagram.com/p/DJyCaZECpcM/",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkhGZ01qWlhZczVPR014czlpZEZzT21wVHZ4YnlzLVU2Z0ktVl9relJ4UHlnSlRUclNQeXNybzl5Z0xYMUR6RzVrOGlZZkdrNzYyb095dU0xTnQwOEQ1cjJpREtlSjVpTW9ucVlUYVNYOFU1Umw0UnloMWtGYXVURXR3EgQaAggAGtMGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQK8GCAAQABgAIAAqKwoDcmJpFfwVg0AaFXJlc2VydmUgYmFuayBvZiBpbmRpYRoIaXY7cDtyYmkqgAEKCGFubm91bmNlFQAAAAAaCWFkdmVydGlzZRoJYW5ub3VuY2VkGgxhbm5vdW5jZW1lbnQaDWFubm91bmNlbWVudHMaCWFubm91bmNlcxoKYW5ub3VuY2luZxoHZGVjbGFyZRoNaXY7cDthbm5vdW5jZRoEbmV3cxoHZmluYW5jZSogCgVwYXBlchVZ7Yc_GgZwYXBlcnMaCnBhcGVybm90ZXMqGAoFbm90ZXMVJ-tVQBoKcGFwZXJub3RlcyotCgV3b3VsZBUWkpw9GgNjYW4aBWNvdWxkGgVtaWdodBoGc2hvdWxkGgR3aWxsKnMKCHJlcGxhY2VkFRaSnD0aBmNoYW5nZRoHY2hhbmdlZBoHcmVwbGFjZRoLcmVwbGFjZW1lbnQaCHJlcGxhY2VzGglyZXBsYWNpbmcaC3N1YnN0aXR1dGVkGgpzdXBlcnNlZGVkGg1pdjtwO3JlcGxhY2VkMpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkhGZ01qWlhZczVPR014czlpZEZzT21wVHZ4YnlzLVU2Z0ktVl9relJ4UHlnSlRUclNQeXNybzl5Z0xYMUR6RzVrOGlZZkdrNzYyb095dU0xTnQwOEQ1cjJpREtlSjVpTW9ucVlUYVNYOFU1Umw0UnloMWtGYXVURXR3OlFJbiBhIHJlY2VudCA8Yj5hbm5vdW5jZW1lbnQ8L2I-LCB0aGUgPGI-UmVzZXJ2ZSBCYW5rIG9mIEluZGlhPC9iPiAoPGI-UkJJPC9iPiAuLi5CowFQYXBlciBOb3RlcyBXaWxsIE5vdCBCZSBJbW1lZGlhdGVseSBXaXRoZHJhd24gVGhlIGdvdmVybm1lbnQgaGFzIGNsYXJpZmllZCB0aGF0IHRoZXJlIGlzIDxiPmN1cnJlbnRseSBubyBwcm9wb3NhbCB0byByZXBsYWNlIHBhcGVyIGN1cnJlbmN5IHdpdGggcG9seW1lciBub3RlczwvYj4uUgR3aWxsUgNjYW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkhGZ01qWlhZczVPR014czlpZEZzT21wVHZ4YnlzLVU2Z0ktVl9relJ4UHlnSlRUclNQeXNybzl5Z0xYMUR6RzVrOGlZZkdrNzYyb095dU0xTnQwOEQ1cjJpREtlSjVpTW9ucVlUYVNYOFU1Umw0UnloMWtGYXVURXR3EgQaAggAGtMGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQK8GCAAQABgAIAAqKwoDcmJpFfwVg0AaFXJlc2VydmUgYmFuayBvZiBpbmRpYRoIaXY7cDtyYmkqgAEKCGFubm91bmNlFQAAAAAaCWFkdmVydGlzZRoJYW5ub3VuY2VkGgxhbm5vdW5jZW1lbnQaDWFubm91bmNlbWVudHMaCWFubm91bmNlcxoKYW5ub3VuY2luZxoHZGVjbGFyZRoNaXY7cDthbm5vdW5jZRoEbmV3cxoHZmluYW5jZSogCgVwYXBlchVZ7Yc_GgZwYXBlcnMaCnBhcGVybm90ZXMqGAoFbm90ZXMVJ-tVQBoKcGFwZXJub3RlcyotCgV3b3VsZBUWkpw9GgNjYW4aBWNvdWxkGgVtaWdodBoGc2hvdWxkGgR3aWxsKnMKCHJlcGxhY2VkFRaSnD0aBmNoYW5nZRoHY2hhbmdlZBoHcmVwbGFjZRoLcmVwbGFjZW1lbnQaCHJlcGxhY2VzGglyZXBsYWNpbmcaC3N1YnN0aXR1dGVkGgpzdXBlcnNlZGVkGg1pdjtwO3JlcGxhY2VkMpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkhGZ01qWlhZczVPR014czlpZEZzT21wVHZ4YnlzLVU2Z0ktVl9relJ4UHlnSlRUclNQeXNybzl5Z0xYMUR6RzVrOGlZZkdrNzYyb095dU0xTnQwOEQ1cjJpREtlSjVpTW9ucVlUYVNYOFU1Umw0UnloMWtGYXVURXR3OlFJbiBhIHJlY2VudCA8Yj5hbm5vdW5jZW1lbnQ8L2I-LCB0aGUgPGI-UmVzZXJ2ZSBCYW5rIG9mIEluZGlhPC9iPiAoPGI-UkJJPC9iPiAuLi5CowFQYXBlciBOb3RlcyBXaWxsIE5vdCBCZSBJbW1lZGlhdGVseSBXaXRoZHJhd24gVGhlIGdvdmVybm1lbnQgaGFzIGNsYXJpZmllZCB0aGF0IHRoZXJlIGlzIDxiPmN1cnJlbnRseSBubyBwcm9wb3NhbCB0byByZXBsYWNlIHBhcGVyIGN1cnJlbmN5IHdpdGggcG9seW1lciBub3RlczwvYj4uUgR3aWxsUgNjYW4iAhABSABYAGgA",
+      "source": "Instagram · tinsukia.unofficial",
+      "read_more_link": "https://www.instagram.com/p/DJyCaZECpcM/#:~:text=Paper%20Notes%20Will%20Not%20Be,paper%20currency%20with%20polymer%20notes."
+    },
+    {
+      "position": 6,
+      "title": "Why doesn't the government use plastic notes instead of ...",
+      "link": "https://www.reddit.com/r/india/comments/11g1d28/why_doesnt_the_government_use_plastic_notes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFTUgvN0-kEIHnrm1zRy1-CAghN2Gk2dKjJHb-Z1KxW4sPF1okFofVABoN7baxoBAXzQdLhUnsSvYkX8dl98K4fxmfEs0YNUJZNNrFQrQKfKzsphj-Mk7ZXL2QUotrWLQ7qPOQMnu_HIc5RWRMeIUFnGLqSobxj9GmoAs8qJ4k7M5AHNz09o0p6KBDHwraCqm&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQFnoECBcQAQ&uoh=1",
+      "displayed_link": "10+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Everybody knows how common plastic is in roadside garbage, there is so much pollution because of it, it is so evident that the moment you step out there ...",
+      "about_this_result": {
+        "source": {
+          "description": "Even paper notes get torn/mutilated/accumulate grime etc and are sent for replacement. RBI simply did not want to invest in this and gave the high temperature ...",
+          "source_info_link": "https://www.reddit.com/r/india/comments/11g1d28/why_doesnt_the_government_use_plastic_notes/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZUVWd2TjAta0VJSG5ybTF6UnkxLUNBZ2hOMkdrMmRLakpIYi1aMUt4VzRzUEYxb2tGb2ZWQUJvTjdiYXhvQkFYelFkTGhVbnNTdllrWDhkbDk4SzRmeG1mRXMwWU5VSlpOTnJGUXJRS2ZLenNwaGotTWs3WlhMMlFVb3RyV0xRN3FQT1FNbnVfSEljNVJXUk1lSVVGbkdMcVNvYnhqOUdtb0FzOHFKNGs3TTVBSE56MDlvMHA2S0JESHdyYUNxbRIEGgIIABqwBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBwgAEAAYACAAKisKA3JiaRVZqmk_GhVyZXNlcnZlIGJhbmsgb2YgaW5kaWEaCGl2O3A7cmJpKoABCghhbm5vdW5jZRUAAAAAGglhZHZlcnRpc2UaCWFubm91bmNlZBoMYW5ub3VuY2VtZW50Gg1hbm5vdW5jZW1lbnRzGglhbm5vdW5jZXMaCmFubm91bmNpbmcaB2RlY2xhcmUaDWl2O3A7YW5ub3VuY2UaBG5ld3MaB2ZpbmFuY2UqIAoFcGFwZXIVITCOQBoGcGFwZXJzGgpwYXBlcm5vdGVzKhgKBW5vdGVzFZgXokAaCnBhcGVybm90ZXMqLQoFd291bGQVy5FyPxoDY2FuGgVjb3VsZBoFbWlnaHQaBnNob3VsZBoEd2lsbCpzCghyZXBsYWNlZBUAAAAAGgZjaGFuZ2UaB2NoYW5nZWQaB3JlcGxhY2UaC3JlcGxhY2VtZW50GghyZXBsYWNlcxoJcmVwbGFjaW5nGgtzdWJzdGl0dXRlZBoKc3VwZXJzZWRlZBoNaXY7cDtyZXBsYWNlZDLWAS9nb3RvP3VybD1DQUVTbEFFQjZ6c3dGVFVndk4wLWtFSUhucm0xelJ5MS1DQWdoTjJHazJkS2pKSGItWjFLeFc0c1BGMW9rRm9mVkFCb043YmF4b0JBWHpRZExoVW5zU3ZZa1g4ZGw5OEs0ZnhtZkVzMFlOVUpaTk5yRlFyUUtmS3pzcGhqLU1rN1pYTDJRVW90cldMUTdxUE9RTW51X0hJYzVSV1JNZUlVRm5HTHFTb2J4ajlHbW9BczhxSjRrN001QUhOejA5bzBwNktCREh3cmFDcW06T1doeSBkb2VzbiYjMzk7dCB0aGUgZ292ZXJubWVudCB1c2UgcGxhc3RpYyA8Yj5ub3RlczwvYj4gaW5zdGVhZCBvZiA8Yj5wYXBlcjwvYj5CvAFFdmVuIDxiPnBhcGVyIG5vdGVzPC9iPiBnZXQgdG9ybi9tdXRpbGF0ZWQvYWNjdW11bGF0ZSBncmltZSBldGMgYW5kIGFyZSBzZW50IGZvciA8Yj5yZXBsYWNlbWVudDwvYj4uIDxiPlJCSTwvYj4gc2ltcGx5IGRpZCBub3Qgd2FudCB0byBpbnZlc3QgaW4gdGhpcyBhbmQgZ2F2ZSB0aGUgaGlnaCB0ZW1wZXJhdHVyZSZuYnNwOy4uLlIDY2FuUgR3aWxsIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZUVWd2TjAta0VJSG5ybTF6UnkxLUNBZ2hOMkdrMmRLakpIYi1aMUt4VzRzUEYxb2tGb2ZWQUJvTjdiYXhvQkFYelFkTGhVbnNTdllrWDhkbDk4SzRmeG1mRXMwWU5VSlpOTnJGUXJRS2ZLenNwaGotTWs3WlhMMlFVb3RyV0xRN3FQT1FNbnVfSEljNVJXUk1lSVVGbkdMcVNvYnhqOUdtb0FzOHFKNGs3TTVBSE56MDlvMHA2S0JESHdyYUNxbRIEGgIIABqwBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBwgAEAAYACAAKisKA3JiaRVZqmk_GhVyZXNlcnZlIGJhbmsgb2YgaW5kaWEaCGl2O3A7cmJpKoABCghhbm5vdW5jZRUAAAAAGglhZHZlcnRpc2UaCWFubm91bmNlZBoMYW5ub3VuY2VtZW50Gg1hbm5vdW5jZW1lbnRzGglhbm5vdW5jZXMaCmFubm91bmNpbmcaB2RlY2xhcmUaDWl2O3A7YW5ub3VuY2UaBG5ld3MaB2ZpbmFuY2UqIAoFcGFwZXIVITCOQBoGcGFwZXJzGgpwYXBlcm5vdGVzKhgKBW5vdGVzFZgXokAaCnBhcGVybm90ZXMqLQoFd291bGQVy5FyPxoDY2FuGgVjb3VsZBoFbWlnaHQaBnNob3VsZBoEd2lsbCpzCghyZXBsYWNlZBUAAAAAGgZjaGFuZ2UaB2NoYW5nZWQaB3JlcGxhY2UaC3JlcGxhY2VtZW50GghyZXBsYWNlcxoJcmVwbGFjaW5nGgtzdWJzdGl0dXRlZBoKc3VwZXJzZWRlZBoNaXY7cDtyZXBsYWNlZDLWAS9nb3RvP3VybD1DQUVTbEFFQjZ6c3dGVFVndk4wLWtFSUhucm0xelJ5MS1DQWdoTjJHazJkS2pKSGItWjFLeFc0c1BGMW9rRm9mVkFCb043YmF4b0JBWHpRZExoVW5zU3ZZa1g4ZGw5OEs0ZnhtZkVzMFlOVUpaTk5yRlFyUUtmS3pzcGhqLU1rN1pYTDJRVW90cldMUTdxUE9RTW51X0hJYzVSV1JNZUlVRm5HTHFTb2J4ajlHbW9BczhxSjRrN001QUhOejA5bzBwNktCREh3cmFDcW06T1doeSBkb2VzbiYjMzk7dCB0aGUgZ292ZXJubWVudCB1c2UgcGxhc3RpYyA8Yj5ub3RlczwvYj4gaW5zdGVhZCBvZiA8Yj5wYXBlcjwvYj5CvAFFdmVuIDxiPnBhcGVyIG5vdGVzPC9iPiBnZXQgdG9ybi9tdXRpbGF0ZWQvYWNjdW11bGF0ZSBncmltZSBldGMgYW5kIGFyZSBzZW50IGZvciA8Yj5yZXBsYWNlbWVudDwvYj4uIDxiPlJCSTwvYj4gc2ltcGx5IGRpZCBub3Qgd2FudCB0byBpbnZlc3QgaW4gdGhpcyBhbmQgZ2F2ZSB0aGUgaGlnaCB0ZW1wZXJhdHVyZSZuYnNwOy4uLlIDY2FuUgR3aWxsIgIQAUgAWABoAA",
+      "source": "Reddit · r/india"
+    },
+    {
+      "position": 7,
+      "title": "Exchange of Banknotes - Indian ​currency - RBI",
+      "link": "https://indiancurrency.rbi.org.in/exchange-banknote",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVjkSQnbfooVC3Ze9OTQBHCw5e_nXgv7EpbAJzPTTly2Y2RD_rgv6hzDWuYUYq81dG8rlyP0ssG6fBwmO_rsg2AR67UmuJ51AVOOh0dWIYJmNCSo4qA63ImjMcip04Ho-N3fbKWcaG&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://indiancurrency.rbi.org.in › exchange-banknote",
+      "date": "Oct 24, 2025",
+      "snippet": "rbi announce paper notes would replaced title: Exchange of Banknotes - Indian currency - <b>RBI</b> document: Rules. of Banknotes Do you have a mutilated note ...",
+      "snippet_highlighted_words": [
+        "rbi announce paper notes would replaced"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "rbi announce paper notes would replaced title: Exchange of Banknotes - Indian currency - <b>RBI</b> document: Rules. of Banknotes Do you have a mutilated note ...",
+          "source_info_link": "https://indiancurrency.rbi.org.in/exchange-banknote"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmprU1FuYmZvb1ZDM1plOU9UUUJIQ3c1ZV9uWGd2N0VwYkFKelBUVGx5MlkyUkRfcmd2Nmh6RFd1WVVZcTgxZEc4cmx5UDBzc0c2ZkJ3bU9fcnNnMkFSNjdVbXVKNTFBVk9PaDBkV0lZSm1OQ1NvNHFBNjNJbWpNY2lwMDRIby1OM2ZiS1djYUcSBBoCCAAa4AYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC6BggAEAAYACAAKisKA3JiaRUSaBRAGhVyZXNlcnZlIGJhbmsgb2YgaW5kaWEaCGl2O3A7cmJpKoABCghhbm5vdW5jZRUAAAAAGglhZHZlcnRpc2UaCWFubm91bmNlZBoMYW5ub3VuY2VtZW50Gg1hbm5vdW5jZW1lbnRzGglhbm5vdW5jZXMaCmFubm91bmNpbmcaB2RlY2xhcmUaDWl2O3A7YW5ub3VuY2UaBG5ld3MaB2ZpbmFuY2UqIAoFcGFwZXIVAAAAABoGcGFwZXJzGgpwYXBlcm5vdGVzKhgKBW5vdGVzFYnu-D8aCnBhcGVybm90ZXMqLQoFd291bGQV1c49PhoDY2FuGgVjb3VsZBoFbWlnaHQaBnNob3VsZBoEd2lsbCpzCghyZXBsYWNlZBUAAAAAGgZjaGFuZ2UaB2NoYW5nZWQaB3JlcGxhY2UaC3JlcGxhY2VtZW50GghyZXBsYWNlcxoJcmVwbGFjaW5nGgtzdWJzdGl0dXRlZBoKc3VwZXJzZWRlZBoNaXY7cDtyZXBsYWNlZDKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZqa1NRbmJmb29WQzNaZTlPVFFCSEN3NWVfblhndjdFcGJBSnpQVFRseTJZMlJEX3JndjZoekRXdVlVWXE4MWRHOHJseVAwc3NHNmZCd21PX3JzZzJBUjY3VW11SjUxQVZPT2gwZFdJWUptTkNTbzRxQTYzSW1qTWNpcDA0SG8tTjNmYktXY2FHOjdFeGNoYW5nZSBvZiBCYW5rbm90ZXMgLSBJbmRpYW4g4oCLY3VycmVuY3kgLSA8Yj5SQkk8L2I-QroBPGI-cmJpIGFubm91bmNlIHBhcGVyIG5vdGVzIHdvdWxkIHJlcGxhY2VkPC9iPiB0aXRsZTogRXhjaGFuZ2Ugb2YgQmFua25vdGVzIC0gSW5kaWFuIGN1cnJlbmN5IC0gJmx0O2ImZ3Q7UkJJJmx0Oy9iJmd0OyBkb2N1bWVudDogUnVsZXMuIG9mIEJhbmtub3RlcyBEbyB5b3UgaGF2ZSBhIG11dGlsYXRlZCBub3RlJm5ic3A7Li4uUgNjYW5SBHdpbGwiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmprU1FuYmZvb1ZDM1plOU9UUUJIQ3c1ZV9uWGd2N0VwYkFKelBUVGx5MlkyUkRfcmd2Nmh6RFd1WVVZcTgxZEc4cmx5UDBzc0c2ZkJ3bU9fcnNnMkFSNjdVbXVKNTFBVk9PaDBkV0lZSm1OQ1NvNHFBNjNJbWpNY2lwMDRIby1OM2ZiS1djYUcSBBoCCAAa4AYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkC6BggAEAAYACAAKisKA3JiaRUSaBRAGhVyZXNlcnZlIGJhbmsgb2YgaW5kaWEaCGl2O3A7cmJpKoABCghhbm5vdW5jZRUAAAAAGglhZHZlcnRpc2UaCWFubm91bmNlZBoMYW5ub3VuY2VtZW50Gg1hbm5vdW5jZW1lbnRzGglhbm5vdW5jZXMaCmFubm91bmNpbmcaB2RlY2xhcmUaDWl2O3A7YW5ub3VuY2UaBG5ld3MaB2ZpbmFuY2UqIAoFcGFwZXIVAAAAABoGcGFwZXJzGgpwYXBlcm5vdGVzKhgKBW5vdGVzFYnu-D8aCnBhcGVybm90ZXMqLQoFd291bGQV1c49PhoDY2FuGgVjb3VsZBoFbWlnaHQaBnNob3VsZBoEd2lsbCpzCghyZXBsYWNlZBUAAAAAGgZjaGFuZ2UaB2NoYW5nZWQaB3JlcGxhY2UaC3JlcGxhY2VtZW50GghyZXBsYWNlcxoJcmVwbGFjaW5nGgtzdWJzdGl0dXRlZBoKc3VwZXJzZWRlZBoNaXY7cDtyZXBsYWNlZDKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZqa1NRbmJmb29WQzNaZTlPVFFCSEN3NWVfblhndjdFcGJBSnpQVFRseTJZMlJEX3JndjZoekRXdVlVWXE4MWRHOHJseVAwc3NHNmZCd21PX3JzZzJBUjY3VW11SjUxQVZPT2gwZFdJWUptTkNTbzRxQTYzSW1qTWNpcDA0SG8tTjNmYktXY2FHOjdFeGNoYW5nZSBvZiBCYW5rbm90ZXMgLSBJbmRpYW4g4oCLY3VycmVuY3kgLSA8Yj5SQkk8L2I-QroBPGI-cmJpIGFubm91bmNlIHBhcGVyIG5vdGVzIHdvdWxkIHJlcGxhY2VkPC9iPiB0aXRsZTogRXhjaGFuZ2Ugb2YgQmFua25vdGVzIC0gSW5kaWFuIGN1cnJlbmN5IC0gJmx0O2ImZ3Q7UkJJJmx0Oy9iJmd0OyBkb2N1bWVudDogUnVsZXMuIG9mIEJhbmtub3RlcyBEbyB5b3UgaGF2ZSBhIG11dGlsYXRlZCBub3RlJm5ic3A7Li4uUgNjYW5SBHdpbGwiAhABSABYAGgA",
+      "source": "Reserve Bank of India"
+    },
+    {
+      "position": 8,
+      "title": "No proposal to replace face of Mahatma Gandhi on ...",
+      "link": "https://www.thehindu.com/news/national/no-proposal-to-replace-face-of-mahatma-gandhi-on-banknotes-rbi/article65500302.ece",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsQEB6zswFY7_77aJ260eluEDA8rmdwkS-sSL2sB_EIKlB1erSiTmVxubQbehv_SKEcTkAPgG_q38-JgQu08dBrguhANYf7TmW0EIthiEzNSdRUIXUkxIP6jQ7nDOqPZ92U3Uj758AlM6vQXRInN8d9ngyDmHasxiCgZ6YuhBmNlU_3Ime9KV9AhFQf74_Ajtg_e-y88V0emV0TWO0-A7aA0XAmtlofiWNeOk4U9VDXYUHeo&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.thehindu.com › News › India",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACQBQCdASocABwAPtE-tFooIigoFAEAGglpABFNHTyIVMUfZ-dKdIMcZYyQn-G_V7kfyGH4AAD-9gohqrsLtqE8Cp27-JC617SqGVuAfyxOP5cqu7uFo6CkpTByFXkRU9vUtQbckAwVSJRC0_A_Lboij3l6a2mQwPJ0MzS8XsM3sQxDspQ1kbvOOnCsyX9mz0-WHTbYOxc_l8qn8gPBt58Wit53hbts9oAnX92OrIpjQcTwOJhbMmDBBGcvToAonRYWf36_sH-cLguRGBej_YxH8elqg_oA5Xcob-ACwPhyteGQduXTv769ecounkvFwnFSMkcyO40tikGC8dNvxedU8M_v9US66bphNfm2zu2rC-l-FJxDfdNv7YD862QAAAA.webp",
+      "date": "Jun 6, 2022",
+      "snippet": "Dismissing reports, the Reserve Bank of India (RBI) on June 6 said there is no proposal to replace the face of Mahatma Gandhi with that of others on currency ...",
+      "snippet_highlighted_words": [
+        "no proposal to replace the face of Mahatma Gandhi"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dismissing reports, the Reserve Bank of India (RBI) on June 6 said there is no proposal to replace the face of Mahatma Gandhi with that of others on currency  ...",
+          "source_info_link": "https://www.thehindu.com/news/national/no-proposal-to-replace-face-of-mahatma-gandhi-on-banknotes-rbi/article65500302.ece",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACQBQCdASocABwAPtE-tFooIigoFAEAGglpABFNHTyIVMUfZ-dKdIMcZYyQn-G_V7kfyGH4AAD-9gohqrsLtqE8Cp27-JC617SqGVuAfyxOP5cqu7uFo6CkpTByFXkRU9vUtQbckAwVSJRC0_A_Lboij3l6a2mQwPJ0MzS8XsM3sQxDspQ1kbvOOnCsyX9mz0-WHTbYOxc_l8qn8gPBt58Wit53hbts9oAnX92OrIpjQcTwOJhbMmDBBGcvToAonRYWf36_sH-cLguRGBej_YxH8elqg_oA5Xcob-ACwPhyteGQduXTv769ecounkvFwnFSMkcyO40tikGC8dNvxedU8M_v9US66bphNfm2zu2rC-l-FJxDfdNv7YD862QAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZZN183N2FKMjYwZWx1RURBOHJtZHdrUy1zU0wyc0JfRUlLbEIxZXJTaVRtVnh1YlFiZWh2X1NLRWNUa0FQZ0dfcTM4LUpnUXUwOGRCcmd1aEFOWWY3VG1XMEVJdGhpRXpOU2RSVUlYVWt4SVA2alE3bkRPcVBaOTJVM1VqNzU4QWxNNnZRWFJJbk44ZDluZ3lEbUhhc3hpQ2daNll1aEJtTmxVXzNJbWU5S1Y5QWhGUWY3NF9BanRnX2UteTg4VjBlbVYwVFdPMC1BN2FBMFhBbXRsb2ZpV05lT2s0VTlWRFhZVUhlbxIEGgIIABq9BxICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJcHCAAQABgAIAAqKwoDcmJpFXNIKUAaFXJlc2VydmUgYmFuayBvZiBpbmRpYRoIaXY7cDtyYmkqgAEKCGFubm91bmNlFQAAAAAaCWFkdmVydGlzZRoJYW5ub3VuY2VkGgxhbm5vdW5jZW1lbnQaDWFubm91bmNlbWVudHMaCWFubm91bmNlcxoKYW5ub3VuY2luZxoHZGVjbGFyZRoNaXY7cDthbm5vdW5jZRoEbmV3cxoHZmluYW5jZSogCgVwYXBlchWSDx0_GgZwYXBlcnMaCnBhcGVybm90ZXMqGAoFbm90ZXMV6iXvPRoKcGFwZXJub3RlcyotCgV3b3VsZBUAAAAAGgNjYW4aBWNvdWxkGgVtaWdodBoGc2hvdWxkGgR3aWxsKnMKCHJlcGxhY2VkFQAAAAAaBmNoYW5nZRoHY2hhbmdlZBoHcmVwbGFjZRoLcmVwbGFjZW1lbnQaCHJlcGxhY2VzGglyZXBsYWNpbmcaC3N1YnN0aXR1dGVkGgpzdXBlcnNlZGVkGg1pdjtwO3JlcGxhY2VkMv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZZN183N2FKMjYwZWx1RURBOHJtZHdrUy1zU0wyc0JfRUlLbEIxZXJTaVRtVnh1YlFiZWh2X1NLRWNUa0FQZ0dfcTM4LUpnUXUwOGRCcmd1aEFOWWY3VG1XMEVJdGhpRXpOU2RSVUlYVWt4SVA2alE3bkRPcVBaOTJVM1VqNzU4QWxNNnZRWFJJbk44ZDluZ3lEbUhhc3hpQ2daNll1aEJtTmxVXzNJbWU5S1Y5QWhGUWY3NF9BanRnX2UteTg4VjBlbVYwVFdPMC1BN2FBMFhBbXRsb2ZpV05lT2s0VTlWRFhZVUhlbzpBTm8gcHJvcG9zYWwgdG8gPGI-cmVwbGFjZTwvYj4gZmFjZSBvZiBNYWhhdG1hIEdhbmRoaSBvbiBiYW5rbm90ZXNCrgFEaXNtaXNzaW5nIHJlcG9ydHMsIHRoZSBSZXNlcnZlIEJhbmsgb2YgSW5kaWEgKFJCSSkgb24gSnVuZSA2IHNhaWQgdGhlcmUgaXMgPGI-bm8gcHJvcG9zYWwgdG8gcmVwbGFjZSB0aGUgZmFjZSBvZiBNYWhhdG1hIEdhbmRoaTwvYj4gd2l0aCB0aGF0IG9mIG90aGVycyBvbiBjdXJyZW5jeSAmbmJzcDsuLi5SA2NhblIEd2lsbCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZZN183N2FKMjYwZWx1RURBOHJtZHdrUy1zU0wyc0JfRUlLbEIxZXJTaVRtVnh1YlFiZWh2X1NLRWNUa0FQZ0dfcTM4LUpnUXUwOGRCcmd1aEFOWWY3VG1XMEVJdGhpRXpOU2RSVUlYVWt4SVA2alE3bkRPcVBaOTJVM1VqNzU4QWxNNnZRWFJJbk44ZDluZ3lEbUhhc3hpQ2daNll1aEJtTmxVXzNJbWU5S1Y5QWhGUWY3NF9BanRnX2UteTg4VjBlbVYwVFdPMC1BN2FBMFhBbXRsb2ZpV05lT2s0VTlWRFhZVUhlbxIEGgIIABq9BxICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJcHCAAQABgAIAAqKwoDcmJpFXNIKUAaFXJlc2VydmUgYmFuayBvZiBpbmRpYRoIaXY7cDtyYmkqgAEKCGFubm91bmNlFQAAAAAaCWFkdmVydGlzZRoJYW5ub3VuY2VkGgxhbm5vdW5jZW1lbnQaDWFubm91bmNlbWVudHMaCWFubm91bmNlcxoKYW5ub3VuY2luZxoHZGVjbGFyZRoNaXY7cDthbm5vdW5jZRoEbmV3cxoHZmluYW5jZSogCgVwYXBlchWSDx0_GgZwYXBlcnMaCnBhcGVybm90ZXMqGAoFbm90ZXMV6iXvPRoKcGFwZXJub3RlcyotCgV3b3VsZBUAAAAAGgNjYW4aBWNvdWxkGgVtaWdodBoGc2hvdWxkGgR3aWxsKnMKCHJlcGxhY2VkFQAAAAAaBmNoYW5nZRoHY2hhbmdlZBoHcmVwbGFjZRoLcmVwbGFjZW1lbnQaCHJlcGxhY2VzGglyZXBsYWNpbmcaC3N1YnN0aXR1dGVkGgpzdXBlcnNlZGVkGg1pdjtwO3JlcGxhY2VkMv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZZN183N2FKMjYwZWx1RURBOHJtZHdrUy1zU0wyc0JfRUlLbEIxZXJTaVRtVnh1YlFiZWh2X1NLRWNUa0FQZ0dfcTM4LUpnUXUwOGRCcmd1aEFOWWY3VG1XMEVJdGhpRXpOU2RSVUlYVWt4SVA2alE3bkRPcVBaOTJVM1VqNzU4QWxNNnZRWFJJbk44ZDluZ3lEbUhhc3hpQ2daNll1aEJtTmxVXzNJbWU5S1Y5QWhGUWY3NF9BanRnX2UteTg4VjBlbVYwVFdPMC1BN2FBMFhBbXRsb2ZpV05lT2s0VTlWRFhZVUhlbzpBTm8gcHJvcG9zYWwgdG8gPGI-cmVwbGFjZTwvYj4gZmFjZSBvZiBNYWhhdG1hIEdhbmRoaSBvbiBiYW5rbm90ZXNCrgFEaXNtaXNzaW5nIHJlcG9ydHMsIHRoZSBSZXNlcnZlIEJhbmsgb2YgSW5kaWEgKFJCSSkgb24gSnVuZSA2IHNhaWQgdGhlcmUgaXMgPGI-bm8gcHJvcG9zYWwgdG8gcmVwbGFjZSB0aGUgZmFjZSBvZiBNYWhhdG1hIEdhbmRoaTwvYj4gd2l0aCB0aGF0IG9mIG90aGVycyBvbiBjdXJyZW5jeSAmbmJzcDsuLi5SA2NhblIEd2lsbCICEAFIAFgAaAA",
+      "source": "The Hindu"
+    },
+    {
+      "position": 9,
+      "title": "It's time for you to know your Note and How genuine it is with ...",
+      "link": "https://www.instagram.com/reel/C94YWcahZWu/",
+      "displayed_link": "540+ likes · 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab167164c437fefb366683a/images/4SBqZWRHZ9Qp0Dr2dbfSNO4VF_bnIK9DzoIeWMXhV9U.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "The Centre has approved the RBI's proposal for pilot testing, but has clarified that there is currently no plan to replace all existing paper currency notes ...",
+      "duration": "0:30",
+      "about_this_result": {
+        "source": {
+          "description": "The Centre has approved the RBI's proposal for pilot testing, but has clarified that there is currently no plan to replace all existing paper currency notes ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVi16SEFYdFdFLXV0dHBNaFRBcTNVcnhlUnNGSF9PbWs0YjU0eDBMY2NITXJhdXh2UFNkVnBEUTVyR0t6bldEU1l5SVN1RFdMYm5vcFFmVFVmZ2ZrY0dTNmZock94VFdhemcwRzEzZmNWbUU5RUNHS0ZVeEt0RWpzZWczVW03QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVi16SEFYdFdFLXV0dHBNaFRBcTNVcnhlUnNGSF9PbWs0YjU0eDBMY2NITXJhdXh2UFNkVnBEUTVyR0t6bldEU1l5SVN1RFdMYm5vcFFmVFVmZ2ZrY0dTNmZock94VFdhemcwRzEzZmNWbUU5RUNHS0ZVeEt0RWpzZWczVW03QRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Instagram · reservebankofindia"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=10&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8NMDegQIMhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=10&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAE",
+      "3": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=20&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAG",
+      "4": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=30&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAI",
+      "5": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=40&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAK",
+      "6": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=50&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAM",
+      "7": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=60&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAO",
+      "8": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=70&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAQ",
+      "9": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=80&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAS",
+      "10": "https://www.google.com/search?q=rbi+announce+paper+notes+would+replaced+before:2026-01-01&sca_esv=faee95f19f118383&ei=FmexaveXBuXEp84P9-upwQ0&start=90&sa=N&sstk=AS6-VmK2CxahDfs6guClrUrRGFXk9L7Win7xXk2sOCcc5YNhJMkx8JUmoY0zpOffJZytNyQKv2RMEObZjBm1EA_BeJGhVeEAwdLZDw&ved=2ahUKEwj3-uOZl4CXAxVl4skDHfd1KtgQ8tMDegQIMhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+announce+paper+notes+would+replaced+before%3A2026-01-01&start=90"
+    }
+  }
+}

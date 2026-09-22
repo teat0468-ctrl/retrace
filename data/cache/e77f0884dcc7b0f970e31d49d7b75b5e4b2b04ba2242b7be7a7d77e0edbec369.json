@@ -1,0 +1,176 @@
+{
+  "search_metadata": {
+    "id": "6ab2303257c44b238cb25a6b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lfMZAgz04QQ3KXc9N8CHRmcEY_e2QvNwHWJlqRGCdY0/6ab2303257c44b238cb25a6b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lfMZAgz04QQ3KXc9N8CHRmcEY_e2QvNwHWJlqRGCdY0/6ab2303257c44b238cb25a6b.md",
+    "created_at": "2026-09-22 07:37:22 UTC",
+    "processed_at": "2026-09-22 07:37:22 UTC",
+    "google_news_url": "https://news.google.com/search?q=leaked+documents+prove+nasa+faked+moon+new+update",
+    "raw_html_file": "https://serpapi.com/searches/lfMZAgz04QQ3KXc9N8CHRmcEY_e2QvNwHWJlqRGCdY0/6ab2303257c44b238cb25a6b.html",
+    "total_time_taken": 7.11
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "leaked documents prove nasa faked moon new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Did we really land on the moon? Artemis II launches, conspiracies debunked",
+      "source": {
+        "name": "Florida Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.floridatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eric Lagatta",
+          "Lianna Norman"
+        ]
+      },
+      "link": "https://www.floridatoday.com/story/tech/science/space/2026/03/31/moon-landing-fake-conspiracy-theory-kardashian-buzz-aldrin-nasa-artemis/89392567007/",
+      "thumbnail": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/03/16/NPOH/89187193007-alan-shepard-image-from-reuters.JPG?crop=2199,1237,x0,y706&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTSEV4V0dGQk5tSXdlRVJWVFJDb0FSaXNBaWdCTWdZQmtJWkZ1Z00",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Moon Denialists Are So Pathetic That They’re Using AI to Fake Artemis Footage",
+      "source": {
+        "name": "Futurism",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://futurism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Victor Tangermann"
+        ]
+      },
+      "link": "https://futurism.com/artificial-intelligence/moon-denialists-ai-fake-artemis-footage",
+      "thumbnail": "https://futurism.com/wp-content/uploads/2026/04/moon-denialists-ai-fake-artemis-footage.jpg?quality=85&w=1152",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRXVXR0V2pORlMzcGxTSEZFVFJDUkF4ajlCU2dLTWdrQllJcU5MQ2MxVWdF",
+      "date": "04/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-13T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "False: No Evidence NASA's \"Project Anchor\" Predicts Earth Will Lose Gravity for Seven Seconds on August 12, 2026",
+      "source": {
+        "name": "srilanka.factcrescendo.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://srilanka.factcrescendo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://srilanka.factcrescendo.com/english/false-nasa-project-anchor-earth-loses-gravity-august-12-2026/",
+      "thumbnail": "https://srilanka.factcrescendo.com/english/wp-content/uploads/2026/07/06-2607-cover.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNZV2syWWtaT1gwSnpUSEpsVFJDa0F4anVCQ2dLTWdZQk5aYXJxUWM",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Did Wikileaks Release Faked Moon Landing Footage?",
+      "source": {
+        "name": "Snopes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.snopes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Evon"
+        ]
+      },
+      "link": "https://www.snopes.com/fact-check/wikileaks-faked-moon-landing/",
+      "thumbnail": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/01/moon-landing-hoax-video.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhVWEpQY1dGcVdFbDBiR055VFJDZkF4ampCU2dLTWdhZGhKQ3JOUVk",
+      "date": "01/03/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-01-03T08:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Leaked files reveal reputation-management firm’s deceptive tactics",
+      "source": {
+        "name": "washingtonpost.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shawn Boburg"
+        ]
+      },
+      "link": "https://www.washingtonpost.com/investigations/interactive/2023/eliminalia-fake-news-misinformation/",
+      "thumbnail": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAIQ3QMKEZGWLMH2C4MSSUMALE.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpiMkpaTVhsUGQxQmhhVEZUVFJERUF4aW1CU2dLTWdrQlFJaEF5Mk5ycmdF",
+      "date": "02/17/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-02-17T08:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "NASA video fuels theories it's 'faking' Artemis II with green screens",
+      "source": {
+        "name": "Daily Mail",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailymail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stacy Liberatore"
+        ]
+      },
+      "link": "https://www.dailymail.com/sciencetech/article-15709671/nasa-artemis-moon-hoax-greenscreen.html",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/13/1775564365395_9359077547238988.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZURGsxY0ZjNFUweDJla1k1VFJDZkF4ampCU2dLTWdZSlVvUk5NUU0",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Fact Check: Video Is NOT Proof That Moon Landing Was Hoax -- It's Lampoon Of Conspiracy Theories",
+      "source": {
+        "name": "leadstories.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://leadstories.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Thompson"
+        ]
+      },
+      "link": "https://leadstories.com/hoax-alert/2022/10/fact-check-video-is-not-proof-of-apollo-11-hoax-its-lampoon-about-moon-landing-conspiracies.html",
+      "thumbnail": "https://leadstories.com/assets_c/2022/10/screenshot_3480329-thumb-352xauto-3097215.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTbWRGVGxwTUxYZG1RVWR2VFJER0FSamdBaWdLTWdhUkNKU0hEZ3M",
+      "date": "10/21/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-10-21T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

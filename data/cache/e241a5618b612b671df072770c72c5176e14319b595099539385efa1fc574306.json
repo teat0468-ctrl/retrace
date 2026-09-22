@@ -1,0 +1,1204 @@
+{
+  "search_metadata": {
+    "id": "6ab1114a9a1f2c06f90ddfe4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KcifPnmmaisw5RY3y3J_rp8kZvaJHjRUu71cRHDZ4eI/6ab1114a9a1f2c06f90ddfe4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KcifPnmmaisw5RY3y3J_rp8kZvaJHjRUu71cRHDZ4eI/6ab1114a9a1f2c06f90ddfe4.md",
+    "created_at": "2026-09-21 11:13:14 UTC",
+    "processed_at": "2026-09-21 11:13:14 UTC",
+    "google_news_url": "https://news.google.com/search?q=did+apple+really+just+introduce+iphone+new+update",
+    "raw_html_file": "https://serpapi.com/searches/KcifPnmmaisw5RY3y3J_rp8kZvaJHjRUu71cRHDZ4eI/6ab1114a9a1f2c06f90ddfe4.html",
+    "total_time_taken": 2.08
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "did apple really just introduce iphone new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Apple unveils iPhone Duo",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "thumbnail": "https://www.apple.com/newsroom/videos/2026/autoplay/09/apple-unveils-iphone-duo/apple-iphone-duo-opening/posters/Apple-iPhone-Duo-opening-iPhone-Duo-260909.jpg.large_2x.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXbEF4Y1VoS1NYbzRXR04wVFJDb0FSaXNBaWdCTWdZdFZZek9xUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-2up-260909_inline.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtjVEpxTTJoRlQwWlNkbEZhVFJDUUJSalVBeWdLTWdNUk13dw",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Apple releases iOS 26.6.2 for iPhone, here’s what’s new",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhNbE5zUjNSeVdYSTFNVFpQVFJDSEF4aVBCaWdLTWdhaFlvenNxUVk",
+      "date": "09/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-08T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "5 Cool New iOS 27 Features To Try In The First Public Beta",
+      "source": {
+        "name": "bgr.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jose Adorno"
+        ]
+      },
+      "link": "https://www.bgr.com/2214229/ios-27-beta-3-new-features-release/",
+      "thumbnail": "https://www.bgr.com/img/gallery/ios-27-beta-3-new-features-release/intro-1783977260.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5URXRDYVZob1ppMDRPSHB4VFJDZkF4ampCU2dLTWdZdFJZYlBwUWM",
+      "date": "07/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-13T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Apple Launch Event 2025: Full Leaks Unveil Foldable iPhone, New CEO & Surprise Announcement | Ultimate Guide",
+      "source": {
+        "name": "eu.36kr.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eu.36kr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://eu.36kr.com/en/p/3957271153917056",
+      "thumbnail": "https://img.36krcdn.com/hsossms/20260827/v2_0b29082550544cfeac7f76ff39049ec7@000000_oswg178247oswg1080oswg488_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlVWE5vT0d3Mk5qWm5helZUVFJEMEFoaTRCaWdLTWdZdFZZU3VVUU0",
+      "date": "08/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-27T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Apple Releases Surprise iOS 26.3.1 With Critical Fixes—but Users Notice Problem",
+      "source": {
+        "name": "Newsweek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Thomas Westerholm"
+        ]
+      },
+      "link": "https://www.newsweek.com/apple-releases-ios-26-3-1-critical-fixes-problem-11627836",
+      "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2026/03/GettyImages-2235337210-1.jpg?w=1600&quality=80&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRaVWRWWVROMFlUY3dkVmx0VFJERUF4aW1CU2dLTWdNUkJnSQ",
+      "date": "03/05/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-05T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "iPhone 5s Gets New Software Update 13 Years After Launch",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/01/26/iphone-5s-software-update/",
+      "thumbnail": "https://images.macrumors.com/t/NCy_NxbrykgcQ3tTazTCXoT_BpU=/400x0/article-new/2024/05/iPhone-5s-16x9.jpeg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kbUZVYlUxVlRFRk5XalZ2VFJEaEFSaVFBeWdLTWdZaGtaYlROQWM",
+      "date": "01/26/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-26T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Apple is about to launch five new products that I’m very excited for",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/08/24/apple-is-about-to-launch-five-new-products-that-im-very-excited-for/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/iPhone-15-event-date.jpg?quality=82&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9SVnBZYjBOaU9HZFZXakZZVFJDSEF4aVBCaWdLTWdhbHBJS3ZWUU0",
+      "date": "08/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-24T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "iPhone 18 Release Date: Is It Really Just Weeks Away, As New Report Claims?",
+      "source": {
+        "name": "Forbes",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Phelan"
+        ]
+      },
+      "link": "https://www.forbes.com/sites/davidphelan/2025/12/25/iphone-18-release-date-months-sooner-than-expected-new-report-claims/",
+      "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/694d4d85831472a2cbf70a4d/Apple-Unveils-New-Products-At-Its-HQ-In-Cupertino/0x0.jpg?height=498&width=480&fit=bounds",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxkV1owVGtGSVRtTnlYMnh2VFJEUkFoamdBeWdLTWdhVk5ZeHBuZ2M",
+      "date": "12/25/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-25T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Apple's Reminders app just got another new improvement with the latest iOS 26.4 update",
+      "source": {
+        "name": "supercarblondie.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://supercarblondie.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Claire Reid"
+        ]
+      },
+      "link": "https://supercarblondie.com/apple-reminders-app-new-improvement-ios-26-4/",
+      "thumbnail": "https://supercarblondie.com/wp-content/uploads/ios-262-featured.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRlRFpDY0Y5RGJYUmlXbVZ4VFJDMkF4aTlCU2dLTWdhQkpZcnVJUWc",
+      "date": "04/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-07T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "iOS 26.5 Just Dropped, and It Includes One Very Annoying New iPhone Change",
+      "source": {
+        "name": "Lifehacker",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://lifehacker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jake C Peterson"
+        ]
+      },
+      "link": "https://lifehacker.com/tech/everything-we-know-about-ios-265",
+      "thumbnail": "https://lifehacker.com/imagery/articles/01KN52MVJXQ0T5N0BFM1T9TKXH/hero-image.fill.size_1248x702.v1775066779.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNVbEl4Y0RCTGQwaDVaVGhLVFJDZkF4ampCU2dLTWdZQlFZN05uUWM",
+      "date": "12/18/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-18T08:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "iOS 27 is coming tomorrow: Here’s every new feature",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chance Miller"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/06/06/ios-27-new-features/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-guide.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJkRWRMU2xSeU9HMDNkMjkwVFJDSEF4aVBCaWdLTWdZZFk0N01xUWM",
+      "date": "06/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-06T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "iOS 26.5 release date: Here’s when new iPhone features are coming",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/05/01/ios-26-5-release-date-heres-when-new-iphone-features-are-coming/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-26.5-when.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFhMVJYUzA4ME1saExhR0k0VFJDSEF4aVBCaWdLTWdZcFpJeU9LUVk",
+      "date": "05/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-01T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "New iPhone Ultra leaks cover release timing, availability, and name",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdibWhNZURscWJtMDJTM1l0VFJDSEF4aVBCaWdLTWdZaEpJNnNIUWc",
+      "date": "08/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-17T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "iOS 27 public beta is here with Siri AI, iPhone speed upgrades, and more",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zac Hall"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVhM0ZmUlhCd2VFdEtVa04yVFJDSEF4aVBCaWdLTWdZWk00cExHUWc",
+      "date": "07/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-13T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Apple will launch 20+ new products this year, here’s what’s coming",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/01/23/apple-will-launch-20-new-products-next-year-heres-whats-coming/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/iPhone-17-event-scheduled-for-September-9-according-to-carrier-documents.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJZV2R3VjNsVFRGOUZWbWhRVFJDSEF4aVBCaWdLTWdZcHBZTE95UU0",
+      "date": "01/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-23T08:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "iOS 27 fixes Liquid Glass, and not just with a slider",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Lovejoy"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/06/12/ios-27-fixes-liquid-glass-and-not-just-with-a-slider/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Liquid-Glass-slider.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1kMVI1ZW1GaE5HNUVjVEpUVFJDSEF4aVBCaWdLTWdZcE5Zek9JUVk",
+      "date": "06/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-12T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Apple will introduce these key Messages app upgrades very soon, here’s what they are",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Burkhardt"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/02/07/apple-messages-app-upgrades-coming-soon-ios-26-4-rcs-texting/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdTblU0Y0ZGR00wbHRhRTlKVFJDSEF4aVBCaWdLTWdZcGNwRE9NUWM",
+      "date": "02/07/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-07T08:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Introducing iPhone Air, a powerful new iPhone with a breakthrough design",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/article/Apple-iPhone-Air-hero-250909_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5VamczVlRoRFprSkhWbDkwVFJDb0FSaXNBaWdCTWdPUmNpUQ",
+      "date": "09/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-09T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Apple releases iOS 18.7.3 for iPhone, here’s what’s new",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/12/12/apple-releases-ios-18-7-3-for-iphone-heres-whats-new/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/ios-18.7.3.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRaRVIwY0ZwR1dTMW9TakpRVFJDSEF4aVBCaWdLTWdZZGNaTHFzUVk",
+      "date": "12/12/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-12T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Apple’s New iPhone Update Is Restricting Internet Freedom in the UK",
+      "source": {
+        "name": "Big Brother Watch",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bigbrotherwatch.org.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+      "thumbnail": "https://bigbrotherwatch.org.uk/wp-content/uploads/2026/03/IOS-age-check.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpYelZNUnpGcE1reGlVR2MwVFJDZkF4ampCU2dLTWdhbFU0ek9yUWM",
+      "date": "04/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-09T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Apple finally realized not everyone wants to stare through glass",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tsveta Ermenkova"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/apple-finally-realized-not-everyone-wants-to-stare-through-glass_id175256",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/175256-wide-two_1200/Apple-finally-realized-not-everyone-wants-to-stare-through-glass.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXliR2h0Y1c0d1NYUlFVVUZFVFJDZkF4ampCU2dLTWdZTkU0ak9HUXM",
+      "date": "10/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-28T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Apple Just Released an Important Update to Solve Some iOS 26 Problems",
+      "source": {
+        "name": "Lifehacker",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://lifehacker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jake C Peterson"
+        ]
+      },
+      "link": "https://lifehacker.com/tech/apple-releases-update-for-ios-26",
+      "thumbnail": "https://lifehacker.com/imagery/articles/01K6AXWQYZDCFYV4394NF1WJM0/hero-image.fill.size_1248x702.v1759156995.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUtWbGcwYkU0d1dWRkNUa0o1VFJDZkF4ampCU2dLTWdNZEJRbw",
+      "date": "09/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-29T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Apple iOS 27 is out now: 8+ new features to try right away",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matt Binder"
+        ]
+      },
+      "link": "https://mashable.com/tech/ios-27-launch-day-features-to-try-right-away",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/01K6Q0EmfluFTXmoRF1AjkM/hero-image.fill.size_1248x702.v1789408500.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWQzFFWnpNMVpYa3hibmwxVFJDZkF4ampCU2dLTWdZWlZJUUtKZ2c",
+      "date": "09/21/2026, 04:20 AM, +0000 UTC",
+      "iso_date": "2026-09-21T04:20:02Z"
+    },
+    {
+      "position": 25,
+      "title": "What to expect from Apple's 'Surprise and shine' iPhone 18 Pro event on September 9",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Malcolm Owen"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9",
+      "thumbnail": "https://media.appleinsider.com/gallery/68521-144769-appleiphoneeventsept2026-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJUVVJwTTFsTE56RkNTekYwVFJDZkF4ampCU2dLTWdhbEJJclBQUVk",
+      "date": "08/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-26T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "iOS 27 is official: Siri AI, Child safety, and a farewell to Tim Cook",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peter Kostadinov"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/ios-27-official-all-the-new-features_id180942",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/180942-wide-two_1200/iOS-27-is-official-Siri-AI-Child-safety-and-a-farewell-to-Tim-Cook.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpaR0ZaWWtwc1YwaGZja05HVFJDZkF4ampCU2dLTWdhbFpKQ3NxUVk",
+      "date": "06/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-09T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Apple might actually deliver my only ‘iOS 19’ feature request",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zac Hall"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/05/29/apple-might-actually-deliver-my-only-ios-19-feature-request/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/ios26-dark.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZZMUJYUm14MFduZEROV1J2VFJDSEF4aVBCaWdLTWdZcGhZNnVOUVk",
+      "date": "05/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-29T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "source": {
+        "name": "TechCrunch",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aisha Malik",
+          "Morgan Little"
+        ]
+      },
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBaVGhFZDNsNU1tWnFZbXh5VFJDaEF4amdCU2dLTWdZTk1ZaldvQVk",
+      "date": "06/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-09T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Your iPhone Just Got Better. Here's Everything Apple Added to iOS 26.3",
+      "source": {
+        "name": "PCMag",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "James Peckham"
+        ]
+      },
+      "link": "https://www.pcmag.com/news/ios-263-everything-apple-added-your-iphone-just-got-better",
+      "thumbnail": "https://i.pcmag.com/imagery/articles/00GFglChlK80ut9jun0IxHT-1..v1770919103.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpRMEZqWW1jdFJrOVpkak5SVFJDZkF4ampCU2dLTWdtWlFvcHZJU2lEc0FF",
+      "date": "02/12/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-12T08:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "iOS 26.5.1 could launch soon as next iPhone update",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/05/22/ios-26-5-1-could-launch-soon-as-next-iphone-update/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-1-clear.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkWEZsTkhNdGJGSnJiRWsxVFJDSEF4aVBCaWdLTWdZSmNZcnZRQVU",
+      "date": "05/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-22T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Apple releases iOS 26 with Liquid Glass and more intelligence",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Malcolm Owen"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/25/09/15/apple-releases-ios-26-with-liquid-glass-and-more-intelligence",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/64774-135230-63919-132965-Apple-WWDC25-iOS-26-hero-250609-xl-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRjVFF5Tm5WQlRXTXhPVmRHVFJDZkF4ampCU2dLTWdZRlFZb05KUWc",
+      "date": "09/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-15T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "iOS 27 release date: Here’s when the new iPhone update will launch",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-icon-fi.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZTMUJTVUVKc1VWTTVMVk5GVFJDSEF4aVBCaWdLTWdhaEk1Q3RwUVk",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Android vs. iPhone: Which OS Dominates in the 2026 Smartphone War?",
+      "source": {
+        "name": "PCMag",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gabriel Zamora"
+        ]
+      },
+      "link": "https://www.pcmag.com/comparisons/android-vs-ios-iphone-which-os-dominates-in-2026-smartphone-war",
+      "thumbnail": "https://i.pcmag.com/imagery/comparisons/04iK5Awjv9wxOf2d1qd7SCi-56.fit_lim.size_1050x.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHliRTR4U1dkSWJWRmtiblZVVFJDZkF4amlCU2dLTWdrRklZeldHQ3E1aHdJ",
+      "date": "05/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-13T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Apple's New iPhone 17 Lineup Has Wall Street Already Looking to Next Year",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kara Greenberg"
+        ]
+      },
+      "link": "https://www.investopedia.com/apple-s-new-iphone-17-lineup-has-wall-street-already-looking-to-next-year-11808956",
+      "thumbnail": "https://www.investopedia.com/thmb/LBMH5Uo5C7zDcrhHaUgOlDJH-K4=/375x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2234535394-a48f6d037d5b45e9a337f3c0c5d8d79e.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBRWEJ0UWtaT1RYVkNXbk5XVFJENkFSajNBaWdLTWdZQmdJNUZ0UVk",
+      "date": "09/13/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-13T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "iOS 26 is here! Your iPhone 17 will come with Liquid Glass and exciting new Apple Intelligence features",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abdullah Asim"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/ios-26-is-here-iphone-17-will-come-with-liquid-glass-and-exciting-new-apple-intelligence-features_id174064",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/174064-wide-two_1200/iOS-26-is-here-Your-iPhone-17-will-come-with-Liquid-Glass-and-exciting-new-Apple-Intelligence-features.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVblIxWVU5a1JtZHpOVGN0VFJDZkF4ampCU2dLTWdhbFpKQ05xUVk",
+      "date": "09/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-15T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Apple just made a mockery of the awful Android software update situation",
+      "source": {
+        "name": "Android Police",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidpolice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andy Boxall"
+        ]
+      },
+      "link": "https://www.androidpolice.com/apple-just-made-a-mockery-of-the-awful-android-software-update-situation/",
+      "thumbnail": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/iphone-11-iphone-17-pro-max.JPG?w=1600&h=900&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVlREJVYVVwdllteFBXSEpoVFJDZkF4ampCU2dLTWdrVlE0Z3lIYW1LYlFF",
+      "date": "06/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-09T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "iOS 27, macOS 27, Siri: What to expect to launch at WWDC 2026",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Malcolm Owen"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/06/05/ios-27-macos-27-siri-what-to-expect-to-launch-at-wwdc-2026",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/67668-142628-67394-141863-wwdc2026logo-xl-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhOMjV1YldwMFpEbGFOSG8wVFJDZkF4ampCU2dLTWdNUm9SUQ",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Apple just did something rare that signals big September event",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/08/26/apple-just-did-something-rare-that-signals-big-september-event/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hands-on-steve-jobs-theater-2018.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZjVkpLYXpkUFNuZHJNbUk0VFJDSEF4aVBCaWdLTWdNQk1BUQ",
+      "date": "08/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-26T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "iOS 27: All the Rumors About Apple's Next Big iPhone Software Update",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/guide/ios-27-rumors/",
+      "thumbnail": "https://images.macrumors.com/t/Jav40hKvhCs-fCAfcg0nmFK7O5s=/400x0/article-new/2025/11/iOS-27-Mock-Quick.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJOemxLY0U1UVowazVXWEpNVFJEaEFSaVFBeWdLTWdhbFJKS3RvUWM",
+      "date": "11/26/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-26T08:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "iOS 26 review: Great new features and a brand new look",
+      "source": {
+        "name": "tomsguide.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tomsguide.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Philip Michaels"
+        ]
+      },
+      "link": "https://www.tomsguide.com/phones/iphones/ios-26-review-new-features-liquid-glass",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/7q4X7dFT4cZNBAtv6ptmSm-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNObFpRYURCNFdXNURSMXBYVFJEcUFoak9CaWdLTWdhcFJZek9xUVk",
+      "date": "09/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-15T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "4 Reasons To Skip The iPhone 18 (And Why You Should Upgrade To iPhone 17 Now)",
+      "source": {
+        "name": "bgr.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jose Adorno"
+        ]
+      },
+      "link": "https://www.bgr.com/2239495/reasons-skip-iphone-18-pros-cons-iphone-17/",
+      "thumbnail": "https://www.bgr.com/img/gallery/4-reasons-to-skip-the-iphone-18-and-why-you-should-upgrade-to-iphone-17-now/intro-1787075616.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9Ua0pNZG1weGQwOVhSamwyVFJDZkF4ampCU2dLTWdrSklJNG1uU2hyRHdJ",
+      "date": "08/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-18T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "The Best iPhone in 2026: Which Apple Smartphone Is Right for You?",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brendan Griffiths",
+          "Lillian Brown",
+          "Sarah Saril"
+        ]
+      },
+      "link": "https://www.businessinsider.com/guides/tech/best-iphone",
+      "thumbnail": "https://i.insider.com/6aa16bc3cc23a829a3b8f306?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5jMUYzWkRCdlVrZFJhRkZ4VFJEZ0F4aUFCU2dLTWdhaFk0U3NzUVU",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "iOS 26 release date: Here’s when the new iPhone update will launch",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/08/29/ios-26-release-date-heres-when-the-new-iphone-update-will-launch/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iOS-26-release-date.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVhVTlCVjNCNU1qZHlNRFZqVFJDSEF4aVBCaWdLTWdZcFpJcU9LUVk",
+      "date": "08/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-29T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Everything New in iOS 26.5 Beta 1",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/03/30/everything-new-in-ios-26-5-beta-1/",
+      "thumbnail": "https://images.macrumors.com/t/EZ6iljplo5bGhdvHgixtUytq0Lc=/400x0/article-new/2026/03/iOS-26.5-Glass-Feature-Purple.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZbVpVUm5JeVFtRmFVek4wVFJEaEFSaVFBeWdLTWdhaFZKS3NLUWM",
+      "date": "03/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-30T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "iOS 26 Review: Apple Embarks On A New Era Of Mobile Software",
+      "source": {
+        "name": "bgr.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jose Adorno"
+        ]
+      },
+      "link": "https://www.bgr.com/1968633/ios-26-review/",
+      "thumbnail": "https://www.bgr.com/img/gallery/ios-26-review-apple-embarks-on-a-new-era-of-mobile-software/intro-1757956447.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5ibGxMZG1kVmNuaHNUa3R6VFJDZkF4ampCU2dLTWdZbFk0SlByUU0",
+      "date": "09/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-15T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "iPhone 18 release date just got new evidence of delay, per leak",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/05/05/iphone-18-release-date-just-got-new-evidence-of-delay-per-leak/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdXV1JhUjNKc2MwTnlZaTFTVFJDSEF4aVBCaWdLTWdZaE5JVHRxUVk",
+      "date": "05/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Apple has just released the first update to iOS 26, fixing important issues",
+      "source": {
+        "name": "supercarblondie.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://supercarblondie.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://supercarblondie.com/apple-released-first-ios-26-update/",
+      "thumbnail": "https://tech.supercarblondie.com/wp-content/uploads/Featured-Image-2025-09-18T162040787.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRVSFZWT0RsWVdrdG1abmhLVFJDMkF4aTlCU2dLTWdhRkVJaVdGQWs",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-01T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Apple's iPhone 17 launch event: The good, the bad, and the ugly | This is what Apple didn’t tell you",
+      "source": {
+        "name": "Ynetnews",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ynetnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hillel Fuld"
+        ]
+      },
+      "link": "https://www.ynetnews.com/tech-and-digital/article/bkpprbdilg",
+      "thumbnail": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/09/S1l5YJRqgl/S1l5YJRqgl_0_0_1280_720_0_large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNNbmwyZUVWNFdFMTZaRWQ1VFJDVUFoanFBeWdLTWdZTlVZVFRKQU0",
+      "date": "09/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-16T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Apple may have just made one of the most important new Siri announcements",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Lovejoy"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/05/06/apple-may-have-just-made-one-of-the-most-important-new-siri-announcements/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-services-apps.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9YMjB5WlUxWFFqUlVTMnROVFJDSEF4aVBCaWdLTWdzTk1vclRKQ2h6ejVub3FR",
+      "date": "05/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-06T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "This is how age verification works on iOS 26",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "William Gallagher"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/02/25/how-age-verification-works-in-ios-264",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/66832-140160-000-lead-age-verification-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJYemx6Y1hRMk1WWlhkbXhwVFJDZkF4ampCU2dLTWdZbFJZek9NUVk",
+      "date": "02/25/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-25T08:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "iOS 18: Your iPhone Just Got All These New Features",
+      "source": {
+        "name": "cnet.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zachary McAuliffe"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/services-and-software/ios-18-your-iphone-just-got-all-these-new-features/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/f1974f24-4ac6-4f2c-a308-7a811463432a.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNWVll6ZVU1VFJXRm1NRXM1VFJDZkF4ampCU2dLTWdZaE00Uk1tUVE",
+      "date": "09/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-23T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Every iPhone model that supports Apple's new iOS 26 AI features (and no, its not just the iPhone 17)",
+      "source": {
+        "name": "ZDNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zdnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sabrina Ortiz"
+        ]
+      },
+      "link": "https://www.zdnet.com/article/every-iphone-model-that-will-support-apples-upcoming-ai-features-including-the-new-siri/",
+      "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/d561679d-328d-4c6c-9f19-3ad80cdb1bfd.jpg?resize=1200,675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXljbTFPZUZRMFJYSkJVM2RtVFJDZkF4ampCU2dLTWdZbFZZVE1wUWc",
+      "date": "09/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-08T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "AirPods Pro 3: Better today than at launch [Video]",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Fernando Silva"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/04/14/airpods-pro-3-better-today-than-at-launch-video/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/fernando-airpods-pro.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZNRU5hYUhkNGJtbGZaMDFYVFJDSEF4aVBCaWdLTWdhWlZJenNLUWc",
+      "date": "04/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-14T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "After the Siri scandal, I went down an iOS and Android privacy rabbit hole",
+      "source": {
+        "name": "Android Authority",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.androidauthority.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matt Horne"
+        ]
+      },
+      "link": "https://www.androidauthority.com/ios-android-privacy-comparison-3524704/",
+      "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2024/10/Apple-Intelligence-Siri-bubble.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpjMnAyTFc0MGIwUTVSSFI1VFJDZkF4ampCU2dLTWdZbEJKS3VqUWM",
+      "date": "02/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-14T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Apple's announcing its iPhone 17 lineup today: Rumors, prices, new features and what else you need to know",
+      "source": {
+        "name": "Engadget",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.engadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anna Washenko"
+        ]
+      },
+      "link": "https://www.engadget.com/mobile/smartphones/apples-announcing-its-iphone-17-lineup-today-rumors-prices-new-features-and-what-else-you-need-to-know-153024452.html",
+      "thumbnail": "https://www.engadget.com/engadget/apples-announcing-its-iphone-17-lineup-today-rumors-prices-new-features-and-what-else-you-need-to-know-153024452/6da193f0-8ccf-11f0-b3e6-c28d63bb1761.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZlVEkyU1hsWFZ6Qk1XV1JNVFJDZkF4ampCU2dLTWdtcEZJanRGU3BzVEFF",
+      "date": "09/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-09T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "iOS 17: Has Apple Just Introduced Its Most Controversial iPhone Update?",
+      "source": {
+        "name": "Forbes",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Phelan"
+        ]
+      },
+      "link": "https://www.forbes.com/sites/davidphelan/2023/08/11/ios-17-has-apple-just-introduced-the-most-annoying-iphone-update/",
+      "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/64d616b36ef3f24020d9eed6/IMG-5540/0x0.jpg?format=jpg&width=480",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFaV1JoWTNsSmJIbGtNVlppVFJEb0FoamdBeWdLTWdhaE5Jek5JUVk",
+      "date": "08/11/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-08-11T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "iOS 26 Icons Look Blurry? Here's How To Fix It",
+      "source": {
+        "name": "bgr.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Smith"
+        ]
+      },
+      "link": "https://www.bgr.com/1977197/how-to-fix-ios-26-icons-blurry/",
+      "thumbnail": "https://www.bgr.com/img/gallery/ios-26-icons-look-blurry-heres-how-to-fix-it/intro-1758585433.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTROVzVtZW5CMmJqY3lkSFF5VFJDZkF4ampCU2dLTWdZSkE1U3VLUWM",
+      "date": "09/27/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-27T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "9 Essential Apple Watch Apps You Should Install In 2026",
+      "source": {
+        "name": "bgr.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Khamosh Pathak"
+        ]
+      },
+      "link": "https://www.bgr.com/2146373/essential-apple-watch-apps-should-install/",
+      "thumbnail": "https://www.bgr.com/img/gallery/9-essential-apple-watch-apps-you-should-install-in-2026/intro-1776072363.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVVR000Y20xblVXMU1PVkk1VFJDZkF4ampCU2dLTWdZdGM0ck9zUVk",
+      "date": "04/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-14T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "How to use Reduce Interruptions on iOS 26 and what it does",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "William Gallagher"
+        ]
+      },
+      "link": "https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does",
+      "thumbnail": "https://photos5.appleinsider.com/gallery/60555-124577-000-lede-Reduce-Notifications-d2-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhUR1JMY0VwTFlXZ3dZako2VFJDZEF4am1CU2dLTWdhaFJJeXR0UVU",
+      "date": "07/31/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-31T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Opinion: Focus is the most important feature in iOS 15; here’s how I’m using it",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://9to5mac.com/2021/09/25/opinion-focus-most-important-feature-ios-15/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2021/06/ios-15-iphone-focus-feature-9to5mac-2.jpg?quality=82&strip=all&resize=1200,628",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFibG94VUVsM1puZFhjVE5RVFJDUUF4ai1CU2dLTWdZcFpaS3RyUWM",
+      "date": "09/25/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-09-25T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "All the new products Apple just announced",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Annie Palmer"
+        ]
+      },
+      "link": "https://www.cnbc.com/2019/09/10/apple-hardware-event-new-iphones-apple-watches-and-more.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/106122313-1568148404759gettyimages-1167245730r.jpg?v=1572454285&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFiMnRrZEZBMmRuUm5UR0ZyVFJDZkF4ampCU2dLTWdrVkFJTHBqYWRNVndB",
+      "date": "09/10/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-09-10T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "What happens if you don’t verify age in new iPhone update as Pornhub unrestricted for users",
+      "source": {
+        "name": "LADbible",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ladbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Burke"
+        ]
+      },
+      "link": "https://www.ladbible.com/technology/uk-apple-iphone-age-verification-what-happens-dont-complete-197214-20260506",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHRiOWMyZTM2OTdjZjljYTg0LzY5ZmIxZTA5N2QyOWNiZDNmYzdkYjU4MC9pcGhvbmUtYWdlLXZlcmlmaWNhdGlvbi1hcHBsZS11cGRhdGUtd2hhdC1oYXBwZW5zLWluY29tcGxldGUuanBn.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhPREJYV1VweFFrWnVlVUZWVFJDZkF4ampCU2dLTWdZdFJaRFBvUWc",
+      "date": "05/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-06T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "iOS 11, thoroughly reviewed",
+      "source": {
+        "name": "Ars Technica",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andrew Cunningham"
+        ]
+      },
+      "link": "https://arstechnica.com/gadgets/2017/09/ios-11-thoroughly-reviewed/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/DSC07004.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFiMjFSZEc1dlJIazNUM1ZxVFJDZkF4ampCU2dLTWdZQlk0eE5MUVk",
+      "date": "09/19/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-09-19T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "iOS 12 review: the fixes are in",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chaim Gartenberg"
+        ]
+      },
+      "link": "https://www.theverge.com/2018/9/17/17862236/ios-12-review-download-features-update-speed-iphone-ipad-screen-time-notifications-siri",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/hermano/verge/product/image/8844/akrales_180913_2950_0066_squ.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpjWG8yYUhScFdqTXRUMlZWVFJDcUJCaXFCQ2dLTWdZQkJJck5wUWM",
+      "date": "09/17/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-09-17T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Top 10 features that Android did first before Apple",
+      "source": {
+        "name": "TechNave",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://technave.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://technave.com/gadget/Top-10-features-that-Android-did-first-before-Apple-25202.html",
+      "thumbnail": "https://technave.com/data/files/mall/article/202106101220251988.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5kMFpGVlRGTVpFRjRaVmh0VFJDUkF4ajhCU2dLTWdtTmdaRFFOT2F4a0FF",
+      "date": "06/12/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-06-12T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Why are buyers, investors unhappy with Apple’s iPhone 17 launch?",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Justin Varghese"
+        ]
+      },
+      "link": "https://gulfnews.com/business/markets/why-are-buyers-investors-unhappy-with-apples-iphone-17-launch-1.500265733",
+      "thumbnail": "https://media.assettype.com/gulfnews/2025-09-09/8cao06nr/newsml_afp_com_20250909T000000Z_PH_GTY_2234544004.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBhazkxYzBNM01sOVVWREpSVFJESUF4aWdCU2dLTWdZSllvNzBvQWc",
+      "date": "09/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-11T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Apple News in iOS 10: Greatly Improved",
+      "source": {
+        "name": "MacStories",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macstories.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Graham Spencer"
+        ]
+      },
+      "link": "https://www.macstories.net/ios/apple-news-in-ios-10-greatly-improved/",
+      "thumbnail": "https://cdn.macstories.net/002/IMG_2130.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFZbVI1VTJ0YU5sRmZWRkJqVFJDaEF4amZCU2dLTWdrQklJcmttbWtlcGdJ",
+      "date": "09/13/2016, 07:00 AM, +0000 UTC",
+      "iso_date": "2016-09-13T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Everything Apple Will Introduce At Tomorrow's iPhone 8 And iPhone X Event",
+      "source": {
+        "name": "bgr.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bgr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bgr.com/tech/iphone-8-apple-watch-3-iphone-x-apple-tv/",
+      "thumbnail": "https://www.bgr.com/bgr/tech/iphone-8-apple-watch-3-iphone-x-apple-tv/iphone-8-sign.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdNUzFwZVU5dmFVaDFhbmRZVFJDM0F4aTdCU2dLTWdB",
+      "date": "09/11/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-09-11T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Rumors Say Apple's iPhone X Launch Will Be Screwed by Delays—What's Really Going on? [Updated]",
+      "source": {
+        "name": "Gizmodo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gizmodo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Cranz"
+        ]
+      },
+      "link": "https://gizmodo.com/rumors-say-apples-iphone-x-launch-will-be-screwed-by-de-1819413452",
+      "thumbnail": "https://gizmodo.com/app/uploads/2017/10/gijvsikqcnjzjpcaa7t8.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW5jM0UzTmpkM2NHOHRiMjQwVFJDZkF4ampCU2dLTWdB",
+      "date": "10/13/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-10-13T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Apple iPhone 7 Plus review: Time-saver edition",
+      "source": {
+        "name": "GSMArena.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gsmarena.com/apple_iphone_7_plus_time_saver-review-1527.php",
+      "thumbnail": "https://st.gsmarena.com/imgroot/reviews/16/apple-iphone-7-plus/-728x314/thumb3.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpZVEJSUVhsRFVXOXVVSGxVVFJDNkFoallCU2dLTWdZSkFKU01tQWc",
+      "date": "11/30/2016, 08:00 AM, +0000 UTC",
+      "iso_date": "2016-11-30T08:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Review Apple Arcade pro iOS and iPadOS: Lots of quality games at your fingertips",
+      "source": {
+        "name": "Letem světem Applem",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.letemsvetemapplem.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jiri Filip"
+        ]
+      },
+      "link": "https://www.letemsvetemapplem.eu/en/2019/09/17/recenze-apple-arcade-pro-ios-a-ipados-spousta-kvalitnich-her-na-dosah-ruky/",
+      "thumbnail": "https://www.letemsvetemapplem.eu/wp-content/uploads/2019/09/arcade-2-lsa-1-545x300.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZUbFpUTFVreVEwMHRTVkpVVFJDc0FoaWhCQ2dLTWdZQkFJd3ZLUVk",
+      "date": "09/17/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-09-17T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "The new Apple iOS update features that will completely change your group chat",
+      "source": {
+        "name": "LADbible",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ladbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ladbible.com/news/technology/apple-ios-26-group-chat-update-polls-596176-20250917",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHRiYmM5Y2RkMmEyYzRjOWEwLzY4Y2E4NGYxNTQwNGIyNmJmOTdjMDg2ZS9hcHBsZS1pb3MyNi1pY29ucy5qcGc.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVUamx6Y2tSV2EzTklSakJhVFJDZkF4ampCU2dLTWdhVk1vZ3NwUVk",
+      "date": "09/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-17T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "People slam new iOS update as Apple completely changes how your phone will look",
+      "source": {
+        "name": "LADbible",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ladbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Burke"
+        ]
+      },
+      "link": "https://www.ladbible.com/news/technology/apple-ios-update-liquid-glass-changes-227135-20250610",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHRlYTM0OGRiMTdiZjk2OWU2LzY4NDdlY2QxZGVkZmJhMjA3MDEyMWJhNi9hcHBsZS1pb3MtdXBkYXRlLWlwaG9uZS5qcGc.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJWa2hoWm10NVkzRlpZWFpPVFJDZkF4ampCU2dLTWdaRkFwRHpOQVk",
+      "date": "06/10/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-10T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

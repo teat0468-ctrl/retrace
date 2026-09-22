@@ -1,0 +1,1498 @@
+{
+  "search_metadata": {
+    "id": "6ab22b3ab2c613586dcce041",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gK0OA8lpTihr5EGew1_RmwcO-INNA7ywGk202ZiYeKw/6ab22b3ab2c613586dcce041.json",
+    "markdown_endpoint": "https://serpapi.com/searches/gK0OA8lpTihr5EGew1_RmwcO-INNA7ywGk202ZiYeKw/6ab22b3ab2c613586dcce041.md",
+    "created_at": "2026-09-22 07:16:10 UTC",
+    "processed_at": "2026-09-22 07:16:10 UTC",
+    "google_news_url": "https://news.google.com/search?q=iit+bombay+professor+suryanarayana+doolla+student+new+update",
+    "raw_html_file": "https://serpapi.com/searches/gK0OA8lpTihr5EGew1_RmwcO-INNA7ywGk202ZiYeKw/6ab22b3ab2c613586dcce041.html",
+    "total_time_taken": 16.32
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "iit bombay professor suryanarayana doolla student new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "'We stand with Professor Suryanarayana Doolla, don’t condone cheating': IIT-Bombay students break silence",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hemali Chhapia"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/we-stand-with-prof-suryanarayana-doolla-dont-condone-cheating-iit-bombay-students-break-silence/articleshow/134404780.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134404828,width-1280,height-720,imgsize-225750,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFZMjVRYVd0U1owVmhNbTFxVFJDZkF4ampCU2dLTWdrQkFJb0FqNnRyNUFJ",
+      "date": "09/22/2026, 06:41 AM, +0000 UTC",
+      "iso_date": "2026-09-22T06:41:00Z"
+    },
+    {
+      "position": 2,
+      "title": "‘Was simply discharging duties’: IIT Bombay, Delhi, Madras faculty rally behind professor Suryanarayana Doolla | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Poorva Joshi"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/india-news/iit-faculty-delhi-bombay-madras-support-professor-suryanarayana-doolla-after-suspension-over-student-suicide-101790045534991.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/22/1600x900/logo/PTI09-21-2026-000259B-0_1790045783094_lAz9_1790045793717_dyFh_ad9c2744-4b16-486f-ae04-538fe05276ad_OJXF.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5ZaloyZGxGemEzbHRVbVZSVFJDZkF4ampCU2dLTWdZQm9KQVN3UVU",
+      "date": "09/22/2026, 04:08 AM, +0000 UTC",
+      "iso_date": "2026-09-22T04:08:36Z"
+    },
+    {
+      "position": 3,
+      "title": "IIT Bombay, IIT Madras Faculty Defend Professor In Student Suicide Row",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Puja Bhardwaj"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/sahil-wakode-professor-suryanarayana-doolla-iit-bombay-iit-madras-faculty-defend-professor-in-student-suicide-row-12077572",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/a3t9njlg_iit-bombay-iit-madras-_625x300_21_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNRMmxvTlRReE1rcDBVVkJpVFJDZkF4ampCU2dLTWdZTldaQ21LZ2M",
+      "date": "09/21/2026, 03:08 PM, +0000 UTC",
+      "iso_date": "2026-09-21T15:08:55Z"
+    },
+    {
+      "position": 4,
+      "title": "IIT Madras, Delhi faculty join Bombay’s in solidarity with Professor Doolla",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/india/iit-faculty-support-dean-professor-doolla-student-suicide-row-10888254/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/Students-light-candles-as-they-demand-justice-for-Sahil-Wakode-who-died-by-suicide-on-IIT-Bombay-campus-on-Monday.-Sankhadeep-Banerjee.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURUSGxGY2xKcU1WWkNja0pmVFJDZkF4ampCU2dLTWdrQkFJN3JDQ25nQkFJ",
+      "date": "09/21/2026, 10:04 PM, +0000 UTC",
+      "iso_date": "2026-09-21T22:04:36Z"
+    },
+    {
+      "position": 5,
+      "title": "IIT-Bombay removes Doolla as Dean; students seek suspension as Professor",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chinmay Gaikwad"
+        ]
+      },
+      "link": "https://www.thehindu.com/news/national/maharashtra/iit-bombay-student-death-case-dean-professor-removed/article71491033.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/oovz7k/article71491086.ece/alternates/LANDSCAPE_1200/PTI09_21_2026_000152A.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5iVmROYm5RdFpubEliVzlJVFJDZkF4ampCU2dLTWdrQk1JNExuR2sxclFF",
+      "date": "09/21/2026, 10:44 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:44:24Z"
+    },
+    {
+      "position": 6,
+      "title": "Faculty at IITs back professor removed as dean amid row over student's suicide at IIT-Bombay",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/states/maharashtra/2026/Sep/21/faculty-at-iits-back-professor-removed-as-dean-amid-row-over-students-suicide-at-iit-bombay",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-09-21/yb6g2ryj/BeFunky-collage-2026-09-21T205255.907.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFjRTEzVkhnMVEwODVOM2xSVFJDbkF4alZCU2dLTWdrQndJNkZRcVVVa1FF",
+      "date": "09/21/2026, 06:43 PM, +0000 UTC",
+      "iso_date": "2026-09-21T18:43:59Z"
+    },
+    {
+      "position": 7,
+      "title": "IIT Delhi, Madras faculty forums back Prof Doolla amid student death controversy",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anmol Nath"
+        ]
+      },
+      "link": "https://www.indiatoday.in/amp/education-today/news/story/iit-bombay-student-death-iit-delhi-iit-madras-faculty-back-prof-doolla-seek-fair-probe-restraint-2999998-2026-09-22",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/in-a-statement--faculty-members-at-iit-delhi-said-that-the-professor-was-only-discharging-his-duties-222555830-16x9.png?VersionId=KXdnd3lDdKdjXts_A1kapgwDKVIykmxv&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTbkJvYVhwR1FqZ3pMVzFNVFJDZkF4ampCU2dLTWdZTldaVEdLZ2c",
+      "date": "09/22/2026, 04:30 AM, +0000 UTC",
+      "iso_date": "2026-09-22T04:30:43Z"
+    },
+    {
+      "position": 8,
+      "title": "Who Is Suryanarayana Doolla? IIT Bombay Professor Suspended After Sahil Wakode’s Suicide",
+      "source": {
+        "name": "Brut",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.brut.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.brut.media/in/articles/who-is-suryanarayana-doolla-iit-bombay-professor-suspended-after-sahil-wakode-s-suicide",
+      "thumbnail": "https://cdn.prod.website-files.com/6638f8a6eb6d568220f98b00/6ab10292e635bca66f967321_6ab1028c36da1220b49a4334_WEB%2520THUMBNAIL-The%2520IIT%2520Bombay%2520Professor.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWphbEZUUjB4TGNVbGpYM2xUVFJEb0FoamtCU2dLTWdZUlU0TE5wUWM",
+      "date": "09/21/2026, 12:45 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:45:27Z"
+    },
+    {
+      "position": 9,
+      "title": "'He was discharging his duties': IIT-Delhi faculty backs IIT-Bombay professor Suryanarayana Doolla amid s",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/delhi/he-was-discharging-his-duties-iit-delhi-faculty-backs-iit-bombay-professor-suryanarayana-doolla-amid-student-protest/articleshow/134401268.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134401289,width-1280,height-720,imgsize-148900,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRRVFpCZUdoQlkycENabXgzVFJDZkF4ampCU2dLTWdZTlNaU21KZ2c",
+      "date": "09/22/2026, 03:16 AM, +0000 UTC",
+      "iso_date": "2026-09-22T03:16:00Z"
+    },
+    {
+      "position": 10,
+      "title": "'Don't condone cheating, stand with professor': IIT-Bombay students on why they wanted Doolla relieved of duties | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/india-news/iit-bombay-student-death-suicide-suryanarayana-doolla-professor-powai-mumbai-protests-campus-101790042725591.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/22/1600x900/logo/ASSIGNMENT-NAME-IN-BRIEF-12_1790043635928_4vJx_1790043645298_pZle_5f94fa75-5ff2-438d-9b6e-ef2b3c9fcaba_7zPa.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1UMGRPV0hKUGIxZFFPVXcyVFJDZkF4ampCU2dLTWdZQklKQ0Fsd28",
+      "date": "09/22/2026, 02:41 AM, +0000 UTC",
+      "iso_date": "2026-09-22T02:41:44Z"
+    },
+    {
+      "position": 11,
+      "title": "Who is IIT Bombay Professor Suryanarayana Doolla, removed as dean after Sahil Wakode’s death? Know his ed",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/education/news/who-is-iit-bombay-professor-suryanarayana-doolla-removed-as-dean-after-sahil-wakodes-death-know-his-education-research-and-career/articleshow/134402489.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134402544,width-1280,height-720,imgsize-149817,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5SMUo2VVc5UE1FVktPV2hFVFJDZkF4ampCU2dLTWdhTlNKU25KZ2c",
+      "date": "09/22/2026, 04:43 AM, +0000 UTC",
+      "iso_date": "2026-09-22T04:43:00Z"
+    },
+    {
+      "position": 12,
+      "title": "IIT-Bombay apologises, removes professor named in student suicide as dean",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallavi Smart"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/mumbai/iit-bombay-says-was-inappropriate-to-issue-statement-on-students-suicide-amid-protests-10887098/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/iit-bombay-student-suicide-protest-2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhka0o2Y0RjeVJXNVZlRWx1VFJDZkF4ampCU2dLTWdtQlFacldwR2k1aHdJ",
+      "date": "09/21/2026, 08:41 PM, +0000 UTC",
+      "iso_date": "2026-09-21T20:41:00Z"
+    },
+    {
+      "position": 13,
+      "title": "IIT Bombay student suicide: Faculty rallies behind Professor Doolla",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallavi Smart"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/mumbai/iit-bombay-faculty-professor-suryanarayana-doolla-sahil-wakode-student-suicide-protests-10887704/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/iit-bombay-2_20260919115646.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5lVzg1Ym1oaFJsVkRjalZIVFJDZkF4ampCU2dLTWdrQkVKSUdEaXRVQmdN",
+      "date": "09/21/2026, 11:58 AM, +0000 UTC",
+      "iso_date": "2026-09-21T11:58:17Z"
+    },
+    {
+      "position": 14,
+      "title": "'No complaint received by SC/ST cell from Sahil Wakode': IIT-Bombay professor on student suicide case",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/no-complaint-received-by-sc/st-cell-from-sahil-wakode-iit-b-professor-on-student-suicide-case/articleshow/134403567.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134403747,width-1280,height-720,imgsize-251794,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVFabmhRTW5OQ05GVnZNMmd3VFJDZkF4ampCU2dLTWdB",
+      "date": "09/22/2026, 05:49 AM, +0000 UTC",
+      "iso_date": "2026-09-22T05:49:00Z"
+    },
+    {
+      "position": 15,
+      "title": "IIT Bombay student suicide: Faculty march in support of prof Doolla; victim's father claims casteism - to",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/iit-bombay-student-suicide-faculty-march-in-support-of-prof-doolla-victims-father-claims-casteism-top-developments/articleshow/134389978.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134390214,width-1280,height-720,imgsize-90854,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNTZRa2x3WTNoc1VHcFViSGRHVFJDZkF4ampCU2dLTWc0QkFJcDNzS1ZNQUNzZWM3cVdLQQ",
+      "date": "09/21/2026, 12:55 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:55:00Z"
+    },
+    {
+      "position": 16,
+      "title": "AI used in exam, a student’s death and a campus on the boil: Who is IIT-Bombay professor Suryanarayana Do",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/ai-used-in-exam-a-students-death-and-a-campus-on-the-boil-who-is-iit-bombay-professor-suryanarayana-doolla/articleshow/134386941.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134386954,width-1280,height-720,imgsize-149817,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5SMUo2VVc5UE1FVktPV2hFVFJDZkF4ampCU2dLTWdhTlNKU25KZ2c",
+      "date": "09/21/2026, 10:31 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:31:00Z"
+    },
+    {
+      "position": 17,
+      "title": "IIT-Bombay apologises, suspends professor named in student suicide as dean",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallavi Smart"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/mumbai/iit-bombay-student-suicide-apologises-suspends-professor-suryanarayana-doolla-dean-10887181/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/iit-bombay-2_20260919115646.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5lVzg1Ym1oaFJsVkRjalZIVFJDZkF4ampCU2dLTWdrQkVKSUdEaXRVQmdN",
+      "date": "09/21/2026, 07:38 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:38:42Z"
+    },
+    {
+      "position": 18,
+      "title": "IIT-Bombay student suicide case: Institute apologises over earlier remarks; student affairs dean suspende",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yogita Rao"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/india/iit-bombay-student-suicide-case-institute-apologises-over-earlier-remarks-student-affairs-dean-suspended/articleshow/134383217.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134383485,width-1280,height-720,imgsize-129286,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdkVFpSV2twa2RWbFZjM2h5VFJDZkF4ampCU2dLTWdhQkVJamlqZ28",
+      "date": "09/21/2026, 07:20 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:20:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Sahil Never Complained Against Professor Doolla To SC/ST Cell: IIT Bombay Faculty Forum Amid Suicide Row",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prisha Vibhavari"
+        ]
+      },
+      "link": "https://www.news18.com/amp/india/sahil-never-complained-against-professor-doolla-to-sc-st-cell-iit-bombay-faculty-forum-amid-suicide-row-ws-l-10345496.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/iit-bombay-2-2026-09-6f0f73086a8d3aa18746153f1d1c7e9e.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1Tbk5KWTA5VGVUbGtlR3RvVFJDZkF4ampCU2dLTWdtQlVaYldKQ2pCREFJ",
+      "date": "09/22/2026, 07:09 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:09:58Z"
+    },
+    {
+      "position": 20,
+      "title": "Prof Suryanarayana Doolla, named in IIT Bombay suicide, gets support from students, faculty",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aakriti Handa"
+        ]
+      },
+      "link": "https://theprint.in/feature/prof-suryanarayana-doolla-named-in-iit-bombay-suicide-gets-support-from-students-faculty/3049112/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Delhi-gangrape-6.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZhamxOTlZCRGRsTm5hMHBtVFJDZkF4ampCU2dLTWdZdFZaS3VLUWM",
+      "date": "09/21/2026, 03:37 PM, +0000 UTC",
+      "iso_date": "2026-09-21T15:37:48Z"
+    },
+    {
+      "position": 21,
+      "title": "Who Is Suryanarayana Doolla? IIT Bombay Professor At Centre Of Student Suicide Row",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sujata Dwivedi"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/sahil-wakode-who-is-professor-suryanarayana-doolla-iit-bombay-professor-at-centre-of-student-suicide-row-12074720",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/camlfnik_professor-suryanarayana-doolla-sahil-wakode_625x300_21_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5NRzVGYlZSUlpWWkJPRzEzVFJDZkF4ampCU2dLTWdtTmNwTEdMbWRGN0FF",
+      "date": "09/21/2026, 05:35 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:35:00Z"
+    },
+    {
+      "position": 22,
+      "title": "IIT Bombay suicide: IIT Delhi faculty forum backs Prof Doolla, flags ‘mob-driven behaviour’",
+      "source": {
+        "name": "ANI News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aninews.in/news/national/general-news/iit-bombay-suicide-iit-delhi-faculty-forum-backs-prof-doolla-flags-8216mob-driven-behaviour821720260922100600",
+      "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260922043102.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBNbFZFZFMxUFVXNW1Ra2gyVFJEZ0F4aUFCU2dLTWdZQmdKS2x1UWM",
+      "date": "09/22/2026, 04:36 AM, +0000 UTC",
+      "iso_date": "2026-09-22T04:36:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Who is Suryanarayana Doolla? IIT Bombay professor in focus in student suicide case | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanshu Priya"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/india-news/who-is-suryanarayana-doolla-iit-bombay-suspends-dean-of-student-affairs-amid-student-suicide-probe-101789979279738.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/doola_iit_bombay_1789981036173_v3gz_1789981047745_zGPB_a6633160-4b5c-4acd-8b63-6a6f2ca5023f_Rpm8.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNaVk5QTWxaSmVWWkVVbXRQVFJDZkF4ampCU2dLTWdhTllZNm1zZ1U",
+      "date": "09/21/2026, 09:16 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:16:47Z"
+    },
+    {
+      "position": 24,
+      "title": "Sahil Wakode suicide: IIT Bombay Student Representatives body softens stand on Prof. Doolla",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.opindia.com/news-updates/after-seeking-removal-of-professor-doolla-from-administrative-duties-iit-bombay-student-representatives-body-says-they-stand-by-him-seek-impartial-probe-read-details-of-the-u-turn/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/image-image-38-696x398.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5aVzFTYVVGWExYUm1ZV2hMVFJDT0F4aTRCU2dLTWdrSllKTEZMcWRFQ3dJ",
+      "date": "09/22/2026, 05:02 AM, +0000 UTC",
+      "iso_date": "2026-09-22T05:02:14Z"
+    },
+    {
+      "position": 25,
+      "title": "Student suicide: IIT Bombays Dean Prof Suryanarayana Doolla removed with immediate effect",
+      "source": {
+        "name": "The Tribune",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tribuneindia.com/news/india/student-suicide-iit-bombays-dean-prof-suryanarayana-doolla-removed-with-immediate-effect/amp",
+      "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFjMDgxYzQwLWI1YTUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFUMkpaTVdaRlNGZG5TazlPVFJDZkF4ampCU2dLTWdhbEpwSU1sZ2s",
+      "date": "09/21/2026, 10:17 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:17:33Z"
+    },
+    {
+      "position": 26,
+      "title": "IIT Bombay suicide: CCTV footage shows Sahil Wakode looking at an item in his pocket, Professor Suryanarayana Doolla asking him to leave the exam hall, details",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shraddha Pandey"
+        ]
+      },
+      "link": "https://www.opindia.com/news-updates/iit-bombay-suicide-cctv-footage-shows-sahil-wakode-looking-at-an-item-in-his-pocket-professor-suryanarayana-doolla-asking-him-to-leave-the-exam-hall-details/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/image-image-37.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRaekYxTUZZdE9IcEtUekk0VFJDUUF4aThCU2dLTWdB",
+      "date": "09/22/2026, 04:21 AM, +0000 UTC",
+      "iso_date": "2026-09-22T04:21:39Z"
+    },
+    {
+      "position": 27,
+      "title": "Not suspended: IIT-B faculty forum backs Prof Doolla after student suicide",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dipesh D. Tripathi"
+        ]
+      },
+      "link": "https://www.indiatoday.in/education-today/news/story/iit-bombay-professor-suryanarayana-doolla-faculty-forum-student-death-inquiry-2999628-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iit-bombay-213320348-16x9_0.jpeg?VersionId=tY9XT1__ZKBww1XQ03PIG2xatNXbWoBL&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURUV3QyYXpGTU5FTnhjQzFEVFJDZkF4ampCU2dLTWdrQlFJNkFMQ1l0cHdJ",
+      "date": "09/21/2026, 12:33 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:33:46Z"
+    },
+    {
+      "position": 28,
+      "title": "From Sahil's death to Prof Doolla's removal: Inside IIT Bombay's suicide row",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Karan Yadav"
+        ]
+      },
+      "link": "https://www.indiatoday.in/education-today/news/story/iit-bombay-sahil-wakode-case-faculty-forum-backs-doolla-campus-march-2999657-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iit-bombay-has-apologised-for-its-earlier-statement-on-student-sahils-suicide--saying-the-circumsta-214804402-16x9_1.jpeg?VersionId=IbTuYm7N52qWyM0e9kUlKrtos.Q46OHO&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJkVmhTUm5kM1MwTlBkeTFHVFJDZkF4ampCU2dLTWdrQllJeDRxQ2ZRNndF",
+      "date": "09/21/2026, 03:00 PM, +0000 UTC",
+      "iso_date": "2026-09-21T15:00:24Z"
+    },
+    {
+      "position": 29,
+      "title": "Suryanarayana Doolla, IIT Bombay professor, suspended from deanship amid student suicide probe | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Niraj Pandit"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/india-news/suryanarayana-doolla-iit-bombay-dean-of-student-affairs-suspended-amid-student-suicide-probe-report-101789975566433.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/iit_bombay_1789975839167_bmfr_1789975839387_HvzT_2be6665f-5ce7-4469-830b-4c3a07b65a76_C4A3.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJiMnRuTlMxWWN6WmxNbDlpVFJDZkF4ampCU2dLTWdZQlFJcUNIQWs",
+      "date": "09/21/2026, 07:28 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:28:42Z"
+    },
+    {
+      "position": 30,
+      "title": "IIT Bombay Faculty Forum Backs Prof Doolla, Students Demand Suspension",
+      "source": {
+        "name": "deccanchronicle.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanchronicle.com/amp/nation/iit-bombay-faculty-forum-backs-prof-doolla-students-demand-suspension-1989446",
+      "thumbnail": "https://www.deccanchronicle.com/h-upload/2026/09/21/1500x900_2091726-bombay.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFUVlZWYTFkTFJFeGZRbXRLVFJDRUFoaXhBeWdLTWdZSmtveUh0UVk",
+      "date": "09/21/2026, 06:44 PM, +0000 UTC",
+      "iso_date": "2026-09-21T18:44:59Z"
+    },
+    {
+      "position": 31,
+      "title": "IIT Bombay students say stir only for reform, not shielding academic misconduct; Doolla suspended only fro",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/india/iit-bombay-students-say-stir-only-for-reform-not-shielding-academic-misconduct-doolla-suspended-only-from-deanship/amp_articleshow/134400652.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134400651,width-1200,height-900,resizemode-4,imgsize-80710/iit-bombay-students-say-stir-only-for-reform-not-shielding-academic-misconduct-doolla-suspended-only-from-deanship.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9WM0E1TTB3NGJUbDNiWGh0VFJEZ0F4aUFCU2dLTWdZQmdKS2p1UWM",
+      "date": "09/22/2026, 02:52 AM, +0000 UTC",
+      "iso_date": "2026-09-22T02:52:00Z"
+    },
+    {
+      "position": 32,
+      "title": "How IIT-Bombay student’s suicide has snowballed into caste row, leading to professor’s suspension",
+      "source": {
+        "name": "firstpost.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/iit-bombay-student-suicide-sahil-wakode-professor-doolla-suspension-casteism-allegations-14047297.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/09/IIT1-2026-09-98e048d03fbfb4757bb804dbd5b90796.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdZekJVYTJ0d1dIVnRVek5pVFJDZkF4ampCU2dLTWdZQjRJZ0pTZ00",
+      "date": "09/21/2026, 09:35 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:35:16Z"
+    },
+    {
+      "position": 33,
+      "title": "‘They finished my son’: Father of IIT Bombay student who died by suicide",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/mumbai/iit-bombay-suicide-sahil-wakode-chatgpt-exam-hall-10887778/lite/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/P1-IIT-suicide-2col.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpSRGs0Y0RkdVlXbFBhemh4VFJDZkF4ampCU2dLTWdZaE1KYUtIQW8",
+      "date": "09/21/2026, 12:43 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:43:18Z"
+    },
+    {
+      "position": 34,
+      "title": "IIT Bombay Faculty Forum backs Prof Suryanarayana Doolla in Sahil Wakode death case, holds campus march",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/city/iit-bombay-faculty-forum-backs-prof-suryanarayana-doolla-in-sahil-wakode-death-case-holds-campus-march-article-14034908.html/amp",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260922011030_Screenshot-2026-09-19-125842.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhRMWxOWVROcFFYVmhNbFZaVFJDZkF4ampCU2dLTWdtbEVwUXRxZWRyNXdJ",
+      "date": "09/22/2026, 01:16 AM, +0000 UTC",
+      "iso_date": "2026-09-22T01:16:40Z"
+    },
+    {
+      "position": 35,
+      "title": "IIT Bombay faculty rallies behind Professor Doolla in student suicide case as protests continue",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallavi Smart"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/mumbai/iit-bombay-faculty-professor-suryanarayana-doolla-sahil-wakode-student-suicide-protests-10887704/lite/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/iit-bombay-student-suicide-protest-2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhka0o2Y0RjeVJXNVZlRWx1VFJDZkF4ampCU2dLTWdtQlFacldwR2k1aHdJ",
+      "date": "09/21/2026, 11:58 AM, +0000 UTC",
+      "iso_date": "2026-09-21T11:58:17Z"
+    },
+    {
+      "position": 36,
+      "title": "Student suicide: IIT Bombay suspends dean, director to stay",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rediff.com/news/report/sahil-wakode-suicide-iit-bombay-suspends-dean-director-to-stay/20260921.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/news/2026/sep/21iit-bombay-students-protest-sahil-wakodes-death.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlWekpXYXpaMU5GbHdVMFV3VFJDZkF4ampCU2dLTWdZQlVJaXBMQVU",
+      "date": "09/21/2026, 08:44 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:44:43Z"
+    },
+    {
+      "position": 37,
+      "title": "Who is Suryanarayana Doolla, the IIT-Bombay professor at the heart of student protest?",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/education-today/news/story/iit-bombay-professor-suryanarayana-doolla-under-scrutiny-after-sahil-wakode-death-2999168-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iit-bombay-professor-21262997-16x9_0.jpeg?VersionId=QAf9S1BzIdofCLu4CJOmvDk_K5Eb3yka&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdSWFpZVEhKWVkwUXlSVFF5VFJDZkF4ampCU2dLTWdhdE5aYk9IUWs",
+      "date": "09/21/2026, 03:11 AM, +0000 UTC",
+      "iso_date": "2026-09-21T03:11:41Z"
+    },
+    {
+      "position": 38,
+      "title": "Evening news wrap: IIT-Bombay faculty protest in support of prof; Iran warns US of new weapons, targets & more",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-iit-bombay-faculty-protest-in-support-of-prof-iran-warns-us-of-new-weapons-targets-more/articleshow/134389318.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134390464,imgsize-84016,width-400,height-225,resizemode-4/iit-bombay-faculty-stands-by-professor-amid-row-over-students-death-by-suicide.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdjM1ZXZVc5aldXeFhhRlZqVFJEaEFSaVFBeWdLTWdhQmtaRDB0QVk",
+      "date": "09/21/2026, 01:04 PM, +0000 UTC",
+      "iso_date": "2026-09-21T13:04:00Z"
+    },
+    {
+      "position": 39,
+      "title": "IIT-Bombay faculty protest in support of prof Doolla after deanship suspension amid student death row",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hemali Chhapia"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-faculty-protest-in-support-of-prof-doolla-after-deanship-suspension-amid-student-death-row/articleshow/134384685.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134384908,width-1280,height-720,imgsize-110696,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdVbVZ3UmxSVmNHVm5Ua05MVFJDZkF4ampCU2dLTWdrQlFJNkFyQ1l0cHdJ",
+      "date": "09/21/2026, 08:43 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:43:00Z"
+    },
+    {
+      "position": 40,
+      "title": "IIT Bombay student suicide: Prof Suryanarayana Doolla removed from dean's post with immediate effect",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/maharashtra/iit-bombay-student-suicide-prof-suryanarayana-doolla-removed-from-deans-post-with-immediate-effect-4153703",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-09-21%2Flrcdzw17%2FBeFunky-collage-57.jpg?rect=0%2C0%2C1280%2C720&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1TM2xtYjA1aU1WOWFaa3BpVFJDZkF4ampCU2dLTWdZTktaaW1IZ2s",
+      "date": "09/21/2026, 09:18 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:18:37Z"
+    },
+    {
+      "position": 41,
+      "title": "IIT Bombay considers 18 key demands in connection with student's suicide; family allege caste discrimination",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sudhir Suryawanshi"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/states/maharashtra/2026/Sep/21/iit-bombay-considers-18-key-demands-in-connection-with-students-suicide-family-alleges-caste-discrimination",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-09-21/s290f14d/PTI09212026000152A.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlMV1V0ZFRsS1ZYUlBjVWMwVFJDZkF4ampCU2dLTWdrQklKSklsS2NIeEFJ",
+      "date": "09/21/2026, 06:53 PM, +0000 UTC",
+      "iso_date": "2026-09-21T18:53:37Z"
+    },
+    {
+      "position": 42,
+      "title": "IIT Bombay forum says professor not suspended amid student death probe",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Auhona Mukherjee"
+        ]
+      },
+      "link": "https://www.business-standard.com/amp/india-news/iit-bombay-forum-says-professor-not-suspended-amid-student-death-probe-126092101304_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-04/07/full/1460015588-8622.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBTVzh5ZVdkcGFYRmtOR2xRVFJEUUF4anNCQ2dLTWdrbHc0WkxXYU5NVWdF",
+      "date": "09/21/2026, 03:43 PM, +0000 UTC",
+      "iso_date": "2026-09-21T15:43:35Z"
+    },
+    {
+      "position": 43,
+      "title": "IIT Bombay student death: Faculty Forum backs professor, says phone use was 'academic malpractice'",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-student-death-faculty-forum-backs-professor-says-phone-use-was-academic-malpractice/articleshow/134378902.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134379024,width-1280,height-720,imgsize-6707607,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNTMWgyVm1sTVNqTnpjVWM0VFJDZkF4amtCU2dLTWdZcGtJb3ZNUVk",
+      "date": "09/21/2026, 03:16 AM, +0000 UTC",
+      "iso_date": "2026-09-21T03:16:00Z"
+    },
+    {
+      "position": 44,
+      "title": "IIT-Bombay professor Suryanarayana Doolla, who faces SC/ST Act FIR in Sahil Wakode case, has multiple teac",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/iit-bombay-professor-suryanarayana-doolla-who-faces-sc/st-act-fir-in-sahil-wakode-case-has-multiple-teaching-research-awards/articleshow/134379562.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134380473,width-1200,height-900,resizemode-4,imgsize-114958/iit-bombay-suryanarayana-doolla-sahil-wakode.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNlbkZ1YTNaRWRYazVORXR0VFJEZ0F4aUFCU2dLTWdrQmdZelZNT1hBN0FF",
+      "date": "09/21/2026, 05:10 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:10:03Z"
+    },
+    {
+      "position": 45,
+      "title": "IIT Bombay removes Prof Suryanarayana Doolla from Dean’s post amid student suicide row",
+      "source": {
+        "name": "education.economictimes.indiatimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://education.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://education.economictimes.indiatimes.com/news/industry/iit-bombay-removes-prof-suryanarayana-doolla-from-deans-post-amid-student-suicide-row/134387306?utm_source=newslisting&utm_medium=latestNews",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-134387306,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdRV3RZZUVwUmQwTjNYMlE0VFJDZkF4ampCU2dLTWdNQmdCZw",
+      "date": "09/21/2026, 10:38 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:38:32Z"
+    },
+    {
+      "position": 46,
+      "title": "Exclusive: Amid dubious 'caste discrimination' row targeting Professor Suryanarayana Doolla, IIT-B students and alumni extend support to their mentor",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dibakar Dutta"
+        ]
+      },
+      "link": "https://www.opindia.com/news-updates/iit-bombay-caste-discrimination-row-students-alumni-extend-support-professor-suryanarayana-doolla-sahil-wakode-suicide/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/iit-bombay-suicide-case-696x398.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRWazl0TldKc1NsOW1TVk5FVFJDT0F4aTRCU2dLTWdrSllKVEZMcWRFQ3dJ",
+      "date": "09/21/2026, 08:49 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:49:03Z"
+    },
+    {
+      "position": 47,
+      "title": "'We know his character': IIT Bombay students, alumni back professor facing probe in suicide case",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/education/exams/story/we-know-his-character-iit-bombay-students-alumni-back-professor-facing-probe-in-suicide-case-556882-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab135793d3b4-current-and-former-students-back-iit-bombay-professor-suryanarayana-doolla-214735907-16x9.jpeg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxla3AzTW1aSllrNXhhazlYVFJDZkF4ampCU2dLTWdZTmdaS0h0Z2M",
+      "date": "09/21/2026, 01:51 PM, +0000 UTC",
+      "iso_date": "2026-09-21T13:51:07Z"
+    },
+    {
+      "position": 48,
+      "title": "Faculty Forum of IIT Bombay extends support to Professor, accused of 'caste discrimination' by parents of student who died after cheating in exam",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.opindia.com/news-updates/faculty-forum-of-iit-bombay-extends-support-to-professor-suryanarayana-doolla-sahil-wakode-suicide-case-details/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/iit-bombay-case-696x398.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRVMlJNUW1jNWEyeEpSa2w0VFJDT0F4aTRCU2dLTWdrSmNKQ21MdVpFN0FF",
+      "date": "09/21/2026, 05:11 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:11:03Z"
+    },
+    {
+      "position": 49,
+      "title": "Crime branch to probe IIT-Bombay student death case; faculty forum backs professor named in FIR",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/national/maharashtra/crime-branch-to-probe-iit-bombay-student-death-case-faculty-forum-backs-professor-named-in-fir/article71488479.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/f48oi2/article71488957.ece/alternates/LANDSCAPE_1200/20260919360L.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpWMHg1ZEVWUlRrVkNOMWQ0VFJDZkF4ampCU2dLTWdZQjhJU3F6UUk",
+      "date": "09/20/2026, 05:06 PM, +0000 UTC",
+      "iso_date": "2026-09-20T17:06:40Z"
+    },
+    {
+      "position": 50,
+      "title": "IIT-B faculty backs professor in student suicide row",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Utkarsh Mishra"
+        ]
+      },
+      "link": "https://www.rediff.com/news/report/iit-b-faculty-backs-professor-in-student-suicide-row/20260921.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/news/2026/sep/21iit-b-suicide-row.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBXbWxmVTJSU1RXNXlhMVpLVFJDZkF4ampCU2dLTWdZQndJaGh4UVE",
+      "date": "09/21/2026, 03:05 AM, +0000 UTC",
+      "iso_date": "2026-09-21T03:05:47Z"
+    },
+    {
+      "position": 51,
+      "title": "Professor's suspension, director's resignation clause: What are 18 demands of protesting students 'signed",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/professors-suspension-directors-resignation-what-are-18-demands-of-protesting-students-signed-by-iit-bombay-director/articleshow/134380224.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134380976,width-1280,height-720,imgsize-168634,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJkMVl3UTBacVUyUXplWGh2VFJDZkF4ampCU2dLTWdZQm9Jb1BSUVU",
+      "date": "09/21/2026, 05:50 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:50:00Z"
+    },
+    {
+      "position": 52,
+      "title": "IIT Bombay student death: Faculty backs professor, says he was 'merely discharging duties'",
+      "source": {
+        "name": "WION",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditya Shukla"
+        ]
+      },
+      "link": "https://www.wionews.com/india-news/iit-bombay-student-death-faculty-backs-professor-says-he-was-merely-discharging-duties-1789968081392",
+      "thumbnail": "https://cdn1.wionews.com/prod/wion/images/2026/20260921/image-1789968428927.jpg?rect=(0,0,1200,900)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlSa1JKV1ZOSlIwbEhSbTVXVFJEZ0F4aUFCU2dLTWdrQllJWTROQ1NwYWdF",
+      "date": "09/21/2026, 05:43 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:43:00Z"
+    },
+    {
+      "position": 53,
+      "title": "The exam that sparked a campus storm: How Sahil Wakode's death set off protests, caste allegations and a",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/the-exam-that-sparked-a-campus-storm-how-sahil-wakodes-death-set-off-protests-caste-allegations-and-a-crime-branch-probe-at-iit-bombay/articleshow/134386388.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134387737,width-1280,height-720,imgsize-150932,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNlRWhoYnpCUVJUTktTRlExVFJDZkF4ampCU2dLTWdrQmdJZ011Q1NneXdF",
+      "date": "09/21/2026, 10:55 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:55:00Z"
+    },
+    {
+      "position": 54,
+      "title": "'Not Suspended': IIT Bombay Faculty Forum Backs Accused Professor In Suicide Case, Holds Campus March",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manisha Roy"
+        ]
+      },
+      "link": "https://www.news18.com/india/iit-bombay-faculty-forum-backs-professor-suryanarayana-dolla-in-student-suicide-case-plans-campus-march-10344108.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/1-2026-09-21T174146.614-2026-09-53e1133859fc9c35e6895f485d40a231.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVaWHBZT1dvMFRrbGxTVUU1VFJDZkF4ampCU2dLTWdrQmdJaUFQT1dCRmdF",
+      "date": "09/21/2026, 11:17 AM, +0000 UTC",
+      "iso_date": "2026-09-21T11:17:02Z"
+    },
+    {
+      "position": 55,
+      "title": "IIT Bombay student suicide | Director has not resigned, clarifies institute; apologises for earlier statement amid row",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/amp/story/india%2Fmaharashtra%2Fiit-bombay-student-suicide-director-has-not-resigned-clarifies-institute-apologises-for-earlier-statement-amid-row-4153645",
+      "thumbnail": "https://media.assettype.com/deccanherald/2026-09-21/kezqo1eh/KSEAB-SSLC-Exams-2026-The-Karnataka-School-Examination-and-Assessment-Board-KSEAB-will-begin-the-Karnataka-Secondary-School-Leaving-Certificate-SSLC-exams-2026-tomorrow-March-18-2026.-Class-10-stud-5.jpg?w=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNhR3huVVU5bFJYWnROblZ6VFJDb0FSaXNBaWdCTWdhTldJaW1yZ1k",
+      "date": "09/21/2026, 08:16 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:16:00Z"
+    },
+    {
+      "position": 56,
+      "title": "IIT Bombay Faculty March In Support Of Prof Suryanarayana Doolla Amid Student Death Probe | News18",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/videos/india/iit-bombay-faculty-march-in-support-of-prof-suryanarayana-doolla-amid-student-death-probe-news18-10344262.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/1789993202_0d5a2348-ba5f-4e40-9184-aa8450d1dfb8.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNURVEyTmpCblgyRm5ZekZaVFJDZkF4ampCU2dLTWdhUmdwSU9yUVk",
+      "date": "09/21/2026, 12:13 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:13:00Z"
+    },
+    {
+      "position": 57,
+      "title": "IIT Bombay Apologises, Suspends Prof From Dean's Post Amid Student Suicide Probe",
+      "source": {
+        "name": "The Quint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thequint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thequint.com/amp/story/news/breaking-news/iit-bombay-apologises-suspends-dean-student-suicide-probe",
+      "thumbnail": "https://cf-images.assettype.com/thequint/2026-09-20/py72b22w/Sahil-Wakode.jpeg?auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFhelZwZVU5QlRXRnFXbFIyVFJEX0FoaW9CU2dLTWdZUlU1Qm9yZ1k",
+      "date": "09/21/2026, 08:06 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:06:47Z"
+    },
+    {
+      "position": 58,
+      "title": "Student suicide row: IIT-B removes professor accused of caste bias as dean",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/education-today/story/professor-suryanarayana-doolla-suspended-from-deanship-iit-bombay-spokesperson-amid-student-suicide-row-2999371-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iit-bombay-professor-212924636-16x9_0.jpg?VersionId=FRaPrX0tauFxW4kd2DzcjxraLL43iTJD&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBkMUp1V1U1SlpIWjVOamhXVFJDZkF4ampCU2dLTWdZdGRZTE9OUVE",
+      "date": "09/21/2026, 07:24 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:24:32Z"
+    },
+    {
+      "position": 59,
+      "title": "IIT-Bombay student suicide: Father alleges caste-based mocking, torture by professor and admin",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anjali Singh"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-student-suicide-father-alleges-caste-based-mocking-torture-by-professor-and-admin/articleshow/134388621.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134389129,width-1280,height-720,imgsize-1030581,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMWRaT0RBeU4wRnNRVFF6VFJDZkF4ampCU2dLTWdZQmNJU3d1QVE",
+      "date": "09/21/2026, 11:55 AM, +0000 UTC",
+      "iso_date": "2026-09-21T11:55:00Z"
+    },
+    {
+      "position": 60,
+      "title": "I stand with Professor Doolla: Congress's Shama Mohamed on IIT-B student suicide row",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Karishma Saurabh Kalita"
+        ]
+      },
+      "link": "https://www.indiatoday.in/india/story/iit-bombay-student-suicide-shama-mohamed-backs-professor-suryanarayana-doolla-after-protests-later-clarifies-2999413-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/shama-mohamed-21233136-16x9_0.bonbrhf7tzu3fhp67oxcybumeea3w_nfb6mziciyyvi?VersionId=F2G.W5FkjrKiVlSkNTtShn3mNmGhFXfC&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1jVVUxUlc1blFUbFRkV0p0VFJDZkF4ampCU2dLTWdhdGhJaXVOUVU",
+      "date": "09/21/2026, 08:24 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:24:13Z"
+    },
+    {
+      "position": 61,
+      "title": "Student suicide: IIT Bombay's Dean Prof Suryanarayana Doolla removed",
+      "source": {
+        "name": "edexlive.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.edexlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.edexlive.com/amp/story/news/student-suicide-iit-bombay-s-dean-prof-suryanarayana-doolla-removed",
+      "thumbnail": "https://cf-images.assettype.com/edexlive/2026-09-21/hqjspe86/202609213948893.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU9ZbE0wVUZoTFpFVjBjbk42VFJDZ0F4amlCU2dLTWdPQmhoWQ",
+      "date": "09/21/2026, 10:08 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:08:02Z"
+    },
+    {
+      "position": 62,
+      "title": "IITs & suicides competition, caste among campus fault lines: NTF report",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anubhuti Vishnoi"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/india/iits-suicides-competition-caste-among-campus-fault-lines-ntf-report/amp_articleshow/134396400.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-217852,msid-134396622/iits-amp-suicides-competition-caste-among-campus-fault-lines-ntf-report.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhlVFJuY1c5d1pYaGtOalZDVFJEQ0F4allCQ2dLTWdhQm80emtRUVU",
+      "date": "09/21/2026, 06:38 PM, +0000 UTC",
+      "iso_date": "2026-09-21T18:38:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Student suicide: IIT Bombay's Dean Prof Suryanarayana Doolla removed",
+      "source": {
+        "name": "Udayavani",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://udayavani.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://udayavani.com/national/student-suicide-iit-bombays-dean-prof-suryanarayana-doolla-removed-845865?lang=en",
+      "thumbnail": "https://d3jde0c4xcko0v.cloudfront.net/production/21-09-26/news/60g4r8mub3vgr6FotoJet%20-%202026-09-21T160122.393.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9OREkyUkdOa2RuRmFVbE5sVFJDdEF4akxCU2dLTWdrQllaUzNMQ2ZCREFJ",
+      "date": "09/21/2026, 12:11 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:11:25Z"
+    },
+    {
+      "position": 64,
+      "title": "Who is Suryanarayana Doolla? Know the IIT Bombay professor’s education, career and role in student...",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/education/who-is-suryanarayana-doolla-know-the-iit-bombay-professor-s-education-career-and-role-in-student-protest-article-14034610.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260921104450_sod-it.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZaRWxSUlV0c0xXaG1Tbk5VVFJDZkF4ampCU2dLTWdZdFZZck9yUVU",
+      "date": "09/21/2026, 10:48 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:48:30Z"
+    },
+    {
+      "position": 65,
+      "title": "IIT Bombay Student Suicide: Professor Suryanarayana Doolla Suspended With Immediate Effect",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtvprofit.com/india/iit-bombay-student-suicide-professor-suryanarayana-doolla-suspended-with-immediate-effect-12075123",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/jdcco8u_suryanarayana-doolla_625x300_21_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTVFo0VERCeWNVNXJha2xCVFJDZkF4ampCU2dLTWdhdFJJcXVKUVU",
+      "date": "09/21/2026, 07:22 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:22:11Z"
+    },
+    {
+      "position": 66,
+      "title": "Who Is Suryanarayana Doolla? IIT Bombay Professor At Centre Of Student Suicide Row",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vani Mehrotra"
+        ]
+      },
+      "link": "https://www.news18.com/india/iit-bombay-student-suicide-case-who-is-suryanarayana-doolla-professor-controversy-ws-l-10343635.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/MixCollage-21-Sep-2026-02-53-PM-7194-2026-09-b1746736a27f3f0d6b62a4d8e0e94cc4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlWM2xsTVdOaGVHTkVSSGRQVFJDZkF4ampCU2dLTWdZSmdwQ21yZ1U",
+      "date": "09/21/2026, 09:25 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:25:57Z"
+    },
+    {
+      "position": 67,
+      "title": "Student suicide: IIT-Delhi faculty forum defends IIT-Bombay professor",
+      "source": {
+        "name": "orissapost.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.orissapost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.orissapost.com/student-suicide-iit-delhi-faculty-forum-defends-iit-bombay-professor/",
+      "thumbnail": "https://www.orissapost.com/wp-content/uploads/2026/09/1704461-iit-bombay-removes-professor-suryanarayana-doolla-as-dean-amid-sahil-wakode-suicide-row.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9MV3R2VFhKNVgwVTJNRUo1VFJDdEF4akxCU2dLTWdrSllwVGxxbWRGQ3dJ",
+      "date": "09/21/2026, 05:43 PM, +0000 UTC",
+      "iso_date": "2026-09-21T17:43:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Student suicide: IIT Bombay apologises for earlier statement, suspends deanship of professor",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Fareeha Iftikhar"
+        ]
+      },
+      "link": "https://theprint.in/india/education/student-suicide-iit-bombay-apologises-for-earlier-statement-suspends-deanship-of-professor/3048427/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-design-2026-09-21T130446.458.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtURzFMWTBoemVqbENVbmMzVFJDZkF4ampCU2dLTWdhQkFvampEZ3M",
+      "date": "09/21/2026, 09:16 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:16:43Z"
+    },
+    {
+      "position": 69,
+      "title": "Video | IIT Bombay News | Who Is Suryanarayana Doolla? IIT Bombay Professor At Centre Of Student Suicide Row",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtv.com/video/iit-bombay-news-who-is-suryanarayana-doolla-iit-bombay-professor-at-centre-of-student-suicide-row-1161623",
+      "thumbnail": "https://c.ndtvimg.com/dmx-images/video/images/vod/medium/2026-09/1161623_maxresdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhha05KVVc5SlpuWkRaMlJTVFJDZkF4ampCU2dLTWdrTlE0eG5PU1dpcUFJ",
+      "date": "09/21/2026, 07:51 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:51:08Z"
+    },
+    {
+      "position": 70,
+      "title": "Dalit student’s suicide: IIT-Bombay removes Prof Suryanarayana Doolla from dean’s post",
+      "source": {
+        "name": "The South First",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thesouthfirst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thesouthfirst.com/beyond-south/dalit-students-suicide-iit-bombay-removes-prof-suryanarayana-doolla-from-deans-post/",
+      "thumbnail": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/09/IIT-Bombay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxRVlZZTVhwcVh6VmljbXBzVFJDSEF4aVBCaWdLTWdhcEpJcXVtUVk",
+      "date": "09/21/2026, 12:37 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:37:21Z"
+    },
+    {
+      "position": 71,
+      "title": "In a first, abetment FIR filed against IIT-Bombay professor in second-year student’s death",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yogita Rao",
+          "Nitasha Natu"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/in-a-first-abetment-fir-filed-against-iit-bombay-professor-in-second-year-students-death/articleshow/134359955.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134366061,width-1280,height-720,imgsize-117758,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1lRFZaVlV0NFQyWkdSREpWVFJDZkF4ampCU2dLTWdZTnBJYUh1UVE",
+      "date": "09/19/2026, 07:26 PM, +0000 UTC",
+      "iso_date": "2026-09-19T19:26:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Suicide case: IIT-Bombay apologises for disclosing student's AI-use statement; denies director’s resignat",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/director-has-not-resigned-iit-bombay-clarifies-after-reports-amid-sahil-wakode-row-prof-doolla-suspended/articleshow/134383227.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134383599,width-1280,height-720,imgsize-110296,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWphR2hRWDNaalUzWjBkREZNVFJDZkF4ampCU2dLTWdrQlFJYlByQ09LeVFF",
+      "date": "09/21/2026, 07:21 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:21:00Z"
+    },
+    {
+      "position": 73,
+      "title": "IIT-B student suicide: Professor accused of caste discrimination suspended as dean",
+      "source": {
+        "name": "Scroll.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://scroll.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scroll.in/latest/1095891/iit-b-student-suicide-professor-accused-of-caste-discrimination-suspended-from-deans-post",
+      "thumbnail": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/187856-lrxditeyxy-1789980410.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFNVmN5VGxjdGJrTk9kR1pJVFJDUkF4ajhCU2dLTWdrQm9JNnNOU2JnTWdF",
+      "date": "09/21/2026, 08:57 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:57:00Z"
+    },
+    {
+      "position": 74,
+      "title": "IIT Bombay retracts earlier account, suspends professor named in Wakode FIR",
+      "source": {
+        "name": "PGurus",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pgurus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pgurus.com/iit-bombay-suspends-prof-suryanarayana-doollas-deanship-apologises-for-earlier-statement-on-sahil-wakodes-death/",
+      "thumbnail": "https://www.pgurus.com/wp-content/uploads/2026/09/IIT-Bombay-students-death-Prof-Doollas-deanship-suspended.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxNVFp5TFdSamNHbGhObEJKVFJDZkF4ampCU2dLTWdhRk5aVEVMZ2M",
+      "date": "09/21/2026, 09:08 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:08:33Z"
+    },
+    {
+      "position": 75,
+      "title": "Student suicide: IIT Bombay's Dean Prof Suryanarayana Doolla removed",
+      "source": {
+        "name": "dtnext.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dtnext.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dtnext.in/amp/story/news/national/student-suicide-iit-bombays-dean-prof-suryanarayana-doolla-removed",
+      "thumbnail": "https://media.assettype.com/dt-next/2026-09-21/8c80aylu/iit-bombay-professor-212924636-16x90.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9OVEIxVDB4cFdIRlJNRXBRVFJDZkF4ampCU2dLTWdZdGRZTE9OUVE",
+      "date": "09/21/2026, 09:36 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:36:00Z"
+    },
+    {
+      "position": 76,
+      "title": "He did his job: IIT Bombay forum, eminent persons back Prof Doolla amid suicide row",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sushim Mukul"
+        ]
+      },
+      "link": "https://www.indiatoday.in/education-today/story/iit-bombay-sahil-wakode-case-faculty-forum-backs-professor-suryanarayana-doolla-2999261-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iit-bombay-professor-suryanarayana-doolla-is-under-scrutiny-after-second-year-student-sahil-wakode-d-210649289-16x9_0.png?VersionId=_RKzwAsOQ9Y.qXypGoBcIHLLmxLkeuaN&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRRVVpzV2xGV1Z6WmFOWGR5VFJDZkF4ampCU2dLTWdZTldaVEdLZ2c",
+      "date": "09/21/2026, 07:12 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:12:52Z"
+    },
+    {
+      "position": 77,
+      "title": "IIT-Bombay suicide case: Institute director Shireesh Kedare meets protesting students, ‘signs’ list of 18",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yogita Rao"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-death-institute-director-meets-protesting-students-signs-list-of-18-demands/articleshow/134374550.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134379748,width-1280,height-720,imgsize-1429627,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW5RWFZCTUhWWmRGUkRZWEl3VFJDZkF4ampCU2dLTWdzQkFJcDNzT1ZNQUNzZWV3",
+      "date": "09/21/2026, 08:01 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:01:00Z"
+    },
+    {
+      "position": 78,
+      "title": "IIT Bombay Professor Suryanarayana Doolla, Named In FIR, Suspended As Dean Over Student's Suicide",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vani Mehrotra"
+        ]
+      },
+      "link": "https://www.news18.com/india/iit-bombay-professor-suryanarayana-doolla-suspended-iit-bombay-student-death-suicide-exam-cheating-case-10343471.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/MixCollage-21-Sep-2026-02-50-PM-1877-2026-09-de05289f565713b8ad10a6ac52ed6bff.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTa1JuWDA5TlJrRnBSa1ZUVFJDZkF4ampCU2dLTWdhTk9KaW1vZ2c",
+      "date": "09/21/2026, 06:55 AM, +0000 UTC",
+      "iso_date": "2026-09-21T06:55:20Z"
+    },
+    {
+      "position": 79,
+      "title": "Sahil Wakode suicide: IIT Bombay suspends the deanship of Professor Suryanarayana Doolla",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shraddha Pandey"
+        ]
+      },
+      "link": "https://www.opindia.com/news-updates/sahil-wakode-suicide-iit-bombay-suspends-the-deanship-of-professor-suryanarayana-doolla/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/image-image-34.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVUWGgxYmxreFgxTkVlVzFGVFJDUUF4aThCU2dLTWdZTlNaYkZvZ2c",
+      "date": "09/21/2026, 08:16 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:16:25Z"
+    },
+    {
+      "position": 80,
+      "title": "IIT Bombay Student Suicide: Prof Doolla Suspended As Dean As Institution Refutes Resignation Reports",
+      "source": {
+        "name": "ETV Bharat",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.etvbharat.com/en/bharat/iit-bombay-suspends-professor-doolla-from-post-of-dean-while-the-institute-denies-resignation-of-director-enn26092103082",
+      "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/21-09-2026/1200-675-27680181-thumbnail-16x9-iit-aspera.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9WMGhRZUVjeFEwcDFaMEZFVFJDZkF4ampCU2dLTWdPQmRoZw",
+      "date": "09/21/2026, 09:33 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:33:09Z"
+    },
+    {
+      "position": 81,
+      "title": "After 3 days of protests, IIT-B agrees to students’ demands; details of deal to be announced today",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallavi Smart"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/mumbai/after-3-days-of-protests-iit-b-agrees-to-students-demands-details-of-deal-to-be-announced-monday-10886648/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/IIT-Bombay-Director-Prof-Shireesh-Kedare-addresses-protesting-students-on-the-campus-on-Sunday-night.-express.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBla2hOWW1KaVpETlNTa1pyVFJDZkF4ampCU2dLTWdrQmNJeFZQS2FZTEFJ",
+      "date": "09/20/2026, 11:50 PM, +0000 UTC",
+      "iso_date": "2026-09-20T23:50:23Z"
+    },
+    {
+      "position": 82,
+      "title": "IIT-Bombay denies suspension threat to student, casteism charge",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yogita Rao",
+          "Nitasha Natu"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-denies-suspension-threat-to-student-casteism-charge/articleshow/134362871.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134366076,width-1280,height-720,imgsize-117758,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1lRFZaVlV0NFQyWkdSREpWVFJDZkF4ampCU2dLTWdZTnBJYUh1UVE",
+      "date": "09/20/2026, 02:38 AM, +0000 UTC",
+      "iso_date": "2026-09-20T02:38:00Z"
+    },
+    {
+      "position": 83,
+      "title": "IIT Bombay faculty member booked for caste abuse, suicide abetment",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/national/maharashtra/iit-bombay-faculty-member-booked-for-caste-abuse-suicide-abetment/article71485392.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/jy7bvs/article71485779.ece/alternates/LANDSCAPE_1200/PTI09_19_2026_000497B.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlaRGsxTkdaVFowWmFlVVZCVFJDZkF4ampCU2dLTWdZcGtJcFBNUVk",
+      "date": "09/19/2026, 04:59 PM, +0000 UTC",
+      "iso_date": "2026-09-19T16:59:51Z"
+    },
+    {
+      "position": 84,
+      "title": "Professor Suryanarayana Doolla Suspended as Dean at IIT Bombay",
+      "source": {
+        "name": "The CSR Journal",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thecsrjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thecsrjournal.in/professor-suryanarayana-doolla-suspended-as-dean-at-iit-bombay",
+      "thumbnail": "https://thecsrjournal.in/wp-content/uploads/2026/09/IITB.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURRUzFHUVZwYWJsVk9iRXR6VFJDZUF4amlCU2dLTWdaUk1ZNlhIQWs",
+      "date": "09/21/2026, 08:14 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:14:24Z"
+    },
+    {
+      "position": 85,
+      "title": "IIT Bombay Student Defends Professor Suryanarayana Doolla, Says He Can Be Strict But Is Not Unfair",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/videos/iit-bombay-student-defends-professor-suryanarayana-doolla-says-he-can-be-strict-but-is-not-unfair-10343570.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/1789975922_d354a94b-b954-404a-b67d-412cb28f4368.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWVjlvZW05WVp6TktSamc0VFJDZkF4ampCU2dLTWdZQkVKSmxrZ1k",
+      "date": "09/21/2026, 07:28 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:28:00Z"
+    },
+    {
+      "position": 86,
+      "title": "IIT-B director signs 18 demands amid calls for his resignation, professor's suspension",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/education-today/news/story/iit-bombay-sahil-wakode-protest-director-signs-18-point-student-charter-2999165-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iit-bombay-director-214423291-16x9_0.jpg?VersionId=TkE1tJFR4zpJSPGR.Stasw41d8ziTFpz&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNaMHRGWkdWaU1FaFdkRFF5VFJDZkF4ampCU2dLTWdaQlVvcjByQVk",
+      "date": "09/21/2026, 01:57 AM, +0000 UTC",
+      "iso_date": "2026-09-21T01:57:34Z"
+    },
+    {
+      "position": 87,
+      "title": "Who is Professor Suryanarayana Doolla? IIT Bombay professor at centre of student suicide row",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ragini Jaiswal"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/city/who-is-professor-suryanarayana-doolla-iit-bombay-professor-at-centre-of-student-suicide-row-article-14034433.html/amp",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260921070844_Suryanarayana-Doolla-.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJWR2czZVVGeFZHcGFVemc1VFJDZkF4ampCU2dLTWdtTmNwTEZMbWRGN0FF",
+      "date": "09/21/2026, 07:10 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:10:51Z"
+    },
+    {
+      "position": 88,
+      "title": "IIT Bombay suspends Professor Doolla’s deanship and retracts cheating claims after student suicide",
+      "source": {
+        "name": "The News Mill",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thenewsmill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thenewsmill.com/2026/09/iit-bombay-suspends-professor-doollas-deanship-and-retracts-cheating-claims-after-student-suicide/",
+      "thumbnail": "https://thenewsmill.com/wp-content/uploads/2026/09/iit-bombay-suspends-professor-doollas-deanship-and-retracts-cheating-claims-after-student-suicide.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUphMjh5YTFWTVRYbFZhV1ZZVFJEZ0F4aUFCU2dLTWdhaFFwWkxKUWs",
+      "date": "09/21/2026, 07:22 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:22:11Z"
+    },
+    {
+      "position": 89,
+      "title": "IIT Bombay student protest: What are the 18 demands and what happens next | Explained",
+      "source": {
+        "name": "edexlive.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.edexlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.edexlive.com/news/iit-bombay-student-protest-what-are-the-18-demands-and-what-happens-next-explained",
+      "thumbnail": "https://cf-images.assettype.com/edexlive/2026-09-21/judx7w2b/upc03f01a5f65ecfd1.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXRkY0VkV0RFR6YzVTVzFhVFJDZkF4ampCU2dLTWdhUmRJNHByZ1k",
+      "date": "09/21/2026, 10:26 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:26:04Z"
+    },
+    {
+      "position": 90,
+      "title": "Third IIT Bombay suicide this year puts student pressure under spotlight",
+      "source": {
+        "name": "The News Minute",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thenewsminute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nandini Chandrashekar"
+        ]
+      },
+      "link": "https://www.thenewsminute.com/news/third-iit-bombay-suicide-this-year-puts-student-pressure-under-spotlight",
+      "thumbnail": "https://cf-images.assettype.com/thenewsminute/2026-09-20/u4feejlz/IIT-Bombay-Sahil-Wakode-suicide.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhXWHBIYVdKQmRIQlBMVFo0VFJEZ0F4aUFCU2dLTWdZQmNaaEdLUWc",
+      "date": "09/20/2026, 11:37 AM, +0000 UTC",
+      "iso_date": "2026-09-20T11:37:54Z"
+    },
+    {
+      "position": 91,
+      "title": "Who is Suryanarayana Doolla? IIT-Bombay professor suspended after student's suicide",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ragini Jaiswal"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/city/who-is-suryanarayana-doolla-iit-bombay-professor-suspended-after-students-suicide-article-14034433.html/amp",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260921070844_Suryanarayana-Doolla-.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJWR2czZVVGeFZHcGFVemc1VFJDZkF4ampCU2dLTWdtTmNwTEZMbWRGN0FF",
+      "date": "09/21/2026, 07:10 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:10:51Z"
+    },
+    {
+      "position": 92,
+      "title": "IIT Bombay student suicide: Professor Doola's deanship suspended, Institute retracts statement claiming cheating by student",
+      "source": {
+        "name": "ANI News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aninews.in/news/national/general-news/iit-bombay-student-suicide-professor-doolas-deanship-suspended-institute-retracts-statement-claiming-cheating-by-student20260921125134",
+      "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260921072119.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUphMjh5YTFWTVRYbFZhV1ZZVFJEZ0F4aUFCU2dLTWdhaFFwWkxKUWs",
+      "date": "09/21/2026, 07:21 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:21:00Z"
+    },
+    {
+      "position": 93,
+      "title": "IIT Bombay student suicide: Why students and faculty are divided over Professor Suryanarayan Doolla",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Raajnandini mukherjee"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/india/iit-bombay-student-suicide-why-students-and-faculty-are-divided-over-professor-suryanarayan-doolla-14034287.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260921054352_IIT-Bombay-2.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNjbnBUYTAxUFJUSkxWRTlFVFJERUFSamVBaWdLTWdZRldwVGtxZ2M",
+      "date": "09/21/2026, 05:08 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:08:38Z"
+    },
+    {
+      "position": 94,
+      "title": "IIT Bombay calls Director Kedare resignation news false, says Sahil death details under probe; Dean Doolla",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/india/iit-bombay-calls-director-kedare-resignation-news-false-says-sahil-death-details-under-probe-dean-doolla-suspended/amp_articleshow/134383239.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134383469,width-1200,height-900,resizemode-4,imgsize-114958/iit-bombay-suryanarayana-doolla-sahil-wakode.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNlbkZ1YTNaRWRYazVORXR0VFJEZ0F4aUFCU2dLTWdrQmdZelZNT1hBN0FF",
+      "date": "09/21/2026, 07:29 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:29:00Z"
+    },
+    {
+      "position": 95,
+      "title": "IIT Bombay Apologises, Suspends Professor Named in Student Suicide Case",
+      "source": {
+        "name": "Devbhoomi News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://devbhoominews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://devbhoominews.com/iit-3/",
+      "thumbnail": "https://devbhoominews.com/wp-content/uploads/2026/09/file-photo-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhPVzFMTFVoSlRrVlBXSGw1VFJEaEFSaVFBeWdLTWdZQkVJakNqZ28",
+      "date": "09/21/2026, 08:09 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:09:33Z"
+    },
+    {
+      "position": 96,
+      "title": "IIT Bombay suspends professor Doolla’s deanship amid probe, apologises over claims on Wakode's death",
+      "source": {
+        "name": "Careers360",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.careers360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ruchika Kumari"
+        ]
+      },
+      "link": "https://news.careers360.com/iit-bombay-suspends-suryanarayana-doolla-apologises-for-statement-student-suicide-row",
+      "thumbnail": "https://cache.careers360.mobi/media/article_images/2026/9/21/iit-bombay-student-suicide-featured-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9SMkZoWmtkc2VuYzBTVVkyVFJDZkF4ampCU2dLTWdzQk5JWnFTYUtwQlZvc1RR",
+      "date": "09/21/2026, 07:33 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:33:05Z"
+    },
+    {
+      "position": 97,
+      "title": "IIT Bombay Suspends Dean Suryanarayana Doolla Amid Student Suicide Probe",
+      "source": {
+        "name": "Pragativadi",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pragativadi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ananya Pattnaik"
+        ]
+      },
+      "link": "https://pragativadi.com/iit-bombay-suspends-dean-suryanarayana-doolla-amid-student-suicide-probe/",
+      "thumbnail": "https://pragativadi.com/wp-content/uploads/2026/09/IIT-Bombay-Suspends-Dean-Suryanarayana-Doolla-Amid-Student-Suicide-Probe.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFiRzlKZWxGM2QwNDNiRlZJVFJDZkF4ampCU2dLTWdtTmNwTEZMbWRGN0FF",
+      "date": "09/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-18T07:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "IIT Bombay protest: Institute removes Prof Doolla as dean, apologises over earlier communication on student's death",
+      "source": {
+        "name": "Mid-Day",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mid-day.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditi Alurkar"
+        ]
+      },
+      "link": "https://www.mid-day.com/mumbai/mumbai-news/article/iit-bombay-protests-prof-suryanarayana-doolla-removed-as-dean-institute-apologises-over-student-death-statement-23651179",
+      "date": "09/22/2026, 02:12 AM, +0000 UTC",
+      "iso_date": "2026-09-22T02:12:00Z"
+    },
+    {
+      "position": 99,
+      "title": "India News | IIT Madras Faculty Body Urges Fair, Time-bound Inquiry into IIT Bombay Student’s Death",
+      "source": {
+        "name": "LatestLY",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.latestly.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.latestly.com/agency-news/india-news-iit-madras-faculty-body-urges-fair-time-bound-inquiry-into-iit-bombay-students-death-7614657.html",
+      "thumbnail": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-02.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpSMUl0UzJOM1N6WjRkelJYVFJDZ0F4amhCU2dLTWdhSklZck5tQWM",
+      "date": "09/22/2026, 02:42 AM, +0000 UTC",
+      "iso_date": "2026-09-22T02:42:22Z"
+    },
+    {
+      "position": 100,
+      "title": "India News",
+      "source": {
+        "name": "LatestLY",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.latestly.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.latestly.com/agency-news/india-news-iit-bombay-suicide-iit-delhi-faculty-forum-backs-prof-doolla-flags-mob-driven-behaviour-7614866.html",
+      "thumbnail": "https://st1.latestly.com/wp-content/uploads/2026/09/ANI-20260922043102-784x441.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRXUzA0U2twdlV6aDZkM1JvVFJDZkF4ampCU2dLTWdhQmtKQWlOUVk",
+      "date": "09/22/2026, 04:46 AM, +0000 UTC",
+      "iso_date": "2026-09-22T04:46:34Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

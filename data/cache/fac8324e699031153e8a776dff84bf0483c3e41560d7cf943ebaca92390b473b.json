@@ -1,0 +1,367 @@
+{
+  "search_metadata": {
+    "id": "6ab1566cf6e92659cc57475e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uySTxwuXL_Mc4KNBFHiA0hQ7vVQPNBYE5bIAFaDovsQ/6ab1566cf6e92659cc57475e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/uySTxwuXL_Mc4KNBFHiA0hQ7vVQPNBYE5bIAFaDovsQ/6ab1566cf6e92659cc57475e.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/uySTxwuXL_Mc4KNBFHiA0hQ7vVQPNBYE5bIAFaDovsQ/6ab1566cf6e92659cc57475e.json_with_pixel_position",
+    "created_at": "2026-09-21 16:08:12 UTC",
+    "processed_at": "2026-09-21 16:08:12 UTC",
+    "google_url": "https://www.google.com/search?q=scientists+discover+earth+like+planet+2025&oq=scientists+discover+earth+like+planet+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/uySTxwuXL_Mc4KNBFHiA0hQ7vVQPNBYE5bIAFaDovsQ/6ab1566cf6e92659cc57475e.html",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "scientists discover earth like planet 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "scientists discover earth like planet 2025",
+    "total_results": 39,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "xbs0tHiczVXdkqI4FH6AfY71prsFEW3pKmoqidjif7SdafvGgkAHWgQltMrc7cW-yT7VPs0G_ENWumfmYmtTFRPId07O8Xwf54-_PNdf_P3bn04UrdiDIGy32zINAurZZRIsBYPFPhFeA4-FxPkSb9RqiTBVLNmuaraMnRG2lVbXt7YDebRRDPMdk1Jqos5Ng9lv3OPujQlzgf8sfq82-UOZlW2_vKAvnXbVGWzvF2VJrCjloWAsOQD8d2NGAUrWCdCKQfxI_yFvGAOkZz1BmC7o_Gab4oBG0xOY7K_fifZ-dCf9BWDk-DWHcZPgCGkXxgGz4cLZIbhZeh-gGHyU7BVv-xwoyOdyZRRkgy9cgMfMUaE_COhFnBxIEWyLAB_d0As8wtnrtcQA7hFDDOxmAziUflBGbtDqAzIBOvqs2AHSG_B4VYtxvuqCRTlxRcEM-VIRXOKQdBOyhM_oSRGDR2XV0JgHzFX9edKXFrr8OO_WA2js2lggJsd5gWHZ1tyZi1_S54pUqYlK9b5xmwqJsJOSWFZJ6Ds2X3FElYiUe2VYOcoInWib-485t8DVJCE6QK8UBZ1Zk5wezGk3A9FP1hoGfTfnZ2on1eifq9aUAJCziHO1Ebgmo_3-vE1ktA-EC08Dx_JnEPxtJ-MnkzPc_jtFmH_RhEdG6ZDmgZdU16k2AeeE4SU3OdZ1tISxiQa-kjQmkmcw0PVcIMn3gRdF005u9kntx-M5H37SwinlnUQ3dDpNxKMdCJ8YjMHpW5TTAc2HcRjf-Gw5nwi-cASfQ7hsDnrJ0T8rG02X4dPjsN52Nbk_fQvJZjNub4wdjiN6XSbB0vyJjkP-V0La9yP90I-KhaT_kJAwRsX9aL8996MkEIgxLhAS6hT0I_kIOfejvJBgLyMk5-N-9LNCQh8K6SjSq0JCi8NpVkioSEjHfpQVktu57EfZMM796CSkX-pHwa_1o1RX9n65bE7vb7SwSWnhfcfrfq2Is5cnf-3VUKCjGpvWZDQGnzap12X0sDQs73buWg9Q6kSxdTvnL4IH2yqtVUZc249cFrEby2Uk2NjhjW2EkXPjuQv7ZuUZvh3dSKJUKy29MFBFo_bUvOu8O6AetFdbKx51YS3WR2Fv5_c667G8os8rCc5Wd_Wa21gsPTiruK6uWY0efP2-ngxkJRL90ByzuSZbg7ZZxZ37wXKz2ziL2G1Ho2DtVeSVFO7gdNRtRWzIGQI2w2oUv-2Gwd22G7_0kEcc2H_2m3GjblE_jYypbPQkLrrva1ORS8uQqNxOpmCAwTfK2YhmnEaUz4DPLZ91gDVYYsSY22yjViRFMmpV8b4qyg0i8mxpFK9URSwxP1Qr_wAmkEIF",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xbs0tHiczVXdkqI4FH6AfY71prsFEW3pKmoqidjif7SdafvGgkAHWgQltMrc7cW-yT7VPs0G_ENWumfmYmtTFRPId07O8Xwf54-_PNdf_P3bn04UrdiDIGy32zINAurZZRIsBYPFPhFeA4-FxPkSb9RqiTBVLNmuaraMnRG2lVbXt7YDebRRDPMdk1Jqos5Ng9lv3OPujQlzgf8sfq82-UOZlW2_vKAvnXbVGWzvF2VJrCjloWAsOQD8d2NGAUrWCdCKQfxI_yFvGAOkZz1BmC7o_Gab4oBG0xOY7K_fifZ-dCf9BWDk-DWHcZPgCGkXxgGz4cLZIbhZeh-gGHyU7BVv-xwoyOdyZRRkgy9cgMfMUaE_COhFnBxIEWyLAB_d0As8wtnrtcQA7hFDDOxmAziUflBGbtDqAzIBOvqs2AHSG_B4VYtxvuqCRTlxRcEM-VIRXOKQdBOyhM_oSRGDR2XV0JgHzFX9edKXFrr8OO_WA2js2lggJsd5gWHZ1tyZi1_S54pUqYlK9b5xmwqJsJOSWFZJ6Ds2X3FElYiUe2VYOcoInWib-485t8DVJCE6QK8UBZ1Zk5wezGk3A9FP1hoGfTfnZ2on1eifq9aUAJCziHO1Ebgmo_3-vE1ktA-EC08Dx_JnEPxtJ-MnkzPc_jtFmH_RhEdG6ZDmgZdU16k2AeeE4SU3OdZ1tISxiQa-kjQmkmcw0PVcIMn3gRdF005u9kntx-M5H37SwinlnUQ3dDpNxKMdCJ8YjMHpW5TTAc2HcRjf-Gw5nwi-cASfQ7hsDnrJ0T8rG02X4dPjsN52Nbk_fQvJZjNub4wdjiN6XSbB0vyJjkP-V0La9yP90I-KhaT_kJAwRsX9aL8996MkEIgxLhAS6hT0I_kIOfejvJBgLyMk5-N-9LNCQh8K6SjSq0JCi8NpVkioSEjHfpQVktu57EfZMM796CSkX-pHwa_1o1RX9n65bE7vb7SwSWnhfcfrfq2Is5cnf-3VUKCjGpvWZDQGnzap12X0sDQs73buWg9Q6kSxdTvnL4IH2yqtVUZc249cFrEby2Uk2NjhjW2EkXPjuQv7ZuUZvh3dSKJUKy29MFBFo_bUvOu8O6AetFdbKx51YS3WR2Fv5_c667G8os8rCc5Wd_Wa21gsPTiruK6uWY0efP2-ngxkJRL90ByzuSZbg7ZZxZ37wXKz2ziL2G1Ho2DtVeSVFO7gdNRtRWzIGQI2w2oUv-2Gwd22G7_0kEcc2H_2m3GjblE_jYypbPQkLrrva1ORS8uQqNxOpmCAwTfK2YhmnEaUz4DPLZ91gDVYYsSY22yjViRFMmpV8b4qyg0i8mxpFK9URSwxP1Qr_wAmkEIF"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "This is the most dangerous time for our planet | Stephen ...",
+      "link": "https://www.theguardian.com/commentisfree/2016/dec/01/stephen-hawking-dangerous-time-planet-inequality",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFeIzUx75oR3el1nD7qvhFrsOa5PEjggqACHM9JJ23Xhn0t4GkIdXMxpnWOFNyyaTjo5qHfY835rcEzerb-pT9yxRBjBwHd0eI2tmESivwMBZHzwS2Mp6AK-DiAX8u9J8oTsSEw-rT0-EsjRAvZ57F8FpId47-67kMLXTMTu9D8q9aMapKjilHTjF2NGC6QhSidrWawKS6OFsiQ&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.theguardian.com › commentisfree › dec › s...",
+      "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBQCdASocABwAPtE-tFooIigoFAEAGglmAJ0y3yWP_YIMMTqF2dgphbNqxNSDYKilhEhPUqtQAAD-7pbZSKamBLYQ5IBmGNjRJ5JKVYps-Saq1Tps5dl3F83hYYU6R012lTPPKfXbDfWzApV5rpBTgKJJf7kbSCqDZl7EI5YmO4YT4xGbfZyNc4C5DenXfymfCXRWq_VKeltjuVCLYfqzhF4d1vwxmHP53yPE_h4odBKP5PLQj8BHE62FdWRx0tu2s4-fOAumnTGe5cD-arZENwimfsWj1lGY9YMn-mjOgwX8_pinZuOw-7PIBHccNjjZ58_GM6PBoHc7ry82sgqTP1Ky1vaV__KfNTmoDJk0nQ9tqffT6ypxtwySatf6I_e2L2d4D051ADE02QSmU8_g87yAAA.webp",
+      "date": "Dec 1, 2016",
+      "snippet": "We face awesome environmental challenges: climate change, food production, overpopulation, the decimation of other species, epidemic disease, ...",
+      "snippet_highlighted_words": [
+        "We"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We face awesome environmental challenges: climate change, food production, overpopulation, the decimation of other species, epidemic disease, ...",
+          "source_info_link": "https://www.theguardian.com/commentisfree/2016/dec/01/stephen-hawking-dangerous-time-planet-inequality",
+          "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBQCdASocABwAPtE-tFooIigoFAEAGglmAJ0y3yWP_YIMMTqF2dgphbNqxNSDYKilhEhPUqtQAAD-7pbZSKamBLYQ5IBmGNjRJ5JKVYps-Saq1Tps5dl3F83hYYU6R012lTPPKfXbDfWzApV5rpBTgKJJf7kbSCqDZl7EI5YmO4YT4xGbfZyNc4C5DenXfymfCXRWq_VKeltjuVCLYfqzhF4d1vwxmHP53yPE_h4odBKP5PLQj8BHE62FdWRx0tu2s4-fOAumnTGe5cD-arZENwimfsWj1lGY9YMn-mjOgwX8_pinZuOw-7PIBHccNjjZ58_GM6PBoHc7ry82sgqTP1Ky1vaV__KfNTmoDJk0nQ9tqffT6ypxtwySatf6I_e2L2d4D051ADE02QSmU8_g87yAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZlSXpVeDc1b1IzZWwxbkQ3cXZoRnJzT2E1UEVqZ2dxQUNITTlKSjIzWGhuMHQ0R2tJZFhNeHBuV09GTnl5YVRqbzVxSGZZODM1cmNFemVyYi1wVDl5eFJCakJ3SGQwZUkydG1FU2l2d01CWkh6d1MyTXA2QUstRGlBWDh1OUo4b1RzU0V3LXJUMC1Fc2pSQXZaNTdGOEZwSWQ0Ny02N2tNTFhUTVR1OUQ4cTlhTWFwS2ppbEhUakYyTkdDNlFoU2lkcldhd0tTNk9Gc2lREgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZlSXpVeDc1b1IzZWwxbkQ3cXZoRnJzT2E1UEVqZ2dxQUNITTlKSjIzWGhuMHQ0R2tJZFhNeHBuV09GTnl5YVRqbzVxSGZZODM1cmNFemVyYi1wVDl5eFJCakJ3SGQwZUkydG1FU2l2d01CWkh6d1MyTXA2QUstRGlBWDh1OUo4b1RzU0V3LXJUMC1Fc2pSQXZaNTdGOEZwSWQ0Ny02N2tNTFhUTVR1OUQ4cTlhTWFwS2ppbEhUakYyTkdDNlFoU2lkcldhd0tTNk9Gc2lREgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "The Guardian",
+      "read_more_link": "https://www.theguardian.com/commentisfree/2016/dec/01/stephen-hawking-dangerous-time-planet-inequality#:~:text=We%20face%20awesome%20environmental%20challenges%3A,disease%2C%20acidification%20of%20the%20oceans."
+    },
+    {
+      "position": 2,
+      "title": "Blue Planet II Official Trailer 2 | BBC Earth",
+      "link": "https://www.youtube.com/watch?v=kAphgHhlteM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVUzFr2epsnZwshcxsJj6RtS2gZ0H12uCD7rPYXOR1QBPrKvSzOil1uIwYKO9znVTNlH1Hi1GDpHW_XBczAEiWr7ZqOzdUwjU3_OaUvApP6WmiEZ4iOyeG0H2aesp4RQ&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Oct 20, 2017",
+      "snippet": "In 2001, The Blue Planet opened our eyes to the worlds beneath the waves. A generation on, new science and technology allow us to journey ...",
+      "snippet_highlighted_words": [
+        "Planet",
+        "science"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In 2001, The Blue Planet opened our eyes to the worlds beneath the waves. A generation on, new science and technology allow us to journey ...",
+          "source_info_link": "https://www.youtube.com/watch?v=kAphgHhlteM",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlV6RnIyZXBzblp3c2hjeHNKajZSdFMyZ1owSDEydUNEN3JQWVhPUjFRQlByS3ZTek9pbDF1SXdZS085em5WVE5sSDFIaTFHRHBIV19YQmN6QUVpV3I3WnFPemRVd2pVM19PYVV2QXBQNldtaUVaNGlPeWVHMEgyYWVzcDRSURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlV6RnIyZXBzblp3c2hjeHNKajZSdFMyZ1owSDEydUNEN3JQWVhPUjFRQlByS3ZTek9pbDF1SXdZS085em5WVE5sSDFIaTFHRHBIV19YQmN6QUVpV3I3WnFPemRVd2pVM19PYVV2QXBQNldtaUVaNGlPeWVHMEgyYWVzcDRSURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "Planet Zoo | Celebrating Six Years 💚",
+      "link": "https://www.youtube.com/watch?v=h0S7C8alumY",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVgNcrnst1gysPrHBdgrq4Qe3OCzLXUau3S7t6Df8whzd4K8i3oIlUx3aiB3zFFwgz7OxsT1f223pZiNnZJJkAouaQ-M09BhhXBCNMK_yOq_G3NjKFQYmjBwzIT6A7yA&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Nov 5, 2025",
+      "snippet": "Hayo Zookeepers! Today we're celebrating six years of Planet Zoo We have some exciting news for you!",
+      "snippet_highlighted_words": [
+        "we",
+        "Planet",
+        "We"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hayo Zookeepers! Today we're celebrating six years of Planet Zoo We have some exciting news for you!",
+          "source_info_link": "https://www.youtube.com/watch?v=h0S7C8alumY",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmdOY3Juc3QxZ3lzUHJIQmRncnE0UWUzT0N6TFhVYXUzUzd0NkRmOHdoemQ0SzhpM29JbFV4M2FpQjN6RkZ3Z3o3T3hzVDFmMjIzcFppTm5aSkprQW91YVEtTTA5QmhoWEJDTk1LX3lPcV9HM05qS0ZRWW1qQnd6SVQ2QTd5QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmdOY3Juc3QxZ3lzUHJIQmRncnE0UWUzT0N6TFhVYXUzUzd0NkRmOHdoemQ0SzhpM29JbFV4M2FpQjN6RkZ3Z3o3T3hzVDFmMjIzcFppTm5aSkprQW91YVEtTTA5QmhoWEJDTk1LX3lPcV9HM05qS0ZRWW1qQnd6SVQ2QTd5QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 4,
+      "title": "Action Bronson - Planet Frog ALBUM REVIEW",
+      "link": "https://www.youtube.com/watch?v=Sjd0Z4JUWNI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVqkLIXBhrsQ0Ny3WFCGCWz-s8tUuC-j_5p_RGEB3RMbb0UhBblGkm1XVzzz-LbxKNV_o3MxnViDGHikSdfKvxXZ2Ml0CqLK70vMtdydk9NhiytI4LCBLLFbRA4Jij8w&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "May 11, 2026",
+      "snippet": "Listen: https://www.youtube.com/watch?v=q68v2C-uw-4 Action Bronson's strongest project in over a decade.",
+      "about_this_result": {
+        "source": {
+          "description": "Listen: https://www.youtube.com/watch?v=q68v2C-uw-4 Action Bronson's strongest project in over a decade.",
+          "source_info_link": "https://www.youtube.com/watch?v=Sjd0Z4JUWNI",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnFrTElYQmhyc1EwTnkzV0ZDR0NXei1zOHRVdUMtal81cF9SR0VCM1JNYmIwVWhCYmxHa20xWFZ6enotTGJ4S05WX28zTXhuVmlER0hpa1NkZkt2eFhaMk1sMENxTEs3MHZNdGR5ZGs5TmhpeXRJNExDQkxMRmJSQTRKaWo4dxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnFrTElYQmhyc1EwTnkzV0ZDR0NXei1zOHRVdUMtal81cF9SR0VCM1JNYmIwVWhCYmxHa20xWFZ6enotTGJ4S05WX28zTXhuVmlER0hpa1NkZkt2eFhaMk1sMENxTEs3MHZNdGR5ZGs5TmhpeXRJNExDQkxMRmJSQTRKaWo4dxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 5,
+      "title": "I Built a Theme Park of Perpetual Agony in Planet Coaster 2",
+      "link": "https://www.youtube.com/watch?v=6ARjrl74nc4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV4gcU2ZeGVJ3grDaIZlzvt23fBMYWxUR2pV6np7-7l2rUXBLC-8h00GASbrSf-LNdFsjacarmXaDlqONufbUDi7-8EvKiYJ7uL0j6nlTpaGIX9eadQ0qrSjc3Ga58KQ&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Nov 29, 2024",
+      "snippet": "I Made a Water Park with a 0% Survival Rate - Planet Coaster 2 · I Built a Theme Park With a 99.9% Death Rate - Parkitect · The COMPLETE ...",
+      "snippet_highlighted_words": [
+        "Planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I Made a Water Park with a 0% Survival Rate - Planet Coaster 2 · I Built a Theme Park With a 99.9% Death Rate - Parkitect · The COMPLETE ...",
+          "source_info_link": "https://www.youtube.com/watch?v=6ARjrl74nc4",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjRnY1UyWmVHVkozZ3JEYUlabHp2dDIzZkJNWVd4VVIycFY2bnA3LTdsMnJVWEJMQy04aDAwR0FTYnJTZi1MTmRGc2phY2FybVhhRGxxT051ZmJVRGk3LThFdktpWUo3dUwwajZubFRwYUdJWDllYWRRMHFyU2pjM0dhNThLURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjRnY1UyWmVHVkozZ3JEYUlabHp2dDIzZkJNWVd4VVIycFY2bnA3LTdsMnJVWEJMQy04aDAwR0FTYnJTZi1MTmRGc2phY2FybVhhRGxxT051ZmJVRGk3LThFdktpWUo3dUwwajZubFRwYUdJWDllYWRRMHFyU2pjM0dhNThLURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube",
+      "read_more_link": "https://www.youtube.com/watch?v=6ARjrl74nc4#:~:text=I%20Made%20a%20Water%20Park,Rate%20%2D%20Planet%20Coaster%202&text=I%20Built%20a%20Theme%20Park,99.9%25%20Death%20Rate%20%2D%20Parkitect&text=The%20COMPLETE%20Dreamworks%20Theory"
+    },
+    {
+      "position": 6,
+      "title": "Unique Coalfish Skarland Fjord Norway Fishing Planet Guide",
+      "link": "https://www.youtube.com/watch?v=CLMmXlbMjyI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVgz_rQ0jpSHyLiveKnhSN-pzJP10P9994ki2B6nSzk2TP2BqNHwu1aJoToHdLaVh6vQhzfOhkoqvFKtKdBw7Hun5iAedywcIEi11Z75GdD_dZL_6e3UfcjNoFyDQ0VQ&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECEoQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Apr 22, 2026",
+      "snippet": "In this video I show you the best way to catch the Unique Coalfish at Skarland Fjord, Norway. Skarland Fjord Norway Fishing Planet Playlist: ...",
+      "snippet_highlighted_words": [
+        "Planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video I show you the best way to catch the Unique Coalfish at Skarland Fjord, Norway. Skarland Fjord Norway Fishing Planet Playlist: ...",
+          "source_info_link": "https://www.youtube.com/watch?v=CLMmXlbMjyI",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmd6X3JRMGpwU0h5TGl2ZUtuaFNOLXB6SlAxMFA5OTk0a2kyQjZuU3prMlRQMkJxTkh3dTFhSm9Ub0hkTGFWaDZ2UWh6Zk9oa29xdkZLdEtkQnc3SHVuNWlBZWR5d2NJRWkxMVo3NUdkRF9kWkxfNmUzVWZjak5vRnlEUTBWURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmd6X3JRMGpwU0h5TGl2ZUtuaFNOLXB6SlAxMFA5OTk0a2kyQjZuU3prMlRQMkJxTkh3dTFhSm9Ub0hkTGFWaDZ2UWh6Zk9oa29xdkZLdEtkQnc3SHVuNWlBZWR5d2NJRWkxMVo3NUdkRF9kWkxfNmUzVWZjak5vRnlEUTBWURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube",
+      "read_more_link": "https://www.youtube.com/watch?v=CLMmXlbMjyI#:~:text=Unique%20Coalfish%20Skarland%20Fjord%20Norway"
+    },
+    {
+      "position": 7,
+      "title": "Trophy Bluegill Lone Star Lake Texas Fishing Planet Guide",
+      "link": "https://www.youtube.com/watch?v=T42rsShX2uo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVmHxRV-5x65czknCm9nwF5PJhTwEhDf1VYAaOjwfBGPkpCL77svZZO1mSCwMH-9w1MlwRAw_YQ7lKlrsQm1-Qil_fMxEvri5i8dC6_GNw3oH7TNwVH1v6lupmKWkdMQ&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECE4QAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Jul 27, 2026",
+      "snippet": "In this video I show you the best way to catch the Trophy Bluegill in Lone Star Lake, Texas. Lone Star Lake, Texas Fishing Planet Guides: · Lone ...",
+      "snippet_highlighted_words": [
+        "Planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video I show you the best way to catch the Trophy Bluegill in Lone Star Lake, Texas. Lone Star Lake, Texas Fishing Planet Guides: · Lone ...",
+          "source_info_link": "https://www.youtube.com/watch?v=T42rsShX2uo",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVm1IeFJWLTV4NjVjemtuQ205bndGNVBKaFR3RWhEZjFWWUFhT2p3ZkJHUGtwQ0w3N3N2WlpPMW1TQ3dNSC05dzFNbHdSQXdfWVE3bEtscnNRbTEtUWlsX2ZNeEV2cmk1aThkQzZfR053M29IN1ROd1ZIMXY2bHVwbUtXa2RNURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVm1IeFJWLTV4NjVjemtuQ205bndGNVBKaFR3RWhEZjFWWUFhT2p3ZkJHUGtwQ0w3N3N2WlpPMW1TQ3dNSC05dzFNbHdSQXdfWVE3bEtscnNRbTEtUWlsX2ZNeEV2cmk1aThkQzZfR053M29IN1ROd1ZIMXY2bHVwbUtXa2RNURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube",
+      "read_more_link": "https://www.youtube.com/watch?v=T42rsShX2uo#:~:text=Trophy%20Bluegill%20Lone%20Star%20Lake&text=Trophy%20Bluegill%20Lone%20Star%20Lake"
+    },
+    {
+      "position": 8,
+      "title": "I Played 100% of The Planet Crafter",
+      "link": "https://www.youtube.com/watch?v=uDSQqy9JYuU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVrjqJ2TJ8xa0Rm-H6glIaKlH59mBOxbIRZCVJY74yLNFzSoQhMja8rUsBfC9PWJPDAfGkeoxLS1UeDUvIv94Ic8iDC0HTp-Ot4_fRF01gVK5_XVuAJjwwxLj960bpFA&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQFnoECEwQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Sep 6, 2024",
+      "snippet": "I played 100% of The Planet Crafter, and it made my heart glad to watch the number go up up up. if you'd like to support my content, become ...",
+      "snippet_highlighted_words": [
+        "Planet",
+        "like"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I played 100% of The Planet Crafter, and it made my heart glad to watch the number go up up up. if you'd like to support my content, become ...",
+          "source_info_link": "https://www.youtube.com/watch?v=uDSQqy9JYuU",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnJqcUoyVEo4eGEwUm0tSDZnbElhS2xINTltQk94YklSWkNWSlk3NHlMTkZ6U29RaE1qYThyVXNCZkM5UFdKUERBZkdrZW94TFMxVWVEVXZJdjk0SWM4aURDMEhUcC1PdDRfZlJGMDFnVks1X1hWdUFKand3eExqOTYwYnBGQRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnJqcUoyVEo4eGEwUm0tSDZnbElhS2xINTltQk94YklSWkNWSlk3NHlMTkZ6U29RaE1qYThyVXNCZkM5UFdKUERBZkdrZW94TFMxVWVEVXZJdjk0SWM4aURDMEhUcC1PdDRfZlJGMDFnVks1X1hWdUFKand3eExqOTYwYnBGQRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Museum of Science",
+      "source": "YouTube",
+      "duration": "0:38",
+      "extensions": [
+        "17.2K+ views "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab1566cf6e92659cc57475e/images/lLwaQvzXo9ANh8YzB2NkAyF1QAnLoFFpZAB_hZwRRKo.webp"
+      ],
+      "title": "Scientists Discover Planet’s Earth-Like Atmosphere!",
+      "link": "https://www.youtube.com/shorts/T8yQHYap0iQ",
+      "date": "1 month ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSSj1jO-44qxfoBnxsbFjS69aQCN65O2YihyQ"
+    },
+    {
+      "author": "r/space",
+      "source": "Reddit",
+      "extensions": [
+        "30+ comments "
+      ],
+      "title": "Nearby exoplanet just got more Earth-like and promising for life",
+      "link": "https://www.reddit.com/r/space/comments/1unq47f/nearby_exoplanet_just_got_more_earthlike_and/",
+      "date": "Jul 5, 2026"
+    },
+    {
+      "author": "No Man's Sky",
+      "source": "Facebook",
+      "extensions": [
+        "20+ reactions "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab1566cf6e92659cc57475e/images/buLPbxGwflUMSstRiZf4d6LISsH3d0IOrQOHCTIhX8s.webp"
+      ],
+      "title": "The prettiest Earth-like planet I've found so far in Eissentam. Glyphs in the screenshot if you want to drop by 😎",
+      "link": "https://www.facebook.com/groups/1277721139645865/posts/2372792576805377/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "George A Monterrojas",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KfSKA3nuCle3UNHR9SNvB_Hm6iuManJPXGwSnTo_v_l9cHcigx6EhzWgRkLO9-BdeVb058_D8RQHytflE_T8MAKGhdhlfLLU_S-EvlPTmT11S-k&s"
+      ],
+      "title": "Scientists Just Identified an Earth-Like Planet Right Next Door",
+      "link": "https://www.facebook.com/groups/nasajameswebb/posts/1429428855902827/",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "author": "ScienceChannel",
+      "source": "Facebook",
+      "duration": "7:56",
+      "extensions": [
+        "1.7K+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXXrAfFVMaerKF55EXufIaF6WnfYO-aJF0oxjmtVBtiuSqQMbQex2KyNhIpvm1Z037cyH77_gvhpVVs5VlMj_rTF9FQWRQJYjwBcFlrXR8cF-Hg&s"
+      ],
+      "title": "Science Channel. . The new discovery of seven alien Earth-like planets in a faraway solar system is a major milestone in our hunt for extraterrestrial life, and experts investigate TRAPPIST-1's planets to reveal if we're truly alone in the universe. #SpacesDeepe",
+      "link": "https://www.facebook.com/ScienceChannel/videos/the-new-discovery-of-seven-alien-earth-like-planets-in-a-faraway-solar-system-is/910274665428788/",
+      "date": "Jun 24, 2026"
+    },
+    {
+      "author": "The World, The Universe And Us",
+      "source": "YouTube",
+      "duration": "9:16",
+      "extensions": [
+        "6.5K+ views "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-fnjhNnWHcMJTpGh1puX02kG3GX_EOBTIW9MnAyzNHlU7lFz6gezOR_Z4hvM6MZKAU2t-D7akF5haLsVp1-R-DIWu92ZAY4&s"
+      ],
+      "title": "The Most Promising Alien Planet We've Ever Found?",
+      "link": "https://www.youtube.com/watch?v=Dg8JGCA672Y",
+      "date": "Jul 20, 2026",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRM2M1u2VmjnElfLt2od6F03aiuRp3WLpmL3A"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=scientists+discover+earth+like+planet+2025&sca_esv=1292a53073048c05&ei=bFaxarH9FKndwN4Pv9abuQc&start=10&sa=N&sstk=AS6-VmLEP96QLtP-7eI87H4hYPOk3kNyxtRpRhKokEWBSPoZjZsfm4I7fljQR9T47tilpIPIf7vo3GoRO5ePVJO4bcGwlSKLUN8kcg&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQ8NMDegQISRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=scientists+discover+earth+like+planet+2025&sca_esv=1292a53073048c05&ei=bFaxarH9FKndwN4Pv9abuQc&start=10&sa=N&sstk=AS6-VmLEP96QLtP-7eI87H4hYPOk3kNyxtRpRhKokEWBSPoZjZsfm4I7fljQR9T47tilpIPIf7vo3GoRO5ePVJO4bcGwlSKLUN8kcg&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQ8tMDegQISRAE",
+      "3": "https://www.google.com/search?q=scientists+discover+earth+like+planet+2025&sca_esv=1292a53073048c05&ei=bFaxarH9FKndwN4Pv9abuQc&start=20&sa=N&sstk=AS6-VmLEP96QLtP-7eI87H4hYPOk3kNyxtRpRhKokEWBSPoZjZsfm4I7fljQR9T47tilpIPIf7vo3GoRO5ePVJO4bcGwlSKLUN8kcg&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQ8tMDegQISRAG",
+      "4": "https://www.google.com/search?q=scientists+discover+earth+like+planet+2025&sca_esv=1292a53073048c05&ei=bFaxarH9FKndwN4Pv9abuQc&start=30&sa=N&sstk=AS6-VmLEP96QLtP-7eI87H4hYPOk3kNyxtRpRhKokEWBSPoZjZsfm4I7fljQR9T47tilpIPIf7vo3GoRO5ePVJO4bcGwlSKLUN8kcg&ved=2ahUKEwix49qnh4CXAxWpLtAFHT_rJncQ8tMDegQISRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+2025&start=30"
+    }
+  }
+}

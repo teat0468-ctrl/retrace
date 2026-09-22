@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RETRACE — Recycled News Detector</title>
+    <meta name="description" content="RETRACE detects recycled and misleading news by cross-checking Google News, Google Trends history, and academic sources to determine if a story is truly breaking or just re-shared.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg:         #0b0f1a;
+            --surface:    #111827;
+            --border:     #1f2d44;
+            --text:       #e2e8f0;
+            --muted:      #64748b;
+            --accent:     #6366f1;
+            --accent-dim: rgba(99,102,241,.15);
+            --green:      #22c55e;
+            --red:        #ef4444;
+            --orange:     #f97316;
+            --blue:       #3b82f6;
+            --purple:     #a855f7;
+            --yellow:     #eab308;
+            --radius:     14px;
+        }
+
+        html { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); }
+
+        body { min-height: 100vh; }
+
+        /* ── Layout ── */
+        .page { max-width: 860px; margin: 0 auto; padding: 48px 20px 80px; }
+
+        /* ── Header ── */
+        header { text-align: center; margin-bottom: 52px; }
+        .logo { font-size: 3rem; font-weight: 900; letter-spacing: -2px;
+                background: linear-gradient(135deg, #818cf8, #6366f1, #a78bfa);
+                -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+                background-clip: text; }
+        .tagline { margin-top: 10px; color: var(--muted); font-size: .95rem; font-weight: 400; letter-spacing: .5px; }
+
+        /* ── Card ── */
+        .card { background: var(--surface); border: 1px solid var(--border);
+                border-radius: var(--radius); padding: 32px; margin-bottom: 20px; }
+
+        /* ── Input row ── */
+        .input-row { display: flex; gap: 12px; }
+        #claimInput {
+            flex: 1; padding: 14px 18px; background: #0b0f1a; border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 1rem; font-family: inherit;
+            outline: none; transition: border-color .2s;
+        }
+        #claimInput:focus { border-color: var(--accent); }
+        #claimInput::placeholder { color: var(--muted); }
+        #analyzeBtn {
+            padding: 14px 28px; background: var(--accent); color: #fff;
+            border: none; border-radius: 10px; font-size: .95rem; font-weight: 600;
+            cursor: pointer; transition: background .2s, transform .1s; white-space: nowrap;
+        }
+        #analyzeBtn:hover { background: #4f46e5; }
+        #analyzeBtn:active { transform: scale(.97); }
+        #analyzeBtn:disabled { background: #374151; cursor: not-allowed; }
+
+        /* ── Status steps ── */
+        .step { display: flex; align-items: center; gap: 12px; padding: 10px 0;
+                border-bottom: 1px solid var(--border); font-size: .9rem; color: var(--muted); }
+        .step:last-child { border-bottom: none; }
+        .step.done { color: var(--text); }
+        .step.error { color: var(--red); }
+        .step-icon { width: 20px; height: 20px; flex-shrink: 0; }
+        .spinner { border: 2px solid var(--border); border-top-color: var(--accent);
+                   border-radius: 50%; animation: spin 1s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* ── Verdict badge ── */
+        .verdict-wrap { text-align: center; padding: 32px 0 24px; }
+        .verdict-label { font-size: .7rem; font-weight: 600; letter-spacing: 2px;
+                         text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+        .verdict-badge {
+            display: inline-block; padding: 10px 36px; border-radius: 100px;
+            font-size: 1.6rem; font-weight: 800; letter-spacing: 1px;
+            text-transform: uppercase; box-shadow: 0 4px 24px rgba(0,0,0,.4);
+        }
+        .badge-RECYCLED       { background: rgba(239,68,68,.2);  color: #f87171; border: 1px solid #f87171; }
+        .badge-BREAKING       { background: rgba(34,197,94,.2);  color: #4ade80; border: 1px solid #4ade80; }
+        .badge-DEVELOPING     { background: rgba(59,130,246,.2); color: #60a5fa; border: 1px solid #60a5fa; }
+        .badge-CONTESTED      { background: rgba(249,115,22,.2); color: #fb923c; border: 1px solid #fb923c; }
+        .badge-OLD            { background: rgba(168,85,247,.2); color: #c084fc; border: 1px solid #c084fc; }
+        .badge-NEEDS          { background: rgba(234,179,8,.2);  color: #facc15; border: 1px solid #facc15; }
+
+        /* ── Confidence bar ── */
+        .confidence-row { display: flex; align-items: center; gap: 14px; margin-top: 18px; justify-content: center; }
+        .confidence-label { font-size: .8rem; color: var(--muted); }
+        .confidence-track { width: 180px; height: 6px; background: var(--border); border-radius: 99px; overflow: hidden; }
+        .confidence-fill  { height: 100%; background: linear-gradient(90deg, #6366f1, #a78bfa); border-radius: 99px; transition: width .6s ease; }
+        .confidence-val   { font-size: .8rem; font-weight: 600; color: var(--text); }
+
+        /* ── Spike meters ── */
+        .spike-row { display: flex; gap: 16px; margin-top: 24px; flex-wrap: wrap; }
+        .spike-card { flex: 1; min-width: 160px; background: #0b0f1a; border: 1px solid var(--border);
+                      border-radius: 10px; padding: 16px 20px; }
+        .spike-title { font-size: .7rem; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase;
+                       color: var(--muted); margin-bottom: 8px; }
+        .spike-bar-track { height: 6px; background: var(--border); border-radius: 99px; overflow: hidden; margin-bottom: 6px; }
+        .spike-bar-fill-h { height: 100%; border-radius: 99px; background: #6366f1; transition: width .7s ease; }
+        .spike-bar-fill-c { height: 100%; border-radius: 99px; background: #ef4444; transition: width .7s ease; }
+        .spike-val { font-size: 1.3rem; font-weight: 700; }
+        .spike-sub { font-size: .72rem; color: var(--muted); }
+        .spike-flag { display: inline-block; margin-top: 6px; font-size: .7rem; font-weight: 600;
+                      padding: 2px 8px; border-radius: 99px; }
+        .flag-yes { background: rgba(239,68,68,.2); color: #f87171; }
+        .flag-no  { background: rgba(100,116,139,.15); color: var(--muted); }
+
+        /* ── Section headings ── */
+        .section-title { font-size: .75rem; font-weight: 700; letter-spacing: 2px;
+                         text-transform: uppercase; color: var(--muted); margin-bottom: 16px; }
+
+        /* ── Reasons list ── */
+        .reason-item { display: flex; gap: 10px; align-items: flex-start; padding: 10px 0;
+                       border-bottom: 1px solid var(--border); font-size: .9rem; line-height: 1.6; }
+        .reason-item:last-child { border-bottom: none; }
+        .reason-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent);
+                      flex-shrink: 0; margin-top: 8px; }
+
+        /* ── Narrative drift ── */
+        .drift-item { display: flex; gap: 10px; align-items: flex-start; padding: 10px 0;
+                      border-bottom: 1px solid var(--border); font-size: .88rem; line-height: 1.5; }
+        .drift-item:last-child { border-bottom: none; }
+        .drift-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--orange);
+                     flex-shrink: 0; margin-top: 7px; }
+
+        /* ── Academic signal ── */
+        .academic-card { background: #0b0f1a; border: 1px solid var(--border);
+                         border-radius: 10px; padding: 16px 20px; font-size: .88rem; }
+        .academic-card.outdated { border-color: rgba(234,179,8,.4); }
+        .academic-card.fresh    { border-color: rgba(34,197,94,.3); }
+        .academic-tag { display: inline-block; font-size: .68rem; font-weight: 700; letter-spacing: 1px;
+                        padding: 2px 8px; border-radius: 99px; text-transform: uppercase; margin-bottom: 8px; }
+        .tag-outdated { background: rgba(234,179,8,.2); color: #facc15; }
+        .tag-fresh    { background: rgba(34,197,94,.2);  color: #4ade80; }
+
+        /* ── Evidence sources ── */
+        .source-item { padding: 14px 0; border-bottom: 1px solid var(--border); }
+        .source-item:last-child { border-bottom: none; }
+        .source-title { font-size: .9rem; font-weight: 600; color: var(--accent); text-decoration: none; }
+        .source-title:hover { text-decoration: underline; }
+        .source-meta  { font-size: .78rem; color: var(--muted); margin-top: 3px; }
+
+        /* ── Trends chart ── */
+        .chart-wrap { position: relative; height: 220px; width: 100%; }
+        .chart-legend { display: flex; gap: 20px; margin-bottom: 14px; }
+        .legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; margin-top: 3px; }
+        .legend-item { display: flex; gap: 7px; align-items: flex-start; font-size: .78rem; color: var(--muted); }
+
+        /* ── Hidden ── */
+        .hidden { display: none !important; }
+
+        /* ── Error banner ── */
+        .error-banner { background: rgba(239,68,68,.1); border: 1px solid rgba(239,68,68,.3);
+                        border-radius: 10px; padding: 14px 18px; color: #f87171; font-size: .9rem; }
+    </style>
+</head>
+<body>
+<div class="page">
+
+    <header>
+        <div class="logo">RETRACE</div>
+        <p class="tagline">Recycled News &amp; Narrative Drift Detector — powered by Google Trends history</p>
+    </header>
+
+    <!-- Input -->
+    <div class="card">
+        <label for="claimInput" style="display:block;font-size:.85rem;font-weight:600;color:var(--muted);margin-bottom:12px;letter-spacing:.5px;text-transform:uppercase;">Paste a claim or headline</label>
+        <div class="input-row">
+            <input type="text" id="claimInput"
+                   placeholder="e.g. Scientists discover microplastics cause cancer"
+                   autocomplete="off">
+            <button id="analyzeBtn">Analyze</button>
+        </div>
+    </div>
+
+    <!-- Progress -->
+    <div class="card hidden" id="statusSection">
+        <p class="section-title">Analysis Progress</p>
+        <div id="statusList"></div>
+    </div>
+
+    <!-- Error -->
+    <div class="error-banner hidden" id="errorBanner"></div>
+
+    <!-- Results -->
+    <div id="resultsSection" class="hidden">
+
+        <!-- Verdict + confidence + spikes -->
+        <div class="card">
+            <div class="verdict-wrap">
+                <div class="verdict-label">Final Verdict</div>
+                <div class="verdict-badge" id="verdictBadge"></div>
+                <div class="confidence-row">
+                    <span class="confidence-label">Confidence</span>
+                    <div class="confidence-track">
+                        <div class="confidence-fill" id="confidenceFill" style="width:0%"></div>
+                    </div>
+                    <span class="confidence-val" id="confidenceVal"></span>
+                </div>
+            </div>
+            <div class="spike-row">
+                <div class="spike-card">
+                    <div class="spike-title">Historical Spike</div>
+                    <div class="spike-bar-track"><div class="spike-bar-fill-h" id="hBar" style="width:0%"></div></div>
+                    <div class="spike-val" id="hVal">—</div>
+                    <div class="spike-sub">Peak interest (past)</div>
+                    <span class="spike-flag" id="hFlag"></span>
+                </div>
+                <div class="spike-card">
+                    <div class="spike-title">Current Spike</div>
+                    <div class="spike-bar-track"><div class="spike-bar-fill-c" id="cBar" style="width:0%"></div></div>
+                    <div class="spike-val" id="cVal">—</div>
+                    <div class="spike-sub">Peak interest (recent)</div>
+                    <span class="spike-flag" id="cFlag"></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Reasons -->
+        <div class="card">
+            <p class="section-title">Why this verdict?</p>
+            <div id="reasonsList"></div>
+        </div>
+
+        <!-- Narrative drift -->
+        <div class="card hidden" id="driftSection">
+            <p class="section-title" style="color:var(--orange)">Narrative Drift Detected</p>
+            <div id="driftList"></div>
+        </div>
+
+        <!-- Academic signal -->
+        <div class="card hidden" id="academicSection">
+            <p class="section-title">Academic / Research Signal</p>
+            <div id="academicCard"></div>
+        </div>
+
+        <!-- Google Trends chart -->
+        <div class="card">
+            <p class="section-title">Google Trends — 5-Year History</p>
+            <div class="chart-legend">
+                <div class="legend-item"><div class="legend-dot" style="background:#6366f1"></div><span>Historical interest</span></div>
+                <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div><span>Current period (last ~4 weeks)</span></div>
+            </div>
+            <div class="chart-wrap"><canvas id="trendsChart"></canvas></div>
+            <p class="hidden" id="trendsEmpty" style="color:var(--muted);font-size:.88rem;margin-top:12px;">
+                Not enough Google Trends data available for this topic.
+            </p>
+        </div>
+
+        <!-- Evidence -->
+        <div class="card">
+            <p class="section-title">Evidence &amp; Sources</p>
+            <div id="evidenceList"></div>
+        </div>
+
+    </div><!-- /results -->
+
+</div><!-- /page -->
+
+<script>
+    let chartInstance = null;
+
+    // ── Status helpers ──────────────────────────────────────────────
+    function addStep(text) {
+        const list = document.getElementById('statusList');
+        const el = document.createElement('div');
+        el.className = 'step';
+        el.innerHTML = `<div class="step-icon spinner"></div><span>${text}</span>`;
+        list.appendChild(el);
+        return el;
+    }
+    function completeStep(el, text) {
+        el.className = 'step done';
+        el.innerHTML = `
+            <svg class="step-icon" viewBox="0 0 20 20" fill="none">
+                <circle cx="10" cy="10" r="9" stroke="#22c55e" stroke-width="1.5"/>
+                <path d="M6 10l3 3 5-5" stroke="#22c55e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <span>${text}</span>`;
+    }
+    function failStep(el, text) {
+        el.className = 'step error';
+        el.innerHTML = `
+            <svg class="step-icon" viewBox="0 0 20 20" fill="none">
+                <circle cx="10" cy="10" r="9" stroke="#ef4444" stroke-width="1.5"/>
+                <path d="M7 7l6 6M13 7l-6 6" stroke="#ef4444" stroke-width="1.8" stroke-linecap="round"/>
+            </svg>
+            <span>${text}</span>`;
+    }
+
+    // ── Analyze button ──────────────────────────────────────────────
+    document.getElementById('analyzeBtn').addEventListener('click', async () => {
+        const claim = document.getElementById('claimInput').value.trim();
+        if (!claim) return;
+
+        // Reset
+        document.getElementById('statusSection').classList.remove('hidden');
+        document.getElementById('resultsSection').classList.add('hidden');
+        document.getElementById('errorBanner').classList.add('hidden');
+        document.getElementById('statusList').innerHTML = '';
+        const btn = document.getElementById('analyzeBtn');
+        btn.disabled = true;
+
+        try {
+            // 1. Create investigation
+            let s = addStep('Initializing investigation…');
+            let res = await fetch('/investigations', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ claim })
+            });
+            if (!res.ok) throw new Error(`Create failed: ${res.status}`);
+            const { id } = await res.json();
+            completeStep(s, `Investigation created (ID: ${id})`);
+
+            // 2. Collect evidence
+            s = addStep('Searching Google News, Google, and Google Scholar…');
+            res = await fetch(`/investigations/${id}/collect`, { method: 'POST' });
+            if (!res.ok) throw new Error(`Collect failed: ${res.status}`);
+            const evidence = await res.json();
+            completeStep(s, `Evidence collected — ${evidence.length} sources found`);
+
+            // 3. Extract events
+            s = addStep('Extracting narrative events from headlines…');
+            await fetch(`/investigations/${id}/extract-events`, { method: 'POST' });
+            completeStep(s, 'Narrative events extracted');
+
+            // 4. Trends
+            s = addStep('Cross-checking Google Trends — 5-year historical interest curve…');
+            res = await fetch(`/investigations/${id}/trends`, { method: 'POST' });
+            if (!res.ok) throw new Error(`Trends failed: ${res.status}`);
+            const trendsInfo = await res.json();
+            completeStep(s, `Trends analyzed (query: "${trendsInfo.query}", ${trendsInfo.timeline_points} data points)`);
+
+            // 5. Verdict
+            s = addStep('Generating final verdict…');
+            res = await fetch(`/investigations/${id}/verdict`);
+            if (!res.ok) throw new Error(`Verdict failed: ${res.status}`);
+            const verdict = await res.json();
+            completeStep(s, 'Analysis complete!');
+
+            renderResults(verdict);
+
+        } catch (err) {
+            const errEl = document.getElementById('errorBanner');
+            errEl.textContent = `Error: ${err.message}`;
+            errEl.classList.remove('hidden');
+        } finally {
+            btn.disabled = false;
+        }
+    });
+
+    // ── Render ──────────────────────────────────────────────────────
+    function verdictClass(v) {
+        if (v === 'RECYCLED')   return 'badge-RECYCLED';
+        if (v === 'BREAKING')   return 'badge-BREAKING';
+        if (v === 'DEVELOPING') return 'badge-DEVELOPING';
+        if (v === 'CONTESTED')  return 'badge-CONTESTED';
+        if (v.startsWith('OLD')) return 'badge-OLD';
+        return 'badge-NEEDS';
+    }
+
+    function renderResults(data) {
+        document.getElementById('resultsSection').classList.remove('hidden');
+
+        // — Verdict badge —
+        const badge = document.getElementById('verdictBadge');
+        badge.textContent = data.verdict;
+        badge.className = `verdict-badge ${verdictClass(data.verdict)}`;
+
+        // — Confidence —
+        const pct = Math.round((data.confidence || 0) * 100);
+        document.getElementById('confidenceFill').style.width = `${pct}%`;
+        document.getElementById('confidenceVal').textContent = `${pct}%`;
+
+        // — Spike meters —
+        const hMax = data.historical_max ?? 0;
+        const cMax = data.current_max    ?? 0;
+        document.getElementById('hBar').style.width = `${hMax}%`;
+        document.getElementById('cBar').style.width = `${cMax}%`;
+        document.getElementById('hVal').textContent = hMax;
+        document.getElementById('cVal').textContent = cMax;
+        document.getElementById('hFlag').textContent = data.historical_spike ? 'SPIKED' : 'no spike';
+        document.getElementById('hFlag').className = `spike-flag ${data.historical_spike ? 'flag-yes' : 'flag-no'}`;
+        document.getElementById('cFlag').textContent = data.current_spike ? 'SPIKED' : 'no spike';
+        document.getElementById('cFlag').className = `spike-flag ${data.current_spike ? 'flag-yes' : 'flag-no'}`;
+
+        // — Reasons —
+        const reasonsList = document.getElementById('reasonsList');
+        reasonsList.innerHTML = '';
+        (data.reasons || []).forEach(r => {
+            const el = document.createElement('div');
+            el.className = 'reason-item';
+            el.innerHTML = `<div class="reason-dot"></div><span>${r}</span>`;
+            reasonsList.appendChild(el);
+        });
+
+        // — Narrative drift —
+        const driftSection = document.getElementById('driftSection');
+        const driftList = document.getElementById('driftList');
+        driftList.innerHTML = '';
+        if (data.narrative_changes && data.narrative_changes.length > 0) {
+            driftSection.classList.remove('hidden');
+            data.narrative_changes.forEach(c => {
+                const el = document.createElement('div');
+                el.className = 'drift-item';
+                el.innerHTML = `<div class="drift-dot"></div><span>${c}</span>`;
+                driftList.appendChild(el);
+            });
+        } else {
+            driftSection.classList.add('hidden');
+        }
+
+        // — Academic signal —
+        const acSection = document.getElementById('academicSection');
+        const acCard    = document.getElementById('academicCard');
+        const ac = data.academic_signal;
+        if (ac && ac.has_academic) {
+            acSection.classList.remove('hidden');
+            const isOutdated = ac.outdated;
+            acCard.innerHTML = `
+                <div class="academic-card ${isOutdated ? 'outdated' : 'fresh'}">
+                    <span class="academic-tag ${isOutdated ? 'tag-outdated' : 'tag-fresh'}">
+                        ${isOutdated ? '⚠ Potentially Outdated Research' : '✓ Recent Research Found'}
+                    </span>
+                    <p style="color:var(--text);line-height:1.6;">
+                        ${isOutdated
+                            ? `Most recent academic paper found: <strong>${ac.most_recent_year}</strong>. This claim may cite research that is more than 5 years old.`
+                            : `Academic literature as recent as <strong>${ac.most_recent_year}</strong> covers this topic.`}
+                    </p>
+                </div>`;
+        } else {
+            acSection.classList.add('hidden');
+        }
+
+        // — Trends chart —
+        if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
+        const canvas = document.getElementById('trendsChart');
+        const emptyMsg = document.getElementById('trendsEmpty');
+        const timeline = data.trends_timeline || [];
+
+        if (!timeline.length) {
+            canvas.classList.add('hidden');
+            emptyMsg.classList.remove('hidden');
+        } else {
+            canvas.classList.remove('hidden');
+            emptyMsg.classList.add('hidden');
+
+            const labels = timeline.map(t => t.date || '');
+            const values = timeline.map(t => {
+                if (t.values && t.values.length) {
+                    return parseInt(t.values[0].extracted_value) || parseInt(t.values[0].value) || 0;
+                }
+                return parseInt(t.value) || 0;
+            });
+
+            const cutoff = Math.max(0, values.length - 4);
+            const pointColors = values.map((_, i) =>
+                i >= cutoff ? '#ef4444' : 'rgba(99,102,241,.7)'
+            );
+            const pointRadii = values.map((_, i) => i >= cutoff ? 5 : 3);
+
+            chartInstance = new Chart(canvas.getContext('2d'), {
+                type: 'line',
+                data: {
+                    labels,
+                    datasets: [{
+                        label: 'Search Interest',
+                        data: values,
+                        borderColor: 'rgba(99,102,241,.6)',
+                        backgroundColor: 'rgba(99,102,241,.07)',
+                        borderWidth: 2,
+                        pointBackgroundColor: pointColors,
+                        pointRadius: pointRadii,
+                        fill: true,
+                        tension: 0.35
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: { mode: 'index', intersect: false }
+                    },
+                    scales: {
+                        x: { ticks: { color: '#475569', maxTicksLimit: 12, font: { size: 10 } }, grid: { color: '#1f2d44' } },
+                        y: { beginAtZero: true, max: 100, ticks: { color: '#475569', font: { size: 10 } }, grid: { color: '#1f2d44' } }
+                    }
+                }
+            });
+        }
+
+        // — Evidence —
+        const evidenceList = document.getElementById('evidenceList');
+        evidenceList.innerHTML = '';
+        if (data.evidence && data.evidence.length) {
+            data.evidence.forEach(e => {
+                const date = e.published_at
+                    ? new Date(e.published_at).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
+                    : null;
+                const meta = [e.publisher, date].filter(Boolean).join(' · ');
+                const el = document.createElement('div');
+                el.className = 'source-item';
+                el.innerHTML = `
+                    <a class="source-title" href="${e.url || '#'}" target="_blank" rel="noopener">${e.title || 'Untitled Source'}</a>
+                    ${meta ? `<div class="source-meta">${meta}</div>` : ''}`;
+                evidenceList.appendChild(el);
+            });
+        } else {
+            evidenceList.innerHTML = '<p style="color:var(--muted);font-size:.88rem;">No external evidence could be gathered.</p>';
+        }
+
+        document.getElementById('resultsSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+</script>
+</body>
+</html>

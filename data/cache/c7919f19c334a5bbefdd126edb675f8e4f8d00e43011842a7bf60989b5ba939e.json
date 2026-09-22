@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab229b67a3b05ed58a214b0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MtoYuLa4ePeL2_YK_5F5Q2kdUQLt23qCVHPc_cTnzvo/6ab229b67a3b05ed58a214b0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/MtoYuLa4ePeL2_YK_5F5Q2kdUQLt23qCVHPc_cTnzvo/6ab229b67a3b05ed58a214b0.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/MtoYuLa4ePeL2_YK_5F5Q2kdUQLt23qCVHPc_cTnzvo/6ab229b67a3b05ed58a214b0.json_with_pixel_position",
+    "created_at": "2026-09-22 07:09:42 UTC",
+    "processed_at": "2026-09-22 07:09:42 UTC",
+    "google_url": "https://www.google.com/search?q=%22WHO+bans+microplastics+in+drinking+water%22&oq=%22WHO+bans+microplastics+in+drinking+water%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/MtoYuLa4ePeL2_YK_5F5Q2kdUQLt23qCVHPc_cTnzvo/6ab229b67a3b05ed58a214b0.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"WHO bans microplastics in drinking water\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"WHO bans microplastics in drinking water\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "YFAJeXiczVbbcqpIFP2A-Y7Di4mAYiKpok51txzFS7S9xrxQ3GxREKVRYt7mT-Zhvmq-Zhq8GznJOQ9T01VAX1bvS--9evPn3567mP_zx1_TKFrSJ56P4zhPgoB4Tt4KfN6g24XFTwKPhtb0Ow3WoeW4tmJNw8B3uO1GKXIWVQTOcZVo62-NTcNBURPMO1pnafSMAsZcKkLRTYM6M6bhbUZ5nWev-bdihQ3yNO8s8tVhqdyCJUmYlfMFQZTzbd7wGQD8d21MkjcGc6Blg7QE8ZVGCFABqJ8mEEo_6hkkGRAmEiWTKOnf1qnuLOqinYGgU-m8VywAKkdT2pl2oHNzUbzXHKf6YKLxJ87ekJa-f-xHajYQZHpDLkSA1tlSpjx0BWSmY4A6UiLssOlqMz6p15LFfSZZBJRrAaxAMMi2nG1oaKA0B1j9LNhYHUrooKo5rrIZ3iYscQXeDNlH5F1raqWdkCb5jPqyEFQljEukVS937Xlj_HL_vN5WjeaU0Mo25i2T4bzAsB1bn-rC93QsFsSSIBcfy3cpkSx6ZBI9Z1I_rglT-BwFCOebeSgeaISOcUaX9qtsjG6lAER7KPqw1EKn00bgKJk0LlC7CLPUJeBVBZfxCeT0mCE8TNQoALF6BjmZlEx-pNG1aQmNdiElaXefZufGa6B35uhZYCs3MvWD10zvnjy48gF4KQCC-hycHL66wwiAEGkY7k5oJaU2SQCeEOkdg_GVIcn9wC4K7XDaR2zaWid_2Eoj5UUFIcjkBssEVt97nGxwj1Jh9-o6g7c5yMIDmugTwmc1-JUbEx_4cpX-57RRH-H9yG02Vo78Op6Utl5VDWeaXl7qBrlNk8A3f6HiWP8rIh3qkZfOZxMJf4lIhKjZ9WjXPdWjhEiIEJJBJLWXUY_iA-RUj669Rr0zIn1Sj36VSOpPiXQg6U0i_bhFJDWLSId6dEGk3kU9uibSvh4difQ79Qj-Zj1KeeXsPpfFaT0jmUVKBUFXHjZeDDysm6N7awXfquvGAJY72udFauJHT75he3e6az_BQj3a2nc6mwieHJtbKd8KhVGtnTONBc35rhUGS8-gkWvRnLvI2SH7JXUXJBcbkRMyKOd7YaAIRklqr1_kzaseld3gvjMRitN-tArw-3SwfDBWo7XQ9N7dgrQ2h8Oas-jeOw_ubDuzwUPVe7OhVF9BuipMB9Bt6BZ4cOfPozqY-Pao35JjOZ71l4UeWYsIuaa_0Re2WWYn2Z6MlxJpuaWaS_11v2c0tO6itmrZk3eaGkaVYW0i--0V7D0OOOYjdRSR80NLYckhEfCMwYgAC6AxwCw0GAXsidnzwKIFOWoZukM3ivMoi5JYKFqToimaTpnzSbRdKpLE0UWoiP8CgxBKKg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YFAJeXiczVbbcqpIFP2A-Y7Di4mAYiKpok51txzFS7S9xrxQ3GxREKVRYt7mT-Zhvmq-Zhq8GznJOQ9T01VAX1bvS--9evPn3567mP_zx1_TKFrSJ56P4zhPgoB4Tt4KfN6g24XFTwKPhtb0Ow3WoeW4tmJNw8B3uO1GKXIWVQTOcZVo62-NTcNBURPMO1pnafSMAsZcKkLRTYM6M6bhbUZ5nWev-bdihQ3yNO8s8tVhqdyCJUmYlfMFQZTzbd7wGQD8d21MkjcGc6Blg7QE8ZVGCFABqJ8mEEo_6hkkGRAmEiWTKOnf1qnuLOqinYGgU-m8VywAKkdT2pl2oHNzUbzXHKf6YKLxJ87ekJa-f-xHajYQZHpDLkSA1tlSpjx0BWSmY4A6UiLssOlqMz6p15LFfSZZBJRrAaxAMMi2nG1oaKA0B1j9LNhYHUrooKo5rrIZ3iYscQXeDNlH5F1raqWdkCb5jPqyEFQljEukVS937Xlj_HL_vN5WjeaU0Mo25i2T4bzAsB1bn-rC93QsFsSSIBcfy3cpkSx6ZBI9Z1I_rglT-BwFCOebeSgeaISOcUaX9qtsjG6lAER7KPqw1EKn00bgKJk0LlC7CLPUJeBVBZfxCeT0mCE8TNQoALF6BjmZlEx-pNG1aQmNdiElaXefZufGa6B35uhZYCs3MvWD10zvnjy48gF4KQCC-hycHL66wwiAEGkY7k5oJaU2SQCeEOkdg_GVIcn9wC4K7XDaR2zaWid_2Eoj5UUFIcjkBssEVt97nGxwj1Jh9-o6g7c5yMIDmugTwmc1-JUbEx_4cpX-57RRH-H9yG02Vo78Op6Utl5VDWeaXl7qBrlNk8A3f6HiWP8rIh3qkZfOZxMJf4lIhKjZ9WjXPdWjhEiIEJJBJLWXUY_iA-RUj669Rr0zIn1Sj36VSOpPiXQg6U0i_bhFJDWLSId6dEGk3kU9uibSvh4difQ79Qj-Zj1KeeXsPpfFaT0jmUVKBUFXHjZeDDysm6N7awXfquvGAJY72udFauJHT75he3e6az_BQj3a2nc6mwieHJtbKd8KhVGtnTONBc35rhUGS8-gkWvRnLvI2SH7JXUXJBcbkRMyKOd7YaAIRklqr1_kzaseld3gvjMRitN-tArw-3SwfDBWo7XQ9N7dgrQ2h8Oas-jeOw_ubDuzwUPVe7OhVF9BuipMB9Bt6BZ4cOfPozqY-Pao35JjOZ71l4UeWYsIuaa_0Re2WWYn2Z6MlxJpuaWaS_11v2c0tO6itmrZk3eaGkaVYW0i--0V7D0OOOYjdRSR80NLYckhEfCMwYgAC6AxwCw0GAXsidnzwKIFOWoZukM3ivMoi5JYKFqToimaTpnzSbRdKpLE0UWoiP8CgxBKKg"
+  }
+}

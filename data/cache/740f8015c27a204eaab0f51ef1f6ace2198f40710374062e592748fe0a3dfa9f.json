@@ -1,0 +1,178 @@
+{
+  "search_metadata": {
+    "id": "6ab15941fbbeb5e9a20250aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qGQiXu5Bm2aokXGh6lqKDH9SQZtHJkrEo1q0pdJNVgE/6ab15941fbbeb5e9a20250aa.json",
+    "markdown_endpoint": "https://serpapi.com/searches/qGQiXu5Bm2aokXGh6lqKDH9SQZtHJkrEo1q0pdJNVgE/6ab15941fbbeb5e9a20250aa.md",
+    "created_at": "2026-09-21 16:20:17 UTC",
+    "processed_at": "2026-09-21 16:20:17 UTC",
+    "google_news_url": "https://news.google.com/search?q=What+actually+happened+in+the+IIT+Bombay+professor+Suryanarayana+Doolla+case%3F+Did+the+professor+threaten+the+student+after+he+was+caught+using+ChatGPT+in+an+exam%2C+or+is+that+claim+different+from+IIT+Bombay%E2%80%99s+official+account%3F",
+    "raw_html_file": "https://serpapi.com/searches/qGQiXu5Bm2aokXGh6lqKDH9SQZtHJkrEo1q0pdJNVgE/6ab15941fbbeb5e9a20250aa.html",
+    "total_time_taken": 2.69
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "What actually happened in the IIT Bombay professor Suryanarayana Doolla case? Did the professor threaten the student after he was caught using ChatGPT in an exam, or is that claim different from IIT Bombay’s official account?"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "IIT-Bombay denies suspension threat to student, casteism charge",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yogita Rao",
+          "Nitasha Natu"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-denies-suspension-threat-to-student-casteism-charge/articleshow/134362871.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134366076,width-1280,height-720,imgsize-117758,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1lRFZaVlV0NFQyWkdSREpWVFJDZkF4ampCU2dLTWdZTnBJYUh1UVE",
+      "date": "09/20/2026, 02:38 AM, +0000 UTC",
+      "iso_date": "2026-09-20T02:38:00Z"
+    },
+    {
+      "position": 2,
+      "title": "How IIT-Bombay student’s suicide has snowballed into caste row, leading to professor’s suspension",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/iit-bombay-student-suicide-sahil-wakode-professor-doolla-suspension-casteism-allegations-14047297.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/09/IIT1-2026-09-98e048d03fbfb4757bb804dbd5b90796.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdZekJVYTJ0d1dIVnRVek5pVFJDZkF4ampCU2dLTWdZQjRJZ0pTZ00",
+      "date": "09/21/2026, 09:35 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:35:16Z"
+    },
+    {
+      "position": 3,
+      "title": "Cheating to caste: Timeline of IIT Bombay Sahil Wakode suicide",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.opindia.com/2026/09/how-an-examination-cheating-case-led-to-caste-discrimination-allegations-against-an-iit-bombay-professor-read-the-detailed-timeline-of-the-sahil-wakode-suicide-case/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/Sahil-Wakode-1-696x398.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVjVVUzYUc1Q2MyWm1kRFZ6VFJDT0F4aTRCU2dLTWdreFVvU09UV005NndF",
+      "date": "09/21/2026, 12:28 PM, +0000 UTC",
+      "iso_date": "2026-09-21T12:28:50Z"
+    },
+    {
+      "position": 4,
+      "title": "IIT Bombay Student Sahil Wakode Dies By Suicide Hours After Being Accused Of Cheating In Exam, Students Raise 18 Demands",
+      "source": {
+        "name": "brut.media",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.brut.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.brut.media/in/articles/india/society/iit-bombay-student-sahil-wakode-dies-by-suicide-hours-after-being-accused-of-cheating-in-exam-students-raise-18-demands",
+      "date": "09/21/2026, 08:03 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:03:07Z"
+    },
+    {
+      "position": 5,
+      "title": "IIT Bombay student suicide: Why students and faculty are divided over Professor Suryanarayan Doolla",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Raajnandini mukherjee"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/india/iit-bombay-student-suicide-why-students-and-faculty-are-divided-over-professor-suryanarayan-doolla-14034287.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260921054352_IIT-Bombay-2.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNjbnBUYTAxUFJUSkxWRTlFVFJERUFSamVBaWdLTWdZRldwVGtxZ2M",
+      "date": "09/21/2026, 05:08 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:08:38Z"
+    },
+    {
+      "position": 6,
+      "title": "‘Torture, caste discrimination’: IIT-Bombay student’s father seeks justice, action against accused",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/torture-caste-discrimination-iit-bombay-students-father-seeks-justice-action-against-accused/articleshow/134363988.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134366052,width-1280,height-720,imgsize-138474,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVlamhvTjBkM1ptdGxUa05NVFJDZkF4ampCU2dLTWdZQkVKWk5tUWs",
+      "date": "09/20/2026, 06:27 AM, +0000 UTC",
+      "iso_date": "2026-09-20T06:27:00Z"
+    },
+    {
+      "position": 7,
+      "title": "IIT Bombay professor booked under SC/ST Act after student caught using ChatGPT in exam",
+      "source": {
+        "name": "newsdrum.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newsdrum.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shailesh Khanduri"
+        ]
+      },
+      "link": "https://www.newsdrum.in/national/iit-bombay-professor-booked-under-scst-act-after-student-caught-using-chatgpt-in-exam-12555897",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/newsdrum-in/media/media_files/2026/09/20/sahil-ravindra-wakode-and-director-kedare-2026-09-20-21-04-33.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFTRXhGUVdVd2NVSkdNbFZDVFJDZkF4ampCU2dLTWdrRlVZakRyaWM5ekFF",
+      "date": "09/20/2026, 03:34 PM, +0000 UTC",
+      "iso_date": "2026-09-20T15:34:59Z"
+    },
+    {
+      "position": 8,
+      "title": "IIT-Bombay Student's Death: Family Seeks Justice, Alleges Torture, Caste Discrimination",
+      "source": {
+        "name": "Dynamite News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dynamitenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dynamitenews.com/national/iit-bombay-students-death-family-seeks-justice-alleges-torture-caste-discrimination",
+      "thumbnail": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/09/IITbombay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVNMVJmUVcxRE1ITnFkbTR0VFJDZkF4ampCU2dLTWdhUm80akp2UVU",
+      "date": "09/20/2026, 02:08 PM, +0000 UTC",
+      "iso_date": "2026-09-20T14:08:40Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

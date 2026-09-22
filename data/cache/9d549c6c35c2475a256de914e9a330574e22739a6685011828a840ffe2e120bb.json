@@ -1,0 +1,1088 @@
+{
+  "search_metadata": {
+    "id": "6ab2295bbc3f0ba91b15c745",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GEGcVO0ciB1loaax6wYo0PeAghC8F5kRwR60egRA-Sk/6ab2295bbc3f0ba91b15c745.json",
+    "markdown_endpoint": "https://serpapi.com/searches/GEGcVO0ciB1loaax6wYo0PeAghC8F5kRwR60egRA-Sk/6ab2295bbc3f0ba91b15c745.md",
+    "created_at": "2026-09-22 07:08:11 UTC",
+    "processed_at": "2026-09-22 07:08:11 UTC",
+    "google_news_url": "https://news.google.com/search?q=nasa+discovers+massive+planet+killer+asteroid+new+update",
+    "raw_html_file": "https://serpapi.com/searches/GEGcVO0ciB1loaax6wYo0PeAghC8F5kRwR60egRA-Sk/6ab2295bbc3f0ba91b15c745.html",
+    "total_time_taken": 3.09
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "nasa discovers massive planet killer asteroid new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Opinion | These ‘city killers’ threaten civilization. Hunt them down.",
+      "source": {
+        "name": "washingtonpost.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.washingtonpost.com/opinions/interactive/2026/06/22/city-killer-asteroids-threaten-earth-it-needs-defense-plan/",
+      "thumbnail": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/C5JSSJI2EJHNDCWS2SE3Q7AJNQ.gif&high_res=true&w=800&h=600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVhRkpaWlhndE16aHpiRU5GVFJEZ0F4aUFCU2dLTWdiQmdwUVRMUWM",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Astronomers catch rare glimpse of interstellar comet 3I/ATLAS as it flies by Mars",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julia Jacobo"
+        ]
+      },
+      "link": "https://abcnews.com/US/astronomers-catch-rare-glimpse-interstellar-comet-3iatlas-flies/story?id=126327154",
+      "thumbnail": "https://s.abcnews.com/images/Technology/comet-3Iatlas-ht-jef-251008_1759938266482_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlWVko0V1U1dGNGOUdielF4VFJDZkF4ampCU2dLTWdQSmdodw",
+      "date": "02/11/2026, 06:57 PM, +0000 UTC",
+      "iso_date": "2026-02-11T18:57:42Z"
+    },
+    {
+      "position": 3,
+      "title": "Near-Earth Asteroids as of December 2025",
+      "source": {
+        "name": "NASA Science (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://science.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-defense/2025/English_PDCO_Thumbnail_12.4.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxiSHBEWm1remNFcHFZWGxmVFJDZkF4ampCU2dLTWdhQmxJakROUVE",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-03T08:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Massive Asteroid Headed Toward Earth Discovered Just Days Ago: What We Know",
+      "source": {
+        "name": "Men's Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mensjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brian Particelli"
+        ]
+      },
+      "link": "https://www.mensjournal.com/news/massive-asteroid-flying-past-earth",
+      "thumbnail": "https://www.mensjournal.com/.image/NDI6MDAwMDAwMDAxMTg5ODQx/asteroid-and-planet-earth.jpg?profile=w2560&ar=16-9",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFaelZ0VGsxQ2VWbDJVa3gyVFJDZkF4ampCU2dLTWdhUlY1Sm9xZ2M",
+      "date": "05/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-18T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Planet nine mystery deepens as new discovery challenges hidden planet theory",
+      "source": {
+        "name": "ScienceDaily",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sciencedaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sciencedaily.com/releases/2026/06/260608040009.htm",
+      "thumbnail": "https://www.sciencedaily.com/images/1920/sun-solar-eclipse.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJaMWRpZDFwRE1YcDJjVWRwVFJDZkF4ampCU2dLTWdhbFZJeXVzUVk",
+      "date": "06/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-08T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "NASA warns that over 15,000 ‘city-killing’ asteroids are orbiting Earth undetected",
+      "source": {
+        "name": "Earth.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.earth.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jordan Joseph"
+        ]
+      },
+      "link": "https://www.earth.com/space/nasa-warns-that-over-15000-city-killing-asteroids-orbit-earth-undetected/",
+      "thumbnail": "https://www.earth.com/assets/_next/image/?url=%2Fimg%2F16x9%2F1920%2Fuploads%2F2026%2F03%2F04140254%2Fnasa-undetected-city-killer-asteroids-earth-no-defense.jpg&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9kWHBJTnpGMk0zcHBVRll4VFJDZkF4ampCU2dLTWdhQlFvWlNuUWc",
+      "date": "03/07/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-07T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "17,000-Pound Meteor That Rattled Ohio on Saint Patrick’s Day Prompts Update from NASA Officials",
+      "source": {
+        "name": "The Debrief",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thedebrief.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Micah A. Hanks"
+        ]
+      },
+      "link": "https://thedebrief.org/17000-pound-meteor-that-rattled-ohio-on-saint-patricks-day-prompts-update-from-nasa-officials/",
+      "thumbnail": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/03/Jared-Rackley-NWS-Pittsburg.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUJZbEpzY1U5UE9UUlpkRzVMVFJDcUF4alFCU2dLTWdB",
+      "date": "03/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-19T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "NASA Scientists Consider Blowing Up \"City-Killer\" Asteroid Headed for the Moon",
+      "source": {
+        "name": "ZME Science",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zmescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andrei Mihai"
+        ]
+      },
+      "link": "https://www.zmescience.com/science/news-science/nasa-scientists-consider-blowing-up-city-killer-asteroid-headed-for-the-moon/",
+      "thumbnail": "https://cdn.zmescience.com/wp-content/uploads/2025/09/andandand0017_exploding_an_asteroid_headed_for_the_moon_-ar__20cc7614-be47-4561-a998-7f40c5fff64e_0.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVRV3cwYkdkM2VtTnRjRXg0VFJEaEF4ai1CQ2dLTWdZQlZKQ05zUWM",
+      "date": "09/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-30T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "The City-Killer Asteroid May Hit the Moon in 2032 — What Would Happen If We Blasted It With Nukes First?",
+      "source": {
+        "name": "discovermagazine.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.discovermagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sam Walters"
+        ]
+      },
+      "link": "https://www.discovermagazine.com/the-city-killer-asteroid-may-hit-the-moon-in-2032-what-would-happen-if-we-blasted-it-with-nukes-first-48095",
+      "thumbnail": "https://cdn.discovermagazine.com/assets/image/57436/asteroid-and-earth-xs.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRVSFpMUkhsUlRtcGlRMkZUVFJEVkFSakFBaWdLTWdZUmdvb29RZ1E",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-01T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Comet 3I/ATLAS now visible from Earth with a small telescope — here’s how to see it",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Cost"
+        ]
+      },
+      "link": "https://nypost.com/2025/11/03/science/comet-3i-atlas-now-visible-from-earth-with-a-small-telescope/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2025/11/114719935.jpg?quality=80&strip=all&w=306&h=204&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtTSEJNUlhSRmJsTkZSMjVFVFJETUFSaXlBaWdLTWdiSlVJcTJMQVk",
+      "date": "11/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-03T08:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Chance of asteroid striking Earth in the next decade rises to 3.1%, NASA says",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julia Jacobo"
+        ]
+      },
+      "link": "https://abcnews.com/US/chances-asteroid-striking-earth-decade-doubled-nasa/story?id=118653026",
+      "thumbnail": "https://s.abcnews.com/images/Technology/asteroid-2-ht-er-250131_1738342658992_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxYMmw2V21sbE1rSmZVelV6VFJDZkF4amlCU2dLTWdZaEZJeU5HUVk",
+      "date": "02/11/2026, 04:48 PM, +0000 UTC",
+      "iso_date": "2026-02-11T16:48:44Z"
+    },
+    {
+      "position": 12,
+      "title": "NASA telescope will hunt down ‘city killer’ asteroids",
+      "source": {
+        "name": "Science | AAAS",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.science.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Robin George Andrews"
+        ]
+      },
+      "link": "https://www.science.org/content/article/nasa-telescope-will-hunt-down-city-killer-asteroids",
+      "thumbnail": "https://www.science.org/do/10.1126/science.zolm8st/full/_20251211_nf_asteroid_hunter_craft.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVViRkpTU0hBNFQzSnNhM1pJVFJEbUFoalpCaWdLTWdrZFFZQ05vU05GbHdB",
+      "date": "12/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-11T08:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Asteroid 2024 YR4 could hit Earth in 7 years. Here's what could happen - and what's being done about it",
+      "source": {
+        "name": "ABC7 Los Angeles",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://abc7.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Strickland"
+        ]
+      },
+      "link": "https://abc7.com/post/asteroid-2024-yr4-could-hit-earth-7-years-heres-what-happen-whats-being-done/15918235/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/15848813_013025-wpvi-n1-astroid-discovery-pkg-video-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZUM014U3psbmNYQllUMFp0VFJDZkF4ampCU2dLTWdZaE5JcXVLUWM",
+      "date": "02/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-16T08:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "How NASA found a ‘city killer’ asteroid’s new potential target: the moon",
+      "source": {
+        "name": "KTLA",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ktla.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lily Dallow"
+        ]
+      },
+      "link": "https://ktla.com/news/local-news/how-nasa-found-a-city-killer-asteroids-new-potential-target-the-moon/",
+      "thumbnail": "https://ktla.com/wp-content/uploads/sites/4/2025/07/2024-YR4-city-killer.png?w=1280",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFaRVpTVVdNdGNEQlhSbnBYVFJDZkF4ampCU2dLTWdZbElvSlBJUVk",
+      "date": "07/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-31T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "NASA discovers secret moon orbiting nearby 'planet killer' asteroid after recent close approach to Earth",
+      "source": {
+        "name": "Live Science",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livescience.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harry Baker"
+        ]
+      },
+      "link": "https://www.livescience.com/space/asteroids/nasa-discovers-secret-moon-orbiting-nearby-planet-killer-asteroid-after-recent-close-approach-to-earth",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/qyDeUcJjSX3DMrkqML5xMS-1600-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBXV3hCZVVGYVNXRkZUMkZUVFJDZkF4ampCU2dLTWdhUm9aS0h0Z1k",
+      "date": "07/09/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-09T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Scientists discover massive 'planet killer' asteroid hiding right next to Earth",
+      "source": {
+        "name": "TweakTown",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tweaktown.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jak Connor"
+        ]
+      },
+      "link": "https://www.tweaktown.com/news/89259/scientists-discover-massive-planet-killer-asteroid-hiding-right-next-to-earth/index.html",
+      "thumbnail": "https://static.tweaktown.com/news/8/9/89259_02_scientists-discover-massive-planet-killer-asteroid-hiding-right-next-to-earth.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpSVk5rTVhsMU1uSmxjRFo2VFJEMEFoanNCQ2dLTWdhVlk0S3NKUWM",
+      "date": "11/01/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-01T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "'City killer' asteroids could shock scientists, but NASA has a plan",
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "N'dea Yancey-Bragg"
+        ]
+      },
+      "link": "https://www.usatoday.com/story/news/nation/2026/04/04/city-killer-asteroids-nasa-telescope/89408184007/",
+      "thumbnail": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/04/USAT/89466333007-usatsi-27677290.jpg?crop=1667,937,x72,y0&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRZV0ZwVVZwYU5HbERWalIxVFJDb0FSaXNBaWdCTWdhTklaSXBIUWM",
+      "date": "04/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-04T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Vera Rubin Observatory spots the fastest-spinning large asteroid ever found",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mike Wall"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/asteroids/vera-rubin-observatory-discovers-the-fastest-spinning-asteroid-ever-and-its-huge",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/xSmD5XiUraE73SjMWkSjF4-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNhbmQzVGpNeVVVMTBhbTlSVFJDb0FSaXNBaWdCTWdZQmdJcXN1UVU",
+      "date": "01/08/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-08T08:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Hypothetical Planet X",
+      "source": {
+        "name": "NASA Science (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://science.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://science.nasa.gov/solar-system/planet-x/",
+      "thumbnail": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/planet_9_art_1_1400.jpg?w=1400&h=834&fit=clip&crop=faces%2Cfocalpoint",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJPSFZwVjJWemVsRTBNVWxNVFJDckF4ak9CU2dLTWdhZFk1QUxLZ2M",
+      "date": "03/12/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-12T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "‘Massive’ comet hurtling toward us is larger than previously thought, could be alien tech, scientist says: ‘It could change everything for us’",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Cost"
+        ]
+      },
+      "link": "https://nypost.com/2025/09/29/science/comet-and-potential-alien-probe-3i-atlas-larger-than-predicted/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2025/09/newspress-collage-d0imcbk1r-1759156726053.jpg?quality=80&strip=all&1759142379&w=306&h=204&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdXbkl0ZFhFdFVYRmpjR05sVFJETUFSaXlBaWdLTWdZdGc0d3hNUWM",
+      "date": "09/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-29T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Huge ‘planet killer’ asteroid discovered – and it’s heading our way",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nicola Davis"
+        ]
+      },
+      "link": "https://www.theguardian.com/science/2022/nov/01/huge-planet-killer-asteroid-discovered-and-its-heading-our-way",
+      "thumbnail": "https://i.guim.co.uk/img/media/a47e8d87d239c38ea874bc63d1d39a6309638d7b/0_102_3358_2014/master/3358.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZaVXRwTjFkaFgyeDNSMlp6VFJDWEFoalJBeWdLTWdZVjhvWm96Z00",
+      "date": "11/01/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-01T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Asteroid discovered only 2 days ago just flew by Earth closer than the moon",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Elizabeth Howell"
+        ]
+      },
+      "link": "https://www.space.com/astronomy/asteroids/asteroid-discovered-only-2-days-ago-will-fly-by-earth-closer-than-the-moon-today",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/66A4Y8NRatycrCYDUB7LVi-320-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBMVFZ3VFVKYVpVdFZOMmQ2VFJDb0FSaXNBaWdCTWdhaFZwSUxwZ2c",
+      "date": "10/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-15T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Large asteroid safely passed Earth on June 27",
+      "source": {
+        "name": "EarthSky",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://earthsky.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://earthsky.org/space/large-asteroid-visible-telescopes-pass-earth-june-27-2026/",
+      "thumbnail": "https://earthsky.org/upl/2026/06/Asteroid-1997NC1-on-June-27-at-10-pm-CT-closer-view-Stellarium-Eddie-Irizarry-e1782219088308.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxSMFpPTkdwZlRrZzFjRVV4VFJEYkF4aUZCU2dLTWdtUllaSm9KbWs5S3dJ",
+      "date": "06/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-28T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "NASA discovers asteroid that has slight chance of hitting Earth on Valentine's Day 2046",
+      "source": {
+        "name": "FOX Weather",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxweather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emilee Speck",
+          "Chris Oberholtz"
+        ]
+      },
+      "link": "https://www.foxweather.com/earth-space/nasa-discovers-asteroid-earth-strike-february-14-2046",
+      "thumbnail": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/03/1024/512/Screen-Shot-2023-03-08-at-10.10.48-AM.png?ve=1&tl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFjRWRpTnkxMWMyc3hWMFZvVFJDSEF4aVBCaWdLTWdZZFZZck9yUWM",
+      "date": "03/08/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-03-08T08:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "\"Planet killer\" asteroid with the potential to collide with Earth found hiding in the glare of the sun",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Li Cohen"
+        ]
+      },
+      "link": "https://www.cbsnews.com/news/planet-killer-asteroid-potential-collide-earth/",
+      "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/01/6b964e5d-0fbd-47e3-a40c-9e5159da0405/thumbnail/1200x630/959c44d346280e7178019bac52006192/noirlab2226a.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBhamQwWTJ4Q2VFdFNhRE5LVFJDUkF4ajhCU2dLTWdZWk1ZYnpIQWc",
+      "date": "11/01/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-01T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "'Planet killer' asteroid found hiding in sun's glare may one day hit Earth",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tereza Pultarova"
+        ]
+      },
+      "link": "https://www.space.com/dangerous-asteroid-discovered-in-sun-glare",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/HhxfkbEhd3vizzMnVrSBw4-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRZVlp0UVhscVNtTmxWRkJwVFJDZkF4ampCU2dLTWdZVlFZanpJQWc",
+      "date": "10/31/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-10-31T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Astronomers spot 'interstellar object' speeding through solar system",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julia Jacobo"
+        ]
+      },
+      "link": "https://abcnews.com/Technology/astronomers-spot-interstellar-object-speeding-solar-system/story?id=123448499",
+      "thumbnail": "https://s.abcnews.com/images/Technology/A11pl3Z-gty-er-250703_1751559427007_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHdUbWc0VkZkcmFtaFVkRUpxVFJDZkF4ampCU2dLTWdNVnhRQQ",
+      "date": "07/03/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-03T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "If asteroid YR4 hits our Moon, it'll cause a bright flash and meteors as debris hits Earth, say scientists",
+      "source": {
+        "name": "BBC Sky at Night Magazine",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.skyatnightmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Iain Todd"
+        ]
+      },
+      "link": "https://www.skyatnightmagazine.com/news/effects-asteroid-2024-yr4-hitting-moon",
+      "thumbnail": "https://c02.purpledshub.com/uploads/sites/48/2026/01/asteroid-hitting-moon.jpg?w=1200&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZUV2hmWm1NelVscEhkMkpEVFJETUF4aWJCU2dLTWdZUmhZUXBNZ1E",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Killer space rocks",
+      "source": {
+        "name": "The Week",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://theweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://theweek.com/science/killer-space-rocks",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/WJYtPkdi26pR2wmhecQsE5.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhSa3hsV0hKQloyZDBUMFpmVFJDZkF4ampCU2dLTWdZUnM0anJ3UVE",
+      "date": "03/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-17T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Earth Will Likely Dodge ‘Planet Killer’ Asteroids for the Next 1,000 Years",
+      "source": {
+        "name": "singularityhub.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://singularityhub.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jason Dorrier"
+        ]
+      },
+      "link": "https://singularityhub.com/2023/05/21/earth-will-likely-dodge-planet-killer-asteroids-for-the-next-1000-years/",
+      "thumbnail": "https://singularityhub.com/uploads/2023/05/origins-dinosaur-killing-asteroid-1.jpeg?auto=webp&auto=webp&optimize=high&quality=70&width=1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNOVXhoUnpaWFZrTkxTWGgyVFJDZkF4ampCU2dLTWdZQmNvd09OUVU",
+      "date": "05/21/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-05-21T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Amateur astronomer discovers large asteroid that flew by Earth this week",
+      "source": {
+        "name": "space.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.space.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Mathewson"
+        ]
+      },
+      "link": "https://www.space.com/amateur-astronomer-discovers-asteroid-2020-QU6-earth-flyby.html",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/VbT8peuoX6bw9QYg8ukrLZ-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZWRVJLV1hsbE5FOUJOa2MxVFJDZkF4ampCU2dLTWdPaGdnbw",
+      "date": "09/12/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-09-12T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Could mysterious Manhattan-sized comet be a ‘black swan event’?: ‘The implications are so huge for humanity’",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Cost"
+        ]
+      },
+      "link": "https://nypost.com/2025/10/24/science/could-mysterious-3i-atlas-comet-be-a-black-swan-event/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2025/10/nasa-s-james-webb-space-114101344.jpg?quality=75&strip=all&w=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRRWFF0VFRKM1NYbE5Xa1E1VFJERUF4aW5CU2dLTWdZQllZekR1Z1U",
+      "date": "10/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-24T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Scientists discover where the huge dinosaur-killing asteroid came from",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Kaufman"
+        ]
+      },
+      "link": "https://mashable.com/article/asteroid-chicxulub-impact-origin-dinosaurs",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/02kOdMwcobl35IPUfx1jKWI/hero-image.fill.size_1248x702.v1723662251.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVWbmgwTFdkSVZqQXpibnBEVFJDZkF4amlCU2dLTWd1QklJU0hsU0pORGxuME93",
+      "date": "08/15/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-08-15T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Giant asteroid found hiding in sun’s glare within Earth’s orbit",
+      "source": {
+        "name": "KIRO 7 News Seattle",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.kiro7.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.kiro7.com/news/trending/giant-asteroid-found-hiding-suns-glare-within-earths-orbit/RSZJGF3AHNG5LKEL37JMLALM3I/",
+      "thumbnail": "https://d1hfln2sfez66z.cloudfront.net/11-14-2019/t_38fd3afd55fd4e6abcbf4ed9e6793c2c_name_618D6284801E4B2CA693881A8F67706F",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXWFpLV2poWVRHZFNSMHBPVFJDZkF4ampCU2dLTWdZbFJZek5JUWM",
+      "date": "11/01/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-01T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Planetary defense: NASA's arsenal for protecting Earth from potential killer asteroids",
+      "source": {
+        "name": "Florida Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.floridatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jamie Groh"
+        ]
+      },
+      "link": "https://www.floridatoday.com/story/tech/science/space/2022/11/27/nasa-planetary-defense-keep-track-potentially-harmful-asteroid-dart/10531663002/",
+      "thumbnail": "https://www.floridatoday.com/gcdn/presto/2022/10/18/PBRE/f0fc64ef-18d8-4e11-be59-312e5ccbe89c-NASA_DART_illustration.jpg?crop=1911,1075,x8,y0&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZTMnRXTldkaGRrMVVSWG93VFJEekFoaVVCU2dLTWdZTllJeEhMZ2M",
+      "date": "11/27/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-11-27T08:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "A “planet killer” asteroid is hiding in the Sun’s glare",
+      "source": {
+        "name": "salon.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.salon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matthew Rozsa"
+        ]
+      },
+      "link": "https://www.salon.com/2022/11/02/a-planet-killer-asteroid-is-hiding-in-the-suns-glare/",
+      "thumbnail": "https://www.salon.com/app/uploads/2022/11/asteroid_heading_to_planet_earth_1287489228.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVTSGhOUVRKbVRVdzRPRXBtVFJERUF4aW1CU2dLTWdZNW80NHl2UVU",
+      "date": "11/02/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-02T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "'Planet Killer' asteroid hidden in sun's glare",
+      "source": {
+        "name": "The Jerusalem Post",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.jpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Post Staff"
+        ]
+      },
+      "link": "https://www.jpost.com/science/article-721572",
+      "thumbnail": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/514024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhOVWhEY2psSkxXVTNkVGwxVFJDZkF4ampCU2dLTWdrWk1vNEpOdVkxeFFJ",
+      "date": "11/06/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-06T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "UPDATE: ‘City Killer’ Asteroid Less Likely to Smash Into Earth, But There’s Still a Chance",
+      "source": {
+        "name": "TheFW",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thefw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rob Carroll"
+        ]
+      },
+      "link": "https://thefw.com/asteroid-earth-collision-2032/",
+      "thumbnail": "https://townsquare.media/site/341/files/2025/01/attachment-Featured-Images-46.jpg?w=780&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFjRkF4TW5KNldFNW5YM2RyVFJERUF4aW1CU2dLTWdhRlVKREpyQVk",
+      "date": "02/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-20T08:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "NASA’s ‘Planet Killer’ asteroid discovery",
+      "source": {
+        "name": "News.com.au",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jamie Seidel"
+        ]
+      },
+      "link": "https://www.news.com.au/technology/science/space/nasas-planet-killer-asteroid-discovery/news-story/b181462fa4e38427448f602a3553e5f6",
+      "thumbnail": "https://content.api.news/v3/images/bin/212e9695bdfb72a4e123b01632bdb0b4",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5RMFJsVXpVMVVrSTJURWR0VFJDZkF4ampCU2dLTWdZVm9vUUp6Z0k",
+      "date": "07/12/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-12T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Asteroid headed for Earth in 2046 tops the \"risk list\" for planetary impact",
+      "source": {
+        "name": "salon.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.salon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.salon.com/2023/03/15/this-asteroid-is-most-likely-to-hit-earth-with-a-possible-impact-on-valentines-day-2046/",
+      "thumbnail": "https://www.salon.com/app/uploads/2021/03/asteroid-passing-earth-0312211-768x518.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9TRkI2U2w5T01VaElNbHBZVFJESEF4aWlCU2dLTWdZTnBJYm92UVE",
+      "date": "03/15/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-03-15T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Massive ‘planet killer’ asteroid lurking in sun’s glare could threaten Earth in distant future",
+      "source": {
+        "name": "3DVF",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://3dvf.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://3dvf.com/en/massive-planet-killer-asteroid-lurking-in-suns-glare-could-threaten-earth-in-distant-future/",
+      "thumbnail": "https://3dvf.com/wp-content/uploads/2025/05/awhra8jdvcdwouhvbadyek.jpg-1024x576.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kR0pMUVRFdGFIRlRTVkJXVFJDZkF4ampCU2dLTWdZZGNJRHlZQU0",
+      "date": "05/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-24T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "‘Planet killer’ asteroid to soon cross Earth’s orbit, but poses no threat yet",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gaurvi Narang"
+        ]
+      },
+      "link": "https://theprint.in/science/planet-killer-asteroid-to-soon-cross-earths-orbit-but-poses-no-threat-yet/1197091/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2022/11/ateroid.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdVUzFZUWs5elpsbEZkRWxZVFJDZkF4ampCU2dLTWdZUllvd1Z3UVU",
+      "date": "11/04/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-11-04T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Surprise ‘city-killer’ asteroid almost hit Earth — whizzing by at 15 miles a second",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kenneth Garger"
+        ]
+      },
+      "link": "https://nypost.com/2019/07/26/surprise-city-killer-asteroid-almost-hit-earth-whizzing-by-at-15-miles-a-second/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2019/07/asteroid-and-earth.jpg?quality=80&strip=all&w=306&h=204&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVjVXd4V1hoRE9GWjZkRVpTVFJETUFSaXlBaWdLTWdrSklJeVduQ2JCVVFF",
+      "date": "07/26/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-07-26T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "How Jupiter And Saturn Protect Earth From Killer Asteroids",
+      "source": {
+        "name": "International Business Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ibtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Inigo Monzon"
+        ]
+      },
+      "link": "https://www.ibtimes.com/how-jupiter-saturn-protect-earth-killer-asteroids-2882416",
+      "thumbnail": "https://d.ibtimes.com/en/full/2841599/saturn-new-true-moon-king-discovery-20-new-moons.jpg?w=736&f=6f35353643b884774c1a412d330a8e8e",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZSMHRxVEdsZllURjZTRFp3VFJENEFoamdCU2dLTWdhWmc0NXVNUVk",
+      "date": "12/09/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-12-09T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "That dinosaur-killing asteroid also triggered massive magma releases beneath the ocean, study finds",
+      "source": {
+        "name": "Los Angeles Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amina Khan"
+        ]
+      },
+      "link": "https://www.latimes.com/science/sciencenow/la-sci-sn-magma-dinosaur-extinction-20180207-story.html",
+      "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/97444d0/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F06%2Ff5f4708186007d5408ec2dfc1a7a%2Fla-1517877141-3tpeukt1yw-snap-image",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNVRFJNVGkwM2FFVlhPV2hTVFJDUkF4ajhCU2dLTWdhUlE0ek1vUVU",
+      "date": "02/07/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-02-07T08:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Newly discovered asteroid 'the size of Big Ben' could directly hit Earth in 2032",
+      "source": {
+        "name": "Metro.co.uk",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://metro.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Josh Milton"
+        ]
+      },
+      "link": "https://metro.co.uk/2025/01/30/newly-discovered-city-killer-asteroid-hit-earth-2032-22463799/",
+      "thumbnail": "https://metro.co.uk/wp-content/uploads/2025/01/SEI_158405085-34a2.jpg?quality=90&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhNVzh5TmxWSE5GVk5jRGwzVFJEU0F4aVRCU2dLTWdhQlU0U3ZLUWM",
+      "date": "01/30/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-30T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "What If an Asteroid Hit Earth?",
+      "source": {
+        "name": "HowStuffWorks",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://science.howstuffworks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://science.howstuffworks.com/nature/natural-disasters/asteroid-hits-earth.htm",
+      "thumbnail": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2FzdGVyb2lkLWhpdC1lYXJ0aC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFWbEJ1VVdoQ1EzSk9UbTVuVFJDZkF4amlCU2dLTWdZcFFvSk9TUU0",
+      "date": "10/16/2017, 04:17 PM, +0000 UTC",
+      "iso_date": "2017-10-16T16:17:01Z"
+    },
+    {
+      "position": 48,
+      "title": "Interstellar comet 3I/ATLAS has changed course? Big discovery by NASA in visitor's speed as it moves towar",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/global-trends/us-news-interstellar-comet-3i/atlas-has-changed-course-nasa-detects-bizarre-boost-in-visitors-speed-as-it-moves-toward-earth/articleshow/125120694.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125120733,width-1200,height-900,resizemode-4,imgsize-1058325/interstellar-comet-3i-atlas.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBZbEJUY0MwNVRWWjRUbE5UVFJEZ0F4aUFCU2dLTWdhVlVvcUxNUVk",
+      "date": "11/06/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-06T08:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Meet 2025 PN7, the Tiny Asteroid Traveling with Earth Like a Second Moon",
+      "source": {
+        "name": "Tempo.co English",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://en.tempo.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://en.tempo.co/read/2059997/meet-2025-pn7-the-tiny-asteroid-traveling-with-earth-like-a-second-moon",
+      "thumbnail": "https://statik.tempo.co/data/2025/02/08/id_1375830/1375830_720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZUR2hOT1ZwbVEweG1aMHhrVFJDcUF4alBCU2dLTWdZeFU0NVFJUVk",
+      "date": "10/22/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-22T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Asteroid Carves 'Once-in-a-Century' Moon Crater, NASA Finds",
+      "source": {
+        "name": "Tempo.co English",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://en.tempo.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://en.tempo.co/amp/2119832/asteroid-carves-once-in-a-century-moon-crater-nasa-finds",
+      "thumbnail": "https://statik.tempo.co/data/2026/09/18/id_1489408/1489408_720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWVEZXY0ZodlFubG1aaTFJVFJDM0FSaVRBaWdCTWdhZE01Q01LUVk",
+      "date": "09/18/2026, 03:59 AM, +0000 UTC",
+      "iso_date": "2026-09-18T03:59:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Could we really blow up an incoming asteroid with a nuclear bomb?",
+      "source": {
+        "name": "HowStuffWorks",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://science.howstuffworks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://science.howstuffworks.com/asteroid-nuclear-bomb.htm",
+      "thumbnail": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2FzdGVyb2lkLW51Y2xlYXItYm9tYi0xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjkwfX19",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU1iMGx0ZDJjd05ucFBaa2x1VFJEQkFSaWlBaWdLTWd1TlFwSW5wYWRFNTJxb1pB",
+      "date": "10/16/2017, 04:55 PM, +0000 UTC",
+      "iso_date": "2017-10-16T16:55:38Z"
+    },
+    {
+      "position": 52,
+      "title": "Nasa issues update on 220ft city-killer asteroid experts said risked Moon crash",
+      "source": {
+        "name": "The Sun",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thesun.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sean Keach"
+        ]
+      },
+      "link": "https://www.thesun.co.uk/tech/38428292/nasa-update-220-ft-asteroid-risks-crashing-moon/",
+      "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2026/03/ffn14e-big-asteroid-closing-earth-875868238.jpg?w=960",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPSEZKUmtKRlpURnVWVEYwVFJERUF4aW1CU2dLTWdZQkI0akZqZ28",
+      "date": "03/06/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-06T08:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "NASA shares footage of 'city-killing' asteroid after officially updating threat level again",
+      "source": {
+        "name": "UNILAD Tech",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.uniladtech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.uniladtech.com/science/space/nasa-footage-2024-yr4-asteroid-updating-level-540953-20250220",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0YjVkOTI3NTdhYzFlZTA0NS9ibHQ1ZGIyMDg1YzQyMGVlNThkLzY3Yjc1YjcwZDM4MTk5NDJmYTMzMmNmNy9OQVNBX3NoYXJlX2FzdGVyb2lkX2Zvb3RhZ2VfLnBuZz9jcm9wPTY3NSw2NzUseDI2MCx5MA.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRibFJYV1ZoZmNrcHVjRGhvVFJDcUJCaXFCQ2dLTWdB",
+      "date": "02/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-20T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "‘Planet killer’ asteroid set to come close to Earth in coming days and you’ll be able to see it",
+      "source": {
+        "name": "LADbible",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ladbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jess Battison"
+        ]
+      },
+      "link": "https://www.ladbible.com/news/science/2011-ul21-asteroid-close-to-earth-468340-20240626",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHQxMTMwNmYyYmIwMTEyMGViLzY2N2MwMGJhN2VkMmFhMzQ0OGIxNmZmMy9hc3Rlcm9pZF9uZWFyX2VhcnRoLnBuZw.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVURWwyZG14SmFHOXNaMWRrVFJDZkF4amlCU2dLTWdrWmNJd3B1cVZVU2dJ",
+      "date": "06/26/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-06-26T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Asteroid warning: NASA tracks a 4KM asteroid approach - Could end civilisation if it hits",
+      "source": {
+        "name": "Daily Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.express.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sebastian Kettley"
+        ]
+      },
+      "link": "https://www.express.co.uk/news/science/1249990/Asteroid-warning-NASA-tracks-4KM-killer-asteroid-hit-Earth-end-civilisation-asteroid-news",
+      "thumbnail": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1249990.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZlSFkyUVV0NWVtdFVOV3hzVFJDcUF4alBCU2dLTWdhaFk0eHRLUWM",
+      "date": "03/06/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-03-06T08:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Scientists discover monumental 'weak spot' in Earth's magnetic field is growing and it could have consequences",
+      "source": {
+        "name": "UNILAD",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.unilad.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Callum Jones"
+        ]
+      },
+      "link": "https://www.unilad.com/technology/space/scientists-weak-spot-earths-magnetic-field-713424-20250223",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHQyOTY0MzM2ODM2ZWIyZDQ0LzY3YmI0ODFiNzA3YjJiYWIyNzRkZjU1NS9zY2llbnRpc3RzLWRpc2NvdmVyLW1vbnVtZW50YWwtd2Vhay1zcG90LWVhcnRoLW1hZ25ldGljLWZpZWxkLWVmZmVjdHMucG5n.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU1kM2xxTURsMk16WmlkVjlyVFJDZkF4amlCU2dLTWdB",
+      "date": "02/23/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-23T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "NASA gives terrifying update on thousands of ‘city-killer’ asteroids that could hit Earth",
+      "source": {
+        "name": "tyla.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tyla.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rhiannon Ingle"
+        ]
+      },
+      "link": "https://www.tyla.com/news/nasa-asteroids-earth-update-space-829931-20260218",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OGJiZjE2YzJkN2EyMDllNS9ibHQ0ZGE0YzgxOWNlYTI3NmFlLzY5OTVmMzg1OTVhNzc5MDAwOGFiYWM2My9HZXR0eUltYWdlcy0xMjgxNjM2MTA3XygxKS5qcGc.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1aWEJNUkROaGQyWlJjemhZVFJDZkF4ampCU2dLTWdZWlZZWUxMZ1U",
+      "date": "02/18/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-18T08:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "‘God of Chaos’ asteroid could hit Earth three years before ‘city killer’ heads for the planet",
+      "source": {
+        "name": "LADbible",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ladbible.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tom Earnshaw"
+        ]
+      },
+      "link": "https://www.ladbible.com/news/science/earth-god-of-chaos-asteroid-apophis-2024-yr4-848330-20250217",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:1200:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHRmOWNiNmI5MmRhOTM4ZTA2LzY3YjMxMjc1NDdjNGZjZjM3MDI5Y2RiZS9nb2Rfb2ZfY2hhb3NfYXN0ZXJvaWRfQXBvcGhpc19FYXJ0aC5qcGc.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5YM293UnpoZmEweHlXVzUwVFJDZkF4ampCU2dLTWdZUlZwUm5xZ2M",
+      "date": "02/17/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-17T08:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Earth's Big Threat After 3I/ATLAS? NASA Warns 15,000 'City-Killer' Asteroids Still Undetected in 'Blind Spot' Space",
+      "source": {
+        "name": "ibtimes.co.uk",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ibtimes.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ibtimes.co.uk/earths-big-threat-after-3i-atlas-nasa-warns-15000-city-killer-asteroids-still-undetected-1779685",
+      "thumbnail": "https://d.ibtimes.co.uk/en/full/1777934/3i-atlas-warning-harvards-avi-loeb-claims-comet-carries-wwi-chemical.png?w=736&f=65087535e6ec7ed93a467251b042f3f0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlaVVEyVEcxaGVWcE9VMVZ4VFJDZUF4amdCU2dLTWdZeFE0NVFwUVk",
+      "date": "02/17/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-17T08:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Scientists studying NASA’s James Webb Space Telescope discover black hole 300 million times bigger than the sun",
+      "source": {
+        "name": "UNILAD",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.unilad.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ellie Kemp"
+        ]
+      },
+      "link": "https://www.unilad.com/technology/space/black-hole-nasa-james-webb-space-telescope-sun-708089-20250813",
+      "thumbnail": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHRlZjFhZmNjOWRmNDQ3MmU3LzY4OWNhNzkzZTY4ZWE1ODlkMWE2NzNhNS9HZXR0eUltYWdlcy0xNDA4OTEzMDUuanBn.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9aMU0xWDNVNFVHeEthRVppVFJDZkF4ampCU2dLTWdB",
+      "date": "08/13/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-13T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Evidence of ‘planet killer’ asteroid discovered on Mars and it caused a ‘mega-tsunami’",
+      "source": {
+        "name": "the-sun.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.the-sun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jona Jaupi"
+        ]
+      },
+      "link": "https://www.the-sun.com/tech/6825146/evidence-planet-killer-asteroid-mars-tsunami/",
+      "thumbnail": "https://www.the-sun.com/wp-content/uploads/sites/6/2022/12/rocky-horror-evidence-planet-killer-780064014.jpg?strip=all&w=960",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVZhMnBEZWtwMVlYVkhZWGxsVFJDZkF4amlCU2dLTWdB",
+      "date": "12/02/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-12-02T08:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "NASA issues update on size of 'city-killer' asteroid 2024 that could smash into the Moon",
+      "source": {
+        "name": "Daily Record",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.dailyrecord.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ambarish Awale"
+        ]
+      },
+      "link": "https://www.dailyrecord.co.uk/lifestyle/nasa-issues-update-size-city-34994176",
+      "thumbnail": "https://i2-prod.dailyrecord.co.uk/incoming/article34994555.ece/ALTERNATES/s1200b/2_GettyImages-1489195900.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXJSM1pDUmxWc09HWndRbTVyVFJEZ0F4aUFCU2dLTWdB",
+      "date": "04/04/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-04T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Asteroid 2019 OK Just Passed Earth And We Didn't Even Notice",
+      "source": {
+        "name": "Mashable India",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://in.mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://in.mashable.com/science/5218/asteroid-2019-ok-just-passed-earth-and-we-didnt-even-notice",
+      "thumbnail": "https://sm.mashable.com/t/mashable_in/photo/default/asteroid-2006-qq23_yrd5.1248.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVVYMjlhZVRaaFNXb3RaQzFZVFJDN0F4aTBCU2dLTWdPQk13SQ",
+      "date": "07/26/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-07-26T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Asteroid warning: NASA warns of space rocks ‘large enough to take Earth out’",
+      "source": {
+        "name": "Daily Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.express.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Naomi Adedokun"
+        ]
+      },
+      "link": "https://www.express.co.uk/news/science/1189185/Asteroid-news-NASA-Earth-space-science",
+      "thumbnail": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1189185.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1WbmxtVDFGcVRXZzFlSE5PVFJDcUF4alBCU2dLTWdZQlVvaHZ1UU0",
+      "date": "10/11/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-10-11T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Asteroid simulation shows Earth being hit by largest asteroid in solar system –shock video",
+      "source": {
+        "name": "Daily Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.express.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Naomi Adedokun"
+        ]
+      },
+      "link": "https://www.express.co.uk/news/science/1189713/Asteroid-shock-video-Earth-Ceres-NASA-space-solar-system",
+      "thumbnail": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1189713.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJjR1oyZDB4a05WQmllRzFyVFJDcUF4alBCU2dLTWdhUlU0U3JvUWM",
+      "date": "10/11/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-10-11T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "NASA discovers deadly 'rains of terror' on planet from 'howling winds of storming glass'",
+      "source": {
+        "name": "Daily Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.express.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Naomi Adedokun"
+        ]
+      },
+      "link": "https://www.express.co.uk/news/science/1200562/NASA-Space-news-planet-galaxy-horrors-exoplanet-asteroid-alien",
+      "thumbnail": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1200562.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZkMFJOVWtjMVJIUlVXRnBOVFJDcUF4alBCU2dLTWdZaFJJYXRKUVU",
+      "date": "11/05/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-11-05T08:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "NASA discovers killer asteroid larger than Mt Everest on collision course, may wipe out half the life on earth by 2027",
+      "source": {
+        "name": "ibtimes.co.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ibtimes.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nirmal Narayanan"
+        ]
+      },
+      "link": "https://www.ibtimes.co.in/nasa-discovers-killer-asteroid-larger-mt-everest-collision-course-may-wipe-out-half-life-earth-803716",
+      "thumbnail": "https://data1.ibtimes.co.in/en/full/653399/asteroid.jpg?h=450&l=50&t=40",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWbXRJU1dOWmVEQmxaRVZ5VFJDZkF4ampCU2dLTWdhdFU0eFJvUWM",
+      "date": "08/17/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-08-17T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

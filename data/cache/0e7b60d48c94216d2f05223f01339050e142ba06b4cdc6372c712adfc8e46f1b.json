@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab22f5eabe7ecb9bc29b94d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/iUlTP0SRBjT22N1F8PC9mqfsEqqm26zlbj0IVPSAZ14/6ab22f5eabe7ecb9bc29b94d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/iUlTP0SRBjT22N1F8PC9mqfsEqqm26zlbj0IVPSAZ14/6ab22f5eabe7ecb9bc29b94d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/iUlTP0SRBjT22N1F8PC9mqfsEqqm26zlbj0IVPSAZ14/6ab22f5eabe7ecb9bc29b94d.json_with_pixel_position",
+    "created_at": "2026-09-22 07:33:50 UTC",
+    "processed_at": "2026-09-22 07:33:50 UTC",
+    "google_url": "https://www.google.com/search?q=%22Federal+Reserve+announces+massive+emergency+interest+rate+cu%22&oq=%22Federal+Reserve+announces+massive+emergency+interest+rate+cu%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/iUlTP0SRBjT22N1F8PC9mqfsEqqm26zlbj0IVPSAZ14/6ab22f5eabe7ecb9bc29b94d.html",
+    "total_time_taken": 0.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Federal Reserve announces massive emergency interest rate cu\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Federal Reserve announces massive emergency interest rate cu\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.15,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "yjh8xniczVXLduI4EP2A-Y5mQ4JtMGByjk8fSTZvCCYJCb3xMbKQeRiDBSbOrr9jtvNV8zUjG8wrOEn3os9ooUepVKpS1dX9-c98spj9-9ffznq9ZHeCsN1uc9Tz6JzksOcKFgsXWBh7c-Zj53sYqIUMZqqYIRP1ZXIbWuw56A4Lw2LX64nNheuBTiY-opoji5Ept_g6ZYIp8G72raDxRY7lyCJXGxSVDizK4lTJ5UWpkrsXLJcrgD_XGk7UG2AGGh8oRRpfaZQCHYDmUYBQPOgnKtGCcpMoEqJofv1OfedRH-0cBD2t96ZhALSDK_epfqBTd9F2f_M2vg9GN34Q7BVrcV_dr_R0RZAaDT0zATonW6n20IUid90AqCdHxpJDZ4cpMI7XN6LNfSVhCpS6BzUIntI95wdaDVCcAUP_LNmGPpBRclV7WOMSwaa8cEVh5PNBEibYwfHEZ1E9o8eK6NWctZl_g0F1sMTKKr9U3M1jK1SkpuRtBTzienPPsoltOqb4PV5LeakoVgpl5SYGEmYHJLFTJD1u66IDu2sPGbl2DkoJjNAhz-jcf52v0bUSgGivit7v8QPJayNwsEytM6VdhnnpUvBDB-f58SrxM0OYCOoMgK1-onJ0KRK-h9GlaxGMdiml8XRfZqfON8DDSaAnidWuVOq7qPm9e_AY2jvFcwMQNGfgGPDFH0YBhKhhwN0LreTYJxnAcy1gGBeORP8D_ygayWsnQe1a5xgP32nFuNAQgtyut4zUmvuIowOTg1XYv_jO4HUM8vSANvoE8GkNfuXHNBK8XJT_KWzqeOIoTvD8umlrWtEVQ6sA7-3h67Tn0esw8dzRLzAO_l8BKeGjeSxPB5LxJSBRqqfz0W565KMISIhSmgIk_SGFj7aJypGPLqNGDydA-oSPfhVI-odASkB6FUjVa0DS04CU8NEZkB7O-Ahe56MDkH6Hj-Bv8lGMK7IbzslpM6WpJFUtdp7qjWDa6bfenKUc9Cy9KDZrSu21aHxKUmN3feda9vzGnNh3MN9ch_aNyQXeHbEzK_VbPl8lNvGtebZPGPEDkrUWC2-zwIRlXYuxCZcQl_iULHCYnSzWxCdsnfWtNcniDT-ecee-p4pWyQraZVhkvcHr2K9121vgy3XLwS9uo_QsAXFVrc-1YWiGgdSaySW31JaXuE1b929TwyfK7bIwNlelldecW4_30qA7qxQCrebqS6dgl81yyNpA679Av0TwzBmTTT-YsoKpzeZo-FTb6H1lVuq-hC0Q-8PUtl3utG5r1YEtZ3i4jKhSxvWxyutEpqBrgGcKMUBDYPAsPVkeH7fAqJV44mCGYcskLFBJuSLJUr6Ax4WRNCJKxqXrcKnKcoYtfFX6DzkPRu8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yjh8xniczVXLduI4EP2A-Y5mQ4JtMGByjk8fSTZvCCYJCb3xMbKQeRiDBSbOrr9jtvNV8zUjG8wrOEn3os9ooUepVKpS1dX9-c98spj9-9ffznq9ZHeCsN1uc9Tz6JzksOcKFgsXWBh7c-Zj53sYqIUMZqqYIRP1ZXIbWuw56A4Lw2LX64nNheuBTiY-opoji5Ept_g6ZYIp8G72raDxRY7lyCJXGxSVDizK4lTJ5UWpkrsXLJcrgD_XGk7UG2AGGh8oRRpfaZQCHYDmUYBQPOgnKtGCcpMoEqJofv1OfedRH-0cBD2t96ZhALSDK_epfqBTd9F2f_M2vg9GN34Q7BVrcV_dr_R0RZAaDT0zATonW6n20IUid90AqCdHxpJDZ4cpMI7XN6LNfSVhCpS6BzUIntI95wdaDVCcAUP_LNmGPpBRclV7WOMSwaa8cEVh5PNBEibYwfHEZ1E9o8eK6NWctZl_g0F1sMTKKr9U3M1jK1SkpuRtBTzienPPsoltOqb4PV5LeakoVgpl5SYGEmYHJLFTJD1u66IDu2sPGbl2DkoJjNAhz-jcf52v0bUSgGivit7v8QPJayNwsEytM6VdhnnpUvBDB-f58SrxM0OYCOoMgK1-onJ0KRK-h9GlaxGMdiml8XRfZqfON8DDSaAnidWuVOq7qPm9e_AY2jvFcwMQNGfgGPDFH0YBhKhhwN0LreTYJxnAcy1gGBeORP8D_ygayWsnQe1a5xgP32nFuNAQgtyut4zUmvuIowOTg1XYv_jO4HUM8vSANvoE8GkNfuXHNBK8XJT_KWzqeOIoTvD8umlrWtEVQ6sA7-3h67Tn0esw8dzRLzAO_l8BKeGjeSxPB5LxJSBRqqfz0W565KMISIhSmgIk_SGFj7aJypGPLqNGDydA-oSPfhVI-odASkB6FUjVa0DS04CU8NEZkB7O-Ahe56MDkH6Hj-Bv8lGMK7IbzslpM6WpJFUtdp7qjWDa6bfenKUc9Cy9KDZrSu21aHxKUmN3feda9vzGnNh3MN9ch_aNyQXeHbEzK_VbPl8lNvGtebZPGPEDkrUWC2-zwIRlXYuxCZcQl_iULHCYnSzWxCdsnfWtNcniDT-ecee-p4pWyQraZVhkvcHr2K9121vgy3XLwS9uo_QsAXFVrc-1YWiGgdSaySW31JaXuE1b929TwyfK7bIwNlelldecW4_30qA7qxQCrebqS6dgl81yyNpA679Av0TwzBmTTT-YsoKpzeZo-FTb6H1lVuq-hC0Q-8PUtl3utG5r1YEtZ3i4jKhSxvWxyutEpqBrgGcKMUBDYPAsPVkeH7fAqJV44mCGYcskLFBJuSLJUr6Ax4WRNCJKxqXrcKnKcoYtfFX6DzkPRu8"
+  }
+}

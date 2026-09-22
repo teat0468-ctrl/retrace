@@ -1,0 +1,108 @@
+{
+  "search_metadata": {
+    "id": "6ab161bbff3b7a9ceffed5bc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/v2I82jaUJYajJqRZOBBwP9hfOb5lmfw_EZui40HaOWg/6ab161bbff3b7a9ceffed5bc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/v2I82jaUJYajJqRZOBBwP9hfOb5lmfw_EZui40HaOWg/6ab161bbff3b7a9ceffed5bc.md",
+    "created_at": "2026-09-21 16:56:27 UTC",
+    "processed_at": "2026-09-21 16:56:27 UTC",
+    "google_news_url": "https://news.google.com/search?q=Is+the+viral+video+showing+a+huge+crowd+at+Rahul+Gandhi%27s+September+19+Indore+event+actually+from+that+event%2C+or+was+the+footage+recorded+earlier%3F",
+    "raw_html_file": "https://serpapi.com/searches/v2I82jaUJYajJqRZOBBwP9hfOb5lmfw_EZui40HaOWg/6ab161bbff3b7a9ceffed5bc.html",
+    "total_time_taken": 1.6
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Is the viral video showing a huge crowd at Rahul Gandhi's September 19 Indore event actually from that event, or was the footage recorded earlier?"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Over 20,000 Students Expected At Rahul Gandhi’s Chhatron Ki Goonj Event In Indore, Says Congress",
+      "source": {
+        "name": "Free Press Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.freepressjournal.in/indore/over-20000-students-expected-at-rahul-gandhis-chhatron-ki-goonj-event-in-indore-says-congress-spokesperson-amit-chaurasia",
+      "thumbnail": "https://media.assettype.com/freepressjournal/2026-09-18/a9qjlstw/Add-a-subheading-24.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtibFZEUkc5M055MU1RbEk0VFJDZkF4ampCU2dLTWdrTllwS21NbVk5S1FJ",
+      "date": "09/18/2026, 11:24 AM, +0000 UTC",
+      "iso_date": "2026-09-18T11:24:33Z"
+    },
+    {
+      "position": 2,
+      "title": "Who is Pulkit Mani, the comedian who mimicked Modi at Rahul Gandhi’s Indore event",
+      "source": {
+        "name": "newsdrum.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newsdrum.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsdrum.in/national/who-is-pulkit-mani-the-comedian-who-mimicked-modi-at-rahul-gandhis-indore-event-12554512",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/newsdrum-in/media/media_files/2026/09/20/pulkit-mani-rahul-gandhi-2026-09-20-11-33-12.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZObTlIVTFWcVkwZExiMFZzVFJDZkF4ampCU2dLTWdZQlU0emtJZ2s",
+      "date": "09/20/2026, 06:03 AM, +0000 UTC",
+      "iso_date": "2026-09-20T06:03:33Z"
+    },
+    {
+      "position": 3,
+      "title": "Taking Lesson From Kumbh, Madhya Pradesh Govt Should Be Alert Now",
+      "source": {
+        "name": "Free Press Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nitendra Sharma"
+        ]
+      },
+      "link": "https://www.freepressjournal.in/bhopal/taking-lesson-from-kumbh-madhya-pradesh-govt-should-be-alert-now",
+      "thumbnail": "https://media.assettype.com/freepressjournal/2025-01-30/mceg8cce/download.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFWMGswZERFNE9HbHFOa294VFJDNEFSaVRBaWdLTWdZbFJZNnNxUVk",
+      "date": "01/30/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-30T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

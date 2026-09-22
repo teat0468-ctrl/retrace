@@ -1,0 +1,500 @@
+{
+  "search_metadata": {
+    "id": "6ab1566ef5d5acfb16cbfc6c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/txdsyPkbSaI_t11dbTCllfXuuDEqYn_iY7ZKperlC90/6ab1566ef5d5acfb16cbfc6c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/txdsyPkbSaI_t11dbTCllfXuuDEqYn_iY7ZKperlC90/6ab1566ef5d5acfb16cbfc6c.md",
+    "created_at": "2026-09-21 16:08:14 UTC",
+    "processed_at": "2026-09-21 16:08:14 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?q=scientists+discover+earth+like+planet&hl=en&num=10",
+    "raw_html_file": "https://serpapi.com/searches/txdsyPkbSaI_t11dbTCllfXuuDEqYn_iY7ZKperlC90/6ab1566ef5d5acfb16cbfc6c.html",
+    "total_time_taken": 10.19
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "scientists discover earth like planet",
+    "hl": "en",
+    "num": "10"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 495000,
+    "time_taken_displayed": 0.35,
+    "query_displayed": "scientists discover earth like planet"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How to find a habitable planet",
+      "result_id": "UldZYErEXvUJ",
+      "type": "Book",
+      "link": "https://www.degruyterbrill.com/document/doi/10.1515/9781400845088/html",
+      "snippet": "… How to Find a Habitable Planet will fascinate those who care about the evolution of Earth's climate and wonder about how we will eventually detect life--even simple cellular life--…",
+      "publication_info": {
+        "summary": "J Kasting - 2012 - degruyterbrill.com",
+        "authors": [
+          {
+            "name": "J Kasting"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "ucsb.edu",
+          "file_format": "PDF",
+          "link": "https://www.on.kitp.ucsb.edu/online/exoplanetst-c10/kasting/pdf/Kasting_TeachersExoPlanets_KITP.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=UldZYErEXvUJ",
+        "cited_by": {
+          "total": 199,
+          "link": "https://scholar.google.com/scholar?cites=17680785010826237778&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "17680785010826237778",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17680785010826237778&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:UldZYErEXvUJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AUldZYErEXvUJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 14,
+          "link": "https://scholar.google.com/scholar?cluster=17680785010826237778&hl=en&as_sdt=0,5",
+          "cluster_id": "17680785010826237778",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=17680785010826237778&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "NASA Data used to discover eighth planet circling distant star",
+      "result_id": "Quw8inZMJGcJ",
+      "type": "Html",
+      "link": "https://www.academia.edu/download/70811391/jastsp.2018.19.pdf",
+      "snippet": "… may not discover any. \"If we find that most stars have extraterrestrial planets are two of the … life development can be a that the international scientific community has today. common issue …",
+      "publication_info": {
+        "summary": "RV Petrescu, R Aversa, A Apicella… - Journal of Aircraft and …, 2018 - academia.edu",
+        "authors": [
+          {
+            "name": "RV Petrescu",
+            "link": "https://scholar.google.com/citations?user=N_3a7TgAAAAJ&hl=en&oi=sra",
+            "author_id": "N_3a7TgAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=N_3a7TgAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "R Aversa",
+            "link": "https://scholar.google.com/citations?user=Pqg8LYEAAAAJ&hl=en&oi=sra",
+            "author_id": "Pqg8LYEAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Pqg8LYEAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Apicella",
+            "link": "https://scholar.google.com/citations?user=nz8YDa0AAAAJ&hl=en&oi=sra",
+            "author_id": "nz8YDa0AAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nz8YDa0AAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "HTML",
+          "link": "https://www.academia.edu/download/70811391/jastsp.2018.19.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Quw8inZMJGcJ",
+        "html_version": "https://www.academia.edu/download/70811391/jastsp.2018.19.pdf",
+        "cited_by": {
+          "total": 34,
+          "link": "https://scholar.google.com/scholar?cites=7432149357077261378&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "7432149357077261378",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7432149357077261378&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Quw8inZMJGcJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AQuw8inZMJGcJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=7432149357077261378&hl=en&as_sdt=0,5",
+          "cluster_id": "7432149357077261378",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7432149357077261378&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Quw8inZMJGcJ:scholar.google.com/+scientists+discover+earth+like+planet&hl=en&as_sdt=0,5"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Astronomical searches for earth-like planets and signs of life",
+      "result_id": "rOKUkSxQBV8J",
+      "link": "https://www.annualreviews.org/content/journals/10.1146/annurev.astro.36.1.507",
+      "snippet": "… Here we consider whether indirect methods, pushed to their intrinsic sensitivity limits, have the sensitivity to detect planets of the Earth’s mass and size. We explore fundamental sources …",
+      "publication_info": {
+        "summary": "N Woolf, JR Angel - Annual Review of Astronomy and …, 1998 - annualreviews.org",
+        "authors": [
+          {
+            "name": "N Woolf",
+            "link": "https://scholar.google.com/citations?user=doLdAZEAAAAJ&hl=en&oi=sra",
+            "author_id": "doLdAZEAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=doLdAZEAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "JR Angel"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/N-Woolf/publication/229029407_Astronomical_searches_for_Earth-like_planets_and_signs_of_life/links/0046352793db6c3652000000/Astronomical-searches-for-Earth-like-planets-and-signs-of-life.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rOKUkSxQBV8J",
+        "cited_by": {
+          "total": 94,
+          "link": "https://scholar.google.com/scholar?cites=6846966960837943980&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "6846966960837943980",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6846966960837943980&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rOKUkSxQBV8J:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ArOKUkSxQBV8J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=6846966960837943980&hl=en&as_sdt=0,5",
+          "cluster_id": "6846966960837943980",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6846966960837943980&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "The Earth as a distant planet: a Rosetta stone for the search of Earth-like worlds",
+      "result_id": "cSG9CRrQenUJ",
+      "type": "Book",
+      "link": "https://books.google.com/books?hl=en&lr=&id=qLuVCJtRTV0C&oi=fnd&pg=PR2&dq=scientists+discover+earth+like+planet&ots=4VAtiwRqJf&sig=qVYvMWNpWJby-_2Icjp5Uor0xyE",
+      "snippet": "… but also the physical properties and evolution of their planetary systems as a whole. For example, we may be able to determine how many of the ‘rocky’ planets that we detect have …",
+      "publication_info": {
+        "summary": "M Vázquez, E Pallé, PM Rodríguez - 2010 - books.google.com",
+        "authors": [
+          {
+            "name": "M Vázquez"
+          },
+          {
+            "name": "E Pallé"
+          },
+          {
+            "name": "PM Rodríguez"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=cSG9CRrQenUJ",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=8465307259847385457&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "8465307259847385457",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8465307259847385457&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:cSG9CRrQenUJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AcSG9CRrQenUJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8465307259847385457&hl=en&as_sdt=0,5",
+          "cluster_id": "8465307259847385457",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8465307259847385457&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Are there Earth-like planets around other stars",
+      "result_id": "RkzAVFsaOrYJ",
+      "type": "Pdf",
+      "link": "https://scienceinschool.org/wp-content/uploads/2014/11/issue2_exoplanet.pdf",
+      "snippet": "… Therefore we continue to find mainly ‘unexpected’ planets. We find large gas planets in small orbits where they cannot have formed, or small solid planets in ultra-small orbits where …",
+      "publication_info": {
+        "summary": "UG Jørgensen - Science in School, 2006 - scienceinschool.org",
+        "authors": [
+          {
+            "name": "UG Jørgensen"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "scienceinschool.org",
+          "file_format": "PDF",
+          "link": "https://scienceinschool.org/wp-content/uploads/2014/11/issue2_exoplanet.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RkzAVFsaOrYJ",
+        "cited_by": {
+          "total": 12,
+          "link": "https://scholar.google.com/scholar?cites=13130836643118337094&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "13130836643118337094",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13130836643118337094&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:RkzAVFsaOrYJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ARkzAVFsaOrYJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=13130836643118337094&hl=en&as_sdt=0,5",
+          "cluster_id": "13130836643118337094",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13130836643118337094&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:RkzAVFsaOrYJ:scholar.google.com/+scientists+discover+earth+like+planet&hl=en&as_sdt=0,5"
+      }
+    },
+    {
+      "position": 6,
+      "title": "The privileged planet: how our place in the cosmos is designed for discovery",
+      "result_id": "_yFPQynO8HEJ",
+      "type": "Book",
+      "link": "https://books.google.com/books?hl=en&lr=&id=1VjHDwAAQBAJ&oi=fnd&pg=PR11&dq=scientists+discover+earth+like+planet&ots=VGt92nzpTl&sig=-_kZM8GqybmHb7SlYz5c8uBPPa0",
+      "snippet": "… We find these hearty critters in the severely salty Dead Sea and Great Salt Lake, the … But we may not find similar organisms in isolated extraterrestrial settings, because these Earthly …",
+      "publication_info": {
+        "summary": "G Gonzalez, JW Richards - 2020 - books.google.com",
+        "authors": [
+          {
+            "name": "G Gonzalez"
+          },
+          {
+            "name": "JW Richards",
+            "link": "https://scholar.google.com/citations?user=64wmMYgAAAAJ&hl=en&oi=sra",
+            "author_id": "64wmMYgAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=64wmMYgAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_yFPQynO8HEJ",
+        "cited_by": {
+          "total": 278,
+          "link": "https://scholar.google.com/scholar?cites=8210288797314654719&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "8210288797314654719",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8210288797314654719&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_yFPQynO8HEJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A_yFPQynO8HEJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=8210288797314654719&hl=en&as_sdt=0,5",
+          "cluster_id": "8210288797314654719",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8210288797314654719&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "The search for extrasolar Earth-like planets",
+      "result_id": "pA6Na-M3Yd4J",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0012821X02011512",
+      "snippet": "… Although technology is not advanced enough to detect Earth-mass planets around stars like our Sun, 100 extrasolar giant planets have been discovered to orbit nearby, single Sun-like …",
+      "publication_info": {
+        "summary": "S Seager - Earth and Planetary Science Letters, 2003 - Elsevier",
+        "authors": [
+          {
+            "name": "S Seager"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/astro-ph/0305337"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=pA6Na-M3Yd4J",
+        "cited_by": {
+          "total": 43,
+          "link": "https://scholar.google.com/scholar?cites=16024150399062445732&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "16024150399062445732",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16024150399062445732&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:pA6Na-M3Yd4J:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3ApA6Na-M3Yd4J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=16024150399062445732&hl=en&as_sdt=0,5",
+          "cluster_id": "16024150399062445732",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16024150399062445732&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "A scientometric prediction of the discovery of the first potentially habitable planet with a mass similar to earth",
+      "result_id": "mVBQrtV1PZwJ",
+      "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013061",
+      "snippet": "… In order to do this, we develop a metric of habitability for all discovered planets, and use this … first habitable planet is expected to be discovered. Of course, predicting future scientific and …",
+      "publication_info": {
+        "summary": "S Arbesman, G Laughlin - Plos one, 2010 - journals.plos.org",
+        "authors": [
+          {
+            "name": "S Arbesman"
+          },
+          {
+            "name": "G Laughlin"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "plos.org",
+          "file_format": "PDF",
+          "link": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0013061&type=printable"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=mVBQrtV1PZwJ",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=11258284204109090969&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "11258284204109090969",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11258284204109090969&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mVBQrtV1PZwJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AmVBQrtV1PZwJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cluster=11258284204109090969&hl=en&as_sdt=0,5",
+          "cluster_id": "11258284204109090969",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11258284204109090969&engine=google_scholar&hl=en"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:mVBQrtV1PZwJ:scholar.google.com/+scientists+discover+earth+like+planet&hl=en&as_sdt=0,5"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Improbable planet: How Earth became humanity's home",
+      "result_id": "5P7m5jlbjqcJ",
+      "type": "Book",
+      "link": "https://books.google.com/books?hl=en&lr=&id=b9alDAAAQBAJ&oi=fnd&pg=PT9&dq=scientists+discover+earth+like+planet&ots=UEFFCEg6V8&sig=AucGSTPh9F8rrsOF0nMCV9_4HbA",
+      "snippet": "… Hugh's observation that we find ourselves in a collection of 200 billion stars, in a universe of some 200 billion galaxies, in just the right place, at just the right time, and with just the right …",
+      "publication_info": {
+        "summary": "H Ross - 2016 - books.google.com",
+        "authors": [
+          {
+            "name": "H Ross"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=5P7m5jlbjqcJ",
+        "cited_by": {
+          "total": 31,
+          "link": "https://scholar.google.com/scholar?cites=12073687955272040164&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "12073687955272040164",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12073687955272040164&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:5P7m5jlbjqcJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3A5P7m5jlbjqcJ%3Ascholar.google.com%2F"
+      }
+    },
+    {
+      "position": 10,
+      "title": "The Earth as a Planet",
+      "result_id": "dMam_e99RlEJ",
+      "link": "https://www.jstor.org/stable/24944766",
+      "snippet": "… If we compare the abundance of ele ments in the earth as a whole with the abundance of elements in the universe, we find that these differ even more mark edly. It is useful to classify …",
+      "publication_info": {
+        "summary": "LV Berkner - 1955 - JSTOR",
+        "authors": [
+          {
+            "name": "LV Berkner"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=dMam_e99RlEJ",
+        "cited_by": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cites=5856506835148129908&as_sdt=2005&sciodt=0,5&hl=en",
+          "cites_id": "5856506835148129908",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5856506835148129908&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:dMam_e99RlEJ:scholar.google.com/&scioq=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=related%3AdMam_e99RlEJ%3Ascholar.google.com%2F"
+      }
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "search for extrasolar earth like planets",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=1&q=search+for+extrasolar+earth+like+planets&qst=br"
+    },
+    {
+      "query": "tipping point for planet earth",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=2&q=tipping+point+for+planet+earth&qst=br"
+    },
+    {
+      "query": "earth size planets",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=3&q=earth+size+planets&qst=br"
+    },
+    {
+      "query": "planet earth state of our souls",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=4&q=planet+earth+state+of+our+souls&qst=br"
+    },
+    {
+      "query": "planetary science space odyssey",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=5&q=planetary+science+space+odyssey&qst=br"
+    },
+    {
+      "query": "planet earth geologic time",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=6&q=planet+earth+geologic+time&qst=br"
+    },
+    {
+      "query": "planet earth origin and evolution",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=7&q=planet+earth+origin+and+evolution&qst=br"
+    },
+    {
+      "query": "story of earth habitable planet",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=8&q=story+of+earth+habitable+planet&qst=br"
+    },
+    {
+      "query": "lost world first extrasolar planet",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=9&q=lost+world+first+extrasolar+planet&qst=br"
+    },
+    {
+      "query": "alien planets strange new worlds",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=10&q=alien+planets+strange+new+worlds&qst=br"
+    },
+    {
+      "query": "planet earth star wars",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=11&q=planet+earth+star+wars&qst=br"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "3": "https://scholar.google.com/scholar?start=20&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "4": "https://scholar.google.com/scholar?start=30&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "5": "https://scholar.google.com/scholar?start=40&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "6": "https://scholar.google.com/scholar?start=50&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "7": "https://scholar.google.com/scholar?start=60&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "8": "https://scholar.google.com/scholar?start=70&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "9": "https://scholar.google.com/scholar?start=80&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5",
+      "10": "https://scholar.google.com/scholar?start=90&q=scientists+discover+earth+like+planet&hl=en&as_sdt=0,5"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=40",
+      "6": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=50",
+      "7": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=60",
+      "8": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=70",
+      "9": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=80",
+      "10": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=10&q=scientists+discover+earth+like+planet&start=90"
+    }
+  }
+}

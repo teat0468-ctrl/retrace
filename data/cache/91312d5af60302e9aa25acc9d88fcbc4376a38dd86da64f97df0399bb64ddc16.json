@@ -1,0 +1,354 @@
+{
+  "search_metadata": {
+    "id": "6ab11148af5fdc09b8b4ff22",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/XuMdxf4QSDwNSN2ohr5tOm1b1oqoGwVv6fE9rrHMUh4/6ab11148af5fdc09b8b4ff22.json",
+    "markdown_endpoint": "https://serpapi.com/searches/XuMdxf4QSDwNSN2ohr5tOm1b1oqoGwVv6fE9rrHMUh4/6ab11148af5fdc09b8b4ff22.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/XuMdxf4QSDwNSN2ohr5tOm1b1oqoGwVv6fE9rrHMUh4/6ab11148af5fdc09b8b4ff22.json_with_pixel_position",
+    "created_at": "2026-09-21 11:13:12 UTC",
+    "processed_at": "2026-09-21 11:13:12 UTC",
+    "google_url": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&oq=did+apple+really+just+introduce+iphone+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/XuMdxf4QSDwNSN2ohr5tOm1b1oqoGwVv6fE9rrHMUh4/6ab11148af5fdc09b8b4ff22.html",
+    "total_time_taken": 0.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "did apple really just introduce iphone 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "did apple really just introduce iphone 2025",
+    "total_results": 109,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is there a new iPhone coming out in 2025?",
+      "type": "ai_overview",
+      "page_token": "tJ8rYHicHdDdTsIwGADQ-DJeyjoEMxJiAm5sjdto2VehN2Z_MGm_rWJhsDvfxafyaUw8j3C-f_RHq37vLo215ms2GvV9_3DouoOuH8oOR_nXrS1HZa51kZdqNn2akud9OffP0WL5GS0YGCNeuLN5o1Hs0IajXIrV9cbcaNgSsWbKWxbAQSzJuVDljSNlXHmYhdVQHeNrHEoi0XvJXS1TP3BrZbYVCSzgo62O2qZBMKSBxxKgNMNJAy6d1HhdJ07kpKGZMJysOHhBtjr0MZDzTiQn1irLQ-PUodxACGNOkmkqRLxZRUOsvH0ONi7QXqSgU_CV85rpowy0qH1z2qH8lHrR-k2Vgaoed9vEBSfBCnuSoccKN1nLVnPBuw8GfCiPGoXfICCnGy1cIIZyxxrR0ghQUAFNJAbpVv39vrzMx_f_n_P3PdqZOXWHP8wGg2c",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tJ8rYHicHdDdTsIwGADQ-DJeyjoEMxJiAm5sjdto2VehN2Z_MGm_rWJhsDvfxafyaUw8j3C-f_RHq37vLo215ms2GvV9_3DouoOuH8oOR_nXrS1HZa51kZdqNn2akud9OffP0WL5GS0YGCNeuLN5o1Hs0IajXIrV9cbcaNgSsWbKWxbAQSzJuVDljSNlXHmYhdVQHeNrHEoi0XvJXS1TP3BrZbYVCSzgo62O2qZBMKSBxxKgNMNJAy6d1HhdJ07kpKGZMJysOHhBtjr0MZDzTiQn1irLQ-PUodxACGNOkmkqRLxZRUOsvH0ONi7QXqSgU_CV85rpowy0qH1z2qH8lHrR-k2Vgaoed9vEBSfBCnuSoccKN1nLVnPBuw8GfCiPGoXfICCnGy1cIIZyxxrR0ghQUAFNJAbpVv39vrzMx_f_n_P3PdqZOXWHP8wGg2c",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBuZXcgaVBob25lIGNvbWluZyBvdXQgaW4gMjAyNT8iLCJsayI6IkdpaHBjeUIwYUdWeVpTQmhJRzVsZHlCcGNHaHZibVVnWTI5dGFXNW5JRzkxZENCcGJpQXlNREkxIiwiYnMiOiJjM1hPc1FyQ01CU0ZZVnd6T1hlUW95S29rd2JFYmtVUVJGemNPb2YyMWdSaUV0cVU0dHNidFMxVWRQX092VDlMMmVwY3dVc3FDUUtHR3FpcnRJYVEyYnN5TjlqYVF4bndEZDhsZkIwdDFSZDJmekE3c2VsUjVUZzRwd00yeHRZbW85ZTJlN0NORXo2TGtBY2tmaURYSW5aaGkwOWhQOXpERm9YS2xORDZBUzNDUmxMLVBoYnF1dUZQRktybXFSUWVhbmd4UmttYVJFWEloYWVFSTVvMExldERCbVE4ZWdJIiwiaWQiOiJmY19TUkd4YXN2U0Nmdmw1Tm9Qb2NPZnlRVV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBuZXcgaVBob25lIGNvbWluZyBvdXQgaW4gMjAyNT8iLCJsayI6IkdpaHBjeUIwYUdWeVpTQmhJRzVsZHlCcGNHaHZibVVnWTI5dGFXNW5JRzkxZENCcGJpQXlNREkxIiwiYnMiOiJjM1hPc1FyQ01CU0ZZVnd6T1hlUW95S29rd2JFYmtVUVJGemNPb2YyMWdSaUV0cVU0dHNidFMxVWRQX092VDlMMmVwY3dVc3FDUUtHR3FpcnRJYVEyYnN5TjlqYVF4bndEZDhsZkIwdDFSZDJmekE3c2VsUjVUZzRwd00yeHRZbW85ZTJlN0NORXo2TGtBY2tmaURYSW5aaGkwOWhQOXpERm9YS2xORDZBUzNDUmxMLVBoYnF1dUZQRktybXFSUWVhbmd4UmttYVJFWEloYWVFSTVvMExldERCbVE4ZWdJIiwiaWQiOiJmY19TUkd4YXN2U0Nmdmw1Tm9Qb2NPZnlRVV80In0%3D"
+    },
+    {
+      "question": "Did Apple announce the iPhone 18?",
+      "type": "ai_overview",
+      "page_token": "AhxHynicHdBRboIwAADQ7DJ-ChR108QsQQUlo66lLYWfBVoRoZVOmTj-dpedaqfZshO85H19q9O5-Xm4VV1nrgvL6vt-fGzbozqMRaut_Pp5FpbIlSpy0SxmjzPnuRTLzcfOW73vPESNYWtsxxxu4kBqHMhZ4bOKkPBOncrBtvKF3g3UhQAqkx2451FHlSKQmNZVnQc4jTmjKGFuxBiNkh4gMFeJj0HRhEPOZSiJN8E6xLGb-djxO2E3LtRyLWxzKgKZYiVt5MI2pk-TlOCh0JUidLqHdbjDJINp0t0Yz_YFrxR3oS1cdoq2apXoex8BWOdgilDiv8SONNGAumSrvE0lCW3kJOUQUPtP071D9BwVAL5mZ4UZbk-I4kHUSlMFdUSylLH0jhJzEYx2BTcpASYTfuVlTjOR_agUt6U7-v9cvpW6W5hLe_wFUE6DCw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AhxHynicHdBRboIwAADQ7DJ-ChR108QsQQUlo66lLYWfBVoRoZVOmTj-dpedaqfZshO85H19q9O5-Xm4VV1nrgvL6vt-fGzbozqMRaut_Pp5FpbIlSpy0SxmjzPnuRTLzcfOW73vPESNYWtsxxxu4kBqHMhZ4bOKkPBOncrBtvKF3g3UhQAqkx2451FHlSKQmNZVnQc4jTmjKGFuxBiNkh4gMFeJj0HRhEPOZSiJN8E6xLGb-djxO2E3LtRyLWxzKgKZYiVt5MI2pk-TlOCh0JUidLqHdbjDJINp0t0Yz_YFrxR3oS1cdoq2apXoex8BWOdgilDiv8SONNGAumSrvE0lCW3kJOUQUPtP071D9BwVAL5mZ4UZbk-I4kHUSlMFdUSylLH0jhJzEYx2BTcpASYTfuVlTjOR_agUt6U7-v9cvpW6W5hLe_wFUE6DCw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiRGlkIEFwcGxlIGFubm91bmNlIHRoZSBpUGhvbmUgMTg/IiwibGsiOiJHaUJrYVdRZ1lYQndiR1VnWVc1dWIzVnVZMlVnZEdobElHbHdhRzl1WlNBeE9BIiwiYnMiOiJjM1hPc1FyQ01CU0ZZVnd6T1hlUW95S29rd2JFYmtVUVJGemNPb2YyMWdSaUV0cVU0dHNidFMxVWRQX092VDlMMmVwY3dVc3FDUUtHR3FpcnRJYVEyYnN5TjlqYVF4bndEZDhsZkIwdDFSZDJmekE3c2VsUjVUZzRwd00yeHRZbW85ZTJlN0NORXo2TGtBY2tmaURYSW5aaGkwOWhQOXpERm9YS2xORDZBUzNDUmxMLVBoYnF1dUZQRktybXFSUWVhbmd4UmttYVJFWEloYWVFSTVvMExldERCbVE4ZWdJIiwiaWQiOiJmY19TUkd4YXN2U0Nmdmw1Tm9Qb2NPZnlRVV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiRGlkIEFwcGxlIGFubm91bmNlIHRoZSBpUGhvbmUgMTg%2FIiwibGsiOiJHaUJrYVdRZ1lYQndiR1VnWVc1dWIzVnVZMlVnZEdobElHbHdhRzl1WlNBeE9BIiwiYnMiOiJjM1hPc1FyQ01CU0ZZVnd6T1hlUW95S29rd2JFYmtVUVJGemNPb2YyMWdSaUV0cVU0dHNidFMxVWRQX092VDlMMmVwY3dVc3FDUUtHR3FpcnRJYVEyYnN5TjlqYVF4bndEZDhsZkIwdDFSZDJmekE3c2VsUjVUZzRwd00yeHRZbW85ZTJlN0NORXo2TGtBY2tmaURYSW5aaGkwOWhQOXpERm9YS2xORDZBUzNDUmxMLVBoYnF1dUZQRktybXFSUWVhbmd4UmttYVJFWEloYWVFSTVvMExldERCbVE4ZWdJIiwiaWQiOiJmY19TUkd4YXN2U0Nmdmw1Tm9Qb2NPZnlRVV80In0%3D"
+    },
+    {
+      "question": "Is the iPhone 17 officially launched?",
+      "type": "ai_overview",
+      "page_token": "oupt6HicHdDdjqIwGADQzMvM5cjfutHEbOICilnqtvRrkZtNbVGEr8AIM6h3-y7zVPM0k8x5hPP_Ay9t8_n0Xo1jPyxns2maXs5dd8byRXd2poZ7q2daIR6Vbpbzn3P310mvordk_fs1WVPoexEyJ3uwnufVtoh3oXLNVTvOZOJqLrEQIpruB2kClcch31QnBUUgkLQl_Niy0Oz2MPiZBZfmuD9AHP6Rixt3sD42eEnrJlC4aKA9u1AzwrDxyxZR8PWricAtJV7YJh0VVJJA9-B1c5dbcpOSiDLfzRWMVeonHuXmyjhBxtcZb3EQjqmodKaCx7kMk3sRDR7zTJhhMgq396PKcGhMcMiJBw6xxk4utwt69MjfokUmWHehwB66RgtefFOOoKlPNszeQl0zzLiBzKduYTHYb0UK9Pmk31f-8_fn6t_Jjsv-2p2_AP5Sg-4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oupt6HicHdDdjqIwGADQzMvM5cjfutHEbOICilnqtvRrkZtNbVGEr8AIM6h3-y7zVPM0k8x5hPP_Ay9t8_n0Xo1jPyxns2maXs5dd8byRXd2poZ7q2daIR6Vbpbzn3P310mvordk_fs1WVPoexEyJ3uwnufVtoh3oXLNVTvOZOJqLrEQIpruB2kClcch31QnBUUgkLQl_Niy0Oz2MPiZBZfmuD9AHP6Rixt3sD42eEnrJlC4aKA9u1AzwrDxyxZR8PWricAtJV7YJh0VVJJA9-B1c5dbcpOSiDLfzRWMVeonHuXmyjhBxtcZb3EQjqmodKaCx7kMk3sRDR7zTJhhMgq396PKcGhMcMiJBw6xxk4utwt69MjfokUmWHehwB66RgtefFOOoKlPNszeQl0zzLiBzKduYTHYb0UK9Pmk31f-8_fn6t_Jjsv-2p2_AP5Sg-4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiSXMgdGhlIGlQaG9uZSAxNyBvZmZpY2lhbGx5IGxhdW5jaGVkPyIsImxrIjoiR2lCcGN5QnBjR2h2Ym1VZ01UY2diMlptYVdOcFlXeHNlU0JzWVhWdVkyaGxaQSIsImJzIjoiYzNYT3NRckNNQlNGWVZ3ek9YZVFveUtva3diRWJrVVFSRnpjT29mMjFnUmlFdHFVNHRzYnRTMVVkUF9PdlQ5TDJlcGN3VXNxQ1FLR0dxaXJ0SWFRMmJzeU45amFReG53RGQ4bGZCMHQxUmQyZnpBN3NlbFI1VGc0cHdNMnh0WW1vOWUyZTdDTkV6NkxrQWNrZmlEWEluWmhpMDloUDl6REZvWEtsTkQ2QVMzQ1JsTC1QaGJxdXVGUEZLcm1xUlFlYW5neFJrbWFSRVhJaGFlRUk1bzBMZXREQm1ROGVnSSIsImlkIjoiZmNfU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVVfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiSXMgdGhlIGlQaG9uZSAxNyBvZmZpY2lhbGx5IGxhdW5jaGVkPyIsImxrIjoiR2lCcGN5QnBjR2h2Ym1VZ01UY2diMlptYVdOcFlXeHNlU0JzWVhWdVkyaGxaQSIsImJzIjoiYzNYT3NRckNNQlNGWVZ3ek9YZVFveUtva3diRWJrVVFSRnpjT29mMjFnUmlFdHFVNHRzYnRTMVVkUF9PdlQ5TDJlcGN3VXNxQ1FLR0dxaXJ0SWFRMmJzeU45amFReG53RGQ4bGZCMHQxUmQyZnpBN3NlbFI1VGc0cHdNMnh0WW1vOWUyZTdDTkV6NkxrQWNrZmlEWEluWmhpMDloUDl6REZvWEtsTkQ2QVMzQ1JsTC1QaGJxdXVGUEZLcm1xUlFlYW5neFJrbWFSRVhJaGFlRUk1bzBMZXREQm1ROGVnSSIsImlkIjoiZmNfU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVVfNCJ9"
+    },
+    {
+      "question": "What is the iPhone 18 release date?",
+      "type": "ai_overview",
+      "page_token": "VU6GhXicHdBfbpswHABg7TJ9bGwonYgUTco_EqvQYfxzgJfJ2AQXbKCFBsjb7tJT9TST9h3h-_tl3trm-8dNj2M_rFeraZoeq66rTPkoO7sSw9LKlRTGFEI26-efz_jXVW4On-ft7v28jaHv-Z6ixPEJIJ0X-OxGMKaxOXrSJZDVGoCRPDc-V3U0vjCOAatauBwl-IDARLsMmxiMWspa2bLWHDB5UsjsheNPufWHuK3m4tLfRYI8wSPLDnqOG9KK-vgSBscdRwoA--cQ5vcE8aFs5ijZbz_lqfHKxqcq8G5JoNMM54gFJBN3PmS87ygzC3XJSVp9Y5y_pnfSccyz8JS7B60YNOopSyMHUGSVnTCzflw40e-8NZTT7i0Gepe1sQDzGDqDV7ZUFxfCeEp3ZQBj2FYLu3gLP-k4nx6u8rZxH_5_bv5c7bjuP7rqH4s3g6E",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VU6GhXicHdBfbpswHABg7TJ9bGwonYgUTco_EqvQYfxzgJfJ2AQXbKCFBsjb7tJT9TST9h3h-_tl3trm-8dNj2M_rFeraZoeq66rTPkoO7sSw9LKlRTGFEI26-efz_jXVW4On-ft7v28jaHv-Z6ixPEJIJ0X-OxGMKaxOXrSJZDVGoCRPDc-V3U0vjCOAatauBwl-IDARLsMmxiMWspa2bLWHDB5UsjsheNPufWHuK3m4tLfRYI8wSPLDnqOG9KK-vgSBscdRwoA--cQ5vcE8aFs5ijZbz_lqfHKxqcq8G5JoNMM54gFJBN3PmS87ygzC3XJSVp9Y5y_pnfSccyz8JS7B60YNOopSyMHUGSVnTCzflw40e-8NZTT7i0Gepe1sQDzGDqDV7ZUFxfCeEp3ZQBj2FYLu3gLP-k4nx6u8rZxH_5_bv5c7bjuP7rqH4s3g6E",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaVBob25lIDE4IHJlbGVhc2UgZGF0ZT8iLCJsayI6IkdoNTNhR0YwSUdseklHbHdhRzl1WlNBeE9DQnlaV3hsWVhObElHUmhkR1UiLCJicyI6ImMzWE9zUXJDTUJTRllWd3pPWGVRb3lLb2t3YkVia1VRUkZ6Y09vZjIxZ1JpRXRxVTR0c2J0UzFVZFBfT3ZUOUwyZXBjd1VzcUNRS0dHcWlydElhUTJic3lOOWphUXhud0RkOGxmQjB0MVJkMmZ6QTdzZWxSNVRnNHB3TTJ4dFltbzllMmU3Q05FejZMa0Fja2ZpRFhJblpoaTA5aFA5ekRGb1hLbE5ENkFTM0NSbEwtUGhicXV1RlBGS3JtcVJRZWFuZ3hSa21hUkVYSWhhZUVJNW8wTGV0REJtUThlZ0kiLCJpZCI6ImZjX1NSR3hhc3ZTQ2Z2bDVOb1BvY09meVFVXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVpHTmhXREZXZDBWbWEzVkxOMVY0U0MwelVYTlhaRXQwYkV0YU1VSk5OMk5JT1djNGNGUjBSRnBFUmxCdmFVSkdiM2R6YVVJMmRUWm9aV3hyV0RobVlXaEtla0pKVG1oTlZ6VmFVV3hUT1VzMU1raHNTbkEzUVZNelp4SVhVMUpIZUdGemRsTkRablpzTlU1dlVHOWpUMlo1VVZVYUlrRkVjM0k1WmxSeFdqQTNWR2t4VEVVMWFVRlZNRk5EVVY5Sk9IcERabkpoZGtFIiwiZmN2IjoiMyIsImVpIjoiU1JHeGFzdlNDZnZsNU5vUG9jT2Z5UVUiLCJxYyI6IkNpdGthV1FnWVhCd2JHVWdjbVZoYkd4NUlHcDFjM1FnYVc1MGNtOWtkV05sSUdsd2FHOXVaU0F5TURJMUVBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaVBob25lIDE4IHJlbGVhc2UgZGF0ZT8iLCJsayI6IkdoNTNhR0YwSUdseklHbHdhRzl1WlNBeE9DQnlaV3hsWVhObElHUmhkR1UiLCJicyI6ImMzWE9zUXJDTUJTRllWd3pPWGVRb3lLb2t3YkVia1VRUkZ6Y09vZjIxZ1JpRXRxVTR0c2J0UzFVZFBfT3ZUOUwyZXBjd1VzcUNRS0dHcWlydElhUTJic3lOOWphUXhud0RkOGxmQjB0MVJkMmZ6QTdzZWxSNVRnNHB3TTJ4dFltbzllMmU3Q05FejZMa0Fja2ZpRFhJblpoaTA5aFA5ekRGb1hLbE5ENkFTM0NSbEwtUGhicXV1RlBGS3JtcVJRZWFuZ3hSa21hUkVYSWhhZUVJNW8wTGV0REJtUThlZ0kiLCJpZCI6ImZjX1NSR3hhc3ZTQ2Z2bDVOb1BvY09meVFVXzQifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "jqXUXHiczVXdkqI4GH2AfY71xh4BbWzpKmoqiai02hpt2u0riz8DCsQGWsa-mzfYh9in2qfZAKLoSvfMXGxtqmJCcvLxfeYczve_PDfY_P3bn04cb6N7jkuSpEEoJZ7dMKnP6dE-MLkV9aLQdL7ud3KrZkYyX7NdeT7rf9Oj3Rytdp74SKfUnKz2WKtlR-SloUf2mkX8to64Jcd-Nr-3uuyhETXsoNFSXpO2N3PVldZo8oLUmHC6zwDgv2svBKB0nAOlGsS21B-KhjFAajkShNmATitJhgMKyXZgOr_-TpTHUZ3sF4CpE4hOxI7QAjKozAOW04Uvh-ResvcBgsFHxV6JltdAwGUtV1pFNfgsBOiXtirjQUDO8mRAguCAB7gIQ87wCJdfr6QHYI6YYGB3O8Ah5INrZAd6Y2DOgYo-u2yK1A4sXtWLGF9VziKMuDxnhGwQONd0zGwSRimf0ZPE096t1-qrLbB7UoZ6dxT449f-frqeitse5kyD4TyqW7a1dJb81-xZaAoiL7XuOjeZkMzoqKSorCT0jo0VjokUm41RAwqFjNCRtsf_OJ8wboHLIrNHiA6IK5eCTqxB4BiZDM9iFKcVDMbuRRzNTm9jfFroNgG4LSNOt43ANRnl89M0lVGeCBOeAorrLyHY6kMpTqlmmPy7RHi50IUFo1RILoHnVFeJMgenguE5NxnWdZSUsakGns0sJ7PMYCW9EVW9SCT9PrBLUZRjmBybt_6pHrbTwxnlnVQ3RNMIO6QcCJ8emIHjt-hCB-RCSEVbsN5zPhF8ZaOfQ5hsDnq5oH9ZNoO1tQqXA9102-TJXc2g9rYh7Xckzh18XSbUN37Cccz_lZByP1IPflQtJPWHhIQxqvajfHryozQRiDGuEBJ6qPCj2wJy8qNLIcFRSUjOx370s0JCHwqpEOlVIaHNYbcsJFQlpMKPykJyH879qJzsyY-OQvolP6K_5keZrux8ODentzWpNKmBKuE5b_iGHjaH4dx1mq-dx6a2n0gS-NSkVn587-uWd7N0rXvYfIj31s2SLdB726q9ypZr1fXt1rProa173r6-foviuhvEIbXeTLvubh0a2PUm3xRrvhdSmdfFrd11W-1pD33RB9N-e0A3467xPpkHPu09SW2q-k4i2PYkeLRUaUbpTA-WOFSJY2-mwXZGjR0_2Y96j1NNHM7eyRdvZC40RRQV7SmZtJfrYecuIeoI6fDuOW56SFskfyz3nhTxu2ewWPjiNFFjYdgZTw0f2wtr9QVkuUXyK1Q03-2-wDmpsRojWxZqfmjKjBa3BDxisCCMmOiFMYqwTllPWG8DrMBaZOpLO9rJhmlI7eadyZuiJfDSXc0n8X4r3wq1KAhl4R-emUYU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jqXUXHiczVXdkqI4GH2AfY71xh4BbWzpKmoqiai02hpt2u0riz8DCsQGWsa-mzfYh9in2qfZAKLoSvfMXGxtqmJCcvLxfeYczve_PDfY_P3bn04cb6N7jkuSpEEoJZ7dMKnP6dE-MLkV9aLQdL7ud3KrZkYyX7NdeT7rf9Oj3Rytdp74SKfUnKz2WKtlR-SloUf2mkX8to64Jcd-Nr-3uuyhETXsoNFSXpO2N3PVldZo8oLUmHC6zwDgv2svBKB0nAOlGsS21B-KhjFAajkShNmATitJhgMKyXZgOr_-TpTHUZ3sF4CpE4hOxI7QAjKozAOW04Uvh-ResvcBgsFHxV6JltdAwGUtV1pFNfgsBOiXtirjQUDO8mRAguCAB7gIQ87wCJdfr6QHYI6YYGB3O8Ah5INrZAd6Y2DOgYo-u2yK1A4sXtWLGF9VziKMuDxnhGwQONd0zGwSRimf0ZPE096t1-qrLbB7UoZ6dxT449f-frqeitse5kyD4TyqW7a1dJb81-xZaAoiL7XuOjeZkMzoqKSorCT0jo0VjokUm41RAwqFjNCRtsf_OJ8wboHLIrNHiA6IK5eCTqxB4BiZDM9iFKcVDMbuRRzNTm9jfFroNgG4LSNOt43ANRnl89M0lVGeCBOeAorrLyHY6kMpTqlmmPy7RHi50IUFo1RILoHnVFeJMgenguE5NxnWdZSUsakGns0sJ7PMYCW9EVW9SCT9PrBLUZRjmBybt_6pHrbTwxnlnVQ3RNMIO6QcCJ8emIHjt-hCB-RCSEVbsN5zPhF8ZaOfQ5hsDnq5oH9ZNoO1tQqXA9102-TJXc2g9rYh7Xckzh18XSbUN37Cccz_lZByP1IPflQtJPWHhIQxqvajfHryozQRiDGuEBJ6qPCj2wJy8qNLIcFRSUjOx370s0JCHwqpEOlVIaHNYbcsJFQlpMKPykJyH879qJzsyY-OQvolP6K_5keZrux8ODentzWpNKmBKuE5b_iGHjaH4dx1mq-dx6a2n0gS-NSkVn587-uWd7N0rXvYfIj31s2SLdB726q9ypZr1fXt1rProa173r6-foviuhvEIbXeTLvubh0a2PUm3xRrvhdSmdfFrd11W-1pD33RB9N-e0A3467xPpkHPu09SW2q-k4i2PYkeLRUaUbpTA-WOFSJY2-mwXZGjR0_2Y96j1NNHM7eyRdvZC40RRQV7SmZtJfrYecuIeoI6fDuOW56SFskfyz3nhTxu2ewWPjiNFFjYdgZTw0f2wtr9QVkuUXyK1Q03-2-wDmpsRojWxZqfmjKjBa3BDxisCCMmOiFMYqwTllPWG8DrMBaZOpLO9rJhmlI7eadyZuiJfDSXc0n8X4r3wq1KAhl4R-emUYU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Apple iPhone 18 Pro Max Unboxing, Hands On & First ...",
+      "link": "https://www.youtube.com/watch?v=SayxlX8pHmk",
+      "displayed_link": "81.6K+ views · 2 days ago",
+      "thumbnail": "https://serpapi.com/searches/6ab11148af5fdc09b8b4ff22/images/FFOI7pZ54lhrrZrGqpObt2YCplHi83i_I4WSFr-qc3E.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "iPhone 18 Pro Max VS iPhone 14 Pro Max In 2025 (Camera Test, PUBG & Display & Speed Test & Speakers)",
+      "duration": "15:16",
+      "about_this_result": {
+        "source": {
+          "description": "iPhone 18 Pro Max VS iPhone 14 Pro Max In 2025 (Camera Test, PUBG & Display & Speed Test & Speakers)",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVll0V3pOdmtKRW5aaFdvcnpIWmVpek9EYzBvaHVlVWZEN05EZ2huZ1g2UUVqVW5qb2xZUHg4MXdmWlNKUks0MEdHcjJFRGg4T3ZkUnJlMkxWN1NMQURxT0g0QUo2WHpXWlVNdTFMSzJrcE4wMkxMU3g5bE5CVGdtbmZxN05LdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVll0V3pOdmtKRW5aaFdvcnpIWmVpek9EYzBvaHVlVWZEN05EZ2huZ1g2UUVqVW5qb2xZUHg4MXdmWlNKUks0MEdHcjJFRGg4T3ZkUnJlMkxWN1NMQURxT0g0QUo2WHpXWlVNdTFMSzJrcE4wMkxMU3g5bE5CVGdtbmZxN05LdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · TechDaily"
+    },
+    {
+      "position": 2,
+      "title": "Introducing SwiftUI: Building Your First App - WWDC19",
+      "link": "https://developer.apple.com/videos/play/wwdc2019/204/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAV_R7lAB1XWeCXp5RAOE8El9dOWsbwibXyA49IlvmNXtHKh5zYnCPaMgQb6uBnLS-siDLXJLDCcw7UhucILR_UQFte3_99zEvzjvtOXsFn9gCBS69IEaPMw07x7Q-s8nPpo77LzHeniiQ&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://developer.apple.com › videos › play › wwdc2019",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEzZ6__Z6__Z6__Z6__Z6__Z6__Z6__Z6__c7f-_3v91r__i8f-cyP8Abv8Adf9Imv8Yhv-v1f8Aev8TGYZ5AAAACXRSTlMATpXL6_8SpJAta5EaAAAA7ElEQVR4AYVTB5LAIAjEgrFiyv_feh0lnDNueqhLAQFjnUf0zhpYIBwocAQtj6gQ3-Ye_8EHIcclwlqeUtIa_iXPJbOGX-RXG5HKVCVA_azvNA4ZHhtdMwfEAwCmd2x3zTe2htMHgBnmhTo95aTeqQwNA5btz_584-dON4ex4P7sb3oYQo4OPAfoU0Hw8CAiMHoRPLYKyxCXDMFJNqHQJ003aCI9E7PcFoxKQmVhAEabSSggQzSrFvoWffuhlkSzAruoJ9FVykOiFUEOTKo511TrnYc86pH78Tznweuh3Y-1lu8XZ796--Xdrv8nyrEaFigCoBoAAAAASUVORK5CYII.png",
+      "snippet": "Introducing SwiftUI: Building Your First App. See SwiftUI in action! Watch as engineers from the SwiftUI team build a fully-functioning app from scratch.",
+      "snippet_highlighted_words": [
+        "Introducing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Introducing SwiftUI: Building Your First App. See SwiftUI in action! Watch as engineers from the SwiftUI team build a fully-functioning app from scratch.",
+          "source_info_link": "https://developer.apple.com/videos/play/wwdc2019/204/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEzZ6__Z6__Z6__Z6__Z6__Z6__Z6__Z6__c7f-_3v91r__i8f-cyP8Abv8Adf9Imv8Yhv-v1f8Aev8TGYZ5AAAACXRSTlMATpXL6_8SpJAta5EaAAAA7ElEQVR4AYVTB5LAIAjEgrFiyv_feh0lnDNueqhLAQFjnUf0zhpYIBwocAQtj6gQ3-Ye_8EHIcclwlqeUtIa_iXPJbOGX-RXG5HKVCVA_azvNA4ZHhtdMwfEAwCmd2x3zTe2htMHgBnmhTo95aTeqQwNA5btz_584-dON4ex4P7sb3oYQo4OPAfoU0Hw8CAiMHoRPLYKyxCXDMFJNqHQJ003aCI9E7PcFoxKQmVhAEabSSggQzSrFvoWffuhlkSzAruoJ9FVykOiFUEOTKo511TrnYc86pH78Tznweuh3Y-1lu8XZ796--Xdrv8nyrEaFigCoBoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVl9SN2xBQjFYV2VDWHA1UkFPRThFbDlkT1dzYndpYlh5QTQ5SWx2bU5YdEhLaDV6WW5DUGFNZ1FiNnVCbkxTLXNpRExYSkxEQ2N3N1VodWNJTFJfVVFGdGUzXzk5ekV2emp2dE9Yc0ZuOWdDQlM2OUlFYVBNdzA3eDdRLXM4blBwbzc3THpIZW5paVESBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVl9SN2xBQjFYV2VDWHA1UkFPRThFbDlkT1dzYndpYlh5QTQ5SWx2bU5YdEhLaDV6WW5DUGFNZ1FiNnVCbkxTLXNpRExYSkxEQ2N3N1VodWNJTFJfVVFGdGUzXzk5ekV2emp2dE9Yc0ZuOWdDQlM2OUlFYVBNdzA3eDdRLXM4blBwbzc3THpIZW5paVESBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Apple Developer",
+      "read_more_link": "https://developer.apple.com/videos/play/wwdc2019/204/#:~:text=Introducing%20SwiftUI%3A%20Building%20Your%20First,a%20fully%2Dfunctioning%20app%20from%20scratch."
+    },
+    {
+      "position": 3,
+      "title": "How to introduce yourself in a natural, advanced way. (C1+ ...",
+      "link": "https://www.youtube.com/watch?v=dh4yzc7pegw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV-swG6Vov5vlwzz8xzRHnUJfaqGho_R4yqcsTwOomc7rQCefxOuN4zXLKYxBvIDFUvMSdWV73DSGZRSvP9WJT_uEf-xgxstcTs5qSlFcJCAGelokv4zxccHpfcYOmxg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "May 9, 2025",
+      "snippet": "I'll teach you how to introduce yourself in English at an advanced (C1) level. Self-introduction at the highest level!",
+      "snippet_highlighted_words": [
+        "introduce",
+        "introduction"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'll teach you how to introduce yourself in English at an advanced (C1) level. Self-introduction at the highest level!",
+          "source_info_link": "https://www.youtube.com/watch?v=dh4yzc7pegw",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVi1zd0c2Vm92NXZsd3p6OHh6UkhuVUpmYXFHaG9fUjR5cWNzVHdPb21jN3JRQ2VmeE91TjR6WExLWXhCdklERlV2TVNkV1Y3M0RTR1pSU3ZQOVdKVF91RWYteGd4c3RjVHM1cVNsRmNKQ0FHZWxva3Y0enhjY0hwZmNZT214ZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVi1zd0c2Vm92NXZsd3p6OHh6UkhuVUpmYXFHaG9fUjR5cWNzVHdPb21jN3JRQ2VmeE91TjR6WExLWXhCdklERlV2TVNkV1Y3M0RTR1pSU3ZQOVdKVF91RWYteGd4c3RjVHM1cVNsRmNKQ0FHZWxva3Y0enhjY0hwZmNZT214ZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 4,
+      "title": "6 Tips to Introduce Cats FASTER (With NO Isolation)",
+      "link": "https://www.youtube.com/watch?v=wJJNINohucM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV1Oh79Wav5arof42B0Bw0XcC0DUFoT9NRib7OUfduTDjIOOPGnJ-pkVCGsylWLdXQfqj8_HN7sLwbNpAGUBwGySVDp0Rb_6NsJHkF93Tb88cJhhC9d_pxtRfp5anotA&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Aug 18, 2021",
+      "snippet": "These are the 6 tips to introduce cats and kittens faster! Introduce Cats & Kittens WITHOUT Separation/Isolation (Fastest Method!)",
+      "snippet_highlighted_words": [
+        "introduce",
+        "Introduce"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These are the 6 tips to introduce cats and kittens faster! Introduce Cats & Kittens WITHOUT Separation/Isolation (Fastest Method!)",
+          "source_info_link": "https://www.youtube.com/watch?v=wJJNINohucM",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjFPaDc5V2F2NWFyb2Y0MkIwQncwWGNDMERVRm9UOU5SaWI3T1VmZHVURGpJT09QR25KLXBrVkNHc3lsV0xkWFFmcWo4X0hON3NMd2JOcEFHVUJ3R3lTVkRwMFJiXzZOc0pIa0Y5M1RiODhjSmhoQzlkX3B4dFJmcDVhbm90QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjFPaDc5V2F2NWFyb2Y0MkIwQncwWGNDMERVRm9UOU5SaWI3T1VmZHVURGpJT09QR25KLXBrVkNHc3lsV0xkWFFmcWo4X0hON3NMd2JOcEFHVUJ3R3lTVkRwMFJiXzZOc0pIa0Y5M1RiODhjSmhoQzlkX3B4dFJmcDVhbm90QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 5,
+      "title": "How to INTRODUCE Yourself in English",
+      "link": "https://www.youtube.com/watch?v=N0hqwvMCvUk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVfSFaeYqq7_D7GyDS3SU6382jpzL-Zu4lc3Po0t3XbYYfXKS5OhQEHRpLMVwcSHYIVvRoOaHQ8A1d2X-p2BSOi1bfhdM_VVrlYY9L-LBmPHmDp2A--o-BYcCQB4mA4Q&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Apr 16, 2021",
+      "snippet": "Learn how to introduce yourself confidently and clearly in English. Download the free PDF for this lesson: https://speakenglishwi.",
+      "snippet_highlighted_words": [
+        "Learn how to introduce yourself confidently and clearly in English"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn how to introduce yourself confidently and clearly in English. Download the free PDF for this lesson: https://speakenglishwi.",
+          "source_info_link": "https://www.youtube.com/watch?v=N0hqwvMCvUk",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmZTRmFlWXFxN19EN0d5RFMzU1U2MzgyanB6TC1adTRsYzNQbzB0M1hiWVlmWEtTNU9oUUVIUnBMTVZ3Y1NIWUlWdlJvT2FIUThBMWQyWC1wMkJTT2kxYmZoZE1fVlZybFlZOUwtTEJtUEhtRHAyQS0tby1CWWNDUUI0bUE0URIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmZTRmFlWXFxN19EN0d5RFMzU1U2MzgyanB6TC1adTRsYzNQbzB0M1hiWVlmWEtTNU9oUUVIUnBMTVZ3Y1NIWUlWdlJvT2FIUThBMWQyWC1wMkJTT2kxYmZoZE1fVlZybFlZOUwtTEJtUEhtRHAyQS0tby1CWWNDUUI0bUE0URIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube",
+      "read_more_link": "https://www.youtube.com/watch?v=N0hqwvMCvUk#:~:text=How%20to%20INTRODUCE%20Yourself%20in"
+    },
+    {
+      "position": 6,
+      "title": "How To Introduce Cats To One Another",
+      "link": "https://www.youtube.com/watch?v=ukO8Qm9ltVA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVtaFxAnh459DZu2Qz6bip_HHvcCNRIQBD_4Op4D6BTFdGkNN-ogA9q-G6XM3VfT8OK10DhVZVToKuSIQfRtO1Ef65WskOiIOV639fBOTNlladmwvZUQvPfXK2yN3KYQ&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Dec 5, 2025",
+      "snippet": "Introducing two cats can feel overwhelming, but it doesn't have to be. In this video, we walk you through how to introduce cats to one another ...",
+      "snippet_highlighted_words": [
+        "Introducing",
+        "introduce"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Introducing two cats can feel overwhelming, but it doesn't have to be. In this video, we walk you through how to introduce cats to one another ...",
+          "source_info_link": "https://www.youtube.com/watch?v=ukO8Qm9ltVA",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnRhRnhBbmg0NTlEWnUyUXo2YmlwX0hIdmNDTlJJUUJEXzRPcDRENkJURmRHa05OLW9nQTlxLUc2WE0zVmZUOE9LMTBEaFZaVlRvS3VTSVFmUnRPMUVmNjVXc2tPaUlPVjYzOWZCT1RObGxhZG13dlpVUXZQZlhLMnlOM0tZURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnRhRnhBbmg0NTlEWnUyUXo2YmlwX0hIdmNDTlJJUUJEXzRPcDRENkJURmRHa05OLW9nQTlxLUc2WE0zVmZUOE9LMTBEaFZaVlRvS3VTSVFmUnRPMUVmNjVXc2tPaUlPVjYzOWZCT1RObGxhZG13dlpVUXZQZlhLMnlOM0tZURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 7,
+      "title": "How to introduce yourself in English (confidently)",
+      "link": "https://www.youtube.com/watch?v=8laYlyAFd0o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVzqzIOaF5Oile4NkB2gIT9DCV3g8iis03grS08WvMAuH6TptUJdf9hUrk9-WddzlZhQG46XeSQ4jJU2o6pNj7ScqfQXsflpuBZXSN4iJLt26UPGNMCiVZByQm5goD7A&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Jul 12, 2024",
+      "snippet": "In this video, we're diving into the art of self-introduction! knowing how to introduce yourself can make a huge 10:18 Templates!",
+      "snippet_highlighted_words": [
+        "introduction",
+        "introduce"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video, we're diving into the art of self-introduction! knowing how to introduce yourself can make a huge 10:18 Templates!",
+          "source_info_link": "https://www.youtube.com/watch?v=8laYlyAFd0o",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnpxeklPYUY1T2lsZTROa0IyZ0lUOURDVjNnOGlpczAzZ3JTMDhXdk1BdUg2VHB0VUpkZjloVXJrOS1XZGR6bFpoUUc0NlhlU1E0akpVMm82cE5qN1NjcWZRWHNmbHB1QlpYU040aUpMdDI2VVBHTk1DaVZaQnlRbTVnb0Q3QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnpxeklPYUY1T2lsZTROa0IyZ0lUOURDVjNnOGlpczAzZ3JTMDhXdk1BdUg2VHB0VUpkZjloVXJrOS1XZGR6bFpoUUc0NlhlU1E0akpVMm82cE5qN1NjcWZRWHNmbHB1QlpYU040aUpMdDI2VVBHTk1DaVZaQnlRbTVnb0Q3QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 8,
+      "title": "How To Introduce Your Cat to a New KITTEN!",
+      "link": "https://www.youtube.com/watch?v=4DlJYcfiRu4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVx9kUyQ6l8jONJONZDqQNiZRhGooElKXYlPnjKzzi5Tk1TXlmkCyk-Ai3WcFp68wr8KOyaSdEHf_uV8JAOykeCI_N0DfPd01707eS337Evc6NzARcW9g11YmQG9FSIg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Jul 17, 2021",
+      "snippet": "In this video, we are introducing Livinia's territorial cat Charlie to a new kitten named J.J. and Charlie is not happy.",
+      "snippet_highlighted_words": [
+        "introducing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video, we are introducing Livinia's territorial cat Charlie to a new kitten named J.J. and Charlie is not happy.",
+          "source_info_link": "https://www.youtube.com/watch?v=4DlJYcfiRu4",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVng5a1V5UTZsOGpPTkpPTlpEcVFOaVpSaEdvb0VsS1hZbFBuakt6emk1VGsxVFhsbWtDeWstQWkzV2NGcDY4d3I4S095YVNkRUhmX3VWOEpBT3lrZUNJX04wRGZQZDAxNzA3ZVMzMzdFdmM2TnpBUmNXOWcxMVltUUc5RlNJZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVng5a1V5UTZsOGpPTkpPTlpEcVFOaVpSaEdvb0VsS1hZbFBuakt6emk1VGsxVFhsbWtDeWstQWkzV2NGcDY4d3I4S095YVNkRUhmX3VWOEpBT3lrZUNJX04wRGZQZDAxNzA3ZVMzMzdFdmM2TnpBUmNXOWcxMVltUUc5RlNJZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 9,
+      "title": "Introduce Cats & Kittens WITHOUT Separation/Isolation ...",
+      "link": "https://www.youtube.com/watch?v=8zjSE8bEdfw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVYdBa4b5G7K_44VqOFyt7yS0_oKMJiNV6vyYlbsqPRgY-J2IhoLfcG9mfY145pHgHJxRT5SuVV__J-rT29G4DRuBeZq2Lrn18JLNfoOyffeJUNJ6Sn_3f4rTBzdM-wg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQFnoECDUQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Dec 7, 2020",
+      "snippet": "This is a step-by-step guide to go about the cat-to-cat introduction process in a one-room apartment, studio apartment, or even introducing ...",
+      "snippet_highlighted_words": [
+        "introduction",
+        "introducing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This is a step-by-step guide to go about the cat-to-cat introduction process in a one-room apartment, studio apartment, or even introducing ...",
+          "source_info_link": "https://www.youtube.com/watch?v=8zjSE8bEdfw",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVllkQmE0YjVHN0tfNDRWcU9GeXQ3eVMwX29LTUppTlY2dnlZbGJzcVBSZ1ktSjJJaG9MZmNHOW1mWTE0NXBIZ0hKeFJUNVN1VlZfX0otclQyOUc0RFJ1QmVacTJMcm4xOEpMTmZvT3lmZmVKVU5KNlNuXzNmNHJUQnpkTS13ZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVllkQmE0YjVHN0tfNDRWcU9GeXQ3eVMwX29LTUppTlY2dnlZbGJzcVBSZ1ktSjJJaG9MZmNHOW1mWTE0NXBIZ0hKeFJUNVN1VlZfX0otclQyOUc0RFJ1QmVacTJMcm4xOEpMTmZvT3lmZmVKVU5KNlNuXzNmNHJUQnpkTS13ZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=10&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8NMDegQINBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=10&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=20&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=30&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=40&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=50&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=60&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=70&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAQ",
+      "9": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=80&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAS",
+      "10": "https://www.google.com/search?q=did+apple+really+just+introduce+iphone+2025&sca_esv=bcb9627c0c5d1097&ei=SRGxasvSCfvl5NoPocOfyQU&start=90&sa=N&sstk=AS6-VmI3Kn5vuAt8i4Gz5VncXqLcgqST0RqScrVUO1KVuAx1uCS5rGSNnXvgmTVs6ZQZvJJnvXkoquBm-Jrz_qDXUKJWBZO9luHSfg&ved=2ahUKEwiLm4qwxf-WAxX7MlkFHaHhJ1kQ8tMDegQINBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=did+apple+really+just+introduce+iphone+2025&start=90"
+    }
+  }
+}

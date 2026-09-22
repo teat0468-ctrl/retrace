@@ -1,0 +1,494 @@
+{
+  "search_metadata": {
+    "id": "6ab22a525c018f465e0e05b0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mrxDmmTddJxjnRqROWfrkLm28OZYI8Gc2pUPA1uLkys/6ab22a525c018f465e0e05b0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mrxDmmTddJxjnRqROWfrkLm28OZYI8Gc2pUPA1uLkys/6ab22a525c018f465e0e05b0.md",
+    "created_at": "2026-09-22 07:12:18 UTC",
+    "processed_at": "2026-09-22 07:12:18 UTC",
+    "google_news_url": "https://news.google.com/search?q=india+post+really+running+dak+seva+new+update",
+    "raw_html_file": "https://serpapi.com/searches/mrxDmmTddJxjnRqROWfrkLm28OZYI8Gc2pUPA1uLkys/6ab22a525c018f465e0e05b0.html",
+    "total_time_taken": 7.73
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "india post really running dak seva new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Government Flags Fake India Post 'Dak Seva Gifts' Messages Circulating On Social Media",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Srishti Sisodia"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/government-flags-fake-india-post-dak-seva-gifts-messages-circulating-on-social-media-11570755",
+      "thumbnail": "https://c.ndtvimg.com/2026-05/qssf42ls_india-post_625x300_31_May_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRPV1JtWVVRdFZEaG9WVWxQVFJDZkF4ampCU2dLTWdZZEpaRHNIUWc",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "India Post GDS recruitment 2026: Applications open for over 23,000 posts; check salary and how to apply",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/education/news/india-post-gds-recruitment-2026-applications-open-tomorrow-for-over-25000-posts-check-salary-and-how-to-apply/articleshow/133669328.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133669662,width-1280,height-720,imgsize-98724,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHphazFqU2xwaFJXVnhaM1pQVFJDZkF4ampCU2dLTWdhVklhVFdsQW8",
+      "date": "09/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-02T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "India Post GDS Recruitment 2026 Out For 23757 Posts, Check Full Details",
+      "source": {
+        "name": "Adda247",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.adda247.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.adda247.com/jobs/india-post-gds-recruitment-2026-out/",
+      "thumbnail": "https://www.adda247.com/jobs/wp-content/uploads/2026/08/27102800/India-Post-GDS-Recruitment-2026.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZhRE5KV1hKWU5qRTVhVFZZVFJDZkF4ampCU2dLTWdhQmNwS3JyUWM",
+      "date": "09/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-19T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "India Post GDS 2026: 23,757 jobs, no exam — apply by 21 Sept",
+      "source": {
+        "name": "indianpaycalculator.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indianpaycalculator.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indianpaycalculator.in/govt-news/india-post-gds-2026-23757-posts-no-exam-class-10",
+      "thumbnail": "https://www.indianpaycalculator.in/news-images/india-post-gds-2026-23757-posts-no-exam-class-10-en.jpg?v=a7a69f18",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFNRmgxVTJRMVIyODBlWFI0VFJDUkF4ajhCU2dLTWdhWk1ZWnZtUVk",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Revamped Dak Sewa and Dak MITRA apps mark modern & accessible India Post",
+      "source": {
+        "name": "News On AIR",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newsonair.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newsonair.gov.in/revamped-dak-sewa-and-dak-mitra-apps-mark-modern-accessible-india-post/",
+      "thumbnail": "https://newsonair.gov.in/wp-content/uploads/2026/08/dak.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjekl4UkRReVRGODBUVmw1VFJDUUF4aVFBeWdLTWdhQmdwU0VOZ2M",
+      "date": "08/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-24T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Two Nagpur post offices get modern makeover",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rose Bachwani"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/nagpur/two-nagpur-post-offices-get-modern-makeover/articleshow/133478051.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133478046,width-1280,height-720,imgsize-94076,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFTazFNYVRrd01qazJSRVZxVFJDZ0F4amlCU2dLTWdZQmNKQk50UWM",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "India Post GDS Result 2026 Declared: India Post Merit List, circle-wise result result announced; direct link,",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumaila Zaman"
+        ]
+      },
+      "link": "https://www.india.com/education/india-post-gds-result-2026-declared-live-india-post-merit-list-circle-wise-result-result-announced-direct-link-know-how-to-check-indiapost-gov-in-and-indiapostgdsonline-gov-in-8333288/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/03/PIC-4-1.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXR281UjIxeFVIaG5jMUkxVFJERUF4aW1CU2dLTWdZUk1aakpIQW8",
+      "date": "03/07/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-07T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "India Post GDS Notification 2026 Out: 10वीं पास तैयार रहें, जुलाई भर्ती की पूरी Details",
+      "source": {
+        "name": "PW",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pw.live&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pw.live/ssc/exams/india-post-gds-notification-2026-out",
+      "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/b6c5e4e1-35e4-4157-8d93-6d66f5967029.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhZVGd3V0dkUlVGOXNZVmR4VFJDZkF4ampCU2dLTWdZQmVaS2p0Z1k",
+      "date": "08/27/2026, 06:13 AM, +0000 UTC",
+      "iso_date": "2026-08-27T06:13:43Z"
+    },
+    {
+      "position": 9,
+      "title": "India Post GDS 2026 4th Merit List Out Soon: Check Expected Release Date And Updates",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanka Negi"
+        ]
+      },
+      "link": "https://www.ndtv.com/education/india-post-gds-2026-4th-merit-list-out-soon-check-expected-release-date-and-updates-11540132",
+      "thumbnail": "https://c.ndtvimg.com/2026-05/3mh87l38_india-post-gds-2026-4th-merit_625x300_24_May_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhTMEYxZVVkblFqbFdibUZOVFJDZkF4ampCU2dLTWdhQkk1VHJJUWc",
+      "date": "05/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-24T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "India Post GDS Recruitment 2026: Check circle-wise vacancies for 23,757 posts here",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/education/news/india-post-gds-recruitment-2026-check-circle-wise-vacancies-for-23757-posts-here/articleshow/133588610.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133588690,width-1280,height-720,imgsize-158265,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVWbEp5ZWtOR1ZrMVFlREpOVFJDZkF4ampCU2dLTWdZQklwQlFMUWM",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "India Post GDS 2026: 23,757 vacancies open, registration begins today",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/jobs/story/india-post-gds-schedule-ii-registration-2026-fresh-registration-required-2983653-2026-08-31",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/india-post-gds-315435326-16x9_0.jpeg?VersionId=7WmLzscW6x28SZSiqtXV.qsu6LYaYom.&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpkbkprVW13MmJqTXdlVVJXVFJDZkF4ampCU2dLTWdZTkVJaXlQQVU",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "India International Trade Fair 2024 begins today: Ticket prices, timings, venue, and how to book",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/india/india-international-trade-fair-2024-begins-today-ticket-prices-timings-venue-and-how-to-book/exhibitors-and-international-participation/slideshow/115290098.cms",
+      "thumbnail": "https://img.etimg.com/thumb/msid-115290107,width-480,height-360,imgsize-92924,resizemode-75/india-international-trade-fair-2024-opens.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdXVUZ1VGpabFVFcExVakJ1VFJEb0FoamdBeWdLTWdrQlVJYTFIR2lTemdF",
+      "date": "11/14/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-11-14T08:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "India Post GDS Apply Online 2026 Ends Today, Fill Application Form Before 5 PM",
+      "source": {
+        "name": "Adda247",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.adda247.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.adda247.com/jobs/india-post-gds-apply-online-2026/",
+      "thumbnail": "https://www.adda247.com/jobs/wp-content/uploads/2026/09/02153018/India-Post-GDS-Apply-Online-2026-Link.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNkRlZ4ZWxKVFIyVkZTMFl6VFJDZkF4ampCU2dLTWdhZEpaYnJuUWs",
+      "date": "01/31/2026, 12:41 PM, +0000 UTC",
+      "iso_date": "2026-01-31T12:41:39Z"
+    },
+    {
+      "position": 14,
+      "title": "India Post GDS recruitment 2025: Apply for 21,413 posts at official website",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sonika Nitin Nimje"
+        ]
+      },
+      "link": "https://www.business-standard.com/education/news/india-post-gds-recruitment-2025-apply-for-21-413-posts-at-official-website-nc-125021101541_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-03/30/full/1585509097-1349.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZObkIwY1RoWFlYaFFiQzFaVFJEUUF4anNCQ2dLTWdZQk1JelByQVU",
+      "date": "02/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-11T08:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "India Post Office Recruitment 2026 - Gramin Dak Sevak 5th Merit List (Out Soon)",
+      "source": {
+        "name": "competition.careers360.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://competition.careers360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://competition.careers360.com/articles/india-post-recruitment",
+      "thumbnail": "https://cache.careers360.mobi/media/article_images/2025/12/2/India-post-recruitment.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkakk0TFcxNUxYSmtWakppVFJDZkF4ampCU2dLTWdhaEZwUXJGZ28",
+      "date": "07/17/2024, 04:55 AM, +0000 UTC",
+      "iso_date": "2024-07-17T04:55:45Z"
+    },
+    {
+      "position": 16,
+      "title": "India Post GDS recruitment 2026: Last date to apply tomorrow for 28,686 posts, direct link here",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/education/news/india-post-gds-recruitment-2026-last-date-to-apply-for-28686-posts-direct-link-here/articleshow/128298264.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-128298251,width-1280,height-720,imgsize-58842,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1iRGgyTjNFelNuazBRVEl0VFJDZkF4ampCU2dLTWdZOWdwUVNzUVk",
+      "date": "02/13/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-13T08:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "India Post Gramin Dak Sevak Recruitment 2026: Check Dates, Eligibility & How to Apply Online for 28,740 Posts",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harshika Yadav"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/india-post-gramin-dak-sevak-recruitment-2026-check-dates-eligibility-and-how-to-apply-online-steps-1486453.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/02/indiapost1-1770044822.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRRVEJDU1dkV2NYQm9WVGRWVFJEU0FoallCQ2dLTWdB",
+      "date": "02/02/2026, 03:12 PM, +0000 UTC",
+      "iso_date": "2026-02-02T15:12:43Z"
+    },
+    {
+      "position": 18,
+      "title": "India Post GDS 2026 Registration Begins Today For 23,757 Posts: Check Circle-Wise Vacancies",
+      "source": {
+        "name": "PW",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pw.live&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Varnika Srivastava"
+        ]
+      },
+      "link": "https://www.pw.live/news/india-post-gds-2026-registration-begins-23757-posts-vacancy",
+      "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/dc99e48b-cdc3-4727-871e-4923c1c7edee.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFTWEJIYVRaRWRETnBPV1IzVFJDMkF4aTlCU2dLTWdZaGNKS01MQWM",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "India temporarily suspends most postal services to US; effective August 25 amid new customs order – Know",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/india-temporarily-suspends-most-postal-services-to-us-effective-august-25-amid-new-customs-order-know-whats-exempt-from-the-ban/articleshow/123469918.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-123469928,width-1280,height-720,resizemode-4/123469928.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlZMnRSYVVNd01UVkRSakZXVFJDZkF4ampCU2dLTWdhQklJRHBwUWM",
+      "date": "08/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-24T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "India Post GDS 3rd merit list 2025 out at indiapostgdsonline.gov.in, check state-wise result PDF here",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/education/news/india-post-gds-3rd-merit-list-2025-out-at-indiapostgdsonline-gov-in-check-state-wise-result-pdf-here/articleshow/121273105.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-121273127,width-1280,height-720,resizemode-4/121273127.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XVjlVVEdOcWEyMTZZMEZqVFJDZkF4ampCU2dLTWdZUkFvb01qUW8",
+      "date": "05/20/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-20T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "India Post To Fill 233 Gramin Dak Sevak Posts In Delhi Postal Circle",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maitree Baral"
+        ]
+      },
+      "link": "https://www.ndtv.com/jobs/gds-recruitment-2021-for-233-gramin-dak-sevak-posts-in-delhi-postal-circle-2358644",
+      "thumbnail": "https://c.ndtvimg.com/bu38h30s_india-post-payments-bank_625x300_01_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=400,height=225&q=70",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlRMVZPVUZKTk9YRjZYMWxIVFJEaEFSaVFBeWdLTWdrQkFJNkROZWFoZ3dJ",
+      "date": "01/27/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-27T08:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "India Post Recruitment 2019: Apply for 1,735 Gramin Dak Sevaks Posts at appost.in. All You Need to Know",
+      "source": {
+        "name": "news18.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/news/india/india-post-recruitment-2019-apply-for-1735-gramin-dak-sevaks-posts-at-appost-in-all-you-need-to-know-2176387.html",
+      "date": "06/07/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-06-07T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "28 UIDAI-run Aadhaar Seva Kendras operational across the country",
+      "source": {
+        "name": "IBG News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ibgnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ibgnews.com/2020/01/02/28-uidai-run-aadhaar-seva-kendras-operational-across-the-country/",
+      "thumbnail": "https://ibgnews.com/wp-content/uploads/2017/01/Aadhaar-Card-India.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBTakJQZVZvMmFIZFlibGxxVFJDZEF4am5CU2dLTWdhTk00aHdUUVE",
+      "date": "01/02/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-01-02T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Got Dak Seva Gifts message? It can drain your bank account in seconds, how to stay safe",
+      "source": {
+        "name": "digit.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.digit.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.digit.in/news/general/got-dak-seva-gifts-message-it-can-drain-your-bank-account-in-seconds-how-to-stay-safe.html",
+      "thumbnail": "https://static.digit.in/Dak-Seva-Gifts-message.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhNelJpTldoS1NEZDFkVGxPVFJDZkF4ampCU2dLTWdZTkJZTG9oUXc",
+      "date": "03/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-16T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Dak Seva vs Dak Mitra: Know the Difference Between India Post’s Two New Apps",
+      "source": {
+        "name": "currentaffairs.adda247.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://currentaffairs.adda247.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://currentaffairs.adda247.com/dak-seva-vs-dak-mitra-know-the-difference-between-india-posts-two-new-apps/",
+      "thumbnail": "https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2026/08/26085357/Untitled-design-2026-08-25T205150.516.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxla2RKT1ZGT2RYTTRjMU5aVFJDZkF4ampCU2dLTWdZWnNvN1RSQVU",
+      "date": "08/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-26T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "PIB Fact Check debunks message claiming India Post is offeri",
+      "source": {
+        "name": "Eastern Mirror",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.easternmirrornagaland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.easternmirrornagaland.com/pib-fact-check-debunks-message-claiming-india-post-is-offering-gifts-or-rewards",
+      "thumbnail": "https://easternmirror-assets.s3.ap-south-1.amazonaws.com/images/2026/05/PIB-1780229717178.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNlVWxaZUdGMFMyeElRbWd6VFJDb0F4alRCU2dLTWdZaFJZN3NvUWM",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "India Post GDS Recruitment 2026 - Apply Online Form for 28636 Posts",
+      "source": {
+        "name": "FreeJobAlert.Com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.freejobalert.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sivasankari Sekar"
+        ]
+      },
+      "link": "https://www.freejobalert.com/articles/indian-post-office-gds-recruitment-2026-3036182",
+      "thumbnail": "https://img2.freejobalert.com/freejobalert/2026/01/india-post-gds-recruitment-2026-apply-online-697daf4b6870240173537-1200.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFla2g1TjJ0cU1YVnZOalp3VFJDZkF4ampCU2dLTWdNRkFRSQ",
+      "date": "02/16/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-16T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Post Office GDS 5th Merit List 2026: Expected Date, Cut-Off Trends & PDF Download Link",
+      "source": {
+        "name": "FreeJobAlert.Com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.freejobalert.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.freejobalert.com/articles/post-office-gds-5th-merit-list-2026-10309",
+      "thumbnail": "https://img2.freejobalert.com/freejobalert/2026/07/post-office-gds-5th-merit-list-2026-expected-date-cut-off-trends-pdf-download-link-6a44f3f841b4b88491004-1200.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1YMmxDTW01bGRsOXlUVzFRVFJDZkF4ampCU2dLTWdtRkFvTEhsYVo3RkFF",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "India Post GDS Recruitment 2026: Notification Out for 25,000+ Posts - 918 Vacancies in AP, 419 in Telangana - 10th Pass Merit-Based Selection",
+      "source": {
+        "name": "Sakshi Education",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://education.sakshi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://education.sakshi.com/en/other-all-govt-jobs/education-news/india-post-gds-recruitment-2026-notification-out-25000-posts-918-vacancies-ap-419-telangana-10th-pass-merit-based-198952",
+      "thumbnail": "https://education.sakshi.com/sites/default/files/images/2026/08/28/postofficee-1787909897.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBOa3BmYTA5V1ZXSm5VVmRaVFJDZUF4amxCU2dLTWdrQklZeWxwT21aamdF",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "India Post Releases GDS 4th Merit List 2025; Check Your Selection At indiapostgdsonline.gov.in",
+      "source": {
+        "name": "Free Press Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.freepressjournal.in/education/india-post-releases-gds-4th-merit-list-2025-check-your-selection-at-indiapostgdsonlinegovin",
+      "thumbnail": "https://media.assettype.com/freepressjournal/2025-06-17/188l02fl/Screenshot-2025-06-17-120317.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlSazVhUVVkdFFUaHVhMkp4VFJDWkF4anVCU2dLTWdZQkFJaXREQXM",
+      "date": "06/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-17T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Post Office GDS Recruitment 2020: Know date of registration, fees, other details",
+      "source": {
+        "name": "DNA India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dnaindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dnaindia.com/education/news-post-office-gds-recruitment-gujarat-circle-2020-know-date-of-registration-fees-other-details-2863267",
+      "thumbnail": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2020/12/21/944785-942569-india-post.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlRVGt3UlRSUVNXbGZTRkpLVFJEb0FoaUFCU2dLTWdPWlVBbw",
+      "date": "12/21/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-12-21T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

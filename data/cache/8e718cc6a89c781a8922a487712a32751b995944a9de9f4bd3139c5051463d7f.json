@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab16715a1de12524ac853eb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/remZtaStbPw9bDz-co8GtctMBsTzhexN-I9T6w3Ga8A/6ab16715a1de12524ac853eb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/remZtaStbPw9bDz-co8GtctMBsTzhexN-I9T6w3Ga8A/6ab16715a1de12524ac853eb.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/remZtaStbPw9bDz-co8GtctMBsTzhexN-I9T6w3Ga8A/6ab16715a1de12524ac853eb.json_with_pixel_position",
+    "created_at": "2026-09-21 17:19:17 UTC",
+    "processed_at": "2026-09-21 17:19:17 UTC",
+    "google_url": "https://www.google.com/search?q=%22Did+the+RBI+actually+announce+that+paper+notes+would+be+repl%22&oq=%22Did+the+RBI+actually+announce+that+paper+notes+would+be+repl%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/remZtaStbPw9bDz-co8GtctMBsTzhexN-I9T6w3Ga8A/6ab16715a1de12524ac853eb.html",
+    "total_time_taken": 0.31
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Did the RBI actually announce that paper notes would be repl\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Did the RBI actually announce that paper notes would be repl\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.16,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "VxJV3niczVXbcqJIGH6AfY7xxkREPJEqaqqboLaJTtp42OSG4mQ3EYEAinq3D7J3-1T7NNOAKDqazMzF1naVdNP9H-3v4_vrH8d2F__-8TeNIj-847g4jivE84hjVQxvyWnh1jW4ueeEgUG_bteSUDJCqVqybKkzszbaWo06t3bPb9efNt59sAT1UuoiqboWWm8s4uYt5FSOPRZfhHv2UgkrlltZkNd-T6DDuLWo1Kq8WPnGaUtmAP67gSiQk_kZKNeN2BH6qWgYAxkVI0GYTvJxJ07tgELSE5isL-eUszisQJCmf6Jug4bMxctNelfrgMVy4cu-uJc0HyAYfNTshWhZDwSc93JhXOkGn4QA3cLR1XgQkJM6mSGRYa8KcB6GnNjLuJheSRxgZvENA-u-DSghH1wjc-gMgPEMkPzZZXsyasM8VSdkeEWcSRhwq5wesInnbIMa6SIIEzzLY7HqKerq1RfGOxODd9mlsz93SCMiRiN1FXOGzuwcTzMtU6Vq9Wv6ztf4RlUUWu2blEhGeGBSWGSSvMP6HEdEjIzKYwXyOY3kA2zP_mOGLXCxSSjvTX-4FAM8HIGdnO7dyUPBCB28FQwG9lmciZXcxuC4cV8DoF6s43jbMrhEo2x9XCY0ygphxFNAfv0FC7bbL8Qp5ILxeYunjlmFMEcUguTc8BTqiCjP4NgwPMUms7WpkiA24cDUSGsyDgiW9w-EzgpJvg_sUpR9D895U9noHvthCTo4hTxNeEMmE8KclD3gE4cROHyLMh4cnMkZkfIxY78O_YTwV4f3uQmjzZ4vZ_Av0qbTnwrT8YMWj4ejrVgdvQX9dnOoI_C0xpdp4i31X1Ac439FpEyP0F6PrhMJ_RSRMJav61G2POpR4g8xxleIJPev6FE9Nznq0TmR4GOBSPRjPfpVIskfEikn6UUiyYv9aZFI8jUi5XpUJJLdZ3r0ctSjYrFHPToQ6bf0yPs9PUp5ZWXTqTit3shVkeoh8cX3mutZCOlmU69S_nV9O35TzOHmc5GaL6O7pWY6N6pt3sFaP9qaNyrb8O4ss_QufanV7m2zHFGrPIKorBnRSnOcbVlzXW_lGhY70aKyr_lWUHa9yArLsbdyzLJulQPLd5h7aekEnlTVWqIvNlsWorXmTOkK4UD2X3sqWTveeIfhox3dmoP5VO86xtBRbUME_NydmmZP3Ni0qVkIx6i6cJVWV9DHfRS47-EmgDGlY7BzTWG3QW7k3saWAOPdLV28A7_2FAtrUd9N-QjrLX85dPq7xsN09zTiX2cNrG3SykIpaAzj2oJOJvGgtAwMiWGkTsAQgxlhKJVfGLwImGgem2OAu02AFVgKDU21wrU01yxLbMx5cc7zbaEtlJYk2vpSvV4K3UDivwPz_Eze",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VxJV3niczVXbcqJIGH6AfY7xxkREPJEqaqqboLaJTtp42OSG4mQ3EYEAinq3D7J3-1T7NNOAKDqazMzF1naVdNP9H-3v4_vrH8d2F__-8TeNIj-847g4jivE84hjVQxvyWnh1jW4ueeEgUG_bteSUDJCqVqybKkzszbaWo06t3bPb9efNt59sAT1UuoiqboWWm8s4uYt5FSOPRZfhHv2UgkrlltZkNd-T6DDuLWo1Kq8WPnGaUtmAP67gSiQk_kZKNeN2BH6qWgYAxkVI0GYTvJxJ07tgELSE5isL-eUszisQJCmf6Jug4bMxctNelfrgMVy4cu-uJc0HyAYfNTshWhZDwSc93JhXOkGn4QA3cLR1XgQkJM6mSGRYa8KcB6GnNjLuJheSRxgZvENA-u-DSghH1wjc-gMgPEMkPzZZXsyasM8VSdkeEWcSRhwq5wesInnbIMa6SIIEzzLY7HqKerq1RfGOxODd9mlsz93SCMiRiN1FXOGzuwcTzMtU6Vq9Wv6ztf4RlUUWu2blEhGeGBSWGSSvMP6HEdEjIzKYwXyOY3kA2zP_mOGLXCxSSjvTX-4FAM8HIGdnO7dyUPBCB28FQwG9lmciZXcxuC4cV8DoF6s43jbMrhEo2x9XCY0ygphxFNAfv0FC7bbL8Qp5ILxeYunjlmFMEcUguTc8BTqiCjP4NgwPMUms7WpkiA24cDUSGsyDgiW9w-EzgpJvg_sUpR9D895U9noHvthCTo4hTxNeEMmE8KclD3gE4cROHyLMh4cnMkZkfIxY78O_YTwV4f3uQmjzZ4vZ_Av0qbTnwrT8YMWj4ejrVgdvQX9dnOoI_C0xpdp4i31X1Ac439FpEyP0F6PrhMJ_RSRMJav61G2POpR4g8xxleIJPev6FE9Nznq0TmR4GOBSPRjPfpVIskfEikn6UUiyYv9aZFI8jUi5XpUJJLdZ3r0ctSjYrFHPToQ6bf0yPs9PUp5ZWXTqTit3shVkeoh8cX3mutZCOlmU69S_nV9O35TzOHmc5GaL6O7pWY6N6pt3sFaP9qaNyrb8O4ss_QufanV7m2zHFGrPIKorBnRSnOcbVlzXW_lGhY70aKyr_lWUHa9yArLsbdyzLJulQPLd5h7aekEnlTVWqIvNlsWorXmTOkK4UD2X3sqWTveeIfhox3dmoP5VO86xtBRbUME_NydmmZP3Ni0qVkIx6i6cJVWV9DHfRS47-EmgDGlY7BzTWG3QW7k3saWAOPdLV28A7_2FAtrUd9N-QjrLX85dPq7xsN09zTiX2cNrG3SykIpaAzj2oJOJvGgtAwMiWGkTsAQgxlhKJVfGLwImGgem2OAu02AFVgKDU21wrU01yxLbMx5cc7zbaEtlJYk2vpSvV4K3UDivwPz_Eze"
+  }
+}

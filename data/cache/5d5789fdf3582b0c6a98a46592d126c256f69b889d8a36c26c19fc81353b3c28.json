@@ -1,0 +1,291 @@
+{
+  "search_metadata": {
+    "id": "6ab22de8fd81c8bcf495c380",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/62Q0N4O6JwbVmw8TAVG9rQXJNs_jwqDH2emuLNKuBfA/6ab22de8fd81c8bcf495c380.json",
+    "markdown_endpoint": "https://serpapi.com/searches/62Q0N4O6JwbVmw8TAVG9rQXJNs_jwqDH2emuLNKuBfA/6ab22de8fd81c8bcf495c380.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/62Q0N4O6JwbVmw8TAVG9rQXJNs_jwqDH2emuLNKuBfA/6ab22de8fd81c8bcf495c380.json_with_pixel_position",
+    "created_at": "2026-09-22 07:27:36 UTC",
+    "processed_at": "2026-09-22 07:27:36 UTC",
+    "google_url": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+before%3A2026-01-01&oq=newly+formed+century+asteroid+crater+found+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/62Q0N4O6JwbVmw8TAVG9rQXJNs_jwqDH2emuLNKuBfA/6ab22de8fd81c8bcf495c380.html",
+    "total_time_taken": 0.31
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "newly formed century asteroid crater found before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "newly formed century asteroid crater found before:2026-01-01",
+    "total_results": 26,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "RHkEbniczVVbcuo4EF3ArGP4ScCyeQSoct2SZAfzCMFxSCb8UH4hHsYCy2DI32xiVjCrmtWMbDCv4CT3fkyNymVJrVbrtLqP-s-_vYk_--e3v8ZhuGB1QYiiqEAoJZ5bsOlcMNnWt4UR9Vhgj39s13IxZzMZ5NyJXMHS1lxp027T2JS7tCc5xnap93PJFnlomcydcoubKROGAv_Nfi8qfFJgBdcvNF7K1QdULoFptSABsVZ4FMw5V4D_XWuO478OZ7D5iVKs8Z1GCFQhbB0FGCedeqISTwg3iWMhjsfXz1R3iJ7wDiDsKb13xYZQOUAxMnHgU7g42p8cJeeh-MRPnL1iLfnf72dqtiLM9IacmYAPJ0uZ9vCFIoeuQ9wrxcbSTWebCdSPxzfjxX0m2QRWNYoUBPvZyPmGdhOWZ1BXvwq2rr6UcHpU563BJYJDeOICwQp4JwoTe2wng4DF-Yyfa4A22Mti4z9Tw7ClWT4vMiVviwoqGmpNF2yL63nUdFxnOB6CH8lclMQyqBXvqrcJkWx2YBI7ZdJzpIEx6oYU64VOAYkpjfAhzvgcv8rn-FoKILxXxR_X-Ib0tjE8WCbmmdIuwjx1CRyo8Dw-tLa7ZpQKNAZhpJ6oHCHFwo80uoQW02gXUpIM92l2Cr4JjRNHTwKrXMnUD17zc_fk0ZUPiucGEGzN4NHhizeMQIRwU0e7G1qWEkyl41Wk-PQLIPH7wB-KZnrbOxdSjx6O_vCVdsILBWPE7dJFrNbaexxvmBysoqeL5wxd5yAPD-zgLwif1dB3Xkw95ctF-p_SRmtMTdBHnTFbvC2U2aOq-xXwWIbriUSu04TOrZ-oOPb_ikhpPfISeTaR9G8RiRA1ux7thsd6FBMJE0IyiKQaGfUoSlWO9ejSa2ycEOmLevSzRFI_JVJK0qtEur9GJDWLSGk9OiOScVaP0PV6dCDSr9Qj9Iv1KOGVu-vOi9NqSrKLlCcVzYkd3lXvO43lUxnrD_f-DIV9dwm_LFKjeVifm453O5w4dSS1wq1zO-QCWned3FL23cjb3oxoMHedG9v1w1WwvTFZ6AZ0wgWByUd8eeU7N5bL1dy6BKRKHoj8y829gMrALN1FpKsZsJV_02rhwgObTWOkY1x9Gq8fLeCVnXz3fbzVyuHQAka06g-igTLLT60lU3rtxjNdrzadVwKa7ZeVqkmjiliqGCX2ks_TojQYwPe-yCnYrr4O6B9P-QVtl8H21XFr1gps1oFmKOM3gvuOubKjudTahCABxuSg7_eKgSYuompuHtgyT5ESgV0dvhJoQ_wGdR6gvkl5H0G9UeExQzlmm0OXrWX3riaWRKloj4qWaLncAgm3C7kGcswPZPFfN_JDJA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RHkEbniczVVbcuo4EF3ArGP4ScCyeQSoct2SZAfzCMFxSCb8UH4hHsYCy2DI32xiVjCrmtWMbDCv4CT3fkyNymVJrVbrtLqP-s-_vYk_--e3v8ZhuGB1QYiiqEAoJZ5bsOlcMNnWt4UR9Vhgj39s13IxZzMZ5NyJXMHS1lxp027T2JS7tCc5xnap93PJFnlomcydcoubKROGAv_Nfi8qfFJgBdcvNF7K1QdULoFptSABsVZ4FMw5V4D_XWuO478OZ7D5iVKs8Z1GCFQhbB0FGCedeqISTwg3iWMhjsfXz1R3iJ7wDiDsKb13xYZQOUAxMnHgU7g42p8cJeeh-MRPnL1iLfnf72dqtiLM9IacmYAPJ0uZ9vCFIoeuQ9wrxcbSTWebCdSPxzfjxX0m2QRWNYoUBPvZyPmGdhOWZ1BXvwq2rr6UcHpU563BJYJDeOICwQp4JwoTe2wng4DF-Yyfa4A22Mti4z9Tw7ClWT4vMiVviwoqGmpNF2yL63nUdFxnOB6CH8lclMQyqBXvqrcJkWx2YBI7ZdJzpIEx6oYU64VOAYkpjfAhzvgcv8rn-FoKILxXxR_X-Ib0tjE8WCbmmdIuwjx1CRyo8Dw-tLa7ZpQKNAZhpJ6oHCHFwo80uoQW02gXUpIM92l2Cr4JjRNHTwKrXMnUD17zc_fk0ZUPiucGEGzN4NHhizeMQIRwU0e7G1qWEkyl41Wk-PQLIPH7wB-KZnrbOxdSjx6O_vCVdsILBWPE7dJFrNbaexxvmBysoqeL5wxd5yAPD-zgLwif1dB3Xkw95ctF-p_SRmtMTdBHnTFbvC2U2aOq-xXwWIbriUSu04TOrZ-oOPb_ikhpPfISeTaR9G8RiRA1ux7thsd6FBMJE0IyiKQaGfUoSlWO9ejSa2ycEOmLevSzRFI_JVJK0qtEur9GJDWLSGk9OiOScVaP0PV6dCDSr9Qj9Iv1KOGVu-vOi9NqSrKLlCcVzYkd3lXvO43lUxnrD_f-DIV9dwm_LFKjeVifm453O5w4dSS1wq1zO-QCWned3FL23cjb3oxoMHedG9v1w1WwvTFZ6AZ0wgWByUd8eeU7N5bL1dy6BKRKHoj8y829gMrALN1FpKsZsJV_02rhwgObTWOkY1x9Gq8fLeCVnXz3fbzVyuHQAka06g-igTLLT60lU3rtxjNdrzadVwKa7ZeVqkmjiliqGCX2ks_TojQYwPe-yCnYrr4O6B9P-QVtl8H21XFr1gps1oFmKOM3gvuOubKjudTahCABxuSg7_eKgSYuompuHtgyT5ESgV0dvhJoQ_wGdR6gvkl5H0G9UeExQzlmm0OXrWX3riaWRKloj4qWaLncAgm3C7kGcswPZPFfN_JDJA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "NEW Enderman XP Farm Minecraft 1.21 [JAVA + BEDROCK]",
+      "link": "https://www.youtube.com/watch?v=JmGzGZkclY8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV0ax1fkyHBhVyIzSrqJhssJbzWZovo5wNGpHmATRwOiVYgKcUounSQqbFer4Emzgw6o_EmcngUfVLzaRbh0hdws0u3Pn7v7OfHfwiEK6tmqdcDQbf3ALWfYJ0WEAFMw&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "snippet": "Easy Enderman Farm tutorial in Minecraft 1.21 (Unlimited Enderpearls + XP) This new minecraft enderman farm farm will provide you a way to get 30 xp levels ...",
+      "snippet_highlighted_words": [
+        "new"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Easy Enderman Farm tutorial in Minecraft 1.21 (Unlimited Enderpearls + XP) This new minecraft enderman farm farm will provide you a way to get 30 xp levels ...",
+          "source_info_link": "https://www.youtube.com/watch?v=JmGzGZkclY8",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjBheDFma3lIQmhWeUl6U3JxSmhzc0pieldab3ZvNXdOR3BIbUFUUndPaVZZZ0tjVW91blNRcWJGZXI0RW16Z3c2b19FbWNuZ1VmVkx6YVJiaDBoZHdzMHUzUG43djdPZkhmd2lFSzZ0bXFkY0RRYmYzQUxXZllKMFdFQUZNdxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjBheDFma3lIQmhWeUl6U3JxSmhzc0pieldab3ZvNXdOR3BIbUFUUndPaVZZZ0tjVW91blNRcWJGZXI0RW16Z3c2b19FbWNuZ1VmVkx6YVJiaDBoZHdzMHUzUG43djdPZkhmd2lFSzZ0bXFkY0RRYmYzQUxXZllKMFdFQUZNdxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 2,
+      "title": "The Labor Market for Recent College Graduates",
+      "link": "https://www.newyorkfed.org/research/college-labor-market",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVZfxgtkzrOTW6VeyfYoacYxeR5kHieEDFcjPCsIx8PocQ9PYeCOCEVFGToPFtjuTDNSgEckWMX1LXbgCSLN0_hmFzZ7l2yOdCIl_E8FYyasjtvuUZCQyd0rnfUcDnvX2gFCi0lEvnFVA_7Bk&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.newyorkfed.org › research › college-labor-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX___8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv-cDIWsY4wnhna93GPqMYioA2-ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC.png",
+      "snippet": "All workers are those aged 16 to 65; college graduates are those aged 22 to 65 with a bachelor's degree or higher; recent college graduates are those aged 22 to ...",
+      "about_this_result": {
+        "source": {
+          "description": "All workers are those aged 16 to 65; college graduates are those aged 22 to 65 with a bachelor's degree or higher; recent college graduates are those aged 22 to ...",
+          "source_info_link": "https://www.newyorkfed.org/research/college-labor-market",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEX___8AHzP18u26uLa8urhYgimLAAAAAXRSTlMAQObYZgAAAEpJREFUeAFlysENwDAIA0C6AZAJYAPkLtD9lyoWySv-cDIWsY4wnhna93GPqMYioA2-ULM1oouMRUR61AHs4NXZAN9uUDdmQ9jOD2CDDa6YlfTYAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVlpmeGd0a3pyT1RXNlZleWZZb2FjWXhlUjVrSGllRURGY2pQQ3NJeDhQb2NROVBZZUNPQ0VWRkdUb1BGdGp1VEROU2dFY2tXTVgxTFhiZ0NTTE4wX2htRnpaN2wyeU9kQ0lsX0U4Rll5YXNqdHZ1VVpDUXlkMHJuZlVjRG52WDJnRkNpMGxFdm5GVkFfN0JrEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVlpmeGd0a3pyT1RXNlZleWZZb2FjWXhlUjVrSGllRURGY2pQQ3NJeDhQb2NROVBZZUNPQ0VWRkdUb1BGdGp1VEROU2dFY2tXTVgxTFhiZ0NTTE4wX2htRnpaN2wyeU9kQ0lsX0U4Rll5YXNqdHZ1VVpDUXlkMHJuZlVjRG52WDJnRkNpMGxFdm5GVkFfN0JrEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Federal Reserve Bank of New York",
+      "read_more_link": "https://www.newyorkfed.org/research/college-labor-market#:~:text=All%20workers%20are%20those%20aged,27%20without%20a%20bachelor's%20degree."
+    },
+    {
+      "position": 3,
+      "title": "The Newly | Innovative Therapy for Rapid Results",
+      "link": "https://thenewly.ca/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTAHrOzAVrb_rv3bl0clxnTPUPNLU-4WepyCdpsJpGMgQNComvHj38FUiHWVCzsgIERJRanN442-U1_puIrw5TQcBfF0mIfam0jH6Rvo&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://thenewly.ca",
+      "favicon": "https://serpapi.com/images/i/UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASocABwAPrUurVanIacnG_DgFoloAACI5XH19YkawPz69wAA_vixEpvBw67MtdEDYSA9Rw45_K0LVIv_JbLcSPpdEO0QNxrCAiNgIXeX26tjLLre6EP5Mzv9jGFojoAA.webp",
+      "snippet": "The Newly Institute offers rapid access to medically managed Intensive Outpatient Programs providing innovative mental health, addiction, and trauma therapies.",
+      "snippet_highlighted_words": [
+        "Newly"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Newly Institute offers rapid access to medically managed Intensive Outpatient Programs providing innovative mental health, addiction, and trauma therapies.",
+          "source_info_link": "https://thenewly.ca/",
+          "icon": "https://serpapi.com/images/i/UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASocABwAPrUurVanIacnG_DgFoloAACI5XH19YkawPz69wAA_vixEpvBw67MtdEDYSA9Rw45_K0LVIv_JbLcSPpdEO0QNxrCAiNgIXeX26tjLLre6EP5Mzv9jGFojoAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnUvZ290bz91cmw9Q0FFU1RBSHJPekFWcmJfcnYzYmwwY2x4blRQVVBOTFUtNFdlcHlDZHBzSnBHTWdRTkNvbXZIajM4RlVpSFdWQ3pzZ0lFUkpSYW5ONDQyLVUxX3B1SXJ3NVRRY0JmRjBtSWZhbTBqSDZSdm8SBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnUvZ290bz91cmw9Q0FFU1RBSHJPekFWcmJfcnYzYmwwY2x4blRQVVBOTFUtNFdlcHlDZHBzSnBHTWdRTkNvbXZIajM4RlVpSFdWQ3pzZ0lFUkpSYW5ONDQyLVUxX3B1SXJ3NVRRY0JmRjBtSWZhbTBqSDZSdm8SBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "The Newly Institute",
+      "read_more_link": "https://thenewly.ca/#:~:text=The%20Newly%20Institute%20takes%20an"
+    },
+    {
+      "position": 4,
+      "title": "A Battle with My Blood",
+      "link": "https://www.newyorker.com/culture/the-weekend-essay/a-battle-with-my-blood",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFY_7xjwYKxmKhlPA36HCQvOo_l5LwC5nax0cot7CpclYRj11ET4xiXL__LOzXpWZtGFfzAn0fcKsNFAZ8NuGnW5Hssum-Gbz_E5APXu7wxSCicXOgRMTiMNbAhKls78KP4xFn5pvix8Aw3_wnHXEIG2HwOKpIRLBS8iz3LD4&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.newyorker.com › Culture › Leukemia",
+      "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAABwBgCdASogACAAPrkurlcnIacnG_DgFwlpABFGpRZMi8WX0Yrkg5Q2JBnIYFCb6trsu7u7KW6VbZamYsAA_v7CF_gEXnh8ZOMdfpuTQIcCnvBGdt-q3yifWX5dWuW1b__n6P2vkAxk8zYQmfxRb66vsNH6belZVUnVuj9hPPhe7gT-t80nz-rl2mJvmqX1mDowbA1zuQ8IGOX3XHecuJv5wx7XOZloZwmbKmGU9WZ00mEf8rUIZhSS-q9rdoKl-M497d_QpxJGBKa2Bno5CZeamscIuEhMP4kLqVpzc0syNFOHoce0APhHHt_m6P10WF9klUABn7CbOukMupxahs0wUrLvpO7lZsb86HNjEwcMAB8vQjjYGbnR23WoW1drHXWydZJFkpBg_73XsUZHoviCnxELhl_9EvitYzIAAAA.webp",
+      "snippet": "The diagnosis was acute myeloid leukemia, with a rare mutation called Inversion 3. It was mostly seen in older patients. Every doctor I saw asked me if I had ...",
+      "about_this_result": {
+        "source": {
+          "description": "The diagnosis was acute myeloid leukemia, with a rare mutation called Inversion 3. It was mostly seen in older patients. Every doctor I saw asked me if I had ...",
+          "source_info_link": "https://www.newyorker.com/culture/the-weekend-essay/a-battle-with-my-blood",
+          "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAABwBgCdASogACAAPrkurlcnIacnG_DgFwlpABFGpRZMi8WX0Yrkg5Q2JBnIYFCb6trsu7u7KW6VbZamYsAA_v7CF_gEXnh8ZOMdfpuTQIcCnvBGdt-q3yifWX5dWuW1b__n6P2vkAxk8zYQmfxRb66vsNH6belZVUnVuj9hPPhe7gT-t80nz-rl2mJvmqX1mDowbA1zuQ8IGOX3XHecuJv5wx7XOZloZwmbKmGU9WZ00mEf8rUIZhSS-q9rdoKl-M497d_QpxJGBKa2Bno5CZeamscIuEhMP4kLqVpzc0syNFOHoce0APhHHt_m6P10WF9klUABn7CbOukMupxahs0wUrLvpO7lZsb86HNjEwcMAB8vQjjYGbnR23WoW1drHXWydZJFkpBg_73XsUZHoviCnxELhl_9EvitYzIAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZZXzd4andZS3htS2hsUEEzNkhDUXZPb19sNUx3QzVuYXgwY290N0NwY2xZUmoxMUVUNHhpWExfX0xPelhwV1p0R0ZmekFuMGZjS3NORkFaOE51R25XNUhzc3VtLUdiel9FNUFQWHU3d3hTQ2ljWE9nUk1UaU1OYkFoS2xzNzhLUDR4Rm41cHZpeDhBdzNfd25IWEVJRzJId09LcElSTEJTOGl6M0xENBIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZZXzd4andZS3htS2hsUEEzNkhDUXZPb19sNUx3QzVuYXgwY290N0NwY2xZUmoxMUVUNHhpWExfX0xPelhwV1p0R0ZmekFuMGZjS3NORkFaOE51R25XNUhzc3VtLUdiel9FNUFQWHU3d3hTQ2ljWE9nUk1UaU1OYkFoS2xzNzhLUDR4Rm41cHZpeDhBdzNfd25IWEVJRzJId09LcElSTEJTOGl6M0xENBIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "The New Yorker",
+      "read_more_link": "https://www.newyorker.com/culture/the-weekend-essay/a-battle-with-my-blood#:~:text=The%20diagnosis%20was%20acute%20myeloid,cancers%20are%20among%20first%20responders."
+    },
+    {
+      "position": 5,
+      "title": "Office of Cannabis Management - NY.Gov",
+      "link": "https://cannabis.ny.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVd1KBMmcdVQ65YfRwVpBuN6A2xaHccbyrgeWHrpNsTmTOsxEO88GOpFuOlsx-liB3VOHuHQU2-m0ieicSpgCDHSPiZlcXTkx4fABQ&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://cannabis.ny.gov",
+      "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACwBACdASocABwAPtEutFooIagoGAEAGglnAMcxiubfa3TyUPXIuOQq5wSCjQgAAP72AdXx4eNfL2JkKRw2X60qwtMM0CrYanVkz8WeoZGfr8yUaJa66HdShUs64s9aeTEzyN17Lj_un-Dopz4p-6IwCKm_pU9_Pgf3ZOSTphYSXC9jUvuY3Nzxvw3mzCHTgr6Tu2awboNJEFS5ByO4Hw1NCU8AAA.webp",
+      "snippet": "An official website of New York State. Explore cannabis science, clinical practice, public health, and new research. Report an Adverse Event,",
+      "snippet_highlighted_words": [
+        "New",
+        "new"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An official website of New York State. Explore cannabis science, clinical practice, public health, and new research. Report an Adverse Event,",
+          "source_info_link": "https://cannabis.ny.gov/",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACwBACdASocABwAPtEutFooIagoGAEAGglnAMcxiubfa3TyUPXIuOQq5wSCjQgAAP72AdXx4eNfL2JkKRw2X60qwtMM0CrYanVkz8WeoZGfr8yUaJa66HdShUs64s9aeTEzyN17Lj_un-Dopz4p-6IwCKm_pU9_Pgf3ZOSTphYSXC9jUvuY3Nzxvw3mzCHTgr6Tu2awboNJEFS5ByO4Hw1NCU8AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWZDFLQk1tY2RWUTY1WWZSd1ZwQnVONkEyeGFIY2NieXJnZVdIcnBOc1RtVE9zeEVPODhHT3BGdU9sc3gtbGlCM1ZPSHVIUVUyLW0waWVpY1NwZ0NESFNQaVpsY1hUa3g0ZkFCURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWZDFLQk1tY2RWUTY1WWZSd1ZwQnVONkEyeGFIY2NieXJnZVdIcnBOc1RtVE9zeEVPODhHT3BGdU9sc3gtbGlCM1ZPSHVIUVUyLW0waWVpY1NwZ0NESFNQaVpsY1hUa3g0ZkFCURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Office of Cannabis Management (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Nuuly: Clothing Rental",
+      "link": "https://www.nuuly.com/?srsltid=AU7gw4Xfj4p2ts2s6hfoShp_JrBVTQHQ-zSRuABenUQ_Yn9O7GL1BJwV",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFQs785VsPwwxv6V6WBFakUCapqCOwcMxgeE8zfP1JjdlYf8C20rHFNN0bwPFm7retljf0EW9z4pyPUNz-clFHM-xIT00MgYUeKAliXAvrUxDD5G_TiJ5L8xLKupQiB8ZIxD9C5q0hq9Newp5dYJ5cwR1h4nD_SYdvxCpwMSiJa0FnbIi2oPzI13NWg&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.nuuly.com",
+      "favicon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAADwBACdASocABwAPtFAtFooIqgoFAEAGglsALsBp5WgoNj5EV36kku5Wy835VuciGAA_vwQdejb4XBCyRak-ArWeExy4yLHYA04qmtILKfbfJ7PYCshy3Mqu0asvShwdnzqd52W5jzBw9OPpSfe8xpE_0Pw7fEGNyZd2MKoRluO-XiDwthJiQ-9fyq97wrbyp_whMelrnnypGOSTQ2AXocbduXb-XQjAcXipyp0n_GSpDdrviCXvdbFsjbdbk9QAAA.webp",
+      "snippet": "For $98 a month, you can rent any six items you choose from 1000s of styles—from party dresses and work looks to premium denim and one-of-a-kind vintage—and",
+      "about_this_result": {
+        "source": {
+          "description": "For $98 a month, you can rent any six items you choose from 1000s of styles—from party dresses and work looks to premium denim and one-of-a-kind vintage—and",
+          "source_info_link": "https://www.nuuly.com/?srsltid=AU7gw4Xfj4p2ts2s6hfoShp_JrBVTQHQ-zSRuABenUQ_Yn9O7GL1BJwV",
+          "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAADwBACdASocABwAPtFAtFooIqgoFAEAGglsALsBp5WgoNj5EV36kku5Wy835VuciGAA_vwQdejb4XBCyRak-ArWeExy4yLHYA04qmtILKfbfJ7PYCshy3Mqu0asvShwdnzqd52W5jzBw9OPpSfe8xpE_0Pw7fEGNyZd2MKoRluO-XiDwthJiQ-9fyq97wrbyp_whMelrnnypGOSTQ2AXocbduXb-XQjAcXipyp0n_GSpDdrviCXvdbFsjbdbk9QAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRczc4NVZzUHd3eHY2VjZXQkZha1VDYXBxQ093Y014Z2VFOHpmUDFKamRsWWY4QzIwckhGTk4wYndQRm03cmV0bGpmMEVXOXo0cHlQVU56LWNsRkhNLXhJVDAwTWdZVWVLQWxpWEF2clV4REQ1R19UaUo1TDh4TEt1cFFpQjhaSXhEOUM1cTBocTlOZXdwNWRZSjVjd1IxaDRuRF9TWWR2eENwd01TaUphMEZuYklpMm9QekkxM05XZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZRczc4NVZzUHd3eHY2VjZXQkZha1VDYXBxQ093Y014Z2VFOHpmUDFKamRsWWY4QzIwckhGTk4wYndQRm03cmV0bGpmMEVXOXo0cHlQVU56LWNsRkhNLXhJVDAwTWdZVWVLQWxpWEF2clV4REQ1R19UaUo1TDh4TEt1cFFpQjhaSXhEOUM1cTBocTlOZXdwNWRZSjVjd1IxaDRuRF9TWWR2eENwd01TaUphMEZuYklpMm9QekkxM05XZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Nuuly"
+    },
+    {
+      "position": 7,
+      "title": "Watering newly planted trees and shrubs | UMN Extension",
+      "link": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/watering-newly-planted-trees-and-shrubs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFTFKqOLG68WbbLpM8cauQz7JFcCKB4NB3xs1PzLeUyUbMxVdGTjdPMvAtR9vq1ZqWqoMk_e_bjJKlrRu0Qnx_Gm_OwTg3UO6I1fWNg5sGSeI0wsuJMmeKltJmlg0b4hLaVOyUBih23FFtEV4YlXNcEwf66uRhASVttxHGMfIcTxIUfazXLjufoyRE4mQCny5l5IqZ9sX93-_85WlmCevv91HSwvl8BXyzNgaLA&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://extension.umn.edu › gardening-in-minnesota",
+      "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAACwAgCdASoQABAAAsBMJbACdLoAEJCX-gq2xDbLowAA_vTPTSrPHI07_jU73DFs3L7r_YeLoN_GGfLNWl1mcMlVYKJKxTsO3MGu-6VLv7Z_Pq4lvcdn5CVbsIyHQ-D-9r_9jIYDBqwR-QhL_5pEP77Gw8WblvzqCGH8vLwuD20BkM918jZqkMeLQd3OAAAA.webp",
+      "snippet": "1 to 2 weeks after planting, water daily. 3 to 12 weeks after planting, water every 2 to 3 days. After 12 weeks, water weekly until roots are established.",
+      "snippet_highlighted_words": [
+        "established"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1 to 2 weeks after planting, water daily. 3 to 12 weeks after planting, water every 2 to 3 days. After 12 weeks, water weekly until roots are established.",
+          "source_info_link": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/watering-newly-planted-trees-and-shrubs",
+          "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAACwAgCdASoQABAAAsBMJbACdLoAEJCX-gq2xDbLowAA_vTPTSrPHI07_jU73DFs3L7r_YeLoN_GGfLNWl1mcMlVYKJKxTsO3MGu-6VLv7Z_Pq4lvcdn5CVbsIyHQ-D-9r_9jIYDBqwR-QhL_5pEP77Gw8WblvzqCGH8vLwuD20BkM918jZqkMeLQd3OAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZURktxT0xHNjhXYmJMcE04Y2F1UXo3SkZjQ0tCNE5CM3hzMVB6TGVVeVViTXhWZEdUamRQTXZBdFI5dnExWnFXcW9Na19lX2JqSktsclJ1MFFueF9HbV9Pd1RnM1VPNkkxZldOZzVzR1NlSTB3c3VKTW1lS2x0Sm1sZzBiNGhMYVZPeVVCaWgyM0ZGdEVWNFlsWE5jRXdmNjZ1UmhBU1Z0dHhIR01mSWNUeElVZmF6WExqdWZveVJFNG1RQ255NWw1SXFaOXNYOTMtXzg1V2xtQ2V2djkxSFN3dmw4Qlh5ek5nYUxBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZURktxT0xHNjhXYmJMcE04Y2F1UXo3SkZjQ0tCNE5CM3hzMVB6TGVVeVViTXhWZEdUamRQTXZBdFI5dnExWnFXcW9Na19lX2JqSktsclJ1MFFueF9HbV9Pd1RnM1VPNkkxZldOZzVzR1NlSTB3c3VKTW1lS2x0Sm1sZzBiNGhMYVZPeVVCaWgyM0ZGdEVWNFlsWE5jRXdmNjZ1UmhBU1Z0dHhIR01mSWNUeElVZmF6WExqdWZveVJFNG1RQ255NWw1SXFaOXNYOTMtXzg1V2xtQ2V2djkxSFN3dmw4Qlh5ek5nYUxBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "University of Minnesota Extension",
+      "read_more_link": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/watering-newly-planted-trees-and-shrubs#:~:text=1%20to%202%20weeks%20after,weekly%20until%20roots%20are%20established."
+    },
+    {
+      "position": 8,
+      "title": "A Full Day with New York City Ballet's Sugar Plum Fairy",
+      "link": "https://www.youtube.com/watch?v=fa-I7iUErK0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVGHO5i9AQIxzKGeoVYfBsL80RDyEULpXu3KOc87w9FO7ul72hrvwHP9iYU8ElevevCu8__Wwo4706PLmVXKORgLdpZZa6dPWpmYtnj_bxcdkE8FdOAZwsX8OITIEILQ&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "snippet": "Condé Nast Traveler spends a day with New York City Ballet principal Indiana Woodward, as she prepares to dance the Sugar Plum Fairy",
+      "snippet_highlighted_words": [
+        "New"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Condé Nast Traveler spends a day with New York City Ballet principal Indiana Woodward, as she prepares to dance the Sugar Plum Fairy",
+          "source_info_link": "https://www.youtube.com/watch?v=fa-I7iUErK0",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkdITzVpOUFRSXh6S0dlb1ZZZkJzTDgwUkR5RVVMcFh1M0tPYzg3dzlGTzd1bDcyaHJ2d0hQOWlZVThFbGV2ZXZDdThfX1d3bzQ3MDZQTG1WWEtPUmdMZHBaWmE2ZFBXcG1ZdG5qX2J4Y2RrRThGZE9BWndzWDhPSVRJRUlMURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkdITzVpOUFRSXh6S0dlb1ZZZkJzTDgwUkR5RVVMcFh1M0tPYzg3dzlGTzd1bDcyaHJ2d0hQOWlZVThFbGV2ZXZDdThfX1d3bzQ3MDZQTG1WWEtPUmdMZHBaWmE2ZFBXcG1ZdG5qX2J4Y2RrRThGZE9BWndzWDhPSVRJRUlMURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 9,
+      "title": "LinkedIn Company Page setup",
+      "link": "https://www.linkedin.com/help/linkedin/feature-launcher/urn:li:helpCenterArticle:(543852,LITHOGRAPH)?trk=search_feature_launcher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFe8kufWdUrYAYUf0OmqZOVNS2qhVeCWGTPVj1XilNCOu15Ay7keqIsdv9rG6WVyr3mnqcg5WtZP_NDHT69srFdqgjwrYjrpU2wY0qRISVqhoU2djvYaCcWLHXeiQ3W1ypGgzjiFC_VxWP9AccdWvCNe_-pROxelwFtFgPwdsWML1j9_UM18WSdy8VCmpXhFQwwhwdTViobGq7yqXLpADH4vAF6hlzNXP2O-LH_aG6V_LzUB7ZQ&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.linkedin.com › linkedin › feature-launcher",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
+      "snippet": "No information is available for this page.",
+      "about_this_result": {
+        "source": {
+          "source_info_link": "https://www.linkedin.com/help/linkedin/feature-launcher/urn:li:helpCenterArticle:(543852,LITHOGRAPH)?trk=search_feature_launcher",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0ZlOGt1ZldkVXJZQVlVZjBPbXFaT1ZOUzJxaFZlQ1dHVFBWajFYaWxOQ091MTVBeTdrZXFJc2R2OXJHNldWeXIzbW5xY2c1V3RaUF9OREhUNjlzckZkcWdqd3JZanJwVTJ3WTBxUklTVnFob1UyZGp2WWFDY1dMSFhlaVEzVzF5cEdnemppRkNfVnhXUDlBY2NkV3ZDTmVfLXBST3hlbHdGdEZnUHdkc1dNTDFqOV9VTTE4V1NkeThWQ21wWGhGUXd3aHdkVFZpb2JHcTd5cVhMcEFESDR2QUY2aGx6TlhQMk8tTEhfYUc2Vl9MelVCN1pREgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0ZlOGt1ZldkVXJZQVlVZjBPbXFaT1ZOUzJxaFZlQ1dHVFBWajFYaWxOQ091MTVBeTdrZXFJc2R2OXJHNldWeXIzbW5xY2c1V3RaUF9OREhUNjlzckZkcWdqd3JZanJwVTJ3WTBxUklTVnFob1UyZGp2WWFDY1dMSFhlaVEzVzF5cEdnemppRkNfVnhXUDlBY2NkV3ZDTmVfLXBST3hlbHdGdEZnUHdkc1dNTDFqOV9VTTE4V1NkeThWQ21wWGhGUXd3aHdkVFZpb2JHcTd5cVhMcEFESDR2QUY2aGx6TlhQMk8tTEhfYUc2Vl9MelVCN1pREgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "LinkedIn"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=6C2yauHjNISx5NoP2dSyqQU&start=10&sa=N&sstk=AS6-VmJH0EQGug9I4AaTf6kR8y12LTVndVfMnkqfypTo2tambZpk-z56erBlH4SgIiMXfyhm8cJM9eDxz1MXVaujkwjNAm0Fntvp7A&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQ8NMDegQIPhAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+before:2026-01-01&sca_esv=e7914123cf3b1be8&ei=6C2yauHjNISx5NoP2dSyqQU&start=10&sa=N&sstk=AS6-VmJH0EQGug9I4AaTf6kR8y12LTVndVfMnkqfypTo2tambZpk-z56erBlH4SgIiMXfyhm8cJM9eDxz1MXVaujkwjNAm0Fntvp7A&ved=2ahUKEwjh95no1IGXAxWEGFkFHVmqLFUQ8tMDegQIPhAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+before%3A2026-01-01&start=10"
+    }
+  }
+}

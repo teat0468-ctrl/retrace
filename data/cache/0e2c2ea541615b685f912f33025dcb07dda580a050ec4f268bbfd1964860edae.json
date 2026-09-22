@@ -1,0 +1,603 @@
+{
+  "search_metadata": {
+    "id": "6ab22d0e0676dc08584d7841",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/J2s1JXHEu2EaPLdzh2Tv04xucx7uq1b6woenIjD3ieo/6ab22d0e0676dc08584d7841.json",
+    "markdown_endpoint": "https://serpapi.com/searches/J2s1JXHEu2EaPLdzh2Tv04xucx7uq1b6woenIjD3ieo/6ab22d0e0676dc08584d7841.md",
+    "created_at": "2026-09-22 07:23:58 UTC",
+    "processed_at": "2026-09-22 07:23:58 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?q=study+links+cell+phones+brain+cancer&hl=en&num=10",
+    "raw_html_file": "https://serpapi.com/searches/J2s1JXHEu2EaPLdzh2Tv04xucx7uq1b6woenIjD3ieo/6ab22d0e0676dc08584d7841.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "study links cell phones brain cancer",
+    "hl": "en",
+    "num": "10"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 43600,
+    "time_taken_displayed": 0.49,
+    "query_displayed": "study links cell phones brain cancer"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brain tumour risk in relation to mobile telephone use: results of the INTERPHONE international case–control study",
+      "result_id": "_qADvYrEiF8J",
+      "link": "https://academic.oup.com/ije/article-abstract/39/3/675/631387",
+      "snippet": "… analyses of brain tumour risk in relation to mobile phone use in all INTERPHONE study centres … exposed cases, particularly long-term and heavy users of mobile phones, as this study. …",
+      "publication_info": {
+        "summary": "INTERPHONE Study Group - International journal of …, 2010 - academic.oup.com",
+        "authors": [
+          {
+            "name": "INTERPHONE Study Group"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "oup.com",
+          "file_format": "PDF",
+          "link": "https://academic.oup.com/ije/article-pdf/39/3/675/14113072/dyq079.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_qADvYrEiF8J",
+        "cited_by": {
+          "total": 1035,
+          "link": "https://scholar.google.com/scholar?cites=6883968130591465726&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "6883968130591465726",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=6883968130591465726&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:_qADvYrEiF8J:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3A_qADvYrEiF8J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 23,
+          "link": "https://scholar.google.com/scholar?cluster=6883968130591465726&hl=en&as_sdt=0,44",
+          "cluster_id": "6883968130591465726",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=6883968130591465726&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Cell phones and brain tumors: a review including the long-term epidemiologic data",
+      "result_id": "kPTf2ruegYMJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0090301909001451",
+      "snippet": "… long-term cell phone usage and the risk of developing a brain tumor? Included with … cell phone technology and discussion of laboratory data, biological mechanisms, and brain tumor …",
+      "publication_info": {
+        "summary": "VG Khurana, C Teo, M Kundi, L Hardell, M Carlberg - Surgical neurology, 2009 - Elsevier",
+        "authors": [
+          {
+            "name": "VG Khurana"
+          },
+          {
+            "name": "C Teo"
+          },
+          {
+            "name": "M Kundi"
+          },
+          {
+            "name": "L Hardell",
+            "link": "https://scholar.google.com/citations?user=vgfcIkcAAAAJ&hl=en&oi=sra",
+            "author_id": "vgfcIkcAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vgfcIkcAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "M Carlberg",
+            "link": "https://scholar.google.com/citations?user=p1SzoLUAAAAJ&hl=en&oi=sra",
+            "author_id": "p1SzoLUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=p1SzoLUAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/39172213/hersentumoren-maart-2009.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kPTf2ruegYMJ",
+        "cited_by": {
+          "total": 480,
+          "link": "https://scholar.google.com/scholar?cites=9476029620632417424&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "9476029620632417424",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=9476029620632417424&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:kPTf2ruegYMJ:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3AkPTf2ruegYMJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cluster=9476029620632417424&hl=en&as_sdt=0,44",
+          "cluster_id": "9476029620632417424",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=9476029620632417424&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Handheld cellular telephone use and risk of brain cancer",
+      "result_id": "rtw59gMDFSQJ",
+      "link": "https://jamanetwork.com/journals/jama/article-abstract/193377",
+      "snippet": "… of handheld cellular telephones was unrelated to the risk of brain cancer in the current study. … Cell phones and cancer: what is the evidence for a connection? Radiat Res. 1999;151:513-…",
+      "publication_info": {
+        "summary": "JE Muscat, MG Malkin, S Thompson, RE Shore… - Jama, 2000 - jamanetwork.com",
+        "authors": [
+          {
+            "name": "JE Muscat"
+          },
+          {
+            "name": "MG Malkin"
+          },
+          {
+            "name": "S Thompson"
+          },
+          {
+            "name": "RE Shore"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "jamanetwork.com",
+          "file_format": "PDF",
+          "link": "https://jamanetwork.com/journals/jama/articlepdf/193377/joc00222.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rtw59gMDFSQJ",
+        "cited_by": {
+          "total": 525,
+          "link": "https://scholar.google.com/scholar?cites=2599987675427101870&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "2599987675427101870",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=2599987675427101870&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rtw59gMDFSQJ:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3Artw59gMDFSQJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cluster=2599987675427101870&hl=en&as_sdt=0,44",
+          "cluster_id": "2599987675427101870",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=2599987675427101870&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "Epidemiological evidence for an association between use of wireless phones and tumor diseases",
+      "result_id": "nAjtYD-HVuEJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0928468009000091",
+      "snippet": "… risk is of importance to evaluate, not the least since the use of cellular phones … mobile phone use and the association with brain tumors, but also other tumor types that have been studied…",
+      "publication_info": {
+        "summary": "L Hardell, M Carlberg, KH Mild - Pathophysiology, 2009 - Elsevier",
+        "authors": [
+          {
+            "name": "L Hardell",
+            "link": "https://scholar.google.com/citations?user=vgfcIkcAAAAJ&hl=en&oi=sra",
+            "author_id": "vgfcIkcAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vgfcIkcAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "M Carlberg",
+            "link": "https://scholar.google.com/citations?user=p1SzoLUAAAAJ&hl=en&oi=sra",
+            "author_id": "p1SzoLUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=p1SzoLUAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "KH Mild"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "academia.edu",
+          "file_format": "PDF",
+          "link": "https://www.academia.edu/download/39172198/0fcfd50a3842fbad3e000000.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=nAjtYD-HVuEJ",
+        "cited_by": {
+          "total": 240,
+          "link": "https://scholar.google.com/scholar?cites=16237314212809738396&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "16237314212809738396",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=16237314212809738396&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:nAjtYD-HVuEJ:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3AnAjtYD-HVuEJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=16237314212809738396&hl=en&as_sdt=0,44",
+          "cluster_id": "16237314212809738396",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=16237314212809738396&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Mobile phone use and risk of brain neoplasms and other cancers: prospective study",
+      "result_id": "wIxz4CddfNgJ",
+      "link": "https://academic.oup.com/ije/article-abstract/42/3/792/2901734",
+      "snippet": "… The majority of epidemiological studies reviewed by IARC … use of mobile phones by patients with a diagnosed brain tumour with use reported by people who did not have a brain tumour…",
+      "publication_info": {
+        "summary": "…, Million Women Study Collaborators - International journal …, 2013 - academic.oup.com",
+        "authors": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Million Women Study Collaborators"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "oup.com",
+          "file_format": "PDF",
+          "link": "https://academic.oup.com/ije/article-pdf/42/3/792/21898310/dyt072.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=wIxz4CddfNgJ",
+        "cited_by": {
+          "total": 309,
+          "link": "https://scholar.google.com/scholar?cites=15599445635155332288&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "15599445635155332288",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=15599445635155332288&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:wIxz4CddfNgJ:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3AwIxz4CddfNgJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 21,
+          "link": "https://scholar.google.com/scholar?cluster=15599445635155332288&hl=en&as_sdt=0,44",
+          "cluster_id": "15599445635155332288",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=15599445635155332288&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Long-term use of cellular phones and brain tumours: increased risk associated with use for⩾ 10 years",
+      "result_id": "m2UVMAPr0-8J",
+      "link": "https://oem.bmj.com/content/64/9/626.short",
+      "snippet": "… ipsilateral use of cellular phones, ie same side of tumour and … of brain tumours in the future, as the use of cellular phones is … If the study did not have users with a 10-year latency period, …",
+      "publication_info": {
+        "summary": "L Hardell, M Carlberg, F Söderqvist, KH Mild… - Occupational and …, 2007 - oem.bmj.com",
+        "authors": [
+          {
+            "name": "L Hardell",
+            "link": "https://scholar.google.com/citations?user=vgfcIkcAAAAJ&hl=en&oi=sra",
+            "author_id": "vgfcIkcAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vgfcIkcAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "M Carlberg",
+            "link": "https://scholar.google.com/citations?user=p1SzoLUAAAAJ&hl=en&oi=sra",
+            "author_id": "p1SzoLUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=p1SzoLUAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "F Söderqvist",
+            "link": "https://scholar.google.com/citations?user=6siBUq8AAAAJ&hl=en&oi=sra",
+            "author_id": "6siBUq8AAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6siBUq8AAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "KH Mild"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "PDF",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2092574/pdf/626.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=m2UVMAPr0-8J",
+        "cited_by": {
+          "total": 448,
+          "link": "https://scholar.google.com/scholar?cites=17281414594074863003&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "17281414594074863003",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=17281414594074863003&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:m2UVMAPr0-8J:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3Am2UVMAPr0-8J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 30,
+          "link": "https://scholar.google.com/scholar?cluster=17281414594074863003&hl=en&as_sdt=0,44",
+          "cluster_id": "17281414594074863003",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=17281414594074863003&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Cellular-telephone use and brain tumors",
+      "result_id": "NkMM7tzAvxgJ",
+      "link": "https://www.nejm.org/doi/abs/10.1056/NEJM200101113440201",
+      "snippet": "… to electromagnetic radiation in the cellular phone communication frequency band (835.62 and … A critical review of epidemiologic studies of radiofrequency exposure and human cancers. …",
+      "publication_info": {
+        "summary": "PD Inskip, RE Tarone, EE Hatch… - … England Journal of …, 2001 - Mass Medical Soc",
+        "authors": [
+          {
+            "name": "PD Inskip"
+          },
+          {
+            "name": "RE Tarone"
+          },
+          {
+            "name": "EE Hatch"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nejm.org",
+          "file_format": "PDF",
+          "link": "https://www.nejm.org/doi/pdf/10.1056/NEJM200101113440201"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NkMM7tzAvxgJ",
+        "cited_by": {
+          "total": 791,
+          "link": "https://scholar.google.com/scholar?cites=1783356032581124918&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "1783356032581124918",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=1783356032581124918&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:NkMM7tzAvxgJ:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3ANkMM7tzAvxgJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=1783356032581124918&hl=en&as_sdt=0,44",
+          "cluster_id": "1783356032581124918",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=1783356032581124918&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Mobile phones, cordless phones and the risk for brain tumours",
+      "result_id": "BBvIpK2AnG0J",
+      "link": "https://www.spandidos-publications.com/10.3892/ijo_00000307",
+      "snippet": "… In 1999 we published results from our first case control study on brain tumours and use of mobile phones (8). In total 209 (90%) of the cases and 425 (91%) of the controls that fullfilled …",
+      "publication_info": {
+        "summary": "L Hardell, M Carlberg - International journal of …, 2009 - spandidos-publications.com",
+        "authors": [
+          {
+            "name": "L Hardell",
+            "link": "https://scholar.google.com/citations?user=vgfcIkcAAAAJ&hl=en&oi=sra",
+            "author_id": "vgfcIkcAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vgfcIkcAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "M Carlberg",
+            "link": "https://scholar.google.com/citations?user=p1SzoLUAAAAJ&hl=en&oi=sra",
+            "author_id": "p1SzoLUAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=p1SzoLUAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "spandidos-publications.com",
+          "file_format": "PDF",
+          "link": "https://www.spandidos-publications.com/10.3892/ijo_00000307/download"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BBvIpK2AnG0J",
+        "cited_by": {
+          "total": 318,
+          "link": "https://scholar.google.com/scholar?cites=7898329329783282436&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "7898329329783282436",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=7898329329783282436&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:BBvIpK2AnG0J:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3ABBvIpK2AnG0J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 16,
+          "link": "https://scholar.google.com/scholar?cluster=7898329329783282436&hl=en&as_sdt=0,44",
+          "cluster_id": "7898329329783282436",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=7898329329783282436&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Use of cellular telephones and the risk for brain tumours: A case-control study.",
+      "result_id": "BOOWqf7quPIJ",
+      "link": "https://www.spandidos-publications.com/10.3892/ijo.15.1.113",
+      "snippet": "… In this study we did not find an overall increased risk for brain tumours associated with exposure to cellular phones. The results were similar both for the analogue and digital system. No …",
+      "publication_info": {
+        "summary": "L Hardell, A Näsman, A Påhlson… - International …, 1999 - spandidos-publications.com",
+        "authors": [
+          {
+            "name": "L Hardell",
+            "link": "https://scholar.google.com/citations?user=vgfcIkcAAAAJ&hl=en&oi=sra",
+            "author_id": "vgfcIkcAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vgfcIkcAAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "A Näsman"
+          },
+          {
+            "name": "A Påhlson"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Lennart-Hardell/publication/279702289_Use_of_cellular_telephones_and_the_risk_for_brain_tumours_A_case-control_study/links/566aead608ae430ab4f93421/Use-of-cellular-telephones-and-the-risk-for-brain-tumours-A-case-control-study.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BOOWqf7quPIJ",
+        "cited_by": {
+          "total": 465,
+          "link": "https://scholar.google.com/scholar?cites=17489987532381152004&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "17489987532381152004",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=17489987532381152004&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:BOOWqf7quPIJ:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3ABOOWqf7quPIJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=17489987532381152004&hl=en&as_sdt=0,44",
+          "cluster_id": "17489987532381152004",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=17489987532381152004&engine=google_scholar&hl=en"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "Systematic review of wireless phone use and brain cancer and other head tumors",
+      "result_id": "m98DZVxBK78J",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bem.20716",
+      "snippet": "… evaluating brain tumor and brain tumor promotion studies do not show a consistent relationship … support a causal relationship between wireless phone use and brain cancers or other …",
+      "publication_info": {
+        "summary": "MH Repacholi, A Lerchl, M Röösli… - …, 2012 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "MH Repacholi"
+          },
+          {
+            "name": "A Lerchl",
+            "link": "https://scholar.google.com/citations?user=UyaX-58AAAAJ&hl=en&oi=sra",
+            "author_id": "UyaX-58AAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UyaX-58AAAAJ&engine=google_scholar_author&hl=en"
+          },
+          {
+            "name": "M Röösli",
+            "link": "https://scholar.google.com/citations?user=pwxncCMAAAAJ&hl=en&oi=sra",
+            "author_id": "pwxncCMAAAAJ",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pwxncCMAAAAJ&engine=google_scholar_author&hl=en"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "uni-bielefeld.de",
+          "file_format": "HTML",
+          "link": "https://pub.uni-bielefeld.de/record/2489163"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=m98DZVxBK78J",
+        "html_version": "https://pub.uni-bielefeld.de/record/2489163",
+        "cited_by": {
+          "total": 173,
+          "link": "https://scholar.google.com/scholar?cites=13775175750330343323&as_sdt=5,44&sciodt=0,44&hl=en",
+          "cites_id": "13775175750330343323",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=13775175750330343323&engine=google_scholar&hl=en"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:m98DZVxBK78J:scholar.google.com/&scioq=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=related%3Am98DZVxBK78J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cluster=13775175750330343323&hl=en&as_sdt=0,44",
+          "cluster_id": "13775175750330343323",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=13775175750330343323&engine=google_scholar&hl=en"
+        }
+      }
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "cell phones brain tumor incidence trends",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=1&q=cell+phones+brain+tumor+incidence+trends&qst=br"
+    },
+    {
+      "query": "mobile and cordless phones brain tumors",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=2&q=mobile+and+cordless+phones+brain+tumors&qst=br"
+    },
+    {
+      "query": "cellular telephone use brain tumors",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=3&q=cellular+telephone+use+brain+tumors&qst=br"
+    },
+    {
+      "query": "malignant brain tumors cell phone use",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=4&q=malignant+brain+tumors+cell+phone+use&qst=br"
+    },
+    {
+      "query": "cellular telephones risk for brain tumors",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=5&q=cellular+telephones+risk+for+brain+tumors&qst=br"
+    },
+    {
+      "query": "cell phones acoustic nerve tumours",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=6&q=cell+phones+acoustic+nerve+tumours&qst=br"
+    },
+    {
+      "query": "phone use brain cancer incidence rate",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=7&q=phone+use+brain+cancer+incidence+rate&qst=br"
+    },
+    {
+      "query": "brain tumor risk mobile phone use",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=8&q=brain+tumor+risk+mobile+phone+use&qst=br"
+    },
+    {
+      "query": "study findings cell phone use",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=9&q=study+findings+cell+phone+use&qst=br"
+    },
+    {
+      "query": "interphone study group cellular phones",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=10&q=interphone+study+group+cellular+phones&qst=br"
+    },
+    {
+      "query": "brain tumours pooled analysis",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=11&q=brain+tumours+pooled+analysis&qst=br"
+    },
+    {
+      "query": "brain tumours cellular and cordless telephones",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=12&q=brain+tumours+cellular+and+cordless+telephones&qst=br"
+    },
+    {
+      "query": "mobile telephone use brain tumour risk",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=13&q=mobile+telephone+use+brain+tumour+risk&qst=br"
+    },
+    {
+      "query": "increased cancer risk cell phone use",
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,44&qsp=14&q=increased+cancer+risk+cell+phone+use&qst=br"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "3": "https://scholar.google.com/scholar?start=20&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "4": "https://scholar.google.com/scholar?start=30&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "5": "https://scholar.google.com/scholar?start=40&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "6": "https://scholar.google.com/scholar?start=50&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "7": "https://scholar.google.com/scholar?start=60&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "8": "https://scholar.google.com/scholar?start=70&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "9": "https://scholar.google.com/scholar?start=80&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44",
+      "10": "https://scholar.google.com/scholar?start=90&q=study+links+cell+phones+brain+cancer&hl=en&as_sdt=0,44"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=10",
+    "next": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=10",
+      "3": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=20",
+      "4": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=30",
+      "5": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=40",
+      "6": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=50",
+      "7": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=60",
+      "8": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=70",
+      "9": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=80",
+      "10": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=10&q=study+links+cell+phones+brain+cancer&start=90"
+    }
+  }
+}

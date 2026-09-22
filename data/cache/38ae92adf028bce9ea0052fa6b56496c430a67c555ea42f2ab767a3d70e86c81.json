@@ -1,0 +1,299 @@
+{
+  "search_metadata": {
+    "id": "6ab028eee8270747865ecb53",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pRU6RLMvqzs0-MSYZBHW2X3Rdn6gHyndcnnUcVFd-TE/6ab028eee8270747865ecb53.json",
+    "markdown_endpoint": "https://serpapi.com/searches/pRU6RLMvqzs0-MSYZBHW2X3Rdn6gHyndcnnUcVFd-TE/6ab028eee8270747865ecb53.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/pRU6RLMvqzs0-MSYZBHW2X3Rdn6gHyndcnnUcVFd-TE/6ab028eee8270747865ecb53.json_with_pixel_position",
+    "created_at": "2026-09-20 18:41:50 UTC",
+    "processed_at": "2026-09-20 18:41:50 UTC",
+    "google_url": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+2025&oq=nasa+discovers+huge+crater+moon+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/pRU6RLMvqzs0-MSYZBHW2X3Rdn6gHyndcnnUcVFd-TE/6ab028eee8270747865ecb53.html",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "nasa discovers huge crater moon 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "nasa discovers huge crater moon 2025",
+    "total_results": 58,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "h2CujniczVXbcqJIGH6AfY71JrNyEA-kiprqbkAxnsjBRG8obLBFhTagEr2bd5mn2qfZBkmEBJOdudjav6ptuvn9zx_fj59rL1j9_cePxXa7ia45Lo7jKqGUrN0qpj5nR4cAc3O6jkK8-H7YK7UKjhS-4npK0_Nie1dzenZzXB_QkThBfc8klfQvijWzI3fJLL4sI87i2M_qz5rKDtWo6gbV3TyaqrLg3PdaVZEX5OqQs32mAP476ZsAJnsXoMtK7JX2tanEgAGglrNkAJLu8Kw1Ob1GZvoKkYvW4MnnbapusqVax06sstusPurF_zIXsHCM01gAiNMoIfC-ziYnZpbLa16fVOpNuyhZ9ej5Jt_jQqwFIXHhqLMoLIDQ2UneGTOzKITxVilMQKtDoQrBw-W4WX1uDFBfAVMrSyEvpjaW3jrXm7TZDecQNrg8NwvZJnAeXuD0IYySeUb3Mk87xL_rReKY342f2t1xdzoQ-N49FlfSU8zhGdNbU9txHWth8d_TsyAKdV6uNVvfUiDh6A1JUR5JI7Cb3fUWkncE1V4VCq8wQqemgw8d09gZGSWJQZSplrQYnm-ThmknNVPP281aCQGiQLsFxdbejJK6tl-PbEaPrDV5jbPXZPg_wugkJKfMYJQGYtBMMa9x0mrnoJtrrAHKPjPv8zY750f1g2IBgIjluwKvsz55b3kCTES0BANI68CsarhoA-ULkAWsAZPA7HTORMuUcjElJTBM0AeGxmx6D4ZHEuOmdgo0GYbMl669Q9yFgZ8wN4_o33z6SgR-BaJEzFe8vBv_PGzas5rUIV4D7vFs9bI5qqJ7c7QOA9O2zHKYUH_2C4yD_1dAOvGRlvHRZSBpXwMp5SP4CR-lz2c-SoYX0YtAgu1yPuqX8lExbwRu80D6nI9-GUjoUyCd5rAUSLQcSJuLQCLxeyAV-Ugr56M3IP0OH8Hf5KMUV-5pK5LTbkkukpTefKLgcWTSls339bkkqi0d9BaHjT4wvySpub-99m1n_c3ynGsodrcH55vFLui161SelcCO7CvHizDdu2F0tdgR9wqH9tYNr3xKgyuRF-sVfx1ShbebffllaAj9Ea9uhefdFMb7x8adJG1E3-xJT-uBvpPGTy9DZxPYIRgMbXl5sPUHJN_YDT5eSst2b-IP8SKc3g4b0MGG2K6_jFV509r1x7q3b66evXm72Q5a3Vo3eK5P69MuUvet_RQdY5Ee7uRNd1Lv2wHpBDYRHpaNA0hjixT9GE3-6uDlbiRV_BArrP0SAQMTPBI2hyidT7YoWzFbDdYeWImwbbnRXnFcma_JWGjVa3Nh1ppXfLI9bBSZr0RBqAj_APyGPDk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h2CujniczVXbcqJIGH6AfY71JrNyEA-kiprqbkAxnsjBRG8obLBFhTagEr2bd5mn2qfZBkmEBJOdudjav6ptuvn9zx_fj59rL1j9_cePxXa7ia45Lo7jKqGUrN0qpj5nR4cAc3O6jkK8-H7YK7UKjhS-4npK0_Nie1dzenZzXB_QkThBfc8klfQvijWzI3fJLL4sI87i2M_qz5rKDtWo6gbV3TyaqrLg3PdaVZEX5OqQs32mAP476ZsAJnsXoMtK7JX2tanEgAGglrNkAJLu8Kw1Ob1GZvoKkYvW4MnnbapusqVax06sstusPurF_zIXsHCM01gAiNMoIfC-ziYnZpbLa16fVOpNuyhZ9ej5Jt_jQqwFIXHhqLMoLIDQ2UneGTOzKITxVilMQKtDoQrBw-W4WX1uDFBfAVMrSyEvpjaW3jrXm7TZDecQNrg8NwvZJnAeXuD0IYySeUb3Mk87xL_rReKY342f2t1xdzoQ-N49FlfSU8zhGdNbU9txHWth8d_TsyAKdV6uNVvfUiDh6A1JUR5JI7Cb3fUWkncE1V4VCq8wQqemgw8d09gZGSWJQZSplrQYnm-ThmknNVPP281aCQGiQLsFxdbejJK6tl-PbEaPrDV5jbPXZPg_wugkJKfMYJQGYtBMMa9x0mrnoJtrrAHKPjPv8zY750f1g2IBgIjluwKvsz55b3kCTES0BANI68CsarhoA-ULkAWsAZPA7HTORMuUcjElJTBM0AeGxmx6D4ZHEuOmdgo0GYbMl669Q9yFgZ8wN4_o33z6SgR-BaJEzFe8vBv_PGzas5rUIV4D7vFs9bI5qqJ7c7QOA9O2zHKYUH_2C4yD_1dAOvGRlvHRZSBpXwMp5SP4CR-lz2c-SoYX0YtAgu1yPuqX8lExbwRu80D6nI9-GUjoUyCd5rAUSLQcSJuLQCLxeyAV-Ugr56M3IP0OH8Hf5KMUV-5pK5LTbkkukpTefKLgcWTSls339bkkqi0d9BaHjT4wvySpub-99m1n_c3ynGsodrcH55vFLui161SelcCO7CvHizDdu2F0tdgR9wqH9tYNr3xKgyuRF-sVfx1ShbebffllaAj9Ea9uhefdFMb7x8adJG1E3-xJT-uBvpPGTy9DZxPYIRgMbXl5sPUHJN_YDT5eSst2b-IP8SKc3g4b0MGG2K6_jFV509r1x7q3b66evXm72Q5a3Vo3eK5P69MuUvet_RQdY5Ee7uRNd1Lv2wHpBDYRHpaNA0hjixT9GE3-6uDlbiRV_BArrP0SAQMTPBI2hyidT7YoWzFbDdYeWImwbbnRXnFcma_JWGjVa3Nh1ppXfLI9bBSZr0RBqAj_APyGPDk"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "My power's really low, so this may be the last image I ...",
+      "link": "https://x.com/NASAInSight/status/1604955574659035136",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVTgfZStHs_LBQ--8KlSFPGo_Po7g1UrRKzAx7Iu-ghHrK1nt7RmUySrtw2x8qwtPRZs0vIEPpLhjoA66siW-CrI-T9qgy106Nz1qRzReFm2oj07fXccwmjZc84IjbTXK0I0xuEnVwqA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://x.com › @NASAInSight",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+      "date": "Dec 19, 2022",
+      "snippet": "My power's really low, so this may be the last image I can send. Don't worry about me though: my time here has been both productive and ...",
+      "about_this_result": {
+        "source": {
+          "description": "My power's really low, so this may be the last image I can send. Don't worry about me though: my time here has been both productive and ...",
+          "source_info_link": "https://x.com/NASAInSight/status/1604955574659035136",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "X"
+    },
+    {
+      "position": 2,
+      "title": "NASA's SpaceX Crew-12 Launch",
+      "link": "https://www.youtube.com/watch?v=zCM-Kwq91cc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVN6Ipix_ILV7pDJksqKtwVKDG3gsK4gnyeU75Vu-A6mO_-o3sg6e_zaYJz44vEqF_frf8jwjMZLI0QzyoCQFYV_GOVueYMJ4VEol1HhOAF2RAjwHUEA0iUxZ0oSAc2w&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Feb 13, 2026",
+      "snippet": "Watch live as four explorers from three space agencies lift off for a scientific mission to the International Space Station. NASA astronauts ...",
+      "snippet_highlighted_words": [
+        "NASA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Watch live as four explorers from three space agencies lift off for a scientific mission to the International Space Station. NASA astronauts ...",
+          "source_info_link": "https://www.youtube.com/watch?v=zCM-Kwq91cc",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "NASA",
+      "link": "https://x.com/NASA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESSgHrOzAV34fVxC2PARv_6NadZeNXzLOWCjMOfxlJgqJJQk9wq-M0EKEBmjIE20iidtSy9Iqiu8wxm6iHYv1z-m4hNYzOojulNK4z&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://x.com › NASA",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+      "snippet": "Former NASA astronaut Harrison Schmitt, the twelfth and last person to step on the Moon, describes the magnificent view from the lunar surface.",
+      "snippet_highlighted_words": [
+        "NASA",
+        "Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Former NASA astronaut Harrison Schmitt, the twelfth and last person to step on the Moon, describes the magnificent view from the lunar surface.",
+          "source_info_link": "https://x.com/NASA",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "X",
+      "read_more_link": "https://x.com/NASA#:~:text=Former%20NASA%20astronaut%20Harrison%20Schmitt%2C,view%20from%20the%20lunar%20surface."
+    },
+    {
+      "position": 4,
+      "title": "NASA Science",
+      "link": "https://science.nasa.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVzI7-aRo-BUHrhXH_jTvMWUZIQXUOsnXYFoWU1gxCZhRn_FFjnYKNnDXrbpOX6w7RxQyYtSi0jNr5sIYs7Sbt785f_BLzQzp_xGpnzQ&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "snippet": "'Once-in-Century' Moon Crater. These maps depict the Moon as it will appear from the Northern or Southern Hemisphere on International Observe the Moon Night, ...",
+      "snippet_highlighted_words": [
+        "Moon Crater",
+        "Moon",
+        "Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "'Once-in-Century' Moon Crater. These maps depict the Moon as it will appear from the Northern or Southern Hemisphere on International Observe the Moon Night, ...",
+          "source_info_link": "https://science.nasa.gov/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "NASA Science (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "NASA's Artemis II Crew Comes Home (Official Broadcast)",
+      "link": "https://www.youtube.com/watch?v=nfhDuOHMp0A",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVsxQpM9FKup_vmovWHAQ9_mPnbRJPeCKSM0uO24Qut6AD_2ZtTOjqjgPmswSiN9dq6U1pvJbHMA2tHAiD7w2Qdkub8qS1ugLEM8TeWw1EKYCrGj7-_9riBfjjStMvtA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Apr 10, 2026",
+      "snippet": "On their Orion spacecraft, named Integrity, they flew around the Moon, making observations which will help enhance scientific understanding.",
+      "snippet_highlighted_words": [
+        "Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On their Orion spacecraft, named Integrity, they flew around the Moon, making observations which will help enhance scientific understanding.",
+          "source_info_link": "https://www.youtube.com/watch?v=nfhDuOHMp0A",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "YouTube"
+    },
+    {
+      "position": 6,
+      "title": "NASA | Seeing Photosynthesis from Space",
+      "link": "https://www.youtube.com/watch?v=1XilneV3cJI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVVMUQuPFmTHdsOwy38MloXaRBQgv8kFXdPLsLYM8F0Dlh4sSTGpwvkQkl5rAJFszE1jJzjWu3ybDptHYLdMcqF77I3dBgXlSdZMXj6FrJ4FmTHeq6xG9AsK1eHsZE5A&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Jul 24, 2013",
+      "snippet": "NASA scientists have discovered a new way to use satellites to measure what's occurring inside Earth's land plants at a cellular level.",
+      "snippet_highlighted_words": [
+        "NASA",
+        "discovered"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NASA scientists have discovered a new way to use satellites to measure what's occurring inside Earth's land plants at a cellular level.",
+          "source_info_link": "https://www.youtube.com/watch?v=1XilneV3cJI",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "YouTube"
+    },
+    {
+      "position": 7,
+      "title": "r/nasa",
+      "link": "https://www.reddit.com/r/nasa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVM3ZIvLMq0o6fx3YF86ormoq9i_ZhXYwUEM8cxsIrvhySOIZp_8qN1l-64_R8ZM7MTo5rBbrawKgOVO-2mgQxdS_DiDklKwMBB-P_7Ux6ZTMt&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECA4QAQ&uoh=1",
+      "displayed_link": "https://www.reddit.com › nasa",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater - NASA Science. September 22, 2025 Meet the newest class of NASA astronauts",
+      "snippet_highlighted_words": [
+        "September 22, 2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater - NASA Science. September 22, 2025 Meet the newest class of NASA astronauts",
+          "source_info_link": "https://www.reddit.com/r/nasa/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "Reddit"
+    },
+    {
+      "position": 8,
+      "title": "NASA Johnson Style (Gangnam Style Parody)",
+      "link": "https://www.youtube.com/watch?v=2Sar5WT76kE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVRxeqWTV5ztltcLFGGezZ3e0dlEfBWiIvarxWsXM5ZIetptH_Gwlyqjckek5jdfc_Bmk3McSK8d7D75G5LmKACc0Wb5yeKXy3Sdh66UaJy6jYJUiI9UqKgSfAZGQcPg&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+      "date": "Dec 14, 2012",
+      "snippet": "NASA Johnson Style is a volunteer outreach video project created by the students of NASA's Johnson Space Center. It was created as an ...",
+      "snippet_highlighted_words": [
+        "NASA",
+        "NASA's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "NASA Johnson Style is a volunteer outreach video project created by the students of NASA's Johnson Space Center. It was created as an ...",
+          "source_info_link": "https://www.youtube.com/watch?v=2Sar5WT76kE",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "YouTube"
+    },
+    {
+      "position": 9,
+      "title": "NASA Administrator Jared Isaacman",
+      "link": "https://x.com/NASAAdmin?lang=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVAX_NrXBpyVxRY6wJYM98G21wcGLYoCCx9YtmCv3wREtgp-_tTI4ldxno5gPvrPgK4Me_1cW25GwaNaG1p6M_zoFw9kCYY3baHKumR3nWJVBy6Q&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://x.com › NASAAdmin",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+      "snippet": "There is a lot we can do with the resources already on the Moon. We're going to put them to work as we build the Moon Base and prepare for Mars.",
+      "snippet_highlighted_words": [
+        "Moon",
+        "Moon"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There is a lot we can do with the resources already on the Moon. We're going to put them to work as we build the Moon Base and prepare for Mars.",
+          "source_info_link": "https://x.com/NASAAdmin?lang=en",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "X",
+      "read_more_link": "https://x.com/NASAAdmin?lang=en#:~:text=There%20is%20a%20lot%20we,Base%20and%20prepare%20for%20Mars."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+2025&sca_esv=de9039c1853f1b8f&ei=7iiwau3dLa7V5NoP2YCMiQg&start=10&sa=N&sstk=AS6-VmIzuhMfySwxStLN7hCWn7mFns27HNXvdU7l7LAQ9iIwfG5Ws1bK_vNdxQAmYOMnRbqJrvt5vwOvi_E_EfCfglz3PBZpl-1ORA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQ8NMDegQINhAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+2025&sca_esv=de9039c1853f1b8f&ei=7iiwau3dLa7V5NoP2YCMiQg&start=10&sa=N&sstk=AS6-VmIzuhMfySwxStLN7hCWn7mFns27HNXvdU7l7LAQ9iIwfG5Ws1bK_vNdxQAmYOMnRbqJrvt5vwOvi_E_EfCfglz3PBZpl-1ORA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQ8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+2025&sca_esv=de9039c1853f1b8f&ei=7iiwau3dLa7V5NoP2YCMiQg&start=20&sa=N&sstk=AS6-VmIzuhMfySwxStLN7hCWn7mFns27HNXvdU7l7LAQ9iIwfG5Ws1bK_vNdxQAmYOMnRbqJrvt5vwOvi_E_EfCfglz3PBZpl-1ORA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQ8tMDegQINhAG",
+      "4": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+2025&sca_esv=de9039c1853f1b8f&ei=7iiwau3dLa7V5NoP2YCMiQg&start=30&sa=N&sstk=AS6-VmIzuhMfySwxStLN7hCWn7mFns27HNXvdU7l7LAQ9iIwfG5Ws1bK_vNdxQAmYOMnRbqJrvt5vwOvi_E_EfCfglz3PBZpl-1ORA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQ8tMDegQINhAI",
+      "5": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+2025&sca_esv=de9039c1853f1b8f&ei=7iiwau3dLa7V5NoP2YCMiQg&start=40&sa=N&sstk=AS6-VmIzuhMfySwxStLN7hCWn7mFns27HNXvdU7l7LAQ9iIwfG5Ws1bK_vNdxQAmYOMnRbqJrvt5vwOvi_E_EfCfglz3PBZpl-1ORA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQ8tMDegQINhAK",
+      "6": "https://www.google.com/search?q=nasa+discovers+huge+crater+moon+2025&sca_esv=de9039c1853f1b8f&ei=7iiwau3dLa7V5NoP2YCMiQg&start=50&sa=N&sstk=AS6-VmIzuhMfySwxStLN7hCWn7mFns27HNXvdU7l7LAQ9iIwfG5Ws1bK_vNdxQAmYOMnRbqJrvt5vwOvi_E_EfCfglz3PBZpl-1ORA&ved=2ahUKEwjtjNTk5_2WAxWuKlkFHVkAI4EQ8tMDegQINhAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nasa+discovers+huge+crater+moon+2025&start=50"
+    }
+  }
+}

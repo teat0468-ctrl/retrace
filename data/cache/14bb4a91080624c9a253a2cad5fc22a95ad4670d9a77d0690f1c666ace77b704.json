@@ -1,0 +1,373 @@
+{
+  "search_metadata": {
+    "id": "6ab22de9970121737c4bb554",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6YWEMv-wlx8-YVRmPyrp9vpUSCgnikoq9Xfc0t06OgY/6ab22de9970121737c4bb554.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6YWEMv-wlx8-YVRmPyrp9vpUSCgnikoq9Xfc0t06OgY/6ab22de9970121737c4bb554.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6YWEMv-wlx8-YVRmPyrp9vpUSCgnikoq9Xfc0t06OgY/6ab22de9970121737c4bb554.json_with_pixel_position",
+    "created_at": "2026-09-22 07:27:37 UTC",
+    "processed_at": "2026-09-22 07:27:37 UTC",
+    "google_url": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&oq=newly+formed+century+asteroid+crater+found+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6YWEMv-wlx8-YVRmPyrp9vpUSCgnikoq9Xfc0t06OgY/6ab22de9970121737c4bb554.html",
+    "total_time_taken": 0.35
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "newly formed century asteroid crater found 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "newly formed century asteroid crater found 2025",
+    "total_results": 1820000,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Massive New Crater Found On Moon!",
+      "link": "https://www.youtube.com/shorts/gx750povN1Q",
+      "thumbnail": "https://serpapi.com/searches/6ab22de9970121737c4bb554/images/rodLDbDnOvzl8_h4NSOvYQbTp6E2BKQ35kGXGwqoOPg.jpeg",
+      "channel": "Scott Manley",
+      "duration": "1:40",
+      "platform": "YouTube",
+      "date": "Prieš 5 dienas",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTJGON0c4BOqC0pREa8Ge2vDNbCWu-XHnlsQg"
+    },
+    {
+      "position": 2,
+      "title": "NASA images reveal new Moon crater from possible asteroid ...",
+      "link": "https://www.youtube.com/watch?v=xgLA5rEmyp0",
+      "thumbnail": "https://serpapi.com/searches/6ab22de9970121737c4bb554/images/9uEhd99l1Ojou8WzVqjhPF-vzMhNhtZCPUji3rIxVDk.jpeg",
+      "channel": "ABC10",
+      "duration": "0:43",
+      "platform": "YouTube",
+      "date": "Prieš 4 dienas",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRplhty5DAe6ctSDbYSkPT1gkCaZGSl8eBmjA"
+    },
+    {
+      "position": 3,
+      "title": "A huge new crater the size of the Roman Colosseum has been ...",
+      "link": "https://www.facebook.com/newshour/videos/a-huge-new-crater-the-size-of-the-roman-colosseum-has-been-discovered-on-the-moo/2998063953876016/",
+      "thumbnail": "https://serpapi.com/searches/6ab22de9970121737c4bb554/images/OYUOmIGzOkoXdi_mmKTnhLZpp64X5DwQ6yOSOViIlDQ.jpeg",
+      "channel": "PBS NewsHour",
+      "duration": "1:35",
+      "platform": "Facebook",
+      "date": "Prieš 3 dienas"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What new asteroid was recently discovered?",
+      "type": "ai_overview",
+      "page_token": "h_NArnicHdBbjpswFABQdTPzOcE4pFKkqBINpKEBavA1M_6pPNcJDBhwE-cBf7OXWVVXU6lnCefj07wP3d8vt8Y5e1kvFvf7_bkex9ocn3HsF-oyDbhAZcybwm69-roi3064ia778PuffcjAWrEtvNKvKQOSY1VEQNPgjSQ7bQqGIpvUVh_UEA5pSdyxCi5ylgfRNrYAS9CTPoowAR7S1y5YpqY5qSFykpqYV-5HHjXXfLd0nOpZb2sPZlGUnjxzIFfOpaf6mByrZBRcr9JdTLUoIN_WJO2DpaT7ICPggMhYVsmjbBunfJexfnxgJydBZFvy-CZ36OvW_GRguCDhAeMmjBr0YU6C15eMqM4qRoXlEWHI9a9sMCE-xncGxYyt6cHUgQSdlTNMqie2NJnDiZxTY2jpFSYH-wD2dMLbhj79_9z8PvVubc9j_Q8joYMP",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h_NArnicHdBbjpswFABQdTPzOcE4pFKkqBINpKEBavA1M_6pPNcJDBhwE-cBf7OXWVVXU6lnCefj07wP3d8vt8Y5e1kvFvf7_bkex9ocn3HsF-oyDbhAZcybwm69-roi3064ia778PuffcjAWrEtvNKvKQOSY1VEQNPgjSQ7bQqGIpvUVh_UEA5pSdyxCi5ylgfRNrYAS9CTPoowAR7S1y5YpqY5qSFykpqYV-5HHjXXfLd0nOpZb2sPZlGUnjxzIFfOpaf6mByrZBRcr9JdTLUoIN_WJO2DpaT7ICPggMhYVsmjbBunfJexfnxgJydBZFvy-CZ36OvW_GRguCDhAeMmjBr0YU6C15eMqM4qRoXlEWHI9a9sMCE-xncGxYyt6cHUgQSdlTNMqie2NJnDiZxTY2jpFSYH-wD2dMLbhj79_9z8PvVubc9j_Q8joYMP",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJXaGF0IG5ldyBhc3Rlcm9pZCB3YXMgcmVjZW50bHkgZGlzY292ZXJlZD8iLCJsayI6IkdoZHVaWGNnWVhOMFpYSnZhV1FnWkdselkyOTJaWEpsWkEiLCJicyI6ImMzV1BNUXZDTUJDRmNiMUpYS1J4dVVFN09OWlZLT0xnS0xoMERzbEpJdllDU2JUMDN4dGpSVHQwZV9DLTk5NGRuR0RiR0JtUnFVTVpJbmxuTlhZeW9DZEZITzg5YWh1VWU1SW5YVmVGV0k3QW53Y1gyRFVtcVJ5T2hyQjFJUTR0MkZJazUxRjVtWUtqeHBVb0prSFlRM2xJalRIM1N1N3psUjh2b09OaHhuRmRMY1Q4TGY0Qk9NTW12NmJUb1VkaldlTHRrWmF1bHZVNFhJcDE5d1hWTkRpZnZRQSIsImlkIjoiZmNfNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJXaGF0IG5ldyBhc3Rlcm9pZCB3YXMgcmVjZW50bHkgZGlzY292ZXJlZD8iLCJsayI6IkdoZHVaWGNnWVhOMFpYSnZhV1FnWkdselkyOTJaWEpsWkEiLCJicyI6ImMzV1BNUXZDTUJDRmNiMUpYS1J4dVVFN09OWlZLT0xnS0xoMERzbEpJdllDU2JUMDN4dGpSVHQwZV9DLTk5NGRuR0RiR0JtUnFVTVpJbmxuTlhZeW9DZEZITzg5YWh1VWU1SW5YVmVGV0k3QW53Y1gyRFVtcVJ5T2hyQjFJUTR0MkZJazUxRjVtWUtqeHBVb0prSFlRM2xJalRIM1N1N3psUjh2b09OaHhuRmRMY1Q4TGY0Qk9NTW12NmJUb1VkaldlTHRrWmF1bHZVNFhJcDE5d1hWTkRpZnZRQSIsImlkIjoiZmNfNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXNfNSJ9"
+    },
+    {
+      "question": "Where was the most recent meteor crater discovered?",
+      "type": "ai_overview",
+      "page_token": "7054S3icHdBdboIwAADg7DI-SgvijIlZhlhcHRBLWwovC7T-IOVnw6zK2-6yU-00y3aB7-H7-tZVW_88iPP12g9LyzLGTE9dd9KHqewaqxjurbRkoXVZyHo5f5zDp6NcbQbjrTvj7Vnfc58AGrhHyTAtmhrGvicUxTvOz7c9ICEdw5EjXNH2BEIbxSp1h4jjitnKJBzZFOpZ0Xr3UqD40GSG0BwmrPdKG8-YDVvu8HUGJFTCm5F6ASNf2cWfDzJ3P9YmQjiX_NnJt6FbBMwteTRP0Ispt1pEo96VG_jKgdvQTeeQQH0ygQPSDAkacxq2-iwd_p7o3lepDin3bhFY2AeGxqDCHtlG9zjNiXD4JfYJzpi6KcGrUOBLBKB9QOdUgP7GECaTo_xcOZP_sdXbsbku-4_u9AvB4nZI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7054S3icHdBdboIwAADg7DI-SgvijIlZhlhcHRBLWwovC7T-IOVnw6zK2-6yU-00y3aB7-H7-tZVW_88iPP12g9LyzLGTE9dd9KHqewaqxjurbRkoXVZyHo5f5zDp6NcbQbjrTvj7Vnfc58AGrhHyTAtmhrGvicUxTvOz7c9ICEdw5EjXNH2BEIbxSp1h4jjitnKJBzZFOpZ0Xr3UqD40GSG0BwmrPdKG8-YDVvu8HUGJFTCm5F6ASNf2cWfDzJ3P9YmQjiX_NnJt6FbBMwteTRP0Ispt1pEo96VG_jKgdvQTeeQQH0ygQPSDAkacxq2-iwd_p7o3lepDin3bhFY2AeGxqDCHtlG9zjNiXD4JfYJzpi6KcGrUOBLBKB9QOdUgP7GECaTo_xcOZP_sdXbsbku-4_u9AvB4nZI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJXaGVyZSB3YXMgdGhlIG1vc3QgcmVjZW50IG1ldGVvciBjcmF0ZXIgZGlzY292ZXJlZD8iLCJsayI6IkdobHRiM04wSUhKbFkyVnVkQ0J0WlhSbGIzSWdZM0poZEdWeSIsImJzIjoiYzNXUE1RdkNNQkNGY2IxSlhLUnh1VUU3T05aVktPTGdLTGgwRHNsSkl2WUNTYlQwM3h0alJUdDBlX0MtOTk0ZG5HRGJHQm1ScVVNWklubG5OWFl5b0NkRkhPODlhaHVVZTVJblhWZUZXSTdBbndjWDJEVW1xUnlPaHJCMUlRNHQyRklrNTFGNW1ZS2p4cFVvSmtIWVEzbElqVEgzU3U3emxSOHZvT05oeG5GZExjVDhMZjRCT01NbXY2YlRvVWRqV2VMdGtaYXVsdlU0WElwMTl3WFZORGlmdlFBIiwiaWQiOiJmY182UzJ5YXN1akpaQ3VpTE1QcTdPNnlBc181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJXaGVyZSB3YXMgdGhlIG1vc3QgcmVjZW50IG1ldGVvciBjcmF0ZXIgZGlzY292ZXJlZD8iLCJsayI6IkdobHRiM04wSUhKbFkyVnVkQ0J0WlhSbGIzSWdZM0poZEdWeSIsImJzIjoiYzNXUE1RdkNNQkNGY2IxSlhLUnh1VUU3T05aVktPTGdLTGgwRHNsSkl2WUNTYlQwM3h0alJUdDBlX0MtOTk0ZG5HRGJHQm1ScVVNWklubG5OWFl5b0NkRkhPODlhaHVVZTVJblhWZUZXSTdBbndjWDJEVW1xUnlPaHJCMUlRNHQyRklrNTFGNW1ZS2p4cFVvSmtIWVEzbElqVEgzU3U3emxSOHZvT05oeG5GZExjVDhMZjRCT01NbXY2YlRvVWRqV2VMdGtaYXVsdlU0WElwMTl3WFZORGlmdlFBIiwiaWQiOiJmY182UzJ5YXN1akpaQ3VpTE1QcTdPNnlBc181In0%3D"
+    },
+    {
+      "question": "Are there any new craters on the moon?",
+      "type": "ai_overview",
+      "page_token": "fye_t3icHdDbToMwGADg-DJeOgpuhiWLEVdwTDopPdDdmFJ2cPxAVRyMO9_Fp_JpTPwe4fv-gbem-r06H7vOfs4nk77vbw5te4DdjWnrif68NGZiNEChTTWf3c3Q_d4s8NcqeHxfBSm3Viypk4FySi_mLAo3TPoqZUGoatQTXkImpyMRcVJiuJQemT0zOOunWGsX5SkIQuqpzgTJdvJYURxG3EWPOTqKgnd2dyLOtqFWQkyF7AbDaZXl2EtOYs2jTpkIrTkEK1XRNnFCucV0rWsktYzPjNvbxKGeAeOayPGKpVgrxIcC-8kuQpUOSVY4q1uVPwwF-Nus7qhmuOdN3OCjcfkYT1VOkK6sTj1hGUapYeULaSAwQ_uWcjqaE9QipFPuDmwjY5QtQZFmC7TyTyanY1L73mbJx7K_3pvzwrv-_1y87utubj_awx_jMIH8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fye_t3icHdDbToMwGADg-DJeOgpuhiWLEVdwTDopPdDdmFJ2cPxAVRyMO9_Fp_JpTPwe4fv-gbem-r06H7vOfs4nk77vbw5te4DdjWnrif68NGZiNEChTTWf3c3Q_d4s8NcqeHxfBSm3Viypk4FySi_mLAo3TPoqZUGoatQTXkImpyMRcVJiuJQemT0zOOunWGsX5SkIQuqpzgTJdvJYURxG3EWPOTqKgnd2dyLOtqFWQkyF7AbDaZXl2EtOYs2jTpkIrTkEK1XRNnFCucV0rWsktYzPjNvbxKGeAeOayPGKpVgrxIcC-8kuQpUOSVY4q1uVPwwF-Nus7qhmuOdN3OCjcfkYT1VOkK6sTj1hGUapYeULaSAwQ_uWcjqaE9QipFPuDmwjY5QtQZFmC7TyTyanY1L73mbJx7K_3pvzwrv-_1y87utubj_awx_jMIH8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJBcmUgdGhlcmUgYW55IG5ldyBjcmF0ZXJzIG9uIHRoZSBtb29uPyIsImxrIjoiR2hCdGIyOXVJRzVsZHlCamNtRjBaWEp6IiwiYnMiOiJjM1dQTVF2Q01CQ0ZjYjFKWEtSeHVVRTdPTlpWS09MZ0tMaDBEc2xKSXZZQ1NiVDAzeHRqUlR0MGVfQy05OTRkbkdEYkdCbVJxVU1aSW5sbk5YWXlvQ2RGSE84OWFodVVlNUluWFZlRldJN0Fud2NYMkRVbXFSeU9ockIxSVE0dDJGSWs1MUY1bVlLanhwVW9Ka0hZUTNsSWpUSDNTdTd6bFI4dm9PTmh4bkZkTGNUOExmNEJPTU1tdjZiVG9VZGpXZUx0a1phdWx2VTRYSXAxOXdYVk5EaWZ2UUEiLCJpZCI6ImZjXzZTMnlhc3VqSlpDdWlMTVBxN082eUFzXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJBcmUgdGhlcmUgYW55IG5ldyBjcmF0ZXJzIG9uIHRoZSBtb29uPyIsImxrIjoiR2hCdGIyOXVJRzVsZHlCamNtRjBaWEp6IiwiYnMiOiJjM1dQTVF2Q01CQ0ZjYjFKWEtSeHVVRTdPTlpWS09MZ0tMaDBEc2xKSXZZQ1NiVDAzeHRqUlR0MGVfQy05OTRkbkdEYkdCbVJxVU1aSW5sbk5YWXlvQ2RGSE84OWFodVVlNUluWFZlRldJN0Fud2NYMkRVbXFSeU9ockIxSVE0dDJGSWs1MUY1bVlLanhwVW9Ka0hZUTNsSWpUSDNTdTd6bFI4dm9PTmh4bkZkTGNUOExmNEJPTU1tdjZiVG9VZGpXZUx0a1phdWx2VTRYSXAxOXdYVk5EaWZ2UUEiLCJpZCI6ImZjXzZTMnlhc3VqSlpDdWlMTVBxN082eUFzXzUifQ%3D%3D"
+    },
+    {
+      "question": "What did China just find on the moon?",
+      "type": "ai_overview",
+      "page_token": "DOCN53icHdBdboIwAADg7DI-qgVhwcQsQwrKQhmVlp-XpbYqQgt1MFHfdpedaqdZsu8I3_ePPLfN79O1GgbdL2ezcRynp647ycOUd2rG-nvLZ5xJuWe8WdrPNng58hX82rrry9ZNiNbUw_NdXt4FdWKS-xsx13fquWVUiyPL_G1Sh31khB1Jqb9vXYw81ES-K0lwSwgQXtRoSM0qjwPkEcNBZVqZMRUAG6g4EKsTO-AneQiZsnBhiO0hCxeR6V7TRselL9JIWTby6JzXeIOgtneZ1KmSmkJkF-A0ZNDq9hJfcVop0eCeGlYVKeThDS5oxkHSVjY1haL1K9hnzrokFYYVN8gjtIocAdZolphUpxAkPBXvqJUuv3XnhOAHr6UiFO0i6SzY_LbJgXyLA7_n0LJZMGDS0kscOHE5To78ujIn_5-rj6MalvqzO_0BlIKBMw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DOCN53icHdBdboIwAADg7DI-qgVhwcQsQwrKQhmVlp-XpbYqQgt1MFHfdpedaqdZsu8I3_ePPLfN79O1GgbdL2ezcRynp647ycOUd2rG-nvLZ5xJuWe8WdrPNng58hX82rrry9ZNiNbUw_NdXt4FdWKS-xsx13fquWVUiyPL_G1Sh31khB1Jqb9vXYw81ES-K0lwSwgQXtRoSM0qjwPkEcNBZVqZMRUAG6g4EKsTO-AneQiZsnBhiO0hCxeR6V7TRselL9JIWTby6JzXeIOgtneZ1KmSmkJkF-A0ZNDq9hJfcVop0eCeGlYVKeThDS5oxkHSVjY1haL1K9hnzrokFYYVN8gjtIocAdZolphUpxAkPBXvqJUuv3XnhOAHr6UiFO0i6SzY_LbJgXyLA7_n0LJZMGDS0kscOHE5To78ujIn_5-rj6MalvqzO_0BlIKBMw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJXaGF0IGRpZCBDaGluYSBqdXN0IGZpbmQgb24gdGhlIG1vb24/IiwibGsiOiJHaVIzYUdGMElHUnBaQ0JqYUdsdVlTQnFkWE4wSUdacGJtUWdiMjRnZEdobElHMXZiMjQiLCJicyI6ImMzV1BNUXZDTUJDRmNiMUpYS1J4dVVFN09OWlZLT0xnS0xoMERzbEpJdllDU2JUMDN4dGpSVHQwZV9DLTk5NGRuR0RiR0JtUnFVTVpJbmxuTlhZeW9DZEZITzg5YWh1VWU1SW5YVmVGV0k3QW53Y1gyRFVtcVJ5T2hyQjFJUTR0MkZJazUxRjVtWUtqeHBVb0prSFlRM2xJalRIM1N1N3psUjh2b09OaHhuRmRMY1Q4TGY0Qk9NTW12NmJUb1VkaldlTHRrWmF1bHZVNFhJcDE5d1hWTkRpZnZRQSIsImlkIjoiZmNfNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1ETXdORXRwTFRSTlVrbFlaVXBJT1U1WU9FUkpWMDF5TkRSMGQzVllZWGhOVEVKb1kzbHJlV3BxUVVNME9GVnFlVXd4VWtaYVVWQkxibEZRVEZWWFh6RlFUbGxoVGw5clJrbFliVTFqZGprMmF6YzJTVkZxT0VkNlVSSVhObE15ZVdGemRXcEtXa04xYVV4TlVIRTNUelo1UVhNYUlrRkVjM0k1WmxGNFV6UnlaMlF3WWtoUlJGOWpVWGgxU0dKcU5GbE9aRXBCVlZFIiwiZmN2IjoiMyIsImVpIjoiNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXMiLCJxYyI6ImMtUFN6MHN0ejZsVVNNc3Z5azFOVVVoT3pTc3BMYXBVU0N3dVNTM0t6d1FLRkNVQ1dVRHAwcndVQlNNREkxTUJodHBuN2VMMkFBIiwicXVlc3Rpb24iOiJXaGF0IGRpZCBDaGluYSBqdXN0IGZpbmQgb24gdGhlIG1vb24%2FIiwibGsiOiJHaVIzYUdGMElHUnBaQ0JqYUdsdVlTQnFkWE4wSUdacGJtUWdiMjRnZEdobElHMXZiMjQiLCJicyI6ImMzV1BNUXZDTUJDRmNiMUpYS1J4dVVFN09OWlZLT0xnS0xoMERzbEpJdllDU2JUMDN4dGpSVHQwZV9DLTk5NGRuR0RiR0JtUnFVTVpJbmxuTlhZeW9DZEZITzg5YWh1VWU1SW5YVmVGV0k3QW53Y1gyRFVtcVJ5T2hyQjFJUTR0MkZJazUxRjVtWUtqeHBVb0prSFlRM2xJalRIM1N1N3psUjh2b09OaHhuRmRMY1Q4TGY0Qk9NTW12NmJUb1VkaldlTHRrWmF1bHZVNFhJcDE5d1hWTkRpZnZRQSIsImlkIjoiZmNfNlMyeWFzdWpKWkN1aUxNUHE3TzZ5QXNfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "mnQtuHiczVXrcqpIEH6AfY71TxK5iFFTRZ2aGVHBSyTExOQPBYgDQcQwKOKvs--yT7VPswOKd03O-bG1XVxmerp7uqf7m_7r74k79f7546cTRTPywDBxHBdxEOCJXbQCnzFIMrWYcTAhoeX8SBZiqWARkS3Yrniv8YlB5h_KO5q7nW7_s_J4nwBSyFRE3TSI_UEtLj8IozP04_1ZqtNJkRQnUbH63GLn8sTr8t0iz3K14iNj-FQA_HckO-lXBR6QrwilEt8hjIEEgLJjIJT9pNwMFUknmI5RykTp-Pye0lr-CeHMQdCv91d1i44HucjjRT9Q6u5bPok3zsXZfjDd8Uqwx6ayh1Jjw5Cuil-IBh-YAN29pav2uscM1BdSY7nSgTIG6m57OV3cVJKFQbUVwDrcnd0pUYW2DMoeUKWvkq1KLwLKt-q8NSmHGWFauCxjhvTHMa7lWNkgJGk9o-caG7QE0xzZyqxz55QDrrwS7hxMNGlVfZIxY5lUbhIYI3ukOzr7I5tzPFdma6VK9TYDkkW2SCL7SHqOW6wDe1GA1GKnCLkcRmibZ3Tov5Qm9VwJQLQRRadrVCE_bQS2lrFxILTOsLStr_38BLX1McOc0SIAxNKeyM6llHkKo9yPnFIYrVOKs-GmzPadl4G2F-h-Yj1wQidR033jNYzU-ongYalDoHgAHBzRHmEEIZJVuD6hTyHzSdgdxeaOUdUj7fR-oBeFnJ_2Vjaj7i4eutLOcFFHCFK7wSwVUzYRpwruzirM2DtleB6DaTwd9AXgLxH8zo2p5ng5Kv992EhG2NLfW16npLcV37cWs-FTRemVp_UhPg-TwDd_oeNY_ysg5f1okvEvA0n9FpAwli73I3TUj1IgIYzxBSBJ2oV-xOYiu350HDXS9oD0RT_6VSBJV4GEd2ZOgdQ4ByTpGpDSfnQAJI32o3jrLTzfj7ZA-p1-BH-zH2W4ste_w-Y0_8AXm1Qz7HDVp7jjfkA2epLaXvnOdd7LvTCG6pdNauxHD74xmtzq7ugB8kqUjG51ygge7FHhU5za8SS5GQehb49uLHsazcPkxiCRHQYuZYQGHdHl-XR0w7N8ueBPwkBkDSEIuWjYEhSpV-OIZ3ZflfEc-e5yybr9laq7Cv84dOfTcBG8VRvDxyHrxy8LCAdWd8CyOt-fkt7CrCVeSTMb06XDv0av0l1S0iqdgSL0kFBuBkhb1poVtr8QPLwKI5U44-duMmhUZ8O2pWllq9MGmT9EDAeriipIL3JbLvihJdJiEDDoqeAVAws034BKU6GigL4xfe9pdmCBWIZuk4VoV2qcwPEla1wyOdOuFnwcJTOxxhbINBS5fwGYDz4L",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mnQtuHiczVXrcqpIEH6AfY71TxK5iFFTRZ2aGVHBSyTExOQPBYgDQcQwKOKvs--yT7VPswOKd03O-bG1XVxmerp7uqf7m_7r74k79f7546cTRTPywDBxHBdxEOCJXbQCnzFIMrWYcTAhoeX8SBZiqWARkS3Yrniv8YlB5h_KO5q7nW7_s_J4nwBSyFRE3TSI_UEtLj8IozP04_1ZqtNJkRQnUbH63GLn8sTr8t0iz3K14iNj-FQA_HckO-lXBR6QrwilEt8hjIEEgLJjIJT9pNwMFUknmI5RykTp-Pye0lr-CeHMQdCv91d1i44HucjjRT9Q6u5bPok3zsXZfjDd8Uqwx6ayh1Jjw5Cuil-IBh-YAN29pav2uscM1BdSY7nSgTIG6m57OV3cVJKFQbUVwDrcnd0pUYW2DMoeUKWvkq1KLwLKt-q8NSmHGWFauCxjhvTHMa7lWNkgJGk9o-caG7QE0xzZyqxz55QDrrwS7hxMNGlVfZIxY5lUbhIYI3ukOzr7I5tzPFdma6VK9TYDkkW2SCL7SHqOW6wDe1GA1GKnCLkcRmibZ3Tov5Qm9VwJQLQRRadrVCE_bQS2lrFxILTOsLStr_38BLX1McOc0SIAxNKeyM6llHkKo9yPnFIYrVOKs-GmzPadl4G2F-h-Yj1wQidR033jNYzU-ongYalDoHgAHBzRHmEEIZJVuD6hTyHzSdgdxeaOUdUj7fR-oBeFnJ_2Vjaj7i4eutLOcFFHCFK7wSwVUzYRpwruzirM2DtleB6DaTwd9AXgLxH8zo2p5ng5Kv992EhG2NLfW16npLcV37cWs-FTRemVp_UhPg-TwDd_oeNY_ysg5f1okvEvA0n9FpAwli73I3TUj1IgIYzxBSBJ2oV-xOYiu350HDXS9oD0RT_6VSBJV4GEd2ZOgdQ4ByTpGpDSfnQAJI32o3jrLTzfj7ZA-p1-BH-zH2W4ste_w-Y0_8AXm1Qz7HDVp7jjfkA2epLaXvnOdd7LvTCG6pdNauxHD74xmtzq7ugB8kqUjG51ygge7FHhU5za8SS5GQehb49uLHsazcPkxiCRHQYuZYQGHdHl-XR0w7N8ueBPwkBkDSEIuWjYEhSpV-OIZ3ZflfEc-e5yybr9laq7Cv84dOfTcBG8VRvDxyHrxy8LCAdWd8CyOt-fkt7CrCVeSTMb06XDv0av0l1S0iqdgSL0kFBuBkhb1poVtr8QPLwKI5U44-duMmhUZ8O2pWllq9MGmT9EDAeriipIL3JbLvihJdJiEDDoqeAVAws034BKU6GigL4xfe9pdmCBWIZuk4VoV2qcwPEla1wyOdOuFnwcJTOxxhbINBS5fwGYDz4L"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "NASA's Moon Orbiter Spots New, 'Once-in-Century ...",
+      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFfaujk7gKjhu2bX9HxB40BpU06gYZPLEpwuamILZHV-xGQqNPRC1wSUBWPYtC99Wk6WKnnB_l0tp1-g3rfr9GIvzZWI3saC0q5YJfIO-p4IAp5gZTpeQ8kOvm-Vd2bc3Yuipnnxl6RSpCDDwaGEyqu5aIFYElU6TmQXBkgoAZj12nf5o3LwfjY1X3oZdOYQYmv0-HqrCB8M&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://science.nasa.gov › solar-system",
+      "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp",
+      "date": "prieš 6 dienas",
+      "snippet": "An overhead, close-up view of McGetchin crater that was taken on Dec. 5, 2025, by NASA's Lunar Reconnaissance Orbiter (LRO) Narrow-Angle Camera ...",
+      "snippet_highlighted_words": [
+        "McGetchin crater that was taken on Dec. 5, 2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An overhead, close-up view of McGetchin crater that was taken on Dec. 5, 2025, by NASA's Lunar Reconnaissance Orbiter (LRO) Narrow-Angle Camera ...",
+          "source_info_link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+          "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAAAQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIgbQDbKc_BpgG8io0EIBymGeG3FKKB_DxL0v4tbdwlJt5yCF9i5acbKEAAP72CaO19QnOJC4ei9hFq7jcD974mHWSgfG2VHDTqdRDMVUHbr_ZeOiBQmT1yuY1x_rDyLiJY6AvZHGNaySnrDCdv8zsuI0bHf3u_nWhv4tx0GWbUBW53O06-9pzH8Qvy3zco25s94fFdA4Vjdi8qoBpRUsXnODt1q9n3zMeExpwfgZSnnZhVW8xbOMJbRu_IOkce98zdj_DRid96LXN20ajuNjaig9YtAsJhJurf_Cn8gp-p03w00tPOEC_pqvizsVvF-fFwW17vw6pXr9CsIhFc9gck_rgaHaiT3_m9hzuukPdcFyPWPEL7bSJZP6EIrTdLn_mn-HDm2ggNAFk8mMq49uMB8-k-01-VSuZ-rQpu5uh3rQVD3F4oUF_CQAAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZmYXVqazdnS2podTJiWDlIeEI0MEJwVTA2Z1laUExFcHd1YW1JTFpIVi14R1FxTlBSQzF3U1VCV1BZdEM5OVdrNldLbm5CX2wwdHAxLWczcmZyOUdJdnpaV0kzc2FDMHE1WUpmSU8tcDRJQXA1Z1pUcGVROGtPdm0tVmQyYmMzWXVpcG5ueGw2UlNwQ0REd2FHRXlxdTVhSUZZRWxVNlRtUVhCa2dvQVpqMTJuZjVvM0x3ZmpZMVgzb1pkT1lRWW12MC1IcXJDQjhNEgQaAggAGuAHEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkC4BwgAEAAYACAAKkEKBW5ld2x5FVKdxz4aA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFVIHjz8aB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FTqvSUAaCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBXdcEw-GgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVcLiOQBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQVH3kcPxoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUV2ALYPhoJaXY7bjsyMDI1MuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZmYXVqazdnS2podTJiWDlIeEI0MEJwVTA2Z1laUExFcHd1YW1JTFpIVi14R1FxTlBSQzF3U1VCV1BZdEM5OVdrNldLbm5CX2wwdHAxLWczcmZyOUdJdnpaV0kzc2FDMHE1WUpmSU8tcDRJQXA1Z1pUcGVROGtPdm0tVmQyYmMzWXVpcG5ueGw2UlNwQ0REd2FHRXlxdTVhSUZZRWxVNlRtUVhCa2dvQVpqMTJuZjVvM0x3ZmpZMVgzb1pkT1lRWW12MC1IcXJDQjhNOl1OQVNBJiMzOTtzIE1vb24gT3JiaXRlciBTcG90cyA8Yj5OZXc8L2I-LCAmIzM5O09uY2UtaW4tPGI-Q2VudHVyeTwvYj4mIzM5OyBNb29uIDxiPkNyYXRlcjwvYj5CowFBbiBvdmVyaGVhZCwgY2xvc2UtdXAgdmlldyBvZiA8Yj5NY0dldGNoaW4gY3JhdGVyIHRoYXQgd2FzIHRha2VuIG9uIERlYy4gNSwgMjAyNTwvYj4sIGJ5IE5BU0EmIzM5O3MgTHVuYXIgUmVjb25uYWlzc2FuY2UgT3JiaXRlciAoTFJPKSBOYXJyb3ctQW5nbGUgQ2FtZXJhJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZmYXVqazdnS2podTJiWDlIeEI0MEJwVTA2Z1laUExFcHd1YW1JTFpIVi14R1FxTlBSQzF3U1VCV1BZdEM5OVdrNldLbm5CX2wwdHAxLWczcmZyOUdJdnpaV0kzc2FDMHE1WUpmSU8tcDRJQXA1Z1pUcGVROGtPdm0tVmQyYmMzWXVpcG5ueGw2UlNwQ0REd2FHRXlxdTVhSUZZRWxVNlRtUVhCa2dvQVpqMTJuZjVvM0x3ZmpZMVgzb1pkT1lRWW12MC1IcXJDQjhNEgQaAggAGuAHEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkC4BwgAEAAYACAAKkEKBW5ld2x5FVKdxz4aA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFVIHjz8aB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FTqvSUAaCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBXdcEw-GgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVcLiOQBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQVH3kcPxoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUV2ALYPhoJaXY7bjsyMDI1MuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZmYXVqazdnS2podTJiWDlIeEI0MEJwVTA2Z1laUExFcHd1YW1JTFpIVi14R1FxTlBSQzF3U1VCV1BZdEM5OVdrNldLbm5CX2wwdHAxLWczcmZyOUdJdnpaV0kzc2FDMHE1WUpmSU8tcDRJQXA1Z1pUcGVROGtPdm0tVmQyYmMzWXVpcG5ueGw2UlNwQ0REd2FHRXlxdTVhSUZZRWxVNlRtUVhCa2dvQVpqMTJuZjVvM0x3ZmpZMVgzb1pkT1lRWW12MC1IcXJDQjhNOl1OQVNBJiMzOTtzIE1vb24gT3JiaXRlciBTcG90cyA8Yj5OZXc8L2I-LCAmIzM5O09uY2UtaW4tPGI-Q2VudHVyeTwvYj4mIzM5OyBNb29uIDxiPkNyYXRlcjwvYj5CowFBbiBvdmVyaGVhZCwgY2xvc2UtdXAgdmlldyBvZiA8Yj5NY0dldGNoaW4gY3JhdGVyIHRoYXQgd2FzIHRha2VuIG9uIERlYy4gNSwgMjAyNTwvYj4sIGJ5IE5BU0EmIzM5O3MgTHVuYXIgUmVjb25uYWlzc2FuY2UgT3JiaXRlciAoTFJPKSBOYXJyb3ctQW5nbGUgQ2FtZXJhJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "source": "NASA Science (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "A NASA spacecraft just found a giant new crater on the ...",
+      "link": "https://www.space.com/astronomy/moon/nasa-just-found-a-giant-new-crater-on-the-moon-heres-why-everyones-talking-the-once-in-a-century-discovery",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFdHVMBuqluBDqgRYlFVauchjrQ8urGAKxr5MLBx2TXdPgeoSKczuwEYjZjOV7FjwNm1yCGwlGjfOyQqxEZoqG7fDDTofVcMmi53K94RRjNOeQRpoOEQqPdtuL9s09s_tEcxE9XCt9D3SL8Br4r2SeuMY2od3WsufHwNy7Evn58Riy_zXfbWY12ytmf3wOPd8xOgqoqdr2UMwq5EnWl9SpRkkcw2xnqUHivg_VLrhJSY51OpmaV94wQkrhQtMZq5L9E8rkw&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.space.com › moon › na...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAArUlEQVR4Ab3MIQiDQACF4derHYQ1u2W9w8qSbR0Ma6tGq8m8ftFkB_ulK4LFZLl48HbqBHfnxfnVH36c4RIjoB5pTc0NnqvmRqVwGO44TdAyUnFWOnEi2cHKB0o4aD2wKJOj2CFgpGXEHUcqfnUv-CQ3poCnMtwI-PJWc5XhSFovvUVAT1Lhl2qwevtRkLqAFWtvW3ExyJ6zHHuZ4Y6Cowk3K6oVZ_KJgCTC_30Ao2m5x0qFcx0AAAAASUVORK5CYII.png",
+      "date": "prieš 4 dienas",
+      "snippet": "Named McGetchin crater, the feature formed sometime between April 11 and May 22 in the year 2024 when an asteroid or comet fragment struck the ...",
+      "snippet_highlighted_words": [
+        "crater",
+        "formed",
+        "asteroid",
+        "comet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Named McGetchin crater, the feature formed sometime between April 11 and May 22 in the year 2024 when an asteroid or comet fragment struck the ...",
+          "source_info_link": "https://www.space.com/astronomy/moon/nasa-just-found-a-giant-new-crater-on-the-moon-heres-why-everyones-talking-the-once-in-a-century-discovery",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAArUlEQVR4Ab3MIQiDQACF4derHYQ1u2W9w8qSbR0Ma6tGq8m8ftFkB_ulK4LFZLl48HbqBHfnxfnVH36c4RIjoB5pTc0NnqvmRqVwGO44TdAyUnFWOnEi2cHKB0o4aD2wKJOj2CFgpGXEHUcqfnUv-CQ3poCnMtwI-PJWc5XhSFovvUVAT1Lhl2qwevtRkLqAFWtvW3ExyJ6zHHuZ4Y6Cowk3K6oVZ_KJgCTC_30Ao2m5x0qFcx0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZkSFZNQnVxbHVCRHFnUllsRlZhdWNoanJROHVyR0FLeHI1TUxCeDJUWGRQZ2VvU0tjenV3RVlqWmpPVjdGandObTF5Q0d3bEdqZk95UXF4RVpvcUc3ZkREVG9mVmNNbWk1M0s5NFJSak5PZVFScG9PRVFxUGR0dUw5czA5c190RWN4RTlYQ3Q5RDNTTDhCcjRyMlNldU1ZMm9kM1dzdWZId055N0V2bjU4Uml5X3pYZmJXWTEyeXRtZjN3T1BkOHhPZ3FvcWRyMlVNd3E1RW5XbDlTcFJra2N3MnhucVVIaXZnX1ZMcmhKU1k1MU9wbWFWOTR3UWtyaFF0TVpxNUw5RThya3cSBBoCCAAamwgSAggBGgAiAggBKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQPMHCAAQABgAIAAqQQoFbmV3bHkVzRuBPxoDbmV3GghyZWNlbnRseRoLbmV3bHlmb3JtZWQaCGl2O2Q7bmV3Gg1pdjtkO3JlY2VudGx5KocBCgZmb3JtZWQVY7epPxoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaBGZvcm0aB2ZvdW5kZWQaC25ld2x5Zm9ybWVkGgtpdjtkO2Zvcm1lZBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGglpdjtkO2Zvcm0aDml2O2Q7Zm9ybWF0aW9uKjcKB2NlbnR1cnkVrBCmPxoJY2VudHVyaWVzGgxpdjtkO2NlbnR1cnkaDml2O2Q7Y2VudHVyaWVzKkYKCGFzdGVyb2lkFYy6nz4aBWNvbWV0GgZtZXRlb3IaDWl2O2Q7YXN0ZXJvaWQaCml2O2Q7Y29tZXQaC2l2O2Q7bWV0ZW9yKiMKBmNyYXRlchWo721AGgdpbXBhY3RzGgtpdjtkO2NyYXRlcio1CgVmb3VuZBV-QStAGgpkaXNjb3ZlcmVkGgppdjtkO2ZvdW5kGg9pdjtkO2Rpc2NvdmVyZWQqFgoEMjAyNRWK4RQ-GglpdjtuOzIwMjUynAIvZ290bz91cmw9Q0FFU3lBRUI2enN3RmRIVk1CdXFsdUJEcWdSWWxGVmF1Y2hqclE4dXJHQUt4cjVNTEJ4MlRYZFBnZW9TS2N6dXdFWWpaak9WN0Zqd05tMXlDR3dsR2pmT3lRcXhFWm9xRzdmRERUb2ZWY01taTUzSzk0UlJqTk9lUVJwb09FUXFQZHR1TDlzMDlzX3RFY3hFOVhDdDlEM1NMOEJyNHIyU2V1TVkyb2QzV3N1Zkh3Tnk3RXZuNThSaXlfelhmYldZMTJ5dG1mM3dPUGQ4eE9ncW9xZHIyVU13cTVFbldsOVNwUmtrY3cyeG5xVUhpdmdfVkxyaEpTWTUxT3BtYVY5NHdRa3JoUXRNWnE1TDlFOHJrdzpNQSBOQVNBIHNwYWNlY3JhZnQganVzdCA8Yj5mb3VuZDwvYj4gYSBnaWFudCA8Yj5uZXcgY3JhdGVyPC9iPiBvbiB0aGUgbW9vbiAuLi5CswFOYW1lZCBNY0dldGNoaW4gPGI-Y3JhdGVyPC9iPiwgdGhlIGZlYXR1cmUgPGI-Zm9ybWVkPC9iPiBzb21ldGltZSBiZXR3ZWVuIEFwcmlsIDExIGFuZCBNYXkgMjIgaW4gdGhlIHllYXIgMjAyNCB3aGVuIGFuIDxiPmFzdGVyb2lkPC9iPiBvciA8Yj5jb21ldDwvYj4gZnJhZ21lbnQgc3RydWNrIHRoZSZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZkSFZNQnVxbHVCRHFnUllsRlZhdWNoanJROHVyR0FLeHI1TUxCeDJUWGRQZ2VvU0tjenV3RVlqWmpPVjdGandObTF5Q0d3bEdqZk95UXF4RVpvcUc3ZkREVG9mVmNNbWk1M0s5NFJSak5PZVFScG9PRVFxUGR0dUw5czA5c190RWN4RTlYQ3Q5RDNTTDhCcjRyMlNldU1ZMm9kM1dzdWZId055N0V2bjU4Uml5X3pYZmJXWTEyeXRtZjN3T1BkOHhPZ3FvcWRyMlVNd3E1RW5XbDlTcFJra2N3MnhucVVIaXZnX1ZMcmhKU1k1MU9wbWFWOTR3UWtyaFF0TVpxNUw5RThya3cSBBoCCAAamwgSAggBGgAiAggBKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQPMHCAAQABgAIAAqQQoFbmV3bHkVzRuBPxoDbmV3GghyZWNlbnRseRoLbmV3bHlmb3JtZWQaCGl2O2Q7bmV3Gg1pdjtkO3JlY2VudGx5KocBCgZmb3JtZWQVY7epPxoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaBGZvcm0aB2ZvdW5kZWQaC25ld2x5Zm9ybWVkGgtpdjtkO2Zvcm1lZBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGglpdjtkO2Zvcm0aDml2O2Q7Zm9ybWF0aW9uKjcKB2NlbnR1cnkVrBCmPxoJY2VudHVyaWVzGgxpdjtkO2NlbnR1cnkaDml2O2Q7Y2VudHVyaWVzKkYKCGFzdGVyb2lkFYy6nz4aBWNvbWV0GgZtZXRlb3IaDWl2O2Q7YXN0ZXJvaWQaCml2O2Q7Y29tZXQaC2l2O2Q7bWV0ZW9yKiMKBmNyYXRlchWo721AGgdpbXBhY3RzGgtpdjtkO2NyYXRlcio1CgVmb3VuZBV-QStAGgpkaXNjb3ZlcmVkGgppdjtkO2ZvdW5kGg9pdjtkO2Rpc2NvdmVyZWQqFgoEMjAyNRWK4RQ-GglpdjtuOzIwMjUynAIvZ290bz91cmw9Q0FFU3lBRUI2enN3RmRIVk1CdXFsdUJEcWdSWWxGVmF1Y2hqclE4dXJHQUt4cjVNTEJ4MlRYZFBnZW9TS2N6dXdFWWpaak9WN0Zqd05tMXlDR3dsR2pmT3lRcXhFWm9xRzdmRERUb2ZWY01taTUzSzk0UlJqTk9lUVJwb09FUXFQZHR1TDlzMDlzX3RFY3hFOVhDdDlEM1NMOEJyNHIyU2V1TVkyb2QzV3N1Zkh3Tnk3RXZuNThSaXlfelhmYldZMTJ5dG1mM3dPUGQ4eE9ncW9xZHIyVU13cTVFbldsOVNwUmtrY3cyeG5xVUhpdmdfVkxyaEpTWTUxT3BtYVY5NHdRa3JoUXRNWnE1TDlFOHJrdzpNQSBOQVNBIHNwYWNlY3JhZnQganVzdCA8Yj5mb3VuZDwvYj4gYSBnaWFudCA8Yj5uZXcgY3JhdGVyPC9iPiBvbiB0aGUgbW9vbiAuLi5CswFOYW1lZCBNY0dldGNoaW4gPGI-Y3JhdGVyPC9iPiwgdGhlIGZlYXR1cmUgPGI-Zm9ybWVkPC9iPiBzb21ldGltZSBiZXR3ZWVuIEFwcmlsIDExIGFuZCBNYXkgMjIgaW4gdGhlIHllYXIgMjAyNCB3aGVuIGFuIDxiPmFzdGVyb2lkPC9iPiBvciA8Yj5jb21ldDwvYj4gZnJhZ21lbnQgc3RydWNrIHRoZSZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "source": "Space"
+    },
+    {
+      "position": 3,
+      "title": "NASA scientist discovers moon's largest newly formed ...",
+      "link": "https://www.foxweather.com/earth-space/nasa-moon-orbiter-discovers-new-moon-crater",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFdyxZTONBH-zFbUGZFUxUNi3V95ODSy5YEdD_SF_s-6Fy-2tPYuim6L7ErpRMlhv8orYCdkv5ZR1PuQ_1yAqC_-cMnpqoCJmHIuuzMlu5wMKaLQixqSLEyL14ZcKudHaSyRW5TScQWSc0k9Fcef_CmSqd_wJjsRZAKMGzb_I6K6Xa_wdQIo&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://www.foxweather.com › nasa...",
+      "favicon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y4OBrnsBvA3gHnL89_OP-1jJmXsFopZDBzTrcP3fEvHtn192ic8XkAAD-8Is_bVm35p_Dwk6XkYlQeGD3CAchXnnr6WaPauQzFmFEEo_7MwoZUuHMw2Pf1-ors06Q9pDfEiaH6Zp21_GKzL3q7IxO2ReLxy-hF00A4liAOJWqNTdVmjCBzJISyx5pX51GfIehxS6I8VzxYWdt2-sbvgj3mISeCMr9lRFaqbJ_pvIolzme4Oh-D_71v-l5OXq9b_LKjPUgHTc6fHLAwD2npkeal7fT_lHPH1WdbP-iUM0seqRPEN3x7aRFsbI_ALeNOY3G2p4TwUvrjAAekw8it9FMN_T71AFAE_-s3GZ8b6peueTYNUENijewQx7XBZNy43RMg3NvkmmPUZ9lQ2hRjC2aJSvJO72sIdThXrm3vlIoPcrwYA275VHUW-nNXmzgFP8BprcjvD2_TdF639N3ZGXLO-SlkoEQ8OOO_g70EoJ3eSOwqUf9Fm-dzQeNMcMnQKxd9jvGi3oBIHjWj3gGLVYzLbYsoFvbVElr-S7bNanf_w_CC0uff2Q-pdgA.webp",
+      "date": "prieš 3 dienas",
+      "snippet": "A NASA scientist discovered the largest newly formed impact crater ever documented in the solar system. The McGetchin Crater formed on the moon ...",
+      "snippet_highlighted_words": [
+        "discovered",
+        "newly formed",
+        "crater",
+        "Crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A NASA scientist discovered the largest newly formed impact crater ever documented in the solar system. The McGetchin Crater formed on the moon ...",
+          "source_info_link": "https://www.foxweather.com/earth-space/nasa-moon-orbiter-discovers-new-moon-crater",
+          "icon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y4OBrnsBvA3gHnL89_OP-1jJmXsFopZDBzTrcP3fEvHtn192ic8XkAAD-8Is_bVm35p_Dwk6XkYlQeGD3CAchXnnr6WaPauQzFmFEEo_7MwoZUuHMw2Pf1-ors06Q9pDfEiaH6Zp21_GKzL3q7IxO2ReLxy-hF00A4liAOJWqNTdVmjCBzJISyx5pX51GfIehxS6I8VzxYWdt2-sbvgj3mISeCMr9lRFaqbJ_pvIolzme4Oh-D_71v-l5OXq9b_LKjPUgHTc6fHLAwD2npkeal7fT_lHPH1WdbP-iUM0seqRPEN3x7aRFsbI_ALeNOY3G2p4TwUvrjAAekw8it9FMN_T71AFAE_-s3GZ8b6peueTYNUENijewQx7XBZNy43RMg3NvkmmPUZ9lQ2hRjC2aJSvJO72sIdThXrm3vlIoPcrwYA275VHUW-nNXmzgFP8BprcjvD2_TdF639N3ZGXLO-SlkoEQ8OOO_g70EoJ3eSOwqUf9Fm-dzQeNMcMnQKxd9jvGi3oBIHjWj3gGLVYzLbYsoFvbVElr-S7bNanf_w_CC0uff2Q-pdgA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkeXhaVE9OQkgtekZiVUdaRlV4VU5pM1Y5NU9EU3k1WUVkRF9TRl9zLTZGeS0ydFBZdWltNkw3RXJwUk1saHY4b3JZQ2RrdjVaUjFQdVFfMXlBcUNfLWNNbnBxb0NKbUhJdXV6TWx1NXdNS2FMUWl4cVNMRXlMMTRaY0t1ZEhhU3lSVzVUU2NRV1NjMGs5RmNlZl9DbVNxZF93SmpzUlpBS01HemJfSTZLNlhhX3dkUUlvEgQaAggAGsYHEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCeBwgAEAAYACAAKkEKBW5ld2x5Fcjbw0AaA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFXdC00AaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FRvB8z8aCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBVsKrFAGgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVkCb_QBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQV6Z_jPxoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUVpN5CPhoJaXY7bjsyMDI1MskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkeXhaVE9OQkgtekZiVUdaRlV4VU5pM1Y5NU9EU3k1WUVkRF9TRl9zLTZGeS0ydFBZdWltNkw3RXJwUk1saHY4b3JZQ2RrdjVaUjFQdVFfMXlBcUNfLWNNbnBxb0NKbUhJdXV6TWx1NXdNS2FMUWl4cVNMRXlMMTRaY0t1ZEhhU3lSVzVUU2NRV1NjMGs5RmNlZl9DbVNxZF93SmpzUlpBS01HemJfSTZLNlhhX3dkUUlvOkpOQVNBIHNjaWVudGlzdCBkaXNjb3ZlcnMgbW9vbiYjMzk7cyBsYXJnZXN0IDxiPm5ld2x5IGZvcm1lZCBjcmF0ZXI8L2I-IC4uLkK0AUEgTkFTQSBzY2llbnRpc3QgPGI-ZGlzY292ZXJlZDwvYj4gdGhlIGxhcmdlc3QgPGI-bmV3bHkgZm9ybWVkPC9iPiBpbXBhY3QgPGI-Y3JhdGVyPC9iPiBldmVyIGRvY3VtZW50ZWQgaW4gdGhlIHNvbGFyIHN5c3RlbS4gVGhlIE1jR2V0Y2hpbiA8Yj5DcmF0ZXI8L2I-IGZvcm1lZCBvbiB0aGUgbW9vbiZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkeXhaVE9OQkgtekZiVUdaRlV4VU5pM1Y5NU9EU3k1WUVkRF9TRl9zLTZGeS0ydFBZdWltNkw3RXJwUk1saHY4b3JZQ2RrdjVaUjFQdVFfMXlBcUNfLWNNbnBxb0NKbUhJdXV6TWx1NXdNS2FMUWl4cVNMRXlMMTRaY0t1ZEhhU3lSVzVUU2NRV1NjMGs5RmNlZl9DbVNxZF93SmpzUlpBS01HemJfSTZLNlhhX3dkUUlvEgQaAggAGsYHEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCeBwgAEAAYACAAKkEKBW5ld2x5Fcjbw0AaA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFXdC00AaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FRvB8z8aCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBVsKrFAGgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVkCb_QBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQV6Z_jPxoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUVpN5CPhoJaXY7bjsyMDI1MskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkeXhaVE9OQkgtekZiVUdaRlV4VU5pM1Y5NU9EU3k1WUVkRF9TRl9zLTZGeS0ydFBZdWltNkw3RXJwUk1saHY4b3JZQ2RrdjVaUjFQdVFfMXlBcUNfLWNNbnBxb0NKbUhJdXV6TWx1NXdNS2FMUWl4cVNMRXlMMTRaY0t1ZEhhU3lSVzVUU2NRV1NjMGs5RmNlZl9DbVNxZF93SmpzUlpBS01HemJfSTZLNlhhX3dkUUlvOkpOQVNBIHNjaWVudGlzdCBkaXNjb3ZlcnMgbW9vbiYjMzk7cyBsYXJnZXN0IDxiPm5ld2x5IGZvcm1lZCBjcmF0ZXI8L2I-IC4uLkK0AUEgTkFTQSBzY2llbnRpc3QgPGI-ZGlzY292ZXJlZDwvYj4gdGhlIGxhcmdlc3QgPGI-bmV3bHkgZm9ybWVkPC9iPiBpbXBhY3QgPGI-Y3JhdGVyPC9iPiBldmVyIGRvY3VtZW50ZWQgaW4gdGhlIHNvbGFyIHN5c3RlbS4gVGhlIE1jR2V0Y2hpbiA8Yj5DcmF0ZXI8L2I-IGZvcm1lZCBvbiB0aGUgbW9vbiZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "source": "FOX Weather"
+    },
+    {
+      "position": 4,
+      "title": "A \"once in a century\" impact left a new Moon crater wider ...",
+      "link": "https://www.facebook.com/fromquarktoquasars/posts/a-once-in-a-century-impact-left-a-new-moon-crater-wider-than-the-colosseumscient/1654106339660625/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFcTBU3wNtdPTABFIk2J6ac_8MSwf1AcxiEIFDiQWZ2Z3UxUutVEBR7hZhQ_1P1r65BbCTX8ik14MO9Jk-2JSGJZLtePhzGctbXTcXTTuEFUuMx7jvjdQBVzHVGtJ4EYr5N2kGzMhsLlEV2wnAd2QtRlqjst4GZBcZyridK-lBwln-HGBSJAh-sx7w-pXE6dAf3ioQDv3wRUf2n3luuNJD9WnW5hJ7qVXzuvfsXqM6pMztP7i0_yv865WmkaFATUG_1TuGIiYd3B2&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECDoQAQ&uoh=1",
+      "displayed_link": "Reakcijų: daugiau nei 20 · prieš 4 dienas",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "A \"once in a century\" impact left a new Moon crater wider than the Colosseum. Scientists identified a new crater about 728 feet (222 meters) ...",
+      "snippet_highlighted_words": [
+        "century",
+        "new",
+        "crater",
+        "new crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A \"once in a century\" impact left a new Moon crater wider than the Colosseum. Scientists identified a new crater about 728 feet (222 meters) ...",
+          "source_info_link": "https://www.facebook.com/fromquarktoquasars/posts/a-once-in-a-century-impact-left-a-new-moon-crater-wider-than-the-colosseumscient/1654106339660625/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZjVEJVM3dOdGRQVEFCRklrMko2YWNfOE1Td2YxQWN4aUVJRkRpUVdaMlozVXhVdXRWRUJSN2haaFFfMVAxcjY1QmJDVFg4aWsxNE1POUprLTJKU0dKWkx0ZVBoekdjdGJYVGNYVFR1RUZVdU14N2p2amRRQlZ6SFZHdEo0RVlyNU4ya0d6TWhzTGxFVjJ3bkFkMlF0UmxxanN0NEdaQmNaeXJpZEstbEJ3bG4tSEdCU0pBaC1zeDd3LXBYRTZkQWYzaW9RRHYzd1JVZjJuM2x1dU5KRDlXblc1aEo3cVZYenV2ZnNYcU02cE16dFA3aTBfeXY4NjVXbWthRkFUVUdfMVR1R0lpWWQzQjISBBoCCAAauwgSABoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCVCAgAEAAYACAAKkEKBW5ld2x5FYZYnj8aA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFZzk9D8aB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FQc4QUAaCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBXNBEc_GgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVEvq1QBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQVOz7HPhoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUVXLvJPBoJaXY7bjsyMDI1MqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZjVEJVM3dOdGRQVEFCRklrMko2YWNfOE1Td2YxQWN4aUVJRkRpUVdaMlozVXhVdXRWRUJSN2haaFFfMVAxcjY1QmJDVFg4aWsxNE1POUprLTJKU0dKWkx0ZVBoekdjdGJYVGNYVFR1RUZVdU14N2p2amRRQlZ6SFZHdEo0RVlyNU4ya0d6TWhzTGxFVjJ3bkFkMlF0UmxxanN0NEdaQmNaeXJpZEstbEJ3bG4tSEdCU0pBaC1zeDd3LXBYRTZkQWYzaW9RRHYzd1JVZjJuM2x1dU5KRDlXblc1aEo3cVZYenV2ZnNYcU02cE16dFA3aTBfeXY4NjVXbWthRkFUVUdfMVR1R0lpWWQzQjI6YUEgJnF1b3Q7b25jZSBpbiBhIDxiPmNlbnR1cnk8L2I-JnF1b3Q7IGltcGFjdCBsZWZ0IGEgPGI-bmV3PC9iPiBNb29uIDxiPmNyYXRlcjwvYj4gd2lkZXIgdGhhbiAuLi5CuwFBICZxdW90O29uY2UgaW4gYSA8Yj5jZW50dXJ5PC9iPiZxdW90OyBpbXBhY3QgbGVmdCBhIDxiPm5ldzwvYj4gTW9vbiA8Yj5jcmF0ZXI8L2I-IHdpZGVyIHRoYW4gdGhlIENvbG9zc2V1bS4gU2NpZW50aXN0cyBpZGVudGlmaWVkIGEgPGI-bmV3IGNyYXRlcjwvYj4gYWJvdXQgNzI4IGZlZXQgKDIyMiBtZXRlcnMpJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZjVEJVM3dOdGRQVEFCRklrMko2YWNfOE1Td2YxQWN4aUVJRkRpUVdaMlozVXhVdXRWRUJSN2haaFFfMVAxcjY1QmJDVFg4aWsxNE1POUprLTJKU0dKWkx0ZVBoekdjdGJYVGNYVFR1RUZVdU14N2p2amRRQlZ6SFZHdEo0RVlyNU4ya0d6TWhzTGxFVjJ3bkFkMlF0UmxxanN0NEdaQmNaeXJpZEstbEJ3bG4tSEdCU0pBaC1zeDd3LXBYRTZkQWYzaW9RRHYzd1JVZjJuM2x1dU5KRDlXblc1aEo3cVZYenV2ZnNYcU02cE16dFA3aTBfeXY4NjVXbWthRkFUVUdfMVR1R0lpWWQzQjISBBoCCAAauwgSABoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCVCAgAEAAYACAAKkEKBW5ld2x5FYZYnj8aA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFZzk9D8aB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FQc4QUAaCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBXNBEc_GgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVEvq1QBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQVOz7HPhoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUVXLvJPBoJaXY7bjsyMDI1MqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZjVEJVM3dOdGRQVEFCRklrMko2YWNfOE1Td2YxQWN4aUVJRkRpUVdaMlozVXhVdXRWRUJSN2haaFFfMVAxcjY1QmJDVFg4aWsxNE1POUprLTJKU0dKWkx0ZVBoekdjdGJYVGNYVFR1RUZVdU14N2p2amRRQlZ6SFZHdEo0RVlyNU4ya0d6TWhzTGxFVjJ3bkFkMlF0UmxxanN0NEdaQmNaeXJpZEstbEJ3bG4tSEdCU0pBaC1zeDd3LXBYRTZkQWYzaW9RRHYzd1JVZjJuM2x1dU5KRDlXblc1aEo3cVZYenV2ZnNYcU02cE16dFA3aTBfeXY4NjVXbWthRkFUVUdfMVR1R0lpWWQzQjI6YUEgJnF1b3Q7b25jZSBpbiBhIDxiPmNlbnR1cnk8L2I-JnF1b3Q7IGltcGFjdCBsZWZ0IGEgPGI-bmV3PC9iPiBNb29uIDxiPmNyYXRlcjwvYj4gd2lkZXIgdGhhbiAuLi5CuwFBICZxdW90O29uY2UgaW4gYSA8Yj5jZW50dXJ5PC9iPiZxdW90OyBpbXBhY3QgbGVmdCBhIDxiPm5ldzwvYj4gTW9vbiA8Yj5jcmF0ZXI8L2I-IHdpZGVyIHRoYW4gdGhlIENvbG9zc2V1bS4gU2NpZW50aXN0cyBpZGVudGlmaWVkIGEgPGI-bmV3IGNyYXRlcjwvYj4gYWJvdXQgNzI4IGZlZXQgKDIyMiBtZXRlcnMpJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "source": "Facebook · From Quarks to Quasars"
+    },
+    {
+      "position": 5,
+      "title": "NASA images reveal 'once-in-a-century' moon crater ...",
+      "link": "https://www.livenowfox.com/news/nasa-moon-crater-asteroid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAV1_E7SLTR75IXTzVVjVQQEAOYTDk3-Vfn6VdrMli2K92LMYWmO8yLYLNynGEkJl9kR1kr9cNuK4vGerHirABQsDMkjrjbjkkxNbEeCSMXnOxO6WTXV0fq0O9Ih7hMHZC8bIzDQXqhz6DXwJ-w&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.livenowfox.com › news",
+      "favicon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAACwCQCdASocABwAPtEutFooIagoGAEAGgloALbZ9VZLMxK-bfjzkyvpf5LTjdpC_-G_IDXm_4D0Sf87y3PZhvd66dWZ6W2suTgHO4pMvrV_1AwqBuVAAAD-9QSiGFJRAeh_rqMTB_D90g8Ki2vTH4z9NCmLP5Zg1aokBxWFHPBQicxrX9-kPRuwurYbyCT-hrJiLomU25N_YhWp9dEuy_k_GHaCV36JrBBAwkfZGsNZCDead07Gqskj0v39oO_e-ce5IeiK_sX_O1cO11x_3FXpQJLfr70nKpMtwIB_Indt_N-XxnMe7i_Br-cMD9DCn9PyWO3PbdSEdpaFK-L2x-e3M3VGEkqEMpb9JTYL_KOzjx3WE7ssiuX6ZZaWo2zyw9XeUbd6oeaSjvo16xqSG4cdD_nmfx16T6qtaVdegTJQ4mhQh-j_w4995c4kNtiB914IwxYtsfy2r5Oq_GwlRpsDce_s8_prhd29mQVWrgqSzjdfGlPIcTPbm1xMuXs0cz8J3LdYiu4dmFIbFuDv7-0maryWI22kI_tNlvOa6xRHINf5zghQmoGoSh-zzW6-mPlOf6NaNNjx3_8evm7lbAAA.webp",
+      "date": "prieš 4 dienas",
+      "snippet": "Scientists discovered a 222-meter-wide crater on the Moon. · The crater formed in 2024 and is expected to occur only once every 132 years.",
+      "snippet_highlighted_words": [
+        "discovered",
+        "crater",
+        "crater formed"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Scientists discovered a 222-meter-wide crater on the Moon. · The crater formed in 2024 and is expected to occur only once every 132 years.",
+          "source_info_link": "https://www.livenowfox.com/news/nasa-moon-crater-asteroid",
+          "icon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAACwCQCdASocABwAPtEutFooIagoGAEAGgloALbZ9VZLMxK-bfjzkyvpf5LTjdpC_-G_IDXm_4D0Sf87y3PZhvd66dWZ6W2suTgHO4pMvrV_1AwqBuVAAAD-9QSiGFJRAeh_rqMTB_D90g8Ki2vTH4z9NCmLP5Zg1aokBxWFHPBQicxrX9-kPRuwurYbyCT-hrJiLomU25N_YhWp9dEuy_k_GHaCV36JrBBAwkfZGsNZCDead07Gqskj0v39oO_e-ce5IeiK_sX_O1cO11x_3FXpQJLfr70nKpMtwIB_Indt_N-XxnMe7i_Br-cMD9DCn9PyWO3PbdSEdpaFK-L2x-e3M3VGEkqEMpb9JTYL_KOzjx3WE7ssiuX6ZZaWo2zyw9XeUbd6oeaSjvo16xqSG4cdD_nmfx16T6qtaVdegTJQ4mhQh-j_w4995c4kNtiB914IwxYtsfy2r5Oq_GwlRpsDce_s8_prhd29mQVWrgqSzjdfGlPIcTPbm1xMuXs0cz8J3LdYiu4dmFIbFuDv7-0maryWI22kI_tNlvOa6xRHINf5zghQmoGoSh-zzW6-mPlOf6NaNNjx3_8evm7lbAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjFfRTdTTFRSNzVJWFR6VlZqVlFRRUFPWVREazMtVmZuNlZkck1saTJLOTJMTVlXbU84eUxZTE55bkdFa0psOWtSMWtyOWNOdUs0dkdlckhpckFCUXNETWtqcmpiamtreE5iRWVDU01Ybk94TzZXVFhWMGZxME85SWg3aE1IWkM4Ykl6RFFYcWh6NkRYd0otdxIEGgIIABqgBxICCAAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA-AYIABAAGAAgACpBCgVuZXdseRVDJQY_GgNuZXcaCHJlY2VudGx5GgtuZXdseWZvcm1lZBoIaXY7ZDtuZXcaDWl2O2Q7cmVjZW50bHkqhwEKBmZvcm1lZBW8xRhAGgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoEZm9ybRoHZm91bmRlZBoLbmV3bHlmb3JtZWQaC2l2O2Q7Zm9ybWVkGgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaCWl2O2Q7Zm9ybRoOaXY7ZDtmb3JtYXRpb24qNwoHY2VudHVyeRW6sFhAGgljZW50dXJpZXMaDGl2O2Q7Y2VudHVyeRoOaXY7ZDtjZW50dXJpZXMqRgoIYXN0ZXJvaWQV5oqTPxoFY29tZXQaBm1ldGVvchoNaXY7ZDthc3Rlcm9pZBoKaXY7ZDtjb21ldBoLaXY7ZDttZXRlb3IqIwoGY3JhdGVyFfhFxEAaB2ltcGFjdHMaC2l2O2Q7Y3JhdGVyKjUKBWZvdW5kFeYGBUAaCmRpc2NvdmVyZWQaCml2O2Q7Zm91bmQaD2l2O2Q7ZGlzY292ZXJlZCoWCgQyMDI1FTNzLT8aCWl2O247MjAyNTKmAS9nb3RvP3VybD1DQUVTY1FIck96QVYxX0U3U0xUUjc1SVhUelZWalZRUUVBT1lURGszLVZmbjZWZHJNbGkySzkyTE1ZV21POHlMWUxOeW5HRWtKbDlrUjFrcjljTnVLNHZHZXJIaXJBQlFzRE1ranJqYmpra3hOYkVlQ1NNWG5PeE82V1RYVjBmcTBPOUloN2hNSFpDOGJJekRRWHFoejZEWHdKLXc6VU5BU0EgaW1hZ2VzIHJldmVhbCAmIzM5O29uY2UtaW4tYS08Yj5jZW50dXJ5PC9iPiYjMzk7IG1vb24gPGI-Y3JhdGVyPC9iPiwgbGFyZ2VzdCAuLi5CpgFTY2llbnRpc3RzIDxiPmRpc2NvdmVyZWQ8L2I-IGEgMjIyLW1ldGVyLXdpZGUgPGI-Y3JhdGVyPC9iPiBvbiB0aGUgTW9vbi4gJm1pZGRvdDsgVGhlIDxiPmNyYXRlciBmb3JtZWQ8L2I-IGluIDIwMjQgYW5kIGlzIGV4cGVjdGVkIHRvIG9jY3VyIG9ubHkgb25jZSBldmVyeSAxMzIgeWVhcnMuUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjFfRTdTTFRSNzVJWFR6VlZqVlFRRUFPWVREazMtVmZuNlZkck1saTJLOTJMTVlXbU84eUxZTE55bkdFa0psOWtSMWtyOWNOdUs0dkdlckhpckFCUXNETWtqcmpiamtreE5iRWVDU01Ybk94TzZXVFhWMGZxME85SWg3aE1IWkM4Ykl6RFFYcWh6NkRYd0otdxIEGgIIABqgBxICCAAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA-AYIABAAGAAgACpBCgVuZXdseRVDJQY_GgNuZXcaCHJlY2VudGx5GgtuZXdseWZvcm1lZBoIaXY7ZDtuZXcaDWl2O2Q7cmVjZW50bHkqhwEKBmZvcm1lZBW8xRhAGgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoEZm9ybRoHZm91bmRlZBoLbmV3bHlmb3JtZWQaC2l2O2Q7Zm9ybWVkGgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaCWl2O2Q7Zm9ybRoOaXY7ZDtmb3JtYXRpb24qNwoHY2VudHVyeRW6sFhAGgljZW50dXJpZXMaDGl2O2Q7Y2VudHVyeRoOaXY7ZDtjZW50dXJpZXMqRgoIYXN0ZXJvaWQV5oqTPxoFY29tZXQaBm1ldGVvchoNaXY7ZDthc3Rlcm9pZBoKaXY7ZDtjb21ldBoLaXY7ZDttZXRlb3IqIwoGY3JhdGVyFfhFxEAaB2ltcGFjdHMaC2l2O2Q7Y3JhdGVyKjUKBWZvdW5kFeYGBUAaCmRpc2NvdmVyZWQaCml2O2Q7Zm91bmQaD2l2O2Q7ZGlzY292ZXJlZCoWCgQyMDI1FTNzLT8aCWl2O247MjAyNTKmAS9nb3RvP3VybD1DQUVTY1FIck96QVYxX0U3U0xUUjc1SVhUelZWalZRUUVBT1lURGszLVZmbjZWZHJNbGkySzkyTE1ZV21POHlMWUxOeW5HRWtKbDlrUjFrcjljTnVLNHZHZXJIaXJBQlFzRE1ranJqYmpra3hOYkVlQ1NNWG5PeE82V1RYVjBmcTBPOUloN2hNSFpDOGJJekRRWHFoejZEWHdKLXc6VU5BU0EgaW1hZ2VzIHJldmVhbCAmIzM5O29uY2UtaW4tYS08Yj5jZW50dXJ5PC9iPiYjMzk7IG1vb24gPGI-Y3JhdGVyPC9iPiwgbGFyZ2VzdCAuLi5CpgFTY2llbnRpc3RzIDxiPmRpc2NvdmVyZWQ8L2I-IGEgMjIyLW1ldGVyLXdpZGUgPGI-Y3JhdGVyPC9iPiBvbiB0aGUgTW9vbi4gJm1pZGRvdDsgVGhlIDxiPmNyYXRlciBmb3JtZWQ8L2I-IGluIDIwMjQgYW5kIGlzIGV4cGVjdGVkIHRvIG9jY3VyIG9ubHkgb25jZSBldmVyeSAxMzIgeWVhcnMuUgNuZXciAhABSABYAGgA",
+      "source": "LiveNOW from FOX"
+    },
+    {
+      "position": 6,
+      "title": "nasa scientists have identified the largest newly formed ...",
+      "link": "https://www.instagram.com/p/DdaT9VkGLBM/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV2cvFFbd8pLjrjXX-Z_BYysb9Kc9Q1G4ZPg0bAXcffv74CTlUkNK0_iOeuH2A4GUxwi1qcb8ndjHgBHujn-gI_iXbD1KmPIjAuFrVhfUAaLFhx5PSwmjlWj0LFw&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECDsQAQ&uoh=1",
+      "displayed_link": "Mygtuko „Patinka“ paspaudimų: daugiau nei 10 · prieš 4 dienas",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+      "snippet": "The newly discovered crater, officially named McGetchin, measures approximately 728 feet (222 meters) across and 141 feet (43 meters) deep, ...",
+      "snippet_highlighted_words": [
+        "newly discovered crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The newly discovered crater, officially named McGetchin, measures approximately 728 feet (222 meters) across and 141 feet (43 meters) deep, ...",
+          "source_info_link": "https://www.instagram.com/p/DdaT9VkGLBM/",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjJjdkZGYmQ4cExqcmpYWC1aX0JZeXNiOUtjOVExRzRaUGcwYkFYY2Zmdjc0Q1RsVWtOSzBfaU9ldUgyQTRHVXh3aTFxY2I4bmRqSGdCSHVqbi1nSV9pWGJEMUttUElqQXVGclZoZlVBYUxGaHg1UFN3bWpsV2owTEZ3EgQaAggAGvIGEgAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAzAYIABAAGAAgACpBCgVuZXdseRUSpF1AGgNuZXcaCHJlY2VudGx5GgtuZXdseWZvcm1lZBoIaXY7ZDtuZXcaDWl2O2Q7cmVjZW50bHkqhwEKBmZvcm1lZBWDGoxAGgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoEZm9ybRoHZm91bmRlZBoLbmV3bHlmb3JtZWQaC2l2O2Q7Zm9ybWVkGgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaCWl2O2Q7Zm9ybRoOaXY7ZDtmb3JtYXRpb24qNwoHY2VudHVyeRXXUYY_GgljZW50dXJpZXMaDGl2O2Q7Y2VudHVyeRoOaXY7ZDtjZW50dXJpZXMqRgoIYXN0ZXJvaWQVydgIQBoFY29tZXQaBm1ldGVvchoNaXY7ZDthc3Rlcm9pZBoKaXY7ZDtjb21ldBoLaXY7ZDttZXRlb3IqIwoGY3JhdGVyFaCbzkAaB2ltcGFjdHMaC2l2O2Q7Y3JhdGVyKjUKBWZvdW5kFblscD8aCmRpc2NvdmVyZWQaCml2O2Q7Zm91bmQaD2l2O2Q7ZGlzY292ZXJlZCoWCgQyMDI1FXFbkj8aCWl2O247MjAyNTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVYyY3ZGRmJkOHBManJqWFgtWl9CWXlzYjlLYzlRMUc0WlBnMGJBWGNmZnY3NENUbFVrTkswX2lPZXVIMkE0R1V4d2kxcWNiOG5kakhnQkh1am4tZ0lfaVhiRDFLbVBJakF1RnJWaGZVQWFMRmh4NVBTd21qbFdqMExGdzpKbmFzYSBzY2llbnRpc3RzIGhhdmUgaWRlbnRpZmllZCB0aGUgbGFyZ2VzdCA8Yj5uZXdseSBmb3JtZWQgY3JhdGVyPC9iPiAuLi5CmwFUaGUgPGI-bmV3bHkgZGlzY292ZXJlZCBjcmF0ZXI8L2I-LCBvZmZpY2lhbGx5IG5hbWVkIE1jR2V0Y2hpbiwgbWVhc3VyZXMgYXBwcm94aW1hdGVseSA3MjggZmVldCAoMjIyIG1ldGVycykgYWNyb3NzIGFuZCAxNDEgZmVldCAoNDMgbWV0ZXJzKSBkZWVwLCZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjJjdkZGYmQ4cExqcmpYWC1aX0JZeXNiOUtjOVExRzRaUGcwYkFYY2Zmdjc0Q1RsVWtOSzBfaU9ldUgyQTRHVXh3aTFxY2I4bmRqSGdCSHVqbi1nSV9pWGJEMUttUElqQXVGclZoZlVBYUxGaHg1UFN3bWpsV2owTEZ3EgQaAggAGvIGEgAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAzAYIABAAGAAgACpBCgVuZXdseRUSpF1AGgNuZXcaCHJlY2VudGx5GgtuZXdseWZvcm1lZBoIaXY7ZDtuZXcaDWl2O2Q7cmVjZW50bHkqhwEKBmZvcm1lZBWDGoxAGgdjcmVhdGVkGgtlc3RhYmxpc2hlZBoEZm9ybRoHZm91bmRlZBoLbmV3bHlmb3JtZWQaC2l2O2Q7Zm9ybWVkGgxpdjtkO2NyZWF0ZWQaEGl2O2Q7ZXN0YWJsaXNoZWQaCWl2O2Q7Zm9ybRoOaXY7ZDtmb3JtYXRpb24qNwoHY2VudHVyeRXXUYY_GgljZW50dXJpZXMaDGl2O2Q7Y2VudHVyeRoOaXY7ZDtjZW50dXJpZXMqRgoIYXN0ZXJvaWQVydgIQBoFY29tZXQaBm1ldGVvchoNaXY7ZDthc3Rlcm9pZBoKaXY7ZDtjb21ldBoLaXY7ZDttZXRlb3IqIwoGY3JhdGVyFaCbzkAaB2ltcGFjdHMaC2l2O2Q7Y3JhdGVyKjUKBWZvdW5kFblscD8aCmRpc2NvdmVyZWQaCml2O2Q7Zm91bmQaD2l2O2Q7ZGlzY292ZXJlZCoWCgQyMDI1FXFbkj8aCWl2O247MjAyNTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVYyY3ZGRmJkOHBManJqWFgtWl9CWXlzYjlLYzlRMUc0WlBnMGJBWGNmZnY3NENUbFVrTkswX2lPZXVIMkE0R1V4d2kxcWNiOG5kakhnQkh1am4tZ0lfaVhiRDFLbVBJakF1RnJWaGZVQWFMRmh4NVBTd21qbFdqMExGdzpKbmFzYSBzY2llbnRpc3RzIGhhdmUgaWRlbnRpZmllZCB0aGUgbGFyZ2VzdCA8Yj5uZXdseSBmb3JtZWQgY3JhdGVyPC9iPiAuLi5CmwFUaGUgPGI-bmV3bHkgZGlzY292ZXJlZCBjcmF0ZXI8L2I-LCBvZmZpY2lhbGx5IG5hbWVkIE1jR2V0Y2hpbiwgbWVhc3VyZXMgYXBwcm94aW1hdGVseSA3MjggZmVldCAoMjIyIG1ldGVycykgYWNyb3NzIGFuZCAxNDEgZmVldCAoNDMgbWV0ZXJzKSBkZWVwLCZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "source": "Instagram · pgmnofficial"
+    },
+    {
+      "position": 7,
+      "title": "TIL that there is a large meteorite impact crater that was ...",
+      "link": "https://www.reddit.com/r/todayilearned/comments/1v0sha1/til_that_there_is_a_large_meteorite_impact_crater/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEB6zswFWTciL9eMoasE1Tp3jbSqk7dkV5rLEN3N9FB56V13vTR_8guForbVLCk5cy4Wx0RNw5HZugcap76XkCtt6mQkfdFbm6Okmgm-6KB_ZXPN46aQAf8KcGT6XtSzVztxpZWVS5jzOUNEQl7TXujQ8wfARPnH3X6T_J5uvSZiSEpMZSDCydtYYrtNHu70v-Yw-IxcvqH8bXdaTnDZqLyB0g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECDgQAQ&uoh=1",
+      "displayed_link": "Komentarų: 9 · prieš 2 mėnesius",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "TIL that there is a large meteorite impact crater that was discovered in 2025 in Southern China called the Jinlin Crater that formed 11,700 ...",
+      "snippet_highlighted_words": [
+        "Jinlin Crater"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "TIL that there is a large meteorite impact crater that was discovered in 2025 in Southern China called the Jinlin Crater that formed 11,700 ...",
+          "source_info_link": "https://www.reddit.com/r/todayilearned/comments/1v0sha1/til_that_there_is_a_large_meteorite_impact_crater/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXVGNpTDllTW9hc0UxVHAzamJTcWs3ZGtWNXJMRU4zTjlGQjU2VjEzdlRSXzhndUZvcmJWTENrNWN5NFd4MFJOdzVIWnVnY2FwNzZYa0N0dDZtUWtmZEZibTZPa21nbS02S0JfWlhQTjQ2YVFBZjhLY0dUNlh0U3pWenR4cFpXVlM1anpPVU5FUWw3VFh1alE4d2ZBUlBuSDNYNlRfSjV1dlNaaVNFcE1aU0RDeWR0WVlydE5IdTcwdi1Zdy1JeGN2cUg4YlhkYVRuRFpxTHlCMGcSBBoCCAAaywcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkClBwgAEAAYACAAKkEKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFUR5IUAaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FZTpsz0aCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBVlvSc_GgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVfKGMQBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQVYxoMPxoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUVMlnJPxoJaXY7bjsyMDI1MukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXVGNpTDllTW9hc0UxVHAzamJTcWs3ZGtWNXJMRU4zTjlGQjU2VjEzdlRSXzhndUZvcmJWTENrNWN5NFd4MFJOdzVIWnVnY2FwNzZYa0N0dDZtUWtmZEZibTZPa21nbS02S0JfWlhQTjQ2YVFBZjhLY0dUNlh0U3pWenR4cFpXVlM1anpPVU5FUWw3VFh1alE4d2ZBUlBuSDNYNlRfSjV1dlNaaVNFcE1aU0RDeWR0WVlydE5IdTcwdi1Zdy1JeGN2cUg4YlhkYVRuRFpxTHlCMGc6SlRJTCB0aGF0IHRoZXJlIGlzIGEgbGFyZ2UgbWV0ZW9yaXRlIGltcGFjdCA8Yj5jcmF0ZXI8L2I-IHRoYXQgLi4uIC0gUmVkZGl0QpsBVElMIHRoYXQgdGhlcmUgaXMgYSBsYXJnZSBtZXRlb3JpdGUgaW1wYWN0IGNyYXRlciB0aGF0IHdhcyBkaXNjb3ZlcmVkIGluIDIwMjUgaW4gU291dGhlcm4gQ2hpbmEgY2FsbGVkIHRoZSA8Yj5KaW5saW4gQ3JhdGVyPC9iPiB0aGF0IGZvcm1lZCAxMSw3MDAmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXVGNpTDllTW9hc0UxVHAzamJTcWs3ZGtWNXJMRU4zTjlGQjU2VjEzdlRSXzhndUZvcmJWTENrNWN5NFd4MFJOdzVIWnVnY2FwNzZYa0N0dDZtUWtmZEZibTZPa21nbS02S0JfWlhQTjQ2YVFBZjhLY0dUNlh0U3pWenR4cFpXVlM1anpPVU5FUWw3VFh1alE4d2ZBUlBuSDNYNlRfSjV1dlNaaVNFcE1aU0RDeWR0WVlydE5IdTcwdi1Zdy1JeGN2cUg4YlhkYVRuRFpxTHlCMGcSBBoCCAAaywcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkClBwgAEAAYACAAKkEKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkaC25ld2x5Zm9ybWVkGghpdjtkO25ldxoNaXY7ZDtyZWNlbnRseSqHAQoGZm9ybWVkFUR5IUAaB2NyZWF0ZWQaC2VzdGFibGlzaGVkGgRmb3JtGgdmb3VuZGVkGgtuZXdseWZvcm1lZBoLaXY7ZDtmb3JtZWQaDGl2O2Q7Y3JlYXRlZBoQaXY7ZDtlc3RhYmxpc2hlZBoJaXY7ZDtmb3JtGg5pdjtkO2Zvcm1hdGlvbio3CgdjZW50dXJ5FZTpsz0aCWNlbnR1cmllcxoMaXY7ZDtjZW50dXJ5Gg5pdjtkO2NlbnR1cmllcypGCghhc3Rlcm9pZBVlvSc_GgVjb21ldBoGbWV0ZW9yGg1pdjtkO2FzdGVyb2lkGgppdjtkO2NvbWV0GgtpdjtkO21ldGVvciojCgZjcmF0ZXIVfKGMQBoHaW1wYWN0cxoLaXY7ZDtjcmF0ZXIqNQoFZm91bmQVYxoMPxoKZGlzY292ZXJlZBoKaXY7ZDtmb3VuZBoPaXY7ZDtkaXNjb3ZlcmVkKhYKBDIwMjUVMlnJPxoJaXY7bjsyMDI1MukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZXVGNpTDllTW9hc0UxVHAzamJTcWs3ZGtWNXJMRU4zTjlGQjU2VjEzdlRSXzhndUZvcmJWTENrNWN5NFd4MFJOdzVIWnVnY2FwNzZYa0N0dDZtUWtmZEZibTZPa21nbS02S0JfWlhQTjQ2YVFBZjhLY0dUNlh0U3pWenR4cFpXVlM1anpPVU5FUWw3VFh1alE4d2ZBUlBuSDNYNlRfSjV1dlNaaVNFcE1aU0RDeWR0WVlydE5IdTcwdi1Zdy1JeGN2cUg4YlhkYVRuRFpxTHlCMGc6SlRJTCB0aGF0IHRoZXJlIGlzIGEgbGFyZ2UgbWV0ZW9yaXRlIGltcGFjdCA8Yj5jcmF0ZXI8L2I-IHRoYXQgLi4uIC0gUmVkZGl0QpsBVElMIHRoYXQgdGhlcmUgaXMgYSBsYXJnZSBtZXRlb3JpdGUgaW1wYWN0IGNyYXRlciB0aGF0IHdhcyBkaXNjb3ZlcmVkIGluIDIwMjUgaW4gU291dGhlcm4gQ2hpbmEgY2FsbGVkIHRoZSA8Yj5KaW5saW4gQ3JhdGVyPC9iPiB0aGF0IGZvcm1lZCAxMSw3MDAmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+      "source": "Reddit · r/todayilearned"
+    },
+    {
+      "position": 8,
+      "title": "Huge, brand new crater discovered on the Moon",
+      "link": "https://madeinvilnius.lt/en/science/A-huge--brand-new-crater-has-been-discovered-on-the-moon./",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFQ8CTSlrtPaJJ-S14PMKXiimzdyGCWxvbKif9B42uETnklSxmODHkEjUvO01irYaFWPTigDo9DCard4tbK_f4qN0QoPt7DN2lfzJ671LkC23VXa-0DP9dFtz1CNUP0TxuWdlrdJmbdmotwE06CRqImj3HoUVvkyDmpm8B0P-tWlimSLKrCErsJA20AWgRuntCgY&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://madeinvilnius.lt › science › A-huge--brand-new-...",
+      "favicon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAACQBwCdASocABoAPtE-tFooIigoFAEAGglsALOugB-MRXgkTvns53vo3gAegAHdf-jnsQDWags28Y41i36lAmhkkqYTqZgA_vYS4ArKNlPPnBdDeMy6O559Xp-IKtjuOJbvLKJDPehTwS9n-Skxf-bWuWabEwTWasi75Rhd-R9eV302X3M6c7Y70fixOxLL_QeMdvDQNJBQvNxuV7UXe6Wq_GvZQ7wjO8YBo-9kpgctopxibOkgWXZomQxYkB_lduxKBTL6weCkO33k9SmV0wJO_DWcIh2s0HFua3NG9HslgtV118q5lYT0jhYhB_5NrtSgvvgZ6Iakpv2wVx-7t0N28qXhAlw1ah6sziqqz4y_7X8rCu1v3TaMhgyR1lo07I1pYhJDmANg3lwezS2C9QQqauOH_90lDRtiaGg-NOimdtvD3oWw53W0k_UTZt55truhIBjfzY0gt4LTMzXPbhulhpSqk2ENjAvIgiyKedi8E5E_vKOgq3to5fmdhEdhHRUAAA.webp",
+      "date": "prieš 4 dienas",
+      "snippet": "The pit, about 222 meters in diameter and 43 meters deep, was created in 2024 when a fragment of an asteroid or comet hit the Moon. The most ...",
+      "snippet_highlighted_words": [
+        "created",
+        "asteroid",
+        "comet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The pit, about 222 meters in diameter and 43 meters deep, was created in 2024 when a fragment of an asteroid or comet hit the Moon. The most ...",
+          "source_info_link": "https://madeinvilnius.lt/en/science/A-huge--brand-new-crater-has-been-discovered-on-the-moon./",
+          "icon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAACQBwCdASocABoAPtE-tFooIigoFAEAGglsALOugB-MRXgkTvns53vo3gAegAHdf-jnsQDWags28Y41i36lAmhkkqYTqZgA_vYS4ArKNlPPnBdDeMy6O559Xp-IKtjuOJbvLKJDPehTwS9n-Skxf-bWuWabEwTWasi75Rhd-R9eV302X3M6c7Y70fixOxLL_QeMdvDQNJBQvNxuV7UXe6Wq_GvZQ7wjO8YBo-9kpgctopxibOkgWXZomQxYkB_lduxKBTL6weCkO33k9SmV0wJO_DWcIh2s0HFua3NG9HslgtV118q5lYT0jhYhB_5NrtSgvvgZ6Iakpv2wVx-7t0N28qXhAlw1ah6sziqqz4y_7X8rCu1v3TaMhgyR1lo07I1pYhJDmANg3lwezS2C9QQqauOH_90lDRtiaGg-NOimdtvD3oWw53W0k_UTZt55truhIBjfzY0gt4LTMzXPbhulhpSqk2ENjAvIgiyKedi8E5E_vKOgq3to5fmdhEdhHRUAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZROENUU2xydFBhSkotUzE0UE1LWGlpbXpkeUdDV3h2YktpZjlCNDJ1RVRua2xTeG1PREhrRWpVdk8wMWlyWWFGV1BUaWdEbzlEQ2FyZDR0YktfZjRxTjBRb1B0N0ROMmxmeko2NzFMa0MyM1ZYYS0wRFA5ZEZ0ejFDTlVQMFR4dVdkbHJkSm1iZG1vdHdFMDZDUnFJbWozSG9VVnZreURtcG04QjBQLXRXbGltU0xLckNFcnNKQTIwQVdnUnVudENnWRIEGgIIABq0BxIAGgAiAggBKgAyBggBEgJsdDoAQgQIARAVSgBaAHIAegCCQI4HCAAQABgAIAAqQQoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseRoLbmV3bHlmb3JtZWQaCGl2O2Q7bmV3Gg1pdjtkO3JlY2VudGx5KocBCgZmb3JtZWQVgtS3PhoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaBGZvcm0aB2ZvdW5kZWQaC25ld2x5Zm9ybWVkGgtpdjtkO2Zvcm1lZBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGglpdjtkO2Zvcm0aDml2O2Q7Zm9ybWF0aW9uKjcKB2NlbnR1cnkVWJGBPhoJY2VudHVyaWVzGgxpdjtkO2NlbnR1cnkaDml2O2Q7Y2VudHVyaWVzKkYKCGFzdGVyb2lkFSeXkT4aBWNvbWV0GgZtZXRlb3IaDWl2O2Q7YXN0ZXJvaWQaCml2O2Q7Y29tZXQaC2l2O2Q7bWV0ZW9yKiMKBmNyYXRlchV8NH1AGgdpbXBhY3RzGgtpdjtkO2NyYXRlcio1CgVmb3VuZBUAAAAAGgpkaXNjb3ZlcmVkGgppdjtkO2ZvdW5kGg9pdjtkO2Rpc2NvdmVyZWQqFgoEMjAyNRWmmWE9GglpdjtuOzIwMjUy2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RlE4Q1RTbHJ0UGFKSi1TMTRQTUtYaWltemR5R0NXeHZiS2lmOUI0MnVFVG5rbFN4bU9ESGtFalV2TzAxaXJZYUZXUFRpZ0RvOURDYXJkNHRiS19mNHFOMFFvUHQ3RE4ybGZ6SjY3MUxrQzIzVlhhLTBEUDlkRnR6MUNOVVAwVHh1V2RscmRKbWJkbW90d0UwNkNScUltajNIb1VWdmt5RG1wbThCMFAtdFdsaW1TTEtyQ0Vyc0pBMjBBV2dSdW50Q2dZOjRIdWdlLCBicmFuZCA8Yj5uZXcgY3JhdGVyIGRpc2NvdmVyZWQ8L2I-IG9uIHRoZSBNb29uQqoBVGhlIHBpdCwgYWJvdXQgMjIyIG1ldGVycyBpbiBkaWFtZXRlciBhbmQgNDMgbWV0ZXJzIGRlZXAsIHdhcyA8Yj5jcmVhdGVkPC9iPiBpbiAyMDI0IHdoZW4gYSBmcmFnbWVudCBvZiBhbiA8Yj5hc3Rlcm9pZDwvYj4gb3IgPGI-Y29tZXQ8L2I-IGhpdCB0aGUgTW9vbi4gVGhlIG1vc3QmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZROENUU2xydFBhSkotUzE0UE1LWGlpbXpkeUdDV3h2YktpZjlCNDJ1RVRua2xTeG1PREhrRWpVdk8wMWlyWWFGV1BUaWdEbzlEQ2FyZDR0YktfZjRxTjBRb1B0N0ROMmxmeko2NzFMa0MyM1ZYYS0wRFA5ZEZ0ejFDTlVQMFR4dVdkbHJkSm1iZG1vdHdFMDZDUnFJbWozSG9VVnZreURtcG04QjBQLXRXbGltU0xLckNFcnNKQTIwQVdnUnVudENnWRIEGgIIABq0BxIAGgAiAggBKgAyBggBEgJsdDoAQgQIARAVSgBaAHIAegCCQI4HCAAQABgAIAAqQQoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseRoLbmV3bHlmb3JtZWQaCGl2O2Q7bmV3Gg1pdjtkO3JlY2VudGx5KocBCgZmb3JtZWQVgtS3PhoHY3JlYXRlZBoLZXN0YWJsaXNoZWQaBGZvcm0aB2ZvdW5kZWQaC25ld2x5Zm9ybWVkGgtpdjtkO2Zvcm1lZBoMaXY7ZDtjcmVhdGVkGhBpdjtkO2VzdGFibGlzaGVkGglpdjtkO2Zvcm0aDml2O2Q7Zm9ybWF0aW9uKjcKB2NlbnR1cnkVWJGBPhoJY2VudHVyaWVzGgxpdjtkO2NlbnR1cnkaDml2O2Q7Y2VudHVyaWVzKkYKCGFzdGVyb2lkFSeXkT4aBWNvbWV0GgZtZXRlb3IaDWl2O2Q7YXN0ZXJvaWQaCml2O2Q7Y29tZXQaC2l2O2Q7bWV0ZW9yKiMKBmNyYXRlchV8NH1AGgdpbXBhY3RzGgtpdjtkO2NyYXRlcio1CgVmb3VuZBUAAAAAGgpkaXNjb3ZlcmVkGgppdjtkO2ZvdW5kGg9pdjtkO2Rpc2NvdmVyZWQqFgoEMjAyNRWmmWE9GglpdjtuOzIwMjUy2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RlE4Q1RTbHJ0UGFKSi1TMTRQTUtYaWltemR5R0NXeHZiS2lmOUI0MnVFVG5rbFN4bU9ESGtFalV2TzAxaXJZYUZXUFRpZ0RvOURDYXJkNHRiS19mNHFOMFFvUHQ3RE4ybGZ6SjY3MUxrQzIzVlhhLTBEUDlkRnR6MUNOVVAwVHh1V2RscmRKbWJkbW90d0UwNkNScUltajNIb1VWdmt5RG1wbThCMFAtdFdsaW1TTEtyQ0Vyc0pBMjBBV2dSdW50Q2dZOjRIdWdlLCBicmFuZCA8Yj5uZXcgY3JhdGVyIGRpc2NvdmVyZWQ8L2I-IG9uIHRoZSBNb29uQqoBVGhlIHBpdCwgYWJvdXQgMjIyIG1ldGVycyBpbiBkaWFtZXRlciBhbmQgNDMgbWV0ZXJzIGRlZXAsIHdhcyA8Yj5jcmVhdGVkPC9iPiBpbiAyMDI0IHdoZW4gYSBmcmFnbWVudCBvZiBhbiA8Yj5hc3Rlcm9pZDwvYj4gb3IgPGI-Y29tZXQ8L2I-IGhpdCB0aGUgTW9vbi4gVGhlIG1vc3QmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+      "source": "MadeinVilnius.lt"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=10&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8NMDegQINBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=10&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=20&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=30&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=40&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=50&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=60&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=70&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAQ",
+      "9": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=80&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAS",
+      "10": "https://www.google.com/search?q=newly+formed+century+asteroid+crater+found+2025&sca_esv=e7914123cf3b1be8&sxsrf=APpeQntGIGDJ7qHXjRqtygF-AgFb-Qy1Gw:1790062057618&ei=6S2yasujJZCuiLMPq7O6yAs&start=90&sa=N&sstk=AS6-VmLjUkINhlbKKisrEoe0dbxZLZuajLttGM1oULZqMacVXjAMSYxrqTVr_d2JRaz0hLrKRMA9zzI97x4K3TPd-ugqfV3GxuvG2g&ved=2ahUKEwiLvMfo1IGXAxUQF2IAHauZDrkQ8tMDegQINBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=newly+formed+century+asteroid+crater+found+2025&start=90"
+    }
+  }
+}

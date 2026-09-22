@@ -1,0 +1,106 @@
+{
+  "search_metadata": {
+    "id": "6ab162c85c018f94fff2dfc2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hT0RPX_0wKqV57hIp35FBfJIcPb9AYRfl0NkwiOeFoU/6ab162c85c018f94fff2dfc2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hT0RPX_0wKqV57hIp35FBfJIcPb9AYRfl0NkwiOeFoU/6ab162c85c018f94fff2dfc2.md",
+    "created_at": "2026-09-21 17:00:56 UTC",
+    "processed_at": "2026-09-21 17:00:56 UTC",
+    "google_news_url": "https://news.google.com/search?q=Is+India+really+replacing+paper+currency+with+plastic+notes+from+June+30%2C+2026%2C+or+did+a+real+RBI+discussion+about+polymer+notes+get+turned+into+a+much+stronger+claim%3F",
+    "raw_html_file": "https://serpapi.com/searches/hT0RPX_0wKqV57hIp35FBfJIcPb9AYRfl0NkwiOeFoU/6ab162c85c018f94fff2dfc2.html",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Is India really replacing paper currency with plastic notes from June 30, 2026, or did a real RBI discussion about polymer notes get turned into a much stronger claim?"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "🇮🇳 India's currency notes could be going plastic... again! 💵 RBI Governor Sanjay Malhotra said the central bank is actively considering polymer banknotes that are more durable, water-resistant & longer lasting. Will India finally ditch paper for plastic? Ritu Sing",
+      "source": {
+        "name": "LinkedIn",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.linkedin.com/posts/cnbc-tv18_indiancurrency-sanjaymalhotra-plasticcurrency-activity-7468626605293219840-qwKc",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Has RBI directed banks to stop disbursing Rs 500 notes from ATMs by September 30, 2025? Here is what gover",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sneha Kulkarni"
+        ]
+      },
+      "link": "https://m.economictimes.com/wealth/save/rbi-has-directed-banks-to-stop-disbursing-rs-500-notes-from-atms-by-september-30-2025-here-is-what-government-said/articleshow/123142763.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-123142765,width-1200,height-900,resizemode-4,imgsize-477827/cash-500.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJSMUkzVmpsVk1VUmhSR2x3VFJEZ0F4aUFCU2dLTWdZWmc0YXN2UU0",
+      "date": "08/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-08T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "No plans to replace paper currency with plastic notes from June 30, clarifies PIB",
+      "source": {
+        "name": "India's News.Net",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiasnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiasnews.net/news/279113122/no-plans-to-replace-paper-currency-with-plastic-notes-from-june-30-clarifies-pib",
+      "thumbnail": "https://image.chitra.live/api/v1/wps/3c45e72/6a349b5e-f3a8-42f4-b6ab-3a6a5cbcb08e/0/ANI-20260610024813-1156x770.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5XVlpSTjNOUlgwOVBVMk56VFJDM0FSaVRBaWdCTWdB",
+      "date": "06/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-10T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

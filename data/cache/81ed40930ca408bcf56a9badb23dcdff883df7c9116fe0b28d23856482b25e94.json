@@ -1,0 +1,531 @@
+{
+  "search_metadata": {
+    "id": "6ab1566a932b0e34b53f1844",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zy05YUh1X5xy4DVuI739FPfj-r37Aig8HtPw7dGHHxY/6ab1566a932b0e34b53f1844.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zy05YUh1X5xy4DVuI739FPfj-r37Aig8HtPw7dGHHxY/6ab1566a932b0e34b53f1844.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zy05YUh1X5xy4DVuI739FPfj-r37Aig8HtPw7dGHHxY/6ab1566a932b0e34b53f1844.json_with_pixel_position",
+    "created_at": "2026-09-21 16:08:10 UTC",
+    "processed_at": "2026-09-21 16:08:10 UTC",
+    "google_url": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before%3A2026-01-01&oq=scientists+discover+earth+like+planet+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/zy05YUh1X5xy4DVuI739FPfj-r37Aig8HtPw7dGHHxY/6ab1566a932b0e34b53f1844.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "scientists discover earth like planet before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "scientists discover earth like planet before:2026-01-01",
+    "total_results": 125000000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Scientists Spot the Most Earth-Like Planet Ever Found",
+      "link": "https://www.youtube.com/watch?v=UKDWUqhDxcw",
+      "thumbnail": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/KB3y3kBHZioVI3A4m1l3Yo_nMbZlDmsSGLxv7Pxf9zk.jpeg",
+      "channel": "BRIGHT SIDE",
+      "duration": "9:23",
+      "platform": "YouTube",
+      "date": "Nov 17, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTicjNigNjOBGpDK9M6SBhXGgQAqUQE5IVhKA",
+      "key_moments": [
+        {
+          "time": "00:19",
+          "title": "Trappist 1e",
+          "link": "https://www.youtube.com/watch?v=UKDWUqhDxcw&t=19"
+        },
+        {
+          "time": "02:05",
+          "title": "Atmosphere",
+          "link": "https://www.youtube.com/watch?v=UKDWUqhDxcw&t=125"
+        },
+        {
+          "time": "06:57",
+          "title": "Kepler 186f",
+          "link": "https://www.youtube.com/watch?v=UKDWUqhDxcw&t=417"
+        },
+        {
+          "time": "07:26",
+          "title": "Proximus Centauri B",
+          "link": "https://www.youtube.com/watch?v=UKDWUqhDxcw&t=446"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "James Webb Just Found a Planet Better Than Earth",
+      "link": "https://www.youtube.com/watch?v=NUHPuHhpL5w",
+      "thumbnail": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/_-wWZuVI1KIshbLbiifPlsd28n4qCOMex1ykaCJWu7s.jpeg",
+      "channel": "Destiny",
+      "duration": "33:44",
+      "platform": "YouTube",
+      "date": "May 24, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSvTrQ7r1U5nSqL3eDvkKu0EeQZqkPN50h2iw",
+      "key_moments": [
+        {
+          "time": "18:41",
+          "title": "Toi700d",
+          "link": "https://www.youtube.com/watch?v=NUHPuHhpL5w&t=1121"
+        },
+        {
+          "time": "19:40",
+          "title": "Size",
+          "link": "https://www.youtube.com/watch?v=NUHPuHhpL5w&t=1180"
+        },
+        {
+          "time": "31:49",
+          "title": "Triple Star",
+          "link": "https://www.youtube.com/watch?v=NUHPuHhpL5w&t=1909"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Scientists find 'strongest evidence yet' of life on distant planet",
+      "link": "https://www.youtube.com/watch?v=HjWwTw-zEIM",
+      "thumbnail": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/vYsoZ8yxpZZpXSaylHs9LLY5gnwCbYh1rFBTwoIaXkM.jpeg",
+      "channel": "BBC News",
+      "duration": "5:42",
+      "platform": "YouTube",
+      "date": "Apr 17, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQCctEPU0uqvb_UEX2CErsrsknQW6i9uvz9BQ"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Scientists have found thousands of planets outside our solar system, called exoplanets, and identified several rocky worlds with conditions similar to Earth.",
+        "snippet_highlighted_words": [
+          "Scientists have found thousands of planets outside our solar system, called exoplanets"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can read more about how researchers study these distant worlds through the NASA Exoplanet Exploration Program.",
+        "snippet_links": [
+          {
+            "text": "NASA Exoplanet Exploration Program",
+            "link": "https://science.nasa.gov/exoplanets/"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Finding Earth-Like Planets"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Exoplanet totals: Astronomers have found more than 6,200 exoplanets using space and ground telescopes."
+          },
+          {
+            "snippet": "The Habitable Zone: The best targets for life are rocky, Earth-sized planets that orbit in the \"goldilocks zone\"—a distance from their star where temperatures allow liquid water to exist."
+          },
+          {
+            "snippet": "Recent Discoveries: Scientists recently identified promising rocky candidates like LHS 1140b, located 48 light-years away, which may feature an atmosphere and large water reservoirs. Another nearby candidate, GJ 3378b, sits just 25 light-years away in the habitable zone of its star.",
+            "snippet_links": [
+              {
+                "text": "LHS 1140b",
+                "link": "https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Learn how astronomers spot distant worlds using specialized technology:"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you interested in a specific planet like TRAPPIST-1 or Kepler-452b?"
+          },
+          {
+            "snippet": "Do you want to know how telescopes detect these planets?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/",
+        "source": "time.com",
+        "index": 0
+      },
+      {
+        "link": "https://science.nasa.gov/exoplanets/",
+        "source": "science.nasa.gov",
+        "index": 1
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=P1RGFGk31SQ",
+        "source": "youtube.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=EntU_0tLshA",
+        "source": "youtube.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.forbes.com/sites/jamiecartereurope/2026/08/20/exciting-earth-like-planet-found-close-to-the-solar-system/",
+        "source": "forbes.com",
+        "index": 4
+      },
+      {
+        "title": "Scientists Discover a Planet With the Most Earth-like Conditions Yet",
+        "link": "https://time.com/article/2026/07/16/earthlike-planet-atmosphere-science-discovery/",
+        "snippet": "Since then, astronomers using both space-based and Earth-based telescopes have found more than 6,200 exoplanets scattered across the skies, leading them to conc...",
+        "source": "Time Magazine",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkmhAaTdM-Rs4OfQs-uMfQbRHr1tr5fn8IeVK4lupPOArD39v_PyHvjtMPJ0PAWo_HdeuOeRMe7rzBj4wEa4VRChB1oNJSAH_EaCwa",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://time.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Exoplanets - NASA Science",
+        "link": "https://science.nasa.gov/exoplanets/",
+        "snippet": "Overview. Most of the exoplanets discovered so far are in a relatively small region of our galaxy, the Milky Way. (“Small” meaning within thousands of light-yea...",
+        "source": "NASA (.gov)",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs9Ybe6cp0FoJT8y5cWuYWbaKj8BZloMpZWWECo__gNUCEcLrWckN4fnlQmWhDs7N-c6cYcQLV0OlVltvnTJ2GEdbafZVHWihkHjyD",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://science.nasa.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Astronomers Found Earth-Like Life Just 124 Light Years from Us",
+        "link": "https://www.youtube.com/watch?v=P1RGFGk31SQ",
+        "snippet": "Astronomers Found Earth-Like Life Just 124 Light Years from Us so astronomers have just announced that they might have found signs of possible life on a planet",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwWk_ZUu69D4SXp8Y6kEIig84ZNe9M21sZfjmkmB_x_2iy5higcl7f8Z6aIudYeKpvrjV4Vfb-8W588LVAJnAgfPzm5z2JcGAgHXExTg",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "First Earth-Like Planet With an Atmosphere Just Found! 🪐✨🔭👽",
+        "link": "https://www.youtube.com/watch?v=EntU_0tLshA",
+        "snippet": "First Earth-Like Planet With an Atmosphere Just Found! 🪐✨🔭👽 scientists just found something that might turn into humanity's backup plan a rocky planet with a",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR71obRSrnLUMOKlhm0tN5Gcnmpj3ncRufl_HlIotqjCx-lbnfAzDeSMz9pjiIv5vV5dOXGP34FuCl6_6asQiafl3LlcLynNgr5Nc77Q",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "'Exciting' Earth-Like Planet Found Close To The Solar System - Forbes",
+        "link": "https://www.forbes.com/sites/jamiecartereurope/2026/08/20/exciting-earth-like-planet-found-close-to-the-solar-system/",
+        "snippet": "Topline. Astronomers have discovered a new Earth-like exoplanet just 25 light-years from the solar system, offering another promising target in the search for l...",
+        "source": "Forbes",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYsovpQr9sSrrJa_dR83bB-xzebUbf0j_LkzYsiNez5MLTm6RQHg0UtMd8kqJVioIUPEpwlB6MRiEptC3Nq-CJjvJrghlXHGvzLGJQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/HM4lokkH2-q42VrRIlK8gC18rLS5hFysW4CBdcyr59Pb4NFGq0eNMwREkUrbeSjg.jpeg",
+        "source": "https://www.usatoday.com/story/news/nation/2020/04/15/has-nasa-discovered-another-earth/5139773002/"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/HM4lokkH2-q42VrRIlK8gM5WIfijqHExDw7a98aw4d10wh7HSLuGWRZY_2zkKlgT.jpeg",
+        "source": "https://www.usatoday.com/story/news/nation/2020/04/15/has-nasa-discovered-another-earth/5139773002/"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/HM4lokkH2-q42VrRIlK8gMe72tdWgv7K_zdC9RuP65iq6bVClq3uitrD336MoNl1.jpeg",
+        "source": "https://www.usatoday.com/story/news/nation/2020/04/15/has-nasa-discovered-another-earth/5139773002/"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/HM4lokkH2-q42VrRIlK8gHxV8pDSBS_tW-iP0rnFlIUloNYj8IgTXHwo37Ab1wYs.jpeg",
+        "source": "https://www.usatoday.com/story/news/nation/2020/04/15/has-nasa-discovered-another-earth/5139773002/"
+      },
+      {
+        "image": "https://serpapi.com/searches/6ab1566a932b0e34b53f1844/images/HM4lokkH2-q42VrRIlK8gDloqftPu1eu16ebJiL5T-Vn-S47S9wTnmIuEThS-91-.jpeg",
+        "source": "https://www.usatoday.com/story/news/nation/2020/04/15/has-nasa-discovered-another-earth/5139773002/"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Scientists find promising hints of life on distant planet K2-18b",
+      "link": "https://www.bbc.com/news/articles/c39jj9vkr34o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVCkWTY6xlMtY03VJTDSRU-L0LMpHn2ABHNb9dGww4Fi5cen0gW1sTEMqRzzsre1FwBapo1p713J0iqplRYYr1fVanK7mUh4MfeE1rV6mTGWkku9mOluy_ZPObGR8dBbn3oQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.bbc.com › news › articles",
+      "favicon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
+      "date": "Apr 17, 2025",
+      "snippet": "A Cambridge team studying the atmosphere of a planet called K2-18b has detected signs of molecules which on Earth are only produced by simple organisms.",
+      "snippet_highlighted_words": [
+        "planet",
+        "Earth"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A Cambridge team studying the atmosphere of a planet called K2-18b has detected signs of molecules which on Earth are only produced by simple organisms.",
+          "source_info_link": "https://www.bbc.com/news/articles/c39jj9vkr34o",
+          "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkNrV1RZNnhsTXRZMDNWSlREU1JVLUwwTE1wSG4yQUJITmI5ZEd3dzRGaTVjZW4wZ1cxc1RFTXFSenpzcmUxRndCYXBvMXA3MTNKMGlxcGxSWVlyMWZWYW5LN21VaDRNZmVFMXJWNm1UR1dra3U5bU9sdXlfWlBPYkdSOGRCYm4zb1ESBBoCCAAa-gUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUBQgAEAAYACAAKkMKCnNjaWVudGlzdHMVDjZFQBoLcmVzZWFyY2hlcnMaB3NjaWVuY2UaCXNjaWVudGlzdBoPaXY7cDtzY2llbnRpc3RzKn8KCGRpc2NvdmVyFebDSD4aBmRldGVjdBoKZGlzY292ZXJlZBoLZGlzY292ZXJpbmcaB2V4cGxvcmUaCmZpZ3VyZSBvdXQaBGZpbmQaBnJldmVhbBoHdW5jb3ZlchoNZGlzY292ZXJlYXJ0aBoJZGlzY292ZXJ5GgdmaW5kaW5nKiYKBWVhcnRoFbg_XD8aDWRpc2NvdmVyZWFydGgaCWVhcnRobGlrZSolCgRsaWtlFdisVD0aB3NpbWlsYXIaBHR5cGUaCWVhcnRobGlrZSohCgZwbGFuZXQVwJN3QBoJcGxhbmV0YXJ5GgdwbGFuZXRzMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkNrV1RZNnhsTXRZMDNWSlREU1JVLUwwTE1wSG4yQUJITmI5ZEd3dzRGaTVjZW4wZ1cxc1RFTXFSenpzcmUxRndCYXBvMXA3MTNKMGlxcGxSWVlyMWZWYW5LN21VaDRNZmVFMXJWNm1UR1dra3U5bU9sdXlfWlBPYkdSOGRCYm4zb1E6TjxiPlNjaWVudGlzdHMgZmluZDwvYj4gcHJvbWlzaW5nIGhpbnRzIG9mIGxpZmUgb24gZGlzdGFudCA8Yj5wbGFuZXQ8L2I-IEsyLTE4YkKmAUEgQ2FtYnJpZGdlIHRlYW0gc3R1ZHlpbmcgdGhlIGF0bW9zcGhlcmUgb2YgYSA8Yj5wbGFuZXQ8L2I-IGNhbGxlZCBLMi0xOGIgaGFzIGRldGVjdGVkIHNpZ25zIG9mIG1vbGVjdWxlcyB3aGljaCBvbiA8Yj5FYXJ0aDwvYj4gYXJlIG9ubHkgcHJvZHVjZWQgYnkgc2ltcGxlIG9yZ2FuaXNtcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkNrV1RZNnhsTXRZMDNWSlREU1JVLUwwTE1wSG4yQUJITmI5ZEd3dzRGaTVjZW4wZ1cxc1RFTXFSenpzcmUxRndCYXBvMXA3MTNKMGlxcGxSWVlyMWZWYW5LN21VaDRNZmVFMXJWNm1UR1dra3U5bU9sdXlfWlBPYkdSOGRCYm4zb1ESBBoCCAAa-gUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUBQgAEAAYACAAKkMKCnNjaWVudGlzdHMVDjZFQBoLcmVzZWFyY2hlcnMaB3NjaWVuY2UaCXNjaWVudGlzdBoPaXY7cDtzY2llbnRpc3RzKn8KCGRpc2NvdmVyFebDSD4aBmRldGVjdBoKZGlzY292ZXJlZBoLZGlzY292ZXJpbmcaB2V4cGxvcmUaCmZpZ3VyZSBvdXQaBGZpbmQaBnJldmVhbBoHdW5jb3ZlchoNZGlzY292ZXJlYXJ0aBoJZGlzY292ZXJ5GgdmaW5kaW5nKiYKBWVhcnRoFbg_XD8aDWRpc2NvdmVyZWFydGgaCWVhcnRobGlrZSolCgRsaWtlFdisVD0aB3NpbWlsYXIaBHR5cGUaCWVhcnRobGlrZSohCgZwbGFuZXQVwJN3QBoJcGxhbmV0YXJ5GgdwbGFuZXRzMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkNrV1RZNnhsTXRZMDNWSlREU1JVLUwwTE1wSG4yQUJITmI5ZEd3dzRGaTVjZW4wZ1cxc1RFTXFSenpzcmUxRndCYXBvMXA3MTNKMGlxcGxSWVlyMWZWYW5LN21VaDRNZmVFMXJWNm1UR1dra3U5bU9sdXlfWlBPYkdSOGRCYm4zb1E6TjxiPlNjaWVudGlzdHMgZmluZDwvYj4gcHJvbWlzaW5nIGhpbnRzIG9mIGxpZmUgb24gZGlzdGFudCA8Yj5wbGFuZXQ8L2I-IEsyLTE4YkKmAUEgQ2FtYnJpZGdlIHRlYW0gc3R1ZHlpbmcgdGhlIGF0bW9zcGhlcmUgb2YgYSA8Yj5wbGFuZXQ8L2I-IGNhbGxlZCBLMi0xOGIgaGFzIGRldGVjdGVkIHNpZ25zIG9mIG1vbGVjdWxlcyB3aGljaCBvbiA8Yj5FYXJ0aDwvYj4gYXJlIG9ubHkgcHJvZHVjZWQgYnkgc2ltcGxlIG9yZ2FuaXNtcy4iAhABSABYAGgA",
+      "source": "BBC",
+      "read_more_link": "https://www.bbc.com/news/articles/c39jj9vkr34o#:~:text=A%20Cambridge%20team%20studying%20the,only%20produced%20by%20simple%20organisms."
+    },
+    {
+      "position": 2,
+      "title": "Earth analog",
+      "link": "https://en.wikipedia.org/wiki/Earth_analog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVKnh30f6jAiakg3vzRR_rQxmTb3AH157azrNYtRpxy2v2rJhkKBrcFBaSZvEeFszVIcxUPHDQd3qW2rYbMMpG_0r7QipYrlXI9YT6nf3NVAvsc8NaLgBhI4sLKzXB&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Earth_analog",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "date": "Jan 12, 2023",
+      "snippet": "An Earth analog, also called an Earth twin or second Earth, is a Exoplanet or moon with environmental conditions similar to those found on Earth.",
+      "snippet_highlighted_words": [
+        "is a Exoplanet or moon with environmental conditions similar to those found on Earth"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An Earth analog, also called an Earth twin or second Earth, is a Exoplanet or moon with environmental conditions similar to those found on Earth.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Earth_analog",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVktuaDMwZjZqQWlha2czdnpSUl9yUXhtVGIzQUgxNTdhenJOWXRScHh5MnYyckpoa0tCcmNGQmFTWnZFZUZzelZJY3hVUEhEUWQzcVcyclliTU1wR18wcjdRaXBZcmxYSTlZVDZuZjNOVkF2c2M4TmFMZ0JoSTRzTEt6WEISBBoCCAAatwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCRBQgAEAAYACAAKkMKCnNjaWVudGlzdHMVWAHhPBoLcmVzZWFyY2hlcnMaB3NjaWVuY2UaCXNjaWVudGlzdBoPaXY7cDtzY2llbnRpc3RzKn8KCGRpc2NvdmVyFQAAAAAaBmRldGVjdBoKZGlzY292ZXJlZBoLZGlzY292ZXJpbmcaB2V4cGxvcmUaCmZpZ3VyZSBvdXQaBGZpbmQaBnJldmVhbBoHdW5jb3ZlchoNZGlzY292ZXJlYXJ0aBoJZGlzY292ZXJ5GgdmaW5kaW5nKiYKBWVhcnRoFb49mkAaDWRpc2NvdmVyZWFydGgaCWVhcnRobGlrZSolCgRsaWtlFXA44T8aB3NpbWlsYXIaBHR5cGUaCWVhcnRobGlrZSohCgZwbGFuZXQV1lwYQBoJcGxhbmV0YXJ5GgdwbGFuZXRzMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVktuaDMwZjZqQWlha2czdnpSUl9yUXhtVGIzQUgxNTdhenJOWXRScHh5MnYyckpoa0tCcmNGQmFTWnZFZUZzelZJY3hVUEhEUWQzcVcyclliTU1wR18wcjdRaXBZcmxYSTlZVDZuZjNOVkF2c2M4TmFMZ0JoSTRzTEt6WEI6HzxiPkVhcnRoPC9iPiBhbmFsb2cgLSBXaWtpcGVkaWFCmAFBbiBFYXJ0aCBhbmFsb2csIGFsc28gY2FsbGVkIGFuIEVhcnRoIHR3aW4gb3Igc2Vjb25kIEVhcnRoLCA8Yj5pcyBhIEV4b3BsYW5ldCBvciBtb29uIHdpdGggZW52aXJvbm1lbnRhbCBjb25kaXRpb25zIHNpbWlsYXIgdG8gdGhvc2UgZm91bmQgb24gRWFydGg8L2I-LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVktuaDMwZjZqQWlha2czdnpSUl9yUXhtVGIzQUgxNTdhenJOWXRScHh5MnYyckpoa0tCcmNGQmFTWnZFZUZzelZJY3hVUEhEUWQzcVcyclliTU1wR18wcjdRaXBZcmxYSTlZVDZuZjNOVkF2c2M4TmFMZ0JoSTRzTEt6WEISBBoCCAAatwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCRBQgAEAAYACAAKkMKCnNjaWVudGlzdHMVWAHhPBoLcmVzZWFyY2hlcnMaB3NjaWVuY2UaCXNjaWVudGlzdBoPaXY7cDtzY2llbnRpc3RzKn8KCGRpc2NvdmVyFQAAAAAaBmRldGVjdBoKZGlzY292ZXJlZBoLZGlzY292ZXJpbmcaB2V4cGxvcmUaCmZpZ3VyZSBvdXQaBGZpbmQaBnJldmVhbBoHdW5jb3ZlchoNZGlzY292ZXJlYXJ0aBoJZGlzY292ZXJ5GgdmaW5kaW5nKiYKBWVhcnRoFb49mkAaDWRpc2NvdmVyZWFydGgaCWVhcnRobGlrZSolCgRsaWtlFXA44T8aB3NpbWlsYXIaBHR5cGUaCWVhcnRobGlrZSohCgZwbGFuZXQV1lwYQBoJcGxhbmV0YXJ5GgdwbGFuZXRzMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVktuaDMwZjZqQWlha2czdnpSUl9yUXhtVGIzQUgxNTdhenJOWXRScHh5MnYyckpoa0tCcmNGQmFTWnZFZUZzelZJY3hVUEhEUWQzcVcyclliTU1wR18wcjdRaXBZcmxYSTlZVDZuZjNOVkF2c2M4TmFMZ0JoSTRzTEt6WEI6HzxiPkVhcnRoPC9iPiBhbmFsb2cgLSBXaWtpcGVkaWFCmAFBbiBFYXJ0aCBhbmFsb2csIGFsc28gY2FsbGVkIGFuIEVhcnRoIHR3aW4gb3Igc2Vjb25kIEVhcnRoLCA8Yj5pcyBhIEV4b3BsYW5ldCBvciBtb29uIHdpdGggZW52aXJvbm1lbnRhbCBjb25kaXRpb25zIHNpbWlsYXIgdG8gdGhvc2UgZm91bmQgb24gRWFydGg8L2I-LiICEAFIAFgAaAA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Earth_analog#:~:text=An%20Earth%20analog%2C%20also%20called,to%20those%20found%20on%20Earth."
+    },
+    {
+      "position": 3,
+      "title": "Exoplanets, worlds beyond the Solar System",
+      "link": "https://www.planetary.org/worlds/exoplanets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVsmdvvyGaAWu_D8iUHPN_qxy1BgQVJB4XtgLHeaHrTgyRinDIrjvXw5BGN0HMFVN_VgelL2e0XukkWSTd62jJqS2xNRD0jTky9yA4I9tmndA36sqI-yp8nAdJbMRLPA&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.planetary.org › worlds › exoplanets",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEX____t9frH3--fyOV2sNk8lM0YhcZTnNCLu94Ac7-x0ukAecExjsrf7fb5_P5kpdQBfMOdxWonAAAAwElEQVR4AZ2QQW7FIAxEDRDDMDH2_U9b5WdRlIZK7VtZeuCxLf8n5VIPbT3vXxSFDtlSiNPkZl6scpqC2Ur3UwkgzmqLNiWLe61-MiKIkIVM6ryruOwhKxWod4ZGMJKspGB8gjrjHm_FiXI5kH3KgwG6WAOayQ-MPHqgvZ4raZCeN1cMqr0qq9qC7e3TaK0kI-rTzFy92GdaPAJz7yPdpeN49LP0vQmy7HDUrRtoc-fyL26g71Ryt53KI8meKX_lC7QZB1HTtAmMAAAAAElFTkSuQmCC.png",
+      "date": "Jul 11, 2024",
+      "snippet": "Scientists have discovered more than 5,000 planets outside of the Solar System, or “exoplanets”. Most stars in our galaxy have at least one exoplanet, ...",
+      "snippet_highlighted_words": [
+        "more than 5,000 planets outside of the Solar System"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Scientists have discovered more than 5,000 planets outside of the Solar System, or “exoplanets”. Most stars in our galaxy have at least one exoplanet, ...",
+          "source_info_link": "https://www.planetary.org/worlds/exoplanets",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEX____t9frH3--fyOV2sNk8lM0YhcZTnNCLu94Ac7-x0ukAecExjsrf7fb5_P5kpdQBfMOdxWonAAAAwElEQVR4AZ2QQW7FIAxEDRDDMDH2_U9b5WdRlIZK7VtZeuCxLf8n5VIPbT3vXxSFDtlSiNPkZl6scpqC2Ur3UwkgzmqLNiWLe61-MiKIkIVM6ryruOwhKxWod4ZGMJKspGB8gjrjHm_FiXI5kH3KgwG6WAOayQ-MPHqgvZ4raZCeN1cMqr0qq9qC7e3TaK0kI-rTzFy92GdaPAJz7yPdpeN49LP0vQmy7HDUrRtoc-fyL26g71Ryt53KI8meKX_lC7QZB1HTtAmMAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnNtZHZ2eUdhQVd1X0Q4aVVIUE5fcXh5MUJnUVZKQjRYdGdMSGVhSHJUZ3lSaW5ESXJqdlh3NUJHTjBITUZWTl9WZ2VsTDJlMFh1a2tXU1RkNjJqSnFTMnhOUkQwalRreTl5QTRJOXRtbmRBMzZzcUkteXA4bkFkSmJNUkxQQRIEGgIIABrWBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLAFCAAQABgAIAAqQwoKc2NpZW50aXN0cxXNBd0_GgtyZXNlYXJjaGVycxoHc2NpZW5jZRoJc2NpZW50aXN0Gg9pdjtwO3NjaWVudGlzdHMqfwoIZGlzY292ZXIVJu-SPxoGZGV0ZWN0GgpkaXNjb3ZlcmVkGgtkaXNjb3ZlcmluZxoHZXhwbG9yZRoKZmlndXJlIG91dBoEZmluZBoGcmV2ZWFsGgd1bmNvdmVyGg1kaXNjb3ZlcmVhcnRoGglkaXNjb3ZlcnkaB2ZpbmRpbmcqJgoFZWFydGgV4rAbQBoNZGlzY292ZXJlYXJ0aBoJZWFydGhsaWtlKiUKBGxpa2UVumk9QBoHc2ltaWxhchoEdHlwZRoJZWFydGhsaWtlKiEKBnBsYW5ldBVyOyBAGglwbGFuZXRhcnkaB3BsYW5ldHMylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWc21kdnZ5R2FBV3VfRDhpVUhQTl9xeHkxQmdRVkpCNFh0Z0xIZWFIclRneVJpbkRJcmp2WHc1QkdOMEhNRlZOX1ZnZWxMMmUwWHVra1dTVGQ2MmpKcVMyeE5SRDBqVGt5OXlBNEk5dG1uZEEzNnNxSS15cDhuQWRKYk1STFBBOipFeG9wbGFuZXRzLCB3b3JsZHMgYmV5b25kIHRoZSBTb2xhciBTeXN0ZW1CqgFTY2llbnRpc3RzIGhhdmUgZGlzY292ZXJlZCA8Yj5tb3JlIHRoYW4gNSwwMDAgcGxhbmV0cyBvdXRzaWRlIG9mIHRoZSBTb2xhciBTeXN0ZW08L2I-LCBvciDigJxleG9wbGFuZXRz4oCdLiBNb3N0IHN0YXJzIGluIG91ciBnYWxheHkgaGF2ZSBhdCBsZWFzdCBvbmUgZXhvcGxhbmV0LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnNtZHZ2eUdhQVd1X0Q4aVVIUE5fcXh5MUJnUVZKQjRYdGdMSGVhSHJUZ3lSaW5ESXJqdlh3NUJHTjBITUZWTl9WZ2VsTDJlMFh1a2tXU1RkNjJqSnFTMnhOUkQwalRreTl5QTRJOXRtbmRBMzZzcUkteXA4bkFkSmJNUkxQQRIEGgIIABrWBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLAFCAAQABgAIAAqQwoKc2NpZW50aXN0cxXNBd0_GgtyZXNlYXJjaGVycxoHc2NpZW5jZRoJc2NpZW50aXN0Gg9pdjtwO3NjaWVudGlzdHMqfwoIZGlzY292ZXIVJu-SPxoGZGV0ZWN0GgpkaXNjb3ZlcmVkGgtkaXNjb3ZlcmluZxoHZXhwbG9yZRoKZmlndXJlIG91dBoEZmluZBoGcmV2ZWFsGgd1bmNvdmVyGg1kaXNjb3ZlcmVhcnRoGglkaXNjb3ZlcnkaB2ZpbmRpbmcqJgoFZWFydGgV4rAbQBoNZGlzY292ZXJlYXJ0aBoJZWFydGhsaWtlKiUKBGxpa2UVumk9QBoHc2ltaWxhchoEdHlwZRoJZWFydGhsaWtlKiEKBnBsYW5ldBVyOyBAGglwbGFuZXRhcnkaB3BsYW5ldHMylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWc21kdnZ5R2FBV3VfRDhpVUhQTl9xeHkxQmdRVkpCNFh0Z0xIZWFIclRneVJpbkRJcmp2WHc1QkdOMEhNRlZOX1ZnZWxMMmUwWHVra1dTVGQ2MmpKcVMyeE5SRDBqVGt5OXlBNEk5dG1uZEEzNnNxSS15cDhuQWRKYk1STFBBOipFeG9wbGFuZXRzLCB3b3JsZHMgYmV5b25kIHRoZSBTb2xhciBTeXN0ZW1CqgFTY2llbnRpc3RzIGhhdmUgZGlzY292ZXJlZCA8Yj5tb3JlIHRoYW4gNSwwMDAgcGxhbmV0cyBvdXRzaWRlIG9mIHRoZSBTb2xhciBTeXN0ZW08L2I-LCBvciDigJxleG9wbGFuZXRz4oCdLiBNb3N0IHN0YXJzIGluIG91ciBnYWxheHkgaGF2ZSBhdCBsZWFzdCBvbmUgZXhvcGxhbmV0LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "The Planetary Society",
+      "read_more_link": "https://www.planetary.org/worlds/exoplanets#:~:text=Scientists%20have%20discovered%20more%20than,worlds%20in%20the%20Solar%20System."
+    },
+    {
+      "position": 4,
+      "title": "'Exoplanets' and the Search for Habitable Worlds",
+      "link": "https://www.jpl.nasa.gov/edu/resources/teachable-moment/exoplanets-and-the-search-for-habitable-worlds/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFXDEqLSbS-zh25iriQVVrbNdRS1_-dOhPo-XUH43d-kYq1Yzcl8yyQMpkQb4WV5wfdmrDddNbGgVYi0wtHFpu-CyBeZCPgokxrGQVevfwEd_0vmtaj69r1bFN3WqCEFRD9xfwO2gQxQrK6s-Wk0uVQo6f2wyW9bjk0FijeZFxFDOFqHeCKKTl0YAosMXAzrBFOcAmawrHPi6Wf0&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.jpl.nasa.gov › resources › teachable-moment",
+      "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAADwBACdASocABwAPtEutFooIagoGAEAGglsAMNAFEIjMX-s5DZvpl1R3v50H5JkXuAA_vYBJDS2oR6XGphEdFlQJ6shI7zCPS18id3nzfuWvgPNQ3tsOOSumNHxsObUpMy38jWJU4zM7As5pQX_-lpqch1RfRn1plSCCw6knfs1n_9z_lrKfiQ9BbLfD_GqFOazFnvtBCggB_yjJSPPdkQ51aUB2mUAFUkOMpITESq87rUvCHZulFmpf4_5lG_weozhPhuwAAA.webp",
+      "date": "Oct 10, 2024",
+      "snippet": "Twenty years after the first discovery of a planet orbiting another sun-like star, scientists have discovered the most Earth-like exoplanet ever: Kepler-452b.",
+      "snippet_highlighted_words": [
+        "Kepler-452b"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Twenty years after the first discovery of a planet orbiting another sun-like star, scientists have discovered the most Earth-like exoplanet ever: Kepler-452b.",
+          "source_info_link": "https://www.jpl.nasa.gov/edu/resources/teachable-moment/exoplanets-and-the-search-for-habitable-worlds/",
+          "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAADwBACdASocABwAPtEutFooIagoGAEAGglsAMNAFEIjMX-s5DZvpl1R3v50H5JkXuAA_vYBJDS2oR6XGphEdFlQJ6shI7zCPS18id3nzfuWvgPNQ3tsOOSumNHxsObUpMy38jWJU4zM7As5pQX_-lpqch1RfRn1plSCCw6knfs1n_9z_lrKfiQ9BbLfD_GqFOazFnvtBCggB_yjJSPPdkQ51aUB2mUAFUkOMpITESq87rUvCHZulFmpf4_5lG_weozhPhuwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZYREVxTFNiUy16aDI1aXJpUVZWcmJOZFJTMV8tZE9oUG8tWFVINDNkLWtZcTFZemNsOHl5UU1wa1FiNFdWNXdmZG1yRGRkTmJHZ1ZZaTB3dEhGcHUtQ3lCZVpDUGdva3hyR1FWZXZmd0VkXzB2bXRhajY5cjFiRk4zV3FDRUZSRDl4ZndPMmdReFFySzZzLVdrMHVWUW82ZjJ3eVc5YmprMEZpamVaRnhGRE9GcUhlQ0tLVGwwWUFvc01YQXpyQkZPY0FtYXdySFBpNldmMBIEGgIIABqwBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIoGCAAQABgAIAAqQwoKc2NpZW50aXN0cxVlC4I_GgtyZXNlYXJjaGVycxoHc2NpZW5jZRoJc2NpZW50aXN0Gg9pdjtwO3NjaWVudGlzdHMqfwoIZGlzY292ZXIVfWF8PhoGZGV0ZWN0GgpkaXNjb3ZlcmVkGgtkaXNjb3ZlcmluZxoHZXhwbG9yZRoKZmlndXJlIG91dBoEZmluZBoGcmV2ZWFsGgd1bmNvdmVyGg1kaXNjb3ZlcmVhcnRoGglkaXNjb3ZlcnkaB2ZpbmRpbmcqJgoFZWFydGgVfK-PQBoNZGlzY292ZXJlYXJ0aBoJZWFydGhsaWtlKiUKBGxpa2UVQvhoQBoHc2ltaWxhchoEdHlwZRoJZWFydGhsaWtlKiEKBnBsYW5ldBWufFRAGglwbGFuZXRhcnkaB3BsYW5ldHMy5QEvZ290bz91cmw9Q0FFU253RUI2enN3RlhERXFMU2JTLXpoMjVpcmlRVlZyYk5kUlMxXy1kT2hQby1YVUg0M2Qta1lxMVl6Y2w4eXlRTXBrUWI0V1Y1d2ZkbXJEZGROYkdnVllpMHd0SEZwdS1DeUJlWkNQZ29reHJHUVZldmZ3RWRfMHZtdGFqNjlyMWJGTjNXcUNFRlJEOXhmd08yZ1F4UXJLNnMtV2swdVZRbzZmMnd5VzliamswRmlqZVpGeEZET0ZxSGVDS0tUbDBZQW9zTVhBenJCRk9jQW1hd3JIUGk2V2YwOjgmIzM5O0V4b3BsYW5ldHMmIzM5OyBhbmQgdGhlIFNlYXJjaCBmb3IgSGFiaXRhYmxlIFdvcmxkc0KlAVR3ZW50eSB5ZWFycyBhZnRlciB0aGUgZmlyc3QgZGlzY292ZXJ5IG9mIGEgcGxhbmV0IG9yYml0aW5nIGFub3RoZXIgc3VuLWxpa2Ugc3Rhciwgc2NpZW50aXN0cyBoYXZlIGRpc2NvdmVyZWQgdGhlIG1vc3QgRWFydGgtbGlrZSBleG9wbGFuZXQgZXZlcjogPGI-S2VwbGVyLTQ1MmI8L2I-LiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZYREVxTFNiUy16aDI1aXJpUVZWcmJOZFJTMV8tZE9oUG8tWFVINDNkLWtZcTFZemNsOHl5UU1wa1FiNFdWNXdmZG1yRGRkTmJHZ1ZZaTB3dEhGcHUtQ3lCZVpDUGdva3hyR1FWZXZmd0VkXzB2bXRhajY5cjFiRk4zV3FDRUZSRDl4ZndPMmdReFFySzZzLVdrMHVWUW82ZjJ3eVc5YmprMEZpamVaRnhGRE9GcUhlQ0tLVGwwWUFvc01YQXpyQkZPY0FtYXdySFBpNldmMBIEGgIIABqwBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIoGCAAQABgAIAAqQwoKc2NpZW50aXN0cxVlC4I_GgtyZXNlYXJjaGVycxoHc2NpZW5jZRoJc2NpZW50aXN0Gg9pdjtwO3NjaWVudGlzdHMqfwoIZGlzY292ZXIVfWF8PhoGZGV0ZWN0GgpkaXNjb3ZlcmVkGgtkaXNjb3ZlcmluZxoHZXhwbG9yZRoKZmlndXJlIG91dBoEZmluZBoGcmV2ZWFsGgd1bmNvdmVyGg1kaXNjb3ZlcmVhcnRoGglkaXNjb3ZlcnkaB2ZpbmRpbmcqJgoFZWFydGgVfK-PQBoNZGlzY292ZXJlYXJ0aBoJZWFydGhsaWtlKiUKBGxpa2UVQvhoQBoHc2ltaWxhchoEdHlwZRoJZWFydGhsaWtlKiEKBnBsYW5ldBWufFRAGglwbGFuZXRhcnkaB3BsYW5ldHMy5QEvZ290bz91cmw9Q0FFU253RUI2enN3RlhERXFMU2JTLXpoMjVpcmlRVlZyYk5kUlMxXy1kT2hQby1YVUg0M2Qta1lxMVl6Y2w4eXlRTXBrUWI0V1Y1d2ZkbXJEZGROYkdnVllpMHd0SEZwdS1DeUJlWkNQZ29reHJHUVZldmZ3RWRfMHZtdGFqNjlyMWJGTjNXcUNFRlJEOXhmd08yZ1F4UXJLNnMtV2swdVZRbzZmMnd5VzliamswRmlqZVpGeEZET0ZxSGVDS0tUbDBZQW9zTVhBenJCRk9jQW1hd3JIUGk2V2YwOjgmIzM5O0V4b3BsYW5ldHMmIzM5OyBhbmQgdGhlIFNlYXJjaCBmb3IgSGFiaXRhYmxlIFdvcmxkc0KlAVR3ZW50eSB5ZWFycyBhZnRlciB0aGUgZmlyc3QgZGlzY292ZXJ5IG9mIGEgcGxhbmV0IG9yYml0aW5nIGFub3RoZXIgc3VuLWxpa2Ugc3Rhciwgc2NpZW50aXN0cyBoYXZlIGRpc2NvdmVyZWQgdGhlIG1vc3QgRWFydGgtbGlrZSBleG9wbGFuZXQgZXZlcjogPGI-S2VwbGVyLTQ1MmI8L2I-LiICEAFIAFgAaAA",
+      "source": "NASA Jet Propulsion Laboratory (JPL) (.gov)",
+      "read_more_link": "https://www.jpl.nasa.gov/edu/resources/teachable-moment/exoplanets-and-the-search-for-habitable-worlds/#:~:text=Twenty%20years%20after%20the%20first,most%20Earth%2Dlike%20exoplanet%20ever%3A%20Kepler%2D452b."
+    },
+    {
+      "position": 5,
+      "title": "Scientists discover 1st evidence of 4.5-billion-year-old ' ...",
+      "link": "https://www.space.com/astronomy/earth/scientists-discover-1st-evidence-of-4-5-billion-year-old-proto-earth-buried-deep-within-our-planet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFZRWSUuL8pkXqJpOOqkwi50qn6Ea_Z9XB2a-z_9rBs4aj_Au8yi0XzRpYAX8XY_ghaYfLHEUK-35ULxTrKhckdupbY-0ZmM6U9-Pt9AH6VtBahDNoQzvila69hn0R8iI2k7QCd0MKNm1w5SA2SyzqWjaie0v9oErJy4OCcyirtJqjlutf-3NrjZJQPrF-F4w_IAYnrfdo2Jp5O3X9oENDucDa1z3HSwlMxmoVEJqjW2GpyRgt7YYiAcx7YJh&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.space.com › ... › Solar System › Earth",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAArUlEQVR4Ab3MIQiDQACF4derHYQ1u2W9w8qSbR0Ma6tGq8m8ftFkB_ulK4LFZLl48HbqBHfnxfnVH36c4RIjoB5pTc0NnqvmRqVwGO44TdAyUnFWOnEi2cHKB0o4aD2wKJOj2CFgpGXEHUcqfnUv-CQ3poCnMtwI-PJWc5XhSFovvUVAT1Lhl2qwevtRkLqAFWtvW3ExyJ6zHHuZ4Y6Cowk3K6oVZ_KJgCTC_30Ao2m5x0qFcx0AAAAASUVORK5CYII.png",
+      "date": "Oct 20, 2025",
+      "snippet": "Scientists discover 1st evidence of 4.5-billion-year-old 'proto-Earth' buried deep within our planet · An illustrustion of magnetism through the early solar ...",
+      "snippet_highlighted_words": [
+        "Scientists discover",
+        "Earth",
+        "planet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Scientists discover 1st evidence of 4.5-billion-year-old 'proto-Earth' buried deep within our planet · An illustrustion of magnetism through the early solar ...",
+          "source_info_link": "https://www.space.com/astronomy/earth/scientists-discover-1st-evidence-of-4-5-billion-year-old-proto-earth-buried-deep-within-our-planet",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAArUlEQVR4Ab3MIQiDQACF4derHYQ1u2W9w8qSbR0Ma6tGq8m8ftFkB_ulK4LFZLl48HbqBHfnxfnVH36c4RIjoB5pTc0NnqvmRqVwGO44TdAyUnFWOnEi2cHKB0o4aD2wKJOj2CFgpGXEHUcqfnUv-CQ3poCnMtwI-PJWc5XhSFovvUVAT1Lhl2qwevtRkLqAFWtvW3ExyJ6zHHuZ4Y6Cowk3K6oVZ_KJgCTC_30Ao2m5x0qFcx0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZaUldTVXVMOHBrWHFKcE9PcWt3aTUwcW42RWFfWjlYQjJhLXpfOXJCczRhal9BdTh5aTBYelJwWUFYOFhZX2doYVlmTEhFVUstMzVVTHhUcktoY2tkdXBiWS0wWm1NNlU5LVB0OUFINlZ0QmFoRE5vUXp2aWxhNjlobjBSOGlJMms3UUNkME1LTm0xdzVTQTJTeXpxV2phaWUwdjlvRXJKeTRPQ2N5aXJ0SnFqbHV0Zi0zTnJqWkpRUHJGLUY0d19JQVlucmZkbzJKcDVPM1g5b0VORHVjRGExejNIU3dsTXhtb1ZFSnFqVzJHcHlSZ3Q3WVlpQWN4N1lKaBIEGgIIABqXBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPEGCAAQABgAIAAqQwoKc2NpZW50aXN0cxXKPkBAGgtyZXNlYXJjaGVycxoHc2NpZW5jZRoJc2NpZW50aXN0Gg9pdjtwO3NjaWVudGlzdHMqfwoIZGlzY292ZXIVhjBEQBoGZGV0ZWN0GgpkaXNjb3ZlcmVkGgtkaXNjb3ZlcmluZxoHZXhwbG9yZRoKZmlndXJlIG91dBoEZmluZBoGcmV2ZWFsGgd1bmNvdmVyGg1kaXNjb3ZlcmVhcnRoGglkaXNjb3ZlcnkaB2ZpbmRpbmcqJgoFZWFydGgV5vmPQBoNZGlzY292ZXJlYXJ0aBoJZWFydGhsaWtlKiUKBGxpa2UVPZKPPxoHc2ltaWxhchoEdHlwZRoJZWFydGhsaWtlKiEKBnBsYW5ldBWk4hJAGglwbGFuZXRhcnkaB3BsYW5ldHMykgIvZ290bz91cmw9Q0FFU3dRRUI2enN3RlpSV1NVdUw4cGtYcUpwT09xa3dpNTBxbjZFYV9aOVhCMmEtel85ckJzNGFqX0F1OHlpMFh6UnBZQVg4WFlfZ2hhWWZMSEVVSy0zNVVMeFRyS2hja2R1cGJZLTBabU02VTktUHQ5QUg2VnRCYWhETm9RenZpbGE2OWhuMFI4aUkyazdRQ2QwTUtObTF3NVNBMlN5enFXamFpZTB2OW9Fckp5NE9DY3lpcnRKcWpsdXRmLTNOcmpaSlFQckYtRjR3X0lBWW5yZmRvMkpwNU8zWDlvRU5EdWNEYTF6M0hTd2xNeG1vVkVKcWpXMkdweVJndDdZWWlBY3g3WUpoOk48Yj5TY2llbnRpc3RzIGRpc2NvdmVyPC9iPiAxc3QgZXZpZGVuY2Ugb2YgNC41LWJpbGxpb24teWVhci1vbGQgJiMzOTtwcm90byAuLi5CyQE8Yj5TY2llbnRpc3RzIGRpc2NvdmVyPC9iPiAxc3QgZXZpZGVuY2Ugb2YgNC41LWJpbGxpb24teWVhci1vbGQgJiMzOTtwcm90by08Yj5FYXJ0aDwvYj4mIzM5OyBidXJpZWQgZGVlcCB3aXRoaW4gb3VyIDxiPnBsYW5ldDwvYj4gJm1pZGRvdDsgQW4gaWxsdXN0cnVzdGlvbiBvZiBtYWduZXRpc20gdGhyb3VnaCB0aGUgZWFybHkgc29sYXImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZaUldTVXVMOHBrWHFKcE9PcWt3aTUwcW42RWFfWjlYQjJhLXpfOXJCczRhal9BdTh5aTBYelJwWUFYOFhZX2doYVlmTEhFVUstMzVVTHhUcktoY2tkdXBiWS0wWm1NNlU5LVB0OUFINlZ0QmFoRE5vUXp2aWxhNjlobjBSOGlJMms3UUNkME1LTm0xdzVTQTJTeXpxV2phaWUwdjlvRXJKeTRPQ2N5aXJ0SnFqbHV0Zi0zTnJqWkpRUHJGLUY0d19JQVlucmZkbzJKcDVPM1g5b0VORHVjRGExejNIU3dsTXhtb1ZFSnFqVzJHcHlSZ3Q3WVlpQWN4N1lKaBIEGgIIABqXBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPEGCAAQABgAIAAqQwoKc2NpZW50aXN0cxXKPkBAGgtyZXNlYXJjaGVycxoHc2NpZW5jZRoJc2NpZW50aXN0Gg9pdjtwO3NjaWVudGlzdHMqfwoIZGlzY292ZXIVhjBEQBoGZGV0ZWN0GgpkaXNjb3ZlcmVkGgtkaXNjb3ZlcmluZxoHZXhwbG9yZRoKZmlndXJlIG91dBoEZmluZBoGcmV2ZWFsGgd1bmNvdmVyGg1kaXNjb3ZlcmVhcnRoGglkaXNjb3ZlcnkaB2ZpbmRpbmcqJgoFZWFydGgV5vmPQBoNZGlzY292ZXJlYXJ0aBoJZWFydGhsaWtlKiUKBGxpa2UVPZKPPxoHc2ltaWxhchoEdHlwZRoJZWFydGhsaWtlKiEKBnBsYW5ldBWk4hJAGglwbGFuZXRhcnkaB3BsYW5ldHMykgIvZ290bz91cmw9Q0FFU3dRRUI2enN3RlpSV1NVdUw4cGtYcUpwT09xa3dpNTBxbjZFYV9aOVhCMmEtel85ckJzNGFqX0F1OHlpMFh6UnBZQVg4WFlfZ2hhWWZMSEVVSy0zNVVMeFRyS2hja2R1cGJZLTBabU02VTktUHQ5QUg2VnRCYWhETm9RenZpbGE2OWhuMFI4aUkyazdRQ2QwTUtObTF3NVNBMlN5enFXamFpZTB2OW9Fckp5NE9DY3lpcnRKcWpsdXRmLTNOcmpaSlFQckYtRjR3X0lBWW5yZmRvMkpwNU8zWDlvRU5EdWNEYTF6M0hTd2xNeG1vVkVKcWpXMkdweVJndDdZWWlBY3g3WUpoOk48Yj5TY2llbnRpc3RzIGRpc2NvdmVyPC9iPiAxc3QgZXZpZGVuY2Ugb2YgNC41LWJpbGxpb24teWVhci1vbGQgJiMzOTtwcm90byAuLi5CyQE8Yj5TY2llbnRpc3RzIGRpc2NvdmVyPC9iPiAxc3QgZXZpZGVuY2Ugb2YgNC41LWJpbGxpb24teWVhci1vbGQgJiMzOTtwcm90by08Yj5FYXJ0aDwvYj4mIzM5OyBidXJpZWQgZGVlcCB3aXRoaW4gb3VyIDxiPnBsYW5ldDwvYj4gJm1pZGRvdDsgQW4gaWxsdXN0cnVzdGlvbiBvZiBtYWduZXRpc20gdGhyb3VnaCB0aGUgZWFybHkgc29sYXImbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Space",
+      "read_more_link": "https://www.space.com/astronomy/earth/scientists-discover-1st-evidence-of-4-5-billion-year-old-proto-earth-buried-deep-within-our-planet#:~:text=Scientists%20discover%201st%20evidence%20of,buried%20deep%20within%20our%20planet&text=How%20did%20the%20infant%20sun"
+    },
+    {
+      "position": 6,
+      "title": "Most Earth-Like Planet Yet May Have Been Found Just 40 ...",
+      "link": "https://www.reddit.com/r/aliens/comments/1nhy4b2/most_earthlike_planet_yet_may_have_been_found/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFck9EfPrqFklFgYgL4V9x1oZRHP5GnXe7q1AtLuCmcUYqKU7PKKV-WDMRH5dA2ZiJtC8oCslXvACj8LCpQp8XQ_XuDuFVpLIM_4v8_XPMqmYdVK7rlgPiqGkrqdiDLAV6elqWwd4DXFFtVaJxgjIsinGfSodtxwcRO2U2cBCkv_50ta7ASesPzsgqTCZFJoDk_A8&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECEgQAQ&uoh=1",
+      "displayed_link": "30+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Astronomers discover 3 Earth-sized exoplanets just 12 light-years from Earth, and one of the planets is likely in the star's habitable zone.",
+      "snippet_highlighted_words": [
+        "discover",
+        "Earth",
+        "Earth",
+        "planets"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Astronomers discover 3 Earth-sized exoplanets just 12 light-years from Earth, and one of the planets is likely in the star's habitable zone.",
+          "source_info_link": "https://www.reddit.com/r/aliens/comments/1nhy4b2/most_earthlike_planet_yet_may_have_been_found/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjazlFZlBycUZrbEZnWWdMNFY5eDFvWlJIUDVHblhlN3ExQXRMdUNtY1VZcUtVN1BLS1YtV0RNUkg1ZEEyWmlKdEM4b0NzbFh2QUNqOExDcFFwOFhRX1h1RHVGVnBMSU1fNHY4X1hQTXFtWWRWSzdybGdQaXFHa3JxZGlETEFWNmVscVd3ZDREWEZGdFZhSnhnaklzaW5HZlNvZHR4d2NSTzJVMmNCQ2t2XzUwdGE3QVNlc1B6c2dxVENaRkpvRGtfQTgSBBoCCAAavAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCWBggAEAAYACAAKkMKCnNjaWVudGlzdHMVyrPMPxoLcmVzZWFyY2hlcnMaB3NjaWVuY2UaCXNjaWVudGlzdBoPaXY7cDtzY2llbnRpc3RzKn8KCGRpc2NvdmVyFYf9tT8aBmRldGVjdBoKZGlzY292ZXJlZBoLZGlzY292ZXJpbmcaB2V4cGxvcmUaCmZpZ3VyZSBvdXQaBGZpbmQaBnJldmVhbBoHdW5jb3ZlchoNZGlzY292ZXJlYXJ0aBoJZGlzY292ZXJ5GgdmaW5kaW5nKiYKBWVhcnRoFdPIuEAaDWRpc2NvdmVyZWFydGgaCWVhcnRobGlrZSolCgRsaWtlFZd3s0AaB3NpbWlsYXIaBHR5cGUaCWVhcnRobGlrZSohCgZwbGFuZXQVu161QBoJcGxhbmV0YXJ5GgdwbGFuZXRzMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjazlFZlBycUZrbEZnWWdMNFY5eDFvWlJIUDVHblhlN3ExQXRMdUNtY1VZcUtVN1BLS1YtV0RNUkg1ZEEyWmlKdEM4b0NzbFh2QUNqOExDcFFwOFhRX1h1RHVGVnBMSU1fNHY4X1hQTXFtWWRWSzdybGdQaXFHa3JxZGlETEFWNmVscVd3ZDREWEZGdFZhSnhnaklzaW5HZlNvZHR4d2NSTzJVMmNCQ2t2XzUwdGE3QVNlc1B6c2dxVENaRkpvRGtfQTg6SE1vc3QgPGI-RWFydGg8L2I-LTxiPkxpa2UgUGxhbmV0PC9iPiBZZXQgTWF5IEhhdmUgQmVlbiBGb3VuZCBKdXN0IDQwIC4uLkKsAUFzdHJvbm9tZXJzIDxiPmRpc2NvdmVyPC9iPiAzIDxiPkVhcnRoPC9iPi1zaXplZCBleG9wbGFuZXRzIGp1c3QgMTIgbGlnaHQteWVhcnMgZnJvbSA8Yj5FYXJ0aDwvYj4sIGFuZCBvbmUgb2YgdGhlIDxiPnBsYW5ldHM8L2I-IGlzIGxpa2VseSBpbiB0aGUgc3RhciYjMzk7cyBoYWJpdGFibGUgem9uZS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjazlFZlBycUZrbEZnWWdMNFY5eDFvWlJIUDVHblhlN3ExQXRMdUNtY1VZcUtVN1BLS1YtV0RNUkg1ZEEyWmlKdEM4b0NzbFh2QUNqOExDcFFwOFhRX1h1RHVGVnBMSU1fNHY4X1hQTXFtWWRWSzdybGdQaXFHa3JxZGlETEFWNmVscVd3ZDREWEZGdFZhSnhnaklzaW5HZlNvZHR4d2NSTzJVMmNCQ2t2XzUwdGE3QVNlc1B6c2dxVENaRkpvRGtfQTgSBBoCCAAavAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCWBggAEAAYACAAKkMKCnNjaWVudGlzdHMVyrPMPxoLcmVzZWFyY2hlcnMaB3NjaWVuY2UaCXNjaWVudGlzdBoPaXY7cDtzY2llbnRpc3RzKn8KCGRpc2NvdmVyFYf9tT8aBmRldGVjdBoKZGlzY292ZXJlZBoLZGlzY292ZXJpbmcaB2V4cGxvcmUaCmZpZ3VyZSBvdXQaBGZpbmQaBnJldmVhbBoHdW5jb3ZlchoNZGlzY292ZXJlYXJ0aBoJZGlzY292ZXJ5GgdmaW5kaW5nKiYKBWVhcnRoFdPIuEAaDWRpc2NvdmVyZWFydGgaCWVhcnRobGlrZSolCgRsaWtlFZd3s0AaB3NpbWlsYXIaBHR5cGUaCWVhcnRobGlrZSohCgZwbGFuZXQVu161QBoJcGxhbmV0YXJ5GgdwbGFuZXRzMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjazlFZlBycUZrbEZnWWdMNFY5eDFvWlJIUDVHblhlN3ExQXRMdUNtY1VZcUtVN1BLS1YtV0RNUkg1ZEEyWmlKdEM4b0NzbFh2QUNqOExDcFFwOFhRX1h1RHVGVnBMSU1fNHY4X1hQTXFtWWRWSzdybGdQaXFHa3JxZGlETEFWNmVscVd3ZDREWEZGdFZhSnhnaklzaW5HZlNvZHR4d2NSTzJVMmNCQ2t2XzUwdGE3QVNlc1B6c2dxVENaRkpvRGtfQTg6SE1vc3QgPGI-RWFydGg8L2I-LTxiPkxpa2UgUGxhbmV0PC9iPiBZZXQgTWF5IEhhdmUgQmVlbiBGb3VuZCBKdXN0IDQwIC4uLkKsAUFzdHJvbm9tZXJzIDxiPmRpc2NvdmVyPC9iPiAzIDxiPkVhcnRoPC9iPi1zaXplZCBleG9wbGFuZXRzIGp1c3QgMTIgbGlnaHQteWVhcnMgZnJvbSA8Yj5FYXJ0aDwvYj4sIGFuZCBvbmUgb2YgdGhlIDxiPnBsYW5ldHM8L2I-IGlzIGxpa2VseSBpbiB0aGUgc3RhciYjMzk7cyBoYWJpdGFibGUgem9uZS4iAhABSABYAGgA",
+      "source": "Reddit · r/aliens",
+      "read_more_link": "https://www.reddit.com/r/aliens/comments/1nhy4b2/most_earthlike_planet_yet_may_have_been_found/#:~:text=r%2Fspace"
+    },
+    {
+      "position": 7,
+      "title": "New earth-like planet discovered near habitable zone",
+      "link": "https://www.facebook.com/groups/775801081313358/posts/1200717225488406/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVxfd_nxBhoBIuUw0wH8PBAKWZnPffSZyGP5zwJJF8_tVUMd6KhPo3ngDq_98zAzUedgRtmT7SaK4FabvneYlfuD4sSMqRDUX9zWUfWP19LbIRwYjlpfQDhuRIdBHNO2JlOxvmqkk_UGwKUgscMVirARMbiUYYtjiaiaE&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECEIQAQ&uoh=1",
+      "displayed_link": "90+ comments",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "A Second Earth? The Discovery That’s Captivating the World Astronomers have made one of the most exciting finds yet — a planet nearly identical in ...",
+      "about_this_result": {
+        "source": {
+          "description": "Astronomers have confirmed the discovery of an Earth sized planet orbiting within the habitable zone of its star, approximately 40 light.",
+          "source_info_link": "https://www.facebook.com/groups/775801081313358/posts/1200717225488406/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnhmZF9ueEJob0JJdVV3MHdIOFBCQUtXWm5QZmZTWnlHUDV6d0pKRjhfdFZVTWQ2S2hQbzNuZ0RxXzk4ekF6VWVkZ1J0bVQ3U2FLNEZhYnZuZVlsZnVENHNTTXFSRFVYOXpXVWZXUDE5TGJJUndZamxwZlFEaHVSSWRCSE5PMkpsT3h2bXFra19VR3dLVWdzY01WaXJBUk1iaVVZWXRqaWFpYUUSBBoCCAAa9wUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0wUIABAAGAAgACpDCgpzY2llbnRpc3RzFagJoT4aC3Jlc2VhcmNoZXJzGgdzY2llbmNlGglzY2llbnRpc3QaD2l2O3A7c2NpZW50aXN0cyp_CghkaXNjb3ZlchWUfO0-GgZkZXRlY3QaCmRpc2NvdmVyZWQaC2Rpc2NvdmVyaW5nGgdleHBsb3JlGgpmaWd1cmUgb3V0GgRmaW5kGgZyZXZlYWwaB3VuY292ZXIaDWRpc2NvdmVyZWFydGgaCWRpc2NvdmVyeRoHZmluZGluZyomCgVlYXJ0aBXgbLNAGg1kaXNjb3ZlcmVhcnRoGgllYXJ0aGxpa2UqJQoEbGlrZRVor6BAGgdzaW1pbGFyGgR0eXBlGgllYXJ0aGxpa2UqIQoGcGxhbmV0FSjwpUAaCXBsYW5ldGFyeRoHcGxhbmV0czK5AS9nb3RvP3VybD1DQUVTZndIck96QVZ4ZmRfbnhCaG9CSXVVdzB3SDhQQkFLV1puUGZmU1p5R1A1endKSkY4X3RWVU1kNktoUG8zbmdEcV85OHpBelVlZGdSdG1UN1NhSzRGYWJ2bmVZbGZ1RDRzU01xUkRVWDl6V1VmV1AxOUxiSVJ3WWpscGZRRGh1UklkQkhOTzJKbE94dm1xa2tfVUd3S1Vnc2NNVmlyQVJNYmlVWVl0amlhaWFFOkJOZXcgPGI-ZWFydGg8L2I-LTxiPmxpa2UgcGxhbmV0IGRpc2NvdmVyZWQ8L2I-IG5lYXIgaGFiaXRhYmxlIHpvbmVCkAFBc3Ryb25vbWVycyBoYXZlIGNvbmZpcm1lZCB0aGUgZGlzY292ZXJ5IG9mIDxiPmFuIEVhcnRoIHNpemVkIHBsYW5ldCBvcmJpdGluZyB3aXRoaW4gdGhlIGhhYml0YWJsZSB6b25lIG9mIGl0cyBzdGFyPC9iPiwgYXBwcm94aW1hdGVseSA0MCBsaWdodC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnhmZF9ueEJob0JJdVV3MHdIOFBCQUtXWm5QZmZTWnlHUDV6d0pKRjhfdFZVTWQ2S2hQbzNuZ0RxXzk4ekF6VWVkZ1J0bVQ3U2FLNEZhYnZuZVlsZnVENHNTTXFSRFVYOXpXVWZXUDE5TGJJUndZamxwZlFEaHVSSWRCSE5PMkpsT3h2bXFra19VR3dLVWdzY01WaXJBUk1iaVVZWXRqaWFpYUUSBBoCCAAa9wUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0wUIABAAGAAgACpDCgpzY2llbnRpc3RzFagJoT4aC3Jlc2VhcmNoZXJzGgdzY2llbmNlGglzY2llbnRpc3QaD2l2O3A7c2NpZW50aXN0cyp_CghkaXNjb3ZlchWUfO0-GgZkZXRlY3QaCmRpc2NvdmVyZWQaC2Rpc2NvdmVyaW5nGgdleHBsb3JlGgpmaWd1cmUgb3V0GgRmaW5kGgZyZXZlYWwaB3VuY292ZXIaDWRpc2NvdmVyZWFydGgaCWRpc2NvdmVyeRoHZmluZGluZyomCgVlYXJ0aBXgbLNAGg1kaXNjb3ZlcmVhcnRoGgllYXJ0aGxpa2UqJQoEbGlrZRVor6BAGgdzaW1pbGFyGgR0eXBlGgllYXJ0aGxpa2UqIQoGcGxhbmV0FSjwpUAaCXBsYW5ldGFyeRoHcGxhbmV0czK5AS9nb3RvP3VybD1DQUVTZndIck96QVZ4ZmRfbnhCaG9CSXVVdzB3SDhQQkFLV1puUGZmU1p5R1A1endKSkY4X3RWVU1kNktoUG8zbmdEcV85OHpBelVlZGdSdG1UN1NhSzRGYWJ2bmVZbGZ1RDRzU01xUkRVWDl6V1VmV1AxOUxiSVJ3WWpscGZRRGh1UklkQkhOTzJKbE94dm1xa2tfVUd3S1Vnc2NNVmlyQVJNYmlVWVl0amlhaWFFOkJOZXcgPGI-ZWFydGg8L2I-LTxiPmxpa2UgcGxhbmV0IGRpc2NvdmVyZWQ8L2I-IG5lYXIgaGFiaXRhYmxlIHpvbmVCkAFBc3Ryb25vbWVycyBoYXZlIGNvbmZpcm1lZCB0aGUgZGlzY292ZXJ5IG9mIDxiPmFuIEVhcnRoIHNpemVkIHBsYW5ldCBvcmJpdGluZyB3aXRoaW4gdGhlIGhhYml0YWJsZSB6b25lIG9mIGl0cyBzdGFyPC9iPiwgYXBwcm94aW1hdGVseSA0MCBsaWdodC4iAhABSABYAGgA",
+      "source": "Facebook · Neil deGrasse Tyson"
+    },
+    {
+      "position": 8,
+      "title": "Earthlike Exoplanet is Home to Water",
+      "link": "https://time.com/5674014/life-exoplanet-k2-18b/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVs2lNOmq0gzEZXZ-vI9CD72D4ieA_NfKJCascdSfs9MFVPQcYEMjtf3AJBnZsFMa9Rgq-Ao8aFOL-MfJC9gML-Crtr25jL9LTxJ6G1TWY-5Ge1Q4KXw7u_W3OtAXLgTo6bLQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://time.com › Science › Space",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAjElEQVR4AWNwL_ChK0bhvJVREYBiNmRMjEHoepDMEsBn4TIg_k9lvAyfhW1APBEXhsq_QTOwDReG6cNnYTERQXcFybI3RKhvo7eFxfgsNKOuhZhmYiiggYVsdLIQgQedhaMWXhgiFo5aOGrhqIWjFo5aCGuBYTQDEa05M-paiGjU4mw8U81C4tsthDEAcXqu9rwAtHkAAAAASUVORK5CYII.png",
+      "date": "Sep 11, 2019",
+      "snippet": "Discovered in 2015, K2-18b was one more of the thousands of planets discovered by Kepler. The telescope did its work not by imaging its target planets ...",
+      "snippet_highlighted_words": [
+        "K2-18b"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discovered in 2015, K2-18b was one more of the thousands of planets discovered by Kepler. The telescope did its work not by imaging its target planets ...",
+          "source_info_link": "https://time.com/5674014/life-exoplanet-k2-18b/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAjElEQVR4AWNwL_ChK0bhvJVREYBiNmRMjEHoepDMEsBn4TIg_k9lvAyfhW1APBEXhsq_QTOwDReG6cNnYTERQXcFybI3RKhvo7eFxfgsNKOuhZhmYiiggYVsdLIQgQedhaMWXhgiFo5aOGrhqIWjFo5aCGuBYTQDEa05M-paiGjU4mw8U81C4tsthDEAcXqu9rwAtHkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnMybE5PbXEwZ3pFWlhaLXZJOUNENzJENGllQV9OZktKQ2FzY2RTZnM5TUZWUFFjWUVNanRmM0FKQm5ac0ZNYTlSZ3EtQW84YUZPTC1NZkpDOWdNTC1DcnRyMjVqTDlMVHhKNkcxVFdZLTVHZTFRNEtYdzd1X1czT3RBWExnVG82YkxREgQaAggAGt8FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAuQUIABAAGAAgACpDCgpzY2llbnRpc3RzFRi26D4aC3Jlc2VhcmNoZXJzGgdzY2llbmNlGglzY2llbnRpc3QaD2l2O3A7c2NpZW50aXN0cyp_CghkaXNjb3ZlchUAAAAAGgZkZXRlY3QaCmRpc2NvdmVyZWQaC2Rpc2NvdmVyaW5nGgdleHBsb3JlGgpmaWd1cmUgb3V0GgRmaW5kGgZyZXZlYWwaB3VuY292ZXIaDWRpc2NvdmVyZWFydGgaCWRpc2NvdmVyeRoHZmluZGluZyomCgVlYXJ0aBXgvaFAGg1kaXNjb3ZlcmVhcnRoGgllYXJ0aGxpa2UqJQoEbGlrZRV-PI9AGgdzaW1pbGFyGgR0eXBlGgllYXJ0aGxpa2UqIQoGcGxhbmV0FUGHhkAaCXBsYW5ldGFyeRoHcGxhbmV0czKZAS9nb3RvP3VybD1DQUVTWndIck96QVZzMmxOT21xMGd6RVpYWi12STlDRDcyRDRpZUFfTmZLSkNhc2NkU2ZzOU1GVlBRY1lFTWp0ZjNBSkJuWnNGTWE5UmdxLUFvOGFGT0wtTWZKQzlnTUwtQ3J0cjI1akw5TFR4SjZHMVRXWS01R2UxUTRLWHc3dV9XM090QVhMZ1RvNmJMUToyPGI-RWFydGhsaWtlPC9iPiBFeG9wbGFuZXQgaXMgSG9tZSB0byBXYXRlciAtIFRJTUVCpgFEaXNjb3ZlcmVkIGluIDIwMTUsIDxiPksyLTE4YjwvYj4gd2FzIG9uZSBtb3JlIG9mIHRoZSB0aG91c2FuZHMgb2YgcGxhbmV0cyBkaXNjb3ZlcmVkIGJ5IEtlcGxlci4gVGhlIHRlbGVzY29wZSBkaWQgaXRzIHdvcmsgbm90IGJ5IGltYWdpbmcgaXRzIHRhcmdldCBwbGFuZXRzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnMybE5PbXEwZ3pFWlhaLXZJOUNENzJENGllQV9OZktKQ2FzY2RTZnM5TUZWUFFjWUVNanRmM0FKQm5ac0ZNYTlSZ3EtQW84YUZPTC1NZkpDOWdNTC1DcnRyMjVqTDlMVHhKNkcxVFdZLTVHZTFRNEtYdzd1X1czT3RBWExnVG82YkxREgQaAggAGt8FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAuQUIABAAGAAgACpDCgpzY2llbnRpc3RzFRi26D4aC3Jlc2VhcmNoZXJzGgdzY2llbmNlGglzY2llbnRpc3QaD2l2O3A7c2NpZW50aXN0cyp_CghkaXNjb3ZlchUAAAAAGgZkZXRlY3QaCmRpc2NvdmVyZWQaC2Rpc2NvdmVyaW5nGgdleHBsb3JlGgpmaWd1cmUgb3V0GgRmaW5kGgZyZXZlYWwaB3VuY292ZXIaDWRpc2NvdmVyZWFydGgaCWRpc2NvdmVyeRoHZmluZGluZyomCgVlYXJ0aBXgvaFAGg1kaXNjb3ZlcmVhcnRoGgllYXJ0aGxpa2UqJQoEbGlrZRV-PI9AGgdzaW1pbGFyGgR0eXBlGgllYXJ0aGxpa2UqIQoGcGxhbmV0FUGHhkAaCXBsYW5ldGFyeRoHcGxhbmV0czKZAS9nb3RvP3VybD1DQUVTWndIck96QVZzMmxOT21xMGd6RVpYWi12STlDRDcyRDRpZUFfTmZLSkNhc2NkU2ZzOU1GVlBRY1lFTWp0ZjNBSkJuWnNGTWE5UmdxLUFvOGFGT0wtTWZKQzlnTUwtQ3J0cjI1akw5TFR4SjZHMVRXWS01R2UxUTRLWHc3dV9XM090QVhMZ1RvNmJMUToyPGI-RWFydGhsaWtlPC9iPiBFeG9wbGFuZXQgaXMgSG9tZSB0byBXYXRlciAtIFRJTUVCpgFEaXNjb3ZlcmVkIGluIDIwMTUsIDxiPksyLTE4YjwvYj4gd2FzIG9uZSBtb3JlIG9mIHRoZSB0aG91c2FuZHMgb2YgcGxhbmV0cyBkaXNjb3ZlcmVkIGJ5IEtlcGxlci4gVGhlIHRlbGVzY29wZSBkaWQgaXRzIHdvcmsgbm90IGJ5IGltYWdpbmcgaXRzIHRhcmdldCBwbGFuZXRzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Time Magazine",
+      "read_more_link": "https://time.com/5674014/life-exoplanet-k2-18b/#:~:text=Discovered%20in%202015%2C%20K2%2D18b%20was,by%20imaging%20its%20target%20planets"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=10&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8NMDegQIPxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=10&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAE",
+      "3": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=20&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAG",
+      "4": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=30&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAI",
+      "5": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=40&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAK",
+      "6": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=50&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAM",
+      "7": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=60&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAO",
+      "8": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=70&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAQ",
+      "9": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=80&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAS",
+      "10": "https://www.google.com/search?q=scientists+discover+earth+like+planet+before:2026-01-01&sca_esv=1292a53073048c05&ei=alaxauOEPK7cwN4P8q2nqQM&start=90&sa=N&sstk=AS6-VmIHKvIExYTpCS964xbDRFIyhCdVEstGYbM7yyTEUvNEaXRwU5WHgtDXHLSAsBtOP0X6xnbfo8FdCexSSRmEmkOAWCk8x7opUQ&ved=2ahUKEwjj4Yenh4CXAxUuLtAFHfLWKTUQ8tMDegQIPxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=scientists+discover+earth+like+planet+before%3A2026-01-01&start=90"
+    }
+  }
+}
