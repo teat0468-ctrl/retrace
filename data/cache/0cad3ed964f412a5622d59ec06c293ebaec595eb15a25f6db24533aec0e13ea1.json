@@ -1,0 +1,79 @@
+{
+  "search_metadata": {
+    "id": "6ab36fc0410cdaa5d8269c0d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/DQ6iqp57jdvEiMxlF4j0BiXUlGv6vyf_yM23BgUm430/6ab36fc0410cdaa5d8269c0d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/DQ6iqp57jdvEiMxlF4j0BiXUlGv6vyf_yM23BgUm430/6ab36fc0410cdaa5d8269c0d.md",
+    "created_at": "2026-09-23 06:20:48 UTC",
+    "processed_at": "2026-09-23 06:20:48 UTC",
+    "google_news_url": "https://news.google.com/search?q=Tata+Sons+Tesla+complete+acquisition+historic+new+update",
+    "raw_html_file": "https://serpapi.com/searches/DQ6iqp57jdvEiMxlF4j0BiXUlGv6vyf_yM23BgUm430/6ab36fc0410cdaa5d8269c0d.html",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Tata Sons Tesla complete acquisition historic new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Stock Market Today: Live Updates 11.08.2026",
+      "source": {
+        "name": "TechStock²",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ts2.tech&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ts2.tech/en/stock-market-today-11-08-2026/",
+      "thumbnail": "https://ts2.tech/wp-content/uploads/2026/08/riot-platforms-riot-rises-as-9-1-billion-ai-deal-sets-higher-benchmark-for-delivery.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kbFJrU0ZOMFpYY3hhMGMzVFJERUF4aW1CU2dLTWdZQmNJemtUZ1E",
+      "date": "08/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-11T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

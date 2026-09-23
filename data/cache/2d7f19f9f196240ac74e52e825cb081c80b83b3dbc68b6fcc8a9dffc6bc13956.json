@@ -1,0 +1,1138 @@
+{
+  "search_metadata": {
+    "id": "6ab36f6eaf5fdc249618b326",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MeR93u5n9LaPYswT6GM7eT0zvTZVbjjXqRx-3NARPJE/6ab36f6eaf5fdc249618b326.json",
+    "markdown_endpoint": "https://serpapi.com/searches/MeR93u5n9LaPYswT6GM7eT0zvTZVbjjXqRx-3NARPJE/6ab36f6eaf5fdc249618b326.md",
+    "created_at": "2026-09-23 06:19:26 UTC",
+    "processed_at": "2026-09-23 06:19:26 UTC",
+    "google_news_url": "https://news.google.com/search?q=Tata+Sons+Tata+Trusts+newly+board+members+new+update",
+    "raw_html_file": "https://serpapi.com/searches/MeR93u5n9LaPYswT6GM7eT0zvTZVbjjXqRx-3NARPJE/6ab36f6eaf5fdc249618b326.html",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Tata Sons Tata Trusts newly board members new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikhil Inamdar"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/c670lkvdzkn2o",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/8460/live/fe6b4100-b330-11f1-bc1f-3f186ca4140c.png.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhlazVWTW5KbFowVm1VV3QyVFJDT0FoamdBeWdLTWdrTllwYjBLS2l4Q2dJ",
+      "date": "09/18/2026, 11:07 PM, +0000 UTC",
+      "iso_date": "2026-09-18T23:07:16Z"
+    },
+    {
+      "position": 2,
+      "title": "'The Page Has Turned': Noel Tata Tells Tata Sons Board To Move On From Chandrasekaran",
+      "source": {
+        "name": "ndtvprofit.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mohammed Uzair Shaikh"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/business/the-page-has-turned-noel-tata-tells-tata-sons-board-to-move-on-from-chandrasekaran-12059743",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/id1n50i8_noel-tata_625x300_17_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJjbk5IUnpsaWF6ZEhTVjlLVFJDZkF4ampCU2dLTWdtUlVKeHBJaWt1U1FJ",
+      "date": "09/17/2026, 11:40 AM, +0000 UTC",
+      "iso_date": "2026-09-17T11:40:24Z"
+    },
+    {
+      "position": 3,
+      "title": "Tata Sons' chairman battle explodes: Why Tata Trusts say N Chandrasekaran's reappointment is 'legally void'",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.opindia.com/2026/09/tata-sons-chairman-battle-explodes-why-tata-trusts-say-n-chandrasekarans-reappointment-is-legally-void/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/Tata-Sons.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBNemg1UkhaTVdEY3RNbHBUVFJDUUF4aThCU2dLTWdrSlVwakZKbWc5Q1FJ",
+      "date": "09/18/2026, 03:27 PM, +0000 UTC",
+      "iso_date": "2026-09-18T15:27:10Z"
+    },
+    {
+      "position": 4,
+      "title": "N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekaran-steps-down-how-power-struggle-at-tata-group-is-deepening-with-exit-of-ratan-tatas-key-allies/articleshow/133187749.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133187841,width-1280,height-720,imgsize-388875,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZa3BUY1hCU1VGVTBhMnd6VFJDZkF4ampCU2dLTWdhbFpJYXRMUVU",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Tata Sons Board Meets As Dividend Decisions And Expansion Loom",
+      "source": {
+        "name": "Siliconindia",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.siliconindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.siliconindia.com/news/general/tata-sons-board-meets-as-dividend-decisions-and-expansion-loom-nid-241049-cid-1.html",
+      "thumbnail": "https://www.siliconindia.com/news/newsimages/7PO2eSl4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRlVzkzT1ZGS1lVNU1TREJPVFJDcEFSaXFBaWdCTWdtTlVvb3lKU2lpS1FJ",
+      "date": "06/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-13T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Explained: The many fault lines at the top of the Tata group",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "George Mathew"
+        ]
+      },
+      "link": "https://indianexpress.com/article/explained/tata-sons-listing-debate-trust-rift-losses-governance-10629803/",
+      "thumbnail": "https://images.indianexpress.com/2026/04/ex-noeltata_expl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRSVkExVkdkWVRYQkdjV2h0VFJDZkF4ampCU2dLTWdhcE1wak5vUWc",
+      "date": "04/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-10T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Tata Sons board meeting ends amid focus on leadership and group performance concerns",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-meeting-ends-amid-focus-on-leadership-and-group-performance-concerns/articleshow/131330276.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131330282,width-1280,height-720,imgsize-722752,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXV3BQUmxCcmNFNW9lRnB4VFJDZkF4ampCU2dLTWdhcEk1TE5sUW8",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Tata Sons IPO: After Venu Srinivasan, Tata Trusts Vice Chairman Vijay Singh backs listing of Tata Sons, sa",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debaroti Adhikary"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/ipos/fpos/tata-sons-ipo-after-venu-srinivasan-tata-trusts-vice-chairman-vijay-singh-backs-listing-of-tata-sons-says-report/articleshow/130160730.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130160724,width-1200,height-900,resizemode-4,imgsize-98518/tata-sons-ipo-after-venu-srinivasan-tata-trusts-vice-chairman-vijay-singh-backs-listing-of-tata-sons-says-report.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1Sa3RCUjNJeVNEQlNha0l4VFJEZ0F4aUFCU2dLTWdhZFE0aXRuUWc",
+      "date": "04/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-10T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/standoff-with-noel-tata-what-led-to-n-chandrasekarans-exit-as-tata-sons-chairman/articleshow/133174654.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133174871,width-1280,height-720,imgsize-356844,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlPRFIzWlRnM1NGSlBURlZyVFJDZkF4ampCU2dLTWdhcEZaRE5FUW8",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Explainer: Why India's Tata Sons is facing pressure to list",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gopika Gopakumar",
+          "Jayshree Pyasi"
+        ]
+      },
+      "link": "https://www.reuters.com/world/india/why-indias-tata-sons-is-facing-pressure-list-2026-08-13/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/SAVBUCXIXRLZFCOI6YOAADDRPY.jpg?auth=720ac3d35c0740df7f6c0de573048f0f137b1ae3fe3366df8f7569de19e928f1&width=1200&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhhWGczTTBSbGFIRkpWRjh4VFJEQkF4aXJCU2dLTWdZTjBJU3NWUU0",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Decision on Chandrasekaran’s third term at Tata Sons delayed: Chairman calls for Trust-Board alignment; Noe...",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bhaskarenglish.in/business/news/tata-sons-chairman-chandrasekaran-tenure-noel-tata-conditions-trust-board-alignment-137293222.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/02/24/new-project-21760330296_1771949671.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5TRk5OT1d3MWREQk1SMFJZVFJEZ0F4aUFCU2dLTWdaRk1wcjBuQWs",
+      "date": "02/25/2026, 04:42 AM, +0000 UTC",
+      "iso_date": "2026-02-25T04:42:05Z"
+    },
+    {
+      "position": 12,
+      "title": "Chair of India's Tata to step down after tension with controlling charity",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditya Kalra",
+          "Chandini Monnappa"
+        ]
+      },
+      "link": "https://www.reuters.com/world/india/indias-tata-sons-chairman-chandrasekaran-may-step-down-ahead-shareholder-meeting-2026-08-12/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/B3WIZ2AZYNKYPK4OS5YIKZBBWI.jpg?auth=4c725cc842e04706dc1119a27cd3c05cd9ebcda053c7c94b7e48eefb738ac3ab&width=1080&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtSSE5DTkdKRlZqZ3plRzF6VFJETEF4aWRCU2dLTWdtcFpJQ1FUYUo3Q3dJ",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Tata Sons Chairman Reveals Why He Quit A Year After His Tenure Was Extended",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manjiri Chitre"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/n-chandrasekaran-resigns-tata-sons-chairman-reveals-why-he-quit-a-year-after-his-tenure-was-extended-ratan-tata-11898580",
+      "thumbnail": "https://c.ndtvimg.com/2026-08/g5grfi5o_n-chandrasekaran_625x300_12_August_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVMVmRGTkRWQkxYZEtaMmx2VFJDZkF4ampCU2dLTWdhcFZKU3VvUWc",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Tremors in Tata Group: Testing the foundations of trust",
+      "source": {
+        "name": "newindianexpress.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shriram Subramanian"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/business/2025/Oct/21/tremors-in-tata-group-testing-the-foundations-of-trust",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-10-07/9ldocoz0/C_53_1_CH1214_41221139.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXdlamhxWXkxd1lsVk5ORjh5VFJESkF4aWVCU2dLTWd1QlVJWXR4YU56N1Ntd1BR",
+      "date": "10/21/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-21T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Noel Tata seeks truncated term for Tata Sons Chairman Natarajan Chandrasekaran as part of succession revamp | Business News",
+      "source": {
+        "name": "hindustantimes.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/business/noel-tata-seeks-truncated-term-for-tata-sons-chairman-natarajan-chandrasekaran-as-part-of-succession-revamp-101773798837208.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/03/18/1600x900/logo/Chandra-Noel-Tata_1773799629499_1773799642435.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNkVzh6UW1oS1NscEpkWFZNVFJDZkF4ampCU2dLTWdrUk1weUhubWs5YUFJ",
+      "date": "03/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-18T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Tata Group - the divided empire facing boardroom drama",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikhil Inamdar"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/c4gwejdzgzwo",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/2b5d/live/78f2ae60-b2f4-11f0-9e46-ab5be17562a4.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhV3B1TkdwNGR6TkJaRTEyVFJDT0FoamdBeWdLTWdZTmhJeHdyUVk",
+      "date": "10/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-29T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Venu Srinivasan, Vijay Singh to exit Tata Education Trust after Mehli Mistry votes against both",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/company/corporate-trends/tata-sons-board-meeting-venu-srinivasan-vijay-singh-to-exit-tata-education-trust-after-mehli-mistry-votes-against-both/articleshow/130819526.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130819777,width-1200,height-900,resizemode-4,imgsize-149046/bombay-house.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNVEJvVlZGR1EyeDVWVTVoVFJEZ0F4aUFCU2dLTWdZUnNvU055UUk",
+      "date": "05/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Unease in Bombay House, amid internal wrangling within the Tata group yet again",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "George Mathew"
+        ]
+      },
+      "link": "https://indianexpress.com/article/explained/tata-group-sons-trust-tension-again-10296265/",
+      "thumbnail": "https://images.indianexpress.com/2025/10/Tata-lafda.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZiMjV4TlZkc1ZtaHdXRXR5VFJDZkF4ampCU2dLTWdrdEFKSjNES3h6ckFF",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Noel Tata's Son Neville Appointed As Trustee Of Sir Dorabji Tata Trust",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtv.com/india-news/noel-tatas-son-neville-appointed-as-trustee-of-sir-dorabji-tata-trust-9617998",
+      "thumbnail": "https://c.ndtvimg.com/2025-10/peih7rco_tata-groupe_625x300_28_October_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURWblpLTmxvNVZ5MUZObTF4VFJDeUF4akNCU2dLTWdhQmdvcHVzUVU",
+      "date": "11/12/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-12T08:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Noel joins board of Tata Sons; first Tata family member since 2011 to serve on both boards at once",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kala Vijayraghavan",
+          "Rajesh Mascarenhas"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/company/corporate-trends/noel-joins-board-of-tata-sons-first-tata-family-member-since-2011-to-serve-on-both-boards-at-once/articleshow/114956620.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-114956584,width-1200,height-900,resizemode-4,imgsize-73856/noel-joins-board-of-tata-sons-first-tata-family-member-since-2011-to-serve-on-both-boards-at-once.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZMVnBMV0daTVozQnpTRkZ0VFJEZ0F4aUFCU2dLTWdhcEpack5HUW8",
+      "date": "11/05/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-11-05T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Before Chandrasekaran's exit, he and Noel Tata separately briefed govt on rift, concerns",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Reeba Zachariah"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/before-chandras-exit-he-and-noel-tata-separately-briefed-govt-on-rift-concerns/articleshow/133284282.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133284348,width-1280,height-720,imgsize-105697,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRWMUZ0VjI1aVkzVTFaMVJsVFJDZkF4ampCU2dLTWdtTlVackdJbWsxS1FJ",
+      "date": "08/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-17T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Tata Sons board takes close look at new-age businesses; next meet June 12",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nivedita Mookerji"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/tata-sons-board-takes-close-look-at-new-age-businesses-next-meet-june-12-126052601741_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/24/full/1779644584-2373.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpaekZ6YlVWUlVFNVJiSFZyVFJDZkF4ampCU2dLTWdtTlFaeW1vcWd0aHdJ",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Mehli Mistry decides to step down as Tata Trusts Trustee, cites commitment to Ratan Tata’s ideals",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/company/corporate-trends/mehli-mistry-decides-to-step-down-as-tata-trusts-trustee-cites-commitment-to-ratan-tatas-ideals/articleshow/125090877.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125091220,width-1200,height-900,resizemode-4,imgsize-18860/mehli-mistry.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZSRXB1YVhweU5rVkNSMEZWVFJEZ0F4aUFCU2dLTWdiUmtJeVhOQVk",
+      "date": "11/04/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-04T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Tata group makes historic change for N Chandrasekaran, breaks age rule for the chairman, says company...",
+      "source": {
+        "name": "india.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Natarajan Chandrasekaran",
+          "Abhijeet Sen"
+        ]
+      },
+      "link": "https://www.india.com/business/tata-group-makes-historic-change-for-n-chandrasekaran-breaks-age-rule-for-chairman-tsc-ceo-noel-tata-update-8130736/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2025/06/Chandrasekaran.png?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJUbmhwVmxOdmVGQnVWRXg2VFJERUF4aW1CU2dLTWdZcFZaVE5wUWM",
+      "date": "10/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-14T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Show of calm at Tata Trusts board meeting amid heightened tension",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dev Chatterjee"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/tata-trusts-meeting-no-discussion-on-tata-sons-control-issues-125101001287_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/12/full/1728673131-5271.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5lRFJEVlhSaVEwWlFTa05tVFJERUF4aW1CU2dLTWdhQk1ZaXVwUWM",
+      "date": "10/10/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-10T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Months after Ratan Tata's death, Tata Trusts vice-chairman Vijay Singh steps down from Tata Sons board, here'",
+      "source": {
+        "name": "india.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.india.com/business/months-after-ratan-tatas-death-tata-trusts-vice-chairman-vijay-singh-steps-down-from-tata-sons-board-days-before-key-directors-meet-and-ipo-deadline-8070066/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2025/03/India.com-2025-03-14T223935.098.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJhblpVVGpGeE0zTlBSMGRYVFJERUF4aW1CU2dLTWdhTlE1NVJIUWs",
+      "date": "09/12/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-12T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Tata Sons chairman N. Chandrasekaran to step down in February 2027",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lalatendu Mishra"
+        ]
+      },
+      "link": "https://www.thehindu.com/business/Industry/tata-sons-chairman-n-chandrasekaran-resignation/article71335293.ece",
+      "thumbnail": "https://content-thumbnail.cxpublic.com/content/dominantthumbnail/14b75d4c70971aa94f4c1f87f6bf392fab503907.jpg?6a7c28d8",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFSR3BuTFhndFUyeENaVTlTVFJDcEFSaXNBaWdLTWdhdEZZNnVGUW8",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Noel Tata vs Chandrasekaran plays out at Tata Sons’ helm",
+      "source": {
+        "name": "theweek.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theweek.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nitin Sj Asariparambil",
+          "Nitin SJ"
+        ]
+      },
+      "link": "https://www.theweek.in/news/biz-tech/2026/02/26/noel-tata-vs-chandrasekaran-plays-out-at-tata-sons-helm.html",
+      "thumbnail": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2024/10/15/Chandrasekaran-Ratan-Noel-Tata.jpg/photos/1x1/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhWRFEyWjNkTk9XUldORlV6VFJDcUJCaXFCQ2dLTWdrQmdwVDFLS2laN1FF",
+      "date": "02/26/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-26T08:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Tata Sons' Looming IPO Mandate, New Board Members & More: What's on Tata Trusts' Meeting Agenda",
+      "source": {
+        "name": "outlookbusiness.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.outlookbusiness.com/corporate/tata-sons-looming-ipo-mandate-new-board-members-more-whats-on-tata-trusts-meeting-agenda",
+      "thumbnail": "https://media.assettype.com/outlookbusiness/2025-07-28/e11zqv6o/noel-tata-leadership-thumbnail-6-Picsart-AiImageEnhancer.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRSVUozTVZSS1dXUnFWM1F0VFJDZ0F4amlCU2dLTWdhbFpvNE1yZ1k",
+      "date": "07/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-28T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Leadership call, control, and continuity; what's brewing at the Tata group",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nivedita Mookerji"
+        ]
+      },
+      "link": "https://www.business-standard.com/opinion/columns/leadership-call-control-and-continuity-what-s-brewing-at-the-tata-group-125080501927_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/20/full/1750440910-4842.jpg?im=FitAndFill=(1200,794)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpNMkV4U1dOc1JIYzBhbVJ1VFJEQ0F4aXBCU2dLTWdZcGhZek90UVU",
+      "date": "08/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-05T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Tata Sons’ AGM adjourned for first time in group’s history over lack of quorum",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shiladitya Pandit"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/tata-sons-agm-adjourned-on-lack-of-quorum-14009217.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/08/20240802125551_tata-sons.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNkMmhtY2swNE0yaFdaRlI0VFJDZkF4ampCU2dLTWdtUklwUXhtU2VxaUFJ",
+      "date": "08/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-18T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Why Is Mehli Mistry Against Noel Tata?",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dev Chatterjee"
+        ]
+      },
+      "link": "https://www.rediff.com/business/report/why-is-mehli-mistry-against-noel-tata/20251008.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/money/2025/oct/08bombay-house-tata-trusts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZiR2MyVVV4SWRWSXhaM3B5VFJDZkF4ampCU2dLTWdZZFJJQnNvUWs",
+      "date": "10/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-08T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Here’s who Noel Tata is, the newly chosen chairman of Tata Trusts after the death of Ratan Tata",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.opindia.com/2024/10/heres-who-noel-tata-is-the-newly-chosen-chairman-of-tata-trusts-after-the-death-of-ratan-tata/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2024/10/BeFunky-collage-2024-10-11T163559.737.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdSbEp4WDJkYVltUTVhMDlMVFJDUUF4aThCU2dLTWdhaFpZN3NyUVk",
+      "date": "10/11/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-11T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Noel Tata to join Tata Sons board, seeks legal advice on retaining posts in group firms: Reports",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/companies/noel-tata-to-join-tata-sons-board-seeks-legal-advice-on-retaining-posts-in-group-firms-reports-12843743.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/10/20241011110610_Chris-Gayle-meets-Narendra-Modi-2.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJTVkZ1V1ZOVFRUUkpiR1UwVFJERUFSamVBaWdLTWdhcEpack5tUWs",
+      "date": "10/17/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-17T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "After death of Ratan Tata, Noel Tata first official meeting of N Chandrasekaran goes…",
+      "source": {
+        "name": "india.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Natarajan Chandrasekaran",
+          "Anirudha Yerunkar"
+        ]
+      },
+      "link": "https://www.india.com/business/after-death-of-ratan-tata-noel-tata-first-official-meeting-of-n-chandrasekaran-goes-7343085/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2024/10/ratan-tata-noel-tata.png?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9TRzVMV2pOSmVrMVBSVTU2VFJERUF4aW1CU2dLTWdtVlFaelZuQ21pU0FJ",
+      "date": "10/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-23T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Noel Tata joins Tata Sons board, first to hold dual positions since 2011",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nandini Singh"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/noel-tata-joins-tata-sons-board-first-to-hold-dual-positions-since-2011-124110500231_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/11/full/1728646354-2592.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUphMXBoZGpoWVpYaDJSall4VFJEZ0F4aUFCU2dLTWdhcEpack5HUW8",
+      "date": "11/05/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-11-05T08:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Tata Trusts board in meeting to discuss the appointment of third Tata Sons representative: Report | Business News",
+      "source": {
+        "name": "hindustantimes.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/business/tata-trusts-board-in-meeting-to-discuss-the-appointment-of-third-tata-sons-representative-report-101729148506015.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2024/10/17/1600x900/PTI10-11-2024-000143B-0_1729150661569_1729150684861.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWelJzZGpaS1pqQm5ZbHBwVFJDZkF4ampCU2dLTWdZcFJwVE5wUWc",
+      "date": "10/17/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-17T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "SP Group's Tata stake plan faces fresh uncertainty with N Chandrasekaran's exit",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/company/corporate-trends/n-chandrasekaran-resigns-sp-group-tata-stake-plan-faces-fresh-uncertainty/articleshow/133192442.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133192505,width-1200,height-900,resizemode-4,imgsize-64052/sp-groups-tata-stake-plan-faces-fresh-uncertainty-with-n-chandrasekarans-exit.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpSbGRXVTBwNFdIcFNhMXBWVFJEZ0F4aUFCU2dLTWdZaFJwb01JZ2s",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Noel Tata-led group blocks Mehli Mistry’s reappointment in Tata Trusts",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lalatendu Mishra"
+        ]
+      },
+      "link": "https://www.thehindu.com/business/Industry/noel-tata-two-others-block-mehli-mistrys-reappointment-as-trustee-deepening-rift-at-tata-trusts/article70211867.ece",
+      "thumbnail": "https://th-i.thgim.com/public/business/Industry/ygdofr/article29857188.ece/alternates/LANDSCAPE_1200/tata-trusts",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJjMnRZY1hKMFZtMW1Tako0VFJDZkF4ampCU2dLTWdNSnNSUQ",
+      "date": "10/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-28T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Uncertainty over Mehli Mistry’s term renewal at Tata Trusts: Response still awaited from 3 trustees",
+      "source": {
+        "name": "newindianexpress.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/business/2025/Oct/27/uncertainty-over-mehli-mistrys-term-renewal-at-tata-trusts-response-still-awaited-from-3-trustees",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-10-07/9ldocoz0/C_53_1_CH1214_41221139.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXdlamhxWXkxd1lsVk5ORjh5VFJESkF4aWVCU2dLTWd1QlVJWXR4YU56N1Ntd1BR",
+      "date": "10/27/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-27T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Mehli Mistry resigns from Tata Trusts trustee position: Cites Ratan Tata's legacy and values; decision take...",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bhaskarenglish.in/national/news/mehli-mistry-quits-tata-trusts-trustee-role-cites-ratan-tatas-ideals-to-avoid-controversy-136335960.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/11/04/new-project-62_1762273528.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVUelYzZW5wUVlTMUtTVzFoVFJEZ0F4aUFCU2dLTWdhNWM0WlJzUVk",
+      "date": "11/04/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-04T08:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Tata Trusts may place Noel on Tata Sons board",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Reeba Zachariah"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-may-place-noel-on-tata-sons-board/articleshow/77027850.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-77027867,width-1280,height-720,resizemode-4/77027867.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlPVFJwVFMxcmRFY3hURTlyVFJDZkF4ampCU2dLTWdZbFJwcnNJUWs",
+      "date": "07/18/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-07-18T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Long Journey to Settlement: Tata and SP Group reignite exit yalks after years of frost",
+      "source": {
+        "name": "ETLegalWorld.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://legal.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kala Vijayraghavan",
+          "Sagar Malviya"
+        ]
+      },
+      "link": "https://legal.economictimes.indiatimes.com/news/corporate-business/long-journey-to-settlement-tata-and-sp-group-reignite-exit-yalks-after-years-of-frost/123180617",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-123180617,width-1200,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJlbEYyVEhCclNWOWFaakZvVFJEZ0F4aUFCU2dLTWdZTmdvNW9OUVk",
+      "date": "08/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-08T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Noel Tata at the helm: How will the new Tata Trusts chairman steer the Tata group?",
+      "source": {
+        "name": "Fortune India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nevin John"
+        ]
+      },
+      "link": "https://www.fortuneindia.com/long-reads/noel-tata-at-the-helm-how-will-the-new-tata-trusts-chairman-steer-the-tata-group/119922",
+      "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2025-01-15/ci11xyi4/Noel-Tata-lead-image.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9ZbE5zTUVSb1VGSlhkR05SVFJDZkF4ampCU2dLTWdhcGRZcnRzUVU",
+      "date": "01/15/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-15T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Noel Tata appointed chairman of Tata Trusts",
+      "source": {
+        "name": "domain-b.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.domain-b.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.domain-b.com/people/in-the-news/noel-tata-appointed-chairman-of-tata-trusts",
+      "thumbnail": "https://www.domain-b.com/Uploads/Images/Noel-Naval-Tata.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBiWE4zTURCaFUxaEZNMHBhVFJDUkF4ajhCU2dLTWdhbFpvd01yZ1k",
+      "date": "10/13/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-13T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Tata Group's differences came out in open after Noel Tata’s daughters Maya Tata, Leah Tata elevation, two tru",
+      "source": {
+        "name": "india.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.india.com/business/tata-groups-differences-came-out-in-open-after-noel-tatas-daughters-maya-tata-leah-tata-elevation-two-trustees-resigned-7628562/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2025/01/Untitled-design-2025-01-09T140518.570-1.png?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJjVmxKV0hOcVZrcE5aVzQyVFJERUF4aW1CU2dLTWdrQlVaQ2pzYVlsaHdJ",
+      "date": "02/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-20T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Blocked from Tata Sons board, trustee points to rift: ‘Unprecedented… now in a different era’",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "George Mathew"
+        ]
+      },
+      "link": "https://indianexpress.com/article/business/companies/blocked-from-tata-sons-board-trustee-points-to-rift-unprecedented-now-in-a-different-era-10298033/",
+      "thumbnail": "https://images.indianexpress.com/2025/10/Vijay-Singh-is-vice-chairman-of-Tata-Trusts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhkbHBMTlVaUFNraFlhR1kwVFJDZkF4ampCU2dLTWdhdFZZTE9xUVk",
+      "date": "10/10/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-10T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Who will be Ratan Tata's successor at Tata Trusts: Meet the top contenders",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.opindia.com/2024/10/who-will-be-ratan-tatas-successor-at-tata-trusts-meet-the-top-contenders/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2024/10/Rata-Tata-successor-Tata-Trust-696x399.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFRM2hpWkcxWVIwbExObFJOVFJDUEF4aTRCU2dLTWdhUlE1SlNLUWc",
+      "date": "10/10/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-10T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Ahmedabad plane crash: Tata Sons to set up Rs 500 crore trust for victims' families",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Reeba Zachariah"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/ahmedabad-plane-crash-tata-sons-to-set-up-rs-500-crore-trust-for-victims-families/articleshow/122099403.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-122099483,width-1280,height-720,resizemode-4/122099483.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVSMU5OY2tSUmJHMU9aVGxQVFJDZkF4ampCU2dLTWdZWk5JcXJuUVU",
+      "date": "06/27/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-27T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Good news for Noel Tata as Tata Power Q2 net profit jumps to Rs...",
+      "source": {
+        "name": "india.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.india.com/business/good-news-for-noel-tata-as-tata-power-q2-quarter-2-net-profit-jumps-to-rs-1093-crore-tata-group-ratan-tata-death-tata-sons-chairman-7361941/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2024/10/Jacket-India.com-1200x900-2024-10-30T235546.724.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlOWG8zUkhwM1RYRjBZVE5UVFJERUF4aW1CU2dLTWdhbFJaanNJUWc",
+      "date": "10/30/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-30T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "A peek into Noel Tata’s career up to succession to top job at Group",
+      "source": {
+        "name": "newindianexpress.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/business/2024/Oct/12/a-peek-into-noel-tatas-career-up-to-succession-to-top-job-at-group",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2024-10-11%2F8ifqzoy0%2FNoel-Tata.jpg?rect=34%2C0%2C1156%2C650&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlPVzgyU0RoVWJWSTVObTVmVFJDZkF4ampCU2dLTWdhcFZaVE9KUWc",
+      "date": "10/12/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-12T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Noel Tata To Succeed Ratan Tata as Chairman of Tata Trusts",
+      "source": {
+        "name": "Moneylife",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneylife.in/article/noel-tata-to-succeed-ratan-tata-as-chairman-of-tata-trusts/75361.html",
+      "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/navaltata111024.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdSemwyU1VWSWRIUmhSMDlCVFJDZUF4amxCU2dLTWdZSldaVEZxZ2M",
+      "date": "10/11/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-11T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Noel Tata, Ratan Tata's half-brother and successor is not an Indian citizen, he was born in..., he is citizen",
+      "source": {
+        "name": "india.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.india.com/business/noel-tata-ratan-tatas-half-brother-and-successor-is-not-an-indian-citizen-but-irish-he-was-born-in-mumbai-he-is-citizen-of-ireland-7396550/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2024/11/noel-tata.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtkRFJpT0haSVNXTkVUemt4VFJERUF4aW1CU2dLTWdrTmNwYkdybWM5Q2dJ",
+      "date": "11/16/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-11-16T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Tata Steel gets Noel on board as vice-chairman",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-steel-gets-noel-on-board-as-vice-chairman/articleshow/90527283.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-90530971,width-1280,height-720,resizemode-4/90530971.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZOekI2ZEU1bVNETmtkV0pHVFJDZkF4ampCU2dLTWdZQlJZN01KUVk",
+      "date": "03/30/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-03-30T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Tata Trusts appoints Vijay Singh, Venu Srinivasan as vice chairmen",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-appoints-vijay-singh-venu-srinivasan-as-vice-chairmen/articleshow/67063139.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+      "date": "12/12/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-12-12T08:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Ex-defence secretary Vijay Singh on Tata Trusts board",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Reeba Zachariah"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/ex-defence-secy-vijay-singh-on-tata-trusts-board/articleshow/65569149.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-65571841,width-1280,height-720,resizemode-4/65571841.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9jRFZqU0ZWdFNFTklUWEZrVFJDZkF4ampCU2dLTWdZQmdZd3ZzUVU",
+      "date": "08/28/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-08-28T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Leo Puri, the CEO of JP Morgan India, has joined the board of Tata Sons",
+      "source": {
+        "name": "Asia Business Outlook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.asiabusinessoutlook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.asiabusinessoutlook.com/news/leo-puri-the-ceo-of-jp-morgan-india-has-joined-the-board-of-tata-sons-nwid-351.html",
+      "thumbnail": "https://www.asiabusinessoutlook.com/uploaded_images/newstransfer/vxfzyleo-puri45636.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVaRU5qVkV0elpHaE5SWFpSVFJDMEFoakNBeWdLTWdZdFpaRE9xUWM",
+      "date": "03/29/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-03-29T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "N Chandrasekaran appointed as Tata Motors chairman",
+      "source": {
+        "name": "Forbes India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.forbesindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aveek Datta"
+        ]
+      },
+      "link": "https://www.forbesindia.com/article/special/n-chandrasekaran-appointed-as-tata-motors-chairman/45461/1",
+      "thumbnail": "https://images.forbesindia.com/blog/wp-content/uploads//media/images/2017/Jan/img_92095_nchandrasekaran_sm.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllbkJWZUhWT1YxZzFPVWRPVFJDZkF4ampCU2dLTWdZbGRvenNMUWM",
+      "date": "01/17/2017, 08:00 AM, +0000 UTC",
+      "iso_date": "2017-01-17T08:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Tata Trusts appoints Vijay Singh, Venu Srinivasan as vice chairmen",
+      "source": {
+        "name": "ET EnergyWorld",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://energy.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://energy.economictimes.indiatimes.com/news/power/tata-trusts-appoints-vijay-singh-venu-srinivasan-as-vice-chairmen/67070794",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-67070794,width-1200,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFhbEJPT0ZKSldtSjZXVXczVFJEZ0F4aUFCU2dLTWdZQmdZd3ZzUVU",
+      "date": "12/13/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-12-13T08:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Tata Trusts Urges Tata Sons Board To Explore Options Beyond Listing",
+      "source": {
+        "name": "Times Now",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sakshi Bajaj"
+        ]
+      },
+      "link": "https://www.timesnownews.com/business-economy/companies/tata-trusts-urges-tata-sons-board-to-explore-options-beyond-listing-article-156178558",
+      "thumbnail": "https://images.timesnownews.com/thumb/msid-156178568,thumbsize-45384,width-1280,height-720,resizemode-75/156178568.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kM2hHYTJWbFNucG5RbVZHVFJDZ0F4amlCU2dLTWdZbGRvcnNyUVk",
+      "date": "09/18/2026, 02:59 AM, +0000 UTC",
+      "iso_date": "2026-09-18T02:59:06Z"
+    },
+    {
+      "position": 61,
+      "title": "For how long will Natarajan Chandrasekaran continue as Tata Sons Chairman? Noel Tata proposes 2-year extension with THIS plan, it is…",
+      "source": {
+        "name": "News24Online",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news24online.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sonali Sharma"
+        ]
+      },
+      "link": "https://news24online.com/business/for-how-long-will-natarajan-chandrasekaran-continue-as-tata-sons-chairman-noel-tata-proposes-2-year-extension-with-this-plan-it-is/778735/",
+      "thumbnail": "https://news24online.com/wp-content/uploads/2026/03/tata_8950d4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNUMk53TkdnNFVFdzRVMDE2VFJDZkF4ampCU2dLTWdtSlVaYmxMcWMxWndJ",
+      "date": "03/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-19T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Disclosure gap at heart of Chandra family's TVS link",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Satish John",
+          "Varun Sood"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/tat-sons-chandrasekaran-family-tvs-link-went-undisclosed-venu-srinivasan-judged-his-term-11790084628035.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/PTI09-17-2026-000279A-0_1790086981147_0Flc_1790086981322_r9FD_b9ba639c-b28a-46be-8d93-4cb1c7c64e50_oDy6.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpPVlo2VEZjMU1VaDFRbmhpVFJDZkF4ampCU2dLTWdhMUFhSndGUW8",
+      "date": "09/22/2026, 02:25 PM, +0000 UTC",
+      "iso_date": "2026-09-22T14:25:51Z"
+    },
+    {
+      "position": 63,
+      "title": "Noel Tata's New Role At Tata Group: Why He Can't Become Chairman of Both Tata Sons And Tata Trusts?",
+      "source": {
+        "name": "Times Now",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pawan Kumar"
+        ]
+      },
+      "link": "https://www.timesnownews.com/business-economy/companies/noel-tatas-new-role-at-tata-trusts-will-it-reshape-his-board-positions-in-the-tata-group-article-114299366",
+      "thumbnail": "https://images.timesnownews.com/thumb/msid-114308647,thumbsize-86892,width-1280,height-720,resizemode-75/114308647.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5UbUZHVlRaNFVYZFNkbHA2VFJDZkF4ampCU2dLTWdaQlFacTJJQWs",
+      "date": "10/17/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-17T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Noel Tata Net Worth, Age, Wife, Children and His Relation With Ratan Tata: Here’s All You Need To Know",
+      "source": {
+        "name": "LatestLY",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.latestly.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Justina Eappan"
+        ]
+      },
+      "link": "https://www.latestly.com/india/news/noel-tata-net-worth-age-wife-children-and-his-relation-with-ratan-tata-heres-all-you-need-to-know-about-new-tata-trusts-chairman-6335131.html",
+      "thumbnail": "https://st1.latestly.com/wp-content/uploads/2024/10/2-671784025.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXpWMUpFVFZabFVtSlVja3BmVFJDZkF4ampCU2dLTWdB",
+      "date": "10/11/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-11T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "‘Ratan Tata was very firm on consensus’: Tata Trusts trustee says ‘decision via vote unprecedented’",
+      "source": {
+        "name": "financialexpress.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sakshi Kuchroo"
+        ]
+      },
+      "link": "https://www.financialexpress.com/business/industry-ratan-tata-was-very-firm-on-consensus-tata-trusts-trustee-says-decision-via-vote-unprecedented-4005468/",
+      "thumbnail": "https://images.financialexpressdigital.com/2025/10/FotoJet-2025-10-10T100129.185.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpjRkpsVkhKZlZVOWtUVWd6VFJDZkF4ampCU2dLTWdB",
+      "date": "10/10/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-10T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Tata Trusts power struggle explained in 10 points: What's driving the conflict? Know all details",
+      "source": {
+        "name": "India TV News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiatvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Raghwendra Shukla"
+        ]
+      },
+      "link": "https://www.indiatvnews.com/business/news/tata-trusts-power-struggle-explained-in-10-points-what-s-driving-the-conflict-know-all-details-2025-10-09-1011951",
+      "thumbnail": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/10/tatapti-1-1759984763.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVRM0JxT1dKRE56UmhXRWgzVFJDZkF4ampCU2dLTWdZaE5Jak5uUWc",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Bhaskar Bhatt and Neville Tata inducted into Tata Trusts; Venu becomes Vice Chairman",
+      "source": {
+        "name": "financialexpress.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anwesha Mitra"
+        ]
+      },
+      "link": "https://www.financialexpress.com/business/bhaskar-bhatt-and-neville-tata-inducted-into-tata-trusts-venu-becomes-vice-chairman-4039740/",
+      "thumbnail": "https://images.financialexpressdigital.com/2025/11/Tata-Group-Reuters_20250311140729_20250422204044_20250527092232_20251010044704_20251012171408_20251105150447.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJXaTFxWW1OVmRsVnFNREEwVFJDZkF4ampCU2dLTWdhQk5JeXVKUVk",
+      "date": "11/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-11T08:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Ratan Tata Felt Noel Needed More Exposure, Experience To Succeed Him As Tata Sons Chairman",
+      "source": {
+        "name": "Free Press Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.freepressjournal.in/business/ratan-tata-felt-noel-needed-more-exposure-experience-to-succeed-him-as-tata-sons-chairman",
+      "thumbnail": "https://media.assettype.com/freepressjournal/2024-10-27/ia6tkjld/Bonjour-2024-10-27T142326.053.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRWR1Z1VldOSFYwWkJiVXN0VFJDZkF4ampCU2dLTWdtVllwQ0lQbVpGN1FF",
+      "date": "10/27/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-27T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Tata Sons Chairman N Chandrasekaran among highest paid executives in India. How much salary did he get in FY25?",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/companies/people/n-chandrasekaran-how-much-salary-fy25-rs-155-crore-increase-15-pc-tata-sons-chairman-among-highest-paid-executives-india-11753325338258.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/07/24/1600x900/N_Chandrasekaran_salary_FY25_compensation_tata_Son_1753326829207_1753326829397.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5MV2hMU1RWRk5HdzBRaTFqVFJDZkF4ampCU2dLTWdhcGRZYk9yUVk",
+      "date": "07/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-24T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Tata Trusts appoints Vijay Singh, Venu Srinivasan as vice chairmen",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/Companies/6aRNFXdfoPHDtHp8wO2mpO/Tata-Trusts-appoints-Vijay-Singh-Venu-Srinivasan-as-vice-ch.html",
+      "thumbnail": "https://images.livemint.com/rf/Image-920x613/LiveMint/Period2/2018/12/14/Photos/Processed/tata-kNSH--621x414@LiveMint.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxPUzB0V1d0dVRGZDZOa2RUVFJDZUF4anRCQ2dLTWdZTnA0NUh1Z1U",
+      "date": "12/13/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-12-13T08:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Noel Tata a New Leader of Tata Group’s Charitable Efforts",
+      "source": {
+        "name": "Adda247",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://currentaffairs.adda247.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://currentaffairs.adda247.com/noel-tata-a-new-leader-of-tata-groups-charitable-efforts/",
+      "thumbnail": "https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2024/10/14130425/Noel-Tata-a-New-Leader-of-Tata-Groups-Charitable-Efforts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1OazVXUkZoQk5WVTFXVWxCVFJDZkF4ampCU2dLTWdhbEpZRHRtUWs",
+      "date": "10/14/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-14T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Tata Sons' holding in Group companies - 71% in TCS! How much it owns in Tata Motors, Tata Steel, IHCL, others",
+      "source": {
+        "name": "ET Now",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.etnownews.com/markets/tata-sons-holding-in-group-companies-71-in-tcs-how-much-it-owns-in-tata-motors-tata-steel-ihcl-others-article-114309329",
+      "date": "10/17/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-17T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Newly Built BMC School In Kandivali East Lies Vacant Months After Handover; PPP Model May Delay Opening By",
+      "source": {
+        "name": "Free Press Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shreya Jachak"
+        ]
+      },
+      "link": "https://www.freepressjournal.in/education/newly-built-bmc-school-in-kandivali-east-lies-vacant-months-after-handover-ppp-model-may-delay-opening-by-another-year",
+      "thumbnail": "https://media.assettype.com/freepressjournal/2023-05/eee7e64e-82e8-4ab5-a9dd-f5695b197eb8/BMC_building.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpaR3c1Tldwa1MwaENUVEphVFJDZkF4ampCU2dLTWdZcEpZRE9JUWM",
+      "date": "03/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-26T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

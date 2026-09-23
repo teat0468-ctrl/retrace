@@ -1,0 +1,593 @@
+{
+  "search_metadata": {
+    "id": "6ab365ef01289b67f6809bec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0ab09IG4Tr5jgOxwebOvQ6_C72P1TODIz7LsCFUzKaQ/6ab365ef01289b67f6809bec.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0ab09IG4Tr5jgOxwebOvQ6_C72P1TODIz7LsCFUzKaQ/6ab365ef01289b67f6809bec.md",
+    "created_at": "2026-09-23 05:38:55 UTC",
+    "processed_at": "2026-09-23 05:38:55 UTC",
+    "google_news_url": "https://news.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+new+update",
+    "raw_html_file": "https://serpapi.com/searches/0ab09IG4Tr5jgOxwebOvQ6_C72P1TODIz7LsCFUzKaQ/6ab365ef01289b67f6809bec.html",
+    "total_time_taken": 1.25
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "massive magnitude earthquake struck coast hokkaido new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Japan eases back tsunami warning after magnitude 7.7 quake, no immediate reports of casualties, damage",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.reuters.com/business/environment/strong-74-magnitude-quake-hits-off-japan-tsunami-warning-issued-2026-04-20/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/JD66Z2EOHJMWHG7GDAG4WWXHH4.jpg?auth=a4a2745414f4c9e61227a9a70a59f089e5ec3532e04ae1c9037a0f2a984d3bd6&height=1500&width=1200&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURUelZpVldsalVqRnNWMm90VFJEckJCanZBeWdLTWdNUmNCQQ",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Major earthquake off Japan's north coast prompts tsunami alert",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cbsnews.com/news/japan-earthquake-tsunami-warning-hokkaido/",
+      "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/20/a0234120-d17e-4a8e-9032-2b06227bee32/thumbnail/1200x630/14794800d3eadc643310c4ae70aba004/japan-earthquake-tsunami-april-2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUNWV1o0UTJKTmRYaEpWME0xVFJDUkF4ajhCU2dLTWdB",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Japan issues rare special advisory over chance of more powerful quake",
+      "source": {
+        "name": "The Japan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.japantimes.co.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kanako Takahara",
+          "Yukana Inoue",
+          "Jesse Johnson"
+        ]
+      },
+      "link": "https://www.japantimes.co.jp/news/2026/04/20/japan/earthquake-tsunami-warning/",
+      "thumbnail": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/20/536111.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxZa2xXVEdOUWFFNHhTRXBNVFJEU0F4aVNCU2dLTWdZSk01d3psUW8",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Tsunami warning lifted after latest earthquake hits Japan’s northeast",
+      "source": {
+        "name": "Al Jazeera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aljazeera.com/news/2025/12/12/magnitude-6-7-earthquake-hits-japans-northeast-tsunami-warning-issued",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251209__87HP3PT__v1__HighRes__JapanEarthquake-1765512401.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5TVlp6TFdoRFNXcHRia1J1VFJEZ0F4aUFCU2dLTWdhQkU0Z3BOZ1U",
+      "date": "12/12/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-12T08:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Massive 7.6 earthquake near Japan coast triggers tsunami warnings",
+      "source": {
+        "name": "AccuWeather",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.accuweather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jesse Ferrell"
+        ]
+      },
+      "link": "https://www.accuweather.com/en/weather-news/massive-7-6-earthquake-near-japan-coast-triggers-tsunami-warnings/1841938",
+      "thumbnail": "https://cms.accuweather.com/wp-content/uploads/2025/12/earthquake1208a-2.png?w=632",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiekpVWVV0TGExaDFNSE55VFJEakFoajNCQ2dLTWdhUkE0eFNzUVk",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Japan on high alert for 'huge' second earthquake after lifting tsunami warning",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chika Nakayama "
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/czd7m7d699do",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/ab8c/live/8b49fd40-3cc2-11f1-9d5c-8ba507d7dbde.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNWMnRLYUVSaVVVTjFUMmd6VFJDT0FoamdBeWdLTWdZTkFvcUpFUXc",
+      "date": "04/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-21T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Hokkaido earthquake update: Japanese officials give latest on tsunami warning after massive jolt | World News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/world-news/hokkaido-earthquake-update-japanese-officials-give-latest-on-tsunami-warning-after-massive-jolt-101777238063398.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/04/26/400x225/photo-1603869311144-66b03d340b32_1777238364557_1777238372580.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHdVRWh1VEZGSlRISXlaV0p6VFJEaEFSaVFBeWdLTWdPbEZ3TQ",
+      "date": "04/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-27T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Magnitude-7.6 quake strikes off Japan, triggering alert for tsunami of up to 10 feet",
+      "source": {
+        "name": "nbcnews.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "henry Austin"
+        ]
+      },
+      "link": "https://www.nbcnews.com/world/japan/japan-earthquake-tsunami-hokkaido-meteorological-agency-rcna248007",
+      "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2025-12/251209-japan-rs-8232d8.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNVXhQYWxnMExUSlphMjVoVFJDSEF4aVBCaWdLTWdZWkFJWXduUVk",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Powerful 7.5-magnitude earthquake strikes Japan's northeast",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kantaro Komiya",
+          "Mariko Katsumura"
+        ]
+      },
+      "link": "https://www.reuters.com/business/environment/japan-warns-3-metre-high-tsunami-after-magnitude-72-earthquake-2025-12-08/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/2VC5SCD3ABPZRPZR5IQCOUBC5Y.jpg?auth=f7ec1efed53726d1df827be865755d31788805b8c32fe65da2bdece40e773dd7&height=1005&width=1920&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRSbkYzWm14alQxVjVjM1JCVFJDUUF4ai1CU2dLTWdrSmdJekZLdWhiandF",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Japan warns of ‘huge’ earthquake after powerful tremor, records 80 cm tsunami wave",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/international/an-earthquake-in-japan-triggers-a-tsunami-warning-for-iwate-aomori-hokkaido-prefectures/article70883751.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/v9e42r/article70884307.ece/alternates/LANDSCAPE_1200/2026-04-20T110514Z_1389912215_RC2ZSKABH9ZL_RTRMADP_3_JAPAN-EARTHQUAKE.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFSSFpQTWtoMk5FSlhYMVprVFJDZkF4ampCU2dLTWdZQmdJWWd1QVE",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Japan issues warning after 7.7-magnitude quake strikes north",
+      "source": {
+        "name": "The Straits Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.straitstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.straitstimes.com/asia/east-asia/strong-7-4-magnitude-quake-hits-off-japan-tsunami-warning-issued",
+      "thumbnail": "https://i.ytimg.com/vi/KQRyOg2Maak/maxresdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZSMmwxTTJsbVgwdHpUblZwVFJDZkF4ampCU2dLTWdZNUFJNDVEQXM",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Quake advisory lifted for Hokkaido and Sanriku coast",
+      "source": {
+        "name": "朝日新聞",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.asahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.asahi.com/ajw/articles/16228052",
+      "thumbnail": "https://p.potaufeu.asahi.com/5f89-p/picture/30322824/31d396106d4726ffcd417885c1640bef.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRakpYVGxCRWFpMUhTVkJ4VFJDNEF4aVVCU2dLTWdZQlFJWUpJUWM",
+      "date": "12/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-16T08:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Massive Earthquake Strikes Japan—Days After Tsunami Warning",
+      "source": {
+        "name": "Newsweek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "John Feng",
+          "Gabe Whisnant"
+        ]
+      },
+      "link": "https://www.newsweek.com/japan-earthquake-kuji-today-tsunami-warning-usgs-11187862",
+      "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/12/Screenshot-10-12-2025-at-18.03.39.jpg?w=1600&quality=80&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBjMjVRYW1oeWEzbG5UMVZ2VFJERUF4aW1CU2dLTWdrQkE0eEhKU1ZNNVFJ",
+      "date": "12/10/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-10T08:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Major 7.5-magnitude quake hits off Japan, triggers tsunami warnings",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nypost.com/2026/04/20/world-news/major-7-4-magnitude-quake-hits-off-japan-tsunami-warning-issued/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/04/Japan-quake.jpg?quality=80&strip=all&w=306&h=204&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpYMDlyTlU1Q2VXVkdUaTFPVFJETUFSaXlBaWdLTWdZTkFJUzJYQU0",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "7.5 magnitude earthquake strikes off Japan, triggering tsunami on country's northern coast",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cbsnews.com/live-updates/japan-earthquake-tsunami-alert/",
+      "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/08/8ca85add-fd26-4cc8-9836-1e1bde1bf32e/thumbnail/640x427/53fb6d1a99dc5a24872ee4a31e7c47ca/2025-12-08t155121z-353102924-rc2fciavsa46-rtrmadp-3-japan-quake.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtjR3BDTms0M1psTXRXbnBUVFJDM0FSaVRBaWdCTWdrQklJVGdtbWNPNkFF",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Japan lifts tsunami warning after 7.5-magnitude earthquake",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mariko Katsumura",
+          "Chang-ran Kim"
+        ]
+      },
+      "link": "https://www.reuters.com/business/environment/japan-lifts-tsunami-warning-after-75-magnitude-earthquake-2025-12-09/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/JTORMNIWMRLM3G4SSLBFTFDXUU.jpg?auth=11b3ad1b9780785b94e2fe255fca06910ad9e3e5b2ce3458619863f923f7953f&height=1005&width=1920&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkM2gyY2tOd2RXczBkbU5TVFJDUUF4ai1CU2dLTWdZQk1JcExuUWM",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "7.7 Earthquake Triggers Tsunami Waves in Japan (Aerial Video)",
+      "source": {
+        "name": "SURFER Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.surfer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dashel Pierson"
+        ]
+      },
+      "link": "https://www.surfer.com/news/japan-7-7-earthquake-tsunami-video",
+      "thumbnail": "https://www.surfer.com/.image/MjowMDAwMDAwMDAwMTU2OTM0/japan-tsunami.jpg?profile=w2560&ar=16-9",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXdlRVJ0V0daS00xUnZWRGgyVFJDZkF4amlCU2dLTWdNQkFBTQ",
+      "date": "04/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-21T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Japan Evacuates Tourists for Potential Incoming Tsunami",
+      "source": {
+        "name": "SURFER Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.surfer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dashel Pierson"
+        ]
+      },
+      "link": "https://www.surfer.com/news/japan-tsunami-threat-evacuations",
+      "thumbnail": "https://www.surfer.com/.image/MjowMDAwMDAwMDAwMTU3MjIy/correction-japan-quake.jpg?profile=w2560&ar=16-9",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUVhbEZVWlU1VWFtcDZNVWhyVFJDZkF4ampCU2dLTWdzQlVJUWh1LVZUOW5qaVZB",
+      "date": "04/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-24T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Massive earthquake off Russian coast sparks tsunami warnings across Pacific",
+      "source": {
+        "name": "France 24",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.france24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.france24.com/en/environment/20250730-massive-earthquake-off-russian-coast-sparks-tsunami-warnings-across-pacific",
+      "thumbnail": "https://s.france24.com/media/display/6944f45a-6cf4-11f0-941a-005056bf30b7/w:1024/p:16x9/2025-07-30T011111Z-1792328613-RC2OWFA1Z62M-RTRMADP-3-RUSSIA-QUAKE-PENINSULA-JAPAN.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxSWE5mVUZwWk15MUZjRFJEVFJDZkF4ampCU2dLTWdtSlVZSXFxYWF4REFJ",
+      "date": "07/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-30T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Japan tells residents to evacuate as powerful earthquake strikes north-east",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.theguardian.com/world/2025/dec/08/japan-tsunami-warning-after-earthquake-tremor",
+      "thumbnail": "https://i.guim.co.uk/img/media/2b3a40a5b59fc7a702093f6eb693218323498fb2/0_0_1920_1080/1920.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9SVVY0YVd0T2VVbGxTRmRYVFJDR0FoalJBeWdLTWdNQmt3NA",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Two Earthquakes Strike Japan’s Coast Today: What We Know",
+      "source": {
+        "name": "Newsweek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gabe Whisnant"
+        ]
+      },
+      "link": "https://www.newsweek.com/japan-earthquake-today-coast-tomioka-tokyo-magnitude-usgs-2121753",
+      "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/2712608-japan-coast.jpg?w=1600&quality=80&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZaMEZKYUVsbmFEaHVhVTR6VFJEUUF4aVZCU2dLTWdZQllZWnRzUVU",
+      "date": "08/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-29T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Japan Earthquake Injures Dozens: The Latest",
+      "source": {
+        "name": "The Weather Channel",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://weather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sean Breslin"
+        ]
+      },
+      "link": "https://weather.com/news/news/2025-12-08-japan-earthquake-updates-tsunami-threat",
+      "thumbnail": "https://s.w-x.co/japanquake_1.jpg?crop=16:9&width=320&format=pjpg&auto=webp&quality=60",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjVXRRVUU5M1JVOUhMWE01VFJDMEFSakFBaWdLTWdhVlZZWXFxZ2M",
+      "date": "12/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-09T08:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Massive magnitude 7.4 earthquake rattles northern Japan as threat downgraded to Tsunami Advisory for coast",
+      "source": {
+        "name": "FOX Weather",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxweather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.foxweather.com/weather-news/magnitude-7-4-earthquake-rattles-miyako-japan-tsunami-evacuation",
+      "thumbnail": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2024/08/1024/512/earthquake-notext.jpg?ve=1&tl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVlZM0pVTmxaZlpqUkpXWGRsVFJDSEF4aVBCaWdLTWdPQm93Zw",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Massive 7.5 earthquake triggers tsunami warnings in Japan, 9-foot waves expected (Video)",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nypost.com/video/massive-7-5-earthquake-triggers-tsunami-warnings-in-japan-9-foot-waves-expected/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/04/earthquaks_tsunami_wp.jpg?quality=80&strip=all&w=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJUelpUTlZCNGFYTkRTVE5UVFJERUF4aW5CU2dLTWdrQkFJNUFtaVltaHdJ",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "7.5 magnitude earthquake: Tsunami observed off Japan coast; bullet train halts operations",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/massive-earthquake-hits-japan-tsunami-warning-issued/articleshow/130386527.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-130387718,width-1280,height-720,imgsize-351584,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXFlRzVCU20xRk9FZEJWVE5DVFJDZkF4ampCU2dLTWdNQklBRQ",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Massive earthquake hits Japan: Viral videos show panic, chaos; 'megaquake' alert issued",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/massive-earthquake-hits-japan-viral-videos-show-panic-chaos-megaquake-alert-issued/articleshow/125859824.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125859894,width-1280,height-720,resizemode-4/125859894.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jbTV2VUd4MGFFcEtVVlZqVFJDZkF4ampCU2dLTWdZQkFJWWdFd28",
+      "date": "12/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-09T08:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Hokkaido Faces Imminent Supermassive Earthquake, Tsunami Warning",
+      "source": {
+        "name": "조선일보",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.chosun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.chosun.com/english/world-en/2026/02/24/RTGPAXG5XFBJRFWNTCIVX7OI5Y/",
+      "thumbnail": "https://www.chosun.com/resizer/v2/K7KQYLN4RJBRTJHC6SSR2B4NJI.jpg?auth=3adfa976994f49ae3c74eed7cd8f99895493a9a0a625a38e6bc48282572df242&width=616",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZVRGx0YzNvM1pHSlRWRWwwVFJDVkF4am9CQ2dLTWdZQlFJVHdPQVU",
+      "date": "02/24/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-24T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Tsunami heads for Japan coast after massive 7.4-magnitude earthquake | World News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/world-news/japan-activates-tsunami-alert-after-massive-7-4-magnitude-earthquake-101776672074994.html",
+      "thumbnail": "https://i.ytimg.com/vi/MTjf_DpMDC8/mqdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlMVWxCVDJGd1lXdzBaVlJDVFJDMEFSakFBaWdLTWdZQkFJcUNCQXc",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Tsunami hits Russia’s Kuril Islands, Japan’s Hokkaido after magnitude 8.8 earthquake off Kamchatka; Alerts",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/global-trends/tsunami-hits-russias-kuril-islands-and-japans-hokkaido-after-major-quake/articleshow/122986889.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-122986951,width-1200,height-900,resizemode-4,imgsize-206660/tsunami-hits-russias-kuril-islands-and-japans-hokkaido-after-major-quake.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtNRnBsYnpWWFVYQkVORnBUVFJEZ0F4aUFCU2dLTWdORklBVQ",
+      "date": "07/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-31T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Earthquake of 7.5 magnitude rocks Japan; triggers tsunami on northern coast | World News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/world-news/earthquake-of-7-6-magnitude-rocks-japan-tsunami-warning-issued-101765204110743.html",
+      "date": "12/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-09T08:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Japan lifts tsunami warnings after 7.5-magnitude earthquake",
+      "source": {
+        "name": "The Straits Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.straitstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.straitstimes.com/asia/east-asia/japan-lifts-tsunami-warning-after-7-5-magnitude-earthquake",
+      "thumbnail": "https://cassette.sphdigital.com.sg/image/straitstimes/c5c62fd0ac4a2f9a7108992ad3ce462bb9125bde06161ba182874f8738923a46",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtkbTVEY0hsVFUzTTBUV2xVVFJERUF4aW1CU2dLTWdZQlFJTGdMUWM",
+      "date": "12/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-09T08:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Tsunami injures dozens after Japan rocked by 7.5 magnitude quake",
+      "source": {
+        "name": "Metro.co.uk",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://metro.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Hooper"
+        ]
+      },
+      "link": "https://metro.co.uk/2025/12/08/three-metre-high-tsunami-hit-japan-7-2-magnitude-earthquake-25283056/",
+      "thumbnail": "https://metro.co.uk/wp-content/uploads/2025/12/SEI_277304780-7629_1765204338.jpg?quality=90&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJhV28zTmtreVRqRXhSMmxJVFJDSEF4aTRCU2dLTWdrQkFJeTFtQ2pZWUFN",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Megaquake could kill up to 199,000 people, estimates suggest",
+      "source": {
+        "name": "朝日新聞",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.asahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.asahi.com/ajw/articles/14507114",
+      "date": "12/21/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-12-21T08:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Massive earthquake of 7.6-magnitude strikes off Japan, tsunami alert issued",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sudeshna Ghoshal"
+        ]
+      },
+      "link": "https://www.livemint.com/news/world/massive-earthquake-today-of-7-2-magnitude-strikes-off-japan-tsunami-alert-issued-deaths-injured-11765204002256.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/08/1600x900/hqdefault_live_1765215822243_1765215829799.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUJhMk5EVm5kZlFUVmFkbkpUVFJDZkF4ampCU2dLTWdzQkFJWjBDS3pRdF9nWTBR",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Massive 7.5 magnitude earthquake rocks Japan sparking evacuations and tsunami warnings",
+      "source": {
+        "name": "gbnews.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gbnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Susanna Siddell"
+        ]
+      },
+      "link": "https://www.gbnews.com/news/world/japan-earthquake-tsunami-warning-evacuations",
+      "thumbnail": "https://www.gbnews.com/media-library/image.png?id=65572862&width=980",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpia3h4T1hsV1gyMUhUMGx0VFJEM0FoaXlCaWdLTWdZQkFJcEFFd3M",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Earthquake Today: 4.3 magnitude quake jolts Tibet hours after massive Russia tremor",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/news/earthquake-today-4-3-magnitude-quake-jolts-tibet-hours-after-massive-8-8-magnitude-russia-earthquake-11753847835992.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/07/30/1600x900/g7409640c975d6512d77d82f60fc0845d1765950a676a2356b_1753848315450_1753848315634.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTFSM05rTlVjM1lpMXFTWGRhVFJDZkF4amlCU2dLTWdB",
+      "date": "07/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-30T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Japan earthquake: Large 5.8 magnitude earthquake strikes off coast of Hokkaido",
+      "source": {
+        "name": "Daily Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.express.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alice Scarsi"
+        ]
+      },
+      "link": "https://www.express.co.uk/news/world/1122907/japan-earthquake-latest-update-magnitude-hokkaido-ring-of-fire",
+      "thumbnail": "https://cdn.images.express.co.uk/img/dynamic/78/750x445/1122907.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUpaMHRGWmxGdFkwSnhiVzlUVFJDcUF4alBCU2dLTWdNQklRdw",
+      "date": "05/04/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-05-04T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

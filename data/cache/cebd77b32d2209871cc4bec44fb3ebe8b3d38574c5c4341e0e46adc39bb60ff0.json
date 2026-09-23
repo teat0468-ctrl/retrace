@@ -1,0 +1,357 @@
+{
+  "search_metadata": {
+    "id": "6ab367476c4c0cbbbd3c5aa1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UQ8pTFKhdiyVP2cr2_Tw8l0DXo1ZwZwf6Z0pawgYNas/6ab367476c4c0cbbbd3c5aa1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UQ8pTFKhdiyVP2cr2_Tw8l0DXo1ZwZwf6Z0pawgYNas/6ab367476c4c0cbbbd3c5aa1.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/UQ8pTFKhdiyVP2cr2_Tw8l0DXo1ZwZwf6Z0pawgYNas/6ab367476c4c0cbbbd3c5aa1.json_with_pixel_position",
+    "created_at": "2026-09-23 05:44:39 UTC",
+    "processed_at": "2026-09-23 05:44:39 UTC",
+    "google_url": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&oq=rbi+governor+sanjay+malhotra+announced+india+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/UQ8pTFKhdiyVP2cr2_Tw8l0DXo1ZwZwf6Z0pawgYNas/6ab367476c4c0cbbbd3c5aa1.html",
+    "total_time_taken": 14.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "rbi governor sanjay malhotra announced india 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "rbi governor sanjay malhotra announced india 2025",
+    "total_results": 105,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "rbi governor sanjay malhotra announced india 2025",
+    "showing_results_for": "rbi governor sanjay malhotra announced india 2025"
+  },
+  "related_questions": [
+    {
+      "question": "Is India releasing new currency?",
+      "type": "ai_overview",
+      "page_token": "d8Bk13icHdBbjpswGEBhdTPzOOFeJVJUiWBQMsDIht_GfqnAbkLG5tIJDYS37qWr6mpmNBs4-nT-_jPXXv__dm-nabztNpt5np8vw3Axv57l0G3q26OXG1kb09RS74Lvgf3jLPfozzE8_D6GGMaRRsQqLNWzJD8wZvsK-FKy7T1DMMmKBJiptUHmULlhyLTNS8PdnC0ADvZUxed8FSl2TofCGV-IFh7YLf1sEqmXG_SDp5ieidnemDZGvEkbUOw3iNTEEkdICFZ2-FBxzGqaO7l9en9N8iItxVprXwh0SjOTecyogCL8gE9PEamrsNqxsfyHsibBnSXM4szhZtuBjl8ATi5qFW0YDXiFnEyL1xS2Lu8mnJYt0GQifBmuGMgq30wHnd-yXq9lRUMaxbU0MZVRHBVJfmcIbKy9RcxPZ3nfu09fP_c_z920G9-Hywf_R4Hi",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d8Bk13icHdBbjpswGEBhdTPzOOFeJVJUiWBQMsDIht_GfqnAbkLG5tIJDYS37qWr6mpmNBs4-nT-_jPXXv__dm-nabztNpt5np8vw3Axv57l0G3q26OXG1kb09RS74Lvgf3jLPfozzE8_D6GGMaRRsQqLNWzJD8wZvsK-FKy7T1DMMmKBJiptUHmULlhyLTNS8PdnC0ADvZUxed8FSl2TofCGV-IFh7YLf1sEqmXG_SDp5ieidnemDZGvEkbUOw3iNTEEkdICFZ2-FBxzGqaO7l9en9N8iItxVprXwh0SjOTecyogCL8gE9PEamrsNqxsfyHsibBnSXM4szhZtuBjl8ATi5qFW0YDXiFnEyL1xS2Lu8mnJYt0GQifBmuGMgq30wHnd-yXq9lRUMaxbU0MZVRHBVJfmcIbKy9RcxPZ3nfu09fP_c_z920G9-Hywf_R4Hi",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiSXMgSW5kaWEgcmVsZWFzaW5nIG5ldyBjdXJyZW5jeT8iLCJsayI6IkdoOXBjeUJwYm1ScFlTQnlaV3hsWVhOcGJtY2dibVYzSUdOMWNuSmxibU41IiwiYnMiOiJjMzNRTVdzQ1FSQ0dZZEp1bGZxYWZDWmxJb1FGUVVMZ1FBamhpalJhV0tVWTcwWnZvNWtOczZ1Yjg5ZDdjaWVFaUpZRHp6c0RZOTRNaW9CQ0trZFEzakFGSnlzSUo1UmJWWmF5eWUwZ3UzTUI3b294aGJtZjF4VFJ1aG5KRnpYNG9FM3RveExXNHBOZzZUVzNEOWtnOVNwMDZ2dE1tVV96ZEZvVmEyN1BfRVpNSjBWN1A3SnlpRkNLaklwTEY1eVgzQTZ6eF9UZjY4SmQ4R1p2WHVlMVAtbUtmN2F4d2J2ZnNZcFgtQ1dtSEZoM2pBbkotamgzdjNFQy0yeEh1WDNKeHVtc1hfM3B0ZThYZmRfOTdSamYzaHdBIiwiaWQiOiJmY19VbWV6YXE2MkZOLU93YmtQLThUVGtRY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiSXMgSW5kaWEgcmVsZWFzaW5nIG5ldyBjdXJyZW5jeT8iLCJsayI6IkdoOXBjeUJwYm1ScFlTQnlaV3hsWVhOcGJtY2dibVYzSUdOMWNuSmxibU41IiwiYnMiOiJjMzNRTVdzQ1FSQ0dZZEp1bGZxYWZDWmxJb1FGUVVMZ1FBamhpalJhV0tVWTcwWnZvNWtOczZ1Yjg5ZDdjaWVFaUpZRHp6c0RZOTRNaW9CQ0trZFEzakFGSnlzSUo1UmJWWmF5eWUwZ3UzTUI3b294aGJtZjF4VFJ1aG5KRnpYNG9FM3RveExXNHBOZzZUVzNEOWtnOVNwMDZ2dE1tVV96ZEZvVmEyN1BfRVpNSjBWN1A3SnlpRkNLaklwTEY1eVgzQTZ6eF9UZjY4SmQ4R1p2WHVlMVAtbUtmN2F4d2J2ZnNZcFgtQ1dtSEZoM2pBbkotamgzdjNFQy0yeEh1WDNKeHVtc1hfM3B0ZThYZmRfOTdSamYzaHdBIiwiaWQiOiJmY19VbWV6YXE2MkZOLU93YmtQLThUVGtRY18zIn0%3D"
+    },
+    {
+      "question": "What is Sanjay Malhotra known for?",
+      "type": "ai_overview",
+      "page_token": "mqkpL3icHZDBUuowFEDHn3EpaWNxZIZxXiQg2EaTJpfSjVMSKLQJrRigdue_-FXvax7z1ufMWZyfX7s_1H9vzjvv26_RYHC5XO7Kpint5k43blB8fR_0QBfWrgtdj4YPw-Bpq8f0NCfPn3PCVdvCRKC07qhRrduA5bJiJHfmmMgyND2pIWtTQNFJVyQBx2oZQAFIYJAl0ii68j-ezSA2jqM0MGejbLy0j8G6X3hNmWey7jZ07tVLG6kwWuQqujZIxDH0y6ndM8rS3NrX5SHBysL3ptKRPuj7QtJe9otPoEEoJqSLsxILZLAOjWIZxZLmqe6J4GF3lOg-SsLunStRFdMppjsD6yUMVxkNkzp_i9UjXjnPY7lTMPNi1TX7q9vryjpV5bSA6XM6EzGEJrm6WQFkYhDzwrFulfFO8dutPo_x7f-f44-t86P22JT_AN2Jgh8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mqkpL3icHZDBUuowFEDHn3EpaWNxZIZxXiQg2EaTJpfSjVMSKLQJrRigdue_-FXvax7z1ufMWZyfX7s_1H9vzjvv26_RYHC5XO7Kpint5k43blB8fR_0QBfWrgtdj4YPw-Bpq8f0NCfPn3PCVdvCRKC07qhRrduA5bJiJHfmmMgyND2pIWtTQNFJVyQBx2oZQAFIYJAl0ii68j-ezSA2jqM0MGejbLy0j8G6X3hNmWey7jZ07tVLG6kwWuQqujZIxDH0y6ndM8rS3NrX5SHBysL3ptKRPuj7QtJe9otPoEEoJqSLsxILZLAOjWIZxZLmqe6J4GF3lOg-SsLunStRFdMppjsD6yUMVxkNkzp_i9UjXjnPY7lTMPNi1TX7q9vryjpV5bSA6XM6EzGEJrm6WQFkYhDzwrFulfFO8dutPo_x7f-f44-t86P22JT_AN2Jgh8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTYW5qYXkgTWFsaG90cmEga25vd24gZm9yPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhOaGJtcGhlU0J0WVd4b2IzUnlZU0JyYm05M2JpQm1iM0kiLCJicyI6ImMzM1FNV3NDUVJDR1lkSnVsZnFhZkNabElvUUZRVUxnUUFqaGlqUmFXS1VZNzBadm81a05zNnViODlkN2NpZUVpSllEenpzRFk5NE1pb0JDS2tkUTNqQUZKeXNJSjVSYlZaYXl5ZTBndTNNQjdvb3hoYm1mMXhUUnVobkpGelg0b0UzdG94TFc0cE5nNlRXM0Q5a2c5U3AwNnZ0TW1VX3pkRm9WYTI3UF9FWk1KMFY3UDdKeWlGQ0tqSXBMRjV5WDNBNnp4X1RmNjhKZDhHWnZYdWUxUC1tS2Y3YXh3YnZmc1lwWC1DV21IRmgzakFuSi1qaDN2M0VDLTJ4SHVYM0p4dW1zWF8zcHRlOFhmZF85N1JqZjNod0EiLCJpZCI6ImZjX1VtZXphcTYyRk4tT3dia1AtOFRUa1FjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTYW5qYXkgTWFsaG90cmEga25vd24gZm9yPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhOaGJtcGhlU0J0WVd4b2IzUnlZU0JyYm05M2JpQm1iM0kiLCJicyI6ImMzM1FNV3NDUVJDR1lkSnVsZnFhZkNabElvUUZRVUxnUUFqaGlqUmFXS1VZNzBadm81a05zNnViODlkN2NpZUVpSllEenpzRFk5NE1pb0JDS2tkUTNqQUZKeXNJSjVSYlZaYXl5ZTBndTNNQjdvb3hoYm1mMXhUUnVobkpGelg0b0UzdG94TFc0cE5nNlRXM0Q5a2c5U3AwNnZ0TW1VX3pkRm9WYTI3UF9FWk1KMFY3UDdKeWlGQ0tqSXBMRjV5WDNBNnp4X1RmNjhKZDhHWnZYdWUxUC1tS2Y3YXh3YnZmc1lwWC1DV21IRmgzakFuSi1qaDN2M0VDLTJ4SHVYM0p4dW1zWF8zcHRlOFhmZF85N1JqZjNod0EiLCJpZCI6ImZjX1VtZXphcTYyRk4tT3dia1AtOFRUa1FjXzMifQ%3D%3D"
+    },
+    {
+      "question": "What is the next RBI interest rate decision?",
+      "type": "ai_overview",
+      "page_token": "8IUOpnicHdDbUoJAGADg6WW6TA5m4YzTRLGgAbnLHsCbRndRZH8WKhT1rnfpqXqamt7gm-_rG_ZG_1wdq77vPqej0TAMN7u23UF5I9tmtP48GzmSa4DNWurp5G5iP2zlLDjM_af3uY9Z1_FnYmX16ihRl29EMi5RehACaGKqManhBVsQFdyPVOghpiFOKenTvFoJJN0MAVUmGdZhD9iAn7uPF8W5k4VqXHJyoAbVSlQx0dV2ZfiFOF6X26RO7EWTRt2hyNlJBvjMnBNRNln-WW5LpthGFGcWYZdanuF2eyk1cpVIziIAIRhPZdg7BQXNAnxKaaoJVbVCEBb63s0CzwSV4hvBJ0UeOIlevcbMc4umxzGtGA97UpzaPWbkImtomIusmCEnA76MBVrklt1iB3L-7BOFOppFC6yG6608ztzr_8_Z27bpp91Hu_sF7jWDag",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8IUOpnicHdDbUoJAGADg6WW6TA5m4YzTRLGgAbnLHsCbRndRZH8WKhT1rnfpqXqamt7gm-_rG_ZG_1wdq77vPqej0TAMN7u23UF5I9tmtP48GzmSa4DNWurp5G5iP2zlLDjM_af3uY9Z1_FnYmX16ihRl29EMi5RehACaGKqManhBVsQFdyPVOghpiFOKenTvFoJJN0MAVUmGdZhD9iAn7uPF8W5k4VqXHJyoAbVSlQx0dV2ZfiFOF6X26RO7EWTRt2hyNlJBvjMnBNRNln-WW5LpthGFGcWYZdanuF2eyk1cpVIziIAIRhPZdg7BQXNAnxKaaoJVbVCEBb63s0CzwSV4hvBJ0UeOIlevcbMc4umxzGtGA97UpzaPWbkImtomIusmCEnA76MBVrklt1iB3L-7BOFOppFC6yG6608ztzr_8_Z27bpp91Hu_sF7jWDag",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmV4dCBSQkkgaW50ZXJlc3QgcmF0ZSBkZWNpc2lvbj8iLCJsayI6IkdpdDNhR0YwSUdseklIUm9aU0J1WlhoMElISmlhU0JwYm5SbGNtVnpkQ0J5WVhSbElHUmxZMmx6YVc5dSIsImJzIjoiYzMzUU1Xc0NRUkNHWWRKdWxmcWFmQ1psSW9RRlFVTGdRQWpoaWpSYVdLVVk3MFp2bzVrTnM2dWI4OWQ3Y2llRWlKWUR6enNEWTk0TWlvQkNLa2RRM2pBRkp5c0lKNVJiVlpheXllMGd1M01CN29veGhibWYxeFRSdWhuSkZ6WDRvRTN0b3hMVzRwTmc2VFczRDlrZzlTcDA2dnRNbVVfemRGb1ZhMjdQX0VaTUowVjdQN0p5aUZDS2pJcExGNXlYM0E2enhfVGY2OEpkOEdadlh1ZTFQLW1LZjdheHdidmZzWXBYLUNXbUhGaDNqQW5KLWpoM3YzRUMtMnhIdVgzSnh1bXNYXzNwdGU4WGZkXzk3UmpmM2h3QSIsImlkIjoiZmNfVW1lemFxNjJGTi1Pd2JrUC04VFRrUWNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmV4dCBSQkkgaW50ZXJlc3QgcmF0ZSBkZWNpc2lvbj8iLCJsayI6IkdpdDNhR0YwSUdseklIUm9aU0J1WlhoMElISmlhU0JwYm5SbGNtVnpkQ0J5WVhSbElHUmxZMmx6YVc5dSIsImJzIjoiYzMzUU1Xc0NRUkNHWWRKdWxmcWFmQ1psSW9RRlFVTGdRQWpoaWpSYVdLVVk3MFp2bzVrTnM2dWI4OWQ3Y2llRWlKWUR6enNEWTk0TWlvQkNLa2RRM2pBRkp5c0lKNVJiVlpheXllMGd1M01CN29veGhibWYxeFRSdWhuSkZ6WDRvRTN0b3hMVzRwTmc2VFczRDlrZzlTcDA2dnRNbVVfemRGb1ZhMjdQX0VaTUowVjdQN0p5aUZDS2pJcExGNXlYM0E2enhfVGY2OEpkOEdadlh1ZTFQLW1LZjdheHdidmZzWXBYLUNXbUhGaDNqQW5KLWpoM3YzRUMtMnhIdVgzSnh1bXNYXzNwdGU4WGZkXzk3UmpmM2h3QSIsImlkIjoiZmNfVW1lemFxNjJGTi1Pd2JrUC04VFRrUWNfMyJ9"
+    },
+    {
+      "question": "Who is the deputy Governor of Reserve Bank of India in 2025?",
+      "type": "ai_overview",
+      "page_token": "FRCD0XicHdDbboIwAADQ7Gd8HJTboolZBCmMCIbSFuRlKRTlUi5qM9C3_cu-al-zZOcTzvePaIbu9yWrpZzuG0WZ5_n1Mo4XUb2WY6-w-2MolZIJUbCy21hvFng_l1v3PtvOONsxmSa6Ryr2alF40R4RSRI3skqMYtSKe0ihikkwU01YUUqt5BlASjqt0Ok10aBe-cGVgbWf9iblJCLY47ewE3OK8wG1UY28ZeEdz8NsB8gzz6haO5VfB4QswyE1R0SQk3smrHxXkh5YB7p2YrVbCmhfQ83QT4AsoT5ZMQ5N5C6sarnL9A8TqW4CAZV5NtUlPj1QZ0is84aBnTxCRBiArdcENvKjxzHNERbQ4AloYjUEuQZwpnG18Ezj1AkZtbsF7Wu0OpdfW331P7b9PPdyM93Gyx9N4XY-",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FRCD0XicHdDbboIwAADQ7Gd8HJTboolZBCmMCIbSFuRlKRTlUi5qM9C3_cu-al-zZOcTzvePaIbu9yWrpZzuG0WZ5_n1Mo4XUb2WY6-w-2MolZIJUbCy21hvFng_l1v3PtvOONsxmSa6Ryr2alF40R4RSRI3skqMYtSKe0ihikkwU01YUUqt5BlASjqt0Ok10aBe-cGVgbWf9iblJCLY47ewE3OK8wG1UY28ZeEdz8NsB8gzz6haO5VfB4QswyE1R0SQk3smrHxXkh5YB7p2YrVbCmhfQ83QT4AsoT5ZMQ5N5C6sarnL9A8TqW4CAZV5NtUlPj1QZ0is84aBnTxCRBiArdcENvKjxzHNERbQ4AloYjUEuQZwpnG18Ezj1AkZtbsF7Wu0OpdfW331P7b9PPdyM93Gyx9N4XY-",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBkZXB1dHkgR292ZXJub3Igb2YgUmVzZXJ2ZSBCYW5rIG9mIEluZGlhIGluIDIwMjU/IiwibGsiOiJjNU95S01fSVY4Z3NWaWpKU0ZWSVNTMG9MYWxVU004dlN5M0t5eTlTeUU5VEtFb3RUaTBxUzFWSVNzekxCdkV6ODFJeUV4V01ESXhNQVEiLCJicyI6ImMzM1FNV3NDUVJDR1lkSnVsZnFhZkNabElvUUZRVUxnUUFqaGlqUmFXS1VZNzBadm81a05zNnViODlkN2NpZUVpSllEenpzRFk5NE1pb0JDS2tkUTNqQUZKeXNJSjVSYlZaYXl5ZTBndTNNQjdvb3hoYm1mMXhUUnVobkpGelg0b0UzdG94TFc0cE5nNlRXM0Q5a2c5U3AwNnZ0TW1VX3pkRm9WYTI3UF9FWk1KMFY3UDdKeWlGQ0tqSXBMRjV5WDNBNnp4X1RmNjhKZDhHWnZYdWUxUC1tS2Y3YXh3YnZmc1lwWC1DV21IRmgzakFuSi1qaDN2M0VDLTJ4SHVYM0p4dW1zWF8zcHRlOFhmZF85N1JqZjNod0EiLCJpZCI6ImZjX1VtZXphcTYyRk4tT3dia1AtOFRUa1FjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFSlJjbEJNWTB4dk5FOU9lR1p0YW0xbVltMW1PUzA0VERGb1gyRkdURzF6TXpGTGRtOU1TR3BvVjI1NVdrSk9ZMVF3U1hGV1pHSnpRV3hLV1ZSaFgzRmxjRk5PUm5odVMxbGFMVWt6YkU5d2REQnJUMGszUm5SV1VSSVhWVzFsZW1GeE5qSkdUaTFQZDJKclVDMDRWRlJyVVdNYUlrRkVjM0k1WmxSak5EVm9NbU5xYjNCVGNXTllhSGcwY20xcVNUaHhPRFJpU0VFIiwiZmN2IjoiMyIsImVpIjoiVW1lemFxNjJGTi1Pd2JrUC04VFRrUWMiLCJxYyI6IkNqRnlZbWtnWjI5MlpYSnViM0lnYzJGdWFtRjVJRzFoYkdodmRISmhJR0Z1Ym05MWJtTmxaQ0JwYm1ScFlTQXlNREkxRUFCOTRxSXZQdyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBkZXB1dHkgR292ZXJub3Igb2YgUmVzZXJ2ZSBCYW5rIG9mIEluZGlhIGluIDIwMjU%2FIiwibGsiOiJjNU95S01fSVY4Z3NWaWpKU0ZWSVNTMG9MYWxVU004dlN5M0t5eTlTeUU5VEtFb3RUaTBxUzFWSVNzekxCdkV6ODFJeUV4V01ESXhNQVEiLCJicyI6ImMzM1FNV3NDUVJDR1lkSnVsZnFhZkNabElvUUZRVUxnUUFqaGlqUmFXS1VZNzBadm81a05zNnViODlkN2NpZUVpSllEenpzRFk5NE1pb0JDS2tkUTNqQUZKeXNJSjVSYlZaYXl5ZTBndTNNQjdvb3hoYm1mMXhUUnVobkpGelg0b0UzdG94TFc0cE5nNlRXM0Q5a2c5U3AwNnZ0TW1VX3pkRm9WYTI3UF9FWk1KMFY3UDdKeWlGQ0tqSXBMRjV5WDNBNnp4X1RmNjhKZDhHWnZYdWUxUC1tS2Y3YXh3YnZmc1lwWC1DV21IRmgzakFuSi1qaDN2M0VDLTJ4SHVYM0p4dW1zWF8zcHRlOFhmZF85N1JqZjNod0EiLCJpZCI6ImZjX1VtZXphcTYyRk4tT3dia1AtOFRUa1FjXzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "uaKEl3iczVXLkqJIFP2A-Y5xYyEPsdSKIDoysyjFZ0FpdenG4FUJKqSSWrTu5kNmN181X9MJKqKtVncvJiYjgHyee2_eezh__TP3w9m_f_ztrVYL-sDzcRyXMCF47pZsEvAm3YQ2_07mNLK9L5SsI9v1HcX2IhK4hc2HUi7YVBEKrq8MA3drLu-lpx7Xj63ZM1cbDGa6XUghlIllUnfKLHybUn7Cs9fsz_IjG5RoyQ1LazgSUPTaM3VakgSxXurzZsA2gP-u6QioAGCosT68uont-BkwyBAY0Cw3pe1P5rBHACV4mp6O0BVknKIlABpMDrDPZBzJELQPWDC-6gjK22ODxJSK0kDSSP2fiSYXQ9LUDBPd3H0pnh0CM68eZrq5VRVcaeisEoYMvQa6GvD2E2cZU0l-1Epejzvz70COVdl4uuk5u51hDCtt8Gm6n4AR4n1QGlqxk5B3MKtcgbci9hF53_bstBPRpKDRoC6QRg82-x4XNd9AbRIM1aE32uDliHa6BuBti-2bE9NxnYk3Eb6kY1ESK0K9XK3dpUyyaUYlmqcSaDfKdcFcVqVuqVOC4oFHKLv5s5QltYC0C4FBtN96McfwOH-8eVXNZ6G9u5PkLiUNZPbTI_r9LtVZVp81ALGWL4UMNzl3iUe7tu-nPEqLO3GLZN7lI8OMRpmD-ai6F_l-Pqc3Mw80-MPGvE8a1DALW8_g8w0lVa55yeKQXXIH7xlon2Ik16OfuIrTyFHjPLADJ3NmfIaUEmP6ApLqJ61djvUdmHak_TBxXz-eBPDKv0-lIAat23y_1rRP_hN7ywfCnNX_CW8MfWt0nptG416MmzKSDdHnmptJs_uoX-YJCaxf0Bz7f8WkgyK107XrTErq5lMmseLXbipS2t8rUmvHJISvMimVpB8UqX9RkU4rCgHjyKQ2vKlIv84kdJNJeB_pBSYxRbrEpNk1JqWKdMokr6afKNJJ3JkiHZn0O4qEfk-RUmK5u8-pPK2n-KpMqYt15bni1WT83mZE6AnWAnaX7tYYhPhTmXoPVg-B6czvJr7zAKXWauPcTdgEeXCdwlKJLL-IyYcbhSQqUjOcmptiYM49sorMohmGZB3arlP0Q8c3i5IgVQrBPCKKYMriS1VbtLyu89JvPY78mm2XV7PIGTbKeMTV1XJzNTCsRl-VWxzXfm1x5cgY35ucu0B9WCOzt-3atcv62xhhpw-o9LK1fG2sIvcdb9sL83Hax8N1b7aUn72Z1FzhQUhiaSsbC24cjFFNms6rtCI4tt4fuR2Li1O_qPLaHL2VMWmNR0IhiGyFJUrGoKeDrxjaAI0Ym1kpI8KemD33QFdhgdrmxKUfSlV0RMeyqqZQESSnXi0EeLVZKLJYoGGkiN8Bo01E9Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uaKEl3iczVXLkqJIFP2A-Y5xYyEPsdSKIDoysyjFZ0FpdenG4FUJKqSSWrTu5kNmN181X9MJKqKtVncvJiYjgHyee2_eezh__TP3w9m_f_ztrVYL-sDzcRyXMCF47pZsEvAm3YQ2_07mNLK9L5SsI9v1HcX2IhK4hc2HUi7YVBEKrq8MA3drLu-lpx7Xj63ZM1cbDGa6XUghlIllUnfKLHybUn7Cs9fsz_IjG5RoyQ1LazgSUPTaM3VakgSxXurzZsA2gP-u6QioAGCosT68uont-BkwyBAY0Cw3pe1P5rBHACV4mp6O0BVknKIlABpMDrDPZBzJELQPWDC-6gjK22ODxJSK0kDSSP2fiSYXQ9LUDBPd3H0pnh0CM68eZrq5VRVcaeisEoYMvQa6GvD2E2cZU0l-1Epejzvz70COVdl4uuk5u51hDCtt8Gm6n4AR4n1QGlqxk5B3MKtcgbci9hF53_bstBPRpKDRoC6QRg82-x4XNd9AbRIM1aE32uDliHa6BuBti-2bE9NxnYk3Eb6kY1ESK0K9XK3dpUyyaUYlmqcSaDfKdcFcVqVuqVOC4oFHKLv5s5QltYC0C4FBtN96McfwOH-8eVXNZ6G9u5PkLiUNZPbTI_r9LtVZVp81ALGWL4UMNzl3iUe7tu-nPEqLO3GLZN7lI8OMRpmD-ai6F_l-Pqc3Mw80-MPGvE8a1DALW8_g8w0lVa55yeKQXXIH7xlon2Ik16OfuIrTyFHjPLADJ3NmfIaUEmP6ApLqJ61djvUdmHak_TBxXz-eBPDKv0-lIAat23y_1rRP_hN7ywfCnNX_CW8MfWt0nptG416MmzKSDdHnmptJs_uoX-YJCaxf0Bz7f8WkgyK107XrTErq5lMmseLXbipS2t8rUmvHJISvMimVpB8UqX9RkU4rCgHjyKQ2vKlIv84kdJNJeB_pBSYxRbrEpNk1JqWKdMokr6afKNJJ3JkiHZn0O4qEfk-RUmK5u8-pPK2n-KpMqYt15bni1WT83mZE6AnWAnaX7tYYhPhTmXoPVg-B6czvJr7zAKXWauPcTdgEeXCdwlKJLL-IyYcbhSQqUjOcmptiYM49sorMohmGZB3arlP0Q8c3i5IgVQrBPCKKYMriS1VbtLyu89JvPY78mm2XV7PIGTbKeMTV1XJzNTCsRl-VWxzXfm1x5cgY35ucu0B9WCOzt-3atcv62xhhpw-o9LK1fG2sIvcdb9sL83Hax8N1b7aUn72Z1FzhQUhiaSsbC24cjFFNms6rtCI4tt4fuR2Li1O_qPLaHL2VMWmNR0IhiGyFJUrGoKeDrxjaAI0Ym1kpI8KemD33QFdhgdrmxKUfSlV0RMeyqqZQESSnXi0EeLVZKLJYoGGkiN8Bo01E9Q"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Sanjay Malhotra",
+      "link": "https://en.wikipedia.org/wiki/Sanjay_Malhotra",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV7f1SNwT0IlhbI1oaa0q3ra66BTio8ItF81wBj2sIRts4r13kq4gUAtFAn4Vp8sTxpbk-R8Kygu4fnW2fWpW8ddPc_TapRm-f1V7tp4zkMIxSIvWwkyYseuxhdCMSApXX&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Sanjay_Malhotra",
+      "snippet": "Sanjay Malhotra, IAS. Indian bureaucrat and IAS officer who is serving as the current and 26th Governor of the Reserve Bank of India since 11 December 2024.",
+      "snippet_highlighted_words": [
+        "Sanjay Malhotra",
+        "Governor",
+        "India"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sanjay Malhotra, IAS. Indian bureaucrat and IAS officer who is serving as the current and 26th Governor of the Reserve Bank of India since 11 December 2024.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Sanjay_Malhotra",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjdmMVNOd1QwSWxoYkkxb2FhMHEzcmE2NkJUaW84SXRGODF3Qmoyc0lSdHM0cjEza3E0Z1VBdEZBbjRWcDhzVHhwYmstUjhLeWd1NGZuVzJmV3BXOGRkUGNfVGFwUm0tZjFWN3RwNHprTUl4U0l2V3dreVlzZXV4aGRDTVNBcFhYEgQaAggAGv8FEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACohCgNyYmkVepg7PxoLcmJpZ292ZXJub3IaCGl2O3A7cmJpKjYKCGdvdmVybm9yFSiH1j8aCWdvdmVybm9ycxoLcmJpZ292ZXJub3IaDWl2O3A7Z292ZXJub3IqKgoGc2FuamF5FS7Od0AaDnNhbmpheW1hbGhvdHJhGgtpdjtwO3NhbmpheSouCghtYWxob3RyYRX0nH5AGg5zYW5qYXltYWxob3RyYRoNaXY7cDttYWxob3RyYSpiCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkGghsYXVuY2hlZBoIcHJvcG9zZWQaBG5ld3MqIAoFaW5kaWEV01iUPxoHaW5kaWEncxoJaW5kaWEyMDI1KiEKBDIwMjUV9p74PRoJaW5kaWEyMDI1GglpdjtuOzIwMjUylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWN2YxU053VDBJbGhiSTFvYWEwcTNyYTY2QlRpbzhJdEY4MXdCajJzSVJ0czRyMTNrcTRnVUF0RkFuNFZwOHNUeHBiay1SOEt5Z3U0Zm5XMmZXcFc4ZGRQY19UYXBSbS1mMVY3dHA0emtNSXhTSXZXd2t5WXNldXhoZENNU0FwWFg6IjxiPlNhbmpheSBNYWxob3RyYTwvYj4gLSBXaWtpcGVkaWFCsQE8Yj5TYW5qYXkgTWFsaG90cmE8L2I-LCBJQVMuIEluZGlhbiBidXJlYXVjcmF0IGFuZCBJQVMgb2ZmaWNlciB3aG8gaXMgc2VydmluZyBhcyB0aGUgY3VycmVudCBhbmQgMjZ0aCA8Yj5Hb3Zlcm5vcjwvYj4gb2YgdGhlIFJlc2VydmUgQmFuayBvZiA8Yj5JbmRpYTwvYj4gc2luY2UgMTEgRGVjZW1iZXIgMjAyNC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjdmMVNOd1QwSWxoYkkxb2FhMHEzcmE2NkJUaW84SXRGODF3Qmoyc0lSdHM0cjEza3E0Z1VBdEZBbjRWcDhzVHhwYmstUjhLeWd1NGZuVzJmV3BXOGRkUGNfVGFwUm0tZjFWN3RwNHprTUl4U0l2V3dreVlzZXV4aGRDTVNBcFhYEgQaAggAGv8FEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACohCgNyYmkVepg7PxoLcmJpZ292ZXJub3IaCGl2O3A7cmJpKjYKCGdvdmVybm9yFSiH1j8aCWdvdmVybm9ycxoLcmJpZ292ZXJub3IaDWl2O3A7Z292ZXJub3IqKgoGc2FuamF5FS7Od0AaDnNhbmpheW1hbGhvdHJhGgtpdjtwO3NhbmpheSouCghtYWxob3RyYRX0nH5AGg5zYW5qYXltYWxob3RyYRoNaXY7cDttYWxob3RyYSpiCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkGghsYXVuY2hlZBoIcHJvcG9zZWQaBG5ld3MqIAoFaW5kaWEV01iUPxoHaW5kaWEncxoJaW5kaWEyMDI1KiEKBDIwMjUV9p74PRoJaW5kaWEyMDI1GglpdjtuOzIwMjUylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWN2YxU053VDBJbGhiSTFvYWEwcTNyYTY2QlRpbzhJdEY4MXdCajJzSVJ0czRyMTNrcTRnVUF0RkFuNFZwOHNUeHBiay1SOEt5Z3U0Zm5XMmZXcFc4ZGRQY19UYXBSbS1mMVY3dHA0emtNSXhTSXZXd2t5WXNldXhoZENNU0FwWFg6IjxiPlNhbmpheSBNYWxob3RyYTwvYj4gLSBXaWtpcGVkaWFCsQE8Yj5TYW5qYXkgTWFsaG90cmE8L2I-LCBJQVMuIEluZGlhbiBidXJlYXVjcmF0IGFuZCBJQVMgb2ZmaWNlciB3aG8gaXMgc2VydmluZyBhcyB0aGUgY3VycmVudCBhbmQgMjZ0aCA8Yj5Hb3Zlcm5vcjwvYj4gb2YgdGhlIFJlc2VydmUgQmFuayBvZiA8Yj5JbmRpYTwvYj4gc2luY2UgMTEgRGVjZW1iZXIgMjAyNC4iAhABSABYAGgA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "RBI Governor Shri. Sanjay Malhotra in Conversation with India ...",
+      "link": "https://www.youtube.com/watch?v=oTViHkJsU1g",
+      "displayed_link": "21.7K+ views · 9 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab367476c4c0cbbbd3c5aa1/images/vxsWPWSVRizZ3zmhCW2PNQfeUIALqYWIQywPSg3VIRI.jpeg",
+      "snippet": "Shri. Sanjay Malhotra, Governor, Reserve Bank of India, in an interview with India Today in Mumbai (December 2025).",
+      "duration": "25:58",
+      "about_this_result": {
+        "source": {
+          "description": "Shri. Sanjay Malhotra, Governor, Reserve Bank of India, in an interview with India Today in Mumbai (December 2025).",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnFWT212QklVZjVyZWRjTDNmbU5mOVhRdWFqTVZVaUtpUVNPWG5uYjRBVGZGSUNHSFZNZnRiTXYxSHgxNFBkVHBaWmlDY2hfYWtqN2VfUS1DX3JRbEhJYlgyWGFpWEdYVkFBRl9RQXlQT3czbUxIQXFHcFhBSjNDZUlhekpMURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnFWT212QklVZjVyZWRjTDNmbU5mOVhRdWFqTVZVaUtpUVNPWG5uYjRBVGZGSUNHSFZNZnRiTXYxSHgxNFBkVHBaWmlDY2hfYWtqN2VfUS1DX3JRbEhJYlgyWGFpWEdYVkFBRl9RQXlQT3czbUxIQXFHcFhBSjNDZUlhekpMURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSL-5CAdXoOlZjhO1bDz9kzcojkm9r42n8MLw",
+      "source": "YouTube · Reserve Bank of India"
+    },
+    {
+      "position": 3,
+      "title": "Governor Sanjay Malhotra addresses media in Mumbai",
+      "link": "https://www.youtube.com/watch?v=JAENH5wE90I",
+      "displayed_link": "1.1K+ views · 7 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab367476c4c0cbbbd3c5aa1/images/vxsWPWSVRizZ3zmhCW2PNU4gp-mfX-b7_M0aDMyW7oo.jpeg",
+      "snippet": "Mumbai: Reserve Bank of India Governor Sanjay Malhotra held a press briefing today to announce the latest monetary policy decision.",
+      "duration": "1:59:43",
+      "about_this_result": {
+        "source": {
+          "description": "Mumbai: Reserve Bank of India Governor Sanjay Malhotra held a press briefing today to announce the latest monetary policy decision.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnVYNS1WNW4xcEI2TmkxS3F5RWNoTTdUNTlNSEpvZjFYVzN4Z0QwSURIdjdsaU92YkxqRnYxTnhKcXl3SnhERDVkMjliUnNQWXltRDBsX0tKc0UtSjlUMzJVcmhxYnN5cGtVU0l4aWhaLWxTT1R0MWoxempYWWRsbWIwUG9LQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnVYNS1WNW4xcEI2TmkxS3F5RWNoTTdUNTlNSEpvZjFYVzN4Z0QwSURIdjdsaU92YkxqRnYxTnhKcXl3SnhERDVkMjliUnNQWXltRDBsX0tKc0UtSjlUMzJVcmhxYnN5cGtVU0l4aWhaLWxTT1R0MWoxempYWWRsbWIwUG9LQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · The Hindu"
+    },
+    {
+      "position": 4,
+      "title": "August 6, 2025 Tune in as RBI Governor Shri Sanjay ...",
+      "link": "https://www.instagram.com/p/DM9bl-FPpqg/?hl=en",
+      "displayed_link": "720+ likes · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab367476c4c0cbbbd3c5aa1/images/vxsWPWSVRizZ3zmhCW2PNSX-HPJxxjXrz4jhgNdMDKY.jpeg",
+      "snippet": "August 6, 2025. Tune in as RBI Governor Shri Sanjay Malhotra presents the Monetary Policy Statement at 10:00 AM",
+      "about_this_result": {
+        "source": {
+          "description": "August 6, 2025. Tune in as RBI Governor Shri Sanjay Malhotra presents the Monetary Policy Statement at 10:00 AM",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkU1RU9fSGJzY3E4NW5VQmZZWFQ4dUpDOEQ4T3J6dFdVV0FXSlg5eVh3SnllVldVZzRrQkh5M1dLY1JFcFB6ZU9SSHVsWlZCeEJlVXM4SFRFbVl6YlM0dU5tSVhpWTV0cUY4dnFaeFRYTDBPOW40ZDV2RGdIWnhFZVNkR2c2dHZxbUESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkU1RU9fSGJzY3E4NW5VQmZZWFQ4dUpDOEQ4T3J6dFdVV0FXSlg5eVh3SnllVldVZzRrQkh5M1dLY1JFcFB6ZU9SSHVsWlZCeEJlVXM4SFRFbVl6YlM0dU5tSVhpWTV0cUY4dnFaeFRYTDBPOW40ZDV2RGdIWnhFZVNkR2c2dHZxbUESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Instagram · reservebankofindia"
+    },
+    {
+      "position": 5,
+      "title": "RBI Governor Sanjay Malhotra Unveils National Strategy ...",
+      "link": "https://newsonair.gov.in/rbi-governor-sanjay-malhotra-unveils-national-strategy-for-financial-inclusion-2025-30/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFUYTKgxOiOnk_3xm9pkzAqITue0Kacked9Sjr0rDRV735zoKcf57QgkHagFcf0QxRasGSK0LQ304QupM3b8VCOx-T14wcGlSYmsLNyY37tZcF984ICx5TD9scKKKeOmaOgAUgbA1wRQO0D0F0S4-z6i1OcY2gnDdeDmb4c-YKHzw7m9A3e2bS_gIAL0sNQN8injV00y8NOUCSEVL0WzGe2qUzwc&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://newsonair.gov.in › rbi-governor-sanjay-malhotr...",
+      "date": "Dec 1, 2025",
+      "snippet": "RBI Governor Sanjay Malhotra Unveils National Strategy for Financial Inclusion 2025-30 Site Admin | December 1, 2025",
+      "snippet_highlighted_words": [
+        "RBI Governor Sanjay Malhotra",
+        "2025",
+        "2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "RBI Governor Sanjay Malhotra Unveils National Strategy for Financial Inclusion 2025-30 Site Admin | December 1, 2025",
+          "source_info_link": "https://newsonair.gov.in/rbi-governor-sanjay-malhotra-unveils-national-strategy-for-financial-inclusion-2025-30/",
+          "icon": "https://serpapi.com/images/i/UklGRrwBAABXRUJQVlA4ILABAAAwCACdASocABwAPrUurVanIacnG_DgFolsAJ0zMuLVwFuA3l3eR58CwBWuXgC3hfuxO4_R_rrfSxQYcb5cr9YlpUQPW7CC2OSaAAD--Lp0g1A98HsT61tjVJzI1ch1BzeA-fyBoCejzhWT9nAzlyP6WPhJovN8dOa2u1s12iT-Tbi_8HTqkYLPY-6rwWXdZs2ygc6dQSYakH_wjIIdILotSXuTVE5_BvY63Azm9m3GRY-FVXEZFlyNiwHKdlLvBDI6XSgaTvvWnd3s9Y-EPT-y0qLU41e6S8RxugJsXBx-Tzi8MO8N11oWI-yyRX_B50nRy6fpqkk_t5gTCOf5Q6F00AVey0Olu5ZONzmU50vwntmTKMyFCzjVg8_vyoTajIAk57wZV0Rt3mq6ZAr0F28n7fo-sg61ZjQ7sTMPp6c0kYMtykMEIZPKA8W0GHzQhu4OstphWU2WCDGuiuzxV_mMxuOJAldJX4F3Gv-kf_6-suA4tFDn3OYxTKFKOi7z5aSXtZjCBcToBO1l9kKYbR0UTi3b1DfKQbRPgt83-2mg8sxTVuK6IeZloT-spBGAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZVWVRLZ3hPaU9ua18zeG05cGt6QXFJVHVlMEthY2tlZDlTanIwckRSVjczNXpvS2NmNTdRZ2tIYWdGY2YwUXhSYXNHU0swTFEzMDRRdXBNM2I4VkNPeC1UMTR3Y0dsU1ltc0xOeVkzN3RaY0Y5ODRJQ3g1VEQ5c2NLS0tlT21hT2dBVWdiQTF3UlFPMEQwRjBTNC16NmkxT2NZMmduRGRlRG1iNGMtWUtIenc3bTlBM2UyYlNfZ0lBTDBzTlFOOGlualYwMHk4Tk9VQ1NFVkwwV3pHZTJxVXp3YxIEGgIIABrVBhICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQK8GCAAQABgAIAAqIQoDcmJpFSyRu0AaC3JiaWdvdmVybm9yGghpdjtwO3JiaSo2Cghnb3Zlcm5vchXIHsZAGglnb3Zlcm5vcnMaC3JiaWdvdmVybm9yGg1pdjtwO2dvdmVybm9yKioKBnNhbmpheRXIHsZAGg5zYW5qYXltYWxob3RyYRoLaXY7cDtzYW5qYXkqLgoIbWFsaG90cmEVyB7GQBoOc2FuamF5bWFsaG90cmEaDWl2O3A7bWFsaG90cmEqYgoJYW5ub3VuY2VkFQAAAAAaCGFubm91bmNlGgxhbm5vdW5jZW1lbnQaCmFubm91bmNpbmcaCGRlY2xhcmVkGghyZWxlYXNlZBoIbGF1bmNoZWQaCHByb3Bvc2VkGgRuZXdzKiAKBWluZGlhFVIs1D4aB2luZGlhJ3MaCWluZGlhMjAyNSohCgQyMDI1FewaxkAaCWluZGlhMjAyNRoJaXY7bjsyMDI1MvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZVWVRLZ3hPaU9ua18zeG05cGt6QXFJVHVlMEthY2tlZDlTanIwckRSVjczNXpvS2NmNTdRZ2tIYWdGY2YwUXhSYXNHU0swTFEzMDRRdXBNM2I4VkNPeC1UMTR3Y0dsU1ltc0xOeVkzN3RaY0Y5ODRJQ3g1VEQ5c2NLS0tlT21hT2dBVWdiQTF3UlFPMEQwRjBTNC16NmkxT2NZMmduRGRlRG1iNGMtWUtIenc3bTlBM2UyYlNfZ0lBTDBzTlFOOGlualYwMHk4Tk9VQ1NFVkwwV3pHZTJxVXp3YzpFPGI-UkJJIEdvdmVybm9yIFNhbmpheSBNYWxob3RyYTwvYj4gVW52ZWlscyBOYXRpb25hbCBTdHJhdGVneSBmb3IgLi4uQokBPGI-UkJJIEdvdmVybm9yIFNhbmpheSBNYWxob3RyYTwvYj4gVW52ZWlscyBOYXRpb25hbCBTdHJhdGVneSBmb3IgRmluYW5jaWFsIEluY2x1c2lvbiA8Yj4yMDI1PC9iPi0zMCBTaXRlIEFkbWluIHwgRGVjZW1iZXIgMSwgPGI-MjAyNTwvYj4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZVWVRLZ3hPaU9ua18zeG05cGt6QXFJVHVlMEthY2tlZDlTanIwckRSVjczNXpvS2NmNTdRZ2tIYWdGY2YwUXhSYXNHU0swTFEzMDRRdXBNM2I4VkNPeC1UMTR3Y0dsU1ltc0xOeVkzN3RaY0Y5ODRJQ3g1VEQ5c2NLS0tlT21hT2dBVWdiQTF3UlFPMEQwRjBTNC16NmkxT2NZMmduRGRlRG1iNGMtWUtIenc3bTlBM2UyYlNfZ0lBTDBzTlFOOGlualYwMHk4Tk9VQ1NFVkwwV3pHZTJxVXp3YxIEGgIIABrVBhICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQK8GCAAQABgAIAAqIQoDcmJpFSyRu0AaC3JiaWdvdmVybm9yGghpdjtwO3JiaSo2Cghnb3Zlcm5vchXIHsZAGglnb3Zlcm5vcnMaC3JiaWdvdmVybm9yGg1pdjtwO2dvdmVybm9yKioKBnNhbmpheRXIHsZAGg5zYW5qYXltYWxob3RyYRoLaXY7cDtzYW5qYXkqLgoIbWFsaG90cmEVyB7GQBoOc2FuamF5bWFsaG90cmEaDWl2O3A7bWFsaG90cmEqYgoJYW5ub3VuY2VkFQAAAAAaCGFubm91bmNlGgxhbm5vdW5jZW1lbnQaCmFubm91bmNpbmcaCGRlY2xhcmVkGghyZWxlYXNlZBoIbGF1bmNoZWQaCHByb3Bvc2VkGgRuZXdzKiAKBWluZGlhFVIs1D4aB2luZGlhJ3MaCWluZGlhMjAyNSohCgQyMDI1FewaxkAaCWluZGlhMjAyNRoJaXY7bjsyMDI1MvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZVWVRLZ3hPaU9ua18zeG05cGt6QXFJVHVlMEthY2tlZDlTanIwckRSVjczNXpvS2NmNTdRZ2tIYWdGY2YwUXhSYXNHU0swTFEzMDRRdXBNM2I4VkNPeC1UMTR3Y0dsU1ltc0xOeVkzN3RaY0Y5ODRJQ3g1VEQ5c2NLS0tlT21hT2dBVWdiQTF3UlFPMEQwRjBTNC16NmkxT2NZMmduRGRlRG1iNGMtWUtIenc3bTlBM2UyYlNfZ0lBTDBzTlFOOGlualYwMHk4Tk9VQ1NFVkwwV3pHZTJxVXp3YzpFPGI-UkJJIEdvdmVybm9yIFNhbmpheSBNYWxob3RyYTwvYj4gVW52ZWlscyBOYXRpb25hbCBTdHJhdGVneSBmb3IgLi4uQokBPGI-UkJJIEdvdmVybm9yIFNhbmpheSBNYWxob3RyYTwvYj4gVW52ZWlscyBOYXRpb25hbCBTdHJhdGVneSBmb3IgRmluYW5jaWFsIEluY2x1c2lvbiA8Yj4yMDI1PC9iPi0zMCBTaXRlIEFkbWluIHwgRGVjZW1iZXIgMSwgPGI-MjAyNTwvYj4iAhABSABYAGgA",
+      "source": "News On AIR"
+    },
+    {
+      "position": 6,
+      "title": "Monetary Policy Statement by Shri Sanjay Malhotra, RBI ...",
+      "link": "https://www.youtube.com/watch?v=t0ImXCiUNck",
+      "displayed_link": "27.2K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3AFoJ0oGlOuBk6ZfGQx23WGRAbamMYDMH60UP3mSXbHszQE2dOvNUw&s",
+      "snippet": "Shri Sanjay Malhotra, RBI Governor- August 06, 2025, 10 am. The inaugural address by RBI Governor Shri Sanjay Malhotra at FIBAC.",
+      "duration": "25:47",
+      "about_this_result": {
+        "source": {
+          "description": "Shri Sanjay Malhotra, RBI Governor- August 06, 2025, 10 am. The inaugural address by RBI Governor Shri Sanjay Malhotra at FIBAC.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmtYUzJsT2hBazhkVUNXQWZDV0VpOTBUN1lqamVzQ3BiRjEyWUJSRjdjcDVPcFcwYnBaY2xURjFMMl9sMXVsRDlvSjdrODQ4SGZvY2FrQzV5VWJXTGFfS1FrZF9razloMWdfQVdjUDFoWF81TGdNaUVSUWNiQWtxRmRud1M0dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmtYUzJsT2hBazhkVUNXQWZDV0VpOTBUN1lqamVzQ3BiRjEyWUJSRjdjcDVPcFcwYnBaY2xURjFMMl9sMXVsRDlvSjdrODQ4SGZvY2FrQzV5VWJXTGFfS1FrZF9razloMWdfQVdjUDFoWF81TGdNaUVSUWNiQWtxRmRud1M0dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · Reserve Bank of India"
+    },
+    {
+      "position": 7,
+      "title": "Sanjay Malhotra Takes Charge As RBI Governor",
+      "link": "https://gfmag.com/economics-policy-regulation/sanjay-malhotra-reserve-bank-india-governor/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFYOmPI2IpzN6PyXdyXOfZmb9LgF7Ir-B0tcfaM3yWORU-wiRz39CfiC_q5IFfFRZebLmNAbB3xJc38Yh8liYeQJ-UjM4wilfHMXqcvpY47ofC6i52W-Hs6HJaLgrTKna3R85O4Vi-gi_jfA6LRkw9R_eGkO0eQUmsJlkeJS0Nr7VRLTseMVvdEhTs7BQEg&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://gfmag.com › Economics, Policy & Regulation",
+      "date": "Dec 26, 2024",
+      "snippet": "Sanjay Malhotra, a 56-year-old civil servant, has been appointed as the new governor of the RBI for the next three years, effective December 9, ...",
+      "snippet_highlighted_words": [
+        "Sanjay Malhotra, a 56-year-old civil servant"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sanjay Malhotra, a 56-year-old civil servant, has been appointed as the new governor of the RBI for the next three years, effective December 9, ...",
+          "source_info_link": "https://gfmag.com/economics-policy-regulation/sanjay-malhotra-reserve-bank-india-governor/",
+          "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAADwBgCdASocABwAPtEutFooIagoGAEAGglsALEfND4mgYgB6AHSifsQRrYv8_MSU7zPejYVQPKf4t2ZvhEcfxgAAP6dEJ8Jt4mkqTfcuHouNc2dRBR2e2zaxOOrH8ZtBXTYMihtqMjYmRxwoYxT-Tsq8Z-6d_3_44HGX50ax4L72udi6EnAJx5MkbNUXnzK3FP8dh4YB66us8M4uE2YOhGGnn5f1iq-nO_hapEEcWXUE2n-eQzi6WLInP9wcvynINCWl8_WPvncpCA-wXStIwwutb21S9kRF1aBJ8T1Ka8MBRXvw9L_ZtmX59VocMXe7Fc9tuykzE-PDfxlY_Sphl5wdd_dBjqPjB-neKPN6dQ6vEx_zeAB9MoqywyRFuED8GTeS9v6k3_XR7nvV4wT8YPrU1-dkOQ5gLTY7kHEyfeBPr_p_xAZz-Y4QvGNLAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZZT21QSTJJcHpONlB5WGR5WE9mWm1iOUxnRjdJci1CMHRjZmFNM3lXT1JVLXdpUnozOUNmaUNfcTVJRmZGUlplYkxtTkFiQjN4SmMzOFloOGxpWWVRSi1Vak00d2lsZkhNWHFjdnBZNDdvZkM2aTUyVy1IczZISmFMZ3JUS25hM1I4NU80VmktZ2lfamZBNkxSa3c5Ul9lR2tPMGVRVW1zSmxrZUpTME5yN1ZSTFRzZU1WdmRFaFRzN0JRRWcSBBoCCAAawwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCdBggAEAAYACAAKiEKA3JiaRUWv7VAGgtyYmlnb3Zlcm5vchoIaXY7cDtyYmkqNgoIZ292ZXJub3IVR5G6QBoJZ292ZXJub3JzGgtyYmlnb3Zlcm5vchoNaXY7cDtnb3Zlcm5vcioqCgZzYW5qYXkVZwKgQBoOc2FuamF5bWFsaG90cmEaC2l2O3A7c2FuamF5Ki4KCG1hbGhvdHJhFcZhx0AaDnNhbmpheW1hbGhvdHJhGg1pdjtwO21hbGhvdHJhKmIKCWFubm91bmNlZBUAAAAAGghhbm5vdW5jZRoMYW5ub3VuY2VtZW50Ggphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQaCGxhdW5jaGVkGghwcm9wb3NlZBoEbmV3cyogCgVpbmRpYRXCmg9AGgdpbmRpYSdzGglpbmRpYTIwMjUqIQoEMjAyNRWeNrs-GglpbmRpYTIwMjUaCWl2O247MjAyNTLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGWU9tUEkySXB6TjZQeVhkeVhPZlptYjlMZ0Y3SXItQjB0Y2ZhTTN5V09SVS13aVJ6MzlDZmlDX3E1SUZmRlJaZWJMbU5BYkIzeEpjMzhZaDhsaVllUUotVWpNNHdpbGZITVhxY3ZwWTQ3b2ZDNmk1MlctSHM2SEphTGdyVEtuYTNSODVPNFZpLWdpX2pmQTZMUmt3OVJfZUdrTzBlUVVtc0psa2VKUzBOcjdWUkxUc2VNVnZkRWhUczdCUUVnOjo8Yj5TYW5qYXkgTWFsaG90cmE8L2I-IFRha2VzIENoYXJnZSBBcyA8Yj5SQkkgR292ZXJub3I8L2I-Qp8BPGI-U2FuamF5IE1hbGhvdHJhLCBhIDU2LXllYXItb2xkIGNpdmlsIHNlcnZhbnQ8L2I-LCBoYXMgYmVlbiBhcHBvaW50ZWQgYXMgdGhlIG5ldyBnb3Zlcm5vciBvZiB0aGUgUkJJIGZvciB0aGUgbmV4dCB0aHJlZSB5ZWFycywgZWZmZWN0aXZlIERlY2VtYmVyIDksJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZZT21QSTJJcHpONlB5WGR5WE9mWm1iOUxnRjdJci1CMHRjZmFNM3lXT1JVLXdpUnozOUNmaUNfcTVJRmZGUlplYkxtTkFiQjN4SmMzOFloOGxpWWVRSi1Vak00d2lsZkhNWHFjdnBZNDdvZkM2aTUyVy1IczZISmFMZ3JUS25hM1I4NU80VmktZ2lfamZBNkxSa3c5Ul9lR2tPMGVRVW1zSmxrZUpTME5yN1ZSTFRzZU1WdmRFaFRzN0JRRWcSBBoCCAAawwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCdBggAEAAYACAAKiEKA3JiaRUWv7VAGgtyYmlnb3Zlcm5vchoIaXY7cDtyYmkqNgoIZ292ZXJub3IVR5G6QBoJZ292ZXJub3JzGgtyYmlnb3Zlcm5vchoNaXY7cDtnb3Zlcm5vcioqCgZzYW5qYXkVZwKgQBoOc2FuamF5bWFsaG90cmEaC2l2O3A7c2FuamF5Ki4KCG1hbGhvdHJhFcZhx0AaDnNhbmpheW1hbGhvdHJhGg1pdjtwO21hbGhvdHJhKmIKCWFubm91bmNlZBUAAAAAGghhbm5vdW5jZRoMYW5ub3VuY2VtZW50Ggphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQaCGxhdW5jaGVkGghwcm9wb3NlZBoEbmV3cyogCgVpbmRpYRXCmg9AGgdpbmRpYSdzGglpbmRpYTIwMjUqIQoEMjAyNRWeNrs-GglpbmRpYTIwMjUaCWl2O247MjAyNTLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGWU9tUEkySXB6TjZQeVhkeVhPZlptYjlMZ0Y3SXItQjB0Y2ZhTTN5V09SVS13aVJ6MzlDZmlDX3E1SUZmRlJaZWJMbU5BYkIzeEpjMzhZaDhsaVllUUotVWpNNHdpbGZITVhxY3ZwWTQ3b2ZDNmk1MlctSHM2SEphTGdyVEtuYTNSODVPNFZpLWdpX2pmQTZMUmt3OVJfZUdrTzBlUVVtc0psa2VKUzBOcjdWUkxUc2VNVnZkRWhUczdCUUVnOjo8Yj5TYW5qYXkgTWFsaG90cmE8L2I-IFRha2VzIENoYXJnZSBBcyA8Yj5SQkkgR292ZXJub3I8L2I-Qp8BPGI-U2FuamF5IE1hbGhvdHJhLCBhIDU2LXllYXItb2xkIGNpdmlsIHNlcnZhbnQ8L2I-LCBoYXMgYmVlbiBhcHBvaW50ZWQgYXMgdGhlIG5ldyBnb3Zlcm5vciBvZiB0aGUgUkJJIGZvciB0aGUgbmV4dCB0aHJlZSB5ZWFycywgZWZmZWN0aXZlIERlY2VtYmVyIDksJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Global Finance Magazine",
+      "read_more_link": "https://gfmag.com/economics-policy-regulation/sanjay-malhotra-reserve-bank-india-governor/#:~:text=Sanjay%20Malhotra%2C%20a%2056%2Dyear%2Dold%20civil,years%2C%20effective%20December%209%2C%202024."
+    },
+    {
+      "position": 8,
+      "title": "Coming up 🎙️Inaugural address by RBI Governor Shri ...",
+      "link": "https://www.instagram.com/p/DNuiG7f3pwB/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVXmpyZjxxFwJipPjAw4owaYpWUMDXxnF-HrVZUlr304BPxByOF4We6mct3MMrMx-gtDhtEm3tDAcvlW1lE4g-OHLIBa0VwWrFSJnc_nYrIV4SZZetn5EDKb9R4bu-CKeixQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQFnoECDoQAQ&uoh=1",
+      "displayed_link": "500+ likes · 1 year ago",
+      "snippet": "🎙️Inaugural address by RBI Governor Shri Sanjay Malhotra at FIBAC 2025 themed 'Charting New Frontiers' organised jointly by FICCI and IBA.",
+      "snippet_highlighted_words": [
+        "RBI Governor",
+        "Sanjay Malhotra",
+        "2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "🎙️Inaugural address by RBI Governor Shri Sanjay Malhotra at FIBAC 2025 themed 'Charting New Frontiers' organised jointly by FICCI and IBA.",
+          "source_info_link": "https://www.instagram.com/p/DNuiG7f3pwB/?hl=en",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlhtcHlaanh4RndKaXBQakF3NG93YVlwV1VNRFh4bkYtSHJWWlVscjMwNEJQeEJ5T0Y0V2U2bWN0M01Nck14LWd0RGh0RW0zdERBY3ZsVzFsRTRnLU9ITElCYTBWd1dyRlNKbmNfbllySVY0U1paZXRuNUVES2I5UjRidS1DS2VpeFESBBoCCAAamgYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA9gUIABAAGAAgACohCgNyYmkVl_-5QBoLcmJpZ292ZXJub3IaCGl2O3A7cmJpKjYKCGdvdmVybm9yFRewjkAaCWdvdmVybm9ycxoLcmJpZ292ZXJub3IaDWl2O3A7Z292ZXJub3IqKgoGc2FuamF5FYawYkAaDnNhbmpheW1hbGhvdHJhGgtpdjtwO3NhbmpheSouCghtYWxob3RyYRWGsGJAGg5zYW5qYXltYWxob3RyYRoNaXY7cDttYWxob3RyYSpiCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkGghsYXVuY2hlZBoIcHJvcG9zZWQaBG5ld3MqIAoFaW5kaWEVBTvjPxoHaW5kaWEncxoJaW5kaWEyMDI1KiEKBDIwMjUVY0dHQBoJaW5kaWEyMDI1GglpdjtuOzIwMjUymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWWG1weVpqeHhGd0ppcFBqQXc0b3dhWXBXVU1EWHhuRi1IclZaVWxyMzA0QlB4QnlPRjRXZTZtY3QzTU1yTXgtZ3REaHRFbTN0REFjdmxXMWxFNGctT0hMSUJhMFZ3V3JGU0puY19uWXJJVjRTWlpldG41RURLYjlSNGJ1LUNLZWl4UTpCQ29taW5nIHVwIPCfjpnvuI9JbmF1Z3VyYWwgYWRkcmVzcyBieSA8Yj5SQkkgR292ZXJub3I8L2I-IFNocmkgLi4uQqwB8J-Ome-4j0luYXVndXJhbCBhZGRyZXNzIGJ5IDxiPlJCSSBHb3Zlcm5vcjwvYj4gU2hyaSA8Yj5TYW5qYXkgTWFsaG90cmE8L2I-IGF0IEZJQkFDIDxiPjIwMjU8L2I-IHRoZW1lZCAmIzM5O0NoYXJ0aW5nIE5ldyBGcm9udGllcnMmIzM5OyBvcmdhbmlzZWQgam9pbnRseSBieSBGSUNDSSBhbmQgSUJBLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlhtcHlaanh4RndKaXBQakF3NG93YVlwV1VNRFh4bkYtSHJWWlVscjMwNEJQeEJ5T0Y0V2U2bWN0M01Nck14LWd0RGh0RW0zdERBY3ZsVzFsRTRnLU9ITElCYTBWd1dyRlNKbmNfbllySVY0U1paZXRuNUVES2I5UjRidS1DS2VpeFESBBoCCAAamgYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA9gUIABAAGAAgACohCgNyYmkVl_-5QBoLcmJpZ292ZXJub3IaCGl2O3A7cmJpKjYKCGdvdmVybm9yFRewjkAaCWdvdmVybm9ycxoLcmJpZ292ZXJub3IaDWl2O3A7Z292ZXJub3IqKgoGc2FuamF5FYawYkAaDnNhbmpheW1hbGhvdHJhGgtpdjtwO3NhbmpheSouCghtYWxob3RyYRWGsGJAGg5zYW5qYXltYWxob3RyYRoNaXY7cDttYWxob3RyYSpiCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkGghsYXVuY2hlZBoIcHJvcG9zZWQaBG5ld3MqIAoFaW5kaWEVBTvjPxoHaW5kaWEncxoJaW5kaWEyMDI1KiEKBDIwMjUVY0dHQBoJaW5kaWEyMDI1GglpdjtuOzIwMjUymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWWG1weVpqeHhGd0ppcFBqQXc0b3dhWXBXVU1EWHhuRi1IclZaVWxyMzA0QlB4QnlPRjRXZTZtY3QzTU1yTXgtZ3REaHRFbTN0REFjdmxXMWxFNGctT0hMSUJhMFZ3V3JGU0puY19uWXJJVjRTWlpldG41RURLYjlSNGJ1LUNLZWl4UTpCQ29taW5nIHVwIPCfjpnvuI9JbmF1Z3VyYWwgYWRkcmVzcyBieSA8Yj5SQkkgR292ZXJub3I8L2I-IFNocmkgLi4uQqwB8J-Ome-4j0luYXVndXJhbCBhZGRyZXNzIGJ5IDxiPlJCSSBHb3Zlcm5vcjwvYj4gU2hyaSA8Yj5TYW5qYXkgTWFsaG90cmE8L2I-IGF0IEZJQkFDIDxiPjIwMjU8L2I-IHRoZW1lZCAmIzM5O0NoYXJ0aW5nIE5ldyBGcm9udGllcnMmIzM5OyBvcmdhbmlzZWQgam9pbnRseSBieSBGSUNDSSBhbmQgSUJBLiICEAFIAFgAaAA",
+      "source": "Instagram · reservebankofindia",
+      "read_more_link": "https://www.instagram.com/p/DNuiG7f3pwB/?hl=en#:~:text=%F0%9F%8E%99%EF%B8%8FInaugural%20address%20by%20RBI%20Governor,%F0%9F%97%93%20August%2025%2C%202025"
+    },
+    {
+      "position": 9,
+      "title": "RBI Governor Sanjay Malhotra announces monetary policy",
+      "link": "https://www.youtube.com/watch?v=U1VIm7fXNuo",
+      "displayed_link": "930+ views · 11 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_Y22rPfmc7mUG6l16YlU5kG5N4fiQVBcYqfVb33BEV5c98RImKQXSQ&s",
+      "snippet": "The Reserve Bank of India, led by Governor Sanjay Malhotra, is scheduled to release its bi-monthly monetary policy statement.",
+      "duration": "1:19:08",
+      "about_this_result": {
+        "source": {
+          "description": "The Reserve Bank of India, led by Governor Sanjay Malhotra, is scheduled to release its bi-monthly monetary policy statement.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVll3WGhMWExvVG5TMXZoOS1VazRLVEp1SU04NVBMUURVdng4alByUnVKV2NCRk9uRTZCTjVmV0cweXdVaXpWZXZvYTc4Q3NfQV9RTm1kTnlWYXE0V3gyOEQtZl9tUVBIMnBpOW9WSC14b1FhZGpHQ0tKaDVlalBoM0VTNEtrQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVll3WGhMWExvVG5TMXZoOS1VazRLVEp1SU04NVBMUURVdng4alByUnVKV2NCRk9uRTZCTjVmV0cweXdVaXpWZXZvYTc4Q3NfQV9RTm1kTnlWYXE0V3gyOEQtZl9tUVBIMnBpOW9WSC14b1FhZGpHQ0tKaDVlalBoM0VTNEtrQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · The Hindu"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Current RBI Governor of India",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Current+RBI+Governor+of+India&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Current+RBI+Governor+of+India"
+    },
+    {
+      "block_position": 1,
+      "query": "RBI Governor of India raman",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=RBI+Governor+of+India+raman&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RBI+Governor+of+India+raman"
+    },
+    {
+      "block_position": 1,
+      "query": "Sanjay Malhotra net worth",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Sanjay+Malhotra+net+worth&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sanjay+Malhotra+net+worth"
+    },
+    {
+      "block_position": 1,
+      "query": "RBI Governor salary",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=RBI+Governor+salary&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RBI+Governor+salary"
+    },
+    {
+      "block_position": 1,
+      "query": "RBI Governor in 1990",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=RBI+Governor+in+1990&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RBI+Governor+in+1990"
+    },
+    {
+      "block_position": 1,
+      "query": "RBI Governors",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=RBI+Governors&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RBI+Governors"
+    },
+    {
+      "block_position": 1,
+      "query": "RBI Governor Ramanan",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=RBI+Governor+Ramanan&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RBI+Governor+Ramanan"
+    },
+    {
+      "block_position": 1,
+      "query": "RBI Governor Venkitaramanan",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=RBI+Governor+Venkitaramanan&sa=X&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=RBI+Governor+Venkitaramanan"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=10&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8NMDegQIKRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=10&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAE",
+      "3": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=20&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAG",
+      "4": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=30&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAI",
+      "5": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=40&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAK",
+      "6": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=50&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAM",
+      "7": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=60&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAO",
+      "8": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=70&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAQ",
+      "9": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=80&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAS",
+      "10": "https://www.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+2025&sca_esv=71d1dbb7a0502d97&ei=Umezaq62FN-OwbkP-8TTkQc&start=90&sa=N&sstk=AS6-VmIfpbjktoXjCzddJpY2lEO7DoNkDAsT9NPM4xf_9XOKTTo_tKNNi1rT-psKxLtKM1mfoQLMrpqYKUKzo8rUuJUFG2oC0sDJKQ&ved=2ahUKEwiup8Da_4OXAxVfRzABHXviNHIQ8tMDegQIKRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=rbi+governor+sanjay+malhotra+announced+india+2025&start=90"
+    }
+  }
+}

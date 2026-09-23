@@ -1,0 +1,331 @@
+{
+  "search_metadata": {
+    "id": "6ab2becdbcd927e8e51b4449",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/N8FoVtT638ZFSYLB145DYGL3zIJrgTpPgM2RhQxWtrc/6ab2becdbcd927e8e51b4449.json",
+    "markdown_endpoint": "https://serpapi.com/searches/N8FoVtT638ZFSYLB145DYGL3zIJrgTpPgM2RhQxWtrc/6ab2becdbcd927e8e51b4449.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/N8FoVtT638ZFSYLB145DYGL3zIJrgTpPgM2RhQxWtrc/6ab2becdbcd927e8e51b4449.json_with_pixel_position",
+    "created_at": "2026-09-22 17:45:49 UTC",
+    "processed_at": "2026-09-22 17:45:49 UTC",
+    "google_url": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&oq=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/N8FoVtT638ZFSYLB145DYGL3zIJrgTpPgM2RhQxWtrc/6ab2becdbcd927e8e51b4449.html",
+    "total_time_taken": 0.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "indian pakistani naval vessels collided india before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "indian pakistani naval vessels collided india before:2026-01-01",
+    "total_results": 101000,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Video shows celebrations on Pak warship after it hit INS Godavari",
+      "link": "https://www.youtube.com/watch?v=64eEQv6L8R8&xstg=CAMSBhUD-7L2Hw%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab2becdbcd927e8e51b4449/images/HDV3e2U7fPcgELQ2TNSYgSIs7jJ4uNKDDsvwX-dSaLk.jpeg",
+      "channel": "NDTV",
+      "duration": "1:18",
+      "platform": "YouTube",
+      "date": "Aug 4, 2011",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTUgGUWEjSKJVQT73DTNBh3CCBq3uwd7pNjhA"
+    },
+    {
+      "position": 2,
+      "title": "Pak ship PNS Babur at fault: Navy chief",
+      "link": "https://www.youtube.com/watch?v=9oiNXqvsKWs&xstg=CAMSBhUD-7L2Hw%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab2becdbcd927e8e51b4449/images/lG5i4jtfgD3e0KISlxzHo9TixjMGpmSTZrkaGXoiN3Q.jpeg",
+      "channel": "Times Now",
+      "duration": "2:21",
+      "platform": "YouTube",
+      "date": "Jun 24, 2011",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTC2EX4uEeYxAXdpFAlS1OwGdFgVGrlIFXkaw"
+    },
+    {
+      "position": 3,
+      "title": "The Indian Navy has saved 23 Pakistani nationals after their ...",
+      "link": "https://www.facebook.com/firstpostin/videos/indian-navy-conducts-daring-operation-rescues-23-pakistanis-from-pirates-vantage/949418199912775/",
+      "thumbnail": "https://serpapi.com/searches/6ab2becdbcd927e8e51b4449/images/2PwZ0eG8pSHOxfwclhz3d65X_Xl8GzB5vgHyPUTCUNA.jpeg",
+      "channel": "Firstpost",
+      "duration": "4:05",
+      "platform": "Facebook",
+      "date": "Apr 1, 2024",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRWoNCgHdSTS91rvRqTH5CvuB_NBuFV3GaMDg"
+    },
+    {
+      "position": 4,
+      "title": "India Today | Indian Navy Chief Admiral Dinesh K Tripathi on ...",
+      "link": "https://www.instagram.com/reel/DRwbNRfEiXB/",
+      "thumbnail": "https://serpapi.com/searches/6ab2becdbcd927e8e51b4449/images/72wNCBDh4ALOmS2KfD8RyLSe19rt9SGjn0qNNmDYWAI.jpeg",
+      "channel": "India Today",
+      "duration": "1:33",
+      "platform": "Instagram",
+      "date": "Dec 2, 2025"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "rDACbHiczZXbcuI4EIYfYJ9juCGLbc5OlWtKEgIcyEEhJENuKCEbYbAxWOaUu3mRvdqn2qdZ2ZzMMZm52NouCrXkVrst9-f_59-uMx7988dfgzCciFtFWSwWGe773LUzzPcUKlZjpvR9VwRs8F34s4DZjmWwQeB7dmo1N3IpJgw1ZTvGR6-4opNh-VHPLiYheVqyqV8k96k4hdHtUWEP5R2WQ6F0Ffk3-paryElGZOxx5nk0KXnT0P2wSCaranrmUaGeDAD_nWHCUTS2AL4SBID5pWyEAJntbr-A0DbB1ng04TIfihZR5J81EwMSjQ5e7wKPqO-9lQGo7TawywUnk0IeZ4JwvdhC4OJNz9v6Garbwq6FwqvLje3cTARey0c6h4XIw-tzCPebkpvl8iCxNbpYW_sFAPNPANUR8K8Vj3xQ8Qg0CbjWDHFkgNqLjd8EmjwhxeKycVWlF8hBUxw2YLETiKif0Yuu-rUsKg7uu2K-bGsQFWu46TBS8soFXQcK68k416eWbXUHXfV7PNeyWkHVc6XyTQwSEzuSRJKkChpW5rgwfgtGmWYGaluM0O580K7w-B_LAR2dezyFaBOBTi4BaILt20icDqkeBG53YwLunaM8bTvquvv9QiULQD4Zsc8brZ5idFxahBFox17sbto6mdKMmCT7DTurg1M7fesYbl4zrx1dIehwjkDLlAm2KY6-YVzih0wC1xhN8_GRLsBxUr4vkGwqggDHzxDZHpq1Z_IEb1geBI5aHiNZ2zPCz0R-1fg2GYy-dZtSnSP-E72Q7IqOvP0b_uKn79iqn4dE2Gx4OWr_JDZV_O6zV81qh2pnaHbmjBfVpTu8A8siOY-J7_V-QXHY_wqktR6ZGz26DJL5JZAIQZf1aO3u9SgCCXHOL4CE1yCd6FH9jB4dg4R5AqRP9OhXQTKvgQSvgtQ4B5J5BaRIjw5BGh3o0QFIez3agfQ7elT9TT2KubLXw6E4zYb8okjVqxoJK3Skay_vpXqt8NARs9JsZT_bLvlUpPpeeOtRy73pOtYtzN6FK-umKxf8W9tKTQ1nbDl0nJ7QkSNCOnbSYzqnbnpuC2G7Is1813Vk6nQcl-7ZfT-wb7NqtvinqslfynMD31Bp6Zm0Zoy6i9qDYBoBL2bDb7bbON8htN7_0SF3JGfT0JtaWt8k9rSgViqVF-3dHTyWSs2SJyajsIP1nrWYFxfvNTP_inMN867q9_Xly-R-0BIOqgvAysFM9Apmofvh8k7bC1CdDcmT14D6Q5m9xtUIo0RFi9a6JlyWU17ADNnMeQ4eCHjjkgfUkTrBQZv6clwAUisCgmFKMNq1xdygvZxezKv5HNV6ajZnpTweriZGXkuJcWBo_wJrn0lM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rDACbHiczZXbcuI4EIYfYJ9juCGLbc5OlWtKEgIcyEEhJENuKCEbYbAxWOaUu3mRvdqn2qdZ2ZzMMZm52NouCrXkVrst9-f_59-uMx7988dfgzCciFtFWSwWGe773LUzzPcUKlZjpvR9VwRs8F34s4DZjmWwQeB7dmo1N3IpJgw1ZTvGR6-4opNh-VHPLiYheVqyqV8k96k4hdHtUWEP5R2WQ6F0Ffk3-paryElGZOxx5nk0KXnT0P2wSCaranrmUaGeDAD_nWHCUTS2AL4SBID5pWyEAJntbr-A0DbB1ng04TIfihZR5J81EwMSjQ5e7wKPqO-9lQGo7TawywUnk0IeZ4JwvdhC4OJNz9v6Garbwq6FwqvLje3cTARey0c6h4XIw-tzCPebkpvl8iCxNbpYW_sFAPNPANUR8K8Vj3xQ8Qg0CbjWDHFkgNqLjd8EmjwhxeKycVWlF8hBUxw2YLETiKif0Yuu-rUsKg7uu2K-bGsQFWu46TBS8soFXQcK68k416eWbXUHXfV7PNeyWkHVc6XyTQwSEzuSRJKkChpW5rgwfgtGmWYGaluM0O580K7w-B_LAR2dezyFaBOBTi4BaILt20icDqkeBG53YwLunaM8bTvquvv9QiULQD4Zsc8brZ5idFxahBFox17sbto6mdKMmCT7DTurg1M7fesYbl4zrx1dIehwjkDLlAm2KY6-YVzih0wC1xhN8_GRLsBxUr4vkGwqggDHzxDZHpq1Z_IEb1geBI5aHiNZ2zPCz0R-1fg2GYy-dZtSnSP-E72Q7IqOvP0b_uKn79iqn4dE2Gx4OWr_JDZV_O6zV81qh2pnaHbmjBfVpTu8A8siOY-J7_V-QXHY_wqktR6ZGz26DJL5JZAIQZf1aO3u9SgCCXHOL4CE1yCd6FH9jB4dg4R5AqRP9OhXQTKvgQSvgtQ4B5J5BaRIjw5BGh3o0QFIez3agfQ7elT9TT2KubLXw6E4zYb8okjVqxoJK3Skay_vpXqt8NARs9JsZT_bLvlUpPpeeOtRy73pOtYtzN6FK-umKxf8W9tKTQ1nbDl0nJ7QkSNCOnbSYzqnbnpuC2G7Is1813Vk6nQcl-7ZfT-wb7NqtvinqslfynMD31Bp6Zm0Zoy6i9qDYBoBL2bDb7bbON8htN7_0SF3JGfT0JtaWt8k9rSgViqVF-3dHTyWSs2SJyajsIP1nrWYFxfvNTP_inMN867q9_Xly-R-0BIOqgvAysFM9Apmofvh8k7bC1CdDcmT14D6Q5m9xtUIo0RFi9a6JlyWU17ADNnMeQ4eCHjjkgfUkTrBQZv6clwAUisCgmFKMNq1xdygvZxezKv5HNV6ajZnpTweriZGXkuJcWBo_wJrn0lM"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "India's navy dominates the Indian Ocean with nearly 300 ships ...",
+      "link": "https://www.facebook.com/TheCSRJournal/videos/indias-navy-dominates-the-indian-ocean-with-nearly-300-ships-two-aircraft-carrie/1237840875068289/",
+      "displayed_link": "2 reactions · 9 months ago",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAJQAAABTCAMAAABOD97qAAAAA1BMVEUAAACnej3aAAAAIklEQVRoge3BAQEAAACCIP-vbkhAAQAAAAAAAAAAAAAAZwYwTwABNLMZvQAAAABJRU5ErkJggg.png",
+      "snippet": "A Pakistani naval vessel, PNS Hunain, collided with an Indian Navy warship in international. 02:58. A Pakistani naval vessel, PNS Hunain, collided with an India ...",
+      "duration": "1:45",
+      "about_this_result": {
+        "source": {
+          "description": "A Pakistani naval vessel, PNS Hunain, collided with an Indian Navy warship in international. 02:58. A Pakistani naval vessel, PNS Hunain, collided with an India ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZlODktSmZhNzQwbkFOZERYVGdxLVJNQnZnZjVMM1VvdWxoNFZyWDFjdURDbmpDWjBuS2hYNENLaUY5Ulg0R1pnLUU0Umo0am9hYkt3cEgtR1lNTC10TFJsUjJVV3RLVzJTVXdWb3pqc1dUT01iamJVY3BqSEwycFUwdHJzd2pBZ0U3N0kwQkJZa3hGQ1l5Y1pwX1V2aFhZZGV1elk5eXBqOWd5YkIxQ0N5R1NHX2dBQjFZT0dpWEY0ckl5eWo1U1VGSGJUNU1jME1JNFZwa2NEVUxQdk5rNFozV2ZlTmxxUkJnV0FjRTNFOGszSHRJRS1LV0hwZlIwTVRnMkdneklTOHdXMHhjEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZlODktSmZhNzQwbkFOZERYVGdxLVJNQnZnZjVMM1VvdWxoNFZyWDFjdURDbmpDWjBuS2hYNENLaUY5Ulg0R1pnLUU0Umo0am9hYkt3cEgtR1lNTC10TFJsUjJVV3RLVzJTVXdWb3pqc1dUT01iamJVY3BqSEwycFUwdHJzd2pBZ0U3N0kwQkJZa3hGQ1l5Y1pwX1V2aFhZZGV1elk5eXBqOWd5YkIxQ0N5R1NHX2dBQjFZT0dpWEY0ckl5eWo1U1VGSGJUNU1jME1JNFZwa2NEVUxQdk5rNFozV2ZlTmxxUkJnV0FjRTNFOGszSHRJRS1LV0hwZlIwTVRnMkdneklTOHdXMHhjEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · The CSR Journal"
+    },
+    {
+      "position": 2,
+      "title": "Collision of Indian and Pakistani naval vessels",
+      "link": "https://thediplomat.com/tag/collision-of-indian-and-pakistani-naval-vessels/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFZ_smatSB4shfEwl1lHGx63qDTAcR_epjA7IyvLD-A1pvq71IuOdY7DQbkgWGCCUAYyXKfNUk6kaKRKA7tXiWw13UEby71e-6an54deaOo56O6EsiRrxw4WEEcwsIwEfJMcSEZoRMxU6J7t6A99Leh5IQYa9jzb0LXzR2bYkCnc&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0QFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://thediplomat.com › tag › collision-of-indian-and-p...",
+      "date": "May 15, 2025",
+      "snippet": "This is the first time since the May 2025 military clashes that tension between the two sides has erupted into the open. Page 1 of 1 ...",
+      "about_this_result": {
+        "source": {
+          "description": "This is the first time since the May 2025 military clashes that tension between the two sides has erupted into the open. Page 1 of 1 ...",
+          "source_info_link": "https://thediplomat.com/tag/collision-of-indian-and-pakistani-naval-vessels/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAWklEQVR4AWMY5ODdu3f_kQCQW15eTkDP3bt3gUpDQ0OB7N27dwPZQBKfhjNnzsA0IOxMS0sjSgPcko6ODhpogHsJp5MwVQCDCOJpYoMVqBkUrIMfnCEJkaEBAPd4jz6z1CdPAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZaX3NtYXRTQjRzaGZFd2wxbEhHeDYzcURUQWNSX2VwakE3SXl2TEQtQTFwdnE3MUl1T2RZN0RRYmtnV0dDQ1VBWXlYS2ZOVWs2a2FLUktBN3RYaVd3MTNVRWJ5NzFlLTZhbjU0ZGVhT281Nk82RXNpUnJ4dzRXRUVjd3NJd0VmSk1jU0Vab1JNeFU2Sjd0NkE5OUxlaDVJUVlhOWp6YjBMWHpSMmJZa0NuYxIEGgIIABqgBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKh4KBmluZGlhbhXQcs5AGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFQMcy0AaCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVAxzLQBoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUDHMtAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFQAAAAAaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEV6IcxPxoHaW5kaWEnczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWl9zbWF0U0I0c2hmRXdsMWxIR3g2M3FEVEFjUl9lcGpBN0l5dkxELUExcHZxNzFJdU9kWTdEUWJrZ1dHQ0NVQVl5WEtmTlVrNmthS1JLQTd0WGlXdzEzVUVieTcxZS02YW41NGRlYU9vNTZPNkVzaVJyeHc0V0VFY3dzSXdFZkpNY1NFWm9STXhVNko3dDZBOTlMZWg1SVFZYTlqemIwTFh6UjJiWWtDbmM6UzxiPkNvbGxpc2lvbjwvYj4gb2YgPGI-SW5kaWFuPC9iPiBhbmQgPGI-UGFraXN0YW5pIG5hdmFsIHZlc3NlbHM8L2I-IC0gVGhlIERpcGxvbWF0Qo0BVGhpcyBpcyB0aGUgZmlyc3QgdGltZSBzaW5jZSB0aGUgTWF5IDIwMjUgbWlsaXRhcnkgY2xhc2hlcyB0aGF0IHRlbnNpb24gYmV0d2VlbiB0aGUgdHdvIHNpZGVzIGhhcyBlcnVwdGVkIGludG8gdGhlIG9wZW4uIFBhZ2UgMSBvZiAxJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZaX3NtYXRTQjRzaGZFd2wxbEhHeDYzcURUQWNSX2VwakE3SXl2TEQtQTFwdnE3MUl1T2RZN0RRYmtnV0dDQ1VBWXlYS2ZOVWs2a2FLUktBN3RYaVd3MTNVRWJ5NzFlLTZhbjU0ZGVhT281Nk82RXNpUnJ4dzRXRUVjd3NJd0VmSk1jU0Vab1JNeFU2Sjd0NkE5OUxlaDVJUVlhOWp6YjBMWHpSMmJZa0NuYxIEGgIIABqgBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKh4KBmluZGlhbhXQcs5AGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFQMcy0AaCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVAxzLQBoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUDHMtAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFQAAAAAaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEV6IcxPxoHaW5kaWEnczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWl9zbWF0U0I0c2hmRXdsMWxIR3g2M3FEVEFjUl9lcGpBN0l5dkxELUExcHZxNzFJdU9kWTdEUWJrZ1dHQ0NVQVl5WEtmTlVrNmthS1JLQTd0WGlXdzEzVUVieTcxZS02YW41NGRlYU9vNTZPNkVzaVJyeHc0V0VFY3dzSXdFZkpNY1NFWm9STXhVNko3dDZBOTlMZWg1SVFZYTlqemIwTFh6UjJiWWtDbmM6UzxiPkNvbGxpc2lvbjwvYj4gb2YgPGI-SW5kaWFuPC9iPiBhbmQgPGI-UGFraXN0YW5pIG5hdmFsIHZlc3NlbHM8L2I-IC0gVGhlIERpcGxvbWF0Qo0BVGhpcyBpcyB0aGUgZmlyc3QgdGltZSBzaW5jZSB0aGUgTWF5IDIwMjUgbWlsaXRhcnkgY2xhc2hlcyB0aGF0IHRlbnNpb24gYmV0d2VlbiB0aGUgdHdvIHNpZGVzIGhhcyBlcnVwdGVkIGludG8gdGhlIG9wZW4uIFBhZ2UgMSBvZiAxJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "read_more_link": "https://thediplomat.com/tag/collision-of-indian-and-pakistani-naval-vessels/#:~:text=This%20is%20the%20first%20time,Page%201%20of%201"
+    },
+    {
+      "position": 3,
+      "title": "The vulnerability of Pakistani seafarers in global conflicts. ...",
+      "link": "https://www.instagram.com/p/DPJjuXCD-JK/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVBzgm0lbXyPv9L8-T1DsRPTpmw2c8g-x5HJ-aos3XEU7us333YyBOn9cuxyPPRBciC4DhnjaCk3WeLlQQNa74mPBu9j1-WW9wS_FDzkhX9G9d47JmWn321EHGoA&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0QFnoECCgQAQ&uoh=1",
+      "displayed_link": "230+ likes",
+      "snippet": "An Indian and Pakistani naval ship collided in the Arabian Sea on September 15, and India has called Pakistan's conduct a violation of the 1991 agreement ...",
+      "snippet_highlighted_words": [
+        "Indian",
+        "Pakistani naval ship collided",
+        "India"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "An Indian and Pakistani naval ship collided in the Arabian Sea on September 15, and India has called Pakistan's conduct a violation of the 1991 agreement ...",
+          "source_info_link": "https://www.instagram.com/p/DPJjuXCD-JK/",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkJ6Z20wbGJYeVB2OUw4LVQxRHNSUFRwbXcyYzhnLXg1SEotYW9zM1hFVTd1czMzM1l5Qk9uOWN1eHlQUFJCY2lDNERobmphQ2szV2VMbFFRTmE3NG1QQnU5ajEtV1c5d1NfRkR6a2hYOUc5ZDQ3Sm1XbjMyMUVIR29BEgQaAggAGpEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQO0FCAAQABgAIAAqHgoGaW5kaWFuFa0eRUAaD2luZGlhbnBha2lzdGFuaSo9CglwYWtpc3RhbmkVy6WVQBoKcGFraXN0YW5pcxoPaW5kaWFucGFraXN0YW5pGg5pdjtwO3Bha2lzdGFuaSoiCgVuYXZhbBVnHy1AGghtYXJpdGltZRoKaXY7cDtuYXZhbCpoCgd2ZXNzZWxzFZsekT8aBWJvYXRzGgpkZXN0cm95ZXJzGgVmbGVldBoIZnJpZ2F0ZXMaBHNoaXAaBXNoaXBzGgZ2ZXNzZWwaB3dhcnNoaXAaCHdhcnNoaXBzGgxpdjtwO3Zlc3NlbHMqRQoIY29sbGlkZWQVDTC8PxoHY29sbGlkZRoIY29sbGlkZXMaCWNvbGxpc2lvbhoHY3Jhc2hlZBoNaXY7cDtjb2xsaWRlZCoVCgVpbmRpYRUDr4NAGgdpbmRpYSdzMpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkJ6Z20wbGJYeVB2OUw4LVQxRHNSUFRwbXcyYzhnLXg1SEotYW9zM1hFVTd1czMzM1l5Qk9uOWN1eHlQUFJCY2lDNERobmphQ2szV2VMbFFRTmE3NG1QQnU5ajEtV1c5d1NfRkR6a2hYOUc5ZDQ3Sm1XbjMyMUVIR29BOkdUaGUgdnVsbmVyYWJpbGl0eSBvZiA8Yj5QYWtpc3Rhbmk8L2I-IHNlYWZhcmVycyBpbiBnbG9iYWwgY29uZmxpY3RzIC4uLkK7AUFuIDxiPkluZGlhbjwvYj4gYW5kIDxiPlBha2lzdGFuaSBuYXZhbCBzaGlwIGNvbGxpZGVkPC9iPiBpbiB0aGUgQXJhYmlhbiBTZWEgb24gU2VwdGVtYmVyIDE1LCBhbmQgPGI-SW5kaWE8L2I-IGhhcyBjYWxsZWQgUGFraXN0YW4mIzM5O3MgY29uZHVjdCBhIHZpb2xhdGlvbiBvZiB0aGUgMTk5MSBhZ3JlZW1lbnQmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkJ6Z20wbGJYeVB2OUw4LVQxRHNSUFRwbXcyYzhnLXg1SEotYW9zM1hFVTd1czMzM1l5Qk9uOWN1eHlQUFJCY2lDNERobmphQ2szV2VMbFFRTmE3NG1QQnU5ajEtV1c5d1NfRkR6a2hYOUc5ZDQ3Sm1XbjMyMUVIR29BEgQaAggAGpEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQO0FCAAQABgAIAAqHgoGaW5kaWFuFa0eRUAaD2luZGlhbnBha2lzdGFuaSo9CglwYWtpc3RhbmkVy6WVQBoKcGFraXN0YW5pcxoPaW5kaWFucGFraXN0YW5pGg5pdjtwO3Bha2lzdGFuaSoiCgVuYXZhbBVnHy1AGghtYXJpdGltZRoKaXY7cDtuYXZhbCpoCgd2ZXNzZWxzFZsekT8aBWJvYXRzGgpkZXN0cm95ZXJzGgVmbGVldBoIZnJpZ2F0ZXMaBHNoaXAaBXNoaXBzGgZ2ZXNzZWwaB3dhcnNoaXAaCHdhcnNoaXBzGgxpdjtwO3Zlc3NlbHMqRQoIY29sbGlkZWQVDTC8PxoHY29sbGlkZRoIY29sbGlkZXMaCWNvbGxpc2lvbhoHY3Jhc2hlZBoNaXY7cDtjb2xsaWRlZCoVCgVpbmRpYRUDr4NAGgdpbmRpYSdzMpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkJ6Z20wbGJYeVB2OUw4LVQxRHNSUFRwbXcyYzhnLXg1SEotYW9zM1hFVTd1czMzM1l5Qk9uOWN1eHlQUFJCY2lDNERobmphQ2szV2VMbFFRTmE3NG1QQnU5ajEtV1c5d1NfRkR6a2hYOUc5ZDQ3Sm1XbjMyMUVIR29BOkdUaGUgdnVsbmVyYWJpbGl0eSBvZiA8Yj5QYWtpc3Rhbmk8L2I-IHNlYWZhcmVycyBpbiBnbG9iYWwgY29uZmxpY3RzIC4uLkK7AUFuIDxiPkluZGlhbjwvYj4gYW5kIDxiPlBha2lzdGFuaSBuYXZhbCBzaGlwIGNvbGxpZGVkPC9iPiBpbiB0aGUgQXJhYmlhbiBTZWEgb24gU2VwdGVtYmVyIDE1LCBhbmQgPGI-SW5kaWE8L2I-IGhhcyBjYWxsZWQgUGFraXN0YW4mIzM5O3MgY29uZHVjdCBhIHZpb2xhdGlvbiBvZiB0aGUgMTk5MSBhZ3JlZW1lbnQmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Instagram · thedefenceaspirantacademy",
+      "read_more_link": "https://www.instagram.com/p/DPJjuXCD-JK/#:~:text=An%20Indian%20and%20Pakistani%20naval,agreement%20between%20the%20two%20countries."
+    },
+    {
+      "position": 4,
+      "title": "List of Indian Naval accidents",
+      "link": "https://en.wikipedia.org/wiki/List_of_Indian_Naval_accidents",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAV6H2ElWYjP9GitftgALAOx-aKSXLaF_01oNRa-ZQ026DmX3G4tsVGLt4giwz5WhE3o7gf3mBd7brDi868_lWtF1JdKO-mRtFNhwDTEmaxcYGrYoAr9y6gG5u6H1KGbKan3t991hRBZvqxi4IIQ3-t&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0QFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › List_of_Indian_Naval...",
+      "date": "Jan 15, 2022",
+      "snippet": "September 2006: INS Dunagiri, a Nilgiri-class frigate, collided with a Shipping Corporation of India merchant vessel, MV Kiti, off the coast of Mumbai.",
+      "snippet_highlighted_words": [
+        "collided",
+        "India",
+        "vessel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "September 2006: INS Dunagiri, a Nilgiri-class frigate, collided with a Shipping Corporation of India merchant vessel, MV Kiti, off the coast of Mumbai.",
+          "source_info_link": "https://en.wikipedia.org/wiki/List_of_Indian_Naval_accidents",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVjZIMkVsV1lqUDlHaXRmdGdBTEFPeC1hS1NYTGFGXzAxb05SYS1aUTAyNkRtWDNHNHRzVkdMdDRnaXd6NVdoRTNvN2dmM21CZDdickRpODY4X2xXdEYxSmRLTy1tUnRGTmh3RFRFbWF4Y1lHcllvQXI5eTZnRzV1NkgxS0diS2FuM3Q5OTFoUkJadnF4aTRJSVEzLXQSBBoCCAAaiAYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDiBQgAEAAYACAAKh4KBmluZGlhbhU3XVJAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFS8ghD0aCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVhGY5QBoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUAAAAAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFWxrUDwaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEVr-SwPxoHaW5kaWEnczKqAS9nb3RvP3VybD1DQUVTZEFIck96QVY2SDJFbFdZalA5R2l0ZnRnQUxBT3gtYUtTWExhRl8wMW9OUmEtWlEwMjZEbVgzRzR0c1ZHTHQ0Z2l3ejVXaEUzbzdnZjNtQmQ3YnJEaTg2OF9sV3RGMUpkS08tbVJ0Rk5od0RURW1heGNZR3JZb0FyOXk2Z0c1dTZIMUtHYkthbjN0OTkxaFJCWnZxeGk0SUlRMy10OjFMaXN0IG9mIDxiPkluZGlhbiBOYXZhbDwvYj4gYWNjaWRlbnRzIC0gV2lraXBlZGlhQqwBU2VwdGVtYmVyIDIwMDY6IElOUyBEdW5hZ2lyaSwgYSBOaWxnaXJpLWNsYXNzIGZyaWdhdGUsIDxiPmNvbGxpZGVkPC9iPiB3aXRoIGEgU2hpcHBpbmcgQ29ycG9yYXRpb24gb2YgPGI-SW5kaWE8L2I-IG1lcmNoYW50IDxiPnZlc3NlbDwvYj4sIE1WIEtpdGksIG9mZiB0aGUgY29hc3Qgb2YgTXVtYmFpLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVjZIMkVsV1lqUDlHaXRmdGdBTEFPeC1hS1NYTGFGXzAxb05SYS1aUTAyNkRtWDNHNHRzVkdMdDRnaXd6NVdoRTNvN2dmM21CZDdickRpODY4X2xXdEYxSmRLTy1tUnRGTmh3RFRFbWF4Y1lHcllvQXI5eTZnRzV1NkgxS0diS2FuM3Q5OTFoUkJadnF4aTRJSVEzLXQSBBoCCAAaiAYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDiBQgAEAAYACAAKh4KBmluZGlhbhU3XVJAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFS8ghD0aCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVhGY5QBoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUAAAAAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFWxrUDwaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEVr-SwPxoHaW5kaWEnczKqAS9nb3RvP3VybD1DQUVTZEFIck96QVY2SDJFbFdZalA5R2l0ZnRnQUxBT3gtYUtTWExhRl8wMW9OUmEtWlEwMjZEbVgzRzR0c1ZHTHQ0Z2l3ejVXaEUzbzdnZjNtQmQ3YnJEaTg2OF9sV3RGMUpkS08tbVJ0Rk5od0RURW1heGNZR3JZb0FyOXk2Z0c1dTZIMUtHYkthbjN0OTkxaFJCWnZxeGk0SUlRMy10OjFMaXN0IG9mIDxiPkluZGlhbiBOYXZhbDwvYj4gYWNjaWRlbnRzIC0gV2lraXBlZGlhQqwBU2VwdGVtYmVyIDIwMDY6IElOUyBEdW5hZ2lyaSwgYSBOaWxnaXJpLWNsYXNzIGZyaWdhdGUsIDxiPmNvbGxpZGVkPC9iPiB3aXRoIGEgU2hpcHBpbmcgQ29ycG9yYXRpb24gb2YgPGI-SW5kaWE8L2I-IG1lcmNoYW50IDxiPnZlc3NlbDwvYj4sIE1WIEtpdGksIG9mZiB0aGUgY29hc3Qgb2YgTXVtYmFpLiICEAFIAFgAaAA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/List_of_Indian_Naval_accidents#:~:text=September%202006%3A%20INS%20Dunagiri%2C%20a,off%20the%20coast%20of%20Mumbai."
+    },
+    {
+      "position": 5,
+      "title": "Pakistani Navy ship collides with Indian warship off Oman",
+      "link": "http://indiatraveltimes.com/travel/travel-features-news.php?mid=3956",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVLX55M3LZ8WC5bvJFbS9Ufw02rKz99PwQwhFBRLSNr1gDiB8MLO8lhM_9RKgoQgq9T52j3TrqyqvGSaT1t1_uYfXHRb_r3xo48sj_r0cQJHLjZaWutR5CsMZkzOXTx16nFXwutsJ2gLhNXQiksmJex4Pa2hkgK4o&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0QFnoECDQQAQ&uoh=1",
+      "displayed_link": "http://indiatraveltimes.com › travel › travel-features-news",
+      "date": "Jul 15, 2024",
+      "snippet": "A Pakistani Navy ship, a PNS Hunain, collided with Indian Navy frontline warship INS Kolkata 220 km east of Oman coast in North Arabian Sea on Tuesday.",
+      "snippet_highlighted_words": [
+        "collided with Indian Navy frontline warship INS Kolkata"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A Pakistani Navy ship, a PNS Hunain, collided with Indian Navy frontline warship INS Kolkata 220 km east of Oman coast in North Arabian Sea on Tuesday.",
+          "source_info_link": "http://indiatraveltimes.com/travel/travel-features-news.php?mid=3956"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkxYNTVNM0xaOFdDNWJ2SkZiUzlVZncwMnJLejk5UHdRd2hGQlJMU05yMWdEaUI4TUxPOGxoTV85Uktnb1FncTlUNTJqM1RycXlxdkdTYVQxdDFfdVlmWEhSYl9yM3hvNDhzal9yMGNRSkhMalphV3V0UjVDc01aa3pPWFR4MTZuRlh3dXRzSjJnTGhOWFFpa3NtSmV4NFBhMmhrZ0s0bxIEGgIIABqgBhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKh4KBmluZGlhbhWRhrRAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFbtup0AaCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVhz4tPxoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUAAAAAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFdW0mz8aB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEV66W5PxoHaW5kaWEnczK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZMWDU1TTNMWjhXQzVidkpGYlM5VWZ3MDJyS3o5OVB3UXdoRkJSTFNOcjFnRGlCOE1MTzhsaE1fOVJLZ29RZ3E5VDUyajNUcnF5cXZHU2FUMXQxX3VZZlhIUmJfcjN4bzQ4c2pfcjBjUUpITGpaYVd1dFI1Q3NNWmt6T1hUeDE2bkZYd3V0c0oyZ0xoTlhRaWtzbUpleDRQYTJoa2dLNG86TjxiPlBha2lzdGFuaTwvYj4gTmF2eSA8Yj5zaGlwIGNvbGxpZGVzPC9iPiB3aXRoIDxiPkluZGlhbiB3YXJzaGlwPC9iPiBvZmYgT21hbkKeAUEgUGFraXN0YW5pIE5hdnkgc2hpcCwgYSBQTlMgSHVuYWluLCA8Yj5jb2xsaWRlZCB3aXRoIEluZGlhbiBOYXZ5IGZyb250bGluZSB3YXJzaGlwIElOUyBLb2xrYXRhPC9iPiAyMjAga20gZWFzdCBvZiBPbWFuIGNvYXN0IGluIE5vcnRoIEFyYWJpYW4gU2VhIG9uIFR1ZXNkYXkuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkxYNTVNM0xaOFdDNWJ2SkZiUzlVZncwMnJLejk5UHdRd2hGQlJMU05yMWdEaUI4TUxPOGxoTV85Uktnb1FncTlUNTJqM1RycXlxdkdTYVQxdDFfdVlmWEhSYl9yM3hvNDhzal9yMGNRSkhMalphV3V0UjVDc01aa3pPWFR4MTZuRlh3dXRzSjJnTGhOWFFpa3NtSmV4NFBhMmhrZ0s0bxIEGgIIABqgBhIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKh4KBmluZGlhbhWRhrRAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFbtup0AaCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVhz4tPxoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUAAAAAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFdW0mz8aB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEV66W5PxoHaW5kaWEnczK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZMWDU1TTNMWjhXQzVidkpGYlM5VWZ3MDJyS3o5OVB3UXdoRkJSTFNOcjFnRGlCOE1MTzhsaE1fOVJLZ29RZ3E5VDUyajNUcnF5cXZHU2FUMXQxX3VZZlhIUmJfcjN4bzQ4c2pfcjBjUUpITGpaYVd1dFI1Q3NNWmt6T1hUeDE2bkZYd3V0c0oyZ0xoTlhRaWtzbUpleDRQYTJoa2dLNG86TjxiPlBha2lzdGFuaTwvYj4gTmF2eSA8Yj5zaGlwIGNvbGxpZGVzPC9iPiB3aXRoIDxiPkluZGlhbiB3YXJzaGlwPC9iPiBvZmYgT21hbkKeAUEgUGFraXN0YW5pIE5hdnkgc2hpcCwgYSBQTlMgSHVuYWluLCA8Yj5jb2xsaWRlZCB3aXRoIEluZGlhbiBOYXZ5IGZyb250bGluZSB3YXJzaGlwIElOUyBLb2xrYXRhPC9iPiAyMjAga20gZWFzdCBvZiBPbWFuIGNvYXN0IGluIE5vcnRoIEFyYWJpYW4gU2VhIG9uIFR1ZXNkYXkuIgIQAUgAWABoAA",
+      "source": "indiatraveltimes.com"
+    },
+    {
+      "position": 6,
+      "title": "FACT CHECK: Did a Pakistan Navy ship intercept, damage ...",
+      "link": "https://timesofindia.indiatimes.com/times-fact-check/news/fact-check-did-a-pakistan-navy-ship-intercept-damage-an-indian-ship-recently/articleshow/75229829.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2AEB6zswFdTxzsBfRH0eodEFrmGK8LAmOik-_APTgfVfqpURO6NUyVWXuQgDOUMGJA3LYJ2Z7ba_BO8T7Kbb2UkysDqd_XRgtCXWkpdGRYgELy_bLZJEbLDWZ1lP_in8_BBAIwwIsUVfZLSTHaLdEbZRS91hr94yrwIPf_BrLWKwlEkm_NqEs2h6zxI9kYgnaxs5o3EQ5uGFp_S5F6iMfFEGkhg31x-xPiPcG7Oc-WlU6E_an0nVMXC7RfpgFYagp4avznpmCXMDA7oLb9RDAzDznxOLXPHLKoE&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0QFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://timesofindia.indiatimes.com › news › articleshow",
+      "date": "Apr 19, 2020",
+      "snippet": "A Pakistan Navy ship did damage an Indian vessel in a gross violation of regulations in 2011. Indian Navy's INS Godavari (not Talwar as claimed in the message) ...",
+      "snippet_highlighted_words": [
+        "ship",
+        "Indian vessel",
+        "Indian"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A Pakistan Navy ship did damage an Indian vessel in a gross violation of regulations in 2011. Indian Navy's INS Godavari (not Talwar as claimed in the message) ...",
+          "source_info_link": "https://timesofindia.indiatimes.com/times-fact-check/news/fact-check-did-a-pakistan-navy-ship-intercept-damage-an-indian-ship-recently/articleshow/75229829.cms",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrECL2dvdG8_dXJsPUNBRVMyQUVCNnpzd0ZkVHh6c0JmUkgwZW9kRUZybUdLOExBbU9pay1fQVBUZ2ZWZnFwVVJPNk5VeVZXWHVRZ0RPVU1HSkEzTFlKMlo3YmFfQk84VDdLYmIyVWt5c0RxZF9YUmd0Q1hXa3BkR1JZZ0VMeV9iTFpKRWJMRFdaMWxQX2luOF9CQkFJd3dJc1VWZlpMU1RIYUxkRWJaUlM5MWhyOTR5cndJUGZfQnJMV0t3bEVrbV9OcUVzMmg2enhJOWtZZ25heHM1bzNFUTV1R0ZwX1M1RjZpTWZGRUdraGczMXgteFBpUGNHN09jLVdsVTZFX2FuMG5WTVhDN1JmcGdGWWFncDRhdnpucG1DWE1EQTdvTGI5UkRBekR6bnhPTFhQSExLb0USBBoCCAAatwcSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCRBwgAEAAYACAAKh4KBmluZGlhbhXas5VAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFW5Whz8aCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVLr1WPxoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxXQY9Q-GgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFQAAAAAaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEVDnC1PxoHaW5kaWEnczKxAi9nb3RvP3VybD1DQUVTMkFFQjZ6c3dGZFR4enNCZlJIMGVvZEVGcm1HSzhMQW1PaWstX0FQVGdmVmZxcFVSTzZOVXlWV1h1UWdET1VNR0pBM0xZSjJaN2JhX0JPOFQ3S2JiMlVreXNEcWRfWFJndENYV2twZEdSWWdFTHlfYkxaSkViTERXWjFsUF9pbjhfQkJBSXd3SXNVVmZaTFNUSGFMZEViWlJTOTFocjk0eXJ3SVBmX0JyTFdLd2xFa21fTnFFczJoNnp4STlrWWduYXhzNW8zRVE1dUdGcF9TNUY2aU1mRkVHa2hnMzF4LXhQaVBjRzdPYy1XbFU2RV9hbjBuVk1YQzdSZnBnRllhZ3A0YXZ6bnBtQ1hNREE3b0xiOVJEQXpEem54T0xYUEhMS29FOkRGQUNUIENIRUNLOiBEaWQgYSBQYWtpc3RhbiBOYXZ5IDxiPnNoaXA8L2I-IGludGVyY2VwdCwgZGFtYWdlIGFuIC4uLkLBAUEgUGFraXN0YW4gTmF2eSA8Yj5zaGlwPC9iPiBkaWQgZGFtYWdlIGFuIDxiPkluZGlhbiB2ZXNzZWw8L2I-IGluIGEgZ3Jvc3MgdmlvbGF0aW9uIG9mIHJlZ3VsYXRpb25zIGluIDIwMTEuIDxiPkluZGlhbjwvYj4gTmF2eSYjMzk7cyBJTlMgR29kYXZhcmkgKG5vdCBUYWx3YXIgYXMgY2xhaW1lZCBpbiB0aGUgbWVzc2FnZSkmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrECL2dvdG8_dXJsPUNBRVMyQUVCNnpzd0ZkVHh6c0JmUkgwZW9kRUZybUdLOExBbU9pay1fQVBUZ2ZWZnFwVVJPNk5VeVZXWHVRZ0RPVU1HSkEzTFlKMlo3YmFfQk84VDdLYmIyVWt5c0RxZF9YUmd0Q1hXa3BkR1JZZ0VMeV9iTFpKRWJMRFdaMWxQX2luOF9CQkFJd3dJc1VWZlpMU1RIYUxkRWJaUlM5MWhyOTR5cndJUGZfQnJMV0t3bEVrbV9OcUVzMmg2enhJOWtZZ25heHM1bzNFUTV1R0ZwX1M1RjZpTWZGRUdraGczMXgteFBpUGNHN09jLVdsVTZFX2FuMG5WTVhDN1JmcGdGWWFncDRhdnpucG1DWE1EQTdvTGI5UkRBekR6bnhPTFhQSExLb0USBBoCCAAatwcSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCRBwgAEAAYACAAKh4KBmluZGlhbhXas5VAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFW5Whz8aCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVLr1WPxoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxXQY9Q-GgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFQAAAAAaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEVDnC1PxoHaW5kaWEnczKxAi9nb3RvP3VybD1DQUVTMkFFQjZ6c3dGZFR4enNCZlJIMGVvZEVGcm1HSzhMQW1PaWstX0FQVGdmVmZxcFVSTzZOVXlWV1h1UWdET1VNR0pBM0xZSjJaN2JhX0JPOFQ3S2JiMlVreXNEcWRfWFJndENYV2twZEdSWWdFTHlfYkxaSkViTERXWjFsUF9pbjhfQkJBSXd3SXNVVmZaTFNUSGFMZEViWlJTOTFocjk0eXJ3SVBmX0JyTFdLd2xFa21fTnFFczJoNnp4STlrWWduYXhzNW8zRVE1dUdGcF9TNUY2aU1mRkVHa2hnMzF4LXhQaVBjRzdPYy1XbFU2RV9hbjBuVk1YQzdSZnBnRllhZ3A0YXZ6bnBtQ1hNREE3b0xiOVJEQXpEem54T0xYUEhMS29FOkRGQUNUIENIRUNLOiBEaWQgYSBQYWtpc3RhbiBOYXZ5IDxiPnNoaXA8L2I-IGludGVyY2VwdCwgZGFtYWdlIGFuIC4uLkLBAUEgUGFraXN0YW4gTmF2eSA8Yj5zaGlwPC9iPiBkaWQgZGFtYWdlIGFuIDxiPkluZGlhbiB2ZXNzZWw8L2I-IGluIGEgZ3Jvc3MgdmlvbGF0aW9uIG9mIHJlZ3VsYXRpb25zIGluIDIwMTEuIDxiPkluZGlhbjwvYj4gTmF2eSYjMzk7cyBJTlMgR29kYXZhcmkgKG5vdCBUYWx3YXIgYXMgY2xhaW1lZCBpbiB0aGUgbWVzc2FnZSkmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "The Times of India",
+      "read_more_link": "https://timesofindia.indiatimes.com/times-fact-check/news/fact-check-did-a-pakistan-navy-ship-intercept-damage-an-indian-ship-recently/articleshow/75229829.cms#:~:text=A%20Pakistan%20Navy%20ship%20did,vessels%20involved%20in%20the%20incident."
+    },
+    {
+      "position": 7,
+      "title": "Pakistan and Indian Navy close encounter at Arabian sea.",
+      "link": "https://www.reddit.com/r/interestingasfuck/comments/wz4v0q/pakistan_and_indian_navy_close_encounter_at/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFc--ic_wFt16pNxt4FrY2DqkrJ_Zwo0iEKgQL4ISnIAwVY5VsVRRM4QWV8sGY1i1mg1U0ZXHlVoeqyUtF2Egfz8NI6gta3XAT4S-q9FYXegfGldAwjV700EnwVPt8_ckmfDvZ5O_WYdMkAb0907vulIb1kaB14Q-TGIOqv_YuqIHSVgT0xSIOF1q4MolK4UgzpHK7DaCC7dxesU&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0QFnoECDUQAQ&uoh=1",
+      "displayed_link": "600+ comments",
+      "snippet": "The Pakistani ship is fitted with MASS launchers, which is a system that's ... She is the India's only warship to be lost in war. And one of only two ...",
+      "snippet_highlighted_words": [
+        "Pakistani ship",
+        "India's",
+        "warship"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Pakistani ship is fitted with MASS launchers, which is a system that's ... She is the India's only warship to be lost in war. And one of only two ...",
+          "source_info_link": "https://www.reddit.com/r/interestingasfuck/comments/wz4v0q/pakistan_and_indian_navy_close_encounter_at/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZjLS1pY193RnQxNnBOeHQ0RnJZMkRxa3JKX1p3bzBpRUtnUUw0SVNuSUF3Vlk1VnNWUlJNNFFXVjhzR1kxaTFtZzFVMFpYSGxWb2VxeVV0RjJFZ2Z6OE5JNmd0YTNYQVQ0Uy1xOUZZWGVnZkdsZEF3alY3MDBFbndWUHQ4X2NrbWZEdlo1T19XWWRNa0FiMDkwN3Z1bEliMWthQjE0US1UR0lPcXZfWXVxSUhTVmdUMHhTSU9GMXE0TW9sSzRVZ3pwSEs3RGFDQzdkeGVzVRIEGgIIABreBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC6BggAEAAYACAAKh4KBmluZGlhbhVhpCZAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFa3RrD4aCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVAAAAABoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUAAAAAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFQAAAAAaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEVis1JPxoHaW5kaWEnczLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGYy0taWNfd0Z0MTZwTnh0NEZyWTJEcWtySl9ad28waUVLZ1FMNElTbklBd1ZZNVZzVlJSTTRRV1Y4c0dZMWkxbWcxVTBaWEhsVm9lcXlVdEYyRWdmejhOSTZndGEzWEFUNFMtcTlGWVhlZ2ZHbGRBd2pWNzAwRW53VlB0OF9ja21mRHZaNU9fV1lkTWtBYjA5MDd2dWxJYjFrYUIxNFEtVEdJT3F2X1l1cUlIU1ZnVDB4U0lPRjFxNE1vbEs0VWd6cEhLN0RhQ0M3ZHhlc1U6P1Bha2lzdGFuIGFuZCA8Yj5JbmRpYW48L2I-IE5hdnkgY2xvc2UgZW5jb3VudGVyIGF0IEFyYWJpYW4gc2VhLkK7AVRoZSA8Yj5QYWtpc3Rhbmkgc2hpcDwvYj4gaXMgZml0dGVkIHdpdGggTUFTUyBsYXVuY2hlcnMsIHdoaWNoIGlzIGEgc3lzdGVtIHRoYXQmIzM5O3MgLi4uIFNoZSBpcyB0aGUgPGI-SW5kaWEmIzM5O3M8L2I-IG9ubHkgPGI-d2Fyc2hpcDwvYj4gdG8gYmUgbG9zdCBpbiB3YXIuIEFuZCBvbmUgb2Ygb25seSB0d28mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZjLS1pY193RnQxNnBOeHQ0RnJZMkRxa3JKX1p3bzBpRUtnUUw0SVNuSUF3Vlk1VnNWUlJNNFFXVjhzR1kxaTFtZzFVMFpYSGxWb2VxeVV0RjJFZ2Z6OE5JNmd0YTNYQVQ0Uy1xOUZZWGVnZkdsZEF3alY3MDBFbndWUHQ4X2NrbWZEdlo1T19XWWRNa0FiMDkwN3Z1bEliMWthQjE0US1UR0lPcXZfWXVxSUhTVmdUMHhTSU9GMXE0TW9sSzRVZ3pwSEs3RGFDQzdkeGVzVRIEGgIIABreBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC6BggAEAAYACAAKh4KBmluZGlhbhVhpCZAGg9pbmRpYW5wYWtpc3RhbmkqPQoJcGFraXN0YW5pFa3RrD4aCnBha2lzdGFuaXMaD2luZGlhbnBha2lzdGFuaRoOaXY7cDtwYWtpc3RhbmkqIgoFbmF2YWwVAAAAABoIbWFyaXRpbWUaCml2O3A7bmF2YWwqaAoHdmVzc2VscxUAAAAAGgVib2F0cxoKZGVzdHJveWVycxoFZmxlZXQaCGZyaWdhdGVzGgRzaGlwGgVzaGlwcxoGdmVzc2VsGgd3YXJzaGlwGgh3YXJzaGlwcxoMaXY7cDt2ZXNzZWxzKkUKCGNvbGxpZGVkFQAAAAAaB2NvbGxpZGUaCGNvbGxpZGVzGgljb2xsaXNpb24aB2NyYXNoZWQaDWl2O3A7Y29sbGlkZWQqFQoFaW5kaWEVis1JPxoHaW5kaWEnczLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGYy0taWNfd0Z0MTZwTnh0NEZyWTJEcWtySl9ad28waUVLZ1FMNElTbklBd1ZZNVZzVlJSTTRRV1Y4c0dZMWkxbWcxVTBaWEhsVm9lcXlVdEYyRWdmejhOSTZndGEzWEFUNFMtcTlGWVhlZ2ZHbGRBd2pWNzAwRW53VlB0OF9ja21mRHZaNU9fV1lkTWtBYjA5MDd2dWxJYjFrYUIxNFEtVEdJT3F2X1l1cUlIU1ZnVDB4U0lPRjFxNE1vbEs0VWd6cEhLN0RhQ0M3ZHhlc1U6P1Bha2lzdGFuIGFuZCA8Yj5JbmRpYW48L2I-IE5hdnkgY2xvc2UgZW5jb3VudGVyIGF0IEFyYWJpYW4gc2VhLkK7AVRoZSA8Yj5QYWtpc3Rhbmkgc2hpcDwvYj4gaXMgZml0dGVkIHdpdGggTUFTUyBsYXVuY2hlcnMsIHdoaWNoIGlzIGEgc3lzdGVtIHRoYXQmIzM5O3MgLi4uIFNoZSBpcyB0aGUgPGI-SW5kaWEmIzM5O3M8L2I-IG9ubHkgPGI-d2Fyc2hpcDwvYj4gdG8gYmUgbG9zdCBpbiB3YXIuIEFuZCBvbmUgb2Ygb25seSB0d28mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Reddit · r/interestingasfuck",
+      "read_more_link": "https://www.reddit.com/r/interestingasfuck/comments/wz4v0q/pakistan_and_indian_navy_close_encounter_at/#:~:text=The%20Pakistani%20ship%20is%20fitted,little%20more%20than%20a%20decade.&text=She%20is%20the%20India's%20only,with%20ARA%20General%20Belgrano%20%5B1080x968%5D"
+    },
+    {
+      "position": 8,
+      "title": "Pakistan and Indian warships collide in 2011",
+      "link": "https://www.facebook.com/groups/1216058135233165/posts/2788475537991409/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFdIMc3HTuwAYGLuzx3pL4nuuSXX6cbqLm3CjyEg6mKMmD8E_p7837Q9zPsvckS-s_joPwBrSHTzm2RHIdWMIXp4nZyZWwZ7uvvqonifRztyqvoKdP-juTRxQ5CtmOzaaTp-hZ8zBexg9g_TfXzkQdfvZ9-o2Ws6jv6-s8Q&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0QFnoECD0QAQ&uoh=1",
+      "displayed_link": "3 comments",
+      "snippet": "A Pakistan Navy warship crossed the maritime boundary line off the coast of Gujarat and entered Indian waters but was detected and forced to retreat by an ...",
+      "snippet_highlighted_words": [
+        "warship",
+        "maritime",
+        "Indian"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A Pakistan Navy warship crossed the maritime boundary line off the coast of Gujarat and entered Indian waters but was detected and forced to retreat by an ...",
+          "source_info_link": "https://www.facebook.com/groups/1216058135233165/posts/2788475537991409/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZkSU1jM0hUdXdBWUdMdXp4M3BMNG51dVNYWDZjYnFMbTNDanlFZzZtS01tRDhFX3A3ODM3UTl6UHN2Y2tTLXNfam9Qd0JyU0hUem0yUkhJZFdNSVhwNG5aeVpXd1o3dXZ2cW9uaWZSenR5cXZvS2RQLWp1VFJ4UTVDdG1PemFhVHAtaFo4ekJleGc5Z19UZlh6a1FkZnZaOS1vMldzNmp2Ni1zOFESBBoCCAAasQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQYIABAAGAAgACoeCgZpbmRpYW4VhueSQBoPaW5kaWFucGFraXN0YW5pKj0KCXBha2lzdGFuaRV1BVw_GgpwYWtpc3RhbmlzGg9pbmRpYW5wYWtpc3RhbmkaDml2O3A7cGFraXN0YW5pKiIKBW5hdmFsFckifD8aCG1hcml0aW1lGgppdjtwO25hdmFsKmgKB3Zlc3NlbHMVV3CPPhoFYm9hdHMaCmRlc3Ryb3llcnMaBWZsZWV0GghmcmlnYXRlcxoEc2hpcBoFc2hpcHMaBnZlc3NlbBoHd2Fyc2hpcBoId2Fyc2hpcHMaDGl2O3A7dmVzc2VscypFCghjb2xsaWRlZBWLJg0_Ggdjb2xsaWRlGghjb2xsaWRlcxoJY29sbGlzaW9uGgdjcmFzaGVkGg1pdjtwO2NvbGxpZGVkKhUKBWluZGlhFY7hqz8aB2luZGlhJ3MyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmRJTWMzSFR1d0FZR0x1engzcEw0bnV1U1hYNmNicUxtM0NqeUVnNm1LTW1EOEVfcDc4MzdROXpQc3Zja1Mtc19qb1B3QnJTSFR6bTJSSElkV01JWHA0blp5Wld3Wjd1dnZxb25pZlJ6dHlxdm9LZFAtanVUUnhRNUN0bU96YWFUcC1oWjh6QmV4ZzlnX1RmWHprUWRmdlo5LW8yV3M2anY2LXM4UTo-UGFraXN0YW4gYW5kIDxiPkluZGlhbiB3YXJzaGlwcyBjb2xsaWRlPC9iPiBpbiAyMDExIC0gRmFjZWJvb2tCuAFBIFBha2lzdGFuIE5hdnkgPGI-d2Fyc2hpcDwvYj4gY3Jvc3NlZCB0aGUgPGI-bWFyaXRpbWU8L2I-IGJvdW5kYXJ5IGxpbmUgb2ZmIHRoZSBjb2FzdCBvZiBHdWphcmF0IGFuZCBlbnRlcmVkIDxiPkluZGlhbjwvYj4gd2F0ZXJzIGJ1dCB3YXMgZGV0ZWN0ZWQgYW5kIGZvcmNlZCB0byByZXRyZWF0IGJ5IGFuJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZkSU1jM0hUdXdBWUdMdXp4M3BMNG51dVNYWDZjYnFMbTNDanlFZzZtS01tRDhFX3A3ODM3UTl6UHN2Y2tTLXNfam9Qd0JyU0hUem0yUkhJZFdNSVhwNG5aeVpXd1o3dXZ2cW9uaWZSenR5cXZvS2RQLWp1VFJ4UTVDdG1PemFhVHAtaFo4ekJleGc5Z19UZlh6a1FkZnZaOS1vMldzNmp2Ni1zOFESBBoCCAAasQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQYIABAAGAAgACoeCgZpbmRpYW4VhueSQBoPaW5kaWFucGFraXN0YW5pKj0KCXBha2lzdGFuaRV1BVw_GgpwYWtpc3RhbmlzGg9pbmRpYW5wYWtpc3RhbmkaDml2O3A7cGFraXN0YW5pKiIKBW5hdmFsFckifD8aCG1hcml0aW1lGgppdjtwO25hdmFsKmgKB3Zlc3NlbHMVV3CPPhoFYm9hdHMaCmRlc3Ryb3llcnMaBWZsZWV0GghmcmlnYXRlcxoEc2hpcBoFc2hpcHMaBnZlc3NlbBoHd2Fyc2hpcBoId2Fyc2hpcHMaDGl2O3A7dmVzc2VscypFCghjb2xsaWRlZBWLJg0_Ggdjb2xsaWRlGghjb2xsaWRlcxoJY29sbGlzaW9uGgdjcmFzaGVkGg1pdjtwO2NvbGxpZGVkKhUKBWluZGlhFY7hqz8aB2luZGlhJ3MyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmRJTWMzSFR1d0FZR0x1engzcEw0bnV1U1hYNmNicUxtM0NqeUVnNm1LTW1EOEVfcDc4MzdROXpQc3Zja1Mtc19qb1B3QnJTSFR6bTJSSElkV01JWHA0blp5Wld3Wjd1dnZxb25pZlJ6dHlxdm9LZFAtanVUUnhRNUN0bU96YWFUcC1oWjh6QmV4ZzlnX1RmWHprUWRmdlo5LW8yV3M2anY2LXM4UTo-UGFraXN0YW4gYW5kIDxiPkluZGlhbiB3YXJzaGlwcyBjb2xsaWRlPC9iPiBpbiAyMDExIC0gRmFjZWJvb2tCuAFBIFBha2lzdGFuIE5hdnkgPGI-d2Fyc2hpcDwvYj4gY3Jvc3NlZCB0aGUgPGI-bWFyaXRpbWU8L2I-IGJvdW5kYXJ5IGxpbmUgb2ZmIHRoZSBjb2FzdCBvZiBHdWphcmF0IGFuZCBlbnRlcmVkIDxiPkluZGlhbjwvYj4gd2F0ZXJzIGJ1dCB3YXMgZGV0ZWN0ZWQgYW5kIGZvcmNlZCB0byByZXRyZWF0IGJ5IGFuJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Facebook · Destroyers and Frigates",
+      "read_more_link": "https://www.facebook.com/groups/1216058135233165/posts/2788475537991409/#:~:text=A%20Pakistan%20Navy%20warship%20crossed,Guard%20Dornier%20maritime%20surveillance%20aircraft."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=10&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8NMDegQILhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=10&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAE",
+      "3": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=20&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAG",
+      "4": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=30&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAI",
+      "5": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=40&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAK",
+      "6": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=50&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAM",
+      "7": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=60&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAO",
+      "8": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=70&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAQ",
+      "9": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=80&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAS",
+      "10": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQnvCCDTn6kH52qg7w3ILNfSrFkXRcw:1790099149990&ei=zb6yapj8O92wptQPxcqo6QM&start=90&sa=N&sstk=AS6-VmKLCa_bUBDncgl05pdde1sMuN6jbSpkjrdzC1kH37qLpXYMt8vTuNa4HTO7iMV-UaOm0rJwKn7Yp8zq12kae0qVj8DZlk7OWw&ved=2ahUKEwjYlsr_3oKXAxVdmIkEHUUlKj0Q8tMDegQILhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+before%3A2026-01-01&start=90"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab2becd532a17fbcccc73f0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7ytuhiQsOwrq6qGEJeVTWnA_VKKXzW_2L_odDELGC_E/6ab2becd532a17fbcccc73f0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/7ytuhiQsOwrq6qGEJeVTWnA_VKKXzW_2L_odDELGC_E/6ab2becd532a17fbcccc73f0.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7ytuhiQsOwrq6qGEJeVTWnA_VKKXzW_2L_odDELGC_E/6ab2becd532a17fbcccc73f0.json_with_pixel_position",
+    "created_at": "2026-09-22 17:45:49 UTC",
+    "processed_at": "2026-09-22 17:45:49 UTC",
+    "google_url": "https://www.google.com/search?q=%22What+actually+happened+when+the+Indian+and+Pakistani+naval+v%22&oq=%22What+actually+happened+when+the+Indian+and+Pakistani+naval+v%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7ytuhiQsOwrq6qGEJeVTWnA_VKKXzW_2L_odDELGC_E/6ab2becd532a17fbcccc73f0.html",
+    "total_time_taken": 0.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"What actually happened when the Indian and Pakistani naval v\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"What actually happened when the Indian and Pakistani naval v\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "Lnm1b3iczVVLkuI4ED3AnKPZUAXG_IqKcHRIQmA3UKCiaJrZOIRtZIM_YBlc9K7vMru50ZxmZPMpQwFd3YuJyQWSkszndDqf3o-_XMdf_PPH33YULfljsRjHcYEFAXOtghF4Rcq3vlGcBS4PDfszD9ahYTmmYthh4Fm57UYp5wyuSDnLUb5Pa1u6pi9NYxZ5XTKo3fe1CsG5FELRp5Rbc_GE1zkv6kXxs_hUbopDgRcsv6B3tnQevsaNqVGQJblc6BepJwLAf2eYMJSsQ4BvBAGgfQiNECDQvrw5EDoAHIwlBybwUOJEyf6iaRiQZHXwLgv00cwbPwDQPiYsrhecBYUsRYJw5xwicPWhl233Dq1DYbdC4U1353DWMoG38MjktBDRvBmD8C0pmyzcdiY1-bO921cBrAwAUhEIbhWPAtD0CNQIuDUMaWSIRvF-3wUl0aGiycTgSsVpKJZS0TFsI92EPJln9NKQAnXFp5hLbNB4qfMG7JCJv4ZDrMaLXlw0piLODahpmbqtS5_Tc0kuVaVGuf5wlxLJ4Ecm8SyTmmje3OCqPw4XhW4Blg40Qsf-oNPysTijS32HaB96kpA2oyewJlnHvs2tTKB2zMYE9JwznJHFUpyjNWUAKtmIN9zE-55G56UlNAKjdJdu92OdhdQSTpK3hKOp4L29_-oY7j8za5_4ESBnPUVgqAmAA8TZHcYE_ZBG4I5Gq0ra_BicgqavcTCyrwgCnL5DYvD4Cjv6aCzDNywagZORx0jU9ozwKxG3GjuAweSu25fqnPH_4iwA8bkxGOMPXn3n1vp5SEKbPV_Oxj9Lm_b6yWp9lUy58fp8H9fgC1Db9CWsqu43cJkmgTf9BcUx_ldE2umRttej60TSPkQkQtB1Pdpt3_QoIRJijF0hEt4R6Z0eqRf06JxImGWIdKJH6J0e_SqRtFtEgjeJ1LlEJO0GkRI9OiXS4kSP0GU9OhLpd_So9Zt6lPLK2i2n4rSes6si1do8xGp56ow23uvD3NLrptrS-HBoNerspyI186JHj5rune6Yj1D-Em3NO104gkfLzK2UT7I8tmmUp0a0pq67zdt0ubR8y8zHtuXnI9vKa77pUD9PfTM_oAuHR9R38j7dUDe_Eek5zw0DRaL1B6x2yqWhXTfjEPJ6M4or83o_kkNzXp90-06X1WVtth3PoG6Z_dnTTPWe5-oQDGrPG1si8cbqovvvPo3Kzao7GcNgMsVgpVXJctDtfetR_qTdl0dNvbPsgT-f7Wq1gbvzqNa2n7zVYiED_R7hUVWayduFqzfjtC6ufB0gSzJCvl6AnBcaipjsCgNPBIwZMACaCNFgYEQDscaAtGuAYJjjBtUtvlHotNyoVaRKmZam4mYycx6LtkulUslxP1RK_wIvU023",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Lnm1b3iczVVLkuI4ED3AnKPZUAXG_IqKcHRIQmA3UKCiaJrZOIRtZIM_YBlc9K7vMru50ZxmZPMpQwFd3YuJyQWSkszndDqf3o-_XMdf_PPH33YULfljsRjHcYEFAXOtghF4Rcq3vlGcBS4PDfszD9ahYTmmYthh4Fm57UYp5wyuSDnLUb5Pa1u6pi9NYxZ5XTKo3fe1CsG5FELRp5Rbc_GE1zkv6kXxs_hUbopDgRcsv6B3tnQevsaNqVGQJblc6BepJwLAf2eYMJSsQ4BvBAGgfQiNECDQvrw5EDoAHIwlBybwUOJEyf6iaRiQZHXwLgv00cwbPwDQPiYsrhecBYUsRYJw5xwicPWhl233Dq1DYbdC4U1353DWMoG38MjktBDRvBmD8C0pmyzcdiY1-bO921cBrAwAUhEIbhWPAtD0CNQIuDUMaWSIRvF-3wUl0aGiycTgSsVpKJZS0TFsI92EPJln9NKQAnXFp5hLbNB4qfMG7JCJv4ZDrMaLXlw0piLODahpmbqtS5_Tc0kuVaVGuf5wlxLJ4Ecm8SyTmmje3OCqPw4XhW4Blg40Qsf-oNPysTijS32HaB96kpA2oyewJlnHvs2tTKB2zMYE9JwznJHFUpyjNWUAKtmIN9zE-55G56UlNAKjdJdu92OdhdQSTpK3hKOp4L29_-oY7j8za5_4ESBnPUVgqAmAA8TZHcYE_ZBG4I5Gq0ra_BicgqavcTCyrwgCnL5DYvD4Cjv6aCzDNywagZORx0jU9ozwKxG3GjuAweSu25fqnPH_4iwA8bkxGOMPXn3n1vp5SEKbPV_Oxj9Lm_b6yWp9lUy58fp8H9fgC1Db9CWsqu43cJkmgTf9BcUx_ldE2umRttej60TSPkQkQtB1Pdpt3_QoIRJijF0hEt4R6Z0eqRf06JxImGWIdKJH6J0e_SqRtFtEgjeJ1LlEJO0GkRI9OiXS4kSP0GU9OhLpd_So9Zt6lPLK2i2n4rSes6si1do8xGp56ow23uvD3NLrptrS-HBoNerspyI186JHj5rune6Yj1D-Em3NO104gkfLzK2UT7I8tmmUp0a0pq67zdt0ubR8y8zHtuXnI9vKa77pUD9PfTM_oAuHR9R38j7dUDe_Eek5zw0DRaL1B6x2yqWhXTfjEPJ6M4or83o_kkNzXp90-06X1WVtth3PoG6Z_dnTTPWe5-oQDGrPG1si8cbqovvvPo3Kzao7GcNgMsVgpVXJctDtfetR_qTdl0dNvbPsgT-f7Wq1gbvzqNa2n7zVYiED_R7hUVWayduFqzfjtC6ufB0gSzJCvl6AnBcaipjsCgNPBIwZMACaCNFgYEQDscaAtGuAYJjjBtUtvlHotNyoVaRKmZam4mYycx6LtkulUslxP1RK_wIvU023"
+  }
+}

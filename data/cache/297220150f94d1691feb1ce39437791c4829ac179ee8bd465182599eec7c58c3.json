@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab365ec50849cb59ccd877c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/P0zbebdpt8cEoYrcOBvssT87vm0OJmo3VwoHp-7E3Cc/6ab365ec50849cb59ccd877c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/P0zbebdpt8cEoYrcOBvssT87vm0OJmo3VwoHp-7E3Cc/6ab365ec50849cb59ccd877c.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/P0zbebdpt8cEoYrcOBvssT87vm0OJmo3VwoHp-7E3Cc/6ab365ec50849cb59ccd877c.json_with_pixel_position",
+    "created_at": "2026-09-23 05:38:52 UTC",
+    "processed_at": "2026-09-23 05:38:52 UTC",
+    "google_url": "https://www.google.com/search?q=%22A+massive+7.8+magnitude+earthquake+just+struck+the+coast+of+%22&oq=%22A+massive+7.8+magnitude+earthquake+just+struck+the+coast+of+%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/P0zbebdpt8cEoYrcOBvssT87vm0OJmo3VwoHp-7E3Cc/6ab365ec50849cb59ccd877c.html",
+    "total_time_taken": 0.6
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"A massive 7.8 magnitude earthquake just struck the coast of \"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"A massive 7.8 magnitude earthquake just struck the coast of \"",
+    "total_results": 0,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "BPo2JXiczVXNdqJIFH6AeY52YyK_iuYcTp-qErFCTMTEJGbDQcACBYmAQbObF5nVPNU8TRcoNKbVdPeiz9QCqop7v7pf3ftx__7X95aL__76x02S1_iKYdI0bZAwJL7TsMKAMePt0mJmoR9Hlvt1-yYLNSuW2ZrjyZL69G6-RSu8FrqLIR62L4O7NSC13EU2pmbszCniZh4zBkMfiy9Cly4accNZNtZwwqLo8dbU4wbPcp3GHWMG1AD8uZECoABAIKZzeMpIpxY_AwYpAgVaVLbw3rOCPQEow8N6vkInkEmOlgFgmDnQl_ESiRBoBRbSTwaCqufRRWapoJxIztT7GTYVDtlQSkx01voYnx0CPV4pdgaVrwo4MdCHShhT9DYYYODuNz5kTAmrq-vs0d0dPwNiqoij3tnI6e2MU9jUwKfp7oHRkuxJYZRQT8jYhFYuy0wj-uIYz3KtfBLFWUGjhw4b9rortI18LXXVpqR2PNXxWfLS37CXKWGsKbXzQ9N2bMM12K_5muO5JtsRpPZFriQrLqUUV6UENFXosOZK4geNmwbkCh2h8uY_pCy7cYSPEIOF6bEcE3hguB8LpZoFbXcn2V3yGJTn5y56a5fqMqtDDCDB1VIocTO_YzraRwKKIMmuuLNwwzLqKjNCZVQGWGU1OKr3j3t6v4wAwx8MqzFhiAmlXYjygFV2sAKwm30cA4huyF6BVhXjFio6KABQwTRjjtSSmFKlqFSP8ShSLoz5Pciqf3Wd5RhmgGjnUch-DHbbFTIn_n0x_UFen9f7qYE_-U_sTy4E86H-q7rp94Ctv_IaHhrdUTwfWJPWFAhscIOm4LhOwmD6Cz3H-l8pqehIWv7ttJKyuvlUSbT48dmOlM_3Hel6pyRETiopb0k_dKS7ox3psKIQGH1XkgbPdqRfVxI6qySyZ3pESbQjHVPS4pSS8o50qCS3rR90pAPe3ztSqaTf6Ujo9zpSLixn9zpsT-s5Odmm-i8T338e4i0ysNvfvItQnCj3LwvwAMGnbWoWJFeBafsXhmdfQf462doXBt0Irxy7tpK_8DyoB2Yce29OXWq06ZwsvWRtO3XHjBJ3tTYXTn2-jpN6nERra1FPXKduhSbdCGd16l4L_CiUWVPSFGGpPgNxm_p8azWALRW9PSW3MHrazICL1Esh4B2p2YZooTaXq2WnL9r345tH7Cbm43DorAJNBKOWIbKD564vpayvry9bXO-xx2kz52b0wHr9WdNLRvzrXSw471F_sZnMhecnbrqNXgHH-mrSvewLOp9ugxHJ44rl241v9833LecNakFkyTRzYhPc6uCJ0BJFE6DTchybIX2nQFdbQFdgLbZMw4nfZImzOXs6lUy2yfJ2R6oFJNm-yqJYi5eRzH0DXtNEYw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BPo2JXiczVXNdqJIFH6AeY52YyK_iuYcTp-qErFCTMTEJGbDQcACBYmAQbObF5nVPNU8TRcoNKbVdPeiz9QCqop7v7pf3ftx__7X95aL__76x02S1_iKYdI0bZAwJL7TsMKAMePt0mJmoR9Hlvt1-yYLNSuW2ZrjyZL69G6-RSu8FrqLIR62L4O7NSC13EU2pmbszCniZh4zBkMfiy9Cly4accNZNtZwwqLo8dbU4wbPcp3GHWMG1AD8uZECoABAIKZzeMpIpxY_AwYpAgVaVLbw3rOCPQEow8N6vkInkEmOlgFgmDnQl_ESiRBoBRbSTwaCqufRRWapoJxIztT7GTYVDtlQSkx01voYnx0CPV4pdgaVrwo4MdCHShhT9DYYYODuNz5kTAmrq-vs0d0dPwNiqoij3tnI6e2MU9jUwKfp7oHRkuxJYZRQT8jYhFYuy0wj-uIYz3KtfBLFWUGjhw4b9rortI18LXXVpqR2PNXxWfLS37CXKWGsKbXzQ9N2bMM12K_5muO5JtsRpPZFriQrLqUUV6UENFXosOZK4geNmwbkCh2h8uY_pCy7cYSPEIOF6bEcE3hguB8LpZoFbXcn2V3yGJTn5y56a5fqMqtDDCDB1VIocTO_YzraRwKKIMmuuLNwwzLqKjNCZVQGWGU1OKr3j3t6v4wAwx8MqzFhiAmlXYjygFV2sAKwm30cA4huyF6BVhXjFio6KABQwTRjjtSSmFKlqFSP8ShSLoz5Pciqf3Wd5RhmgGjnUch-DHbbFTIn_n0x_UFen9f7qYE_-U_sTy4E86H-q7rp94Ctv_IaHhrdUTwfWJPWFAhscIOm4LhOwmD6Cz3H-l8pqehIWv7ttJKyuvlUSbT48dmOlM_3Hel6pyRETiopb0k_dKS7ox3psKIQGH1XkgbPdqRfVxI6qySyZ3pESbQjHVPS4pSS8o50qCS3rR90pAPe3ztSqaTf6Ujo9zpSLixn9zpsT-s5Odmm-i8T338e4i0ysNvfvItQnCj3LwvwAMGnbWoWJFeBafsXhmdfQf462doXBt0Irxy7tpK_8DyoB2Yce29OXWq06ZwsvWRtO3XHjBJ3tTYXTn2-jpN6nERra1FPXKduhSbdCGd16l4L_CiUWVPSFGGpPgNxm_p8azWALRW9PSW3MHrazICL1Esh4B2p2YZooTaXq2WnL9r345tH7Cbm43DorAJNBKOWIbKD564vpayvry9bXO-xx2kz52b0wHr9WdNLRvzrXSw471F_sZnMhecnbrqNXgHH-mrSvewLOp9ugxHJ44rl241v9833LecNakFkyTRzYhPc6uCJ0BJFE6DTchybIX2nQFdbQFdgLbZMw4nfZImzOXs6lUy2yfJ2R6oFJNm-yqJYi5eRzH0DXtNEYw"
+  }
+}

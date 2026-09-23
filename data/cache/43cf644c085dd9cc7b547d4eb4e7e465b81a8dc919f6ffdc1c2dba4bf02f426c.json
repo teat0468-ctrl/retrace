@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab2be2f8da5ea10d8f606b1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Dt6MpGBV8ops1L8cvuuQyOReMSxL4ncOnb3HJBwNbx8/6ab2be2f8da5ea10d8f606b1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Dt6MpGBV8ops1L8cvuuQyOReMSxL4ncOnb3HJBwNbx8/6ab2be2f8da5ea10d8f606b1.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Dt6MpGBV8ops1L8cvuuQyOReMSxL4ncOnb3HJBwNbx8/6ab2be2f8da5ea10d8f606b1.json_with_pixel_position",
+    "created_at": "2026-09-22 17:43:11 UTC",
+    "processed_at": "2026-09-22 17:43:11 UTC",
+    "google_url": "https://www.google.com/search?q=%22The+Tata+Sons%E2%80%93Tata+Trusts+dispute+is+escalating%2C+with+the+tw%22&oq=%22The+Tata+Sons%E2%80%93Tata+Trusts+dispute+is+escalating%2C+with+the+tw%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Dt6MpGBV8ops1L8cvuuQyOReMSxL4ncOnb3HJBwNbx8/6ab2be2f8da5ea10d8f606b1.html",
+    "total_time_taken": 0.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"The Tata Sons–Tata Trusts dispute is escalating, with the tw\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"The Tata Sons–Tata Trusts dispute is escalating, with the tw\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "DV5ObXiczZXLcuI4FIYfYJ4DNqTxBQMmVa4uWRbEBAIKECa9oYxthMHGYBkM7PoxZj9PNU8zsrkZAiTdi6nRAl18zuFIOp_-n3-7zmz6zx9_jcNwTh85LoqiPPF94tp50_c4g25mJjfyXRqY4--blVLImlThs7ajNMqljeG3SC0og7kstUmj9cMBKJu4KIOhQe0Ji7ieUG7AsZ9ppqCxSZ7m7Vn-dTove4vQ3Vo4L_JCJd_iDI8ZgP-uIUxg3HcAumMEgP6laBgDFq1-WoDwEODQSDwhLB6MF2E8vtp0BHDcO2jnBVpw5PVlAGpHB_N2wumgKkkiqepusQPBzT-93nZ7qB4Su2eq3l1-Psz1lOG9ePj9PBF2eCOiqientDNbHqdc44-13bgIVKkN4BME_r3koQ80D6s6BveKIbEMYC_ajxtAYCfEWYQVLs8NA9YJnGOOzWQQ0LieYbfC-zURlsbNAV2te4IKSzXUcExc9uRipQI4c8jsXN-wbGswHvDfk7kgCkW-UijLDwlIJj2SRNMkaXCirVBx1g-m-UZeFQ4YweP5wPP0EZvDa-euwr0pvPINgMNtHE8HAlxNmehHb4RB07mI07PjqmueFjQRACmdx-nUY7-PGF2mFmMEeskoGe7LOv2neswkxkeHY3v6uMMrt47U_TWT2sUXfHFEEHR0FuAQ4uINIww_qGN1h9FCSjYdgVTQZ1gn8TaO8fcZqQDphw2oxy3s8NFJijfEDgLFJY8gy-0VIhWzV40cgqnxW7dP1bng_2otxNeNQB998em7bNXPTWJs9rxclH8aGxRs5OkLb8svVVgSpbVmtykMva1fDsh1THxv-AuKY_6vQNrpkb7Xo9sg6V8CCWN4W492w5MexSBBQsgNkNAOpA969HRFjy5BQiQF0id69Ksg6fdAUu-C9HwNJP0OSLEenYM0PdMjeF2PjiD9jh5Vf1OPEq7sXXcuTssJuS1S0lKG1aFbC4s80ZzWrLMRXqKN_7Ztkk9FauSFj55huQ8Dx3pUxXq4sR4GbMF_tK3sQsmIYnds57pGaOQ6_oxmkJiR-UylkKx0gyUNac5y6HwZ2jmH5mxqGq4ROjPykIuccJwLmXcYsTBZzw18hTdKI-DoC8Epv-vT8rilLabDRdlicRa28Gd99Bq5Nlw-v9oro6m1F8if9p01KQRtfcHzviTW9Lct_fFGpg0cNMZ6NFh-k9eW2bW6AinOnF533kS4ZQK5BFZueaI1-ZGBkdXrbby2OSmYkdzyt9-cJBuqBAWrPpMa5lqTsl5gKqyuJQJeMOgThgZ8Z5JBQM_wWR8BXCsBjNQs2-LApivFGBYqJYmXCoYw5MWClfVIuJkrkpSls0AR_gV2SUbi",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DV5ObXiczZXLcuI4FIYfYJ4DNqTxBQMmVa4uWRbEBAIKECa9oYxthMHGYBkM7PoxZj9PNU8zsrkZAiTdi6nRAl18zuFIOp_-n3-7zmz6zx9_jcNwTh85LoqiPPF94tp50_c4g25mJjfyXRqY4--blVLImlThs7ajNMqljeG3SC0og7kstUmj9cMBKJu4KIOhQe0Ji7ieUG7AsZ9ppqCxSZ7m7Vn-dTove4vQ3Vo4L_JCJd_iDI8ZgP-uIUxg3HcAumMEgP6laBgDFq1-WoDwEODQSDwhLB6MF2E8vtp0BHDcO2jnBVpw5PVlAGpHB_N2wumgKkkiqepusQPBzT-93nZ7qB4Su2eq3l1-Psz1lOG9ePj9PBF2eCOiqientDNbHqdc44-13bgIVKkN4BME_r3koQ80D6s6BveKIbEMYC_ajxtAYCfEWYQVLs8NA9YJnGOOzWQQ0LieYbfC-zURlsbNAV2te4IKSzXUcExc9uRipQI4c8jsXN-wbGswHvDfk7kgCkW-UijLDwlIJj2SRNMkaXCirVBx1g-m-UZeFQ4YweP5wPP0EZvDa-euwr0pvPINgMNtHE8HAlxNmehHb4RB07mI07PjqmueFjQRACmdx-nUY7-PGF2mFmMEeskoGe7LOv2neswkxkeHY3v6uMMrt47U_TWT2sUXfHFEEHR0FuAQ4uINIww_qGN1h9FCSjYdgVTQZ1gn8TaO8fcZqQDphw2oxy3s8NFJijfEDgLFJY8gy-0VIhWzV40cgqnxW7dP1bng_2otxNeNQB998em7bNXPTWJs9rxclH8aGxRs5OkLb8svVVgSpbVmtykMva1fDsh1THxv-AuKY_6vQNrpkb7Xo9sg6V8CCWN4W492w5MexSBBQsgNkNAOpA969HRFjy5BQiQF0id69Ksg6fdAUu-C9HwNJP0OSLEenYM0PdMjeF2PjiD9jh5Vf1OPEq7sXXcuTssJuS1S0lKG1aFbC4s80ZzWrLMRXqKN_7Ztkk9FauSFj55huQ8Dx3pUxXq4sR4GbMF_tK3sQsmIYnds57pGaOQ6_oxmkJiR-UylkKx0gyUNac5y6HwZ2jmH5mxqGq4ROjPykIuccJwLmXcYsTBZzw18hTdKI-DoC8Epv-vT8rilLabDRdlicRa28Gd99Bq5Nlw-v9oro6m1F8if9p01KQRtfcHzviTW9Lct_fFGpg0cNMZ6NFh-k9eW2bW6AinOnF533kS4ZQK5BFZueaI1-ZGBkdXrbby2OSmYkdzyt9-cJBuqBAWrPpMa5lqTsl5gKqyuJQJeMOgThgZ8Z5JBQM_wWR8BXCsBjNQs2-LApivFGBYqJYmXCoYw5MWClfVIuJkrkpSls0AR_gV2SUbi"
+  }
+}

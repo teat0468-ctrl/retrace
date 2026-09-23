@@ -1,0 +1,413 @@
+{
+  "search_metadata": {
+    "id": "6ab36b0eabe7ec9cfe4f2e0b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YDC6poYtlS139U4pcjJxiZiD9tbh2vph5jt89IIVsIs/6ab36b0eabe7ec9cfe4f2e0b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YDC6poYtlS139U4pcjJxiZiD9tbh2vph5jt89IIVsIs/6ab36b0eabe7ec9cfe4f2e0b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/YDC6poYtlS139U4pcjJxiZiD9tbh2vph5jt89IIVsIs/6ab36b0eabe7ec9cfe4f2e0b.json_with_pixel_position",
+    "created_at": "2026-09-23 06:00:46 UTC",
+    "processed_at": "2026-09-23 06:00:46 UTC",
+    "google_url": "https://www.google.com/search?q=launch+apple+duo+true+before%3A2026-01-01&oq=launch+apple+duo+true+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/YDC6poYtlS139U4pcjJxiZiD9tbh2vph5jt89IIVsIs/6ab36b0eabe7ec9cfe4f2e0b.html",
+    "total_time_taken": 2.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "launch apple duo true before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "launch apple duo true before:2026-01-01",
+    "total_results": 4350000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "wO9-VXiczVbdcqJIGH2AfY71JlH-FDFV1FR3p6OIicHIxuSG4s8WBVEQiXM3z7CvsE81TzMNKqKrZmYutpZKCd10n-87_X2Hk2__-N589v2Pvyer1SK-Y5g0TWskDInv1uwwYMx4M7eZcejHkT35EodJZLueI9uTKAzcymYtCxU7ltmK68n3fPLVXBoidIZJlODn1N6oPCCVHEI2LDN2pzTCxzRmDIb-zP4U7umgFtfceW0gVAedVNK8_qzGs7xQ6zNmQBeA_-7SEMAAEKjQZ3hxEV3xM2CQIlCgWWlK2e0sYb8BlOEpWj5CF5BJjpYBKDDbQG_Ge1SHQN1jIe1iIqgcjw6ylRjlRHKm3s-wKXHILlxgoqurz_HZItDweD_zWHqLwYULnXSCTtEl8KiAyW7ipGI4LI-62c_9NvwY1FNcHzxczZyejp7Chgo-LfcDGMzJjpSCVnQnZBxCO5dlrIjeOMazJ3b-EMVZQ6Nhiw0fBuO6ClNzXJ2Li3dH7elV_YkAd_Oiaoxt0XV-aDquY0wM9ks-5niuwbaEpnSbK8mOCynFZSkBtS20WHPZ5B9rvRrk9jpCxcmflCzrBaScIQbRbum5GhN4mD-c_AyXq6BuzyQ7S14BRfx8iyZuS11U9VkBkCjlVihws33ndLTLpGBFtLy5s7TCIrsyM0JlVCSISrwez-r9dE7rFBko8F8LyzkpUCGU9l6UR6yysBgok-ylTg-5R3YKtI8xsuPRih3bCBlz1C6I4TJFXA7jUaRcGNMXkHX_srutsbYFUw6y17P0y18PeOHbh2OQgu51vV-6lE--E7vIe8Gc9H9ZN_hpWmVTwfOcYOENA6y8pv2EX4vrgaGd10kYWL_gOfb_Skl7R1Lzd5eVlPXNp0qiza9cdaT8eetIWnerJEQuKim3pJ0jocKR-mcd6bijEBgclKTCq47060pCV5VEdkzPKIk60jklzS4pKXekYyVNJO3IkY54F450UNLvOBL6PUfKheVub8f2lEzJRZvqjDpNFyxa5l8jAbBDQeoG1ZbNvVntBvnUpsbB6i4wHf_W8Jw7yHdXG-fWoBPhnetUlrJvJnN7cmMuFr574yThzSpK3BvLHYeRe0flKFZZjv5VAj8KZdYUzW6_1e4-zObWq-jev7esgcCPPgQivUhguG563mjYe-o3_A_1JUxXrDPiLBiTNnKwJcBnE28gfkJIqrZ7ZmNJ6vhBnxKRl6SkvnaMXmiPWtbIf1c3baXl6PfCm9vurF_1rx3-PTISzxjAtQ9H6G3jNZf12RrkecXy84eesMift0RcCSJbpuWpE_CkgVdC-xC9UQ0ToJshvadAa4tAw7AS26bhxvR_Z9vkxpYt1Rvc2Bk7YiUgq81CrnOVeB7J3A_xhEBk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wO9-VXiczVbdcqJIGH2AfY71JlH-FDFV1FR3p6OIicHIxuSG4s8WBVEQiXM3z7CvsE81TzMNKqKrZmYutpZKCd10n-87_X2Hk2__-N589v2Pvyer1SK-Y5g0TWskDInv1uwwYMx4M7eZcejHkT35EodJZLueI9uTKAzcymYtCxU7ltmK68n3fPLVXBoidIZJlODn1N6oPCCVHEI2LDN2pzTCxzRmDIb-zP4U7umgFtfceW0gVAedVNK8_qzGs7xQ6zNmQBeA_-7SEMAAEKjQZ3hxEV3xM2CQIlCgWWlK2e0sYb8BlOEpWj5CF5BJjpYBKDDbQG_Ge1SHQN1jIe1iIqgcjw6ylRjlRHKm3s-wKXHILlxgoqurz_HZItDweD_zWHqLwYULnXSCTtEl8KiAyW7ipGI4LI-62c_9NvwY1FNcHzxczZyejp7Chgo-LfcDGMzJjpSCVnQnZBxCO5dlrIjeOMazJ3b-EMVZQ6Nhiw0fBuO6ClNzXJ2Li3dH7elV_YkAd_Oiaoxt0XV-aDquY0wM9ks-5niuwbaEpnSbK8mOCynFZSkBtS20WHPZ5B9rvRrk9jpCxcmflCzrBaScIQbRbum5GhN4mD-c_AyXq6BuzyQ7S14BRfx8iyZuS11U9VkBkCjlVihws33ndLTLpGBFtLy5s7TCIrsyM0JlVCSISrwez-r9dE7rFBko8F8LyzkpUCGU9l6UR6yysBgok-ylTg-5R3YKtI8xsuPRih3bCBlz1C6I4TJFXA7jUaRcGNMXkHX_srutsbYFUw6y17P0y18PeOHbh2OQgu51vV-6lE--E7vIe8Gc9H9ZN_hpWmVTwfOcYOENA6y8pv2EX4vrgaGd10kYWL_gOfb_Skl7R1Lzd5eVlPXNp0qiza9cdaT8eetIWnerJEQuKim3pJ0jocKR-mcd6bijEBgclKTCq47060pCV5VEdkzPKIk60jklzS4pKXekYyVNJO3IkY54F450UNLvOBL6PUfKheVub8f2lEzJRZvqjDpNFyxa5l8jAbBDQeoG1ZbNvVntBvnUpsbB6i4wHf_W8Jw7yHdXG-fWoBPhnetUlrJvJnN7cmMuFr574yThzSpK3BvLHYeRe0flKFZZjv5VAj8KZdYUzW6_1e4-zObWq-jev7esgcCPPgQivUhguG563mjYe-o3_A_1JUxXrDPiLBiTNnKwJcBnE28gfkJIqrZ7ZmNJ6vhBnxKRl6SkvnaMXmiPWtbIf1c3baXl6PfCm9vurF_1rx3-PTISzxjAtQ9H6G3jNZf12RrkecXy84eesMift0RcCSJbpuWpE_CkgVdC-xC9UQ0ToJshvadAa4tAw7AS26bhxvR_Z9vkxpYt1Rvc2Bk7YiUgq81CrnOVeB7J3A_xhEBk"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Apple's upcoming iPhone Fold looks to copy Microsoft's ...",
+      "link": "https://www.reddit.com/r/surfaceduo/comments/1p78uv8/apples_upcoming_iphone_fold_looks_to_copy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFcQ90P0kEBsPK6jpAoZ4l5TWKz_NzsPKGRB-h-g_N8c-BQn7Ytragqdh04sk88s9WP-I0x9zqpCh3x4a1FLx2zg8PfmoQI2dVDMpsH3qZ8vI6QMJA2rZYuch46Ad8_A3saKqFDK52spCsLM38XQi6wOhmwFvBl4_Rr9o-j9rLKsUEDoLSgeDvumWQNujVgJg_YOG&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQFnoECCEQAQ&uoh=1",
+      "displayed_link": "20+ comments · 10 months ago",
+      "snippet": "Apple's upcoming iPhone Fold looks to copy Microsoft's Surface Duo in one key way — and that's genuinely great news · Comments Section · Community Info Section.",
+      "snippet_highlighted_words": [
+        "Apple's upcoming iPhone Fold looks to copy Microsoft's Surface Duo"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Apple will launch the iPhone 18 Pro, 18 Pro Max and ...",
+            "link": "https://www.reddit.com/r/apple/comments/1oypukz/gurman_apple_will_launch_the_iphone_18_pro_18_pro/",
+            "answer_count": 116,
+            "date": "Nov 16, 2025"
+          },
+          {
+            "title": "The First Foldable iPhone Will Arrive Next Year in Un ...",
+            "link": "https://www.reddit.com/r/apple/comments/1m4n7ds/the_first_foldable_iphone_will_arrive_next_year/",
+            "answer_count": 442,
+            "date": "Jul 20, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Apple's upcoming iPhone Fold looks to copy Microsoft's Surface Duo in one key way — and that's genuinely great news · Comments Section · Community Info Section.",
+          "source_info_link": "https://www.reddit.com/r/surfaceduo/comments/1p78uv8/apples_upcoming_iphone_fold_looks_to_copy/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjUTkwUDBrRUJzUEs2anBBb1o0bDVUV0t6X056c1BLR1JCLWgtZ19OOGMtQlFuN1l0cmFncWRoMDRzazg4czlXUC1JMHg5enFwQ2gzeDRhMUZMeDJ6ZzhQZm1vUUkyZFZETXBzSDNxWjh2STZRTUpBMnJaWXVjaDQ2QWQ4X0Ezc2FLcUZESzUyc3BDc0xNMzhYUWk2d09obXdGdkJsNF9ScjlvLWo5ckxLc1VFRG9MU2dlRHZ1bVdRTnVqVmdKZ19ZT0cSBBoCCAAa4gUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC8BQgAEAAYACAAKk0KBmxhdW5jaBUhnZI-GghsYXVuY2hlZBoIbGF1bmNoZXMaCWxhdW5jaGluZxoEb3BlbhoIcmVsZWFzZWQaCHJlbGVhc2VzGgVzdGFydCoVCgVhcHBsZRWuz3ZAGgdhcHBsZSdzKhQKA2R1bxVcGH9AGghpdjtwO2R1bypCCgR0cnVlFQAAAAAaBmFjdHVhbBoJYXV0aGVudGljGgdnZW51aW5lGgRyZWFsGgV0cnVseRoFdHJ1dGgaBXRydW1wMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjUTkwUDBrRUJzUEs2anBBb1o0bDVUV0t6X056c1BLR1JCLWgtZ19OOGMtQlFuN1l0cmFncWRoMDRzazg4czlXUC1JMHg5enFwQ2gzeDRhMUZMeDJ6ZzhQZm1vUUkyZFZETXBzSDNxWjh2STZRTUpBMnJaWXVjaDQ2QWQ4X0Ezc2FLcUZESzUyc3BDc0xNMzhYUWk2d09obXdGdkJsNF9ScjlvLWo5ckxLc1VFRG9MU2dlRHZ1bVdRTnVqVmdKZ19ZT0c6STxiPkFwcGxlJiMzOTtzPC9iPiB1cGNvbWluZyBpUGhvbmUgRm9sZCBsb29rcyB0byBjb3B5IE1pY3Jvc29mdCYjMzk7cyAuLi5CwwE8Yj5BcHBsZSYjMzk7cyB1cGNvbWluZyBpUGhvbmUgRm9sZCBsb29rcyB0byBjb3B5IE1pY3Jvc29mdCYjMzk7cyBTdXJmYWNlIER1bzwvYj4gaW4gb25lIGtleSB3YXkg4oCUIGFuZCB0aGF0JiMzOTtzIGdlbnVpbmVseSBncmVhdCBuZXdzICZtaWRkb3Q7IENvbW1lbnRzIFNlY3Rpb24gJm1pZGRvdDsgQ29tbXVuaXR5IEluZm8gU2VjdGlvbi5SBG9wZW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjUTkwUDBrRUJzUEs2anBBb1o0bDVUV0t6X056c1BLR1JCLWgtZ19OOGMtQlFuN1l0cmFncWRoMDRzazg4czlXUC1JMHg5enFwQ2gzeDRhMUZMeDJ6ZzhQZm1vUUkyZFZETXBzSDNxWjh2STZRTUpBMnJaWXVjaDQ2QWQ4X0Ezc2FLcUZESzUyc3BDc0xNMzhYUWk2d09obXdGdkJsNF9ScjlvLWo5ckxLc1VFRG9MU2dlRHZ1bVdRTnVqVmdKZ19ZT0cSBBoCCAAa4gUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC8BQgAEAAYACAAKk0KBmxhdW5jaBUhnZI-GghsYXVuY2hlZBoIbGF1bmNoZXMaCWxhdW5jaGluZxoEb3BlbhoIcmVsZWFzZWQaCHJlbGVhc2VzGgVzdGFydCoVCgVhcHBsZRWuz3ZAGgdhcHBsZSdzKhQKA2R1bxVcGH9AGghpdjtwO2R1bypCCgR0cnVlFQAAAAAaBmFjdHVhbBoJYXV0aGVudGljGgdnZW51aW5lGgRyZWFsGgV0cnVseRoFdHJ1dGgaBXRydW1wMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZjUTkwUDBrRUJzUEs2anBBb1o0bDVUV0t6X056c1BLR1JCLWgtZ19OOGMtQlFuN1l0cmFncWRoMDRzazg4czlXUC1JMHg5enFwQ2gzeDRhMUZMeDJ6ZzhQZm1vUUkyZFZETXBzSDNxWjh2STZRTUpBMnJaWXVjaDQ2QWQ4X0Ezc2FLcUZESzUyc3BDc0xNMzhYUWk2d09obXdGdkJsNF9ScjlvLWo5ckxLc1VFRG9MU2dlRHZ1bVdRTnVqVmdKZ19ZT0c6STxiPkFwcGxlJiMzOTtzPC9iPiB1cGNvbWluZyBpUGhvbmUgRm9sZCBsb29rcyB0byBjb3B5IE1pY3Jvc29mdCYjMzk7cyAuLi5CwwE8Yj5BcHBsZSYjMzk7cyB1cGNvbWluZyBpUGhvbmUgRm9sZCBsb29rcyB0byBjb3B5IE1pY3Jvc29mdCYjMzk7cyBTdXJmYWNlIER1bzwvYj4gaW4gb25lIGtleSB3YXkg4oCUIGFuZCB0aGF0JiMzOTtzIGdlbnVpbmVseSBncmVhdCBuZXdzICZtaWRkb3Q7IENvbW1lbnRzIFNlY3Rpb24gJm1pZGRvdDsgQ29tbXVuaXR5IEluZm8gU2VjdGlvbi5SBG9wZW4iAhABSABYAGgA",
+      "missing": [
+        "true"
+      ],
+      "must_include": {
+        "word": "true",
+        "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=launch+apple+duo+%22true%22+before:2026-01-01&sa=X&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ5t4CegQIJBAB"
+      },
+      "source": "Reddit · r/surfaceduo",
+      "read_more_link": "https://www.reddit.com/r/surfaceduo/comments/1p78uv8/apples_upcoming_iphone_fold_looks_to_copy/#:~:text=Apple's%20upcoming%20iPhone%20Fold%20looks,and%20that's%20genuinely%20great%20news&text=hebi64&text=Top%20Posts"
+    },
+    {
+      "position": 2,
+      "title": "Our Best Look Yet At Apple's Upcoming Folding iPhone!",
+      "link": "https://www.youtube.com/watch?v=z7gyudcq9iU",
+      "displayed_link": "28.7K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36b0eabe7ec9cfe4f2e0b/images/Cb3fHaDr8wQlfirAtzNjeDR3uAXicmJdELgZbwnWZ_Q.jpeg",
+      "snippet": "Apple's first folding iPhone may finally be getting closer – and the latest iPhone Fold rumors are giving us our clearest look yet at what to expect.",
+      "duration": "5:52",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=z7gyudcq9iU&t=0"
+        },
+        {
+          "time": "01:12",
+          "title": "Display Size & Resolution",
+          "link": "https://www.youtube.com/watch?v=z7gyudcq9iU&t=72"
+        },
+        {
+          "time": "03:23",
+          "title": "Touch ID VS Face ID",
+          "link": "https://www.youtube.com/watch?v=z7gyudcq9iU&t=203"
+        },
+        {
+          "time": "03:40",
+          "title": "Cameras",
+          "link": "https://www.youtube.com/watch?v=z7gyudcq9iU&t=220"
+        },
+        {
+          "time": "03:57",
+          "title": "iPhone Fold Release Date",
+          "link": "https://www.youtube.com/watch?v=z7gyudcq9iU&t=237"
+        },
+        {
+          "time": "05:10",
+          "title": "iPhone Fold Pricing",
+          "link": "https://www.youtube.com/watch?v=z7gyudcq9iU&t=310"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple's first folding iPhone may finally be getting closer – and the latest iPhone Fold rumors are giving us our clearest look yet at what to expect.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnctTE1YZ01xbUtiQ0ZQdEp6aUUtNUpacldPMDNjSWNpcE41OEdMYXFYdUxUZTFZcHp6Sm5MaFRIdnlKUlZfbGpLdTJHSUNraWJveDZZU044OTA3em0yUjljVzRLcDB2T0ItYmNCMnU2bTUxbHV5cVZhQjgzRFNQOUVTbkM1dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnctTE1YZ01xbUtiQ0ZQdEp6aUUtNUpacldPMDNjSWNpcE41OEdMYXFYdUxUZTFZcHp6Sm5MaFRIdnlKUlZfbGpLdTJHSUNraWJveDZZU044OTA3em0yUjljVzRLcDB2T0ItYmNCMnU2bTUxbHV5cVZhQjgzRFNQOUVTbkM1dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "missing": [
+        "true"
+      ],
+      "must_include": {
+        "word": "true",
+        "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=launch+apple+duo+%22true%22+before:2026-01-01&sa=X&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ5t4CegQIHBAj"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQYx2ki5GuoksOTKmh-_ORneRif5UcH7UY1jQ",
+      "source": "YouTube · AppleInsider"
+    },
+    {
+      "position": 3,
+      "title": "Apple",
+      "link": "https://www.youtube.com/apple",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVTqEJS3HAdzt9wiu5RxYVjqiVkLuuzEUPn_mczQZofa8_mQG6OI0PdaMsGWigOOEAlHGmAeVClPqWukQ3HEjehf-W_7qOUMpe6kFaMeL_vVo&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQFnoECB4QAQ&uoh=1",
+      "displayed_link": "21M+ followers",
+      "snippet": "Introducing the new iPhone Duo Apple 30M views. Introducing iPhone Duo and more Apple. Recapping announcements of iPhone Duo, iPhone 18 Pro, and more",
+      "snippet_highlighted_words": [
+        "iPhone Duo"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Introducing the new iPhone Duo Apple 30M views. Introducing iPhone Duo and more Apple. Recapping announcements of iPhone Duo, iPhone 18 Pro, and more",
+          "source_info_link": "https://www.youtube.com/apple",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVlRxRUpTM0hBZHp0OXdpdTVSeFlWanFpVmtMdXV6RVVQbl9tY3pRWm9mYThfbVFHNk9JMFBkYU1zR1dpZ09PRUFsSEdtQWVWQ2xQcVd1a1EzSEVqZWhmLVdfN3FPVU1wZTZrRmFNZUxfdlZvEgQaAggAGq8EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQQIABAAGAAgACpNCgZsYXVuY2gVAAAAABoIbGF1bmNoZWQaCGxhdW5jaGVzGglsYXVuY2hpbmcaBG9wZW4aCHJlbGVhc2VkGghyZWxlYXNlcxoFc3RhcnQqFQoFYXBwbGUVN9OuQBoHYXBwbGUncyoUCgNkdW8VoSVlPxoIaXY7cDtkdW8qQgoEdHJ1ZRU9M5s-GgZhY3R1YWwaCWF1dGhlbnRpYxoHZ2VudWluZRoEcmVhbBoFdHJ1bHkaBXRydXRoGgV0cnVtcDKBAS9nb3RvP3VybD1DQUVTVlFIck96QVZUcUVKUzNIQWR6dDl3aXU1UnhZVmpxaVZrTHV1ekVVUG5fbWN6UVpvZmE4X21RRzZPSTBQZGFNc0dXaWdPT0VBbEhHbUFlVkNsUHFXdWtRM0hFamVoZi1XXzdxT1VNcGU2a0ZhTWVMX3ZWbzoWPGI-QXBwbGU8L2I-IC0gWW91VHViZUKcAUludHJvZHVjaW5nIHRoZSBuZXcgPGI-aVBob25lIER1bzwvYj4gQXBwbGUgMzBNIHZpZXdzLiBJbnRyb2R1Y2luZyBpUGhvbmUgRHVvIGFuZCBtb3JlIEFwcGxlLiBSZWNhcHBpbmcgYW5ub3VuY2VtZW50cyBvZiBpUGhvbmUgRHVvLCBpUGhvbmUgMTggUHJvLCBhbmQgbW9yZVIEb3BlbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVlRxRUpTM0hBZHp0OXdpdTVSeFlWanFpVmtMdXV6RVVQbl9tY3pRWm9mYThfbVFHNk9JMFBkYU1zR1dpZ09PRUFsSEdtQWVWQ2xQcVd1a1EzSEVqZWhmLVdfN3FPVU1wZTZrRmFNZUxfdlZvEgQaAggAGq8EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQQIABAAGAAgACpNCgZsYXVuY2gVAAAAABoIbGF1bmNoZWQaCGxhdW5jaGVzGglsYXVuY2hpbmcaBG9wZW4aCHJlbGVhc2VkGghyZWxlYXNlcxoFc3RhcnQqFQoFYXBwbGUVN9OuQBoHYXBwbGUncyoUCgNkdW8VoSVlPxoIaXY7cDtkdW8qQgoEdHJ1ZRU9M5s-GgZhY3R1YWwaCWF1dGhlbnRpYxoHZ2VudWluZRoEcmVhbBoFdHJ1bHkaBXRydXRoGgV0cnVtcDKBAS9nb3RvP3VybD1DQUVTVlFIck96QVZUcUVKUzNIQWR6dDl3aXU1UnhZVmpxaVZrTHV1ekVVUG5fbWN6UVpvZmE4X21RRzZPSTBQZGFNc0dXaWdPT0VBbEhHbUFlVkNsUHFXdWtRM0hFamVoZi1XXzdxT1VNcGU2a0ZhTWVMX3ZWbzoWPGI-QXBwbGU8L2I-IC0gWW91VHViZUKcAUludHJvZHVjaW5nIHRoZSBuZXcgPGI-aVBob25lIER1bzwvYj4gQXBwbGUgMzBNIHZpZXdzLiBJbnRyb2R1Y2luZyBpUGhvbmUgRHVvIGFuZCBtb3JlIEFwcGxlLiBSZWNhcHBpbmcgYW5ub3VuY2VtZW50cyBvZiBpUGhvbmUgRHVvLCBpUGhvbmUgMTggUHJvLCBhbmQgbW9yZVIEb3BlbiICEAFIAFgAaAA",
+      "source": "YouTube · Apple"
+    },
+    {
+      "position": 4,
+      "title": "This is the closest look yet at Apple's foldable iPhone Not real ...",
+      "link": "https://www.facebook.com/MacRumors/posts/this-is-the-closest-look-yet-at-apples-foldable-iphone-not-real-but-a-full-scale/1296727369156910/",
+      "displayed_link": "520+ reactions · 8 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36b0eabe7ec9cfe4f2e0b/images/Cb3fHaDr8wQlfirAtzNjePiIUS09tkxvXEe8aTruu3s.jpeg",
+      "snippet": "Interesting -- the latest rumours say Apple's first foldable could be between 7 and 8-inches, making it more like an iPad mini alternative than a folding phone.",
+      "duration": "1:09",
+      "about_this_result": {
+        "source": {
+          "description": "Interesting -- the latest rumours say Apple's first foldable could be between 7 and 8-inches, making it more like an iPad mini alternative than a folding phone.",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZXeFY3dXdzRFJwTUh0dllBVHFqcDlQYUpMZU9DNlQ3N0JaUDBWa3VTRk02NmtMSjlMNnBWQmRWMk05Y0E1bUlqdW9HVm0wbnBXSHpzUzRrOUpyem9HSXFJcmV3UF9JOUNFUFByT1BpVTNIVTJDcW1hVUEyQmRvYjFnZzYxbXBIZFd4aW9pcW9jY3hMZEtncEN1MkVGZk5PNmNldndaTzBCTldaTGJSX0tSejRfRUh6amZWem1pQVMxaDgwdzQySl9Zdm0yb0p5S0xIX1dmcTlIaC1XcWRVeEdMV3RCbDlOQUNyel9rQWFwdWtjTXgxazlvM0lhZThmYmd0U3FBc0oSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0ZXeFY3dXdzRFJwTUh0dllBVHFqcDlQYUpMZU9DNlQ3N0JaUDBWa3VTRk02NmtMSjlMNnBWQmRWMk05Y0E1bUlqdW9HVm0wbnBXSHpzUzRrOUpyem9HSXFJcmV3UF9JOUNFUFByT1BpVTNIVTJDcW1hVUEyQmRvYjFnZzYxbXBIZFd4aW9pcW9jY3hMZEtncEN1MkVGZk5PNmNldndaTzBCTldaTGJSX0tSejRfRUh6amZWem1pQVMxaDgwdzQySl9Zdm0yb0p5S0xIX1dmcTlIaC1XcWRVeEdMV3RCbDlOQUNyel9rQWFwdWtjTXgxazlvM0lhZThmYmd0U3FBc0oSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Facebook · MacRumors"
+    },
+    {
+      "position": 5,
+      "title": "iPhone Fold, iPhone Flip & 20th Anniversary. Apple's 3-Year ...",
+      "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock",
+      "displayed_link": "77K+ views · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36b0eabe7ec9cfe4f2e0b/images/Cb3fHaDr8wQlfirAtzNjeBoFpOW5dzLGZavrAY70e28.jpeg",
+      "snippet": "The latest report claims we will see 3 new hardware designs for the iPhone each year for the next three years. Apple iPhone Duo vs Samsung Z Fold 8 - Spec ...",
+      "duration": "12:30",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=0"
+        },
+        {
+          "time": "00:19",
+          "title": "3 New iPhones In 3 Years",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=19"
+        },
+        {
+          "time": "02:57",
+          "title": "Skipping the iPhone 19",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=177"
+        },
+        {
+          "time": "05:46",
+          "title": "The New A20 and A20 Pro Chips",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=346"
+        },
+        {
+          "time": "06:20",
+          "title": "A20 To Cost Significantly More",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=380"
+        },
+        {
+          "time": "07:48",
+          "title": "iPhone Air Not Selling Well?",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=468"
+        },
+        {
+          "time": "09:50",
+          "title": "Cosmic Orange 17 Pro Changing Colors?",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=590"
+        },
+        {
+          "time": "10:57",
+          "title": "iOS 26.1 Can Turn Off Liquid Glass",
+          "link": "https://www.youtube.com/watch?v=A3BzMmd_Ock&t=657"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The latest report claims we will see 3 new hardware designs for the iPhone each year for the next three years. Apple iPhone Duo vs Samsung Z Fold 8 - Spec ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVm9xN0p6UG1fU3hOSVdaMkw5MEpOTFJ0V2UydEV4NDBDaENWdktoZWNqVFczNm9UZmg2MWQ5YUdfR1lhUjBjbkFRY0J2LXFRaUo1eTd1Y1dieDU3dnhMcXY5QmlFS0NuckJOMDF4amcyUzZMWTNwNzNqYzZHcDVoWEtyWldlZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVm9xN0p6UG1fU3hOSVdaMkw5MEpOTFJ0V2UydEV4NDBDaENWdktoZWNqVFczNm9UZmg2MWQ5YUdfR1lhUjBjbkFRY0J2LXFRaUo1eTd1Y1dieDU3dnhMcXY5QmlFS0NuckJOMDF4amcyUzZMWTNwNzNqYzZHcDVoWEtyWldlZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "missing": [
+        "true"
+      ],
+      "must_include": {
+        "word": "true",
+        "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=launch+apple+duo+%22true%22+before:2026-01-01&sa=X&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ5t4CegQIKxAl"
+      },
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSeT98UD_Slg4V4PRJG48sEcgwVSSaGuheL6g",
+      "source": "YouTube · Brian Tong"
+    },
+    {
+      "position": 6,
+      "title": "Apple's Foldable iPhone Hands-On…Sort Of",
+      "link": "https://www.youtube.com/watch?v=zLiz-FQfb2s",
+      "displayed_link": "330.2K+ views · 8 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36b0eabe7ec9cfe4f2e0b/images/Cb3fHaDr8wQlfirAtzNjeOtsUvhChpQgQpHuvBIaI98.jpeg",
+      "snippet": "Apple's foldable iPhone is rumored to arrive as early as next year, I 3D printed a full-scale foldable the surface",
+      "duration": "10:10",
+      "about_this_result": {
+        "source": {
+          "description": "Apple's foldable iPhone is rumored to arrive as early as next year, I 3D printed a full-scale foldable the surface",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkh5TWx5ZHNRUTJLVEV2Qjh5RmtkaldWU1VmcUdIakNJMHdvMVUxZFV3cTV5RlQxODc0bE11UGdaQkpTM29sX2J6U0gzRENwOWVqOThlcDNIUWd1Tm8xSXZhbFdqRklzdlJDRDBtN2ZSUGtKRVlDempreVRBM3k4NkRZSWctZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkh5TWx5ZHNRUTJLVEV2Qjh5RmtkaldWU1VmcUdIakNJMHdvMVUxZFV3cTV5RlQxODc0bE11UGdaQkpTM29sX2J6U0gzRENwOWVqOThlcDNIUWd1Tm8xSXZhbFdqRklzdlJDRDBtN2ZSUGtKRVlDempreVRBM3k4NkRZSWctZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQv78-d1kA45kRN6FgihFA95HGg899Ut_4CSw",
+      "source": "YouTube · MacRumors"
+    },
+    {
+      "position": 7,
+      "title": "Get ready to discover the next generation of iPhone ...",
+      "link": "https://www.apple.com/newsroom/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqwEB6zswFfy6qe-P9MA2k-IiUPQ36sOUm5SxEHQJsY2-hsaOx9H7cLSY404ca8ViaXHDE_cB2ZWH0-gLkkIr4kY7iU5iVLViA2d1_TuukGYbsO7t-1rSG3HlHyQDk7MnBeZzckfxR2FiVswX_E3WyhFu9_zbfArxmT9APeybqkeF-pdml0UUJDJ5749LzoarYSM2ECj5olWxbL8W29F_gyHUOKaWW-qUndsqi1s&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › newsroom › 2025/09 › get-rea...",
+      "date": "Sep 11, 2025",
+      "snippet": "Apple fans can pre-order and upgrade to the groundbreaking iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone 17 Pro Max starting Friday, September 12.",
+      "snippet_highlighted_words": [
+        "Apple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple fans can pre-order and upgrade to the groundbreaking iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone 17 Pro Max starting Friday, September 12.",
+          "source_info_link": "https://www.apple.com/newsroom/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvUBL2dvdG8_dXJsPUNBRVNxd0VCNnpzd0ZmeTZxZS1QOU1BMmstSWlVUFEzNnNPVW01U3hFSFFKc1kyLWhzYU94OUg3Y0xTWTQwNGNhOFZpYVhIREVfY0IyWldIMC1nTGtrSXI0a1k3aVU1aVZMVmlBMmQxX1R1dWtHWWJzTzd0LTFyU0czSGxIeVFEazdNbkJlWnpja2Z4UjJGaVZzd1hfRTNXeWhGdTlfemJmQXJ4bVQ5QVBleWJxa2VGLXBkbWwwVVVKREo1NzQ5THpvYXJZU00yRUNqNW9sV3hiTDhXMjlGX2d5SFVPS2FXVy1xVW5kc3FpMXMSBBoCCAAa3wUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJArAUIABAAGAAgACpNCgZsYXVuY2gVAAAAABoIbGF1bmNoZWQaCGxhdW5jaGVzGglsYXVuY2hpbmcaBG9wZW4aCHJlbGVhc2VkGghyZWxlYXNlcxoFc3RhcnQqFQoFYXBwbGUVDnoIQRoHYXBwbGUncyoUCgNkdW8VQWkxPRoIaXY7cDtkdW8qQgoEdHJ1ZRUAAAAAGgZhY3R1YWwaCWF1dGhlbnRpYxoHZ2VudWluZRoEcmVhbBoFdHJ1bHkaBXRydXRoGgV0cnVtcDL1AS9nb3RvP3VybD1DQUVTcXdFQjZ6c3dGZnk2cWUtUDlNQTJrLUlpVVBRMzZzT1VtNVN4RUhRSnNZMi1oc2FPeDlIN2NMU1k0MDRjYThWaWFYSERFX2NCMlpXSDAtZ0xra0lyNGtZN2lVNWlWTFZpQTJkMV9UdXVrR1lic083dC0xclNHM0hsSHlRRGs3TW5CZVp6Y2tmeFIyRmlWc3dYX0UzV3loRnU5X3piZkFyeG1UOUFQZXlicWtlRi1wZG1sMFVVSkRKNTc0OUx6b2FyWVNNMkVDajVvbFd4Ykw4VzI5Rl9neUhVT0thV1ctcVVuZHNxaTFzOkVHZXQgcmVhZHkgdG8gZGlzY292ZXIgdGhlIG5leHQgZ2VuZXJhdGlvbiBvZiBpUGhvbmUsIDxiPkFwcGxlPC9iPiAuLi5CnAE8Yj5BcHBsZTwvYj4gZmFucyBjYW4gcHJlLW9yZGVyIGFuZCB1cGdyYWRlIHRvIHRoZSBncm91bmRicmVha2luZyBpUGhvbmUgMTcsIGlQaG9uZSBBaXIsIGlQaG9uZSAxNyBQcm8sIGFuZCBpUGhvbmUgMTcgUHJvIE1heCBzdGFydGluZyBGcmlkYXksIFNlcHRlbWJlciAxMi5SBG9wZW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvUBL2dvdG8_dXJsPUNBRVNxd0VCNnpzd0ZmeTZxZS1QOU1BMmstSWlVUFEzNnNPVW01U3hFSFFKc1kyLWhzYU94OUg3Y0xTWTQwNGNhOFZpYVhIREVfY0IyWldIMC1nTGtrSXI0a1k3aVU1aVZMVmlBMmQxX1R1dWtHWWJzTzd0LTFyU0czSGxIeVFEazdNbkJlWnpja2Z4UjJGaVZzd1hfRTNXeWhGdTlfemJmQXJ4bVQ5QVBleWJxa2VGLXBkbWwwVVVKREo1NzQ5THpvYXJZU00yRUNqNW9sV3hiTDhXMjlGX2d5SFVPS2FXVy1xVW5kc3FpMXMSBBoCCAAa3wUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJArAUIABAAGAAgACpNCgZsYXVuY2gVAAAAABoIbGF1bmNoZWQaCGxhdW5jaGVzGglsYXVuY2hpbmcaBG9wZW4aCHJlbGVhc2VkGghyZWxlYXNlcxoFc3RhcnQqFQoFYXBwbGUVDnoIQRoHYXBwbGUncyoUCgNkdW8VQWkxPRoIaXY7cDtkdW8qQgoEdHJ1ZRUAAAAAGgZhY3R1YWwaCWF1dGhlbnRpYxoHZ2VudWluZRoEcmVhbBoFdHJ1bHkaBXRydXRoGgV0cnVtcDL1AS9nb3RvP3VybD1DQUVTcXdFQjZ6c3dGZnk2cWUtUDlNQTJrLUlpVVBRMzZzT1VtNVN4RUhRSnNZMi1oc2FPeDlIN2NMU1k0MDRjYThWaWFYSERFX2NCMlpXSDAtZ0xra0lyNGtZN2lVNWlWTFZpQTJkMV9UdXVrR1lic083dC0xclNHM0hsSHlRRGs3TW5CZVp6Y2tmeFIyRmlWc3dYX0UzV3loRnU5X3piZkFyeG1UOUFQZXlicWtlRi1wZG1sMFVVSkRKNTc0OUx6b2FyWVNNMkVDajVvbFd4Ykw4VzI5Rl9neUhVT0thV1ctcVVuZHNxaTFzOkVHZXQgcmVhZHkgdG8gZGlzY292ZXIgdGhlIG5leHQgZ2VuZXJhdGlvbiBvZiBpUGhvbmUsIDxiPkFwcGxlPC9iPiAuLi5CnAE8Yj5BcHBsZTwvYj4gZmFucyBjYW4gcHJlLW9yZGVyIGFuZCB1cGdyYWRlIHRvIHRoZSBncm91bmRicmVha2luZyBpUGhvbmUgMTcsIGlQaG9uZSBBaXIsIGlQaG9uZSAxNyBQcm8sIGFuZCBpUGhvbmUgMTcgUHJvIE1heCBzdGFydGluZyBGcmlkYXksIFNlcHRlbWJlciAxMi5SBG9wZW4iAhABSABYAGgA",
+      "source": "Apple"
+    },
+    {
+      "position": 8,
+      "title": "iPhone Air",
+      "link": "https://www.apple.com/my/iphone-air/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVUKp_AAgnBGiEGUPUPop3ypY-AbUpYyw-S-6Tqcv7ZdqroQd_7V-OHVIAybpQEEXzswYqPhNxZCBOxvjOu1iZJwFfuB0JIQVLvo-lf2C6sEpZTeYmQ45u&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › iphone-air",
+      "date": "Sep 9, 2025",
+      "snippet": "The thinnest iPhone ever. With the power of the A19 Pro chip inside. The new Center Stage front camera. And Ceramic Shield front and back.",
+      "about_this_result": {
+        "source": {
+          "description": "The thinnest iPhone ever. With the power of the A19 Pro chip inside. The new Center Stage front camera. And Ceramic Shield front and back.",
+          "source_info_link": "https://www.apple.com/my/iphone-air/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlVLcF9BQWduQkdpRUdVUFVQb3AzeXBZLUFiVXBZeXctUy02VHFjdjdaZHFyb1FkXzdWLU9IVklBeWJwUUVFWHpzd1lxUGhOeFpDQk94dmpPdTFpWkp3RmZ1QjBKSVFWTHZvLWxmMkM2c0VwWlRlWW1RNDV1EgQaAggAGrsEEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoNCAESCWFwcGxlLmNvbXIAegCCQIgECAAQABgAIAAqTQoGbGF1bmNoFaExTz0aCGxhdW5jaGVkGghsYXVuY2hlcxoJbGF1bmNoaW5nGgRvcGVuGghyZWxlYXNlZBoIcmVsZWFzZXMaBXN0YXJ0KhUKBWFwcGxlFeb0CkEaB2FwcGxlJ3MqFAoDZHVvFeJ-3T0aCGl2O3A7ZHVvKkIKBHRydWUVhjpRPBoGYWN0dWFsGglhdXRoZW50aWMaB2dlbnVpbmUaBHJlYWwaBXRydWx5GgV0cnV0aBoFdHJ1bXAyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWVUtwX0FBZ25CR2lFR1VQVVBvcDN5cFktQWJVcFl5dy1TLTZUcWN2N1pkcXJvUWRfN1YtT0hWSUF5YnBRRUVYenN3WXFQaE54WkNCT3h2ak91MWlaSndGZnVCMEpJUVZMdm8tbGYyQzZzRXBaVGVZbVE0NXU6HmlQaG9uZSBBaXIgLSA8Yj5BcHBsZTwvYj4gKE1ZKUKKAVRoZSB0aGlubmVzdCBpUGhvbmUgZXZlci4gV2l0aCB0aGUgcG93ZXIgb2YgdGhlIEExOSBQcm8gY2hpcCBpbnNpZGUuIFRoZSBuZXcgQ2VudGVyIFN0YWdlIGZyb250IGNhbWVyYS4gQW5kIENlcmFtaWMgU2hpZWxkIGZyb250IGFuZCBiYWNrLlIEb3BlbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlVLcF9BQWduQkdpRUdVUFVQb3AzeXBZLUFiVXBZeXctUy02VHFjdjdaZHFyb1FkXzdWLU9IVklBeWJwUUVFWHpzd1lxUGhOeFpDQk94dmpPdTFpWkp3RmZ1QjBKSVFWTHZvLWxmMkM2c0VwWlRlWW1RNDV1EgQaAggAGrsEEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoNCAESCWFwcGxlLmNvbXIAegCCQIgECAAQABgAIAAqTQoGbGF1bmNoFaExTz0aCGxhdW5jaGVkGghsYXVuY2hlcxoJbGF1bmNoaW5nGgRvcGVuGghyZWxlYXNlZBoIcmVsZWFzZXMaBXN0YXJ0KhUKBWFwcGxlFeb0CkEaB2FwcGxlJ3MqFAoDZHVvFeJ-3T0aCGl2O3A7ZHVvKkIKBHRydWUVhjpRPBoGYWN0dWFsGglhdXRoZW50aWMaB2dlbnVpbmUaBHJlYWwaBXRydWx5GgV0cnV0aBoFdHJ1bXAyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWVUtwX0FBZ25CR2lFR1VQVVBvcDN5cFktQWJVcFl5dy1TLTZUcWN2N1pkcXJvUWRfN1YtT0hWSUF5YnBRRUVYenN3WXFQaE54WkNCT3h2ak91MWlaSndGZnVCMEpJUVZMdm8tbGYyQzZzRXBaVGVZbVE0NXU6HmlQaG9uZSBBaXIgLSA8Yj5BcHBsZTwvYj4gKE1ZKUKKAVRoZSB0aGlubmVzdCBpUGhvbmUgZXZlci4gV2l0aCB0aGUgcG93ZXIgb2YgdGhlIEExOSBQcm8gY2hpcCBpbnNpZGUuIFRoZSBuZXcgQ2VudGVyIFN0YWdlIGZyb250IGNhbWVyYS4gQW5kIENlcmFtaWMgU2hpZWxkIGZyb250IGFuZCBiYWNrLlIEb3BlbiICEAFIAFgAaAA",
+      "source": "Apple"
+    },
+    {
+      "position": 9,
+      "title": "Apple's iPhone Fold Just Got Leaked - First Look At The Design!",
+      "link": "https://www.youtube.com/watch?v=vNRl-STFcR8",
+      "displayed_link": "156.5K+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7JQ7wxAoA8OrRm7-maLOfD19WyHTPHz4nN3Vf046ftubRH98ITfebw&s",
+      "snippet": "Apple iPhone Duo vs Samsung Z Fold 8 - Spec Battle! · New. 284K views ; Apple iPhone Duo, 18 Pro/18 Pro Max, Apple Watch & AirPods 5 Event Recap! What Stood Out?",
+      "duration": "13:50",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=vNRl-STFcR8&t=0"
+        },
+        {
+          "time": "00:23",
+          "title": "'iPhone Fold' Dummy Models",
+          "link": "https://www.youtube.com/watch?v=vNRl-STFcR8&t=23"
+        },
+        {
+          "time": "02:04",
+          "title": "The Competition",
+          "link": "https://www.youtube.com/watch?v=vNRl-STFcR8&t=124"
+        },
+        {
+          "time": "03:29",
+          "title": "3 Different Features",
+          "link": "https://www.youtube.com/watch?v=vNRl-STFcR8&t=209"
+        },
+        {
+          "time": "07:02",
+          "title": "What Will It Cost?",
+          "link": "https://www.youtube.com/watch?v=vNRl-STFcR8&t=422"
+        },
+        {
+          "time": "09:48",
+          "title": "How Apple Affects The Foldable Market",
+          "link": "https://www.youtube.com/watch?v=vNRl-STFcR8&t=588"
+        },
+        {
+          "time": "11:40",
+          "title": "Production Delays?",
+          "link": "https://www.youtube.com/watch?v=vNRl-STFcR8&t=700"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple iPhone Duo vs Samsung Z Fold 8 - Spec Battle! · New. 284K views ; Apple iPhone Duo, 18 Pro/18 Pro Max, Apple Watch & AirPods 5 Event Recap! What Stood Out?",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk5CakhmUjlxZm1lcDJ5TXlRZmdKeDRqaGhUVUJHTTJybjdKekhPUVpNd01VWkdDbk9QcFZjRmc4dndsZ0swMlZjcXlxbloyYm43TUJRLUo0aDl5RDRka1RHOE9pTlZIaVBHRE9aT3pERE1PVnVvYmtIS29faFNBeEoyQVU1dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk5CakhmUjlxZm1lcDJ5TXlRZmdKeDRqaGhUVUJHTTJybjdKekhPUVpNd01VWkdDbk9QcFZjRmc4dndsZ0swMlZjcXlxbloyYm43TUJRLUo0aDl5RDRka1RHOE9pTlZIaVBHRE9aT3pERE1PVnVvYmtIS29faFNBeEoyQVU1dxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRLm0lfVOJ48y5Kv8gLqsEwqgIlOWV-0wMpUw",
+      "source": "YouTube · Brian Tong"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=10&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8NMDegQIJhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=10&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAE",
+      "3": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=20&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAG",
+      "4": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=30&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAI",
+      "5": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=40&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAK",
+      "6": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=50&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAM",
+      "7": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=60&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAO",
+      "8": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=70&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAQ",
+      "9": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=80&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAS",
+      "10": "https://www.google.com/search?q=launch+apple+duo+true+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=D2uzaq_6BdTuruEPwcyK2Ag&start=90&sa=N&sstk=AS6-VmKXr8_DGIUgFHNWAPMcWxObbdf51ChCz5L-k1QFDmG4kYMF4nsdDW5Wmi0jFI7COnlQUQiyRy_Y-fgs4NX8Ro13beeELWsFBg&ved=2ahUKEwjvvdyig4SXAxVUtysGHUGmAosQ8tMDegQIJhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=launch+apple+duo+true+before%3A2026-01-01&start=90"
+    }
+  }
+}

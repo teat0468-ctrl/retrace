@@ -1,0 +1,292 @@
+{
+  "search_metadata": {
+    "id": "6ab365edd45a384c13380c99",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ua543ngFe5PpTfTKC5pYlg8UpBRWL8dsgLX5b9aJSzk/6ab365edd45a384c13380c99.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ua543ngFe5PpTfTKC5pYlg8UpBRWL8dsgLX5b9aJSzk/6ab365edd45a384c13380c99.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ua543ngFe5PpTfTKC5pYlg8UpBRWL8dsgLX5b9aJSzk/6ab365edd45a384c13380c99.json_with_pixel_position",
+    "created_at": "2026-09-23 05:38:53 UTC",
+    "processed_at": "2026-09-23 05:38:53 UTC",
+    "google_url": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+before%3A2026-01-01&oq=massive+magnitude+earthquake+struck+coast+hokkaido+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ua543ngFe5PpTfTKC5pYlg8UpBRWL8dsgLX5b9aJSzk/6ab365edd45a384c13380c99.html",
+    "total_time_taken": 0.33
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "massive magnitude earthquake struck coast hokkaido before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "massive magnitude earthquake struck coast hokkaido before:2026-01-01",
+    "total_results": 37,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "RClcnXiczVXddqo4GH2AeY7xxlMBtSJdi3VWSNEi_hRbtfWGFQHDj5hKVErv5l3mAeZ55mkmoFJ01J5zLmZNlsuQkOx8O9-32X_8ufCWwd-__eWu12_0juPiOK5gQvDCqVgk5BBNlhY3JwsaWe53SjaR5Xi2bLkRCZ1SspVrJYvKfMnxZHEy-UCR-Kqi7tNtnzx-zB-GGLyWMgjZnCHq-OyEd59yJsf-gt9r92xQoRVnWdkorzyMxn1k0EqVF6TKgEMhWwD-u2ZAoAKAFY09KxcXsRU_AqYwBAYUFKa0_c4C9iuAKZ5mZCN4ARlnaCmApqQbWGdOo7oC9AOWEl8MBBbPY4P0KBVmRDKm3o-wKXBIm5pjwqurz_HZIbDj1cNMr_BWBRcaPKmEEUNvgp4G3P3EScZUUhx10r_73fFzUI_V-rB1NXID6KNYudXBl-lugeES70lpcM12KpyNWeXy3CxincB5lmtlDxFNCxo-SzxpSe_3cTfR29sV1JpR8rL0hPfnD3H8so05a8bWLQiyHdt0Tf57Nhaqwi0v1cTmt0xJFs2lRItSAnq7JvFoJVZ7lW5FEQ46gvnNn6QsrQWonSGmwP3ScznGyuf8580HajEL-u5O0kqraiA_P9tiNHapzrP6qAEFa_2jAPZ9uu-cjvaR5KywkRV3GhbJoysyw0xGyrnK7Z3V--mc8ZBHoCn_WliMSVM0zGgbOXyxwbTKNTd9OWKX3MV7BVrHGOn1GEeh4ow5bOfE1CJFtXiMx5AyYfhPIK1-0klzrKSAcLfjIPsR2E0XyFz49lEQg851vV9q2hffif3JB8Gc1P-RblbubOAPA69GzY7xNugHUWRMnpo2_4jP64SEs5_wHOt_paSDI-nZu8tKSuvmSyWxyteuOlL2vHMko7NTEsQXlaTsHO7EkQZnHem4oiAYfipJV6460s8rCV5VEt4zPaMk5kjnlBRcUlLmSMdKcpvGkSMd8f50pFxJv-JI8NccKROWs-uO7Wnj44s2pfqNZBwlPX9K6Hi5Hbt6q-YG3Wq92QNf2tQ8XN-FyF58Mz37Tql21on9zWQT5M6xSys5RJR6W6ccIrz01hvbKTsoWrurDQqcMl1HGysoWwTRddklQYA8m5RnzpxEzl2VrzZueIH9SuEiIjKP6g42OwStxqPn7vZjZCdRwxqE1uw5GXRu_McpmrZ7L-0XSt5uGjz_aPRjs9YWQzdZ9tWHdntegxPdcRY3Y3M59brRc7_a0fzl5haMFFuXHqDZm717q6EXWC0xxCM8rydjb46ioDe6bzvShzgQ6tLNvQRsyx_AF5DFReVpX2rx04k_aQSlMLJklrs6Bn0DTDArUvjKBI7BCBHWx8BoN4ChKiVqIdOhW1kUbMGezUTE3_JVWxJLIV4nb7LEl-gykoV_ACaBT8k",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RClcnXiczVXddqo4GH2AeY7xxlMBtSJdi3VWSNEi_hRbtfWGFQHDj5hKVErv5l3mAeZ55mkmoFJ01J5zLmZNlsuQkOx8O9-32X_8ufCWwd-__eWu12_0juPiOK5gQvDCqVgk5BBNlhY3JwsaWe53SjaR5Xi2bLkRCZ1SspVrJYvKfMnxZHEy-UCR-Kqi7tNtnzx-zB-GGLyWMgjZnCHq-OyEd59yJsf-gt9r92xQoRVnWdkorzyMxn1k0EqVF6TKgEMhWwD-u2ZAoAKAFY09KxcXsRU_AqYwBAYUFKa0_c4C9iuAKZ5mZCN4ARlnaCmApqQbWGdOo7oC9AOWEl8MBBbPY4P0KBVmRDKm3o-wKXBIm5pjwqurz_HZIbDj1cNMr_BWBRcaPKmEEUNvgp4G3P3EScZUUhx10r_73fFzUI_V-rB1NXID6KNYudXBl-lugeES70lpcM12KpyNWeXy3CxincB5lmtlDxFNCxo-SzxpSe_3cTfR29sV1JpR8rL0hPfnD3H8so05a8bWLQiyHdt0Tf57Nhaqwi0v1cTmt0xJFs2lRItSAnq7JvFoJVZ7lW5FEQ46gvnNn6QsrQWonSGmwP3ScznGyuf8580HajEL-u5O0kqraiA_P9tiNHapzrP6qAEFa_2jAPZ9uu-cjvaR5KywkRV3GhbJoysyw0xGyrnK7Z3V--mc8ZBHoCn_WliMSVM0zGgbOXyxwbTKNTd9OWKX3MV7BVrHGOn1GEeh4ow5bOfE1CJFtXiMx5AyYfhPIK1-0klzrKSAcLfjIPsR2E0XyFz49lEQg851vV9q2hffif3JB8Gc1P-RblbubOAPA69GzY7xNugHUWRMnpo2_4jP64SEs5_wHOt_paSDI-nZu8tKSuvmSyWxyteuOlL2vHMko7NTEsQXlaTsHO7EkQZnHem4oiAYfipJV6460s8rCV5VEt4zPaMk5kjnlBRcUlLmSMdKcpvGkSMd8f50pFxJv-JI8NccKROWs-uO7Wnj44s2pfqNZBwlPX9K6Hi5Hbt6q-YG3Wq92QNf2tQ8XN-FyF58Mz37Tql21on9zWQT5M6xSys5RJR6W6ccIrz01hvbKTsoWrurDQqcMl1HGysoWwTRddklQYA8m5RnzpxEzl2VrzZueIH9SuEiIjKP6g42OwStxqPn7vZjZCdRwxqE1uw5GXRu_McpmrZ7L-0XSt5uGjz_aPRjs9YWQzdZ9tWHdntegxPdcRY3Y3M59brRc7_a0fzl5haMFFuXHqDZm717q6EXWC0xxCM8rydjb46ioDe6bzvShzgQ6tLNvQRsyx_AF5DFReVpX2rx04k_aQSlMLJklrs6Bn0DTDArUvjKBI7BCBHWx8BoN4ChKiVqIdOhW1kUbMGezUTE3_JVWxJLIV4nb7LEl-gykoV_ACaBT8k"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Massive Science",
+      "link": "https://massivesci.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVR46BgoasV8-9yb7ryHfNLyJnrb2boMV6Nl4jCxMQbimcwfcTp6fnIQPNdtP95SJ7uqM024r8clXsIFsO3ojKimjwA2OudJlbMcM&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://massivesci.com",
+      "snippet": "We're a community of scientists telling fascinating, true stories about the science that's happening now.",
+      "about_this_result": {
+        "source": {
+          "description": "We're a community of scientists telling fascinating, true stories about the science that's happening now.",
+          "source_info_link": "https://massivesci.com/",
+          "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAABQBACdASocABwAPrUurVanIacnG_DgFolsAJ0voBV0eYAD1FruhF9R8HYAANaRJZxSwFnY45Cn1kygdO77IALWoDt21Nyu1oCmDV8quMjAitLbq5T06z7MZVf-hp2qHf_LP_dI0D7rOnkGI8i_a_VOgihFkAIRpkG4uYX5UZBGkuX8mkzEFiSxA80jMl4zAOF1WNuny4VaxvqylYMfRYHTFMYzZa_oX5-EqP-2ny7DaM1_bAF6HrJcAx1gla-mbtUNApsjkINh5UaDcvnJ_sElS9Xd0W_GVHnLQL3EVAD7RqdF1uEDMjl7xjZ5-PPaRxIog0H6_4H0G2S1nNTCQTiIAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWUjQ2QmdvYXNWOC05eWI3cnlIZk5MeUpucmIyYm9NVjZObDRqQ3hNUWJpbWN3ZmNUcDZmbklRUE5kdFA5NVNKN3VxTTAyNHI4Y2xYc0lGc08zb2pLaW1qd0EyT3VkSmxiTWNNEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWUjQ2QmdvYXNWOC05eWI3cnlIZk5MeUpucmIyYm9NVjZObDRqQ3hNUWJpbWN3ZmNUcDZmbklRUE5kdFA5NVNKN3VxTTAyNHI4Y2xYc0lGc08zb2pLaW1qd0EyT3VkSmxiTWNNEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Massive Science"
+    },
+    {
+      "position": 2,
+      "title": "Hang Massive - 10 Year Celebration Concert",
+      "link": "https://www.youtube.com/watch?v=3AOHj0oL1KY",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVzGy-6MRUPMWMt08Z-FeDLtAyJRIoB6zKyh7SbuyCS551Z--sgX7A1f6XdeIzKluoE0GpMsVgRwv_DnwmUJTbzCLX6Zb6VM-MekPTVI92G7UPW_9RG8XniUx9a5jgYg&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "snippet": "New Album and Tour - 2024 // Tickets on Sale Now: http://hangmassive.co/tour Get ready for the next chapter of Hang Massive's musical experience!",
+      "snippet_highlighted_words": [
+        "Massive's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "New Album and Tour - 2024 // Tickets on Sale Now: http://hangmassive.co/tour Get ready for the next chapter of Hang Massive's musical experience!",
+          "source_info_link": "https://www.youtube.com/watch?v=3AOHj0oL1KY",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnpHeS02TVJVUE1XTXQwOFotRmVETHRBeUpSSW9CNnpLeWg3U2J1eUNTNTUxWi0tc2dYN0ExZjZYZGVJektsdW9FMEdwTXNWZ1J3dl9EbndtVUpUYnpDTFg2WmI2Vk0tTWVrUFRWSTkyRzdVUFdfOVJHOFhuaVV4OWE1amdZZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnpHeS02TVJVUE1XTXQwOFotRmVETHRBeUpSSW9CNnpLeWg3U2J1eUNTNTUxWi0tc2dYN0ExZjZYZGVJektsdW9FMEdwTXNWZ1J3dl9EbndtVUpUYnpDTFg2WmI2Vk0tTWVrUFRWSTkyRzdVUFdfOVJHOFhuaVV4OWE1amdZZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 3,
+      "title": "Out My Backdoor: Trying to Coax Giant Swallowtails",
+      "link": "https://georgiawildlife.com/out-my-backdoor-trying-coax-giant-swallowtails",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFSNE953NK_KATb6LX2B82uQfY1_3BRvpwoPZcSnqvpdpIzgSmSS_sDDDYW7cL572ANaueXsQ9PDKzy-SETk6DfJdE-pqk8zhY2gdZt9OopFuLXjCPm3UwPU5PPU6kiy8bWc5Dqy8eFbz8h5WXhYMcnmfGBDpy0QOznSf__Mc&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECA0QAQ&uoh=1",
+      "displayed_link": "https://georgiawildlife.com › out-my-backdoor-trying-c...",
+      "snippet": "I have a fascination with the giant swallowtail. Perhaps this is because its 4.5- to 5.5-inch wingspan earns it the reputation as the largest butterfly in North ...",
+      "snippet_highlighted_words": [
+        "giant",
+        "in"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I have a fascination with the giant swallowtail. Perhaps this is because its 4.5- to 5.5-inch wingspan earns it the reputation as the largest butterfly in North ...",
+          "source_info_link": "https://georgiawildlife.com/out-my-backdoor-trying-coax-giant-swallowtails",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBQCdASocABkAPtE-tFooIigoFAEAGglsALsgcPXYLED2ujwi6JS657-ekZmzXU5aRq9UQAAA_vYTpr0MhzB9cnXS35xThShGWnv-XwovndnjlbJNUVt7LfXiQKN6-eck97HLmIb_00Sy0e6HC0yt1xH8eikvjTSZftNsbipMgKjcT2xYXm0OeFL-rOojjfJQKerd6RS6xzXcpGZNhnQ-mNxlL6zQ0s0vrQG5CxrEvcGyYZRe5NqCmiBUWMdQtcVq1zs_0bfxY8WSNNbClEWgUarpK17xrodXo_3h6F70tfmv65VJelV1QcAT0qGoiwaas8KgHU25fRIQ8iAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTTkU5NTNOS19LQVRiNkxYMkI4MnVRZlkxXzNCUnZwd29QWmNTbnF2cGRwSXpnU21TU19zREREWVc3Y0w1NzJBTmF1ZVhzUTlQREt6eS1TRVRrNkRmSmRFLXBxazh6aFkyZ2RadDlPb3BGdUxYakNQbTNVd1BVNVBQVTZraXk4YldjNURxeThlRmJ6OGg1V1hoWU1jbm1mR0JEcHkwUU96blNmX19NYxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTTkU5NTNOS19LQVRiNkxYMkI4MnVRZlkxXzNCUnZwd29QWmNTbnF2cGRwSXpnU21TU19zREREWVc3Y0w1NzJBTmF1ZVhzUTlQREt6eS1TRVRrNkRmSmRFLXBxazh6aFkyZ2RadDlPb3BGdUxYakNQbTNVd1BVNVBQVTZraXk4YldjNURxeThlRmJ6OGg1V1hoWU1jbm1mR0JEcHkwUU96blNmX19NYxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Georgia Department of Natural Resources' Wildlife Resources Division",
+      "read_more_link": "https://georgiawildlife.com/out-my-backdoor-trying-coax-giant-swallowtails#:~:text=I%20have%20a%20fascination%20with,largest%20butterfly%20in%20North%20America."
+    },
+    {
+      "position": 4,
+      "title": "I Tested Massive vs Massive X and Found the Shocking Truth",
+      "link": "https://www.youtube.com/watch?v=M2UiK9WjXkI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVdUldlOD71rgh3liANIxF4oPw99U6RIUBXEcfRm11Efna78jjJvNv-STVYNWK1I0diYtNg7Lo9XsTmID3UOOwusmZazm8uymLnRTLy6bdUb90Xblq1d9QvRzopu0mrQ&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "snippet": "I Tested Massive vs Massive X and Found the Shocking Truth. @busyworksbeats194 likes8.4K views1 year ago more. Subscribe. Comments.",
+      "snippet_highlighted_words": [
+        "Massive",
+        "Massive"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I Tested Massive vs Massive X and Found the Shocking Truth. @busyworksbeats194 likes8.4K views1 year ago more. Subscribe. Comments.",
+          "source_info_link": "https://www.youtube.com/watch?v=M2UiK9WjXkI",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmRVbGRsT0Q3MXJnaDNsaUFOSXhGNG9Qdzk5VTZSSVVCWEVjZlJtMTFFZm5hNzhqakp2TnYtU1RWWU5XSzFJMGRpWXROZzdMbzlYc1RtSUQzVU9Pd3VzbVphem04dXltTG5SVEx5NmJkVWI5MFhibHExZDlRdlJ6b3B1MG1yURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmRVbGRsT0Q3MXJnaDNsaUFOSXhGNG9Qdzk5VTZSSVVCWEVjZlJtMTFFZm5hNzhqakp2TnYtU1RWWU5XSzFJMGRpWXROZzdMbzlYc1RtSUQzVU9Pd3VzbVphem04dXltTG5SVEx5NmJkVWI5MFhibHExZDlRdlJ6b3B1MG1yURIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube",
+      "read_more_link": "https://www.youtube.com/watch?v=M2UiK9WjXkI#:~:text=I%20Tested%20Massive%20vs%20Massive,Comments"
+    },
+    {
+      "position": 5,
+      "title": "Here's How To Grow MASSIVE Pumpkins Before Halloween",
+      "link": "https://www.youtube.com/watch?v=_r5LtLeBoHI",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVT5XyaEJHQCK1SZfpcz_CDQRr7ruiqrIYL-9vnmPNMcZbx7N8XYrujE0OPQjaOVjKizGryPb9cU7lBvGnAYOu4l8HKqy2Uf9HfeMv-ZTaaLNzDXRmgy9RITi3WXlvEg&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "snippet": "Ready to grow your own pumpkins in time for Halloween? Whether you're aiming for a show-stopping giant or just a solid homegrown harvest, ...",
+      "snippet_highlighted_words": [
+        "in",
+        "giant"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ready to grow your own pumpkins in time for Halloween? Whether you're aiming for a show-stopping giant or just a solid homegrown harvest, ...",
+          "source_info_link": "https://www.youtube.com/watch?v=_r5LtLeBoHI",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlQ1WHlhRUpIUUNLMVNaZnBjel9DRFFScjdydWlxcklZTC05dm5tUE5NY1pieDdOOFhZcnVqRTBPUFFqYU9WaktpekdyeVBiOWNVN2xCdkduQVlPdTRsOEhLcXkyVWY5SGZlTXYtWlRhYUxOekRYUm1neTlSSVRpM1dYbHZFZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlQ1WHlhRUpIUUNLMVNaZnBjel9DRFFScjdydWlxcklZTC05dm5tUE5NY1pieDdOOFhZcnVqRTBPUFFqYU9WaktpekdyeVBiOWNVN2xCdkduQVlPdTRsOEhLcXkyVWY5SGZlTXYtWlRhYUxOekRYUm1neTlSSVRpM1dYbHZFZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 6,
+      "title": "How to use everything in MASSIVE | Native Instruments",
+      "link": "https://www.youtube.com/watch?v=ltGQcDrwh4Q",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVWyiBuR2Q0pkbWKgJ6D7eQODnRrCFYS3Uh0L_xEahTV83YZWs-0V3vUoyXVgbQxaPj5cj_05we0HZmGeSMMFcR9lS9cO0rj3tsnuDKTR2x2LhcZ1E0HyavbxVIDnaww&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "snippet": "Learn how to use everything in the legendary synth, MASSIVE. Whether you're just starting our or you're an experienced producer, MASSIVE is a great tool for ...",
+      "snippet_highlighted_words": [
+        "MASSIVE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn how to use everything in the legendary synth, MASSIVE. Whether you're just starting our or you're an experienced producer, MASSIVE is a great tool for ...",
+          "source_info_link": "https://www.youtube.com/watch?v=ltGQcDrwh4Q",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVld5aUJ1UjJRMHBrYldLZ0o2RDdlUU9EblJyQ0ZZUzNVaDBMX3hFYWhUVjgzWVpXcy0wVjN2VW95WFZnYlF4YVBqNWNqXzA1d2UwSFptR2VTTU1GY1I5bFM5Y08wcmozdHNudURLVFIyeDJMaGNaMUUwSHlhdmJ4VklEbmF3dxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVld5aUJ1UjJRMHBrYldLZ0o2RDdlUU9EblJyQ0ZZUzNVaDBMX3hFYWhUVjgzWVpXcy0wVjN2VW95WFZnYlF4YVBqNWNqXzA1d2UwSFptR2VTTU1GY1I5bFM5Y08wcmozdHNudURLVFIyeDJMaGNaMUUwSHlhdmJ4VklEbmF3dxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 7,
+      "title": "Massive gene decay in the leprosy bacillus",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/11234002/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVIR_aGveJC24PrxFhuxQvhpTJLABA6MJtpCu8theD9BsGlHdDoftwdYhq2wrJ64CVwZhbEo2-Tr1iJyzL0BP0TcaU0DGHNcFy-xQPuxQjifoFAjLXx8o-8PIyHfE&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "author": "by ST Cole",
+      "snippet": "Gene deletion and decay have eliminated many important metabolic activities including siderophore production, part of the oxidative and most of the ...",
+      "about_this_result": {
+        "source": {
+          "description": "Gene deletion and decay have eliminated many important metabolic activities including siderophore production, part of the oxidative and most of the ...",
+          "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/11234002/",
+          "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASocABwAPtEutFooIagoGAEAGglqAMitAAZ4Jl_dAKyYiryPMWSx2JIZFiNPqeWP8LReWgAA_vQSh8balF9FPssL40xpXuZr-cohY6Dgm-GCPcw9Be2M8Tr4fajRDEe64L6D3425b_KycCBqO3zbdPz_M-o8snUv4Z8hpHcWbDv3llFfvvnqsQ_fr4s4-fhNtGM1R0r2geRp4qx5cmxTSmQ3Adt5msKjZn_khO8pTQ2_Z6XXXuwfx386puZGaUTZCdt7kTO9wFSJBqhaaa9o2SGg_pRUeh5BpEZYsoLnzNOR2o0gq9pzLwLJTMk9WyH-SoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVklSX2FHdmVKQzI0UHJ4Rmh1eFF2aHBUSkxBQkE2TUp0cEN1OHRoZUQ5QnNHbEhkRG9mdHdkWWhxMndySjY0Q1Z3WmhiRW8yLVRyMWlKeXpMMEJQMFRjYVUwREdITmNGeS14UVB1eFFqaWZvRkFqTFh4OG8tOFBJeUhmRRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVklSX2FHdmVKQzI0UHJ4Rmh1eFF2aHBUSkxBQkE2TUp0cEN1OHRoZUQ5QnNHbEhkRG9mdHdkWWhxMndySjY0Q1Z3WmhiRW8yLVRyMWlKeXpMMEJQMFRjYVUwREdITmNGeS14UVB1eFFqaWZvRkFqTFh4OG8tOFBJeUhmRRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pubmed.ncbi.nlm.nih.gov/11234002/#:~:text=Gene%20deletion%20and%20decay%20have,systems%20and%20their%20regulatory%20circuits."
+    },
+    {
+      "position": 8,
+      "title": "Massive Great White Shark Stalks Kayaker",
+      "link": "https://www.youtube.com/watch?v=l4JHRJd6IZM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV7SHXIH2QwSfRP5gH2GJpiJdhgDJrNgDI7RMeFbnUYmYGYhTeHe4-GWXhYBNnIxKHJvJjcbQcTc1LnEIuLTLlZPt_wRNupvi18PpnZo9lEJMlBI9k8oh-zV58PlRzlw&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "snippet": "Have you ever wondered how you'd react if you were approached by this massive predator? Matt Wells of @NomadicKayakFishing captured his entire Great White ...",
+      "snippet_highlighted_words": [
+        "massive"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Have you ever wondered how you'd react if you were approached by this massive predator? Matt Wells of @NomadicKayakFishing captured his entire Great White ...",
+          "source_info_link": "https://www.youtube.com/watch?v=l4JHRJd6IZM",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjdTSFhJSDJRd1NmUlA1Z0gyR0pwaUpkaGdESnJOZ0RJN1JNZUZiblVZbVlHWWhUZUhlNC1HV1hoWUJObkl4S0hKdkpqY2JRY1RjMUxuRUl1TFRMbFpQdF93Uk51cHZpMThQcG5abzlsRUpNbEJJOWs4b2gtelY1OFBsUnpsdxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjdTSFhJSDJRd1NmUlA1Z0gyR0pwaUpkaGdESnJOZ0RJN1JNZUZiblVZbVlHWWhUZUhlNC1HV1hoWUJObkl4S0hKdkpqY2JRY1RjMUxuRUl1TFRMbFpQdF93Uk51cHZpMThQcG5abzlsRUpNbEJJOWs4b2gtelY1OFBsUnpsdxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    },
+    {
+      "position": 9,
+      "title": "Massive Deep-Sea Shark Checking Out Our Submarine",
+      "link": "https://www.youtube.com/watch?v=iy_26C-2gSs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVBiyqAiGUogj5dN285mtNffALhKZlbBxFvQWIKGdUNNJIGaHLzg8YSCU7pPMvSDuxh3QSOfEY-psGGID5H2UQ4a0E1K1Iq-BvrXI3X2V3f5NpdJVKTAFEMAJr_W_HAg&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQFnoECA4QAQ&uoh=1",
+      "displayed_link": "https://www.youtube.com › watch",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "about_this_result": {
+        "source": {
+          "description": "Share your videos with friends, family, and the world.",
+          "source_info_link": "https://www.youtube.com/watch?v=iy_26C-2gSs",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkJpeXFBaUdVb2dqNWROMjg1bXROZmZBTGhLWmxiQnhGdlFXSUtHZFVOTkpJR2FITHpnOFlTQ1U3cFBNdlNEdXhoM1FTT2ZFWS1wc0dHSUQ1SDJVUTRhMEUxSzFJcS1CdnJYSTNYMlYzZjVOcGRKVktUQUZFTUFKcl9XX0hBZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkJpeXFBaUdVb2dqNWROMjg1bXROZmZBTGhLWmxiQnhGdlFXSUtHZFVOTkpJR2FITHpnOFlTQ1U3cFBNdlNEdXhoM1FTT2ZFWS1wc0dHSUQ1SDJVUTRhMEUxSzFJcS1CdnJYSTNYMlYzZjVOcGRKVktUQUZFTUFKcl9XX0hBZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQntmwS7cjabLU4luPVPeyIPyqWmRzw:1790141933296&ei=7WWzar7YEaLS5NoPzfHRgAY&start=10&sa=N&sstk=AS6-VmInVuo0JYtZkoVSZ9coErhR7iMQjWWieyC595yzU2twzSLJlLfrVFeHYMudl81mkDVt6nd6cIjuXLOKtmhltJGzzwyZ3a8ieA&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQ8NMDegQIPhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQntmwS7cjabLU4luPVPeyIPyqWmRzw:1790141933296&ei=7WWzar7YEaLS5NoPzfHRgAY&start=10&sa=N&sstk=AS6-VmInVuo0JYtZkoVSZ9coErhR7iMQjWWieyC595yzU2twzSLJlLfrVFeHYMudl81mkDVt6nd6cIjuXLOKtmhltJGzzwyZ3a8ieA&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQntmwS7cjabLU4luPVPeyIPyqWmRzw:1790141933296&ei=7WWzar7YEaLS5NoPzfHRgAY&start=20&sa=N&sstk=AS6-VmInVuo0JYtZkoVSZ9coErhR7iMQjWWieyC595yzU2twzSLJlLfrVFeHYMudl81mkDVt6nd6cIjuXLOKtmhltJGzzwyZ3a8ieA&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQntmwS7cjabLU4luPVPeyIPyqWmRzw:1790141933296&ei=7WWzar7YEaLS5NoPzfHRgAY&start=30&sa=N&sstk=AS6-VmInVuo0JYtZkoVSZ9coErhR7iMQjWWieyC595yzU2twzSLJlLfrVFeHYMudl81mkDVt6nd6cIjuXLOKtmhltJGzzwyZ3a8ieA&ved=2ahUKEwj-gqCw_oOXAxUiKVkFHc14FGAQ8tMDegQIPhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+before%3A2026-01-01&start=30"
+    }
+  }
+}

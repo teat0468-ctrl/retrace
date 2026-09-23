@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab2bdca2328e198f20c944c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/kTvHvD_AP8MWyiTbO-GnC0-iMvTx3tu77KKzuU3bG5U/6ab2bdca2328e198f20c944c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/kTvHvD_AP8MWyiTbO-GnC0-iMvTx3tu77KKzuU3bG5U/6ab2bdca2328e198f20c944c.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/kTvHvD_AP8MWyiTbO-GnC0-iMvTx3tu77KKzuU3bG5U/6ab2bdca2328e198f20c944c.json_with_pixel_position",
+    "created_at": "2026-09-22 17:41:30 UTC",
+    "processed_at": "2026-09-22 17:41:30 UTC",
+    "google_url": "https://www.google.com/search?q=%22A+collision+between+an+Indian+Navy+vessel+and+a+Pakistani+Na%22&oq=%22A+collision+between+an+Indian+Navy+vessel+and+a+Pakistani+Na%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/kTvHvD_AP8MWyiTbO-GnC0-iMvTx3tu77KKzuU3bG5U/6ab2bdca2328e198f20c944c.html",
+    "total_time_taken": 0.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"A collision between an Indian Navy vessel and a Pakistani Na\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"A collision between an Indian Navy vessel and a Pakistani Na\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "BvmWEniczZXbcuI4EIYfYJ9juCHBBw4OqXJNSUIQhaOSECa5cRnbEQYfwCIccjfPsK-wT7VPs7INwRAgmbmYWlWBpHZ3uy335__nP54bTP796-_RfD7l15K0XC4LLAyZ5xSs0JdMvg4s6SX0eGSNvq8XejFncV3OOa6-1tS1OdceQGQ8ljthb1F9qfuU5pIQ3Ria3BmLjKsxlwxJ_E2-FWtiU-AFJyjcTaaaP5t7bzYtqLJSLXQl0xcO4M8NTBmK53uAzzgBQL6UjVIgst3uDAhtE2wHizdM5EOxEcXro4NgQOPZxWkU6KIXf3AFQOM9wDpdcDYpZEkmCFPjPQInb3p8pM9Q3xZ2zhWeNTe3e5JxPJePPu0XIg7vhUG4C8oGC_MoExpfbKTrMoClHkA3CITnikchqPkUEgrONUPiGaH-crNuAUWckGQz0biyNIzEpEiuNbKSRcTjfkYPVTlsqKgyaht8seorEFUauOVaVPOvytUqkKyh8PNC03ZsY2TI35O9oipluVrUri4SkCz-ThLPklRD49oCl4NBNCm0ClDZYoTezwftl4_FHh07d4g2rnsBqSckYPs2MqdD63uO22hMQds9yNN34q5r7ww1FYBS1mOXN7Z-xOiwtBgj0E9WyXLT1tmUJGaS7gLexw34OD6-dQw3r5k1Dq7QgzNF4J6IBNsUB98wJvBDhMIUo1kpOdIlOEzKdgXSTUUQ4OQZ4rGDJl0RluENi4PAcctjJGq7Q_iOiq8a2yaD8bduU6p7wH-mF7Jd8SRuP8Bf_PQdjvrnLjE2G14O2n8PmyYpIzqduo_PHGqvyuDpsfJKovXKscBxTEJ_-AuKY_2vQEr1iGz06DRI5EsgUYpO61G63OlRDBJijJ0ACacgfdCjmyN6dAgSZhmQPtGjXwWJnAMJngWpeQwkcgakWI_2QZrs6dEeSDs9egfpd_So_pt6lHDlpNO-OL2O2UmRqvdxoPlw8uBpc3zpaeRy0i1PfPsH4J-L1Is_v_ZN27swXPsaqrfztX1hCEN47di5mf5NVUHeCj3P5W4Y5IfOfOk4Qd4M8iSwXTF1zMU6v3A4dzxhtfNmvmdOXD43A1dcE-E534tCXTbLWCkP1C6ntXK3O0bBMJJ7b1gu3bH2rfFcqTxF_A0QUqyEBmut_KlcIg2_12lEKul3bzjkvaKx7nQa3LgrhqzPzRZ682ezepsPFT5BzfZoqLUM-Lwqus1Za7zqL-vtynQVri4jbJhdzb0Kaga2aVIP1-1W5xLKivNqWTk_snTR0SUGOhQMmIACPQmxED0vXidFS_GrAIphjlum4fCFbg6L1UpJLhVNZSirRTvns_l6qpdKOR5EuvIfRKRDSA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BvmWEniczZXbcuI4EIYfYJ9juCHBBw4OqXJNSUIQhaOSECa5cRnbEQYfwCIccjfPsK-wT7VPs7INwRAgmbmYWlWBpHZ3uy335__nP54bTP796-_RfD7l15K0XC4LLAyZ5xSs0JdMvg4s6SX0eGSNvq8XejFncV3OOa6-1tS1OdceQGQ8ljthb1F9qfuU5pIQ3Ria3BmLjKsxlwxJ_E2-FWtiU-AFJyjcTaaaP5t7bzYtqLJSLXQl0xcO4M8NTBmK53uAzzgBQL6UjVIgst3uDAhtE2wHizdM5EOxEcXro4NgQOPZxWkU6KIXf3AFQOM9wDpdcDYpZEkmCFPjPQInb3p8pM9Q3xZ2zhWeNTe3e5JxPJePPu0XIg7vhUG4C8oGC_MoExpfbKTrMoClHkA3CITnikchqPkUEgrONUPiGaH-crNuAUWckGQz0biyNIzEpEiuNbKSRcTjfkYPVTlsqKgyaht8seorEFUauOVaVPOvytUqkKyh8PNC03ZsY2TI35O9oipluVrUri4SkCz-ThLPklRD49oCl4NBNCm0ClDZYoTezwftl4_FHh07d4g2rnsBqSckYPs2MqdD63uO22hMQds9yNN34q5r7ww1FYBS1mOXN7Z-xOiwtBgj0E9WyXLT1tmUJGaS7gLexw34OD6-dQw3r5k1Dq7QgzNF4J6IBNsUB98wJvBDhMIUo1kpOdIlOEzKdgXSTUUQ4OQZ4rGDJl0RluENi4PAcctjJGq7Q_iOiq8a2yaD8bduU6p7wH-mF7Jd8SRuP8Bf_PQdjvrnLjE2G14O2n8PmyYpIzqduo_PHGqvyuDpsfJKovXKscBxTEJ_-AuKY_2vQEr1iGz06DRI5EsgUYpO61G63OlRDBJijJ0ACacgfdCjmyN6dAgSZhmQPtGjXwWJnAMJngWpeQwkcgakWI_2QZrs6dEeSDs9egfpd_So_pt6lHDlpNO-OL2O2UmRqvdxoPlw8uBpc3zpaeRy0i1PfPsH4J-L1Is_v_ZN27swXPsaqrfztX1hCEN47di5mf5NVUHeCj3P5W4Y5IfOfOk4Qd4M8iSwXTF1zMU6v3A4dzxhtfNmvmdOXD43A1dcE-E534tCXTbLWCkP1C6ntXK3O0bBMJJ7b1gu3bH2rfFcqTxF_A0QUqyEBmut_KlcIg2_12lEKul3bzjkvaKx7nQa3LgrhqzPzRZ682ezepsPFT5BzfZoqLUM-Lwqus1Za7zqL-vtynQVri4jbJhdzb0Kaga2aVIP1-1W5xLKivNqWTk_snTR0SUGOhQMmIACPQmxED0vXidFS_GrAIphjlum4fCFbg6L1UpJLhVNZSirRTvns_l6qpdKOR5EuvIfRKRDSA"
+  }
+}

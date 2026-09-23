@@ -1,0 +1,1246 @@
+{
+  "search_metadata": {
+    "id": "6ab36756ff3b7ae06049d30f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ijDnMdPkRF11dY2NK6w2Dzw-8qmulF4TgZVCtZ1BqXU/6ab36756ff3b7ae06049d30f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ijDnMdPkRF11dY2NK6w2Dzw-8qmulF4TgZVCtZ1BqXU/6ab36756ff3b7ae06049d30f.md",
+    "created_at": "2026-09-23 05:44:54 UTC",
+    "processed_at": "2026-09-23 05:44:54 UTC",
+    "google_news_url": "https://news.google.com/search?q=rbi+governor+sanjay+malhotra+announced+india+new+update",
+    "raw_html_file": "https://serpapi.com/searches/ijDnMdPkRF11dY2NK6w2Dzw-8qmulF4TgZVCtZ1BqXU/6ab36756ff3b7ae06049d30f.html",
+    "total_time_taken": 3.45
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "rbi governor sanjay malhotra announced india new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Indian banks have raised $32 bln under dollar-inflow schemes, RBI chief tells Hindu Businessline",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ira Dugal",
+          "Mrigank Dhaniwala"
+        ]
+      },
+      "link": "https://www.reuters.com/world/india/indian-banks-have-raised-32-bln-under-dollar-inflow-schemes-rbi-chief-tells-2026-07-27/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/BDGOL4RIK5JPROZPN2BB4X5WTQ.jpg?auth=539afbec4a82f8d527f7c4eabbd36883b03d010d98850768e2c96e284667b1fd&width=1920&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdTV3RPV0dveWMwWklhSGhCVFJERkF4aWtCU2dLTWdZWlJKcHdJUWs",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "RBI unveils two new features: UPI gets tap-and-pay, AI support",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sonu Vivek"
+        ]
+      },
+      "link": "https://www.indiatoday.in/business/story/upi-tap-and-pay-myupi-rbi-unveils-nfc-payments-ai-support-fintech-fest-2992371-2026-09-11",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/upi-new-features-114146220-16x9_0.jpg?VersionId=prkpfk57OiFNO6hEqy_ddz1LalXs6OZa&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJNbTFGV0ZSRlNWSjNXbWRQVFJDZkF4ampCU2dLTWdZbFZZYk5LUVE",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "UPI gets new features: Tap-to-pay, unified window for transaction details",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajinkya Kawale"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/upi-gets-new-features-tap-to-pay-unified-window-for-transaction-details-126091001485_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/20/full/1787212192-9412.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWV2h2VmpsVk9YbEtiMmgxVFJERUF4aW1CU2dLTWdhNVk0eFJzUVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "RBI Governor says special forex drive raised $32 billion so far",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Siddharth Upasani"
+        ]
+      },
+      "link": "https://indianexpress.com/article/business/rbi-foreign-inflows-fcnr-swap-scheme-sanjay-malhotra-rupee-outlook-sbi-10805676/",
+      "thumbnail": "https://images.indianexpress.com/2026/07/rbi-governor_20260420231147_20260605222616_20260727100722.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNSa2hIZFd0NExUaHZhblJJVFJDZkF4ampCU2dLTWdtWllZNW9QcVU5S3dJ",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "RBI MPC Meeting 2026 Date and Time: When will Governor Sanjay Malhotra announce policy decision? Here's ho",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/rbi-mpc-meeting-date-2026-when-and-where-to-watch-governer-sanjay-malhotra-speech-policy-decision-heres-how-to-watch-live-streaming/articleshow/131519594.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-131519598,width-1200,height-900,resizemode-4,imgsize-81256/rbi-mpc-meeting-date-and-time-live-streaming-when-will-governor-sanjay-malhotra-announce-policy-decision-heres-how-to-watch-live.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNlV2x1TUVwMWFuQnhjREE0VFJEZ0F4aUFCU2dLTWdrQk1JUXJsbXFwOUFB",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "RBI MPC June 2026 LIVE: Repo Rate Held at 5.25%, FY27 Growth Cut to 6.6%,Inflation Raised to 5.1%",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Madhulika Pandey"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/rbi-mpc-june-2026-live-status-quo-or-hawkish-surprise-governor-sanjay-malhotra-to-announce-policy-1513287.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/06/rbimpcjune2026liveupdates6-1780619216.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhXVEJhWWkxa1luZHhkRlZGVFJEU0FoallCQ2dLTWdZQlFZVGtHZ28",
+      "date": "09/17/2026, 09:12 PM, +0000 UTC",
+      "iso_date": "2026-09-17T21:12:50Z"
+    },
+    {
+      "position": 7,
+      "title": "India's central bank holds rates, awaits clearer inflation signal before acting",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jaspreet Kalra",
+          "Abinaya Varsha"
+        ]
+      },
+      "link": "https://www.reuters.com/world/india/indian-central-bank-holds-rates-expected-taking-comfort-still-modest-inflation-2026-08-05/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/5E2PCHXYCZNKJEUCSCJPGC6ONM.jpg?auth=b09e2bb084b861a21ad1498cff04003f81425da53f58d0f9c38136628196df9e&width=1080&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVPSFJzU0hwVUxYVlBTV1o1VFJEQkF4aXJCU2dLTWdrVk5vYUlTbVI3SndJ",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Rupee rallies strongly after RBI announces new measures to attract foreign investors amid Middle East con",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-rallies-strongly-after-rbi-announces-new-measures-to-attract-foreign-investors-amid-middle-east-conflict/articleshow/131523714.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131523738,width-1280,height-720,imgsize-79570,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlSamg2YURsTkxVZERNR2g1VFJDZkF4ampCU2dLTWdZQklvcEt1Z1k",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "RBI MPC Meeting August 2026: Date, Time, Expectations, Where To Watch Governor Sanjay Malhotra's Speech Live",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vishal Marathe"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/economy/rbi-mpc-meeting-august-2026-date-time-expectations-where-to-watch-governor-sanjay-malhotras-speech-live-11857784",
+      "thumbnail": "https://c.ndtvimg.com/2026-08/otmdcn0g_rbi_625x300_03_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdTWE5ETVdodE1Fb3hYM1IwVFJDZkF4ampCU2dLTWdZeFlZeVhLQWc",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Charges On UPI Transactions? RBI Governor Says 'Costs Have To Be Paid By Someone'",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prateek Shukla"
+        ]
+      },
+      "link": "https://www.ndtv.com/business-news/rbi-governor-sanjay-malhotra-charges-upi-transactions-mdr-digital-payments-11868593",
+      "thumbnail": "https://c.ndtvimg.com/2026-08/1q2cvufo_rbi-upi_625x300_05_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkVTg1TjBOT2JHMDFSRzB0VFJDZkF4ampCU2dLTWdZSk1wYW1HZ28",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "RBI's new worry is El Nino: What Governor Sanjay Malhotra said and why it matters",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sonu Vivek"
+        ]
+      },
+      "link": "https://www.indiatoday.in/business/story/rbi-el-nino-risk-sanjay-malhotra-inflation-agriculture-repo-rate-unchanged-2963853-2026-08-05",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/rbi-on-el-nino-impact-052344785-16x9_0.png?VersionId=79keRWYEcRRxpXPQx4JS_IRoXfFvfIki&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhYME0yVW5JelpqRk1MVW94VFJDZkF4ampCU2dLTWdhdFJZRE5JUWs",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "India ramps up defence of faltering rupee after holding fire on rates",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jaspreet Kalra",
+          "Abinaya Varsha"
+        ]
+      },
+      "link": "https://www.reuters.com/world/asia-pacific/indian-central-bank-keeps-key-policy-rate-hold-despite-falling-currency-2026-06-05/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/P5P5UAFQU5PDTPIPBYKYKU3W3E.jpg?auth=707e344c23f06adf4b92c2367222a6449520fee3fa5864ee78578ced21d6dae1&width=960&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNSVmhsUjBoaFYxQnZZVlJVVFJEZkF4aUFCU2dLTWdtcFVZaTJUQ1NEYUFJ",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Strengthening forex reserves amid US-Iran war: RBI announces 5 measures to attract foreign capital - chec",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/strengthening-forex-reserves-amid-us-iran-war-rbi-announces-5-measures-to-attract-foreign-capital-check-details/articleshow/131522352.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131522407,width-1280,height-720,imgsize-72536,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxSMkZrTFc5aVZubE5jWEZuVFJDZkF4ampCU2dLTWdZQmNZalBPQVU",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "RBI's early FCNR(B) deposit scheme closure 'data-driven' or a policy U-turn? Governor Malhotra explains",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/rbis-early-fcnrb-deposit-scheme-closure-data-driven-or-a-policy-u-turn-governor-sanjay-malhotra-explains-indian-banks-nri-money/articleshow/133362201.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133362927,width-1200,height-900,resizemode-4,imgsize-115722/reserve-bank-of-india-rbi-governor-sanjay-malhotra-attends-a-press-conference-after-a-monetary-policy-review-in-mumbai-foreign-currency-non-resident-bank-or-fcnrb-deposit-scheme-for-nri.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFkazFyTlVsdWJ5MTNOM1E0VFJEZ0F4aUFCU2dLTWdZWlVwWnBvZ2s",
+      "date": "08/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-20T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "RBI Keeps Repo Rate Steady At 5.25% As US-Iran War Adds Pressure On India",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prateek Shukla"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/rbi-mpc-meeting-2026-governor-sanjay-malhotra-keeps-repo-rate-steady-at-5-25-as-us-iran-war-adds-pressure-on-indias-inflation-growth-11593981",
+      "thumbnail": "https://c.ndtvimg.com/2026-06/cv9h97l4_rbi_625x300_05_June_26.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XSFJ0UzNRdFdrUnBjek0wVFJEZEF4aURCU2dLTWdhdFJZek9vUWc",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "RBI MPC Meeting June 2026: Check date, time, expectations and where to watch Governor Sanjay Malhotra's sp",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/rbi-mpc-meeting-june-2026-date-when-and-where-to-watch-governer-sanjay-malhotra-speech-online/articleshow/131480278.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-131480281,width-1200,height-900,resizemode-4,imgsize-1934678/rbi-monetary-policy-committee-june-2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVibWxpU0hjNVFXbFJkbGRNVFJEZ0F4aUFCU2dLTWdZSk1xREZHZ28",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "RBI Policy August 2026 LIVE Streaming: Watch Governor Sanjay Malhotra's Speech Live Here",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mohammad Haris"
+        ]
+      },
+      "link": "https://www.news18.com/business/economy/rbi-policy-august-2026-live-streaming-watch-governor-sanjay-malhotras-speech-live-here-ws-l-10253213.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/06/rbi-governor-2026-06-7054b849593c89456b2f897f90ebdc0c.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWVmR1YkhsVFFVTmpjMGR0VFJDZkF4ampCU2dLTWdZeGRZcXZyUWM",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "RBI MPC keeps repo rate unchanged at 5.25%, maintains 'neutral' stance",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rimjhim Singh"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/rbi-mpc-meet-august-repo-rate-governor-sanjay-malhotra-inflation-growth-gdp-126080500231_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/16/full/1760591199-6976.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZZbUp2T0c1NWNucGZZVmhIVFJERUF4aW1CU2dLTWdZTk5wanNHUW8",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "RBI Monetary Policy Meeting June 2026 Highlights: RBI keeps repo rate unchanged, revises GDP growth forecast to 6.6% from 6.9%",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abhishek Chakraborty"
+        ]
+      },
+      "link": "https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/",
+      "thumbnail": "https://images.indianexpress.com/2026/06/rbi-chief-sanjay-malhotra.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhiMVJ5YkRaalQwcEVTbnBNVFJDZkF4ampCU2dLTWdhZFZwZ01JZ2s",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "India to get its first plastic notes next year: RBI governor shares timeline, explains benefits",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/india-to-get-its-first-plastic-notes-next-year-rbi-governor-shares-timeline-explains-benefits/articleshow/132902296.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132902394,width-1280,height-720,imgsize-683217,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNWVUZMT1RNNVVVMWlRMFZXVFJDZkF4ampCU2dLTWdZRmNwQW1zUVk",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Will RBI keep repo rates unchanged? When and where to watch governor Sanjay Malhotra's speech live",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/markets/will-rbi-keep-repo-rates-unchanged-when-and-where-to-watch-governor-sanjay-malhotra-s-speech-live-13992483.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250721154028_sanjay-malhotra.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJTSFpwV2xsMWVVRm1jbFpXVFJERUFSamVBaWdLTWdZbFJvTHNvUWM",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "RBI MPC Meeting Outcome Today: Time, Where & How To Watch Governor Sanjay Malhotra's Speech LIVE On August",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/business/economy/rbi-mpc-meeting-outcome-tomorrow-time-where-how-to-watch-governor-sanjay-malhotras-speech-live-on-august-5-ws-l-10251345.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2025/02/sanjay-malhotra-2025-02-6bd9e9d7a00726a3df371ce29d3d5059.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJkVEJOTWkxRFNsazFYMDFKVFJDZkF4ampCU2dLTWdZcEZaRE9tUWc",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "RBI MPC August 2026 meeting: When and where to watch rate decision live",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rimjhim Singh"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/rbi-mpc-august-meet-governor-monetary-policy-repo-rate-when-where-to-watch-126080300374_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/24/full/1782281898-9615.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpRVFJDYVhneUxXMUdkRnBaVFJEZkF4aUFCU2dLTWdtcFVZaTJUQ1NEYUFJ",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "RBI MPC highlights: Top decisions announced by Governor Sanjay Malhotra & Co",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/rbi-mpc-highlights-top-decisions-announced-by-governor-sanjay-malhotra-co/articleshow/131521364.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-131521356,width-1200,height-900,resizemode-4,imgsize-482778/digital-payment-fraud-rbis-new-compensation-policy-customer-protection.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZZbEpzTUZaSVNqSkdhamc1VFJEZ0F4aUFCU2dLTWdrQllZQzJKT2pJdFFB",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "RBI Policy Today: Time, Where & How To Watch Governor Sanjay Malhotra's Speech LIVE On June 5",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mohammad Haris"
+        ]
+      },
+      "link": "https://www.news18.com/business/economy/rbi-policy-today-time-where-how-to-watch-governor-sanjay-malhotras-speech-live-on-june-5-ws-l-10131498.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2025/02/sanjay-malhotra-2025-02-6bd9e9d7a00726a3df371ce29d3d5059.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJkVEJOTWkxRFNsazFYMDFKVFJDZkF4ampCU2dLTWdZcEZaRE9tUWc",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "RBI MPC Meeting Date and Time: When and where to watch Governor Sanjay Malhotra live",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/rbi-mpc-meeting-june-date-and-time-when-and-where-to-watch-sanjay-malhotra-speech-live-rbi-repo-rate-announcement-13940699.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251024071046_RBIpic.png?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZUMUpRVm5sRGIwVTNWblJ5VFJERUFSamVBaWdLTWdhcE5ZenRzUVk",
+      "date": "06/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-04T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "RBI Policy June 2026 LIVE Streaming: Watch Governor Sanjay Malhotra's Speech Live Here",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mohammad Haris"
+        ]
+      },
+      "link": "https://www.news18.com/business/banking-finance/rbi-policy-june-2026-live-streaming-watch-governor-sanjay-malhotras-speech-live-here-10131712.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/04/Sanjay-Malhotra-RBI-Governor-2026-04-8908dae59f8ea3d79460711ced2cc1f5.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdMVzF5V25GQmRFUXROVk5VVFJDZkF4ampCU2dLTWdhdE5Zck9IUWs",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Plastic currency notes in India soon, says RBI, as cash sees a surge",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/india/rbi-governor-malhotra-plan-polymer-currency-notes-india-cash-10725292/",
+      "thumbnail": "https://images.indianexpress.com/2026/06/RBI-governor.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtNRWxLUVdodFkwRlFkRzFLVFJDZkF4ampCU2dLTWdZeEpZS3dIUU0",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "RBI Gov Sanjay Malhotra has a few tricks up his sleeve to attract foreign capital",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/latest/economy/story/rbi-gov-sanjay-malhotra-has-a-few-tricks-up-his-sleeve-to-attract-foreign-capital-535053-2026-06-05",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a226390405b9-rbi-gov-sanjay-malhotra-announces-ways-to-attract-foreign-capital-055002737-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVJiMDVhVkdjM0xYZHVjbGRUVFJDZkF4ampCU2dLTWdB",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "RBI MPC Meeting June 2026: Date, Time, Expectations, When And Where To Watch Governor Sanjay Malhotra's Speech Live",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtvprofit.com/economy/rbi-mpc-meeting-june-2026-date-time-expectations-when-and-where-to-watch-governor-sanjay-malhotras-speech-live-11584253",
+      "thumbnail": "https://c.ndtvimg.com/2026-06/pjrnctoc_rbi-mpc-june_625x300_03_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZibVpxTFZGSVZURTVTRXRwVFJDZkF4ampCU2dLTWdZTllJTGxJZ2s",
+      "date": "06/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-03T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "RBI Monetary Policy 2026 Live Streaming: When and where to watch the address of Governor Sanjay Malhotra t",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/rbi-mpc-meet-2026-live-streaming-date-time-when-and-where-to-watch-address-of-governor-sanjay-malhotra/articleshow/130100266.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130100300,width-1200,height-900,resizemode-4,imgsize-50956/rbi-policy-meeting-live-streaming.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVUVWRWYTNBM2JWSnhhbEpJVFJEZ0F4aUFCU2dLTWdhWlFwNUpuZ2s",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "RBI to print plastic notes from April-May 2027: Governor drops hint ₹10, ₹20 & other low-value notes will b...",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bhaskarenglish.in/business/news/rbi-governor-malhotra-plastic-notes-launch-india-currency-138638698.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/08/05/ppp_1784284212_1785158927625_1785918336469.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdRV1ZVVlhaTmExTmtkemh5VFJEZ0F4aUFCU2dLTWdrQklvWkxtU21TRXdF",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "RBI’s five measures to attract foreign capital to India",
+      "source": {
+        "name": "bfsi.economictimes.indiatimes.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shrishti Sharma"
+        ]
+      },
+      "link": "https://bfsi.economictimes.indiatimes.com/articles/rbi-unveils-five-strategic-measures-to-boost-foreign-capital-inflows-to-india/131522306",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-131522306,width-1200,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVUMDFOY2xCd1dtUnpaREV3VFJEZ0F4aUFCU2dLTWdZQlVJcktRUVk",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Tata Sons remains classified as an upper-layer NBFC: RBI Gov Sanjay Malhotra",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/latest/corporate/story/tata-sons-remains-classified-as-an-upper-layer-nbfc-rbi-gov-sanjay-malhotra-547572-2026-08-06",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a7425af99301-tata-wants-to-surrender-its-nbfc-cic-licence-061153360-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXplamMyVDA1SWJFTmlMVkZZVFJDZkF4ampCU2dLTWdhcE01NnVuUWs",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "RBI keeps repo rate unchanged at 5.25% for second time in row amid West Asia conflict",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/business/2026/Jun/05/rbi-cuts-fy27-growth-forecast-to-66-raises-inflation-projection-to-51-amid-geopolitical-tensions",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-02-06/bgxgq3ob/C_1_1_CH1035_117080635.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1VRFZKY0RSWVZHaHJjekozVFJESEF4aWlCU2dLTWdhcEJZanRNUWM",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Petrol and diesel prices may rise if Middle East crisis persists, says RBI Governor Sanjay Malhotra",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/petrol-and-diesel-prices-may-rise-if-middle-east-crisis-persists-says-rbi-governor-sanjay-malhotra/articleshow/131073514.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131073576,width-1280,height-720,imgsize-521384,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9UbXhVU0dzdGVXVmlOVkY1VFJDZkF4ampCU2dLTWdZSlVKRFdNQWM",
+      "date": "05/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-13T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "RBI raises FY27 GDP growth forecast to 6.7 pc, projects inflation at 5 pc: Governor Malhotra",
+      "source": {
+        "name": "ANI News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aninews.in/news/business/rbi-raises-fy27-gdp-growth-forecast-to-67-pc-projects-inflation-at-5-pc-governor-malhotra20260805105727",
+      "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260805052711.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFkVWRyUkdSMVkxY3pXV0pDVFJEZ0F4aUFCU2dLTWdhdFJaQ3VJUWs",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "RBI MPC Meeting August 2026: FY27 inflation forecast cut to 5% from 5.1%",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shloka Badkar"
+        ]
+      },
+      "link": "https://www.cnbctv18.com/economy/rbi-monetary-policy-decisions-inflation-forecast-fy27-changes-target-range-governor-sanjay-malhotra-19961992.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/inflation-2026-07-a62c6863914da9f80ad68bdda498d59d.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlXRXM1TWpWTlJpMTZOalZyVFJDZkF4ampCU2dLTWdhWlVZVHpMQWM",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Foreign individuals can now invest directly in listed Indian firms under new RBI rules",
+      "source": {
+        "name": "ETLegalWorld.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://legal.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://legal.economictimes.indiatimes.com/news/law-policy/new-rbi-rules-allow-foreign-individuals-direct-investment-in-indian-listed-companies/131754857",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-131754857,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVaa0ZzVmw5S2NUSTRURFJFVFJDZkF4ampCU2dLTWdhNWNvb1N0UVE",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "RBI Decides To Keep Policy Rate Unchanged At 5.25 Pc Amid West Asia Crisis",
+      "source": {
+        "name": "ETV Bharat",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.etvbharat.com/en/business/rbi-monetary-policy-meeting-2026-live-updates-reserve-bank-of-india-rbi-mpc-june-meeting-repo-rate-sanjay-malhotra-june-5-friday-enn26060500840",
+      "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/05-06-2026/1200-675-26850708-975-26850708-1780630171759.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWelUwU21sVloxOXNjRzVOVFJDZkF4ampCU2dLTWdhdEpZTE9GUU0",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "RBI June MPC decision: When and where to watch Guv Malhotra's address",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/finance/news/rbi-june-mpc-decision-when-and-where-to-watch-guv-malhotra-s-address-126060300316_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/14/full/1778745344-3858.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZORk5GUTJWdVpWQkpORVF6VFJERUF4aW1CU2dLTWdhdE1vUXdLUU0",
+      "date": "06/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-03T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "RBI MPC keeps repo rate unchanged at 5.25%, maintains 'neutral' stance",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rimjhim Singh"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/rbi-mpc-meet-june-repo-rate-cpi-inflation-gdp-growth-sanjay-malhotra-stance-west-asia-126060500135_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/05/full/1764916411-2603.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlhRE5SU1d0UFVIWkRNa0Z1VFJEQkF4aXFCU2dLTWdhcE5ZYk5tUWs",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "RBI MPC Meeting Begins Today: Pause Or Rate Hike? Sanjay Malhotra To Announce Repo Rate Decision On June 5",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mohammad Haris"
+        ]
+      },
+      "link": "https://www.news18.com/business/banking-finance/rbi-mpc-meeting-begins-today-pause-or-rate-hike-sanjay-malhotra-to-announce-repo-rate-decision-on-june-5-ws-l-10127610.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2025/06/rbi-mpc-meeting-when-and-where-to-watch-sanjay-malhotra-cos-announcements-check-date-and-time-2025-06-152c6aae253eca1994006e717c3b515b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTVEl4VDNCWVYyZFZkVmxMVFJDZkF4ampCU2dLTWdZZFpZNnVKUWc",
+      "date": "06/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-03T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "RBI MPC Highlights: What Governor Sanjay Malhotra announced today",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/rbi-mpc-highlights-what-governor-sanjay-malhotra-announced-today/articleshow/130102402.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130102340,width-1200,height-900,resizemode-4,imgsize-104600/rbi-governor-sanjay-malhotra.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkM0k1U0U1MlJHUXdNbnB0VFJEZ0F4aUFCU2dLTWdhcEpZenRMUWM",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Are paper notes on their way out? RBI makes big announcement regarding plastic currency",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tahir Qureshi"
+        ]
+      },
+      "link": "https://www.india.com/business/are-paper-notes-on-their-way-out-rbi-makes-big-announcement-regarding-plastic-currency-reserve-bank-of-india-sanjay-malhotra-polymer-monetary-policy-repo-rate-8437498/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/06/QT-inr.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFTamR5U1V0UmEyMWhSWHBQVFJERUF4aW1CU2dLTWdZZElvWU9tUVk",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "RBI to introduce new NBFC classification framework: Governor Malhotra",
+      "source": {
+        "name": "bfsi.economictimes.indiatimes.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shrishti Sharma"
+        ]
+      },
+      "link": "https://bfsi.economictimes.indiatimes.com/articles/rbi-unveils-new-nbfc-classification-framework-what-to-expect-from-governor-malhotra/130107430",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-130107430,width-1200,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZZbEpzTUZaSVNqSkdhamc1VFJEZ0F4aUFCU2dLTWdrQllZQzJKT2pJdFFB",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "RBI MPC April Meeting 2026: Time, Where & How To Watch Governor Sanjay Malhotra's Speech LIVE Today",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Varun Yadav"
+        ]
+      },
+      "link": "https://www.news18.com/business/economy/rbi-mpc-april-meeting-2026-time-where-how-to-watch-governor-sanjay-malhotras-speech-live-today-ws-l-10019569.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2025/06/rbi-mpc-meeting-when-and-where-to-watch-sanjay-malhotra-cos-announcements-check-date-and-time-2025-06-152c6aae253eca1994006e717c3b515b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTVEl4VDNCWVYyZFZkVmxMVFJDZkF4ampCU2dLTWdZZFpZNnVKUWc",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "RBI MPC Repo Rate: Sanjay Malhotra & Co hold rates steady at 5.25% as war shocks rattle outlook",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/rbi-repo-rate-8-april-2026-mpc-announcement-economic-impact-sanjay-malhotra-co-hold-repo-rates-steady-at-5-25-as-war-shocks-rattle-outlook/articleshow/130100749.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130100933,width-1200,height-900,resizemode-4,imgsize-127864/sanjay-malhotra-delivers-monetary-policy-statement.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRZbFppTTJoaFUxRlNNMGsxVFJEZ0F4aUFCU2dLTWdZdEpZTFBuUU0",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "RBI MPC Meet April 2026 Date and Time: When and where to watch Governor Sanjay Malhotra's speech live",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/rbi-mpc-meet-april-2026-date-and-time-when-and-where-to-watch-governor-sanjay-malhotra-s-speech-live-13881196.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251024071046_RBIpic.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhVM0UyV1ZsV1JscDNUSGRFVFJDZkF4ampCU2dLTWdhcE5ZcnVyUVk",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Bye Bye Paper Money? RBI Governor Sanjay Malhotra Drops Hint At Plastic Currency Plan After RBI MPC Speech",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sharmila Bhadoria"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/bye-bye-paper-money-rbi-governor-sanjay-malhotra-drops-hint-at-plastic-currency-plan-after-rbi-mpc-1513371.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/06/indianrupeenote6-1780650963.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdkelJoVTBoclVFbDVkbTFaVFJEU0FoallCQ2dLTWdrQmNJYkNPR09pU1FJ",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "RBI Policy April 2026 Meeting: Repo rate remains unchanged at 5.25%, stance remains ‘neutral’",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/business/rbi-policy-april-2026-meeting-repo-rate-remains-unchanged-at-5-25-stance-remains-neutral-10624896/",
+      "thumbnail": "https://images.indianexpress.com/2026/04/RBI-Sanjay-Malhotra_20250806222239_20260408042145.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9lRGRqVWtweFQwVjZVbW8wVFJDZkF4ampCU2dLTWdZcEJvZ05qZ1k",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "RBI Monetary Policy lowers India's GDP growth forecast to 6.6% for FY27",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shloka Badkar"
+        ]
+      },
+      "link": "https://www.cnbctv18.com/economy/rbi-monetary-policy-mpc-gdp-growth-estimate-fy27-forecast-governor-sanjay-malhotra-19919962.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/03/1772435670_ctYEoj08sI-GDPMar02jpg-fsdGLLJonv.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXFUMUEwV0VSYVpGTlJXVXMxVFJDZkF4ampCU2dLTWdPTllRdw",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Will India finally get plastic banknotes? RBI's polymer currency plan explained",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/will-india-finally-get-plastic-banknotes-rbis-polymer-currency-plan-explained/articleshow/131528203.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131528459,width-1280,height-720,imgsize-1156844,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkblZ3U25wRlMwbFpiMjFZVFJDZkF4ampCU2dLTWdZSlVJNmxxZ1U",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "RBI MPC April 2026 meet: When and where to watch policy decision live",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vrinda Goel"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/rbi-mpc-april-2026-meeting-when-where-to-watch-live-policy-decision-governor-sanjay-malhotra-126040800193_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/06/full/1770361582-8089.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURSelJoWjBSdU1XOWlSMHh4VFJEZkF4aUFCU2dLTWdtcFVZaTJUQ1NEYUFJ",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "RBI Inflation 2026–27: Sanjay Malhotra & Co peg FY27 inflation projection at 4.6% as war risks cloud outlo",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/indicators/rbi-inflation-forecast-2026-27-india-reserve-bank-of-india-governor-sanjay-malhotra-cpi-outlook-monetary-policy-report/articleshow/130102134.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130102184,width-1200,height-900,resizemode-4,imgsize-26428/rbi-mpc-inflation-forecast-cpi-outlook-india.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9aRkJCWlc1eWJua3dPVVpCVFJEZ0F4aUFCU2dLTWdZTk5wYnNHUW8",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "RBI MPC: India's central bank projects real GDP growth of 6.9% for FY27",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shloka Badkar"
+        ]
+      },
+      "link": "https://www.cnbctv18.com/economy/rbi-monetary-policy-mpc-gdp-growth-estimate-fy27-governor-sanjay-malhotra-ws-l-19882544.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/03/1772435670_ctYEoj08sI-GDPMar02jpg-fsdGLLJonv.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXFUMUEwV0VSYVpGTlJXVXMxVFJDZkF4ampCU2dLTWdPTllRdw",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "RBI MPC key takeaways 2026: Check major announcements on repo rate, GDP & inflation by Governor Sanjay Mal",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/rbi-mpc-meeting-2026-key-takeaways-repo-rate-decision-inflation-gdp-growth-outlook-check-major-announcements-by-gov-sanjay-malhotra/articleshow/130100138.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130100274,width-1200,height-900,resizemode-4,imgsize-104600/rbi-governor-sanjay-malhotra.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkM0k1U0U1MlJHUXdNbnB0VFJEZ0F4aUFCU2dLTWdhcEpZenRMUWM",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "RBI MPC meeting April 8: When and where to watch Governor Sanjay Malhotra’s live address",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/latest-updates/rbi-mpc-meeting-april-8-when-and-where-to-watch-governor-sanjay-malhotra-s-live-address/article-191785/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/rbimpc06ap1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJiM00wUjNWMlJUZDJXRmR2VFJDZkF4ampCU2dLTWdiTmNJNjJLQVk",
+      "date": "04/07/2026, 12:02 PM, +0000 UTC",
+      "iso_date": "2026-04-07T12:02:45Z"
+    },
+    {
+      "position": 59,
+      "title": "RBI to Issue New ₹50 Notes With Governor Sanjay Malhotra’s Signature; Old Notes Remain Valid",
+      "source": {
+        "name": "News On AIR",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newsonair.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newsonair.gov.in/rbi-to-issue-new-%E2%82%B950-notes-with-governor-sanjay-malhotras-signature-old-notes-remain-valid/",
+      "thumbnail": "https://newsonair.gov.in/wp-content/uploads/2024/11/6f0ef94a6308daebe9a01cd780994fc7-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpiMDlDVURGelVXTnBiMkpvVFJERkF4aWxCU2dLTWdhaGRKQ3NMUVk",
+      "date": "05/26/2026, 10:00 PM, +0000 UTC",
+      "iso_date": "2026-05-26T22:00:32Z"
+    },
+    {
+      "position": 60,
+      "title": "LIVE: RBI Governor Sanjay Malhotra Delivers Key Monetary Policy Statement | Interest Rates & Outlook",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/videos/business/live-rbi-governor-sanjay-malhotra-delivers-key-monetary-policy-statement-interest-rates-outlook-13711786.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/12/20251205042434_RBI-Monetary-Policy_LIVE-TT.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDBiVFJSYTFwRVNXVTBORmwxVFJDZkF4ampCU2dLTWdB",
+      "date": "12/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-05T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "No rethink on new bank lending norms for brokers: RBI Governor",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aanchal Magazine"
+        ]
+      },
+      "link": "https://indianexpress.com/article/business/rbi-governor-new-bank-lending-norms-brokers-10549366/",
+      "thumbnail": "https://images.indianexpress.com/2026/02/Nirmala-Sitharaman-sanjay-malhotra.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxaa1J3TUZRNVJERkpRalkwVFJDZkF4ampCU2dLTWdrSlVvckZvcWcxaUFJ",
+      "date": "02/24/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-24T08:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "RBI revises FY27 Q1, Q2 GDP growth projections upward, defers full-year outlook to April policy after new GDP series",
+      "source": {
+        "name": "ANI News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aninews.in/news/business/rbi-revises-fy27-q1-q2-gdp-growth-projections-upward-defers-full-year-outlook-to-april-policy-after-new-gdp-series20260206103338",
+      "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260206050320.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5hamR5ZFUxc2JtZDRkMmxmVFJEQ0FSaURBaWdCTWdhdEpZRE9GUVU",
+      "date": "02/06/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-06T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "RBI to Announce Monetary Policy Today; Governor Sanjay Malhotra to Speak at 10 AM",
+      "source": {
+        "name": "News On AIR",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newsonair.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newsonair.gov.in/rbi-to-announce-monetary-policy-today-governor-sanjay-malhotra-to-speak-at-10-am/",
+      "thumbnail": "https://newsonair.gov.in/wp-content/uploads/2025/09/rbi-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRhMUZ2TTBac1MzRkxhMmxsVFJDSkF4allCQ2dLTWdZNVlvZ1VQUVU",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-01T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "RBI MPC meeting: Here's date, time, and where to watch Governor Sanjay Malhotra's address",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-heres-date-time-and-where-to-watch-governor-sanjay-malhotras-address-11785827746132.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/maxresdefault_live_1785905359790_1785905364045_6ce1445f-bd3e-498b-97d4-f61567e403a5.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlTbUZCTmxWcE1tTmlkR2RqVFJDZkF4ampCU2dLTWdhQlVwSVVKUWc",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "RBI MPC meeting August 2026: Check date, time, expectations and where to watch Governor Sanjay Malhotra's speech live",
+      "source": {
+        "name": "ET Now",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.etnownews.com/economy/rbi-mpc-meeting-august-2026-check-date-time-expectations-and-where-to-watch-governor-sanjay-malhotras-speech-live-article-155234412",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Polymer currency notes proposal under consideration, says RBI Governor Sanjay Malhotra",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankit Gohel"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/polymer-currency-notes-proposal-under-consideration-says-rbi-governor-sanjay-malhotra-11780647512433.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/05/1600x900/logo/PTI06-05-2026-000104B-0_1780647648031_1780647669086_6072146c-34a5-432c-8bf8-19499dc04a7d.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBhSFkzVEdJMlVIbEdORWMxVFJDZkF4ampCU2dLTWdZUkFKaUdFZ28",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "RBI MPC meeting: Here's the date, time, and where to watch Governor Sanjay Malhotra's address live on June 5",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-heres-the-date-time-and-where-to-watch-governor-sanjay-malhotras-address-live-on-june-5-11780555699575.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/hqdefault_1780574818256_1780574821943_0f64fe8b-3436-44dc-a24d-a22988832d11.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFRbGgwY0RaRVQwOUtaVkUyVFJDZkF4ampCU2dLTWdrQllJUkJwMmdlS2dJ",
+      "date": "06/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-04T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "RBI Governor Sanjay Malhotra on India's Economic Resilience and Growth",
+      "source": {
+        "name": "Republic World",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.republicworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.republicworld.com/business/rbi-governor-sanjay-malhotra-india-economy-resilience-mcp-update-2026-06-05-127031",
+      "thumbnail": "https://img.republicworld.com/all_images/rbi-governor-sanjay-malhotra-on-friday-addressed-a-question-on-whether-india-is-in-a-goldilocks-phase-1770364278011-16_9.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJTbkkzVW5kbGNYQmxlRmx0VFJDZkF4ampCU2dLTWdhZFZaYk5vUWc",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "RBI MPC meeting outcome today: Check date, time, and where to watch Governor Sanjay Malhotra's speech",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-outcome-today-check-date-time-and-where-to-watch-governor-sanjay-malhotras-speech-11785890925283.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/maxresdefault_live_1785905354159_1785905358940_d05ff2f9-dde3-4d94-a059-bd062b677fc8.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhVa05mTFhCeVlVbzVkR0UyVFJDZkF4ampCU2dLTWdhQlVwSVVKUWc",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "RBI MPC Meeting 2026: Date, time, expectations, when and where to watch Governor Sanjay Malhotra policy address",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-2026-date-time-expectations-when-and-where-to-watch-governor-sanjay-malhotra-policy-address-11780621627356.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/05/1600x900/hqdefault_live_1780639629443_1780639632929_7566e302-c1db-45c8-a5f3-acd2fd1c5f19.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFabTQ0YUZGM2VXMXJNMU5CVFJDZkF4ampCU2dLTWdZVlVvN3R3UVE",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "RBI Governor Sanjay Malhotra's Cryptic Hint That Matters To Tata Sons",
+      "source": {
+        "name": "Republic World",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.republicworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.republicworld.com/business/rbi-governor-sanjay-malhotra-s-cryptic-hint-that-matters-to-tata-sons-2026-06-05-127045",
+      "thumbnail": "https://img.republicworld.com/all_images/tata-sons-ipo-1753710804225-16_9.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtPVUpFUlVSSFEweEJjMjlUVFJDZkF4ampCU2dLTWdhcFVvU3VWUU0",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "RBI MPC Meeting June 2026: Repo rate held steady at 5.25% —5 key takeaways from monetary policy decision",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pranati Deva"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-june-2026-repo-rate-held-steady-at-5-25-5-key-takeaways-from-monetary-policy-decision-11780630767348.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/05/1600x900/hqdefault_live_1780639626025_1780639628888_612f57fd-676a-4d50-a422-373820bd58f1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFabTQ0YUZGM2VXMXJNMU5CVFJDZkF4ampCU2dLTWdZVlVvN3R3UVE",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Big push for foreign capital! RBI unveils new measures to attract foreign investors",
+      "source": {
+        "name": "Zee Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.zeebiz.com/economy-infra/news-big-push-for-foreign-capital-rbi-unveils-new-measures-to-attract-foreign-investors-396713",
+      "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/06/05/407550-rbi-foreing-investor.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhiVlpNWW5wUWVGVTNTa0ZUVFJEOEFSakFBeWdLTWdrRmNJd0RvMmg3Y0FF",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "RBI MPC meeting: Date, time, where & how to watch Governor Sanjay Malhotra's policy address",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-date-time-where-how-to-watch-governor-sanjay-malhotras-policy-address-11775610799707.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/RBI_1775611654108_1775611654262.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFaRkYzVG1WUmNrSkthVEJWVFJDZkF4ampCU2dLTWdhcGNvNXZzUVk",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "RBI MPC meeting April 2026: Repo rate held steady at 5.25%—5 key takeaways from monetary policy decision",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nishant Kumar"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-april-2026-repo-rate-at-5-25-policy-stance-neutral-5-key-takeaways-from-rbi-monetary-policy-11775621807112.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/PTI04-09-2025-000110A-0_1744203645950_1775622307427.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZhM0JFZWpGUlpUbGxPR1JrVFJDZkF4ampCU2dLTWdZcFJvTHRJUWc",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "RBI MPC meeting: Check date, time, where & how to watch Governor Sanjay Malhotra's policy address live",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-check-date-time-where-how-to-watch-governor-sanjay-malhotras-policy-address-live-11775546408940.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/07/1600x900/logo/RBI_1775548329299_1775548329418.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdlbVZFY1VkeGVqRktkV0owVFJDZkF4ampCU2dLTWdZcE5aak9IUWs",
+      "date": "04/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-07T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "RBI MPC meeting: Check date, time, when and where to watch Governor Sanjay Malhotra’s policy announcement",
+      "source": {
+        "name": "financialexpress.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.financialexpress.com/business/news-rbi-mpc-meetingnbspcheck-date-time-when-and-where-to-watch-governor-sanjay-malhotras-policy-announcement-4198761/",
+      "thumbnail": "https://images.financialexpressdigital.com/2026/04/Khush-DND15_20260407141231.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhTRzFSVlRKSFNVNWFZbVJPVFJDZkF4ampCU2dLTWdZbEZvZ05rZ1E",
+      "date": "04/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-07T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "India Targets Rollout of First Polymer Currency Notes in Early FY2027",
+      "source": {
+        "name": "ascendants.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ascendants.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Om Singh"
+        ]
+      },
+      "link": "https://ascendants.in/spotlight/india-first-polymer-notes-fy2027-rbi/",
+      "thumbnail": "https://ascendants.in/wp-content/uploads/2026/08/rbi.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTVzh3WTNJd2N6aEtORGhUVFJDZkF4ampCU2dLTWdZQmNKVERyZ1k",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "RBI MPC Policy Announcement | April 8, 2026 First Bi-Monthly Policy of FY27 | Governor Sanjay Malhotra Presiding",
+      "source": {
+        "name": "Republic World",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.republicworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajay Bagga"
+        ]
+      },
+      "link": "https://www.republicworld.com/business/rbi-mpc-policy-announcement-april-8-2026-first-bi-monthly-policy-of-fy27-governor-sanjay-malhotra-presiding",
+      "thumbnail": "https://img.republicworld.com/all_images/rbi-mpc-february-meet-1770369361749-16_9.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXlTbFZCV214RU4wa3RjbVUwVFJDZkF4ampCU2dLTWdB",
+      "date": "04/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-07T07:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "RBI expands term money market access to NBFCs, AIFs, and housing finance companies",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dhanya Nagasundaram"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/rbi-expands-term-money-market-access-to-nbfcs-aifs-and-housing-finance-companies-rbi-policy-11775626485433.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/INDIA-CENBANK-INTEREST-RATES-0_1744095799648_1775626743250.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRPRW95WTFWU1JHbzVjRWhMVFJDZkF4ampCU2dLTWdZUk5vUXJHZ2s",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    },
+    {
+      "position": 81,
+      "title": "RBI MPC Meeting: Repo rate unchanged; GDP growth projection for FY27 at 6.9%",
+      "source": {
+        "name": "News9live",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.news9live.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Biplob Ghosal"
+        ]
+      },
+      "link": "https://www.news9live.com/business/economy/rbi-mpc-meeting-2026-updates-governor-sanjay-malhotra-rbi-monetary-policy-committee-repo-rate-india-gdp-inflation-2953533",
+      "thumbnail": "https://images.news9live.com/wp-content/uploads/2026/04/RBI-Governor-Sanjay-Malhotra.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kRGh6YmkxMWFXRnhlVU5VVFJDZkF4ampCU2dLTWdZSllwREZLZ2c",
+      "date": "04/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-08T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

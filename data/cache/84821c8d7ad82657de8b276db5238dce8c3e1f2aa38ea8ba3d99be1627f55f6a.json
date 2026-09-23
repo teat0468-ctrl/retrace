@@ -1,0 +1,369 @@
+{
+  "search_metadata": {
+    "id": "6ab36f51759dbcee552b64ae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6BahnLjIAKtO9ckngd45E5lKuKyZPAFGeQ2oLrZUiOU/6ab36f51759dbcee552b64ae.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6BahnLjIAKtO9ckngd45E5lKuKyZPAFGeQ2oLrZUiOU/6ab36f51759dbcee552b64ae.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6BahnLjIAKtO9ckngd45E5lKuKyZPAFGeQ2oLrZUiOU/6ab36f51759dbcee552b64ae.json_with_pixel_position",
+    "created_at": "2026-09-23 06:18:57 UTC",
+    "processed_at": "2026-09-23 06:18:57 UTC",
+    "google_url": "https://www.google.com/search?q=Apple+Vision+2025&oq=Apple+Vision+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6BahnLjIAKtO9ckngd45E5lKuKyZPAFGeQ2oLrZUiOU/6ab36f51759dbcee552b64ae.html",
+    "total_time_taken": 0.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Apple Vision 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Apple Vision 2025",
+    "total_results": 104,
+    "time_taken_displayed": 0.15,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is Apple Vision Pro 2 coming out?",
+      "type": "ai_overview",
+      "page_token": "xJccknicHdDbboIwGADg7GW8nBTUZSZmCXLYyKhpoQV6s0CrVvsL9TBR7vYue6o9zZbdf1ff1zfsWvPzcNWXiz3Px-O-7x-3XbeF9aPsDuP6fG_lWNYATS3NfPY0Qy8buQg_3_zl8c0nzFoeUCcrrMmRzdQQBbn73FZcY1HauIirKXchyY09NgW-NqXA6ZDeJGzdNYeAGG0IQ1OGcK9aUWYujmrAlLnsXqFqmuX-LQ-0xx3EVAGYeDCpHfFndMk5hLLQ73Wor9SNYrLHK-nwU97qcg3JpnGEWHHBMy-CLFa8QtbPY5oKoOcGaCkifeQDX67CBIhLo-IgkoKrrgk0DbXi_I5mVYk_C2Zv-aBPLASSLtFUxYpiv9sRRge5hwODZ8OMmagBvwtHh-lrUlEv7NUeLyumO2nwnZDRRl4X3uj_c_GxOVzm9tRtfwGDeoQQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xJccknicHdDbboIwGADg7GW8nBTUZSZmCXLYyKhpoQV6s0CrVvsL9TBR7vYue6o9zZbdf1ff1zfsWvPzcNWXiz3Px-O-7x-3XbeF9aPsDuP6fG_lWNYATS3NfPY0Qy8buQg_3_zl8c0nzFoeUCcrrMmRzdQQBbn73FZcY1HauIirKXchyY09NgW-NqXA6ZDeJGzdNYeAGG0IQ1OGcK9aUWYujmrAlLnsXqFqmuX-LQ-0xx3EVAGYeDCpHfFndMk5hLLQ73Wor9SNYrLHK-nwU97qcg3JpnGEWHHBMy-CLFa8QtbPY5oKoOcGaCkifeQDX67CBIhLo-IgkoKrrgk0DbXi_I5mVYk_C2Zv-aBPLASSLtFUxYpiv9sRRge5hwODZ8OMmagBvwtHh-lrUlEv7NUeLyumO2nwnZDRRl4X3uj_c_GxOVzm9tRtfwGDeoQQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJJcyBBcHBsZSBWaXNpb24gUHJvIDIgY29taW5nIG91dD8iLCJsayI6IkdpQnBjeUJoY0hCc1pTQjJhWE5wYjI0Z2NISnZJRElnWTI5dGFXNW5JRzkxZEEiLCJicyI6ImMyM1B2US1DTUJDSDRiaDJjbWI2cWVCc09yZ2FKM1V3R2dkM0FnMWNVbm9OVi1UZkZfd1lJTjB1dVNkdjd0UkpyUzZDb19mVzRFbEM3SEJ2R1JvRk4tUXFjQmNPZXAyQUJQa0h2YjdJejVDNnFXd2Vxa3dJNDdva0tkZ05ZMmZLZzk0bTZUd1dnN0hnZUZuUGJhaEJBZVNnZDNvZkRmb0lWRmVWbnJsSDB4VTFlckwyMzM2Z3NybUlrZUVkR2I3TmtrMDljYjkwTzNITHhScyIsImlkIjoiZmNfVVctemFzbllKcU84a1BJUDAteXRnUTRfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJJcyBBcHBsZSBWaXNpb24gUHJvIDIgY29taW5nIG91dD8iLCJsayI6IkdpQnBjeUJoY0hCc1pTQjJhWE5wYjI0Z2NISnZJRElnWTI5dGFXNW5JRzkxZEEiLCJicyI6ImMyM1B2US1DTUJDSDRiaDJjbWI2cWVCc09yZ2FKM1V3R2dkM0FnMWNVbm9OVi1UZkZfd1lJTjB1dVNkdjd0UkpyUzZDb19mVzRFbEM3SEJ2R1JvRk4tUXFjQmNPZXAyQUJQa0h2YjdJejVDNnFXd2Vxa3dJNDdva0tkZ05ZMmZLZzk0bTZUd1dnN0hnZUZuUGJhaEJBZVNnZDNvZkRmb0lWRmVWbnJsSDB4VTFlckwyMzM2Z3NybUlrZUVkR2I3TmtrMDljYjkwTzNITHhScyIsImlkIjoiZmNfVVctemFzbllKcU84a1BJUDAteXRnUTRfMiJ9"
+    },
+    {
+      "question": "Is Apple Vision getting discontinued?",
+      "type": "ai_overview",
+      "page_token": "PsxE8HicHdBdboIwAADg7DJ7nC2KiyZmCaMV2cC10B94WaBVQH5VJsjb7rJT7TRL9h3h-_6piqb8fbjlfd9d17PZMAxPWdtm1eFJtfUsud4bNVNJVaWJKtfL5yV8OaoN-tpZr-edRVjXcZuC4MSdAPhmAlsjAkPP6hWg8-7OStcVeMXfpbdgtlVHwCeeQEDb2UQgWVA05ozj3Bf8yDEzeNV1Sa2APnGpGP5QJbV9ie5yrt9CNC701ixTSIvEoWe_iW8Bjvpwiq3UwVHI4CWFyAwmvo8BRHTKhzh0G4bcKGpcorEm-y20g2lneg4dhHTxAeUiFb30ODOoGKfDybJVmVOUa87vcBlJ_0uwbgyn_MJQRbxXaOqtpr7VFoTRSZ2qmtV9rW0sI7AaFTKJdjLAMDL2YpjHBi4kgAUjj0d128wf_z83n8e6X3eXNvsD6GOBvw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PsxE8HicHdBdboIwAADg7DJ7nC2KiyZmCaMV2cC10B94WaBVQH5VJsjb7rJT7TRL9h3h-_6piqb8fbjlfd9d17PZMAxPWdtm1eFJtfUsud4bNVNJVaWJKtfL5yV8OaoN-tpZr-edRVjXcZuC4MSdAPhmAlsjAkPP6hWg8-7OStcVeMXfpbdgtlVHwCeeQEDb2UQgWVA05ozj3Bf8yDEzeNV1Sa2APnGpGP5QJbV9ie5yrt9CNC701ixTSIvEoWe_iW8Bjvpwiq3UwVHI4CWFyAwmvo8BRHTKhzh0G4bcKGpcorEm-y20g2lneg4dhHTxAeUiFb30ODOoGKfDybJVmVOUa87vcBlJ_0uwbgyn_MJQRbxXaOqtpr7VFoTRSZ2qmtV9rW0sI7AaFTKJdjLAMDL2YpjHBi4kgAUjj0d128wf_z83n8e6X3eXNvsD6GOBvw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJJcyBBcHBsZSBWaXNpb24gZ2V0dGluZyBkaXNjb250aW51ZWQ/IiwibGsiOiJHaVJwY3lCaGNIQnNaU0IyYVhOcGIyNGdaMlYwZEdsdVp5QmthWE5qYjI1MGFXNTFaV1EiLCJicyI6ImMyM1B2US1DTUJDSDRiaDJjbWI2cWVCc09yZ2FKM1V3R2dkM0FnMWNVbm9OVi1UZkZfd1lJTjB1dVNkdjd0UkpyUzZDb19mVzRFbEM3SEJ2R1JvRk4tUXFjQmNPZXAyQUJQa0h2YjdJejVDNnFXd2Vxa3dJNDdva0tkZ05ZMmZLZzk0bTZUd1dnN0hnZUZuUGJhaEJBZVNnZDNvZkRmb0lWRmVWbnJsSDB4VTFlckwyMzM2Z3NybUlrZUVkR2I3TmtrMDljYjkwTzNITHhScyIsImlkIjoiZmNfVVctemFzbllKcU84a1BJUDAteXRnUTRfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJJcyBBcHBsZSBWaXNpb24gZ2V0dGluZyBkaXNjb250aW51ZWQ%2FIiwibGsiOiJHaVJwY3lCaGNIQnNaU0IyYVhOcGIyNGdaMlYwZEdsdVp5QmthWE5qYjI1MGFXNTFaV1EiLCJicyI6ImMyM1B2US1DTUJDSDRiaDJjbWI2cWVCc09yZ2FKM1V3R2dkM0FnMWNVbm9OVi1UZkZfd1lJTjB1dVNkdjd0UkpyUzZDb19mVzRFbEM3SEJ2R1JvRk4tUXFjQmNPZXAyQUJQa0h2YjdJejVDNnFXd2Vxa3dJNDdva0tkZ05ZMmZLZzk0bTZUd1dnN0hnZUZuUGJhaEJBZVNnZDNvZkRmb0lWRmVWbnJsSDB4VTFlckwyMzM2Z3NybUlrZUVkR2I3TmtrMDljYjkwTzNITHhScyIsImlkIjoiZmNfVVctemFzbllKcU84a1BJUDAteXRnUTRfMiJ9"
+    },
+    {
+      "question": "Is Apple Vision Pro worth it in 2026?",
+      "type": "ai_overview",
+      "page_token": "XabdZ3icHdDbboIwAADQ7Gd8VC7TTROzpFKsXagTaIt9WbBFC5SLijfe9i_7qn3Nln3BSc7Xt8nr8ufpqruuPc9Go9vtNjw0zcFkQ9lUo_T8qOVIpsbsUlnOJi8T-20v5_CyAovjCmxo2zIvtCLmG1myJUcYbqn9saaYrvn9HkGxCoyolCWgcs6Wgq9d7PpxCLHNqbIC3oqgNnlWK5cVLJd1y1M4xqIgiELScE_z2DuMUxcU1NVXgfQ6KMCeOKVDE4Gysmu47xfMsWHgqj7zQkzLzsuQChKHnCScAoFYEvgAK6iKnacv0hC8dch7vNRh6EyTraWvPPaPEcU9SUAqljaAWjH2sCfbhFw4be9xr08Umk2wsMdqqUICmnxDw14WpqJMP6teTwgid-oKSkrBJMJRjHQbMa3_rELcBnt5nbuD_8_5577qZu2pOfwCP0uCbA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XabdZ3icHdDbboIwAADQ7Gd8VC7TTROzpFKsXagTaIt9WbBFC5SLijfe9i_7qn3Nln3BSc7Xt8nr8ufpqruuPc9Go9vtNjw0zcFkQ9lUo_T8qOVIpsbsUlnOJi8T-20v5_CyAovjCmxo2zIvtCLmG1myJUcYbqn9saaYrvn9HkGxCoyolCWgcs6Wgq9d7PpxCLHNqbIC3oqgNnlWK5cVLJd1y1M4xqIgiELScE_z2DuMUxcU1NVXgfQ6KMCeOKVDE4Gysmu47xfMsWHgqj7zQkzLzsuQChKHnCScAoFYEvgAK6iKnacv0hC8dch7vNRh6EyTraWvPPaPEcU9SUAqljaAWjH2sCfbhFw4be9xr08Umk2wsMdqqUICmnxDw14WpqJMP6teTwgid-oKSkrBJMJRjHQbMa3_rELcBnt5nbuD_8_5577qZu2pOfwCP0uCbA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJJcyBBcHBsZSBWaXNpb24gUHJvIHdvcnRoIGl0IGluIDIwMjY/IiwibGsiOiJHaVJwY3lCaGNIQnNaU0IyYVhOcGIyNGdjSEp2SUhkdmNuUm9JR2wwSUdsdUlESXdNalkiLCJicyI6ImMyM1B2US1DTUJDSDRiaDJjbWI2cWVCc09yZ2FKM1V3R2dkM0FnMWNVbm9OVi1UZkZfd1lJTjB1dVNkdjd0UkpyUzZDb19mVzRFbEM3SEJ2R1JvRk4tUXFjQmNPZXAyQUJQa0h2YjdJejVDNnFXd2Vxa3dJNDdva0tkZ05ZMmZLZzk0bTZUd1dnN0hnZUZuUGJhaEJBZVNnZDNvZkRmb0lWRmVWbnJsSDB4VTFlckwyMzM2Z3NybUlrZUVkR2I3TmtrMDljYjkwTzNITHhScyIsImlkIjoiZmNfVVctemFzbllKcU84a1BJUDAteXRnUTRfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJJcyBBcHBsZSBWaXNpb24gUHJvIHdvcnRoIGl0IGluIDIwMjY%2FIiwibGsiOiJHaVJwY3lCaGNIQnNaU0IyYVhOcGIyNGdjSEp2SUhkdmNuUm9JR2wwSUdsdUlESXdNalkiLCJicyI6ImMyM1B2US1DTUJDSDRiaDJjbWI2cWVCc09yZ2FKM1V3R2dkM0FnMWNVbm9OVi1UZkZfd1lJTjB1dVNkdjd0UkpyUzZDb19mVzRFbEM3SEJ2R1JvRk4tUXFjQmNPZXAyQUJQa0h2YjdJejVDNnFXd2Vxa3dJNDdva0tkZ05ZMmZLZzk0bTZUd1dnN0hnZUZuUGJhaEJBZVNnZDNvZkRmb0lWRmVWbnJsSDB4VTFlckwyMzM2Z3NybUlrZUVkR2I3TmtrMDljYjkwTzNITHhScyIsImlkIjoiZmNfVVctemFzbllKcU84a1BJUDAteXRnUTRfMiJ9"
+    },
+    {
+      "question": "How much will Apple VR glasses cost?",
+      "type": "ai_overview",
+      "page_token": "-SXCrXicHdBLUsIwAADQ8TIsJQFaR2YYx0I_VFttmk_JxmmTQqAJqVoodOddPJWn0XH9du_rW--Pzc_NWXVd-zkfj_u-v91Zu9P1rbBmXH5ej2IsSq2rUjRz986FD1ux8E9rb_m-9jLStnSFQD7pEhmgjFKVlKQt6ER7Ejhoc0jzAlJY4WBfMeBQovCfH1FgITZI1SHnPHTCnCFdMuJQYK8b2MYlbGb1ErLqyHvm3zsM61cUqafKXFIaeZlg0q0Nek6w9usANTno_HwihrRRL5lpHLFKXUScgWNdiMgOFQtyqR8BifxLBVBTH7y-mHSK6fich_ESmRngK5UQyJWcIs9XktIrdDdFemKkveBBfRBfZ8kSOjKUKPXsPiNoEAdtSEE7FgUzTOMSgRQIHO-5CZ6TlWclkacySi-8H23FeTEd_X8u3ramm7cfdvcLadyCqQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-SXCrXicHdBLUsIwAADQ8TIsJQFaR2YYx0I_VFttmk_JxmmTQqAJqVoodOddPJWn0XH9du_rW--Pzc_NWXVd-zkfj_u-v91Zu9P1rbBmXH5ej2IsSq2rUjRz986FD1ux8E9rb_m-9jLStnSFQD7pEhmgjFKVlKQt6ER7Ejhoc0jzAlJY4WBfMeBQovCfH1FgITZI1SHnPHTCnCFdMuJQYK8b2MYlbGb1ErLqyHvm3zsM61cUqafKXFIaeZlg0q0Nek6w9usANTno_HwihrRRL5lpHLFKXUScgWNdiMgOFQtyqR8BifxLBVBTH7y-mHSK6fich_ESmRngK5UQyJWcIs9XktIrdDdFemKkveBBfRBfZ8kSOjKUKPXsPiNoEAdtSEE7FgUzTOMSgRQIHO-5CZ6TlWclkacySi-8H23FeTEd_X8u3ramm7cfdvcLadyCqQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCB3aWxsIEFwcGxlIFZSIGdsYXNzZXMgY29zdD8iLCJsayI6IkdpTm9iM2NnYlhWamFDQjNhV3hzSUdGd2NHeGxJSFp5SUdkc1lYTnpaWE1nWTI5emRBIiwiYnMiOiJjMjNQdlEtQ01CQ0g0YmgyY21iNnFlQnNPcmdhSjNVd0dnZDNBZzFjVW5vTlYtVGZGX3dZSU4wdXVTZHY3dFJKclM2Q29fZlc0RWxDN0hCdkdSb0ZOLVFxY0JjT2VwMkFCUGtIdmI3SXo1QzZxV3dlcWt3STQ3b2tLZGdOWTJmS2c5NG02VHdXZzdIZ2VGblBiYWhCQWVTZ2Qzb2ZEZm9JVkZlVm5ybEgweFUxZXJMMjMzNmdzcm1Ja2VFZEdiN05razA5Y2I5ME8zSEx4UnMiLCJpZCI6ImZjX1VXLXphc25ZSnFPOGtQSVAwLXl0Z1E0XzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FrbEJkVVZrY1hkWU1ITnpaekJ5UnpoSWJWbE9lVGM0YlZWSGNXeDBOVkpCUzNGbU1WSmhha1V4VkVwdFF6QmtORXBoU2xwemVtNXdaV3g2T0ZwS1gyMHRWM2d3Tm5KcVMydDBORmwwZFRKMWNWOWFTbTFNVjB0MVFSSVhWVmN0ZW1GemJsbEtjVTg0YTFCSlVEQXRlWFJuVVRRYUlrRkVjM0k1WmxNNVJWUnNVSHB4ZW5CaU9WaGZRM1ExU2paTlQyWTBURGMxVTBFIiwiZmN2IjoiMyIsImVpIjoiVVctemFzbllKcU84a1BJUDAteXRnUTQiLCJxYyI6IkNoRmhjSEJzWlNCMmFYTnBiMjRnTWpBeU5SQUFmZWFTSkQ4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCB3aWxsIEFwcGxlIFZSIGdsYXNzZXMgY29zdD8iLCJsayI6IkdpTm9iM2NnYlhWamFDQjNhV3hzSUdGd2NHeGxJSFp5SUdkc1lYTnpaWE1nWTI5emRBIiwiYnMiOiJjMjNQdlEtQ01CQ0g0YmgyY21iNnFlQnNPcmdhSjNVd0dnZDNBZzFjVW5vTlYtVGZGX3dZSU4wdXVTZHY3dFJKclM2Q29fZlc0RWxDN0hCdkdSb0ZOLVFxY0JjT2VwMkFCUGtIdmI3SXo1QzZxV3dlcWt3STQ3b2tLZGdOWTJmS2c5NG02VHdXZzdIZ2VGblBiYWhCQWVTZ2Qzb2ZEZm9JVkZlVm5ybEgweFUxZXJMMjMzNmdzcm1Ja2VFZEdiN05razA5Y2I5ME8zSEx4UnMiLCJpZCI6ImZjX1VXLXphc25ZSnFPOGtQSVAwLXl0Z1E0XzIifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ZCozxXiczVbbkqJIEP2A_Y7lZVq5CF46gpioqsYWaS-gzkT7QiCXEhVLKboZe5_2X_ar9mu2wEujK3bPPGxsRSBUkXUyszIPxz__WoXr5d-__TFPkg295_k0TauYELzyqy6JeIfu1i4fkBWN3flXSl5i1w891Z3HJPK53ata41yqCpwfqpPvlTeHrp-720FzOdSHQmWXYFPmcgjVnjnUXzAPPxaUt3n2s_y99sAmVVr111WrVrE6adMMB8uqJEi16oB3ImYA_rthIqABgKHOnmGpEbP4DBhkCAxoWVjSDzsL2M8AZXi6mc9QCTLO0TIAHWYb2M2exjIExhELmaWBoKI_NsksNZQnkmcafiabQg7Z0E6Y6Kb1tXz2CMy9dlzpFd5qoGSgi06YMPQm6Olgfli4qJhGirNu9vOwdx8AOdVkq30zcnY6kxQqBviw3G1grfEhKR0lbCfkPcw6V-BnMbuJfOjO3fwhpllDo3FLIG0rkA2YOkFlXd9MPeNpUpn0MfB3I8Pk3RmzWxHH8z17bgtf87koiYrQqjWadzmTXHqiEi1SCRiPtZbgbBtSr_pUheKRR-h08hcly3oB6VcSg-hgeq3GGL6vv5_8UitWwdifSXaWkg5O_vMtZj0v9XtVhzqAWC-2wgk323eNR4dITlnhfXNnYZFTdMXMMKMRvNa5vat8v1wzO6cIdPgvw2JMOtQxS_tIyrOsMsca0OfZywk75Cd8YKBbxGjD7HjMs1Bxnjl6vEzsyMmCm5Ah5cRYjEDW_dtuVmOYAaL9jiPtJ2C_XEim5NtHQQq6t_leNvQPvhMHz0fCXPT_GW-UgUjHynigNMLWcrsI2qIxkupU9B7wdZ6QaPYTmuP-r5h0VCQjf1fOJPwZJrHO128qUv58UKTunkkIlzIJ7hXuQpEGVxXpvKMQsN6ZZMCbivTzTEI3mYQPmV5hElOka0xaljEpP_FzJs2b5pkineX9rkgnJv2KIqFfU6ScWP7-di5PLwtcKlMaCrbjRhLJy6kvSxOaEOQRM0CyCD6WqSBK7iPHW93ZoXcPpW6y8-5stkDufY_bqmCzWflfvoU0JOsvjH4KF61iogpOo2JVhs1dYC8iPKrslkHtsf7iiu5QeJWNKEzjb0b6FgrbWR9XJg2QjjW54w7awlqRSPstCgJ7Ne90DJtqVm8UzUmAW2JbjJMpIY_96EfUF6a-sn61XhTwPHirm6IdbR5MK2wNlUbf7qDpU9Jvj_NoqGpXFOr08XQiCRyLnfqqyEWxq7IyyBj0TfAds35Dz4yrrFERYVfKrjowNchR17F9yv4ju44YzNymrIiBF3h1LsLJbqPKIkfXsSr-A-NvOGU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZCozxXiczVbbkqJIEP2A_Y7lZVq5CF46gpioqsYWaS-gzkT7QiCXEhVLKboZe5_2X_ar9mu2wEujK3bPPGxsRSBUkXUyszIPxz__WoXr5d-__TFPkg295_k0TauYELzyqy6JeIfu1i4fkBWN3flXSl5i1w891Z3HJPK53ata41yqCpwfqpPvlTeHrp-720FzOdSHQmWXYFPmcgjVnjnUXzAPPxaUt3n2s_y99sAmVVr111WrVrE6adMMB8uqJEi16oB3ImYA_rthIqABgKHOnmGpEbP4DBhkCAxoWVjSDzsL2M8AZXi6mc9QCTLO0TIAHWYb2M2exjIExhELmaWBoKI_NsksNZQnkmcafiabQg7Z0E6Y6Kb1tXz2CMy9dlzpFd5qoGSgi06YMPQm6Olgfli4qJhGirNu9vOwdx8AOdVkq30zcnY6kxQqBviw3G1grfEhKR0lbCfkPcw6V-BnMbuJfOjO3fwhpllDo3FLIG0rkA2YOkFlXd9MPeNpUpn0MfB3I8Pk3RmzWxHH8z17bgtf87koiYrQqjWadzmTXHqiEi1SCRiPtZbgbBtSr_pUheKRR-h08hcly3oB6VcSg-hgeq3GGL6vv5_8UitWwdifSXaWkg5O_vMtZj0v9XtVhzqAWC-2wgk323eNR4dITlnhfXNnYZFTdMXMMKMRvNa5vat8v1wzO6cIdPgvw2JMOtQxS_tIyrOsMsca0OfZywk75Cd8YKBbxGjD7HjMs1Bxnjl6vEzsyMmCm5Ah5cRYjEDW_dtuVmOYAaL9jiPtJ2C_XEim5NtHQQq6t_leNvQPvhMHz0fCXPT_GW-UgUjHynigNMLWcrsI2qIxkupU9B7wdZ6QaPYTmuP-r5h0VCQjf1fOJPwZJrHO128qUv58UKTunkkIlzIJ7hXuQpEGVxXpvKMQsN6ZZMCbivTzTEI3mYQPmV5hElOka0xaljEpP_FzJs2b5pkineX9rkgnJv2KIqFfU6ScWP7-di5PLwtcKlMaCrbjRhLJy6kvSxOaEOQRM0CyCD6WqSBK7iPHW93ZoXcPpW6y8-5stkDufY_bqmCzWflfvoU0JOsvjH4KF61iogpOo2JVhs1dYC8iPKrslkHtsf7iiu5QeJWNKEzjb0b6FgrbWR9XJg2QjjW54w7awlqRSPstCgJ7Ne90DJtqVm8UzUmAW2JbjJMpIY_96EfUF6a-sn61XhTwPHirm6IdbR5MK2wNlUbf7qDpU9Jvj_NoqGpXFOr08XQiCRyLnfqqyEWxq7IyyBj0TfAds35Dz4yrrFERYVfKrjowNchR17F9yv4ju44YzNymrIiBF3h1LsLJbqPKIkfXsSr-A-NvOGU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Apple Vision Pro",
+      "link": "https://www.apple.com/apple-vision-pro/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVNySykKYiEnfJ2c5bs7I5IOtrUasXwfjm5F6SPulFXCECWcVhhbt7uLrOlzRavKB6SfVDgetR55nn3XlDEu4_IbizPj4wEnSNK3JhOZBGKeeY2OCOLNbHWnLn&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › apple-vision-pro",
+      "snippet": "The M5 chip supercharges Apple Vision Pro to deliver the best spatial experiences yet — including faster load times for apps and widgets, more responsive web ...",
+      "snippet_highlighted_words": [
+        "Apple Vision"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Buy",
+            "link": "https://www.apple.com/shop/buy-vision/apple-vision-pro",
+            "snippet": "Can customers buy Apple Vision Pro in the countries where it's ..."
+          },
+          {
+            "title": "Tech Specs",
+            "link": "https://www.apple.com/apple-vision-pro/specs/",
+            "snippet": "Apple 2030 is our commitment to be carbon neutral for our entire ..."
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The M5 chip supercharges Apple Vision Pro to deliver the best spatial experiences yet — including faster load times for apps and widgets, more responsive web ...",
+          "source_info_link": "https://www.apple.com/apple-vision-pro/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVk55U3lrS1lpRW5mSjJjNWJzN0k1SU90clVhc1h3ZmptNUY2U1B1bEZYQ0VDV2NWaGhidDd1THJPbHpSYXZLQjZTZlZEZ2V0UjU1bm4zWGxERXU0X0liaXpQajR3RW5TTkszSmhPWkJHS2VlWTJPQ09MTmJIV25MbhIICgASABoCCAAahwQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJA1AMIABAAGAAgACoiCgVhcHBsZRWFwg5BGgdhcHBsZSdzGgthcHBsZXZpc2lvbiomCgZ2aXNpb24V6meLQBoLYXBwbGV2aXNpb24aCnZpc2lvbjIwMjUqIgoEMjAyNRU0raM-Ggp2aXNpb24yMDI1GglpdjtuOzIwMjUyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWTnlTeWtLWWlFbmZKMmM1YnM3STVJT3RyVWFzWHdmam01RjZTUHVsRlhDRUNXY1ZoaGJ0N3VMck9selJhdktCNlNmVkRnZXRSNTVubjNYbERFdTRfSWJpelBqNHdFblNOSzNKaE9aQkdLZWVZMk9DT0xOYkhXbkxuOhc8Yj5BcHBsZSBWaXNpb248L2I-IFByb0KvAVRoZSBNNSBjaGlwIHN1cGVyY2hhcmdlcyA8Yj5BcHBsZSBWaXNpb248L2I-IFBybyB0byBkZWxpdmVyIHRoZSBiZXN0IHNwYXRpYWwgZXhwZXJpZW5jZXMgeWV0IOKAlCBpbmNsdWRpbmcgZmFzdGVyIGxvYWQgdGltZXMgZm9yIGFwcHMgYW5kIHdpZGdldHMsIG1vcmUgcmVzcG9uc2l2ZSB3ZWImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVk55U3lrS1lpRW5mSjJjNWJzN0k1SU90clVhc1h3ZmptNUY2U1B1bEZYQ0VDV2NWaGhidDd1THJPbHpSYXZLQjZTZlZEZ2V0UjU1bm4zWGxERXU0X0liaXpQajR3RW5TTkszSmhPWkJHS2VlWTJPQ09MTmJIV25MbhIICgASABoCCAAahwQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJA1AMIABAAGAAgACoiCgVhcHBsZRWFwg5BGgdhcHBsZSdzGgthcHBsZXZpc2lvbiomCgZ2aXNpb24V6meLQBoLYXBwbGV2aXNpb24aCnZpc2lvbjIwMjUqIgoEMjAyNRU0raM-Ggp2aXNpb24yMDI1GglpdjtuOzIwMjUyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWTnlTeWtLWWlFbmZKMmM1YnM3STVJT3RyVWFzWHdmam01RjZTUHVsRlhDRUNXY1ZoaGJ0N3VMck9selJhdktCNlNmVkRnZXRSNTVubjNYbERFdTRfSWJpelBqNHdFblNOSzNKaE9aQkdLZWVZMk9DT0xOYkhXbkxuOhc8Yj5BcHBsZSBWaXNpb248L2I-IFByb0KvAVRoZSBNNSBjaGlwIHN1cGVyY2hhcmdlcyA8Yj5BcHBsZSBWaXNpb248L2I-IFBybyB0byBkZWxpdmVyIHRoZSBiZXN0IHNwYXRpYWwgZXhwZXJpZW5jZXMgeWV0IOKAlCBpbmNsdWRpbmcgZmFzdGVyIGxvYWQgdGltZXMgZm9yIGFwcHMgYW5kIHdpZGdldHMsIG1vcmUgcmVzcG9uc2l2ZSB3ZWImbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Apple"
+    },
+    {
+      "position": 2,
+      "title": "Apple Vision Pro upgraded with the M5 chip and Dual Knit ...",
+      "link": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFf5JWg50vPcRlV7bKJ8JZRNe2nAGnRY7J-AUvQG-F9HXAViYRmuRVeh7gMKl-4hQ5bqJAcZjOZqAivQLrHSuiCiG0J_7Uwjx5TGzgwUTOHTz5xv-sjyd5zyqDM_mknF1DR7eweEs1KEJ2Q9w7cuUkvDcVhTH5UPNzu-Vqwk7a0j9f2oPwTWNKK8esePkArm4CLyrjKXiWtC1&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › newsroom › 2025/10 › apple-v...",
+      "date": "Oct 15, 2025",
+      "snippet": "Apple Vision Pro with the M5 chip and Dual Knit Band starts at $3,499 (U.S.), and is available in 256GB, 512GB, and 1TB storage capacities.",
+      "snippet_highlighted_words": [
+        "Apple Vision Pro with the M5 chip and Dual Knit Band"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple Vision Pro with the M5 chip and Dual Knit Band starts at $3,499 (U.S.), and is available in 256GB, 512GB, and 1TB storage capacities.",
+          "source_info_link": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZmNUpXZzUwdlBjUmxWN2JLSjhKWlJOZTJuQUduUlk3Si1BVXZRRy1GOUhYQVZpWVJtdVJWZWg3Z01LbC00aFE1YnFKQWNaak9acUFpdlFMckhTdWlDaUcwSl83VXdqeDVUR3pnd1VUT0hUejV4di1zanlkNXp5cURNX21rbkYxRFI3ZXdlRXMxS0VKMlE5dzdjdVVrdkRjVmhUSDVVUE56dS1WcXdrN2EwajlmMm9Qd1RXTktLOGVzZVBrQXJtNENMeXJqS1hpV3RDMRIEGgIIABrrBBICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaDQgBEglhcHBsZS5jb21yAHoAgkC4BAgAEAAYACAAKiIKBWFwcGxlFcPZCkEaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhUG8X1AGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1Fbg5VT8aCnZpc2lvbjIwMjUaCWl2O247MjAyNTLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGZjVKV2c1MHZQY1JsVjdiS0o4SlpSTmUybkFHblJZN0otQVV2UUctRjlIWEFWaVlSbXVSVmVoN2dNS2wtNGhRNWJxSkFjWmpPWnFBaXZRTHJIU3VpQ2lHMEpfN1V3ang1VEd6Z3dVVE9IVHo1eHYtc2p5ZDV6eXFETV9ta25GMURSN2V3ZUVzMUtFSjJROXc3Y3VVa3ZEY1ZoVEg1VVBOenUtVnF3azdhMGo5ZjJvUHdUV05LSzhlc2VQa0FybTRDTHlyaktYaVd0QzE6RDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvIHVwZ3JhZGVkIHdpdGggdGhlIE01IGNoaXAgYW5kIER1YWwgS25pdCBCYW5kQpIBPGI-QXBwbGUgVmlzaW9uIFBybyB3aXRoIHRoZSBNNSBjaGlwIGFuZCBEdWFsIEtuaXQgQmFuZDwvYj4gc3RhcnRzIGF0ICQzLDQ5OSAoVS5TLiksIGFuZCBpcyBhdmFpbGFibGUgaW4gMjU2R0IsIDUxMkdCLCBhbmQgMVRCIHN0b3JhZ2UgY2FwYWNpdGllcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZmNUpXZzUwdlBjUmxWN2JLSjhKWlJOZTJuQUduUlk3Si1BVXZRRy1GOUhYQVZpWVJtdVJWZWg3Z01LbC00aFE1YnFKQWNaak9acUFpdlFMckhTdWlDaUcwSl83VXdqeDVUR3pnd1VUT0hUejV4di1zanlkNXp5cURNX21rbkYxRFI3ZXdlRXMxS0VKMlE5dzdjdVVrdkRjVmhUSDVVUE56dS1WcXdrN2EwajlmMm9Qd1RXTktLOGVzZVBrQXJtNENMeXJqS1hpV3RDMRIEGgIIABrrBBICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaDQgBEglhcHBsZS5jb21yAHoAgkC4BAgAEAAYACAAKiIKBWFwcGxlFcPZCkEaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhUG8X1AGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1Fbg5VT8aCnZpc2lvbjIwMjUaCWl2O247MjAyNTLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGZjVKV2c1MHZQY1JsVjdiS0o4SlpSTmUybkFHblJZN0otQVV2UUctRjlIWEFWaVlSbXVSVmVoN2dNS2wtNGhRNWJxSkFjWmpPWnFBaXZRTHJIU3VpQ2lHMEpfN1V3ang1VEd6Z3dVVE9IVHo1eHYtc2p5ZDV6eXFETV9ta25GMURSN2V3ZUVzMUtFSjJROXc3Y3VVa3ZEY1ZoVEg1VVBOenUtVnF3azdhMGo5ZjJvUHdUV05LSzhlc2VQa0FybTRDTHlyaktYaVd0QzE6RDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvIHVwZ3JhZGVkIHdpdGggdGhlIE01IGNoaXAgYW5kIER1YWwgS25pdCBCYW5kQpIBPGI-QXBwbGUgVmlzaW9uIFBybyB3aXRoIHRoZSBNNSBjaGlwIGFuZCBEdWFsIEtuaXQgQmFuZDwvYj4gc3RhcnRzIGF0ICQzLDQ5OSAoVS5TLiksIGFuZCBpcyBhdmFpbGFibGUgaW4gMjU2R0IsIDUxMkdCLCBhbmQgMVRCIHN0b3JhZ2UgY2FwYWNpdGllcy4iAhABSABYAGgA",
+      "source": "Apple",
+      "read_more_link": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/#:~:text=Copy%20text"
+    },
+    {
+      "position": 3,
+      "title": "The likelihood of Apple releasing a new Vision Pro or ...",
+      "link": "https://www.reddit.com/r/VisionPro/comments/1lhhlv2/the_likelihood_of_apple_releasing_a_new_vision/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFURTfcaHCtvZAx3Y9fH488Ijrmc4KXXH2HYBAnjij9-QqOv0K_pTyx-P5sbRtzZnORwUwbk92amQpFq4onbEnJvA5SbG--biT74lI_mF_kaqEyl1xqJ4OkuFIj8plZv5BkVTRcEahgzi4g6qsx__kGw4LkIRqyNvNcYMvebADAWVvv5LQXo4vAmSpS0zH8oCAK49ECwMAQ&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQFnoECCUQAQ&uoh=1",
+      "displayed_link": "30+ comments · 1 year ago",
+      "snippet": "I’m considering buying a secondhand Vision Pro for XR development, but it seems like there might be a new version coming out sometime in late 2025 ...",
+      "about_this_result": {
+        "source": {
+          "description": "There's almost no chance of a new Apple Vision Pro in 2025.",
+          "source_info_link": "https://www.reddit.com/r/VisionPro/comments/1lhhlv2/the_likelihood_of_apple_releasing_a_new_vision/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVUlRmY2FIQ3R2WkF4M1k5Zkg0ODhJanJtYzRLWFhIMkhZQkFuamlqOS1RcU92MEtfcFR5eC1QNXNiUnR6Wm5PUndVd2JrOTJhbVFwRnE0b25iRW5KdkE1U2JHLS1iaVQ3NGxJX21GX2thcUV5bDF4cUo0T2t1RklqOHBsWnY1QmtWVFJjRWFoZ3ppNGc2cXN4X19rR3c0TGtJUnF5TnZOY1lNdmViQURBV1Z2djVMUVhvNHZBbVNwUzB6SDhvQ0FLNDlFQ3dNQVESBBoCCAAaoAQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_AMIABAAGAAgACoiCgVhcHBsZRWLYoNAGgdhcHBsZSdzGgthcHBsZXZpc2lvbiomCgZ2aXNpb24VlH2VQBoLYXBwbGV2aXNpb24aCnZpc2lvbjIwMjUqIgoEMjAyNRWvqA9AGgp2aXNpb24yMDI1GglpdjtuOzIwMjUy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlVSVGZjYUhDdHZaQXgzWTlmSDQ4OElqcm1jNEtYWEgySFlCQW5qaWo5LVFxT3YwS19wVHl4LVA1c2JSdHpabk9Sd1V3Yms5MmFtUXBGcTRvbmJFbkp2QTVTYkctLWJpVDc0bElfbUZfa2FxRXlsMXhxSjRPa3VGSWo4cGxadjVCa1ZUUmNFYWhnemk0ZzZxc3hfX2tHdzRMa0lScXlOdk5jWU12ZWJBREFXVnZ2NUxRWG80dkFtU3BTMHpIOG9DQUs0OUVDd01BUTpQVGhlIGxpa2VsaWhvb2Qgb2YgPGI-QXBwbGU8L2I-IHJlbGVhc2luZyBhIG5ldyA8Yj5WaXNpb248L2I-IFBybyBvciAuLi4gLSBSZWRkaXRCTVRoZXJlJiMzOTtzIGFsbW9zdCBubyBjaGFuY2Ugb2YgYSBuZXcgPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gaW4gPGI-MjAyNTwvYj4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVUlRmY2FIQ3R2WkF4M1k5Zkg0ODhJanJtYzRLWFhIMkhZQkFuamlqOS1RcU92MEtfcFR5eC1QNXNiUnR6Wm5PUndVd2JrOTJhbVFwRnE0b25iRW5KdkE1U2JHLS1iaVQ3NGxJX21GX2thcUV5bDF4cUo0T2t1RklqOHBsWnY1QmtWVFJjRWFoZ3ppNGc2cXN4X19rR3c0TGtJUnF5TnZOY1lNdmViQURBV1Z2djVMUVhvNHZBbVNwUzB6SDhvQ0FLNDlFQ3dNQVESBBoCCAAaoAQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_AMIABAAGAAgACoiCgVhcHBsZRWLYoNAGgdhcHBsZSdzGgthcHBsZXZpc2lvbiomCgZ2aXNpb24VlH2VQBoLYXBwbGV2aXNpb24aCnZpc2lvbjIwMjUqIgoEMjAyNRWvqA9AGgp2aXNpb24yMDI1GglpdjtuOzIwMjUy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlVSVGZjYUhDdHZaQXgzWTlmSDQ4OElqcm1jNEtYWEgySFlCQW5qaWo5LVFxT3YwS19wVHl4LVA1c2JSdHpabk9Sd1V3Yms5MmFtUXBGcTRvbmJFbkp2QTVTYkctLWJpVDc0bElfbUZfa2FxRXlsMXhxSjRPa3VGSWo4cGxadjVCa1ZUUmNFYWhnemk0ZzZxc3hfX2tHdzRMa0lScXlOdk5jWU12ZWJBREFXVnZ2NUxRWG80dkFtU3BTMHpIOG9DQUs0OUVDd01BUTpQVGhlIGxpa2VsaWhvb2Qgb2YgPGI-QXBwbGU8L2I-IHJlbGVhc2luZyBhIG5ldyA8Yj5WaXNpb248L2I-IFBybyBvciAuLi4gLSBSZWRkaXRCTVRoZXJlJiMzOTtzIGFsbW9zdCBubyBjaGFuY2Ugb2YgYSBuZXcgPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gaW4gPGI-MjAyNTwvYj4uIgIQAUgAWABoAA",
+      "source": "Reddit · r/VisionPro"
+    },
+    {
+      "position": 4,
+      "title": "This is the New Apple Vision Pro. The Apple Vision Pro.",
+      "link": "https://www.youtube.com/watch?v=8d4z4Ve87UY&vl=en",
+      "displayed_link": "80.6K+ views · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36f51759dbcee552b64ae/images/uPFZ5AdXtWcxg2NkQhXZt_eeUttcnz4_i2rValfpPuM.jpeg",
+      "snippet": "Apple just unveiled the new generation of their spatial computer, VR headset, the Apple Vision Pro, yeah, it has the same name.",
+      "duration": "7:09",
+      "about_this_result": {
+        "source": {
+          "description": "Apple just unveiled the new generation of their spatial computer, VR headset, the Apple Vision Pro, yeah, it has the same name.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjJYdmwzVjZXRG00b0FpNzhxSGVEM2MxTmlzUEpPUzdnRGtkcjkxLUVkNWJLRzFYNVJQUEpITmdFMl92ekJ0Ny0yaS1EbXUzUm1nTFhFSmowSmNNVzJmU0J4bVo0bnVoQVNFSFJmMTZWNklrRUxLV3lUeFpTOElJM3ZxZUVqamhnMUFaMTl3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjJYdmwzVjZXRG00b0FpNzhxSGVEM2MxTmlzUEpPUzdnRGtkcjkxLUVkNWJLRzFYNVJQUEpITmdFMl92ekJ0Ny0yaS1EbXUzUm1nTFhFSmowSmNNVzJmU0J4bVo0bnVoQVNFSFJmMTZWNklrRUxLV3lUeFpTOElJM3ZxZUVqamhnMUFaMTl3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTi7vLKhUGFhdoAERv_1XT9ZdoWr8Faya7gIA",
+      "source": "YouTube · Tyriel Wood - VR Tech"
+    },
+    {
+      "position": 5,
+      "title": "Apple Vision Pro",
+      "link": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVVZ2jiYgl8_IIerlC2jAmQmvJ89dNJhD3zb7nrxzkRomIMhzOX0MqluWjCI4vz15H3wDss3SRKIvVFLj8RIssWscys8D3BcIMrYNyZleoxinpm77ibEZEoVr0piygyQgeRA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Apple_Vision_Pro",
+      "snippet": "On October 15, 2025, Apple announced an updated Apple Vision Pro featuring the M5 chip, which delivers improved performance, enhanced display rendering, ...",
+      "snippet_highlighted_words": [
+        "updated Apple Vision Pro featuring the M5 chip"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On October 15, 2025, Apple announced an updated Apple Vision Pro featuring the M5 chip, which delivers improved performance, enhanced display rendering, ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Apple_Vision_Pro",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlZaMmppWWdsOF9JSWVybEMyakFtUW12Sjg5ZE5KaEQzemI3bnJ4emtSb21JTWh6T1gwTXFsdVdqQ0k0dnoxNUgzd0RzczNTUktJdlZGTGo4Uklzc1dzY3lzOEQzQmNJTXJZTnlabGVveGlucG03N2liRVpFb1ZyMHBpeWd5UWdlUkESBBoCCAAaiQQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDjAwgAEAAYACAAKiIKBWFwcGxlFXdSmkAaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhVrt45AGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1FeB_Dz8aCnZpc2lvbjIwMjUaCWl2O247MjAyNTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZWWjJqaVlnbDhfSUllcmxDMmpBbVFtdko4OWROSmhEM3piN25yeHprUm9tSU1oek9YME1xbHVXakNJNHZ6MTVIM3dEc3MzU1JLSXZWRkxqOFJJc3NXc2N5czhEM0JjSU1yWU55Wmxlb3hpbnBtNzdpYkVaRW9WcjBwaXlneVFnZVJBOiM8Yj5BcHBsZSBWaXNpb248L2I-IFBybyAtIFdpa2lwZWRpYUKoAU9uIE9jdG9iZXIgMTUsIDIwMjUsIEFwcGxlIGFubm91bmNlZCBhbiA8Yj51cGRhdGVkIEFwcGxlIFZpc2lvbiBQcm8gZmVhdHVyaW5nIHRoZSBNNSBjaGlwPC9iPiwgd2hpY2ggZGVsaXZlcnMgaW1wcm92ZWQgcGVyZm9ybWFuY2UsIGVuaGFuY2VkIGRpc3BsYXkgcmVuZGVyaW5nLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlZaMmppWWdsOF9JSWVybEMyakFtUW12Sjg5ZE5KaEQzemI3bnJ4emtSb21JTWh6T1gwTXFsdVdqQ0k0dnoxNUgzd0RzczNTUktJdlZGTGo4Uklzc1dzY3lzOEQzQmNJTXJZTnlabGVveGlucG03N2liRVpFb1ZyMHBpeWd5UWdlUkESBBoCCAAaiQQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDjAwgAEAAYACAAKiIKBWFwcGxlFXdSmkAaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhVrt45AGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1FeB_Dz8aCnZpc2lvbjIwMjUaCWl2O247MjAyNTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZWWjJqaVlnbDhfSUllcmxDMmpBbVFtdko4OWROSmhEM3piN25yeHprUm9tSU1oek9YME1xbHVXakNJNHZ6MTVIM3dEc3MzU1JLSXZWRkxqOFJJc3NXc2N5czhEM0JjSU1yWU55Wmxlb3hpbnBtNzdpYkVaRW9WcjBwaXlneVFnZVJBOiM8Yj5BcHBsZSBWaXNpb248L2I-IFBybyAtIFdpa2lwZWRpYUKoAU9uIE9jdG9iZXIgMTUsIDIwMjUsIEFwcGxlIGFubm91bmNlZCBhbiA8Yj51cGRhdGVkIEFwcGxlIFZpc2lvbiBQcm8gZmVhdHVyaW5nIHRoZSBNNSBjaGlwPC9iPiwgd2hpY2ggZGVsaXZlcnMgaW1wcm92ZWQgcGVyZm9ybWFuY2UsIGVuaGFuY2VkIGRpc3BsYXkgcmVuZGVyaW5nLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 6,
+      "title": "One year with the Vision Pro",
+      "link": "https://sixcolors.com/post/2025/02/one-year-with-the-vision-pro/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVvOfTeWjlQ3HcJixtCo9jdlleveZ8lwzsB9NgwV-wdX7Z1qElzo2aONUkyEM4q0AJHKxnwmmzvRwqySGlqHtxDfJv3Iqxn-zwkMcLx_dN9unYdE9V1gP2azcPcPrAWcuXv_FcaaSu402mgSkhi67zPvRb0g&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://sixcolors.com › post › 2025/02 › one-year-with-...",
+      "snippet": "VisionOS offered a bunch of improvements, including new environments, useful new gestures, and keyboard breakthrough. Apple also added spatial personas,",
+      "snippet_highlighted_words": [
+        "Apple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "VisionOS offered a bunch of improvements, including new environments, useful new gestures, and keyboard breakthrough. Apple also added spatial personas,",
+          "source_info_link": "https://sixcolors.com/post/2025/02/one-year-with-the-vision-pro/",
+          "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAACQBgCdASocABwAPrkurlcnIacnG_DgFwlsALbnwnwOABtoJpsRoG0oYT0UhX9eCD-2_EeV2zjXVr0dmBMAAP735-y4SuPJasXjjN49Qg4LDJqc7PX3_rQCoUYEAzCKOuOJPhL7HjwadK_X8Hdmm_xND7_h3d8uwZP1Kb9uUkXhBHFsN1l2b-l-och4A--pEkNiHPCfvuaU_LQvvbn64b_BTzM-YwE0bfkApyxU86uTYCGtC4Ybms0joiLrtUfI06uL4SPACtpNq7TX3brQvRtg-g_myE_uKiAI73RzZAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnZPZlRlV2psUTNIY0ppeHRDbzlqZGxsZXZlWjhsd3pzQjlOZ3dWLXdkWDdaMXFFbHpvMmFPTlVreUVNNHEwQUpIS3hud21tenZSd3F5U0dscUh0eERmSnYzSXF4bi16d2tNY0x4X2ROOXVuWWRFOVYxZ1AyYXpjUGNQckFXY3VYdl9GY2FhU3U0MDJtZ1NraGk2N3pQdlJiMGcSBBoCCAAapQQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_AwgAEAAYACAAKiIKBWFwcGxlFSzy4j8aB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhW5uXlAGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1FQIkJz8aCnZpc2lvbjIwMjUaCWl2O247MjAyNTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZ2T2ZUZVdqbFEzSGNKaXh0Q285amRsbGV2ZVo4bHd6c0I5Tmd3Vi13ZFg3WjFxRWx6bzJhT05Va3lFTTRxMEFKSEt4bndtbXp2UndxeVNHbHFIdHhEZkp2M0lxeG4tendrTWNMeF9kTjl1bllkRTlWMWdQMmF6Y1BjUHJBV2N1WHZfRmNhYVN1NDAybWdTa2hpNjd6UHZSYjBnOjBPbmUgeWVhciB3aXRoIHRoZSA8Yj5WaXNpb248L2I-IFBybyAtIFNpeCBDb2xvcnNCnwFWaXNpb25PUyBvZmZlcmVkIGEgYnVuY2ggb2YgaW1wcm92ZW1lbnRzLCBpbmNsdWRpbmcgbmV3IGVudmlyb25tZW50cywgdXNlZnVsIG5ldyBnZXN0dXJlcywgYW5kIGtleWJvYXJkIGJyZWFrdGhyb3VnaC4gPGI-QXBwbGU8L2I-IGFsc28gYWRkZWQgc3BhdGlhbCBwZXJzb25hcywiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnZPZlRlV2psUTNIY0ppeHRDbzlqZGxsZXZlWjhsd3pzQjlOZ3dWLXdkWDdaMXFFbHpvMmFPTlVreUVNNHEwQUpIS3hud21tenZSd3F5U0dscUh0eERmSnYzSXF4bi16d2tNY0x4X2ROOXVuWWRFOVYxZ1AyYXpjUGNQckFXY3VYdl9GY2FhU3U0MDJtZ1NraGk2N3pQdlJiMGcSBBoCCAAapQQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_AwgAEAAYACAAKiIKBWFwcGxlFSzy4j8aB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhW5uXlAGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1FQIkJz8aCnZpc2lvbjIwMjUaCWl2O247MjAyNTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZ2T2ZUZVdqbFEzSGNKaXh0Q285amRsbGV2ZVo4bHd6c0I5Tmd3Vi13ZFg3WjFxRWx6bzJhT05Va3lFTTRxMEFKSEt4bndtbXp2UndxeVNHbHFIdHhEZkp2M0lxeG4tendrTWNMeF9kTjl1bllkRTlWMWdQMmF6Y1BjUHJBV2N1WHZfRmNhYVN1NDAybWdTa2hpNjd6UHZSYjBnOjBPbmUgeWVhciB3aXRoIHRoZSA8Yj5WaXNpb248L2I-IFBybyAtIFNpeCBDb2xvcnNCnwFWaXNpb25PUyBvZmZlcmVkIGEgYnVuY2ggb2YgaW1wcm92ZW1lbnRzLCBpbmNsdWRpbmcgbmV3IGVudmlyb25tZW50cywgdXNlZnVsIG5ldyBnZXN0dXJlcywgYW5kIGtleWJvYXJkIGJyZWFrdGhyb3VnaC4gPGI-QXBwbGU8L2I-IGFsc28gYWRkZWQgc3BhdGlhbCBwZXJzb25hcywiAhABSABYAGgA",
+      "source": "Six Colors"
+    },
+    {
+      "position": 7,
+      "title": "Buy Apple Vision Pro",
+      "link": "https://www.apple.com/shop/buy-vision",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVsHWsApYZRARyVZLHNrg3OTQoYxL8LMhANqIYJ03odjmCXu3gZAsApmn92-dHPotz9CtR9BFXwQ0cLcO0Y4e_QJ8F0Mc7z3TrS8LUpqkaeOKsKFCxIwwL_g&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › shop › buy-vision",
+      "snippet": "Shop Apple Vision Pro and. New powerful M5 chip and comfortable Dual Knit Band. Buy from $3699 or $308.25/mo. per month for 12 mo. FREE ENGRAVING ZEISS Optical ...",
+      "snippet_highlighted_words": [
+        "Apple Vision Pro"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Shop Apple Vision Pro and. New powerful M5 chip and comfortable Dual Knit Band. Buy from $3699 or $308.25/mo. per month for 12 mo. FREE ENGRAVING ZEISS Optical ...",
+          "source_info_link": "https://www.apple.com/shop/buy-vision",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnNIV3NBcFlaUkFSeVZaTEhOcmczT1RRb1l4TDhMTWhBTnFJWUowM29kam1DWHUzZ1pBc0FwbW45Mi1kSFBvdHo5Q3RSOUJGWHdRMGNMY08wWTRlX1FKOEYwTWM3ejNUclM4TFVwcWthZU9Lc0tGQ3hJd3dMX2cSBBoCCAAaiQQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJA1gMIABAAGAAgACoiCgVhcHBsZRXxpRBBGgdhcHBsZSdzGgthcHBsZXZpc2lvbiomCgZ2aXNpb24VBW5tQBoLYXBwbGV2aXNpb24aCnZpc2lvbjIwMjUqIgoEMjAyNRUAAAAAGgp2aXNpb24yMDI1GglpdjtuOzIwMjUyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWc0hXc0FwWVpSQVJ5VlpMSE5yZzNPVFFvWXhMOExNaEFOcUlZSjAzb2RqbUNYdTNnWkFzQXBtbjkyLWRIUG90ejlDdFI5QkZYd1EwY0xjTzBZNGVfUUo4RjBNYzd6M1RyUzhMVXBxa2FlT0tzS0ZDeEl3d0xfZzobQnV5IDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvQq8BU2hvcCA8Yj5BcHBsZSBWaXNpb24gUHJvPC9iPiBhbmQuIE5ldyBwb3dlcmZ1bCBNNSBjaGlwIGFuZCBjb21mb3J0YWJsZSBEdWFsIEtuaXQgQmFuZC4gQnV5IGZyb20gJDM2OTkgb3IgJDMwOC4yNS9tby4gcGVyIG1vbnRoIGZvciAxMiBtby4gRlJFRSBFTkdSQVZJTkcgWkVJU1MgT3B0aWNhbCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnNIV3NBcFlaUkFSeVZaTEhOcmczT1RRb1l4TDhMTWhBTnFJWUowM29kam1DWHUzZ1pBc0FwbW45Mi1kSFBvdHo5Q3RSOUJGWHdRMGNMY08wWTRlX1FKOEYwTWM3ejNUclM4TFVwcWthZU9Lc0tGQ3hJd3dMX2cSBBoCCAAaiQQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJA1gMIABAAGAAgACoiCgVhcHBsZRXxpRBBGgdhcHBsZSdzGgthcHBsZXZpc2lvbiomCgZ2aXNpb24VBW5tQBoLYXBwbGV2aXNpb24aCnZpc2lvbjIwMjUqIgoEMjAyNRUAAAAAGgp2aXNpb24yMDI1GglpdjtuOzIwMjUyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWc0hXc0FwWVpSQVJ5VlpMSE5yZzNPVFFvWXhMOExNaEFOcUlZSjAzb2RqbUNYdTNnWkFzQXBtbjkyLWRIUG90ejlDdFI5QkZYd1EwY0xjTzBZNGVfUUo4RjBNYzd6M1RyUzhMVXBxa2FlT0tzS0ZDeEl3d0xfZzobQnV5IDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvQq8BU2hvcCA8Yj5BcHBsZSBWaXNpb24gUHJvPC9iPiBhbmQuIE5ldyBwb3dlcmZ1bCBNNSBjaGlwIGFuZCBjb21mb3J0YWJsZSBEdWFsIEtuaXQgQmFuZC4gQnV5IGZyb20gJDM2OTkgb3IgJDMwOC4yNS9tby4gcGVyIG1vbnRoIGZvciAxMiBtby4gRlJFRSBFTkdSQVZJTkcgWkVJU1MgT3B0aWNhbCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Apple"
+    },
+    {
+      "position": 8,
+      "title": "Apple Vision Pro Review 2025",
+      "link": "https://adventure.com/apple-vision-pro-review-2025/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVU9FLyekCfgjLzB9Dzpr0bQEufCA685-KxoqQp-WM9Oc4AnQRlMnNY8bu3HVU5ws1CPXqDejAHGJGuw-Dcg8q0im9X7rmPdd-6QiTsMaaXsEXjQajHBGsjmgseXwZcMTg0DiwDxou&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://adventure.com › apple-vision-pro-review-2025",
+      "date": "Feb 7, 2025",
+      "snippet": "We tried out the immersive travel content on the Apple Vision Pro VR headset. To our surprise, we found a lot to love about this VR device.",
+      "snippet_highlighted_words": [
+        "Apple Vision Pro VR headset"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We tried out the immersive travel content on the Apple Vision Pro VR headset. To our surprise, we found a lot to love about this VR device.",
+          "source_info_link": "https://adventure.com/apple-vision-pro-review-2025/",
+          "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtEutFooIagoGAEAGglpAAzmCrg55KcalFBUZSJjAzVkAx4KQhTbmH7_QAD--bv_EiafyK__qq4BiP9ya4PD1KTe0bnvAT3yX9wURTiinywxM31FEGlAxN1dec5cWKP-uUHqH_JPT-m1-n1FXRFiz2nDLuzP-XlmSyw5P_l_-Y3T9QF_f-nSlI7YqzCDxir550SYzsO3vo0PvnVR7MVD27u7JR-G4T0Xex-i4m7DPjYWnYhF_nCejID2WE4S3zMoOSxxokRwOxfuffvtYOeElzymeJmQ0Ev3N0KxhE6zJ_gPY-7NDDzJ4MgDKfEiw3GTbwdGAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVlU5Rkx5ZWtDZmdqTHpCOUR6cHIwYlFFdWZDQTY4NS1LeG9xUXAtV005T2M0QW5RUmxNbk5ZOGJ1M0hWVTV3czFDUFhxRGVqQUhHSkd1dy1EY2c4cTBpbTlYN3JtUGRkLTZRaVRzTWFhWHNFWGpRYWpIQkdzam1nc2VYd1pjTVRnMERpd0R4b3USBBoCCAAakAQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqAwgAEAAYACAAKiIKBWFwcGxlFZiYrUAaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhXRK69AGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1FcfgakAaCnZpc2lvbjIwMjUaCWl2O247MjAyNTKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZVOUZMeWVrQ2Znakx6QjlEenByMGJRRXVmQ0E2ODUtS3hvcVFwLVdNOU9jNEFuUVJsTW5OWThidTNIVlU1d3MxQ1BYcURlakFIR0pHdXctRGNnOHEwaW05WDdybVBkZC02UWlUc01hYVhzRVhqUWFqSEJHc2ptZ3NlWHdaY01UZzBEaXdEeG91Ojo8Yj5BcHBsZSBWaXNpb248L2I-IFBybyBSZXZpZXcgPGI-MjAyNTwvYj4gfCBBZHZlbnR1cmUuY29tQpIBV2UgdHJpZWQgb3V0IHRoZSBpbW1lcnNpdmUgdHJhdmVsIGNvbnRlbnQgb24gdGhlIDxiPkFwcGxlIFZpc2lvbiBQcm8gVlIgaGVhZHNldDwvYj4uIFRvIG91ciBzdXJwcmlzZSwgd2UgZm91bmQgYSBsb3QgdG8gbG92ZSBhYm91dCB0aGlzIFZSIGRldmljZS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVlU5Rkx5ZWtDZmdqTHpCOUR6cHIwYlFFdWZDQTY4NS1LeG9xUXAtV005T2M0QW5RUmxNbk5ZOGJ1M0hWVTV3czFDUFhxRGVqQUhHSkd1dy1EY2c4cTBpbTlYN3JtUGRkLTZRaVRzTWFhWHNFWGpRYWpIQkdzam1nc2VYd1pjTVRnMERpd0R4b3USBBoCCAAakAQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqAwgAEAAYACAAKiIKBWFwcGxlFZiYrUAaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiYKBnZpc2lvbhXRK69AGgthcHBsZXZpc2lvbhoKdmlzaW9uMjAyNSoiCgQyMDI1FcfgakAaCnZpc2lvbjIwMjUaCWl2O247MjAyNTKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZVOUZMeWVrQ2Znakx6QjlEenByMGJRRXVmQ0E2ODUtS3hvcVFwLVdNOU9jNEFuUVJsTW5OWThidTNIVlU1d3MxQ1BYcURlakFIR0pHdXctRGNnOHEwaW05WDdybVBkZC02UWlUc01hYVhzRVhqUWFqSEJHc2ptZ3NlWHdaY01UZzBEaXdEeG91Ojo8Yj5BcHBsZSBWaXNpb248L2I-IFBybyBSZXZpZXcgPGI-MjAyNTwvYj4gfCBBZHZlbnR1cmUuY29tQpIBV2UgdHJpZWQgb3V0IHRoZSBpbW1lcnNpdmUgdHJhdmVsIGNvbnRlbnQgb24gdGhlIDxiPkFwcGxlIFZpc2lvbiBQcm8gVlIgaGVhZHNldDwvYj4uIFRvIG91ciBzdXJwcmlzZSwgd2UgZm91bmQgYSBsb3QgdG8gbG92ZSBhYm91dCB0aGlzIFZSIGRldmljZS4iAhABSABYAGgA",
+      "source": "Adventure.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Apple vision 2025 release date",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+vision+2025+release+date&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+vision+2025+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple vision 2025 reddit",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+vision+2025+reddit&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+vision+2025+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple vision 2025 review",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+vision+2025+review&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+vision+2025+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple Vision Pro price",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+Vision+Pro+price&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+Pro+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple vision 2025 price",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+vision+2025+price&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+vision+2025+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple Vision Pro 2",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+Vision+Pro+2&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+Pro+2"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple Vision Pro 3",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+Vision+Pro+3&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+Pro+3"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple Vision Pro M2",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Apple+Vision+Pro+M2&sa=X&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+Pro+M2"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=10&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8NMDegQIMhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=10&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAE",
+      "3": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=20&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAG",
+      "4": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=30&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAI",
+      "5": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=40&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAK",
+      "6": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=50&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAM",
+      "7": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=60&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAO",
+      "8": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=70&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAQ",
+      "9": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=80&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAS",
+      "10": "https://www.google.com/search?q=Apple+Vision+2025&sca_esv=3ca1fbc8451fdfd6&ei=UW-zasnYJqO8kPIP0-ytgQ4&start=90&sa=N&sstk=AS6-VmIc0-var-Gz5x0sV67XVeH8T5c6XGR9EWdhGGf90qzvHetaw8zAG3FgjluXlON3Mwz8nJAvUxgAC835Nqj_VCyhTSDLVHGrMA&ved=2ahUKEwiJxd2qh4SXAxUjHkQIHVN2K-AQ8tMDegQIMhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+2025&start=90"
+    }
+  }
+}

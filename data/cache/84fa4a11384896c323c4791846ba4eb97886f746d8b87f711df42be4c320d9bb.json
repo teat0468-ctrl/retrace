@@ -1,0 +1,32 @@
+{
+  "search_metadata": {
+    "id": "6ab36fbc89ec19f956441023",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/iVNvis9kWZqakkDHfNnkxq6sa49-f9wk1cZXoZH4BUc/6ab36fbc89ec19f956441023.json",
+    "markdown_endpoint": "https://serpapi.com/searches/iVNvis9kWZqakkDHfNnkxq6sa49-f9wk1cZXoZH4BUc/6ab36fbc89ec19f956441023.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/iVNvis9kWZqakkDHfNnkxq6sa49-f9wk1cZXoZH4BUc/6ab36fbc89ec19f956441023.json_with_pixel_position",
+    "created_at": "2026-09-23 06:20:44 UTC",
+    "processed_at": "2026-09-23 06:20:44 UTC",
+    "google_url": "https://www.google.com/search?q=%22Tata+Sons+has+just+officially+announced+the+complete+acquisi%22&oq=%22Tata+Sons+has+just+officially+announced+the+complete+acquisi%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/iVNvis9kWZqakkDHfNnkxq6sa49-f9wk1cZXoZH4BUc/6ab36fbc89ec19f956441023.html",
+    "total_time_taken": 0.57
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Tata Sons has just officially announced the complete acquisi\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Tata Sons has just officially announced the complete acquisi\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "\"Tata Sons has just officially announced the complete acquisition\"",
+    "showing_results_for": "\"Tata Sons has just officially announced the complete acquisition\""
+  },
+  "ai_overview": {
+    "page_token": "AZ09UniczZbbcqJKFIYfYD_HeONEDuIhqbKmGoKRQKKoiRtvKGiwQQ6tNgb1bt5lnmo_zW5QCWbUzMzFrt1VHLrp_nutXutz-f1H6MfBP3_98JJkQe4YJk3TGsIYhW4N4oixyDaGzAyHZAW9b9u3Tr0CSYetuH7n7eFmZyWrt4HanLMDebAw3tKlnlbyJR3Ttog7p4qbOWFMht6CL_V72qmRmhvXhvWbYS9t634_qPEsX6_1GSuiE8B_13QJyAAgUaHv4sVJdMaviIlUgQoFpSHlsLKkbQAp01P0vCddUEa5WiagiNkC-jCnK0EE6lFLTC8aIpX3o51sK1nKHck99X_Fm5IPWZMLTenq7HP-7BXo9vJx5Kn0VQYXmvQhE16oehs8KcA7DHyImIzLvcfsdr_ffgaEVBaG3auW09N5ScWGCj4NdxcMY3RwSpESulJkHEQzl2XsFX1wjA89mL-sSJbQ0viWxT1DU1ujLdSmY_E-5LrIC_kg5nddgegMtOm8EFuO65ieyX7L-xzPNdjbeqv9NScJkgIlUkYJqA_1W9ZatvinmlYTuSNHUnHyH0KW5YKknHFMlA5Tz8ZYfB9_P_lALkdB3Z9Jdpa8Aor98yV6cx_qIqoDBYhIKadCoZutO8fRvh3ec47y5M7MwoV1Zc8QxagwsOzV01neP47pvcICRfxpYtkmRVQQdVsv5MtNyrJc8bKPL_SQNXQgEJY1umJ2PPqJqSj3XHooHJPLLsrlbXyqlIMxH4Es-5ePWYzFTFDarzhi_wL2wyVnSr6VcSQgBY_Xeb_UlE9-Jw47H4H5kP8n3LSeXsee1uo7D8MpHvmh8bydDZSZf7NOz3OCI_s3ag78X5F0rEhq_u0ySVnefEoSTX7lakXK3w8V6XFPkoQukpSXpJ8qUv9sRTolSQLDd5JU8WpF-n2SpKskoYOnZ0iiFekcScElkvKKdEqS19ZPKtIJSe8VqSDpTyqS9GcVKQfL3T9Oy9N6ji6Wqe5kEWmbONF1C7Rstu8bTYFDKvbUFH1apmZRchdZTvjV9J07kX9Mts5Xkw7gO9epLDtfeH5sJVZ1hGNS9SxSna9JUsWzmQ99Kwy3VSuO8TqGrlNNPLdKQV6EbuJWLbhc-8RPfBxTiUoUrnCHtRrP5mvPNuZGrz22-S7Wd7q2UXpv9igYu562aSBNi9KdOh6mu5cBjsx5GsS4P9oawgSF93Nt0G07u9uxuZEn8D4kE91fkpUdhGqK4d_q1OFvhg2j335oB_P1GPB6g5v0uhPZjxKFXd1s1QHX3LrToY9tzu7704WfW0Y6spAK4NVQzI1eiVawQ-MnIPCsgwkSIZAMCjnNcAnTK6VXE-iyWCHQMl1C_1xDi5vZsC00uJkzc5qVCCXbRUcQKiRedbh_Acx5TBs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AZ09UniczZbbcqJKFIYfYD_HeONEDuIhqbKmGoKRQKKoiRtvKGiwQQ6tNgb1bt5lnmo_zW5QCWbUzMzFrt1VHLrp_nutXutz-f1H6MfBP3_98JJkQe4YJk3TGsIYhW4N4oixyDaGzAyHZAW9b9u3Tr0CSYetuH7n7eFmZyWrt4HanLMDebAw3tKlnlbyJR3Ttog7p4qbOWFMht6CL_V72qmRmhvXhvWbYS9t634_qPEsX6_1GSuiE8B_13QJyAAgUaHv4sVJdMaviIlUgQoFpSHlsLKkbQAp01P0vCddUEa5WiagiNkC-jCnK0EE6lFLTC8aIpX3o51sK1nKHck99X_Fm5IPWZMLTenq7HP-7BXo9vJx5Kn0VQYXmvQhE16oehs8KcA7DHyImIzLvcfsdr_ffgaEVBaG3auW09N5ScWGCj4NdxcMY3RwSpESulJkHEQzl2XsFX1wjA89mL-sSJbQ0viWxT1DU1ujLdSmY_E-5LrIC_kg5nddgegMtOm8EFuO65ieyX7L-xzPNdjbeqv9NScJkgIlUkYJqA_1W9ZatvinmlYTuSNHUnHyH0KW5YKknHFMlA5Tz8ZYfB9_P_lALkdB3Z9Jdpa8Aor98yV6cx_qIqoDBYhIKadCoZutO8fRvh3ec47y5M7MwoV1Zc8QxagwsOzV01neP47pvcICRfxpYtkmRVQQdVsv5MtNyrJc8bKPL_SQNXQgEJY1umJ2PPqJqSj3XHooHJPLLsrlbXyqlIMxH4Es-5ePWYzFTFDarzhi_wL2wyVnSr6VcSQgBY_Xeb_UlE9-Jw47H4H5kP8n3LSeXsee1uo7D8MpHvmh8bydDZSZf7NOz3OCI_s3ag78X5F0rEhq_u0ySVnefEoSTX7lakXK3w8V6XFPkoQukpSXpJ8qUv9sRTolSQLDd5JU8WpF-n2SpKskoYOnZ0iiFekcScElkvKKdEqS19ZPKtIJSe8VqSDpTyqS9GcVKQfL3T9Oy9N6ji6Wqe5kEWmbONF1C7Rstu8bTYFDKvbUFH1apmZRchdZTvjV9J07kX9Mts5Xkw7gO9epLDtfeH5sJVZ1hGNS9SxSna9JUsWzmQ99Kwy3VSuO8TqGrlNNPLdKQV6EbuJWLbhc-8RPfBxTiUoUrnCHtRrP5mvPNuZGrz22-S7Wd7q2UXpv9igYu562aSBNi9KdOh6mu5cBjsx5GsS4P9oawgSF93Nt0G07u9uxuZEn8D4kE91fkpUdhGqK4d_q1OFvhg2j335oB_P1GPB6g5v0uhPZjxKFXd1s1QHX3LrToY9tzu7704WfW0Y6spAK4NVQzI1eiVawQ-MnIPCsgwkSIZAMCjnNcAnTK6VXE-iyWCHQMl1C_1xDi5vZsC00uJkzc5qVCCXbRUcQKiRedbh_Acx5TBs"
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "search_metadata": {
+    "id": "6ab36b8e77e3d98ef8976aa4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cM9Xb6zVIGcXJyFNdGH9466XZJHkpALscnf-2eoh0sA/6ab36b8e77e3d98ef8976aa4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/cM9Xb6zVIGcXJyFNdGH9466XZJHkpALscnf-2eoh0sA/6ab36b8e77e3d98ef8976aa4.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/cM9Xb6zVIGcXJyFNdGH9466XZJHkpALscnf-2eoh0sA/6ab36b8e77e3d98ef8976aa4.json_with_pixel_position",
+    "created_at": "2026-09-23 06:02:54 UTC",
+    "processed_at": "2026-09-23 06:02:54 UTC",
+    "google_url": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&oq=growth+government+secretly+manipulated+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/cM9Xb6zVIGcXJyFNdGH9466XZJHkpALscnf-2eoh0sA/6ab36b8e77e3d98ef8976aa4.html",
+    "total_time_taken": 0.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "growth government secretly manipulated 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "growth government secretly manipulated 2025",
+    "total_results": 2450000,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How many episodes are there in The Manipulated kdrama?",
+      "type": "ai_overview",
+      "page_token": "HYF-Q3icHdBRboIwAADQ7DL7nBUdCyZmCa5Vq9RRaGv5WWoRmW0BFSXyt7vsVDvNlh3hva9v-1mZn4db2bbNZTIYdF33dKjrg90_6doN1OVe6YFW1u6UNhP_xR--FnoKr8twdlqGMWsa_kZBwvAz8UqlqhCu05Bqz4Ybhgpe4bvySEEWtIvd2OOwLSTL_cjDMHfBMDN2RoEFiUBQpqVHR3Yce4hq-DzbMYvzYXDRLhtySzbSa2R05EaIS7_m-p4swnfqxj1xqKQgWCUpVXwRrnOIzwrgLHLZPBWtr41tCWjUHpbHPEVX6Za95Bngc8rzihCKuIosnu_n3BDUXPeCUFjmp92W-3JLm8TQlXS4yxGKlUCSiYBuwvozZrTXR-s4wi7bWhNV_LybgXHcGyBE5v5sKGFB-WdlLH4s9G06evz_nH4Urp005_rwC9RPgmU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HYF-Q3icHdBRboIwAADQ7DL7nBUdCyZmCa5Vq9RRaGv5WWoRmW0BFSXyt7vsVDvNlh3hva9v-1mZn4db2bbNZTIYdF33dKjrg90_6doN1OVe6YFW1u6UNhP_xR--FnoKr8twdlqGMWsa_kZBwvAz8UqlqhCu05Bqz4Ybhgpe4bvySEEWtIvd2OOwLSTL_cjDMHfBMDN2RoEFiUBQpqVHR3Yce4hq-DzbMYvzYXDRLhtySzbSa2R05EaIS7_m-p4swnfqxj1xqKQgWCUpVXwRrnOIzwrgLHLZPBWtr41tCWjUHpbHPEVX6Za95Bngc8rzihCKuIosnu_n3BDUXPeCUFjmp92W-3JLm8TQlXS4yxGKlUCSiYBuwvozZrTXR-s4wi7bWhNV_LybgXHcGyBE5v5sKGFB-WdlLH4s9G06evz_nH4Urp005_rwC9RPgmU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IGVwaXNvZGVzIGFyZSB0aGVyZSBpbiBUaGUgTWFuaXB1bGF0ZWQga2RyYW1hPyIsImxrIjoiYzVNeXpjZ3ZWOGhOekt0VVNDM0lMTTVQU1MxV1NDeEtWU2pKU0FXU21Ya2dCa2c2czZBMEo3RWtOVVVoTzZVb01UY1JBQSIsImJzIjoiYzMyUXZVc0RRUkRGc2QzS2VnbnlTTEMwT1RBV0FhOUlFeEd0UW13ZHZUbDJjRF9PM1QzMV9Pczk5eG81UTVwaG1NZDd2NWxSNzJxOUM1OXc1QWR3SnlrMG5FQ1JrUTJQVlR6Mmh2RkFYcnJlVXVZR2IwMGtSM1YxbzZfTmFlZllfTW96cHpxbzlWMHE0djFWbVdBNVl5eEJIeVNXWGl3amVEeHlicTE4MWRWQzZfOTU4Sk9zR3JWNU1wUWhVX2pXaU9mRThPUVliWWluaVhWMXFWZkhGOGJybnlUMXJHNjM1REdFSHFsM2pxSjhsNVBSMlpBUjJ0THZEMGdjWlh6SUVkQ0ZYc3hCeFR2RkRlZG5QdyIsImlkIjoiZmNfam11emF0aUpESmJicHRRUGlhWFFvUThfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IGVwaXNvZGVzIGFyZSB0aGVyZSBpbiBUaGUgTWFuaXB1bGF0ZWQga2RyYW1hPyIsImxrIjoiYzVNeXpjZ3ZWOGhOekt0VVNDM0lMTTVQU1MxV1NDeEtWU2pKU0FXU21Ya2dCa2c2czZBMEo3RWtOVVVoTzZVb01UY1JBQSIsImJzIjoiYzMyUXZVc0RRUkRGc2QzS2VnbnlTTEMwT1RBV0FhOUlFeEd0UW13ZHZUbDJjRF9PM1QzMV9Pczk5eG81UTVwaG1NZDd2NWxSNzJxOUM1OXc1QWR3SnlrMG5FQ1JrUTJQVlR6Mmh2RkFYcnJlVXVZR2IwMGtSM1YxbzZfTmFlZllfTW96cHpxbzlWMHE0djFWbVdBNVl5eEJIeVNXWGl3amVEeHlicTE4MWRWQzZfOTU4Sk9zR3JWNU1wUWhVX2pXaU9mRThPUVliWWluaVhWMXFWZkhGOGJybnlUMXJHNjM1REdFSHFsM2pxSjhsNVBSMlpBUjJ0THZEMGdjWlh6SUVkQ0ZYc3hCeFR2RkRlZG5QdyIsImlkIjoiZmNfam11emF0aUpESmJicHRRUGlhWFFvUThfNiJ9"
+    },
+    {
+      "question": "Is the K-drama \"The Manipulated\" available on Netflix?",
+      "type": "ai_overview",
+      "page_token": "PdLmwnicHdBBbqMwAEBR9TJdNtA0jIgUVSJgT5kAtcE29mZk7CQkGHBJBAm7XqFnmFPNaaaa9d88_c8_5tQ1fx--6uvVXtaLxTRNT8e-P5r9k-rbhbzcO7VQ0phKqmbt_fDc14PaRKMKtoMKELGWhtgpYHrLAIaaiBy7ta3O5h219Qm3dPvd3tXMXcEwlGy1q4qg0Oe4EQ6a9kXiIpPcEPG5LNGLjtKBRr4QjXZk5MY5S097YhEmqxEV9Y13IsypP2vnci86jdIuNskce7lTD4LVgYLqBREjvg2JcP2YzmmmQso5s9sErtoiwvG-THtW0rcMgjpf2jF1-qWGepAzsDKkZUb0nMK3qWrNLot8Tza4U2cNJeTXpIumqNYfVUk9XmKbN_gXb-NJA4AkA5wwH2dBf0IEz-psWuICShjdiZ8gR0vxwct0RI5xyLO-s1CAIuR3hB4PatwsH_-_3vw-tNe1HfrjP9E1jWQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PdLmwnicHdBBbqMwAEBR9TJdNtA0jIgUVSJgT5kAtcE29mZk7CQkGHBJBAm7XqFnmFPNaaaa9d88_c8_5tQ1fx--6uvVXtaLxTRNT8e-P5r9k-rbhbzcO7VQ0phKqmbt_fDc14PaRKMKtoMKELGWhtgpYHrLAIaaiBy7ta3O5h219Qm3dPvd3tXMXcEwlGy1q4qg0Oe4EQ6a9kXiIpPcEPG5LNGLjtKBRr4QjXZk5MY5S097YhEmqxEV9Y13IsypP2vnci86jdIuNskce7lTD4LVgYLqBREjvg2JcP2YzmmmQso5s9sErtoiwvG-THtW0rcMgjpf2jF1-qWGepAzsDKkZUb0nMK3qWrNLot8Tza4U2cNJeTXpIumqNYfVUk9XmKbN_gXb-NJA4AkA5wwH2dBf0IEz-psWuICShjdiZ8gR0vxwct0RI5xyLO-s1CAIuR3hB4PatwsH_-_3vw-tNe1HfrjP9E1jWQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IklzIHRoZSBLLWRyYW1hIFwiVGhlIE1hbmlwdWxhdGVkXCIgYXZhaWxhYmxlIG9uIE5ldGZsaXg/IiwibGsiOiJHaHB0WVc1cGNIVnNZWFJsWkNCclpISmhiV0VnYm1WMFpteHBlQSIsImJzIjoiYzMyUXZVc0RRUkRGc2QzS2VnbnlTTEMwT1RBV0FhOUlFeEd0UW13ZHZUbDJjRF9PM1QzMV9Pczk5eG81UTVwaG1NZDd2NWxSNzJxOUM1OXc1QWR3SnlrMG5FQ1JrUTJQVlR6Mmh2RkFYcnJlVXVZR2IwMGtSM1YxbzZfTmFlZllfTW96cHpxbzlWMHE0djFWbVdBNVl5eEJIeVNXWGl3amVEeHlicTE4MWRWQzZfOTU4Sk9zR3JWNU1wUWhVX2pXaU9mRThPUVliWWluaVhWMXFWZkhGOGJybnlUMXJHNjM1REdFSHFsM2pxSjhsNVBSMlpBUjJ0THZEMGdjWlh6SUVkQ0ZYc3hCeFR2RkRlZG5QdyIsImlkIjoiZmNfam11emF0aUpESmJicHRRUGlhWFFvUThfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IklzIHRoZSBLLWRyYW1hIFwiVGhlIE1hbmlwdWxhdGVkXCIgYXZhaWxhYmxlIG9uIE5ldGZsaXg%2FIiwibGsiOiJHaHB0WVc1cGNIVnNZWFJsWkNCclpISmhiV0VnYm1WMFpteHBlQSIsImJzIjoiYzMyUXZVc0RRUkRGc2QzS2VnbnlTTEMwT1RBV0FhOUlFeEd0UW13ZHZUbDJjRF9PM1QzMV9Pczk5eG81UTVwaG1NZDd2NWxSNzJxOUM1OXc1QWR3SnlrMG5FQ1JrUTJQVlR6Mmh2RkFYcnJlVXVZR2IwMGtSM1YxbzZfTmFlZllfTW96cHpxbzlWMHE0djFWbVdBNVl5eEJIeVNXWGl3amVEeHlicTE4MWRWQzZfOTU4Sk9zR3JWNU1wUWhVX2pXaU9mRThPUVliWWluaVhWMXFWZkhGOGJybnlUMXJHNjM1REdFSHFsM2pxSjhsNVBSMlpBUjJ0THZEMGdjWlh6SUVkQ0ZYc3hCeFR2RkRlZG5QdyIsImlkIjoiZmNfam11emF0aUpESmJicHRRUGlhWFFvUThfNiJ9"
+    },
+    {
+      "question": "What is the Chinese name for the K-drama \"The Manipulated\"?",
+      "type": "ai_overview",
+      "page_token": "JOAr93icHdDNboIwAADg7GU8SqvTRROzpEJ1TNwotFAvSykgQpFGOvm57V32VHuaLbt-x-_rW12u1c9DXBij27VldV03PTfNWWVT2dSWaIertKRQKhGyWi-flvA5lxun7dC26ZBPtWY2AcGIAjErQDgWd0J9SHcplsAoES22WaT2DLh5pl4GaqfvdLb68xNgzM0ZwIMHdOTPpQkAH4_V2bCKQFqmLWPIJyHenkBq89DpCTt9ilhDAQxKR9mHFYc-7d1AUSgVdnxVbL16MYi4wN7ueEjgKkpi98ZqcuCjyznEtj-nhs4USm0Z4Jk2aayLdKdeiaMv_IoAZUhzVpAEOo-7i4vI_ji8Racg27s8qRnjAOIspL1XMi9xFsCvui4rMRBlQSa5vG_mk_-xzUdem7W-NedffAx41g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JOAr93icHdDNboIwAADg7GU8SqvTRROzpEJ1TNwotFAvSykgQpFGOvm57V32VHuaLbt-x-_rW12u1c9DXBij27VldV03PTfNWWVT2dSWaIertKRQKhGyWi-flvA5lxun7dC26ZBPtWY2AcGIAjErQDgWd0J9SHcplsAoES22WaT2DLh5pl4GaqfvdLb68xNgzM0ZwIMHdOTPpQkAH4_V2bCKQFqmLWPIJyHenkBq89DpCTt9ilhDAQxKR9mHFYc-7d1AUSgVdnxVbL16MYi4wN7ueEjgKkpi98ZqcuCjyznEtj-nhs4USm0Z4Jk2aayLdKdeiaMv_IoAZUhzVpAEOo-7i4vI_ji8Racg27s8qRnjAOIspL1XMi9xFsCvui4rMRBlQSa5vG_mk_-xzUdem7W-NedffAx41g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIENoaW5lc2UgbmFtZSBmb3IgdGhlIEstZHJhbWEgXCJUaGUgTWFuaXB1bGF0ZWRcIj8iLCJsayI6IkdpTjBhR1VnYldGdWFYQjFiR0YwWldRZ2EyUnlZVzFoSUdOb2FXNWxjMlVnYm1GdFpRIiwiYnMiOiJjMzJRdlVzRFFSREZzZDNLZWdueVNMQzBPVEFXQWE5SUV4R3RRbXdkdlRsMmNEX08zVDMxX09zOTl4bzVRNXBobU1kN3Y1bFI3MnE5QzU5dzVBZHdKeWswbkVDUmtRMlBWVHoyaHZGQVhycmVVdVlHYjAwa1IzVjFvNl9OYWVmWV9Nb3pwenFvOVYwcTR2MVZtV0E1WXl4Qkh5U1dYaXdqZUR4eWJxMTgxZFZDNl85NThKT3NHclY1TXBRaFVfaldpT2ZFOE9RWWJZaW5pWFYxcVZmSEY4YnJueVQxckc2MzVER0VIcWwzanFKOGw1UFIyWkFSMnRMdkQwZ2NaWHpJRWRDRlhzeEJ4VHZGRGVkblB3IiwiaWQiOiJmY19qbXV6YXRpSkRKYmJwdFFQaWFYUW9ROF82In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIENoaW5lc2UgbmFtZSBmb3IgdGhlIEstZHJhbWEgXCJUaGUgTWFuaXB1bGF0ZWRcIj8iLCJsayI6IkdpTjBhR1VnYldGdWFYQjFiR0YwWldRZ2EyUnlZVzFoSUdOb2FXNWxjMlVnYm1GdFpRIiwiYnMiOiJjMzJRdlVzRFFSREZzZDNLZWdueVNMQzBPVEFXQWE5SUV4R3RRbXdkdlRsMmNEX08zVDMxX09zOTl4bzVRNXBobU1kN3Y1bFI3MnE5QzU5dzVBZHdKeWswbkVDUmtRMlBWVHoyaHZGQVhycmVVdVlHYjAwa1IzVjFvNl9OYWVmWV9Nb3pwenFvOVYwcTR2MVZtV0E1WXl4Qkh5U1dYaXdqZUR4eWJxMTgxZFZDNl85NThKT3NHclY1TXBRaFVfaldpT2ZFOE9RWWJZaW5pWFYxcVZmSEY4YnJueVQxckc2MzVER0VIcWwzanFKOGw1UFIyWkFSMnRMdkQwZ2NaWHpJRWRDRlhzeEJ4VHZGRGVkblB3IiwiaWQiOiJmY19qbXV6YXRpSkRKYmJwdFFQaWFYUW9ROF82In0%3D"
+    },
+    {
+      "question": "Can you summarize the plot of the TV series \"The Manipulated\"?",
+      "type": "ai_overview",
+      "page_token": "KCgAsnicHdDbToMwAADQ-DN7HLTA1CWLCa6ATEootFxeDHcYt2aQlfHmv_hVfo2J5xPO90_fjt3vU9QsC5-PkiSE2NfTVPflPp8GKZ0fYy7lad9nad4dD88H8FblJzQL_X0Sukc5Z2ciBxba0gFXlHLVRavsyBp3zUbFcjFj0KAgmmBCm2sY0jVRbNun7BIBEhZmoZUGWQNZ-_RgA0u0WGXggLTHNu5q6AEsUmDEEewWzD5UciZhwuqFyD3JkNZhi_lU1nS89SGGOA4gUgPzRfgIrwlFwoHarUSO5pqaEoTLxkD8SBBAKfN8A_KliHhTmP2FIN7Goy5TpvOYNSQDSDVbWycWfrhh4vsAwcJ41clGLHJuWjyQaz4Wd3bVSbYVwhu4sqvy-0nZ_Y-dvqphOfLbVP8Barx2Qw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KCgAsnicHdDbToMwAADQ-DN7HLTA1CWLCa6ATEootFxeDHcYt2aQlfHmv_hVfo2J5xPO90_fjt3vU9QsC5-PkiSE2NfTVPflPp8GKZ0fYy7lad9nad4dD88H8FblJzQL_X0Sukc5Z2ciBxba0gFXlHLVRavsyBp3zUbFcjFj0KAgmmBCm2sY0jVRbNun7BIBEhZmoZUGWQNZ-_RgA0u0WGXggLTHNu5q6AEsUmDEEewWzD5UciZhwuqFyD3JkNZhi_lU1nS89SGGOA4gUgPzRfgIrwlFwoHarUSO5pqaEoTLxkD8SBBAKfN8A_KliHhTmP2FIN7Goy5TpvOYNSQDSDVbWycWfrhh4vsAwcJ41clGLHJuWjyQaz4Wd3bVSbYVwhu4sqvy-0nZ_Y-dvqphOfLbVP8Barx2Qw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IkNhbiB5b3Ugc3VtbWFyaXplIHRoZSBwbG90IG9mIHRoZSBUViBzZXJpZXMgXCJUaGUgTWFuaXB1bGF0ZWRcIj8iLCJsayI6IkdoeDBhR1VnYldGdWFYQjFiR0YwWldRZ2NHeHZkQ0J6ZFcxdFlYSjUiLCJicyI6ImMzMlF2VXNEUVJERnNkM0tlZ255U0xDME9UQVdBYTlJRXhHdFFtd2R2VGwyY0RfTzNUMzFfT3M5OXhvNVE1cGhtTWQ3djVsUjcycTlDNTl3NUFkd0p5azBuRUNSa1EyUFZUejJodkZBWHJyZVV1WUdiMDBrUjNWMW82X05hZWZZX01venB6cW85VjBxNHYxVm1XQTVZeXhCSHlTV1hpd2plRHh5YnExODFkVkM2Xzk1OEpPc0dyVjVNcFFoVV9qV2lPZkU4T1FZYllpbmlYVjFxVmZIRjhicm55VDFyRzYzNURHRUhxbDNqcUo4bDVQUjJaQVIydEx2RDBnY1pYeklFZENGWHN4QnhUdkZEZWRuUHciLCJpZCI6ImZjX2ptdXphdGlKREpiYnB0UVBpYVhRb1E4XzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFRYVTNSWHB1WTFScFN5MWphM2gzWjJGc1dXUTFURmhQZFdWdGFqSkNaRzAwZDB0UGVEQnhkMk5zV1RVMlRHVmxlbUZuTmtobE1YbHFPRWsxYVRCd01EWkhXbFk1WWxoamExOUpNbTR3Y0ZadldVcHhSVEIyZVRsR2R4SVhhbTExZW1GMGFVcEVTbUppY0hSUlVHbGhXRkZ2VVRnYUlrRkVjM0k1WmxSTWRsQktSR3REWVZKWFptNTBOamRXZGpOelV6bG9kbmRaTW5jIiwiZmN2IjoiMyIsImVpIjoiam11emF0aUpESmJicHRRUGlhWFFvUTgiLCJxYyI6IkNpdG5jbTkzZEdnZ1oyOTJaWEp1YldWdWRDQnpaV055WlhSc2VTQnRZVzVwY0hWc1lYUmxaQ0F5TURJMUVBQXhBQUFBb0k5T3dUOTltSDhBUHciLCJxdWVzdGlvbiI6IkNhbiB5b3Ugc3VtbWFyaXplIHRoZSBwbG90IG9mIHRoZSBUViBzZXJpZXMgXCJUaGUgTWFuaXB1bGF0ZWRcIj8iLCJsayI6IkdoeDBhR1VnYldGdWFYQjFiR0YwWldRZ2NHeHZkQ0J6ZFcxdFlYSjUiLCJicyI6ImMzMlF2VXNEUVJERnNkM0tlZ255U0xDME9UQVdBYTlJRXhHdFFtd2R2VGwyY0RfTzNUMzFfT3M5OXhvNVE1cGhtTWQ3djVsUjcycTlDNTl3NUFkd0p5azBuRUNSa1EyUFZUejJodkZBWHJyZVV1WUdiMDBrUjNWMW82X05hZWZZX01venB6cW85VjBxNHYxVm1XQTVZeXhCSHlTV1hpd2plRHh5YnExODFkVkM2Xzk1OEpPc0dyVjVNcFFoVV9qV2lPZkU4T1FZYllpbmlYVjFxVmZIRjhicm55VDFyRzYzNURHRUhxbDNqcUo4bDVQUjJaQVIydEx2RDBnY1pYeklFZENGWHN4QnhUdkZEZWRuUHciLCJpZCI6ImZjX2ptdXphdGlKREpiYnB0UVBpYVhRb1E4XzYifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ynnRg3iczZXdcqJIFMcfYJ9jvUkiCBg0VdRUd4sJ-BU0TNQbiy8bVMTQKHGq9mLfZZ9qn2YaEIOOmJm52Nqu4qOb0__u0-f8OH__s_LWy3__-MuNog15YJg4jqs4CPDKqVqBzxhkv7aYebAioeV-2e8kvmIRia04nrTwt9-MyFNbqmluIu3ZM8ZaoDUq6RRpZhrEWVDF9wVhZgy9Lf_kW7RTJVVnXR3yd8OnuKF5g2WVYzm-OmAMnxqA_65pCMgAYKjQd1hqRC1-RgxSBSq0LAwph5kF7QlAiZ6ipT1UooxTtURAgckE-phNQwGCTq6FtNKNoOJ6tJNYyih1JPXU-xlvCj4kTT5qoqvWl_zJFOjycj7SK3yVQUlDZ5mgU_UG6CnAPQycRUwOij01ubWy5edAiGVh2L66c3o6egzrHfBpuNtguMYHpxQU0ZmQsTHNXJYxQ_qoMZ7lWulLSJKERi9NNmgP50IHxsb8bn2_mdqdrn6n9zFw9qOOxlgmtVsFhu3YM3fGfkn7Na5WZ5u82LhNSbLIESVSRAl0Hvkma7yJXK_arcJazhE6nvwxZNlLkgtIOfUp7UJ0sDiJcZI-MU1r-DH-cfJLuRiFzkGLTuEUcFw_naLdZ2E_RvVZARArpLhUrpXMu8RR1vDRGZwld7Kt4Li7omeYYgQvZW7vIu_nY9rTcQcK_MGwuCcFKpi6nUNZTPB0YRkobvJRp4fcxQcCrYIGJVPWQC6Ack8Tz9HjuWM5k4VlPKqUgrEYgST739QkxjARRNmMHHsdZMMFZ0r-fYTGXb3Oe1lTPvlPHFbOgTnL_yI3j4qn75r7UZtofT5SYn44Eu5MV-iOW9plTgLf_IWaY_2vSMorUif9Vk5SkjefkkQzX7lakdL3Q0VSM5IQLiUJZhXurCINLlak04xCYPhBUgderUi_ThK6ShI-eHqBJFqRLpG0LCMprUinJLkN7aQinfj9UZGOJP1ORUK_V5FSsJzscVqetgtcXqYGcGuKz0MNPEViBIXgZTfCshBsXR5_WqbmfvTgG_bqdubZD5BTo719O6MDwYNjV94kHAZx5N7gYOeEa99ZRzeU1tCJVvsb31h7m-3KiBz7hoJZr_irMJBYQ4StWJd7So-bPffq03d17H1T_XjV5hfEmr5qmj7o-rX912Beb3p9ok7fkdCOJmQjRi_q_I2LZKdtb3Cot7dDs-5-jcnAiya6DKfj4bRf3z36XFMkTa7Fu-_1jYVHvq1vbW43r_sRe18bDBbQgW66GyJNrMVizG364qtS8UNLooER9oAe1SumGYgmlF6auiigV0yve6DJsEIsY-aQnSTW7JptmqLB1lnObooVH0f7jSQIFbIOpdp3xag9TQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ynnRg3iczZXdcqJIFMcfYJ9jvUkiCBg0VdRUd4sJ-BU0TNQbiy8bVMTQKHGq9mLfZZ9qn2YaEIOOmJm52Nqu4qOb0__u0-f8OH__s_LWy3__-MuNog15YJg4jqs4CPDKqVqBzxhkv7aYebAioeV-2e8kvmIRia04nrTwt9-MyFNbqmluIu3ZM8ZaoDUq6RRpZhrEWVDF9wVhZgy9Lf_kW7RTJVVnXR3yd8OnuKF5g2WVYzm-OmAMnxqA_65pCMgAYKjQd1hqRC1-RgxSBSq0LAwph5kF7QlAiZ6ipT1UooxTtURAgckE-phNQwGCTq6FtNKNoOJ6tJNYyih1JPXU-xlvCj4kTT5qoqvWl_zJFOjycj7SK3yVQUlDZ5mgU_UG6CnAPQycRUwOij01ubWy5edAiGVh2L66c3o6egzrHfBpuNtguMYHpxQU0ZmQsTHNXJYxQ_qoMZ7lWulLSJKERi9NNmgP50IHxsb8bn2_mdqdrn6n9zFw9qOOxlgmtVsFhu3YM3fGfkn7Na5WZ5u82LhNSbLIESVSRAl0Hvkma7yJXK_arcJazhE6nvwxZNlLkgtIOfUp7UJ0sDiJcZI-MU1r-DH-cfJLuRiFzkGLTuEUcFw_naLdZ2E_RvVZARArpLhUrpXMu8RR1vDRGZwld7Kt4Li7omeYYgQvZW7vIu_nY9rTcQcK_MGwuCcFKpi6nUNZTPB0YRkobvJRp4fcxQcCrYIGJVPWQC6Ack8Tz9HjuWM5k4VlPKqUgrEYgST739QkxjARRNmMHHsdZMMFZ0r-fYTGXb3Oe1lTPvlPHFbOgTnL_yI3j4qn75r7UZtofT5SYn44Eu5MV-iOW9plTgLf_IWaY_2vSMorUif9Vk5SkjefkkQzX7lakdL3Q0VSM5IQLiUJZhXurCINLlak04xCYPhBUgderUi_ThK6ShI-eHqBJFqRLpG0LCMprUinJLkN7aQinfj9UZGOJP1ORUK_V5FSsJzscVqetgtcXqYGcGuKz0MNPEViBIXgZTfCshBsXR5_WqbmfvTgG_bqdubZD5BTo719O6MDwYNjV94kHAZx5N7gYOeEa99ZRzeU1tCJVvsb31h7m-3KiBz7hoJZr_irMJBYQ4StWJd7So-bPffq03d17H1T_XjV5hfEmr5qmj7o-rX912Beb3p9ok7fkdCOJmQjRi_q_I2LZKdtb3Cot7dDs-5-jcnAiya6DKfj4bRf3z36XFMkTa7Fu-_1jYVHvq1vbW43r_sRe18bDBbQgW66GyJNrMVizG364qtS8UNLooER9oAe1SumGYgmlF6auiigV0yve6DJsEIsY-aQnSTW7JptmqLB1lnObooVH0f7jSQIFbIOpdp3xag9TQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Manipulated | Official Trailer | Disney+ Singapore",
+      "link": "https://www.youtube.com/watch?v=cXPDFkuLfhs",
+      "displayed_link": "759.4K+ views · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36b8e77e3d98ef8976aa4/images/x8MaA9o1fCDZ-N6mpY9XpOATmuf1aMgaRcyKOxai5Sg.jpeg",
+      "snippet": "Ji Changwook is out for vengeance. Doh Kyungsoo wants control. Neither's backing down. #TheManipulated streams 5 November, on #DisneyPlusSG.",
+      "duration": "1:36",
+      "about_this_result": {
+        "source": {
+          "description": "Ji Changwook is out for vengeance. Doh Kyungsoo wants control. Neither's backing down. #TheManipulated streams 5 November, on #DisneyPlusSG.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmFvWlhVWEtGWFBZakhISEFKN0pMUS04Z09KLVhQRkZGTjRGYldzSllCOVFSaVpCckNzMDlwbGUwQjZiWHMyM2pWU3NHSXdoQ0czWF9kdzdHd0lUNC1oMWtpNFJmQ3VuZXhMNk1WbjQzMk9oQW4yd2pIWEVKanE4YVpHYUJBURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmFvWlhVWEtGWFBZakhISEFKN0pMUS04Z09KLVhQRkZGTjRGYldzSllCOVFSaVpCckNzMDlwbGUwQjZiWHMyM2pWU3NHSXdoQ0czWF9kdzdHd0lUNC1oMWtpNFJmQ3VuZXhMNk1WbjQzMk9oQW4yd2pIWEVKanE4YVpHYUJBURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR-caxLwYHVocsG-QX-1toUmxpsDvxQkMO0KQ",
+      "source": "YouTube · Disney+ Singapore"
+    },
+    {
+      "position": 2,
+      "title": "The Manipulated (TV Series 2025)",
+      "link": "https://www.imdb.com/title/tt36188448/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVG8AlMdvUCRQ9m2L0aerymUjEtgBMDMFcMs83fHMq-nvS_CZ62LnQrt6n_iL39oXoDbwN754KnQ8aVr40VhH0NqD5-58FoP5rf4eIBntVBxS_eP1WEQTHt_o&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.imdb.com › title",
+      "snippet": "Mild-mannered Tae Jung is wrongfully imprisoned for a heinous crime. He soon discovers that a mysterious figure named Yo Han orchestrated his downfall.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 7.7,
+            "reviews": 5715
+          },
+          "extensions": [
+            "7.7/10(5,715)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Mild-mannered Tae Jung is wrongfully imprisoned for a heinous crime. He soon discovers that a mysterious figure named Yo Han orchestrated his downfall.",
+          "source_info_link": "https://www.imdb.com/title/tt36188448/",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3oHDlpAt_9AgH-kX-s4OMnpeyB1YXytd1QAAA_tLMwB3vin--214b9iVtIFX4FSJddbdYfj4qeE14fixgxgbP-qRB_8pWv-781XyazdZw817K0874IH_veDlIp_R0vZlJya9sc35__CZhNwLWmR9bnt_QP9MWJfxrxkNYnNHYMxQsT3-f-JR_8f536__3qV6YaETYATrP3Tgh61u8yUREfZyydl6X0CekASIwQUyl4_KuUjiLe6pez9Oi9dc69a46XjIl940vXh0ggRAdHvJNB4twd_CJMWIw3AjiFnyAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVkc4QWxNZHZVQ1JROW0yTDBhZXJ5bVVqRXRnQk1ETUZjTXM4M2ZITXEtbnZTX0NaNjJMblFydDZuX2lMMzlvWG9EYndONzU0S25ROGFWcjQwVmhIME5xRDUtNThGb1A1cmY0ZUlCbnRWQnhTX2VQMVdFUVRIdF9vEgQaAggAGpIFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AQIABAAGAAgACozCgZncm93dGgVAAAAABoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKk4KCmdvdmVybm1lbnQVAAAAABoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaB2ZlZGVyYWwqMAoIc2VjcmV0bHkVAAAAABoIY292ZXJ0bHkaBnNlY3JldBoNaXY7cDtzZWNyZXRseSoyCgttYW5pcHVsYXRlZBV-EURAGgxtYW5pcHVsYXRpdmUaEGl2O3A7bWFuaXB1bGF0ZWQqFgoEMjAyNRU-10NAGglpdjtuOzIwMjUyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWRzhBbE1kdlVDUlE5bTJMMGFlcnltVWpFdGdCTURNRmNNczgzZkhNcS1udlNfQ1o2MkxuUXJ0Nm5faUwzOW9Yb0Rid043NTRLblE4YVZyNDBWaEgwTnFENS01OEZvUDVyZjRlSUJudFZCeFNfZVAxV0VRVEh0X286NVRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gKFRWIFNlcmllcyA8Yj4yMDI1PC9iPikgLSBJTURiQpcBTWlsZC1tYW5uZXJlZCBUYWUgSnVuZyBpcyB3cm9uZ2Z1bGx5IGltcHJpc29uZWQgZm9yIGEgaGVpbm91cyBjcmltZS4gSGUgc29vbiBkaXNjb3ZlcnMgdGhhdCBhIG15c3RlcmlvdXMgZmlndXJlIG5hbWVkIFlvIEhhbiBvcmNoZXN0cmF0ZWQgaGlzIGRvd25mYWxsLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVkc4QWxNZHZVQ1JROW0yTDBhZXJ5bVVqRXRnQk1ETUZjTXM4M2ZITXEtbnZTX0NaNjJMblFydDZuX2lMMzlvWG9EYndONzU0S25ROGFWcjQwVmhIME5xRDUtNThGb1A1cmY0ZUlCbnRWQnhTX2VQMVdFUVRIdF9vEgQaAggAGpIFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AQIABAAGAAgACozCgZncm93dGgVAAAAABoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKk4KCmdvdmVybm1lbnQVAAAAABoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaB2ZlZGVyYWwqMAoIc2VjcmV0bHkVAAAAABoIY292ZXJ0bHkaBnNlY3JldBoNaXY7cDtzZWNyZXRseSoyCgttYW5pcHVsYXRlZBV-EURAGgxtYW5pcHVsYXRpdmUaEGl2O3A7bWFuaXB1bGF0ZWQqFgoEMjAyNRU-10NAGglpdjtuOzIwMjUyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWRzhBbE1kdlVDUlE5bTJMMGFlcnltVWpFdGdCTURNRmNNczgzZkhNcS1udlNfQ1o2MkxuUXJ0Nm5faUwzOW9Yb0Rid043NTRLblE4YVZyNDBWaEgwTnFENS01OEZvUDVyZjRlSUJudFZCeFNfZVAxV0VRVEh0X286NVRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gKFRWIFNlcmllcyA8Yj4yMDI1PC9iPikgLSBJTURiQpcBTWlsZC1tYW5uZXJlZCBUYWUgSnVuZyBpcyB3cm9uZ2Z1bGx5IGltcHJpc29uZWQgZm9yIGEgaGVpbm91cyBjcmltZS4gSGUgc29vbiBkaXNjb3ZlcnMgdGhhdCBhIG15c3RlcmlvdXMgZmlndXJlIG5hbWVkIFlvIEhhbiBvcmNoZXN0cmF0ZWQgaGlzIGRvd25mYWxsLiICEAFIAFgAaAA",
+      "source": "IMDb",
+      "read_more_link": "https://www.imdb.com/title/tt36188448/#:~:text=Mild%2Dmannered%20Tae%20Jung%20is%20wrongfully,Yo%20Han%20orchestrated%20his%20downfall."
+    },
+    {
+      "position": 3,
+      "title": "The Manipulated",
+      "link": "https://en.wikipedia.org/wiki/The_Manipulated",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVt2WW9560ksmqRDEUPwzB7f1EMXZvZOmx_6tWgnHdHbxIpXyKZBq9bzbYpCesGffv5c6WRYJZOEtchK6IpWHUVMEYJvQiqNv7NyphoZgjm1utuucvq97w-9XaxIReyQfU&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › The_Manipulated",
+      "snippet": "The Manipulated (Korean: 조각도시 ) is a 2025 South Korean revenge action crime thriller television series written by Oh Sang-ho [ko], directed by Park ...",
+      "snippet_highlighted_words": [
+        "The Manipulated"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Manipulated (Korean: 조각도시 ) is a 2025 South Korean revenge action crime thriller television series written by Oh Sang-ho [ko], directed by Park ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/The_Manipulated",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVnQyV1c5NTYwa3NtcVJERVVQd3pCN2YxRU1YWnZaT214XzZ0V2duSGRIYnhJcFh5S1pCcTliemJZcENlc0dmZnY1YzZXUllKWk9FdGNoSzZJcFdIVVZNRVlKdlFpcU52N055cGhvWmdqbTF1dHV1Y3ZxOTd3LTlYYXhJUmV5UWZVEgQaAggAGpwFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9gQIABAAGAAgACozCgZncm93dGgVAAAAABoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKk4KCmdvdmVybm1lbnQVAAAAABoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaB2ZlZGVyYWwqMAoIc2VjcmV0bHkVAAAAABoIY292ZXJ0bHkaBnNlY3JldBoNaXY7cDtzZWNyZXRseSoyCgttYW5pcHVsYXRlZBXfFyZAGgxtYW5pcHVsYXRpdmUaEGl2O3A7bWFuaXB1bGF0ZWQqFgoEMjAyNRUwUog_GglpdjtuOzIwMjUylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWdDJXVzk1NjBrc21xUkRFVVB3ekI3ZjFFTVhadlpPbXhfNnRXZ25IZEhieElwWHlLWkJxOWJ6YllwQ2VzR2ZmdjVjNldSWUpaT0V0Y2hLNklwV0hVVk1FWUp2UWlxTnY3TnlwaG9aZ2ptMXV0dXVjdnE5N3ctOVhheElSZXlRZlU6IlRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gLSBXaWtpcGVkaWFCqwE8Yj5UaGUgTWFuaXB1bGF0ZWQ8L2I-IChLb3JlYW46IOyhsOqwgeuPhOyLnCApIGlzIGEgMjAyNSBTb3V0aCBLb3JlYW4gcmV2ZW5nZSBhY3Rpb24gY3JpbWUgdGhyaWxsZXIgdGVsZXZpc2lvbiBzZXJpZXMgd3JpdHRlbiBieSBPaCBTYW5nLWhvIFtrb10sIGRpcmVjdGVkIGJ5IFBhcmsmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVnQyV1c5NTYwa3NtcVJERVVQd3pCN2YxRU1YWnZaT214XzZ0V2duSGRIYnhJcFh5S1pCcTliemJZcENlc0dmZnY1YzZXUllKWk9FdGNoSzZJcFdIVVZNRVlKdlFpcU52N055cGhvWmdqbTF1dHV1Y3ZxOTd3LTlYYXhJUmV5UWZVEgQaAggAGpwFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9gQIABAAGAAgACozCgZncm93dGgVAAAAABoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKk4KCmdvdmVybm1lbnQVAAAAABoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaB2ZlZGVyYWwqMAoIc2VjcmV0bHkVAAAAABoIY292ZXJ0bHkaBnNlY3JldBoNaXY7cDtzZWNyZXRseSoyCgttYW5pcHVsYXRlZBXfFyZAGgxtYW5pcHVsYXRpdmUaEGl2O3A7bWFuaXB1bGF0ZWQqFgoEMjAyNRUwUog_GglpdjtuOzIwMjUylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWdDJXVzk1NjBrc21xUkRFVVB3ekI3ZjFFTVhadlpPbXhfNnRXZ25IZEhieElwWHlLWkJxOWJ6YllwQ2VzR2ZmdjVjNldSWUpaT0V0Y2hLNklwV0hVVk1FWUp2UWlxTnY3TnlwaG9aZ2ptMXV0dXVjdnE5N3ctOVhheElSZXlRZlU6IlRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gLSBXaWtpcGVkaWFCqwE8Yj5UaGUgTWFuaXB1bGF0ZWQ8L2I-IChLb3JlYW46IOyhsOqwgeuPhOyLnCApIGlzIGEgMjAyNSBTb3V0aCBLb3JlYW4gcmV2ZW5nZSBhY3Rpb24gY3JpbWUgdGhyaWxsZXIgdGVsZXZpc2lvbiBzZXJpZXMgd3JpdHRlbiBieSBPaCBTYW5nLWhvIFtrb10sIGRpcmVjdGVkIGJ5IFBhcmsmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/The_Manipulated#:~:text=The%20Manipulated%20(Korean%3A%20%EC%A1%B0%EA%B0%81%EB%8F%84%EC%8B%9C,Sang%2Dho%20%5Bko%5D%2C%20directed%20by%20Park"
+    },
+    {
+      "position": 4,
+      "title": "The Manipulated (2025) follows Tae-jung (Ji Chang-wook), ...",
+      "link": "https://www.instagram.com/reel/DcR6MAas6QG/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV-LWSwbkNGHSKqIFRAeC9n7zaXD9xWC-ToTMr3CenfI8PVcVLFLmDkhOU5IHX8ha4OhiWLSyiF4k8UU-o_yvYLcVbvpRNplFF6Tdmrk_LlDkHAieNSo3FP6dSXofqIA&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQFnoECCUQAQ&uoh=1",
+      "displayed_link": "4.4K+ likes · 1 month ago",
+      "snippet": "The Manipulated (2025) follows Tae-jung (Ji Chang-wook), an ordinary, mild-mannered delivery worker framed for a horrific assault and murder.",
+      "snippet_highlighted_words": [
+        "Manipulated",
+        "2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Manipulated (2025) follows Tae-jung (Ji Chang-wook), an ordinary, mild-mannered delivery worker framed for a horrific assault and murder.",
+          "source_info_link": "https://www.instagram.com/reel/DcR6MAas6QG/",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVi1MV1N3YmtOR0hTS3FJRlJBZUM5bjd6YVhEOXhXQy1Ub1RNcjNDZW5mSThQVmNWTEZMbURraE9VNUlIWDhoYTRPaGlXTFN5aUY0azhVVS1vX3l2WUxjVmJ2cFJOcGxGRjZUZG1ya19MbERrSEFpZU5TbzNGUDZkU1hvZnFJQRIEGgIIABqzBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqTgoKZ292ZXJubWVudBUAAAAAGgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoHZmVkZXJhbCowCghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5KjIKC21hbmlwdWxhdGVkFQyHKUAaDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZCoWCgQyMDI1Fc6KI0AaCWl2O247MjAyNTKUAS9nb3RvP3VybD1DQUVTWXdIck96QVYtTFdTd2JrTkdIU0txSUZSQWVDOW43emFYRDl4V0MtVG9UTXIzQ2VuZkk4UFZjVkxGTG1Ea2hPVTVJSFg4aGE0T2hpV0xTeWlGNGs4VVUtb195dllMY1ZidnBSTnBsRkY2VGRtcmtfTGxEa0hBaWVOU28zRlA2ZFNYb2ZxSUE6TVRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gKDxiPjIwMjU8L2I-KSBmb2xsb3dzIFRhZS1qdW5nIChKaSBDaGFuZy13b29rKSwgYW4gLi4uQpsBVGhlIDxiPk1hbmlwdWxhdGVkPC9iPiAoPGI-MjAyNTwvYj4pIGZvbGxvd3MgVGFlLWp1bmcgKEppIENoYW5nLXdvb2spLCBhbiBvcmRpbmFyeSwgbWlsZC1tYW5uZXJlZCBkZWxpdmVyeSB3b3JrZXIgZnJhbWVkIGZvciBhIGhvcnJpZmljIGFzc2F1bHQgYW5kIG11cmRlci4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVi1MV1N3YmtOR0hTS3FJRlJBZUM5bjd6YVhEOXhXQy1Ub1RNcjNDZW5mSThQVmNWTEZMbURraE9VNUlIWDhoYTRPaGlXTFN5aUY0azhVVS1vX3l2WUxjVmJ2cFJOcGxGRjZUZG1ya19MbERrSEFpZU5TbzNGUDZkU1hvZnFJQRIEGgIIABqzBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqTgoKZ292ZXJubWVudBUAAAAAGgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoHZmVkZXJhbCowCghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5KjIKC21hbmlwdWxhdGVkFQyHKUAaDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZCoWCgQyMDI1Fc6KI0AaCWl2O247MjAyNTKUAS9nb3RvP3VybD1DQUVTWXdIck96QVYtTFdTd2JrTkdIU0txSUZSQWVDOW43emFYRDl4V0MtVG9UTXIzQ2VuZkk4UFZjVkxGTG1Ea2hPVTVJSFg4aGE0T2hpV0xTeWlGNGs4VVUtb195dllMY1ZidnBSTnBsRkY2VGRtcmtfTGxEa0hBaWVOU28zRlA2ZFNYb2ZxSUE6TVRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gKDxiPjIwMjU8L2I-KSBmb2xsb3dzIFRhZS1qdW5nIChKaSBDaGFuZy13b29rKSwgYW4gLi4uQpsBVGhlIDxiPk1hbmlwdWxhdGVkPC9iPiAoPGI-MjAyNTwvYj4pIGZvbGxvd3MgVGFlLWp1bmcgKEppIENoYW5nLXdvb2spLCBhbiBvcmRpbmFyeSwgbWlsZC1tYW5uZXJlZCBkZWxpdmVyeSB3b3JrZXIgZnJhbWVkIGZvciBhIGhvcnJpZmljIGFzc2F1bHQgYW5kIG11cmRlci4iAhABSABYAGgA",
+      "source": "Instagram · lixaland"
+    },
+    {
+      "position": 5,
+      "title": "The Manipulated [Episodes 7 & 8] : r/KDRAMA",
+      "link": "https://www.reddit.com/r/KDRAMA/comments/1p16h34/the_manipulated_episodes_7_8/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFXUhS5xQat73CVCAipxevAlrEkbVsG5QqnlmyJHPtVG9a__xHINLNNgYGZSnFkdGJ48yNzXeT8s7W3iYy65zjksWXIgBFfS7RStktmC-sGb5xCSfX1uqpuhguADEO-2P1zA953YEfeVlSfNfBbDnsHuDppArd7QcWmFzt0sjLC3tPQ&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQFnoECCoQAQ&uoh=1",
+      "displayed_link": "130+ comments · 10 months ago",
+      "snippet": "Drama: The Manipulated / Premiere Date: November 5, 2025 Airing Schedule: Every Wednesday Episodes: 12 Genre: Action, Thriller, Crime, Drama. ...",
+      "snippet_highlighted_words": [
+        "Drama: The Manipulated"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "The Manipulated [Episodes 9 & 10] : r/KDRAMA - Reddit",
+            "link": "https://www.reddit.com/r/KDRAMA/comments/1p74a07/the_manipulated_episodes_9_10/",
+            "answer_count": 77,
+            "date": "Nov 26, 2025"
+          },
+          {
+            "title": "So... we're definitely getting a Season 2 of The ...",
+            "link": "https://www.reddit.com/r/KdramaCasualTalk/comments/1pdk8xy/so_were_definitely_getting_a_season_2_of_the/",
+            "answer_count": 11,
+            "date": "Dec 3, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Drama: The Manipulated / Premiere Date: November 5, 2025 Airing Schedule: Every Wednesday Episodes: 12 Genre: Action, Thriller, Crime, Drama. ...",
+          "source_info_link": "https://www.reddit.com/r/KDRAMA/comments/1p16h34/the_manipulated_episodes_7_8/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZYVWhTNXhRYXQ3M0NWQ0FpcHhldkFsckVrYlZzRzVRcW5sbXlKSFB0Vkc5YV9feEhJTkxOTmdZR1pTbkZrZEdKNDh5TnpYZVQ4czdXM2lZeTY1emprc1dYSWdCRmZTN1JTdGt0bUMtc0diNXhDU2ZYMXVxcHVoZ3VBREVPLTJQMXpBOTUzWUVmZVZsU2ZOZkJiRG5zSHVEcHBBcmQ3UWNXbUZ6dDBzakxDM3RQURIEGgIIABrXBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCzBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqTgoKZ292ZXJubWVudBW2pxw8GgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoHZmVkZXJhbCowCghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5KjIKC21hbmlwdWxhdGVkFc7EAEAaDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZCoWCgQyMDI1Ffa5Gz4aCWl2O247MjAyNTLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGWFVoUzV4UWF0NzNDVkNBaXB4ZXZBbHJFa2JWc0c1UXFubG15SkhQdFZHOWFfX3hISU5MTk5nWUdaU25Ga2RHSjQ4eU56WGVUOHM3VzNpWXk2NXpqa3NXWElnQkZmUzdSU3RrdG1DLXNHYjV4Q1NmWDF1cXB1aGd1QURFTy0yUDF6QTk1M1lFZmVWbFNmTmZCYkRuc0h1RHBwQXJkN1FjV21GenQwc2pMQzN0UFE6P1RoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gW0VwaXNvZGVzIDcgJmFtcDsgOF0gOiByL0tEUkFNQSAtIFJlZGRpdEKdATxiPkRyYW1hOiBUaGUgTWFuaXB1bGF0ZWQ8L2I-IC8gUHJlbWllcmUgRGF0ZTogTm92ZW1iZXIgNSwgMjAyNSBBaXJpbmcgU2NoZWR1bGU6IEV2ZXJ5IFdlZG5lc2RheSBFcGlzb2RlczogMTIgR2VucmU6IEFjdGlvbiwgVGhyaWxsZXIsIENyaW1lLCBEcmFtYS4mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZYVWhTNXhRYXQ3M0NWQ0FpcHhldkFsckVrYlZzRzVRcW5sbXlKSFB0Vkc5YV9feEhJTkxOTmdZR1pTbkZrZEdKNDh5TnpYZVQ4czdXM2lZeTY1emprc1dYSWdCRmZTN1JTdGt0bUMtc0diNXhDU2ZYMXVxcHVoZ3VBREVPLTJQMXpBOTUzWUVmZVZsU2ZOZkJiRG5zSHVEcHBBcmQ3UWNXbUZ6dDBzakxDM3RQURIEGgIIABrXBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCzBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqTgoKZ292ZXJubWVudBW2pxw8GgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoHZmVkZXJhbCowCghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5KjIKC21hbmlwdWxhdGVkFc7EAEAaDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZCoWCgQyMDI1Ffa5Gz4aCWl2O247MjAyNTLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGWFVoUzV4UWF0NzNDVkNBaXB4ZXZBbHJFa2JWc0c1UXFubG15SkhQdFZHOWFfX3hISU5MTk5nWUdaU25Ga2RHSjQ4eU56WGVUOHM3VzNpWXk2NXpqa3NXWElnQkZmUzdSU3RrdG1DLXNHYjV4Q1NmWDF1cXB1aGd1QURFTy0yUDF6QTk1M1lFZmVWbFNmTmZCYkRuc0h1RHBwQXJkN1FjV21GenQwc2pMQzN0UFE6P1RoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gW0VwaXNvZGVzIDcgJmFtcDsgOF0gOiByL0tEUkFNQSAtIFJlZGRpdEKdATxiPkRyYW1hOiBUaGUgTWFuaXB1bGF0ZWQ8L2I-IC8gUHJlbWllcmUgRGF0ZTogTm92ZW1iZXIgNSwgMjAyNSBBaXJpbmcgU2NoZWR1bGU6IEV2ZXJ5IFdlZG5lc2RheSBFcGlzb2RlczogMTIgR2VucmU6IEFjdGlvbiwgVGhyaWxsZXIsIENyaW1lLCBEcmFtYS4mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Reddit · r/KDRAMA"
+    },
+    {
+      "position": 6,
+      "title": "'The Manipulated' episodes 9 & 10 Preview, out on November 26.",
+      "link": "https://www.facebook.com/dohkeepsmiling/videos/the-manipulated-episodes-9-10-preview-out-on-november-26/1159439559708337/",
+      "displayed_link": "190+ reactions · 10 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36b8e77e3d98ef8976aa4/images/x8MaA9o1fCDZ-N6mpY9XpEBYfUJVW8cBIYYZEw-bDj4.jpeg",
+      "snippet": "This is a dramatic edit from the Korean action-thriller series \"The Manipulated\" (2025). The video features a montage of emotional scenes, ...",
+      "duration": "0:46",
+      "about_this_result": {
+        "source": {
+          "description": "This is a dramatic edit from the Korean action-thriller series \"The Manipulated\" (2025). The video features a montage of emotional scenes, ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZRa2dYQ1hBUDg0TVFOUUs2T0J3TndQWE5YSnBweTFrbVNIcVg3R3RkNmR6Q21rZlFxTHpnSlEtdGJrY3J6QWlPUm45Wkp1dllQX25KcFAxWi14VklnbF9EZ3ZILUVmNXlaRUk4QlVKRzJJQjNsa3lPOW9HSTh4Zk1kVnVoYllGdENlakdWNmw0c3VvbERlRjlHSnoyanY4TTNMYzh3cy1DeTVRcktHV0p2VlEtQkdSMW1EYXNhbDlKZEREclhMYzY0YUI5ZDFiY1lkVnQtd3dSWlhfNl9DNTRCQXNvZDVoT0VkbVNyQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZRa2dYQ1hBUDg0TVFOUUs2T0J3TndQWE5YSnBweTFrbVNIcVg3R3RkNmR6Q21rZlFxTHpnSlEtdGJrY3J6QWlPUm45Wkp1dllQX25KcFAxWi14VklnbF9EZ3ZILUVmNXlaRUk4QlVKRzJJQjNsa3lPOW9HSTh4Zk1kVnVoYllGdENlakdWNmw0c3VvbERlRjlHSnoyanY4TTNMYzh3cy1DeTVRcktHV0p2VlEtQkdSMW1EYXNhbDlKZEREclhMYzY0YUI5ZDFiY1lkVnQtd3dSWlhfNl9DNTRCQXNvZDVoT0VkbVNyQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Facebook · Doh Rinoriexé"
+    },
+    {
+      "position": 7,
+      "title": "The Manipulated | Watch Full Episodes",
+      "link": "https://www.disneyplus.com/browse/entity-22e8ccc0-dae8-4171-89ff-342c004e66de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFXt0efTkoLKo3lp4MzCH4U2eF2iBWsensbmyGg0eW2IKEkZ0_O5P9EoY_FaZTOiEQa9PiRQMgABwOblH8ueaSNp8BxDnQJfShvYrxi6NKjY7QltUnIUgXr4pqVdMcrYejndylUHgKuUIJLuUuUmcieItCB3M_ErK-Pb1d0GwAJJN&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://www.disneyplus.com › Browse",
+      "snippet": "A man framed for a crime he didn&#39;t commit sets off on a rage-fueled quest for revenge. 2025 • 1 Season Thriller, Crime Starting at $11.99/mo.** Taejoong's ...",
+      "snippet_highlighted_words": [
+        "2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A man framed for a crime he didn&#39;t commit sets off on a rage-fueled quest for revenge. 2025 • 1 Season Thriller, Crime Starting at $11.99/mo.** Taejoong's ...",
+          "source_info_link": "https://www.disneyplus.com/browse/entity-22e8ccc0-dae8-4171-89ff-342c004e66de",
+          "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAACwBgCdASocABwAPtE-tFooIigoFAEAGglAFuAoAW0vmT1AOjB5GaWtd8M-TUczvG1flXSluaB-6ojwp2k_gAD--9qVR-DZP69_phV9bS2Szcfj67bx8Y5xJ61IpdW1XegoliPhZFYAbZf6WT9Tjx1_nQqfMBbvY85AcYbnspIrFYR1SQwD8QwnJIXLvHHv0OBFgB9x9GZ2HFQTJBt6F32pTZEg-7P31i1StND_DVnlyEw6alEBtl9pQJG3RpvR8t0zQRuMOFUbXNTk-wVbYI46IjHMng4l9p2D6J9w0oTvRLvwx7ZGM9m06H_em-UyT606GG2591njGY3jAgMmmTFbM3fnG4czSAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZYdDBlZlRrb0xLbzNscDRNekNINFUyZUYyaUJXc2Vuc2JteUdnMGVXMklLRWtaMF9PNVA5RW9ZX0ZhWlRPaUVRYTlQaVJRTWdBQndPYmxIOHVlYVNOcDhCeERuUUpmU2h2WXJ4aTZOS2pZN1FsdFVuSVVnWHI0cHFWZE1jclllam5keWxVSGdLdVVJSkx1VXVVbWNpZUl0Q0IzTV9FckstUGIxZDBHd0FKSk4SBBoCCAAa6QUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDDBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqTgoKZ292ZXJubWVudBUAAAAAGgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoHZmVkZXJhbCowCghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5KjIKC21hbmlwdWxhdGVkFbv08j8aDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZCoWCgQyMDI1FcmmZT4aCWl2O247MjAyNTLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGWHQwZWZUa29MS28zbHA0TXpDSDRVMmVGMmlCV3NlbnNibXlHZzBlVzJJS0VrWjBfTzVQOUVvWV9GYVpUT2lFUWE5UGlSUU1nQUJ3T2JsSDh1ZWFTTnA4QnhEblFKZlNodllyeGk2TktqWTdRbHRVbklVZ1hyNHBxVmRNY3JZZWpuZHlsVUhnS3VVSUpMdVV1VW1jaWVJdENCM01fRXJLLVBiMWQwR3dBSkpOOjZUaGUgPGI-TWFuaXB1bGF0ZWQ8L2I-IHwgV2F0Y2ggRnVsbCBFcGlzb2RlcyAtIERpc25leStCuAFBIG1hbiBmcmFtZWQgZm9yIGEgY3JpbWUgaGUgZGlkbiZhbXA7IzM5O3QgY29tbWl0IHNldHMgb2ZmIG9uIGEgcmFnZS1mdWVsZWQgcXVlc3QgZm9yIHJldmVuZ2UuIDxiPjIwMjU8L2I-IOKAoiAxIFNlYXNvbiBUaHJpbGxlciwgQ3JpbWUgU3RhcnRpbmcgYXQgJDExLjk5L21vLioqIFRhZWpvb25nJiMzOTtzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZYdDBlZlRrb0xLbzNscDRNekNINFUyZUYyaUJXc2Vuc2JteUdnMGVXMklLRWtaMF9PNVA5RW9ZX0ZhWlRPaUVRYTlQaVJRTWdBQndPYmxIOHVlYVNOcDhCeERuUUpmU2h2WXJ4aTZOS2pZN1FsdFVuSVVnWHI0cHFWZE1jclllam5keWxVSGdLdVVJSkx1VXVVbWNpZUl0Q0IzTV9FckstUGIxZDBHd0FKSk4SBBoCCAAa6QUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDDBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqTgoKZ292ZXJubWVudBUAAAAAGgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoHZmVkZXJhbCowCghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5KjIKC21hbmlwdWxhdGVkFbv08j8aDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZCoWCgQyMDI1FcmmZT4aCWl2O247MjAyNTLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGWHQwZWZUa29MS28zbHA0TXpDSDRVMmVGMmlCV3NlbnNibXlHZzBlVzJJS0VrWjBfTzVQOUVvWV9GYVpUT2lFUWE5UGlSUU1nQUJ3T2JsSDh1ZWFTTnA4QnhEblFKZlNodllyeGk2TktqWTdRbHRVbklVZ1hyNHBxVmRNY3JZZWpuZHlsVUhnS3VVSUpMdVV1VW1jaWVJdENCM01fRXJLLVBiMWQwR3dBSkpOOjZUaGUgPGI-TWFuaXB1bGF0ZWQ8L2I-IHwgV2F0Y2ggRnVsbCBFcGlzb2RlcyAtIERpc25leStCuAFBIG1hbiBmcmFtZWQgZm9yIGEgY3JpbWUgaGUgZGlkbiZhbXA7IzM5O3QgY29tbWl0IHNldHMgb2ZmIG9uIGEgcmFnZS1mdWVsZWQgcXVlc3QgZm9yIHJldmVuZ2UuIDxiPjIwMjU8L2I-IOKAoiAxIFNlYXNvbiBUaHJpbGxlciwgQ3JpbWUgU3RhcnRpbmcgYXQgJDExLjk5L21vLioqIFRhZWpvb25nJiMzOTtzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Disney Plus"
+    },
+    {
+      "position": 8,
+      "title": "\"The Manipulated\" Trailer Released",
+      "link": "https://www.facebook.com/groups/WhatsOnDisneyPlus/posts/2200006370482761/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFbOb8V7OLkHlil9sO3FmtCAp---BBW5Tfy0i9TjiQR4szCfKGMikc08b_M6Fu-v-rH0EJsX89Oml6WtZyj_7eq3puHQhmyCetLSZnhlYsFiSX6zlFC-jLVswsup_u1bTuI158Ri2rTzoN7Lf8oO7GwIZ-8LgRItBbESa60M&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQFnoECEEQAQ&uoh=1",
+      "displayed_link": "11 months ago",
+      "snippet": "The Manipulated is a Korean action drama that will be released on Disney+ in 2025. The show is about a man who is falsely accused of a crime ...",
+      "snippet_highlighted_words": [
+        "Manipulated",
+        "2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Manipulated is a Korean action drama that will be released on Disney+ in 2025. The show is about a man who is falsely accused of a crime ...",
+          "source_info_link": "https://www.facebook.com/groups/WhatsOnDisneyPlus/posts/2200006370482761/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZiT2I4VjdPTGtIbGlsOXNPM0ZtdENBcC0tLUJCVzVUZnkwaTlUamlRUjRzekNmS0dNaWtjMDhiX002RnUtdi1ySDBFSnNYODlPbWw2V3RaeWpfN2VxM3B1SFFobXlDZXRMU1puaGxZc0ZpU1g2emxGQy1qTFZzd3N1cF91MWJUdUkxNThSaTJyVHpvTjdMZjhvTzdHd0laLThMZ1JJdEJiRVNhNjBNEgQaAggAGtUFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLEFCAAQABgAIAAqMwoGZ3Jvd3RoFQAAAAAaC2RldmVsb3BtZW50GgRncm93Ggdncm93aW5nGghpbmNyZWFzZSpOCgpnb3Zlcm5tZW50FQAAAAAaA2dvdhoMZ292ZXJubWVudCdzGgxnb3Zlcm5tZW50YWwaC2dvdmVybm1lbnRzGgRnb3Z0GgdmZWRlcmFsKjAKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkqMgoLbWFuaXB1bGF0ZWQV-lJGQBoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkKhYKBDIwMjUVYgdFPxoJaXY7bjsyMDI1Mr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZiT2I4VjdPTGtIbGlsOXNPM0ZtdENBcC0tLUJCVzVUZnkwaTlUamlRUjRzekNmS0dNaWtjMDhiX002RnUtdi1ySDBFSnNYODlPbWw2V3RaeWpfN2VxM3B1SFFobXlDZXRMU1puaGxZc0ZpU1g2emxGQy1qTFZzd3N1cF91MWJUdUkxNThSaTJyVHpvTjdMZjhvTzdHd0laLThMZ1JJdEJiRVNhNjBNOj4mcXVvdDtUaGUgPGI-TWFuaXB1bGF0ZWQ8L2I-JnF1b3Q7IFRyYWlsZXIgUmVsZWFzZWQgLSBGYWNlYm9va0KjAVRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gaXMgYSBLb3JlYW4gYWN0aW9uIGRyYW1hIHRoYXQgd2lsbCBiZSByZWxlYXNlZCBvbiBEaXNuZXkrIGluIDxiPjIwMjU8L2I-LiBUaGUgc2hvdyBpcyBhYm91dCBhIG1hbiB3aG8gaXMgZmFsc2VseSBhY2N1c2VkIG9mIGEgY3JpbWUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZiT2I4VjdPTGtIbGlsOXNPM0ZtdENBcC0tLUJCVzVUZnkwaTlUamlRUjRzekNmS0dNaWtjMDhiX002RnUtdi1ySDBFSnNYODlPbWw2V3RaeWpfN2VxM3B1SFFobXlDZXRMU1puaGxZc0ZpU1g2emxGQy1qTFZzd3N1cF91MWJUdUkxNThSaTJyVHpvTjdMZjhvTzdHd0laLThMZ1JJdEJiRVNhNjBNEgQaAggAGtUFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLEFCAAQABgAIAAqMwoGZ3Jvd3RoFQAAAAAaC2RldmVsb3BtZW50GgRncm93Ggdncm93aW5nGghpbmNyZWFzZSpOCgpnb3Zlcm5tZW50FQAAAAAaA2dvdhoMZ292ZXJubWVudCdzGgxnb3Zlcm5tZW50YWwaC2dvdmVybm1lbnRzGgRnb3Z0GgdmZWRlcmFsKjAKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkqMgoLbWFuaXB1bGF0ZWQV-lJGQBoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkKhYKBDIwMjUVYgdFPxoJaXY7bjsyMDI1Mr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZiT2I4VjdPTGtIbGlsOXNPM0ZtdENBcC0tLUJCVzVUZnkwaTlUamlRUjRzekNmS0dNaWtjMDhiX002RnUtdi1ySDBFSnNYODlPbWw2V3RaeWpfN2VxM3B1SFFobXlDZXRMU1puaGxZc0ZpU1g2emxGQy1qTFZzd3N1cF91MWJUdUkxNThSaTJyVHpvTjdMZjhvTzdHd0laLThMZ1JJdEJiRVNhNjBNOj4mcXVvdDtUaGUgPGI-TWFuaXB1bGF0ZWQ8L2I-JnF1b3Q7IFRyYWlsZXIgUmVsZWFzZWQgLSBGYWNlYm9va0KjAVRoZSA8Yj5NYW5pcHVsYXRlZDwvYj4gaXMgYSBLb3JlYW4gYWN0aW9uIGRyYW1hIHRoYXQgd2lsbCBiZSByZWxlYXNlZCBvbiBEaXNuZXkrIGluIDxiPjIwMjU8L2I-LiBUaGUgc2hvdyBpcyBhYm91dCBhIG1hbiB3aG8gaXMgZmFsc2VseSBhY2N1c2VkIG9mIGEgY3JpbWUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Facebook · What's On Disney Plus"
+    },
+    {
+      "position": 9,
+      "title": "The Manipulated | Teaser Trailer | Disney+ Singapore",
+      "link": "https://www.youtube.com/watch?v=A6BJnl286vk",
+      "displayed_link": "436.2K+ views · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36b8e77e3d98ef8976aa4/images/x8MaA9o1fCDZ-N6mpY9XpPYSYv0PfAPONfMeXtL_FJY.jpeg",
+      "snippet": "A Framed Man Breaks Out Of Prison To Hunt Down The Cruel Manipulator Who Set Him Up | Part 1. KiKi Recaps · 271K views ; [Full/ENG DUB] THE K2 EP.",
+      "duration": "1:28",
+      "about_this_result": {
+        "source": {
+          "description": "A Framed Man Breaks Out Of Prison To Hunt Down The Cruel Manipulator Who Set Him Up | Part 1. KiKi Recaps · 271K views ; [Full/ENG DUB] THE K2 EP.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkV6c0RpR3F3bF9DUlV0RzhxUFdPb3Y0c2RPVXVaYS1LaGtINGJTZ2dVVG4wRnY3VTRTTmNORjBiNHFIMVRqa3ZXdlYxQWJZT3ZVQVVKX1h6VEFwX3E5VGRiQUdxeEp6dllfSU13V19Eam1naFktbmpWYmN0cXNOUzRKdlZKURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkV6c0RpR3F3bF9DUlV0RzhxUFdPb3Y0c2RPVXVaYS1LaGtINGJTZ2dVVG4wRnY3VTRTTmNORjBiNHFIMVRqa3ZXdlYxQWJZT3ZVQVVKX1h6VEFwX3E5VGRiQUdxeEp6dllfSU13V19Eam1naFktbmpWYmN0cXNOUzRKdlZKURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRWmONjijoF7v4fLcfLlUvLQtwLyqYs8LWzEw",
+      "source": "YouTube · Disney+ Singapore"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 wikipedia",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+wikipedia&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+wikipedia"
+    },
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 release date",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+release+date&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 review",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+review&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 explained",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+explained&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+explained"
+    },
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 cast",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+cast&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+cast"
+    },
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 netflix",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+netflix&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+netflix"
+    },
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 episodes",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+episodes&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+episodes"
+    },
+    {
+      "block_position": 1,
+      "query": "Growth government secretly manipulated 2025 ending",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&q=Growth+government+secretly+manipulated+2025+ending&sa=X&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Growth+government+secretly+manipulated+2025+ending"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=10&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8NMDegQIOhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=10&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=20&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAG",
+      "4": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=30&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAI",
+      "5": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=40&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAK",
+      "6": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=50&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAM",
+      "7": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=60&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAO",
+      "8": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=70&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAQ",
+      "9": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=80&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAS",
+      "10": "https://www.google.com/search?q=growth+government+secretly+manipulated+2025&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnuh8ugIjkZh0ee6YN2SmmyuyDlCrg:1790143374205&ei=jmuzatiJDJbbptQPiaXQoQ8&start=90&sa=N&sstk=AS6-VmLq6u-w9mrdfPieUvrDVAsqhMVY73dptVNISOWLMYBrEtLWSbG1Y1pbGr-54sT4sXZDH0JPsiqWJSvuQJCE-T35f0rhbUMliw&ved=2ahUKEwjYiKrfg4SXAxWWrYkEHYkSNPQQ8tMDegQIOhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+2025&start=90"
+    }
+  }
+}

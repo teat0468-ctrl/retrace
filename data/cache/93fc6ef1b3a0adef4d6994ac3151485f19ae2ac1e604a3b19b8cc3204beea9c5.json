@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab36f34fbbeb58ecd9f1e61",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/yRBpdiAI7pri-cVQSnys86VFehnFbsFdSXSwcqr4wpg/6ab36f34fbbeb58ecd9f1e61.json",
+    "markdown_endpoint": "https://serpapi.com/searches/yRBpdiAI7pri-cVQSnys86VFehnFbsFdSXSwcqr4wpg/6ab36f34fbbeb58ecd9f1e61.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/yRBpdiAI7pri-cVQSnys86VFehnFbsFdSXSwcqr4wpg/6ab36f34fbbeb58ecd9f1e61.json_with_pixel_position",
+    "created_at": "2026-09-23 06:18:28 UTC",
+    "processed_at": "2026-09-23 06:18:28 UTC",
+    "google_url": "https://www.google.com/search?q=%22Apple+just+announced+a+groundbreaking+new+product+duo%3A+Apple%22&oq=%22Apple+just+announced+a+groundbreaking+new+product+duo%3A+Apple%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/yRBpdiAI7pri-cVQSnys86VFehnFbsFdSXSwcqr4wpg/6ab36f34fbbeb58ecd9f1e61.html",
+    "total_time_taken": 25.66
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Apple just announced a groundbreaking new product duo: Apple\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Apple just announced a groundbreaking new product duo: Apple\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "1C200HiczVbbdqJIFP2A-Y72xUQu4i1rsXpVVTAB1AQSY_CFxc3CC6AUhjZv8y8zPzVf0wUqQVtNdz_0mnqgLtTZdU6ds9n8_c9iGs7_--tfP0mW5IZh0jSt4SjCC6_mRAFjkU3oMJNoQWLH_7p5E-sVh4hsxZuKz8H1uxXXbdCw4rTtPAre9WtTa1dyE9G0LeLNKOK3GWFMhj7mX-q3dFIjNS-sraHBovhlYGmkxrNcp_bAWAHdAP5c0xCQAMBQpmN4dhPd8TNgkCJQoHlpSd5ZlrANgDI8Wctn6AwyztEyABlmBrQzx7EAgbrHgulZR1D5PDrJjpJQHkge6fRnoinFkDWpwEQXd5-KZ4tAj5f2K_3SWwmcaeioEoYUvQ36MvB3C0cZk6LyTMket9vjJ0BIJUHvXvSc3s4whQ0VfJruLtBDvAtKRgm1hIyLaeWyjB3TjmOmju_kg5hkBY2eO2x0N4D3D_51fP8K2mYwlIa-scErg_T6OmAcm-5bRJbruaZvsl_zOcdzDbZTb7WvciY5pKASKVMJqHf1DmutWny_1qtBbs8jVNz8UcqyWkDyicAg2m09mWP4sf5x85JUzoK6vZPsLnkZFOfnJlpzm-oiq48ygFgul0KBm9md4tG27cY5j_LiztyKCu_KkWFKo8LBclT9k3w_XtPuCw9k-MPGsk8ylDENWyvgyw1lVS772cshveQe3jHQOcTIrkc7cBXnkaO748D2nCwdM6VIOTFmTyCr_kjJcgwzQLS12NN-CLbLpWDOfPsISIFyme_nmvzJd2J38p4wR_V_wBs7CR_Upe4b_BgK4xE0PHsQSPXZG6ud5kkU2L-gOc7_ikl7RVLzd-eZlNXNp0yixS9fVKR8vFMkZcskhM8yKZekHxTp4aQiHVYUAvoHk1R4UZF-nUnoIpPwLtITTKKKdIpJ83NMyhXpkEl-WztQpIO4PxSpYNLvKBL6PUXKieVtu0N5Ws_weZmKB4qQxAHHrqLWNyMiT0B5b9-_q8bb5zI1CZKbwHIXV-bUvYG8kmzcK5MuRDeeW1mJX3geLJcLrzpbk6RqhWG0Dh3PrVpVHNOha8eeNZ-GuBp6aXUZR-7aSaru2oxuqrkdta8EizgSWas1TuqrbkteeQlQjVZ3yDf8jfPamNpGR0XXaPXM6sB5u1X0tCt0xqbm8k4Uzci6Nx4Qa_PUS_XxC-k33JGUXDcf1cjjHibPeGSHSBMUg-_evsyHg6VujeD43k06jx7PPndH6QqPg3Q-0yerR2lOwGwev8bdYe4VEW_fFN7VZaWZkAqNmngiVwliR6QJFDAYaGCEoQOQQVmOwdCKaJ8C7a4JNAlWiGOZHqF_147FTWynLTS4iTtxm5UAJ5ulKAgVEsYi9x0i0Um5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1C200HiczVbbdqJIFP2A-Y72xUQu4i1rsXpVVTAB1AQSY_CFxc3CC6AUhjZv8y8zPzVf0wUqQVtNdz_0mnqgLtTZdU6ds9n8_c9iGs7_--tfP0mW5IZh0jSt4SjCC6_mRAFjkU3oMJNoQWLH_7p5E-sVh4hsxZuKz8H1uxXXbdCw4rTtPAre9WtTa1dyE9G0LeLNKOK3GWFMhj7mX-q3dFIjNS-sraHBovhlYGmkxrNcp_bAWAHdAP5c0xCQAMBQpmN4dhPd8TNgkCJQoHlpSd5ZlrANgDI8Wctn6AwyztEyABlmBrQzx7EAgbrHgulZR1D5PDrJjpJQHkge6fRnoinFkDWpwEQXd5-KZ4tAj5f2K_3SWwmcaeioEoYUvQ36MvB3C0cZk6LyTMket9vjJ0BIJUHvXvSc3s4whQ0VfJruLtBDvAtKRgm1hIyLaeWyjB3TjmOmju_kg5hkBY2eO2x0N4D3D_51fP8K2mYwlIa-scErg_T6OmAcm-5bRJbruaZvsl_zOcdzDbZTb7WvciY5pKASKVMJqHf1DmutWny_1qtBbs8jVNz8UcqyWkDyicAg2m09mWP4sf5x85JUzoK6vZPsLnkZFOfnJlpzm-oiq48ygFgul0KBm9md4tG27cY5j_LiztyKCu_KkWFKo8LBclT9k3w_XtPuCw9k-MPGsk8ylDENWyvgyw1lVS772cshveQe3jHQOcTIrkc7cBXnkaO748D2nCwdM6VIOTFmTyCr_kjJcgwzQLS12NN-CLbLpWDOfPsISIFyme_nmvzJd2J38p4wR_V_wBs7CR_Upe4b_BgK4xE0PHsQSPXZG6ud5kkU2L-gOc7_ikl7RVLzd-eZlNXNp0yixS9fVKR8vFMkZcskhM8yKZekHxTp4aQiHVYUAvoHk1R4UZF-nUnoIpPwLtITTKKKdIpJ83NMyhXpkEl-WztQpIO4PxSpYNLvKBL6PUXKieVtu0N5Ws_weZmKB4qQxAHHrqLWNyMiT0B5b9-_q8bb5zI1CZKbwHIXV-bUvYG8kmzcK5MuRDeeW1mJX3geLJcLrzpbk6RqhWG0Dh3PrVpVHNOha8eeNZ-GuBp6aXUZR-7aSaru2oxuqrkdta8EizgSWas1TuqrbkteeQlQjVZ3yDf8jfPamNpGR0XXaPXM6sB5u1X0tCt0xqbm8k4Uzci6Nx4Qa_PUS_XxC-k33JGUXDcf1cjjHibPeGSHSBMUg-_evsyHg6VujeD43k06jx7PPndH6QqPg3Q-0yerR2lOwGwev8bdYe4VEW_fFN7VZaWZkAqNmngiVwliR6QJFDAYaGCEoQOQQVmOwdCKaJ8C7a4JNAlWiGOZHqF_147FTWynLTS4iTtxm5UAJ5ulKAgVEsYi9x0i0Um5"
+  }
+}

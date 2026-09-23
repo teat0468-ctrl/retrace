@@ -1,0 +1,910 @@
+{
+  "search_metadata": {
+    "id": "6ab36789304ebaa35a006b2d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LQovcf5sYnVuzTDi-LId6FD2NZMPl9RXATXnOJgEfQk/6ab36789304ebaa35a006b2d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LQovcf5sYnVuzTDi-LId6FD2NZMPl9RXATXnOJgEfQk/6ab36789304ebaa35a006b2d.md",
+    "created_at": "2026-09-23 05:45:45 UTC",
+    "processed_at": "2026-09-23 05:45:45 UTC",
+    "google_news_url": "https://news.google.com/search?q=The+government+has+approved+the+massive+merger+of+nine+public-sector+banks+into+just+three+banks",
+    "raw_html_file": "https://serpapi.com/searches/LQovcf5sYnVuzTDi-LId6FD2NZMPl9RXATXnOJgEfQk/6ab36789304ebaa35a006b2d.html",
+    "total_time_taken": 5.84
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "The government has approved the massive merger of nine public-sector banks into just three banks"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "PIB debunks viral fake gazette claiming govt merger of 9 public sector banks",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stacy Pereira"
+        ]
+      },
+      "link": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
+      "thumbnail": "https://media.assettype.com/gulfnews%2Fimport%2F2021%2F11%2F03%2FStock---SBI-Bank---State-Bank-of-India_17ce506c977_large.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNXRmxOYldaQmQwaG9aMDk0VFJEb0FoamdBeWdLTWdhbEFhYnJrQXM",
+      "date": "09/17/2026, 08:43 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:43:21Z"
+    },
+    {
+      "position": 2,
+      "title": "Fact Check PSU Bank Merger: How Bank Mergers Work And What Happens To Your Money, Account And IFSC Code",
+      "source": {
+        "name": "Jagran Josh",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagranjosh.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aishwarya Samant"
+        ]
+      },
+      "link": "https://www.jagranjosh.com/general-knowledge/fact-check-psu-bank-merger-how-bank-mergers-work-what-happens-to-your-money-account-and-ifsc-code-1820012319-1",
+      "thumbnail": "https://img.jagranjosh.com/images/2026/09/18/template/image/PSU-BANK-MERGER-NOTIFICATION-1789702245280.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdjWGgzZWxOT1dWRk5ZMFZmVFJDZkF4ampCU2dLTWdtSlFZWUZtLXF4OUFB",
+      "date": "09/18/2026, 03:34 AM, +0000 UTC",
+      "iso_date": "2026-09-18T03:34:37Z"
+    },
+    {
+      "position": 3,
+      "title": "Viral notification regarding the merger of nine public sector banks is fake",
+      "source": {
+        "name": "FACTLY",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://factly.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Konda Harshavardhan"
+        ]
+      },
+      "link": "https://factly.in/viral-notification-regarding-the-merger-of-nine-public-sector-banks-is-fake/",
+      "thumbnail": "https://factly.in/wp-content/uploads//2026/09/Bank-merger-Thumbnail-.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFUVlJDYldOeWRtZzNRM2hCVFJEX0FoaWhCaWdLTWdZQklvZ1V3UVE",
+      "date": "09/17/2026, 08:02 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:02:49Z"
+    },
+    {
+      "position": 4,
+      "title": "'Fake': Centre debunks viral gazette on merger of 9 public sector banks",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/india/story/fake-centre-debunks-viral-gazette-on-merger-of-9-public-sector-banks-556026-2026-09-17",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aab6856f0601-the-post-also-asked-users-who-spot-suspicious-claims-allegedly-issued-by-the-indian-government-to-re-171101561-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVliV0poV0ZwTFRGWlhiRU15VFJDZkF4ampCU2dLTWdtQlFZNGlKeWhjYmdF",
+      "date": "09/17/2026, 04:11 AM, +0000 UTC",
+      "iso_date": "2026-09-17T04:11:22Z"
+    },
+    {
+      "position": 5,
+      "title": "Report - No Bailouts for Big Tech Billionaires: Policies for when the AI bubble bursts",
+      "source": {
+        "name": "Open Markets Institute",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.openmarketsinstitute.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Courtney C. Radsch"
+        ]
+      },
+      "link": "https://www.openmarketsinstitute.org/publications/no-bailouts-for-big-tech-billionaires-policies-for-when-the-ai-bubble-bursts",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/5e449c8c3ef68d752f3e70dc/083af3ab-6b74-4148-b4e4-f171d848a248/Square+Report+Card.jpg?format=1000w",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5Xa2RtVW14elgyTnZSVEpoVFJEaEFSamhBU2dCTWdZVlU0eEpKUWc",
+      "date": "05/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-13T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "India has fixed its PSU banks. Now comes the more ambitious part",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/industry/banking/finance/banking/india-bank-mergers-big-bank-consolidation-india-has-fixed-its-psu-state-run-banks-now-comes-the-more-ambitious-part-for-lenders/articleshow/133536596.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133537468,width-1200,height-900,resizemode-4,imgsize-328994/indian-bank-consolidation-back-in-focus-as-eac-pm-pitches-larger-psbs-ai-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRRamx3ZUVOWFRqSXplSFZMVFJEZ0F4aUFCU2dLTWdZQmdJYU12UVE",
+      "date": "08/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-26T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "These Are The 15 Largest Banks In The US",
+      "source": {
+        "name": "Bankrate",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankrate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bankrate.com/banking/biggest-banks-in-america/",
+      "thumbnail": "https://www.bankrate.com/2024/04/02123027/The_15_largest_banks_in_the_US.jpg?auto=webp&optimize=high&crop=16:9",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZXalZIUVRoYVNsaEtiRGhVVFJDZkF4ampCU2dLTWdhMVFZcVhFQW8",
+      "date": "02/17/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-17T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "2026 banking and capital markets outlook",
+      "source": {
+        "name": "Deloitte",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deloitte.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook.html",
+      "thumbnail": "https://media.deloitte.com/is/image/deloitte/US188386_Banner-1920x880:425-x-425?$Responsive$&fmt=webp&fit=stretch,1&wid=425&hei=425&dpr=off",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdUMG8wWmtWa1FrcElReTF5VFJDcEF4aXBBeWdLTWdhWlZJYk1wUWc",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "FDIC Quarterly Banking Profile Third Quarter 2025",
+      "source": {
+        "name": "Federal Deposit Insurance Corporation (FDIC) (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fdic.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.fdic.gov/news/speeches/2025/fdic-quarterly-banking-profile-third-quarter-2025",
+      "thumbnail": "https://www.fdic.gov/system/files/2025-11/q32025-01.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlRbWM1TVdJMGJHNU5iSGxKVFJEbkFoaXlCQ2dLTWdPQkFSSQ",
+      "date": "11/24/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-24T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Market Structure of Core Banking Services Providers",
+      "source": {
+        "name": "Kansas City - Federal Reserve",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kansascityfed.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julian Alcazar",
+          "Fumiko Hayashi",
+          "Ken Isaacson"
+        ]
+      },
+      "link": "https://www.kansascityfed.org/research/payments-system-research-briefings/market-structure-of-core-banking-services-providers/",
+      "thumbnail": "https://www.kansascityfed.org/original_images/PSR_Brief_Hero.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWhjRXN3TmxoMVRXOTRkMGcyVFJEZUFoanNCaWdLTWdNUlZBdw",
+      "date": "03/27/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-03-27T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Get ready: Bank deregulation now has Washington’s support",
+      "source": {
+        "name": "J.P. Morgan Private Bank",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://privatebank.jpmorgan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rebecca Boeve"
+        ]
+      },
+      "link": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/ideas-and-insights/get-ready-bank-deregulation-now-has-washingtons-support",
+      "thumbnail": "https://assets.jpmprivatebank.com/content/dam/jpm-pb-aem/global/en/images/article-hero/planning-hero/GettyImages-642418294.jpg.asset.920.613.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBUaTFNWmxabFdXbERYMmhHVFJDM0FSaVRBaWdCTWdPQkVnQQ",
+      "date": "09/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-08T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Revitalizing Bank Merger Enforcement To Restore Competition and Fairness in Banking",
+      "source": {
+        "name": "American Economic Liberties Project",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.economicliberties.us&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.economicliberties.us/our-work/revitalizing-bank-merger-enforcement-to-restore-competition-and-fairness-in-banking/",
+      "thumbnail": "https://www.economicliberties.us/wp-content/uploads/2023/06/iStock-525217399.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFNbVZIYlhOUk5rZElTRlYwVFJDckF4ak9CU2dLTWdZZFo0QXFwZ2M",
+      "date": "06/20/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-06-20T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Regulators should rethink the way they assess bank mergers",
+      "source": {
+        "name": "Brookings",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.brookings.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.brookings.edu/articles/regulators-should-rethink-the-way-they-assess-bank-mergers/",
+      "thumbnail": "https://www.brookings.edu/wp-content/uploads/2022/03/03142022_shutterstock_153758471.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJTaTFWZW1GZlVHZFRkVGQwVFJERUF4aW1CU2dLTWdZQm80U0pRUU0",
+      "date": "03/16/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-03-16T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Investment Banking Awards 2025",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thebanker.com/content/4fe29cd9-9757-460f-8f40-d011c7efa747",
+      "thumbnail": "https://d2iztrg3kgqpue.cloudfront.net/production/911d0bae-6461-470e-a6ba-6ac785a786ac.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iR3RPWDFSV1NVMU9iVXhPVFJDZkF4ampCU2dLTWdhQlFZUmxtZ1k",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-03T08:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "What a recent Supreme Court decision could mean for Trump FCC pressure on broadcasters",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Devin Dwyer"
+        ]
+      },
+      "link": "https://abcnews.com/Politics/recent-supreme-court-decision-trump-fcc-pressure-broadcasters/story?id=125735179",
+      "thumbnail": "https://s.abcnews.com/images/US/scotus-2-rt-gmh-250909_1757450302833_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXFTa1pYWDFKYWVTMDVieko0VFJDZkF4ampCU2dLTWdNTlFnZw",
+      "date": "02/11/2026, 04:27 AM, +0000 UTC",
+      "iso_date": "2026-02-11T04:27:05Z"
+    },
+    {
+      "position": 16,
+      "title": "2024 Investment Climate Statements: Egypt",
+      "source": {
+        "name": "U.S. Department of State (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://2021-2025.state.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://2021-2025.state.gov/reports/2024-investment-climate-statements/egypt/",
+      "date": "01/21/2025, 06:12 AM, +0000 UTC",
+      "iso_date": "2025-01-21T06:12:14Z"
+    },
+    {
+      "position": 17,
+      "title": "Sovereignty in All but Name: Israel’s Quickening Annexation of the West Bank",
+      "source": {
+        "name": "International Crisis Group",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisisgroup.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.crisisgroup.org/rpt/middle-east-north-africa/israelpalestine/252-sovereignty-all-name-israels-quickening-annexation-west-bank",
+      "thumbnail": "https://www.crisisgroup.org/sites/default/files/2025-10/hero_WestBank_Report.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhXVWxUYkcwNVRFSlFPV2h2VFJERUF4aW1CU2dLTWdhbFE0d01uZ2s",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Big Bank Bearhug Bonanza",
+      "source": {
+        "name": "White & Case LLP",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.whitecase.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hyder Jumabhoy"
+        ]
+      },
+      "link": "https://www.whitecase.com/insight-our-thinking/financial-ma-september-2025-banks",
+      "thumbnail": "https://www.whitecase.com/sites/default/files/styles/original_image/public/images/hero/2025/09/fig-ma-4000x1500-other-financial-services-web.jpg?itok=fGtBSykD",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxRM0U1T0RFMloxcEtUQzAyVFJEVEFoaUpCeWdLTWdhNUlKcnptQWs",
+      "date": "09/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-16T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "The Financial Power Elite",
+      "source": {
+        "name": "Monthly Review",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://monthlyreview.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hannah Holleman",
+          "John Bellamy Foster"
+        ]
+      },
+      "link": "https://monthlyreview.org/articles/the-financial-power-elite/",
+      "thumbnail": "https://monthlyreview.org/wp-content/uploads/old/2010/2010-05-rom-chart1.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdURVJaV25wVlZXd3dTR1puVFJDTEJCaktCQ2dLTWdrQlVaSUhzYVkwaVFJ",
+      "date": "09/10/2025, 10:29 PM, +0000 UTC",
+      "iso_date": "2025-09-10T22:29:23Z"
+    },
+    {
+      "position": 20,
+      "title": "OCC cites 9 big banks’ ‘inappropriate’ debanking actions",
+      "source": {
+        "name": "Banking Dive",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bankingdive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Ennis"
+        ]
+      },
+      "link": "https://www.bankingdive.com/news/occ-debanking-report-jpmorgan-bofa-citi-wells-fargo-pnc-td-bmo-capital-one-trump-gould/807685/",
+      "thumbnail": "https://imgproxy.divecdn.com/R6ENbQlp6Z54caJnen6nLNeZh3NOStttYOJqK8pFkfQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRkSFJTWW5ZNFpVVmlSa1ZIVFJDekF4aU1CU2dLTWdhbFE0UlJIUWs",
+      "date": "12/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-11T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "2026 commercial real estate outlook",
+      "source": {
+        "name": "Deloitte",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deloitte.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deloitte.com/us/en/insights/industry/financial-services/commercial-real-estate-outlook.html",
+      "thumbnail": "https://media.deloitte.com/is/image/deloitte/commercial-real-estate-outlook-5?fmt=webp&fit=stretch,1&wid=360&hei=240&dpr=off",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVaVGxSWkhCRUxUQXRPV1pwVFJEd0FSam9BaWdLTWdhaFZJaXRJUVk",
+      "date": "09/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-29T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "AI-powered success—with more than 1,000 stories of customer transformation and innovation",
+      "source": {
+        "name": "Microsoft",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.microsoft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alysa Taylor"
+        ]
+      },
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+      "thumbnail": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/12/Cloud_1000customerstories_Blog_250716.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRXVjk0Unpkc1pEZFViRlk0VFJDZkF4ampCU2dLTWdhRk5veGtHZ2c",
+      "date": "07/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-24T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "20 Largest Banks in the U.S.",
+      "source": {
+        "name": "NerdWallet",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nerdwallet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ruth Sarreal"
+        ]
+      },
+      "link": "https://www.nerdwallet.com/banking/learn/largest-banks-in-the-us",
+      "thumbnail": "https://www.nerdwallet.com/cdn-cgi/image/format=webp,quality=75,width=350,strip=all/assets/blog/wp-content/uploads/2021/09/GettyImages-627674754-1440x864.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFSVGRNVXpoUVkyeG1TalJMVFJEU0FSamVBaWdLTWdZQlFaU0dLZ2c",
+      "date": "05/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "US House agrees to consider crypto legislation in big win for the digital asset industry",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Douglas Gillison",
+          "Chris Prentice"
+        ]
+      },
+      "link": "https://www.reuters.com/legal/government/us-house-clears-procedural-hurdle-cryptocurrency-legislation-2025-07-16/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/J5KRVSFAWVOFZBPS2C5ORMXCXQ.jpg?auth=44389b56e37c578aacf45f28d7cce48bfa60586dc6717fc19e9f0a5055b61cc3&width=1920&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVTWFZFYWxwM1VEbExaMlZ2VFJERUF4aW1CU2dLTWdaRklaRFdIQWc",
+      "date": "07/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-16T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Public Sector Mergers in India: Does Size Bring Synergies?",
+      "source": {
+        "name": "Knowledge at Wharton",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://knowledge.wharton.upenn.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://knowledge.wharton.upenn.edu/article/public-sector-mergers-india-size-bring-synergies/",
+      "thumbnail": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2015/07/merge-sign-650x440.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNjRUpXWVhFM2QyOXZZazlxVFJDNEF4aUtCU2dLTWdZeEFJUTBLUWc",
+      "date": "08/09/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-08-09T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "How Cyprus rose to become the beating heart of the Putin regime’s shadow financial system",
+      "source": {
+        "name": "International Consortium of Investigative Journalists - ICIJ",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.icij.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dean Starkman"
+        ]
+      },
+      "link": "https://www.icij.org/investigations/cyprus-confidential/cyprus-model-politics-tax-haven-russian-wealth/",
+      "thumbnail": "https://media.icij.org/uploads/2023/11/Cyprus-Conf-Cyprus-backgrounder-ICIJ-Ben-King.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUR3N3UmpkclRYWlBWbFZTVFJDZkF4ampCU2dLTWdZQlFJaU1OUVk",
+      "date": "11/14/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-11-14T08:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Nine state banks to be merged into two large entities: Governor",
+      "source": {
+        "name": "The Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tbsnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jebunnesa Alo"
+        ]
+      },
+      "link": "https://www.tbsnews.net/economy/banking/govt-plans-merger-state-owned-banks-two-strengthen-governance-bb-governor-1340061",
+      "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/01/22/nine-states.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpOWGhSYVd0YVVYQnJSblZDVFJELUFSakRBeWdLTWdrWkk0WnBsbWhNTXdF",
+      "date": "01/21/2026, 09:21 AM, +0000 UTC",
+      "iso_date": "2026-01-21T09:21:03Z"
+    },
+    {
+      "position": 28,
+      "title": "What Happened to Silicon Valley Bank?",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Evans Michael"
+        ]
+      },
+      "link": "https://www.investopedia.com/what-happened-to-silicon-valley-bank-7368676",
+      "thumbnail": "https://www.investopedia.com/thmb/Y6KyPETJB2652xJAxGZDDfQTEWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SVBfailure-a3dab0d9f71e462580a8f24f03c9ba0d.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBja0ZCTjFwaU1GYzFhakpOVFJERUF4aW1CU2dLTWdZWkJaU3BBUTA",
+      "date": "03/18/2023, 01:08 AM, +0000 UTC",
+      "iso_date": "2023-03-18T01:08:42Z"
+    },
+    {
+      "position": 29,
+      "title": "GOP Misleading Claims in Biden Impeachment Investigation",
+      "source": {
+        "name": "FactCheck.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.factcheck.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Robert Farley"
+        ]
+      },
+      "link": "https://www.factcheck.org/2023/12/gop-misleading-claims-in-biden-impeachment-investigation/",
+      "thumbnail": "https://cdn.factcheck.org/UploadedFiles/Hunter1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxWamRyTm1ORlVtNTNZa052VFJDMEFoalFCU2dLTWdZcFZvVHR1UVU",
+      "date": "12/14/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-12-14T08:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tatiana Bautzer",
+          "David Lawder"
+        ]
+      },
+      "link": "https://www.reuters.com/world/us-treasury-double-sizes-some-debt-buyback-operations-least-4-billion-2026-08-19/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/O3DLUYKAV5M7TMZLBAMPNINVOA.jpg?auth=9ec0ed7d5fa0ebf38480ebc447e5bf3a5d9f7772eb22217539fd36a528dbe65f&height=1500&width=1200&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtUMGwzVG5SRFNrUmxha2wwVFJEckJCanZBeWdLTWdhbFU1aXRvUWc",
+      "date": "08/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-19T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "“But what about Singapore?” Lessons from the best public housing program in the world",
+      "source": {
+        "name": "World Bank Blogs",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blogs.worldbank.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abhas Kumar Jha"
+        ]
+      },
+      "link": "https://blogs.worldbank.org/en/sustainablecities/what-about-singapore-lessons-best-public-housing-program-world",
+      "thumbnail": "https://blogs.worldbank.org/content/dam/sites/blogs/img/detail/mgr/singapore_contrast_lois_goh_world_bank.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDRPSGRpZUVSUE4waFlia2g1VFJDZkF4ampCU2dLTWdNQmdBQQ",
+      "date": "01/31/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-01-31T08:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Banking on Myanmar: A Strategy for Financial Sector Reform",
+      "source": {
+        "name": "Carnegie Endowment for International Peace",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://carnegieendowment.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vikram Nehru"
+        ]
+      },
+      "link": "https://carnegieendowment.org/research/2014/06/banking-on-myanmar-a-strategy-for-financial-sector-reform",
+      "thumbnail": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjEwMjM0Ni5qcGcifQ==",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVRMDFxVjBGTU1IWkxiRzlLVFJESUFoamRCQ2dLTWdrQk1JcUhvR1J5OXdB",
+      "date": "06/05/2014, 07:00 AM, +0000 UTC",
+      "iso_date": "2014-06-05T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "How Trump’s crackdown on law firms is undermining legal defenses for the vulnerable",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David G. Thomas",
+          "Kristina Cooke",
+          "Brad Heath"
+        ]
+      },
+      "link": "https://www.reuters.com/investigations/trumps-war-big-law-leads-firms-retreat-pro-bono-work-underdogs-2025-07-31/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/B754YQPFPFEI7EWOJZBHFGB3IM.jpg?auth=6c235075bced9bc7ecf8188e70a6b7056f5b608363114980ba1c670c6e1bc85d&width=1920&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJaalJFYTB0cGVtbENXRXg1VFJDLUF4aXZCU2dLTWdhUk1Zd3BJUWM",
+      "date": "07/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-31T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Twenty-Five Years of Indian Economic Reform",
+      "source": {
+        "name": "Cato Institute",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cato.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Swaminathan Aiyar"
+        ]
+      },
+      "link": "https://www.cato.org/policy-analysis/twenty-five-years-indian-economic-reform",
+      "thumbnail": "https://www.cato.org/sites/cato.org/files/styles/optimized/public/images/pubs/pa-803-table-8.png?itok=Ac3xg3TY",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUtlbGxZVm1KUlIzUjZUWGxXVFJDQ0F4aTdCQ2dLTWdzQkE0aklBYVU4Z0V2d1dn",
+      "date": "10/26/2016, 07:00 AM, +0000 UTC",
+      "iso_date": "2016-10-26T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Sovereign Wealth Funds: Corruption and Other Governance Risks",
+      "source": {
+        "name": "Carnegie Endowment for International Peace",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://carnegieendowment.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jodi Vittori",
+          "Lakshmi Kumar"
+        ]
+      },
+      "link": "https://carnegieendowment.org/research/2024/06/sovereign-wealth-funds-corruption-illicit-finance-governance-risks",
+      "thumbnail": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzIwMjQtU1dGLVZpdHRvcmktS3VtYXItY292ZXIucG5nIn0=",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlNVVJTWDBoU1ExUXdUREJ5VFJDV0JSalBBeWdLTWdhQnNJcXB6UVE",
+      "date": "06/26/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-06-26T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "10 Biggest Banks in the World",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nathan Reiff"
+        ]
+      },
+      "link": "https://www.investopedia.com/articles/investing/122315/worlds-top-10-banks-jpm-wfc.asp",
+      "thumbnail": "https://www.investopedia.com/thmb/SnhsIqdkkbFhvLLuUa8_bBRxYWY=/375x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1616692666-3f6a540fc72a412e84f817f886a3dd95.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpja3RsY25Sd1RWOVpORXN6VFJENkFSajNBaWdLTWdZbGdJeXdOQWM",
+      "date": "03/25/2017, 03:59 PM, +0000 UTC",
+      "iso_date": "2017-03-25T15:59:54Z"
+    },
+    {
+      "position": 37,
+      "title": "U.S. Government Bailouts: Impact and History",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marc Davis"
+        ]
+      },
+      "link": "https://www.investopedia.com/articles/economics/08/government-financial-bailout.asp",
+      "thumbnail": "https://cdn.jwplayer.com/v2/media/2KM8sCI2/poster.jpg?width=320",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjRVpTYkdOM2VYWm1NRXg1VFJDMEFSakFBaWdLTWdhSlFaTFdOQWM",
+      "date": "03/25/2017, 04:03 PM, +0000 UTC",
+      "iso_date": "2017-03-25T16:03:11Z"
+    },
+    {
+      "position": 38,
+      "title": "The Role of Financial Institutions: Key Insights into 8 Types",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Melissa Horton"
+        ]
+      },
+      "link": "https://www.investopedia.com/ask/answers/061615/what-are-major-categories-financial-institutions-and-what-are-their-primary-roles.asp",
+      "thumbnail": "https://www.investopedia.com/thmb/w7vFU-GIIvkfjNPHTShm_4FbyII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/What-are-major-categories-financial-Institutions-and-what-are-their-primary-roles_final-34b57c4bfa1b42c69159754479506fba.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURPWEJ6WkV0TU5FRnNZa2RCVFJESEF4aWlCU2dLTWdNQkVnNA",
+      "date": "03/25/2017, 06:54 AM, +0000 UTC",
+      "iso_date": "2017-03-25T06:54:32Z"
+    },
+    {
+      "position": 39,
+      "title": "Xanadu stock faces test as lockup set to lift for most investors",
+      "source": {
+        "name": "The Globe and Mail",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theglobeandmail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sean Silcoff"
+        ]
+      },
+      "link": "https://www.theglobeandmail.com/business/article-xanadu-stock-faces-test-as-lockup-set-to-lift-for-most-investors/",
+      "thumbnail": "https://www.theglobeandmail.com/resizer/v2/W2BUNA4OK5HNBKY275WQKIRPEU.JPG?auth=5384f57e9ea39a93956fecd4ac15a569465d620f25183c395c68bc3073f90fab&width=600&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNabkJmUkc5SFNDMDFaMEkyVFJDUUF4allCQ2dLTWdhcE01ak9HUW8",
+      "date": "09/20/2026, 08:20 PM, +0000 UTC",
+      "iso_date": "2026-09-20T20:20:34Z"
+    },
+    {
+      "position": 40,
+      "title": "Who owns the world? Tracing half the corporate giants’ shares to 30 owners",
+      "source": {
+        "name": "The Conversation",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "G Scott Murray, J.",
+          "David Peetz"
+        ]
+      },
+      "link": "https://theconversation.com/who-owns-the-world-tracing-half-the-corporate-giants-shares-to-30-owners-59963",
+      "thumbnail": "https://images.theconversation.com/files/163393/original/image-20170331-4576-r2yrsr.jpg?ixlib=rb-4.1.1&q=50&auto=format&w=768&h=512&fit=crop&dpr=2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHljRjl5ZVVrdFJqUm5lR1F6VFJDM0FSaVRBaWdCTWdhTlJJYU95UU0",
+      "date": "04/11/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-04-11T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Top 10 banks in India by market cap in 2025",
+      "source": {
+        "name": "Forbes India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.forbesindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.forbesindia.com/article/explainers/top-10-banks-india-by-market-cap/87913/1",
+      "thumbnail": "https://images.forbesindia.com/blog/wp-content/uploads//media/images/2023/Aug/img_217259_top10banksinindiabymarketcapitalisation.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFXbkEzYVdSTGVsSXRWVXRTVFJDZkF4ampCU2dLTWdhTk1ZS053UU0",
+      "date": "08/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-29T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "How a big US bank laundered billions from Mexico's murderous drug gangs",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ed Vulliamy"
+        ]
+      },
+      "link": "https://www.theguardian.com/world/2011/apr/03/us-bank-mexico-drug-gangs",
+      "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2011/4/1/1301681009143/Mexico-drugs-007.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5SazE2TTNGSFdEQXlPWGRrVFJDVUFoak1BeWdLTWdZbEpZak9GUW8",
+      "date": "04/02/2011, 07:00 AM, +0000 UTC",
+      "iso_date": "2011-04-02T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "How sustainable are India's public sector banks?",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stefania Palma"
+        ]
+      },
+      "link": "https://www.thebanker.com/content/02146909-232c-5b36-9338-f35495a5be41",
+      "date": "11/23/2015, 08:00 AM, +0000 UTC",
+      "iso_date": "2015-11-23T08:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "The Australian Financial System in the 2000s: Dodging the Bullet | Conference – 2011",
+      "source": {
+        "name": "rba.gov.au",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rba.gov.au/publications/confs/2011/davis.html",
+      "thumbnail": "https://www.rba.gov.au/publications/confs/2011/images/davis-figure-3.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJjRFp3WW1sMVRIUTBaREpmVFJDUUJCakZCQ2dLTWdZWkFvd3hvUWc",
+      "date": "12/20/2016, 10:16 AM, +0000 UTC",
+      "iso_date": "2016-12-20T10:16:50Z"
+    },
+    {
+      "position": 45,
+      "title": "SBI, other PSU banks rise amid latest merger buzz: What you need to know",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/stocks/psu-banks-merger-sbi-other-psu-banks-in-focus-on-latest-merger-buzz-what-you-need-to-know/article-184719/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/psubanksshares-nov.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRVWhPY3pCWVdrNUxPSFI0VFJEZ0F4aUFCU2dLTWdZWm9JanVRQVU",
+      "date": "11/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-16T08:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Privatisation in Australia | Bulletin – December 1997",
+      "source": {
+        "name": "rba.gov.au",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rba.gov.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rba.gov.au/publications/bulletin/1997/dec/2.html",
+      "thumbnail": "https://www.rba.gov.au/publications/bulletin/1997/dec/images/graph-1297-2-03.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWFaMmhsVW5KRFJ6SldSbEZ0VFJDRUJCalNCQ2dLTWdNWkFnUQ",
+      "date": "12/20/2016, 05:48 PM, +0000 UTC",
+      "iso_date": "2016-12-20T17:48:55Z"
+    },
+    {
+      "position": 47,
+      "title": "Government announces plan to merge 10 PSBs to 4 to gain size: Eight questions on big bank merger exercise",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dinesh Unnikrishnan"
+        ]
+      },
+      "link": "https://www.firstpost.com/business/government-announces-plan-to-merge-10-psbs-to-4-to-gain-size-eight-questions-on-big-bank-merger-exercise-7259991.html",
+      "thumbnail": "https://images.firstpost.com/wp-content/uploads/2018/09/Nirmala-PTI-380.jpg?im=Resize,width=720,aspect=fit,type=normal",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNVa2h1ZVUxcE5WbFdNRXRRVFJEZ0F4aUFCU2dLTWdB",
+      "date": "08/31/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-08-31T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Govt jobs are changing. PSU bank staff live in pressure cooker, 9-5 replaced by 24×7",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nootan Sharma"
+        ]
+      },
+      "link": "https://theprint.in/ground-reports/govt-jobs-psu-bank-staff-pressure-cooker-24x7/2297231/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2024/10/book-launch-5.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRNR3BDTkhoc1kyeEhjUzF1VFJDZkF4ampCU2dLTWdZQlVJQ24yQUU",
+      "date": "10/07/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-07T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Govt draws up mega bank merger plan; smaller lenders to be clubbed with big banks by FY27",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Meghna Mittal"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/economy/govt-draws-up-mega-bank-merger-plan-smaller-lenders-to-be-clubbed-with-big-banks-by-fy27-13617103.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2023/05/Central-bank-of-India.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNUakZEUjI1aWIwOUxWMXBwVFJDZkF4ampCU2dLTWdZQmdJWmxNQWM",
+      "date": "10/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-15T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "8 Years 8 Frauds, BJP government Failed!",
+      "source": {
+        "name": "inc.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://inc.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://inc.in/congress-sandesh/economy/8-years-8-frauds-bjp-government-failed",
+      "thumbnail": "https://res.cloudinary.com/dkplc2mbj/image/upload/v1656570545/CS_Sandesh_bc596c1742.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1jblpQTUZkVVVWWTRTME5sVFJDYUFoamFCU2dLTWdZaHBKQnROUVk",
+      "date": "12/18/2022, 04:30 AM, +0000 UTC",
+      "iso_date": "2022-12-18T04:30:28Z"
+    },
+    {
+      "position": 51,
+      "title": "Quantifying the UK Data Skills Gap - Full report",
+      "source": {
+        "name": "GOV.UK",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gov.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gov.uk/government/publications/quantifying-the-uk-data-skills-gap/quantifying-the-uk-data-skills-gap-full-report",
+      "thumbnail": "https://assets.publishing.service.gov.uk/media/6095432ae90e07357baa82c3/s960_foreward.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlRV1V4Ym5aS1JsUTVSVlpFVFJDM0FSaVRBaWdCTWdZaEo1Z3JtZ2s",
+      "date": "05/18/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-05-18T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Insights into Editorial: Big bank theory: On Public Sector Bank mergers",
+      "source": {
+        "name": "INSIGHTS IAS",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.insightsonindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.insightsonindia.com/2019/09/03/insights-into-editorial-big-bank-theory-on-public-sector-bank-mergers/",
+      "thumbnail": "https://www.insightsonindia.com/wp-content/uploads/2019/09/editorial.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpXWEJqU2xONFUzWlVWamw1VFJDcEF4aW9CU2dLTWdrQllJYVYwS1BJNlFF",
+      "date": "09/03/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-09-03T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Big win for Nedbank in deal to buy one of Africa’s largest banks for R13.9 billion",
+      "source": {
+        "name": "businesstech.co.za",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://businesstech.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Luke Fraser"
+        ]
+      },
+      "link": "https://businesstech.co.za/news/banking/851799/big-win-for-nedbank-in-deal-to-buy-africas-largest-bank-for-r13-9-billion/",
+      "thumbnail": "https://businesstech.co.za/news/wp-content/uploads/2023/11/Nedbank.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJhaTFuTW5kWFNWUnpPVlZ2VFJDZkF4ampCU2dLTWdhUkZJYW5sUW8",
+      "date": "02/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-23T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Nine big banks increase their profit share to nearly 90pc",
+      "source": {
+        "name": "Business Daily",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.businessdailyafrica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dominic Omondi"
+        ]
+      },
+      "link": "https://www.businessdailyafrica.com/bd/corporate/companies/nine-big-banks-increase-their-profit-share-to-nearly-90pc-5150158",
+      "thumbnail": "https://www.businessdailyafrica.com/resource/image/5150168/landscape_ratio3x2/1200/800/7d2f43d7c51c8cb7a409b58b0af5e030/fg/kenyancurrency.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVBaazF1VVd0cGRtNTBla3AzVFJERUF4aW1CU2dLTWdzQkFJYVJIR1NoTGVrZWln",
+      "date": "08/10/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-10T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "10 Biggest Banks in Australia: September 2026",
+      "source": {
+        "name": "Savings.com.au",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.savings.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dominic Beattie"
+        ]
+      },
+      "link": "https://www.savings.com.au/home-loans/who-are-the-biggest-banks-in-australia",
+      "thumbnail": "https://www.savings.com.au/dA/2d3b905e91/RBABig4Reaction1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtkMEpVUkROaU0xQjRiemcwVFJDMkF4aTlCU2dLTWdrQk1vYmx6T09oaGdJ",
+      "date": "05/05/2022, 11:29 PM, +0000 UTC",
+      "iso_date": "2022-05-05T23:29:51Z"
+    },
+    {
+      "position": 56,
+      "title": "Standard Bank CEO scores massive R83 million payday",
+      "source": {
+        "name": "businesstech.co.za",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://businesstech.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Luke Fraser"
+        ]
+      },
+      "link": "https://businesstech.co.za/news/banking/764877/standard-bank-ceo-scores-massive-r83-million-payday/",
+      "thumbnail": "https://businesstech.co.za/news/wp-content/uploads/2024/04/SIM-SBG-300x169.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlNVkJzUkU1bFRVbFVjRGsyVFJDcEFSaXNBaWdLTWdhbE5aYnNIUWs",
+      "date": "04/02/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-04-02T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

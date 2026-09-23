@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab3678f3f79f502f70dbb8e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3bnp2867Je75DA9wLhR2TTd9pJLVjdYjdybXeU6X5p4/6ab3678f3f79f502f70dbb8e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3bnp2867Je75DA9wLhR2TTd9pJLVjdYjdybXeU6X5p4/6ab3678f3f79f502f70dbb8e.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/3bnp2867Je75DA9wLhR2TTd9pJLVjdYjdybXeU6X5p4/6ab3678f3f79f502f70dbb8e.json_with_pixel_position",
+    "created_at": "2026-09-23 05:45:51 UTC",
+    "processed_at": "2026-09-23 05:45:51 UTC",
+    "google_url": "https://www.google.com/search?q=%22The+government+has+approved+the+massive+merger+of+nine+publi%22&oq=%22The+government+has+approved+the+massive+merger+of+nine+publi%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3bnp2867Je75DA9wLhR2TTd9pJLVjdYjdybXeU6X5p4/6ab3678f3f79f502f70dbb8e.html",
+    "total_time_taken": 19.79
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"The government has approved the massive merger of nine publi\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"The government has approved the massive merger of nine publi\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "y2sJ0niczVXblqI4FP2A-Y72xSq5aInWWqxeIYWKdygvpS8sLjGIIEpQyn6bf5mn-aT5mg54KbTV6u6HXpMHkpwkO-fknM3--x9vvlz899e_ThStyDPDxHFcwEGAPVSwAp8xyG5pMbPAI6HlfN1txWLOIiKbQ3Mx4NE3I0RtOdA9ti_3H1s9yQdBLj0i6qZBkEsR313C6Az9LL4UX-ikQApoWdhIExaGo66hkgLPctVCjzF8ugH8uaZCIAOAJYWOpZub6I6fAZMoAgVaZEzK4WQGewJggqeo6QzeQMYpWgKgSMkB2unTsCSB1hFLim86ArP30UlylQzTQNJI5z8TTSaGpMknTHh397V49gj0evlo6WRWZXCjwYtKGFL0CugowDkYLjImB9lZM_m87K-fgVIsl7TaXc_p6wxj6akFPk13DWhLfAhKgRE9KTE2ppXLMmZIO46ZW46VDkKSFDQcVNmg3pUaPecxbLyBiu4P5aEz2eH1hLQ7GmAsk-7zAsNGtu7o7Nd0zvHcE1stCpWHlEkWOVGJZKkEWvVilTXWAt8ptAsSd-QRPL38RcqSWoDKlcAkeNh6NcfSh_3j5WU5m4XW_k2St9wp4HR_ekQt71N9ympfARJWsqVwwk3OXePRvh3GKY_S4k7cCk7eZSPDlEYnB7NRda7y_dKmNo5WRdF-2Jj1SZEUTMNWT_DZBpMqV5xkcUgfuY0PDLTOMZLnUc9cxWnksH4Z2JGTmWvmFCklhvsKkuoPmkmOpQQQ7k8caT8Ee3MmmBv_vgWIQfM-32815ZP_xOHmI2Eu6j_LmxqSzREYyIAM2kZt0y66Y0F9FPRxB8XXeRL45i9ojvW_YtJRkVrp2m0mJXXzKZNo8St3FSkdHxSpuWcSxDeZlErSD4rUu6pI5xUFgfbBpJZ2V5F-nUnwLpPwIdIrTKKKdI1Ji1tMShXpnElORT1TpLO4PxTpxKTfUST4e4qUEgvtu3N52rj4tky9PjqR13A46pxWhjH3plmC3IvWpI8_lamZHz37hu096HP7WeKb0c5-0KkheEZ2bi1-4fmBg_I42KJw6aNllHcMkjdWq5Ba7HxE13yDkPmW9ijEKMwHs_xyvkT51cb05vR4zvfCQGQNoaiXu81iI36qg0W5z1ns68iUq7XKpgadN_4FvfM9ZSq40yEfumA6K2ubsfZtNkVuAIVZeTrqzkfAfZ-VSrvqBrXdkTrgtsNJP4pHq3W5WDTWXr28Gj2xTc8Y98Ak0CfCYuC_Tt-bXc7VBMuqT1-mbmCSJmh0XLP_xqqpb0T027NNpbhejDo4R0MnSORyfmiJNIslDLoqGGPJAnBCqY7B0AhoHwO1XgaqLOWIZeiIbEWBsznbNAWDfWJ5uyrkfBztVmKplCPLUOS-A5JuSfM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y2sJ0niczVXblqI4FP2A-Y72xSq5aInWWqxeIYWKdygvpS8sLjGIIEpQyn6bf5mn-aT5mg54KbTV6u6HXpMHkpwkO-fknM3--x9vvlz899e_ThStyDPDxHFcwEGAPVSwAp8xyG5pMbPAI6HlfN1txWLOIiKbQ3Mx4NE3I0RtOdA9ti_3H1s9yQdBLj0i6qZBkEsR313C6Az9LL4UX-ikQApoWdhIExaGo66hkgLPctVCjzF8ugH8uaZCIAOAJYWOpZub6I6fAZMoAgVaZEzK4WQGewJggqeo6QzeQMYpWgKgSMkB2unTsCSB1hFLim86ArP30UlylQzTQNJI5z8TTSaGpMknTHh397V49gj0evlo6WRWZXCjwYtKGFL0CugowDkYLjImB9lZM_m87K-fgVIsl7TaXc_p6wxj6akFPk13DWhLfAhKgRE9KTE2ppXLMmZIO46ZW46VDkKSFDQcVNmg3pUaPecxbLyBiu4P5aEz2eH1hLQ7GmAsk-7zAsNGtu7o7Nd0zvHcE1stCpWHlEkWOVGJZKkEWvVilTXWAt8ptAsSd-QRPL38RcqSWoDKlcAkeNh6NcfSh_3j5WU5m4XW_k2St9wp4HR_ekQt71N9ympfARJWsqVwwk3OXePRvh3GKY_S4k7cCk7eZSPDlEYnB7NRda7y_dKmNo5WRdF-2Jj1SZEUTMNWT_DZBpMqV5xkcUgfuY0PDLTOMZLnUc9cxWnksH4Z2JGTmWvmFCklhvsKkuoPmkmOpQQQ7k8caT8Ee3MmmBv_vgWIQfM-32815ZP_xOHmI2Eu6j_LmxqSzREYyIAM2kZt0y66Y0F9FPRxB8XXeRL45i9ojvW_YtJRkVrp2m0mJXXzKZNo8St3FSkdHxSpuWcSxDeZlErSD4rUu6pI5xUFgfbBpJZ2V5F-nUnwLpPwIdIrTKKKdI1Ji1tMShXpnElORT1TpLO4PxTpxKTfUST4e4qUEgvtu3N52rj4tky9PjqR13A46pxWhjH3plmC3IvWpI8_lamZHz37hu096HP7WeKb0c5-0KkheEZ2bi1-4fmBg_I42KJw6aNllHcMkjdWq5Ba7HxE13yDkPmW9ijEKMwHs_xyvkT51cb05vR4zvfCQGQNoaiXu81iI36qg0W5z1ns68iUq7XKpgadN_4FvfM9ZSq40yEfumA6K2ubsfZtNkVuAIVZeTrqzkfAfZ-VSrvqBrXdkTrgtsNJP4pHq3W5WDTWXr28Gj2xTc8Y98Ak0CfCYuC_Tt-bXc7VBMuqT1-mbmCSJmh0XLP_xqqpb0T027NNpbhejDo4R0MnSORyfmiJNIslDLoqGGPJAnBCqY7B0AhoHwO1XgaqLOWIZeiIbEWBsznbNAWDfWJ5uyrkfBztVmKplCPLUOS-A5JuSfM"
+  }
+}

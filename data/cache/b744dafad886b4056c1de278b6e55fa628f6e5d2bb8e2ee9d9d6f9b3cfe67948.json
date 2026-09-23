@@ -1,0 +1,285 @@
+{
+  "search_metadata": {
+    "id": "6ab36666c75443eacc392e6e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tYIwQa9du0kFa1KAfL1wvK45AraHz8boeom_i8LWgfM/6ab36666c75443eacc392e6e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tYIwQa9du0kFa1KAfL1wvK45AraHz8boeom_i8LWgfM/6ab36666c75443eacc392e6e.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/tYIwQa9du0kFa1KAfL1wvK45AraHz8boeom_i8LWgfM/6ab36666c75443eacc392e6e.json_with_pixel_position",
+    "created_at": "2026-09-23 05:40:54 UTC",
+    "processed_at": "2026-09-23 05:40:54 UTC",
+    "google_url": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+before%3A2026-01-01&oq=tata+sons+trusts+dispute+escalating+newly+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/tYIwQa9du0kFa1KAfL1wvK45AraHz8boeom_i8LWgfM/6ab36666c75443eacc392e6e.html",
+    "total_time_taken": 43.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "tata sons trusts dispute escalating newly before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "tata sons trusts dispute escalating newly before:2026-01-01",
+    "total_results": 24,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "6LjOLXiczVVbcuI4FF3ArGP4IcEPHjapcnVJwoBweJiEkPSPy9hGNhhMLIND__UqZgOzql5NywYcQwNJ98fUqChkydLRPbr3-Hz_1_eW8x9__eNG0YrecVwcxyUSBMR3Slaw4Ey6XVrcNPBpaLlfthulXLCowhccT5mPzW8mFas968Gp9oKBPPCsmo4L6RbFmJjUmTHEtxnlDI79zf8uN9igREvOsrSGLzwKn3qmTksiL9RLfc5csAXgv2s6AioABGL2DC8uYis-AwYZAgOa56bwfmcO-wWgBA_r6QhdQCYpWgKAYbKBdcbXsAKBdsCC8cVAUP48NkiOUlFKJGXqfYZNjkPS1AwTXV19js8OgR2vHma6ubcquNDQSSWMGLoMuhi4-4mTjKlBftRJ_hq746egEquVYfNq5Ox2RjGsauDDdDfBcEn2pDCK2E7I2YRVLs9NQtYJnGe5VvoQ0qSg0WOdD1o92O67t2H7GcjGYqSO3JcteX2h990h4KwJW-cHpu3YhmvwX9KxIApVvl6W5JtUSRbNpETzUgJaq1znzVdJ7JbuS1A46AhlN3-SsqQWED5DDKL90nM5JqyODvPvN6-q-SxouztJ7lLEIDs_3aLX0lS_Z3WAASQ4XwoZbrLvnI72kWSsiJ4WdxJWkEWdZ0aYjLIA86y6Z_V-Oqe3swgw_GVhPiYMMWG09Qw-31BS5dhNXo7YJd-TvQKtPAYGqg4OAOjANGGOWqfEDprMHeMxpFQYsweQVH_QSXIME0C023GQ_QjspnNkLnz7KIhB57reLzX8wXdif_JBMCf1f6SbyWtvKneM9uihsrFqvecn36BfybfHST8-r5NgMfkNz7H-V0o6OJKWvrusJPIZJbHix1cdKX3eOZLe2SkJkYtKSi3pF0fqn3Wk44pCYPiuJA1edaTfVxK6qiSyZ3pGScyRzilpfklJ6Y0fK8mV9SNHOuL97kiZkv7EkdCfOVIqLGfXHdvTekYu2lRzW7ZWDVst41FbW6kNYo_1eoRMoTyMP7Sp6SK6W5i2f2N49h0UO9HWvjHYRHDn2IVXJTIjs0iDJS1G4ZpGtGh7dLWOnKJDLdM3I29Jiksn9rfFiTMNQudO5MXaLS-wX2Hhh4HCm5KL5A3p1NpThNZQrUW22a9hXuo49yPJpX2vj6Su_FZ3mvNyc3zb97uNZtx4Xgj9QSiarfmmO7zdPIrllqC3ByKAlUA1-EdqTZ3Jg-DOxtZGa5Jn6FXxtGbVnxoyiLTHQPbXTrvZtMPx7FaDb2htxVgLl2WDpHFRxYslcR7LsxDhwiK0FJayCgE9HYwJq030wnRNwMgMWB8DvVUDugoLjLTh0I0iCbZgTyaSyVd50a5LhQWJtiulzhfoMlSEn61cQrg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6LjOLXiczVVbcuI4FF3ArGP4IcEPHjapcnVJwoBweJiEkPSPy9hGNhhMLIND__UqZgOzql5NywYcQwNJ98fUqChkydLRPbr3-Hz_1_eW8x9__eNG0YrecVwcxyUSBMR3Slaw4Ey6XVrcNPBpaLlfthulXLCowhccT5mPzW8mFas968Gp9oKBPPCsmo4L6RbFmJjUmTHEtxnlDI79zf8uN9igREvOsrSGLzwKn3qmTksiL9RLfc5csAXgv2s6AioABGL2DC8uYis-AwYZAgOa56bwfmcO-wWgBA_r6QhdQCYpWgKAYbKBdcbXsAKBdsCC8cVAUP48NkiOUlFKJGXqfYZNjkPS1AwTXV19js8OgR2vHma6ubcquNDQSSWMGLoMuhi4-4mTjKlBftRJ_hq746egEquVYfNq5Ox2RjGsauDDdDfBcEn2pDCK2E7I2YRVLs9NQtYJnGe5VvoQ0qSg0WOdD1o92O67t2H7GcjGYqSO3JcteX2h990h4KwJW-cHpu3YhmvwX9KxIApVvl6W5JtUSRbNpETzUgJaq1znzVdJ7JbuS1A46AhlN3-SsqQWED5DDKL90nM5JqyODvPvN6-q-SxouztJ7lLEIDs_3aLX0lS_Z3WAASQ4XwoZbrLvnI72kWSsiJ4WdxJWkEWdZ0aYjLIA86y6Z_V-Oqe3swgw_GVhPiYMMWG09Qw-31BS5dhNXo7YJd-TvQKtPAYGqg4OAOjANGGOWqfEDprMHeMxpFQYsweQVH_QSXIME0C023GQ_QjspnNkLnz7KIhB57reLzX8wXdif_JBMCf1f6SbyWtvKneM9uihsrFqvecn36BfybfHST8-r5NgMfkNz7H-V0o6OJKWvrusJPIZJbHix1cdKX3eOZLe2SkJkYtKSi3pF0fqn3Wk44pCYPiuJA1edaTfVxK6qiSyZ3pGScyRzilpfklJ6Y0fK8mV9SNHOuL97kiZkv7EkdCfOVIqLGfXHdvTekYu2lRzW7ZWDVst41FbW6kNYo_1eoRMoTyMP7Sp6SK6W5i2f2N49h0UO9HWvjHYRHDn2IVXJTIjs0iDJS1G4ZpGtGh7dLWOnKJDLdM3I29Jiksn9rfFiTMNQudO5MXaLS-wX2Hhh4HCm5KL5A3p1NpThNZQrUW22a9hXuo49yPJpX2vj6Su_FZ3mvNyc3zb97uNZtx4Xgj9QSiarfmmO7zdPIrllqC3ByKAlUA1-EdqTZ3Jg-DOxtZGa5Jn6FXxtGbVnxoyiLTHQPbXTrvZtMPx7FaDb2htxVgLl2WDpHFRxYslcR7LsxDhwiK0FJayCgE9HYwJq030wnRNwMgMWB8DvVUDugoLjLTh0I0iCbZgTyaSyVd50a5LhQWJtiulzhfoMlSEn61cQrg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "a single-arm, phase 1b and randomised, phase 2 trial",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/34672961/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVyf7HiSBf5gpZ8Npz02hVAMO9ePCIDvWZpxvM0RiQ_Q5j5ElMe0Mjd4Z6FZf9QVD-GEKTCZWSWwBR9tMnvzYGJw69VBzWfgX6XohBjY6Z_vUv1jineAyWAUComQs&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "author": "by CD DiNardo",
+      "snippet": "We evaluated the safety and activity of enasidenib plus azacitidine versus azacitidine alone in patients with newly diagnosed, mutant-IDH2 acute myeloid ...",
+      "snippet_highlighted_words": [
+        "newly"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We evaluated the safety and activity of enasidenib plus azacitidine versus azacitidine alone in patients with newly diagnosed, mutant-IDH2 acute myeloid ...",
+          "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/34672961/",
+          "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASocABwAPtEutFooIagoGAEAGglqAMitAAZ4Jl_dAKyYiryPMWSx2JIZFiNPqeWP8LReWgAA_vQSh8balF9FPssL40xpXuZr-cohY6Dgm-GCPcw9Be2M8Tr4fajRDEe64L6D3425b_KycCBqO3zbdPz_M-o8snUv4Z8hpHcWbDv3llFfvvnqsQ_fr4s4-fhNtGM1R0r2geRp4qx5cmxTSmQ3Adt5msKjZn_khO8pTQ2_Z6XXXuwfx386puZGaUTZCdt7kTO9wFSJBqhaaa9o2SGg_pRUeh5BpEZYsoLnzNOR2o0gq9pzLwLJTMk9WyH-SoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVnlmN0hpU0JmNWdwWjhOcHowMmhWQU1POWVQQ0lEdldacHh2TTBSaVFfUTVqNUVsTWUwTWpkNFo2RlpmOVFWRC1HRUtUQ1pXU1d3QlI5dE1udnpZR0p3NjlWQnpXZmdYNlhvaEJqWTZaX3ZVdjFqaW5lQXlXQVVDb21RcxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVnlmN0hpU0JmNWdwWjhOcHowMmhWQU1POWVQQ0lEdldacHh2TTBSaVFfUTVqNUVsTWUwTWpkNFo2RlpmOVFWRC1HRUtUQ1pXU1d3QlI5dE1udnpZR0p3NjlWQnpXZmdYNlhvaEJqWTZaX3ZVdjFqaW5lQXlXQVVDb21RcxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pubmed.ncbi.nlm.nih.gov/34672961/#:~:text=We%20evaluated%20the%20safety%20and,leukaemia%20ineligible%20for%20intensive%20chemotherapy."
+    },
+    {
+      "position": 2,
+      "title": "Newly Admitted Students | California State University ...",
+      "link": "https://www.csulb.edu/admissions/newly-admitted-students",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVBzO4da6so4fpRWWv7y2Gp0UMr5_f-2x1GtJM6xYrexQWjVAM5YuRb3wd4IdTfxGLqXWfzYSiYbF_hDGMvwAoSi0atEjOxp-v8GD2KGRC2gBm-oW7u-36V2mF5KNlkRW0mqSdyGaith37Zms&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://www.csulb.edu › admissions › newly-admitted-st...",
+      "snippet": "Steps for Newly-Admitted Students. Select a category below to review important steps that you will need to complete as a newly-admitted student. Remember ...",
+      "snippet_highlighted_words": [
+        "Newly",
+        "newly"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Steps for Newly-Admitted Students. Select a category below to review important steps that you will need to complete as a newly-admitted student. Remember ...",
+          "source_info_link": "https://www.csulb.edu/admissions/newly-admitted-students",
+          "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAAAQBwCdASocABwAPrUurVanIacnG_DgFolpAAzw34ZqPpnHjx-kiJuMhTZdKG0IiXzJ1f-e_YoYAqusxEyBtCWXAAD--cit6jOeVtqLgxXR_tyo3ru_J0VxJPCl817EC_u43psrDFuKx0OXEaVI0dqWnIDjnXpnhAZBjKif1DA1k_wq3b3AXRlaRc9e7o4w9LO-x9KlnKMNwHXkkm4SG0V1AWDNOC983iHxIwem0XZr2wvC8T3AD6Wv_BJYr7LIn378fopWFFOHUvyMiLRwHyfOXjqF9cVhTV8uPOU4NAxWLzh0r9SxV8SSJk8aTdYJPoXL_FjHS6EZffKocJ1NG9dE5SrhWZ1wDHZ8RPoWSTtYUGgX9Vy6mmUA_qHzQ3UkUsiiOFY3jdPNE2NR6ufJpAgDnNLFS-AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkJ6TzRkYTZzbzRmcFJXV3Y3eTJHcDBVTXI1X2YtMngxR3RKTTZ4WXJleFFXalZBTTVZdVJiM3dkNElkVGZ4R0xxWFdmellTaVliRl9oREdNdndBb1NpMGF0RWpPeHAtdjhHRDJLR1JDMmdCbS1vVzd1LTM2VjJtRjVLTmxrUlcwbXFTZHlHYWl0aDM3Wm1zEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkJ6TzRkYTZzbzRmcFJXV3Y3eTJHcDBVTXI1X2YtMngxR3RKTTZ4WXJleFFXalZBTTVZdVJiM3dkNElkVGZ4R0xxWFdmellTaVliRl9oREdNdndBb1NpMGF0RWpPeHAtdjhHRDJLR1JDMmdCbS1vVzd1LTM2VjJtRjVLTmxrUlcwbXFTZHlHYWl0aDM3Wm1zEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "California State University, Long Beach",
+      "read_more_link": "https://www.csulb.edu/admissions/newly-admitted-students#:~:text=Steps%20for%20Newly%2DAdmitted%20Students,admission%20offers%20are%20considered%20provisional."
+    },
+    {
+      "position": 3,
+      "title": "Opinion | It's Time to Break Up Facebook",
+      "link": "https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFYZMODkkPqJbH_tKIyRFRbmRCEVTlrOd936vL5L3DMGp0RCqTW0d9Dr2jeRL1Ol_f0t3V-ZLX_2sZVbAP5G-oUDCzzK9daDLQIBHvj-ciCBtqScEhh6DBnDRaD3kLwMW_JuJg_H7GiuuEd1xciwcVcKlPl0kfVY7DmUQ5BRUCjk8p5mt3LekYv0swg&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › opinion › sunday › chris-hu...",
+      "snippet": "The company's mistakes — the sloppy privacy practices that dropped tens of millions of users' data into a political consulting firm's lap; the slow response to ...",
+      "about_this_result": {
+        "source": {
+          "description": "The company's mistakes — the sloppy privacy practices that dropped tens of millions of users' data into a political consulting firm's lap; the slow response to ...",
+          "source_info_link": "https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZZWk1PRGtrUHFKYkhfdEtJeVJGUmJtUkNFVlRsck9kOTM2dkw1TDNETUdwMFJDcVRXMGQ5RHIyamVSTDFPbF9mMHQzVi1aTFhfMnNaVmJBUDVHLW9VREN6eks5ZGFETFFJQkh2ai1jaUNCdHFTY0VoaDZEQm5EUmFEM2tMd01XX0p1SmdfSDdHaXV1RWQxeGNpd2NWY0tsUGwwa2ZWWTdEbVVRNUJSVUNqazhwNW10M0xla1l2MHN3ZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZZWk1PRGtrUHFKYkhfdEtJeVJGUmJtUkNFVlRsck9kOTM2dkw1TDNETUdwMFJDcVRXMGQ5RHIyamVSTDFPbF9mMHQzVi1aTFhfMnNaVmJBUDVHLW9VREN6eks5ZGFETFFJQkh2ai1jaUNCdHFTY0VoaDZEQm5EUmFEM2tMd01XX0p1SmdfSDdHaXV1RWQxeGNpd2NWY0tsUGwwa2ZWWTdEbVVRNUJSVUNqazhwNW10M0xla1l2MHN3ZxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html#:~:text=The%20company's%20mistakes%20%E2%80%94%20the,lap%3B%20the%20slow%20response%20to"
+    },
+    {
+      "position": 4,
+      "title": "Nuuly: Clothing Rental",
+      "link": "https://www.nuuly.com/?srsltid=AU7gw4ULT5xC3NlsWL411BzSuUj1f8JAPDmaQw4TGQVb-gfjR4gsKDAx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFdLMsXFa5ULHhNwUm-BXUtN2ZzcSLhqDNZ7NQJ5yhGYu5MFMxmIBAXWDsfZgL2S0EUUPA-yl5jXaC1rhglJJpyHxWSriOODY-hk9L9Fs7_fAafsKye2J-L4QUAUG7-vVmNczp3FRyHbJwTY7LyP2I8k356UA2y_ICzon7sTpm3KJiUlpZEd0LRVCxA&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://www.nuuly.com",
+      "snippet": "Rent, resell & thrift clothes online in ways that are gentler on the planet & your wallet.",
+      "about_this_result": {
+        "source": {
+          "description": "Rent, resell & thrift clothes online in ways that are gentler on the planet & your wallet.",
+          "source_info_link": "https://www.nuuly.com/?srsltid=AU7gw4ULT5xC3NlsWL411BzSuUj1f8JAPDmaQw4TGQVb-gfjR4gsKDAx",
+          "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAADwBACdASocABwAPtFAtFooIqgoFAEAGglsALsBp5WgoNj5EV36kku5Wy835VuciGAA_vwQdejb4XBCyRak-ArWeExy4yLHYA04qmtILKfbfJ7PYCshy3Mqu0asvShwdnzqd52W5jzBw9OPpSfe8xpE_0Pw7fEGNyZd2MKoRluO-XiDwthJiQ-9fyq97wrbyp_whMelrnnypGOSTQ2AXocbduXb-XQjAcXipyp0n_GSpDdrviCXvdbFsjbdbk9QAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZkTE1zWEZhNVVMSGhOd1VtLUJYVXROMlp6Y1NMaHFETlo3TlFKNXloR1l1NU1GTXhtSUJBWFdEc2ZaZ0wyUzBFVVVQQS15bDVqWGFDMXJoZ2xKSnB5SHhXU3JpT09EWS1oazlMOUZzN19mQWFmc0t5ZTJKLUw0UVVBVUc3LXZWbU5jenAzRlJ5SGJKd1RZN0x5UDJJOGszNTZVQTJ5X0lDem9uN3NUcG0zS0ppVWxwWkVkMExSVkN4QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZkTE1zWEZhNVVMSGhOd1VtLUJYVXROMlp6Y1NMaHFETlo3TlFKNXloR1l1NU1GTXhtSUJBWFdEc2ZaZ0wyUzBFVVVQQS15bDVqWGFDMXJoZ2xKSnB5SHhXU3JpT09EWS1oazlMOUZzN19mQWFmc0t5ZTJKLUw0UVVBVUc3LXZWbU5jenAzRlJ5SGJKd1RZN0x5UDJJOGszNTZVQTJ5X0lDem9uN3NUcG0zS0ppVWxwWkVkMExSVkN4QRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Nuuly"
+    },
+    {
+      "position": 5,
+      "title": "I Am Newly Diagnosed",
+      "link": "https://reframingautism.org.au/service/i-am-newly-diagnosed/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVQD0iOWxskNub78eiWSM176YPOVnfT0COvlgLte4_LbsLuqKyJOQZOQ2mRxn5KHEHHK0MsCreoQ2gtrSghc9UBRw1OwuQ3h3ujAMD60IPDFtNiFlKZdeByQ1mv26F92EevAeChiJkIlJk2THJVGc_&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://reframingautism.org.au › service › i-am-newly-d...",
+      "snippet": "A new Autism diagnosis (or the epiphany that you are Autistic) can be very validating. Some Autists describe it as feeling like “finally coming home to myself”.",
+      "snippet_highlighted_words": [
+        "new"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A new Autism diagnosis (or the epiphany that you are Autistic) can be very validating. Some Autists describe it as feeling like “finally coming home to myself”.",
+          "source_info_link": "https://reframingautism.org.au/service/i-am-newly-diagnosed/",
+          "icon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAACwCACdASocABwAPrUurVanIacnG_DgFolsAKwyg8QfIDbAbhPeJd4yrkSqX0gaT6aB43VzHb06WslUAooWGpPcXHmQOqoxXlnnygtGmSAA_vi4x6PjqP_ufbuXO3XubF61fqMaulLkunPIuu48IaioFJzhIsVXV5AuQYTJpgpknpA8EVNnVozdYAxFoi6xOAtrOeRDXtIjEOnhoQsfdbiXvT-DMfrLuMRsN4KW_Ah_sok6I7_pmhxIYSx4cyVJfIFXL-1-VJbKJxGZnFaOwtyC7VsnHUbotJq8rRZep4V77KH2lhTwjSFAb_Ktsggn4E5Ewf5ah_vrrYMupeLw1mghhsnguTCUU3v0ss_42Xf6sBWgFknl_qOl-xcrYvdd9Yn3sr3N1kqdtQGIFeqqLXjbj4RMMuX-xvOPb6tf46jGyar10kXzJ9CDqB8TQNB1HvBBAtOcbrvTcl66ULweV51idExQWcnuq5J6fEYwAFQ_86I8lEMsuHY4zAOtPq92cPxPBV--VlWXZ1vQRWhk-UtOKEbpT9O6Pgl2RTc633YOXKQzRscrwYejyrT2pxw5t5uf6f9P91uZL0fJf3Sxj5rCtHsGv3AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlFEMGlPV3hza051Yjc4ZWlXU00xNzZZUE9WbmZUMENPdmxnTHRlNF9MYnNMdXFLeUpPUVpPUTJtUnhuNUtIRUhISzBNc0NyZW9RMmd0clNnaGM5VUJSdzFPd3VRM2gzdWpBTUQ2MElQREZ0TmlGbEtaZGVCeVExbXYyNkY5MkVldkFlQ2hpSmtJbEprMlRISlZHY18SBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlFEMGlPV3hza051Yjc4ZWlXU00xNzZZUE9WbmZUMENPdmxnTHRlNF9MYnNMdXFLeUpPUVpPUTJtUnhuNUtIRUhISzBNc0NyZW9RMmd0clNnaGM5VUJSdzFPd3VRM2gzdWpBTUQ2MElQREZ0TmlGbEtaZGVCeVExbXYyNkY5MkVldkFlQ2hpSmtJbEprMlRISlZHY18SBBoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Reframing Autism",
+      "read_more_link": "https://reframingautism.org.au/service/i-am-newly-diagnosed/#:~:text=A%20new%20Autism%20diagnosis%20(or,%E2%80%9Cfinally%20coming%20home%20to%20myself%E2%80%9D."
+    },
+    {
+      "position": 6,
+      "title": "impact of professional-bureaucratic work conflict on newly ...",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/16866842/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAV3FKlcBNNTizG7eoxkdWqPMlu6TxjNTwbmIRBJAWqmeWpG-vayays-jGc9tXarj4G2ie3Fay7XfK_ctf_bOAa8jwtuur364c9qr47oSx_TQ-QGJQXOzQO16LWJi0&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "author": "by J Maben",
+      "snippet": "Aim: This paper reports the findings from a naturalistic enquiry undertaken in the United Kingdom into the extent to which the ideals and values of the ...",
+      "about_this_result": {
+        "source": {
+          "description": "Aim: This paper reports the findings from a naturalistic enquiry undertaken in the United Kingdom into the extent to which the ideals and values of the ...",
+          "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/16866842/",
+          "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASocABwAPtEutFooIagoGAEAGglqAMitAAZ4Jl_dAKyYiryPMWSx2JIZFiNPqeWP8LReWgAA_vQSh8balF9FPssL40xpXuZr-cohY6Dgm-GCPcw9Be2M8Tr4fajRDEe64L6D3425b_KycCBqO3zbdPz_M-o8snUv4Z8hpHcWbDv3llFfvvnqsQ_fr4s4-fhNtGM1R0r2geRp4qx5cmxTSmQ3Adt5msKjZn_khO8pTQ2_Z6XXXuwfx386puZGaUTZCdt7kTO9wFSJBqhaaa9o2SGg_pRUeh5BpEZYsoLnzNOR2o0gq9pzLwLJTMk9WyH-SoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVjNGS2xjQk5OVGl6Rzdlb3hrZFdxUE1sdTZUeGpOVHdibUlSQkpBV3FtZVdwRy12YXlheXMtakdjOXRYYXJqNEcyaWUzRmF5N1hmS19jdGZfYk9BYThqd3R1dXIzNjRjOXFyNDdvU3hfVFEtUUdKUVhPelFPMTZMV0ppMBIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVjNGS2xjQk5OVGl6Rzdlb3hrZFdxUE1sdTZUeGpOVHdibUlSQkpBV3FtZVdwRy12YXlheXMtakdjOXRYYXJqNEcyaWUzRmF5N1hmS19jdGZfYk9BYThqd3R1dXIzNjRjOXFyNDdvU3hfVFEtUUdKUVhPelFPMTZMV0ppMBIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pubmed.ncbi.nlm.nih.gov/16866842/#:~:text=Aim%3A%20This%20paper%20reports%20the,individual%20newly%20educated%20Registered%20Nurses."
+    },
+    {
+      "position": 7,
+      "title": "Coming Out as a Modern Family (Updated With Podcast)",
+      "link": "https://www.nytimes.com/2013/12/01/fashion/coming-out-as-a-modern-family-modern-love.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFeQGVfhwrIeZYylchInzFRwWGZbLv6aBCc0r36bYtXcF3Iu6CNDPDUFa1AcsU-hzg9oeGJ0qCSv83ilBvverA-G8X8-MsyxcDFd9KMIiSkn8qGqQzdX9FgA0oSEAFHp9GPNIq3qhVOS3zzgxkswQBavXoiFgIVJppLQ268oIGm2T8k2kpx2PzNHD1-vA&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › 2013/12/01 › fashion › co...",
+      "snippet": "UPDATED: You can now hear this essay read by the actress and writer Maria Bello in Modern Love: The Podcast. Look for the “play” button below or subscribe ...",
+      "about_this_result": {
+        "source": {
+          "description": "UPDATED: You can now hear this essay read by the actress and writer Maria Bello in Modern Love: The Podcast. Look for the “play” button below or subscribe ...",
+          "source_info_link": "https://www.nytimes.com/2013/12/01/fashion/coming-out-as-a-modern-family-modern-love.html",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZlUUdWZmh3ckllWll5bGNoSW56RlJ3V0daYkx2NmFCQ2MwcjM2Yll0WGNGM0l1NkNORFBEVUZhMUFjc1UtaHpnOW9lR0owcUNTdjgzaWxCdnZlckEtRzhYOC1Nc3l4Y0RGZDlLTUlpU2tuOHFHcVF6ZFg5RmdBMG9TRUFGSHA5R1BOSXEzcWhWT1MzenpneGtzd1FCYXZYb2lGZ0lWSnBwTFEyNjhvSUdtMlQ4azJrcHgyUHpOSEQxLXZBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZlUUdWZmh3ckllWll5bGNoSW56RlJ3V0daYkx2NmFCQ2MwcjM2Yll0WGNGM0l1NkNORFBEVUZhMUFjc1UtaHpnOW9lR0owcUNTdjgzaWxCdnZlckEtRzhYOC1Nc3l4Y0RGZDlLTUlpU2tuOHFHcVF6ZFg5RmdBMG9TRUFGSHA5R1BOSXEzcWhWT1MzenpneGtzd1FCYXZYb2lGZ0lWSnBwTFEyNjhvSUdtMlQ4azJrcHgyUHpOSEQxLXZBEgQaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/2013/12/01/fashion/coming-out-as-a-modern-family-modern-love.html#:~:text=UPDATED%3A%20You%20can%20now%20hear,subscribe%20on%20iTunes%20or%20Stitcher."
+    },
+    {
+      "position": 8,
+      "title": "Opinion | George Clooney: I Love Joe Biden. But We Need ...",
+      "link": "https://www.nytimes.com/2024/07/10/opinion/joe-biden-democratic-nominee.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFSogTPTyDonce2gOAI0HBhmWMapmVcmOigJMioTl4hCNQA0vpIUZGARnuxXLiE6LrZIsLum7IJA01iGcVnLsYzcQHntaCkzuRqu5ot5AWev2opILTTB3oVYAG-U3FpK1YWSivz3H7I1QVOiqTkdFvTTFuVYuGKooQlOo2yfw2zc&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › 2024/07/10 › opinion › joe...",
+      "snippet": "I saw Biden three weeks ago at my fund-raiser for him. It's devastating to say it, but he is not the same man he was, and he won't win this fall.",
+      "about_this_result": {
+        "source": {
+          "description": "I saw Biden three weeks ago at my fund-raiser for him. It's devastating to say it, but he is not the same man he was, and he won't win this fall.",
+          "source_info_link": "https://www.nytimes.com/2024/07/10/opinion/joe-biden-democratic-nominee.html",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZTb2dUUFR5RG9uY2UyZ09BSTBIQmhtV01hcG1WY21PaWdKTWlvVGw0aENOUUEwdnBJVVpHQVJudXhYTGlFNkxyWklzTHVtN0lKQTAxaUdjVm5Mc1l6Y1FIbnRhQ2t6dVJxdTVvdDVBV2V2Mm9wSUxUVEIzb1ZZQUctVTNGcEsxWVdTaXZ6M0g3STFRVk9pcVRrZEZ2VFRGdVZZdUdLb29RbE9vMnlmdzJ6YxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZTb2dUUFR5RG9uY2UyZ09BSTBIQmhtV01hcG1WY21PaWdKTWlvVGw0aENOUUEwdnBJVVpHQVJudXhYTGlFNkxyWklzTHVtN0lKQTAxaUdjVm5Mc1l6Y1FIbnRhQ2t6dVJxdTVvdDVBV2V2Mm9wSUxUVEIzb1ZZQUctVTNGcEsxWVdTaXZ6M0g3STFRVk9pcVRrZEZ2VFRGdVZZdUdLb29RbE9vMnlmdzJ6YxIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "The New York Times"
+    },
+    {
+      "position": 9,
+      "title": "In situ visualization and dynamics of newly ... - PubMed",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/20543841/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVzzUFhChZ2qh7PkOtXmiD4g9PgiVH_clfVkp1lj3Txb6XK-vWjCqnOaMEmstkLxYlMfhn866HtNlGZPOvs7ImX1q7tIjmS3yKk5HPdupTBdbnaf_5hbfPeW9vfyE&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0QFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "author": "by DC Dieterich",
+      "snippet": "This technique can be used to detect changes in protein synthesis and to evaluate the fate of proteins synthesized in different cellular compartments. Moreover, ...",
+      "about_this_result": {
+        "source": {
+          "description": "This technique can be used to detect changes in protein synthesis and to evaluate the fate of proteins synthesized in different cellular compartments. Moreover, ...",
+          "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/20543841/",
+          "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASocABwAPtEutFooIagoGAEAGglqAMitAAZ4Jl_dAKyYiryPMWSx2JIZFiNPqeWP8LReWgAA_vQSh8balF9FPssL40xpXuZr-cohY6Dgm-GCPcw9Be2M8Tr4fajRDEe64L6D3425b_KycCBqO3zbdPz_M-o8snUv4Z8hpHcWbDv3llFfvvnqsQ_fr4s4-fhNtGM1R0r2geRp4qx5cmxTSmQ3Adt5msKjZn_khO8pTQ2_Z6XXXuwfx386puZGaUTZCdt7kTO9wFSJBqhaaa9o2SGg_pRUeh5BpEZYsoLnzNOR2o0gq9pzLwLJTMk9WyH-SoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVnp6VUZoQ2haMnFoN1BrT3RYbWlENGc5UGdpVkhfY2xmVmtwMWxqM1R4YjZYSy12V2pDcW5PYU1FbXN0a0x4WWxNZmhuODY2SHRObEdaUE92czdJbVgxcTd0SWptUzN5S2s1SFBkdXBUQmRibmFmXzVoYmZQZVc5dmZ5RRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVnp6VUZoQ2haMnFoN1BrT3RYbWlENGc5UGdpVkhfY2xmVmtwMWxqM1R4YjZYSy12V2pDcW5PYU1FbXN0a0x4WWxNZmhuODY2SHRObEdaUE92czdJbVgxcTd0SWptUzN5S2s1SFBkdXBUQmRibmFmXzVoYmZQZVc5dmZ5RRIEGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pubmed.ncbi.nlm.nih.gov/20543841/#:~:text=This%20technique%20can%20be%20used,single%2Dparticle%20tracking%20and%20quantum%20dots."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnsQMZJ8GYC3j5g8FdsTL-vWIvW5MQ:1790142097881&ei=kWazas25NcSe5NoP8Pic6QI&start=10&sa=N&sstk=AS6-VmIt3qeeLPLrkbzl8spQmRsNT7UStIqxokjBUDzyK0GvN9yGP6SCGZ3uGxcKK3mGJYQx2sAsgiSenoSl7nlQeb0yFXR1msvK-Q&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0Q8NMDegQIPhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnsQMZJ8GYC3j5g8FdsTL-vWIvW5MQ:1790142097881&ei=kWazas25NcSe5NoP8Pic6QI&start=10&sa=N&sstk=AS6-VmIt3qeeLPLrkbzl8spQmRsNT7UStIqxokjBUDzyK0GvN9yGP6SCGZ3uGxcKK3mGJYQx2sAsgiSenoSl7nlQeb0yFXR1msvK-Q&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0Q8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnsQMZJ8GYC3j5g8FdsTL-vWIvW5MQ:1790142097881&ei=kWazas25NcSe5NoP8Pic6QI&start=20&sa=N&sstk=AS6-VmIt3qeeLPLrkbzl8spQmRsNT7UStIqxokjBUDzyK0GvN9yGP6SCGZ3uGxcKK3mGJYQx2sAsgiSenoSl7nlQeb0yFXR1msvK-Q&ved=2ahUKEwiNxt3-_oOXAxVED1kFHXA8Jy0Q8tMDegQIPhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+before%3A2026-01-01&start=20"
+    }
+  }
+}

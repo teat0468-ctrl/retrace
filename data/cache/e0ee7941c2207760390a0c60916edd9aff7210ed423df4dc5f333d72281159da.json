@@ -1,0 +1,562 @@
+{
+  "search_metadata": {
+    "id": "6ab36af702ab8cdeb2d2e0db",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/USTTP4W-AkhK-KiXtlKLy-OaUc0uf9XhJTlBTEpZwbw/6ab36af702ab8cdeb2d2e0db.json",
+    "markdown_endpoint": "https://serpapi.com/searches/USTTP4W-AkhK-KiXtlKLy-OaUc0uf9XhJTlBTEpZwbw/6ab36af702ab8cdeb2d2e0db.md",
+    "created_at": "2026-09-23 06:00:23 UTC",
+    "processed_at": "2026-09-23 06:00:23 UTC",
+    "google_news_url": "https://news.google.com/search?q=Tata+Sons+Tata+Trusts+dispute+escalating+newly+new+update",
+    "raw_html_file": "https://serpapi.com/searches/USTTP4W-AkhK-KiXtlKLy-OaUc0uf9XhJTlBTEpZwbw/6ab36af702ab8cdeb2d2e0db.html",
+    "total_time_taken": 0.77
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Tata Sons Tata Trusts dispute escalating newly new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Tata Group stocks under pressure as Tata Trusts-Tata Sons rift deepens",
+      "source": {
+        "name": "irishsun.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.irishsun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.irishsun.com/news/279321035/tata-group-stocks-under-pressure-as-tata-trusts-tata-sons-rift-deepens",
+      "thumbnail": "https://chitra-api.kreatio.com/api/v1/wps/96fa6b2/15100eec-40ce-4837-a183-4a1272599d64/0/ANI-20260921071558-630x420.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNZbTFaZFdwRVZIRnpNM1ZJVFJDa0F4ajJCQ2dLTWdZaFpJaU1LUVU",
+      "date": "09/21/2026, 07:59 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:59:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Tata Sons Boardroom Battle: Noel Tata, Chandrasekaran Reappointment & IPO Tussle - India Today",
+      "source": {
+        "name": "indiatoday.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/india/video/tata-sons-boardroom-battle-noel-tata-chandrasekaran-reappointment-ipo-tussle-ytvd-3000805-2026-09-23",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/tatasonspowerstrugglenoeltatavsboardroom-s0-original-sixteen-to-nine.jpg?VersionId=w2sgerOp0pXxTFIWmQW_RSahPiLWpoS7?size=647:363",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBYM2N5TWkxS1dtbDBOMjl2VFJDZkF4ampCU2dLTWdtQlFKU1l0S2E1eVFF",
+      "date": "09/23/2026, 04:28 AM, +0000 UTC",
+      "iso_date": "2026-09-23T04:28:50Z"
+    },
+    {
+      "position": 3,
+      "title": "Tata Trusts Hires Star Litigator Singhvi, Escalates Fight Over Chandrasekaran Reappointment",
+      "source": {
+        "name": "finance.biggo.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.biggo.com/news/9ae586ee-7848-4bc7-a99e-8c71011678e9",
+      "thumbnail": "https://img.biggo.com/5YXo4ZVvANJXtZGfV1WoULbggGFJ13bZ24W9ax7BunM/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzlhZTU4NmVlLTc4NDgtNGJjNy1hOTllLThjNzEwMTE2NzhlOV8xNzg5OTI4NDIyX2RlZmF1bHQuanBn.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllVGcxVDJGWVluZEVUSGxmVFJDZkF4ampCU2dLTWdZQlFJaWxuZ2c",
+      "date": "09/20/2026, 06:06 PM, +0000 UTC",
+      "iso_date": "2026-09-20T18:06:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Tata Trusts vs Tata Sons: Sharad Pawar Calls For Dialogue, Stresses Need To Protect Group's Trust-Based Legacy",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yukta Baid"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/business/tata-trusts-vs-tata-sons-sharad-pawar-calls-for-dialogue-stresses-need-to-protect-groups-trust-based-legacy-12080076",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/vp98f7r4_sharad-pawar-noel-tata-n-chandra_625x300_22_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVlla28zZERSM1RHMVRTWGR5VFJDZkF4ampCU2dLTWdzQlFKZ0RKeWttYU9yY2dn",
+      "date": "09/22/2026, 07:54 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:54:55Z"
+    },
+    {
+      "position": 5,
+      "title": "Tata Stocks Fall Amid Boardroom Crisis, Chandrasekaran Reappointment",
+      "source": {
+        "name": "Rediff MoneyWiz",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://money.rediff.com/news/market/tata-stocks-fall-amid-boardroom-crisis-chandrasekaran-reappointment/54545020260918",
+      "thumbnail": "https://im.rediff.com/1200-900/money/2022/aug/31tata.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdhRkl0ZUhkYVpYSk1iMGhPVFJEZ0F4aUFCU2dLTWdZWk1vaktuUWc",
+      "date": "09/18/2026, 06:12 AM, +0000 UTC",
+      "iso_date": "2026-09-18T06:12:55Z"
+    },
+    {
+      "position": 6,
+      "title": "Tata Trusts Brings In Top Lawyer Abhishek Manu Singhvi As Tata Sons Dispute Deepens",
+      "source": {
+        "name": "outlookbusiness.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.outlookbusiness.com/corporate/tata-trusts-brings-in-top-lawyer-abhishek-manu-singhvi-as-tata-sons-dispute-deepens",
+      "thumbnail": "https://media.assettype.com/outlookbusiness/2026-09-20/h00akzpv/tata2_1640949247.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlPRjg0VFRSNU5GUnBiVkZpVFJDb0FSaXNBaWdCTWdZRmdveFBMUVk",
+      "date": "09/20/2026, 11:25 AM, +0000 UTC",
+      "iso_date": "2026-09-20T11:25:09Z"
+    },
+    {
+      "position": 7,
+      "title": "Tata Sons power struggle: Who will pay for the next legal battle?",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/india/story/tata-sons-power-struggle-who-will-pay-for-the-next-legal-battle-556810-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab0f7ee2960a-the-friction-originates-from-a-contentious-leadership-decision-at-tata-sons-212500924-16x9.png?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVUbEpZVGtaWVRHWkNTMHhQVFJDZkF4ampCU2dLTWdtTlVaalZJS21wQ2dJ",
+      "date": "09/21/2026, 09:48 AM, +0000 UTC",
+      "iso_date": "2026-09-21T09:48:30Z"
+    },
+    {
+      "position": 8,
+      "title": "Much-awaited battle at Tata begins: Tata Sons reappoints Chandrasekaran, but Noel Tata headed Tata Trusts calls the vote illegal",
+      "source": {
+        "name": "PGurus",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pgurus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pgurus.com/much-awaited-battle-at-tata-begins-tata-sons-reappoints-chandrasekaran-but-noel-tata-headed-tata-trusts-calls-the-vote-illegal/",
+      "thumbnail": "https://www.pgurus.com/wp-content/uploads/2026/09/Much-awaited-battle-in-Tatas-begins.-Tata-Sons-reappoints-Chandrasekaran-but-Noel-Tata-headed-Tata-Trusts-call-the-vote-as-illegal.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJkemRyWTB4RGRIY3pTRlp2VFJDZkF4ampCU2dLTWdtRlVKaVhLQ2k1Q2dJ",
+      "date": "09/17/2026, 03:17 PM, +0000 UTC",
+      "iso_date": "2026-09-17T15:17:34Z"
+    },
+    {
+      "position": 9,
+      "title": "Tata Sons row: Can a board overrule a 66% shareholder? Legal experts explain what happens next",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanjali Ghose"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/tata-sons-row-can-a-board-overrule-a-66-shareholder-legal-experts-explain-what-happens-next-14033092.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/08/20240802125551_tata-sons.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNkMmhtY2swNE0yaFdaRlI0VFJDZkF4ampCU2dLTWdtUklwUXhtU2VxaUFJ",
+      "date": "09/18/2026, 12:10 PM, +0000 UTC",
+      "iso_date": "2026-09-18T12:10:53Z"
+    },
+    {
+      "position": 10,
+      "title": "Tata Chemicals, Tata Investment fall up to 3% amid Tata row | Tap to know more | Inshorts",
+      "source": {
+        "name": "Inshorts",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://inshorts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://inshorts.com/en/news/tata-chemicals--tata-investment-fall-up-to-3--amid-tata-row-1789972981077",
+      "date": "09/21/2026, 11:35 AM, +0000 UTC",
+      "iso_date": "2026-09-21T11:35:35Z"
+    },
+    {
+      "position": 11,
+      "title": "Why Tata’s boardroom is at war",
+      "source": {
+        "name": "Financial Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Kay",
+          "Krishn Kaushik"
+        ]
+      },
+      "link": "https://www.ft.com/content/c4753943-5af3-4260-a655-460afcb55502?syn-25a6b1a6=1",
+      "thumbnail": "https://images.ft.com/v3/image/raw/ftcms%3A1e31ec30-463b-4fe5-8976-8224b750af74?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURTbXRVTFhwemEwRXRUV2x3VFJDZkF4ampCU2dLTWdhcFpZak5yUVk",
+      "date": "09/18/2026, 09:04 AM, +0000 UTC",
+      "iso_date": "2026-09-18T09:04:48Z"
+    },
+    {
+      "position": 12,
+      "title": "Tata Sons board meeting ends amid focus on leadership and group performance concerns",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-meeting-ends-amid-focus-on-leadership-and-group-performance-concerns/articleshow/131330276.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131330282,width-1280,height-720,imgsize-722752,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXV3BQUmxCcmNFNW9lRnB4VFJDZkF4ampCU2dLTWdhcEk1TE5sUW8",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Tata Trusts fires fresh salvo on Chandrasekaran, listing issues",
+      "source": {
+        "name": "FM Bharat",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fmbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fmbharat.com/en/business/tata-trusts-fires-fresh-salvo-on-chandrasekaran-listing-issues",
+      "thumbnail": "https://www.fmbharat.com/_next/image?url=https%3A%2F%2Ffastmail-media-318270725886-ap-south-1-an.s3.ap-south-1.amazonaws.com%2Fnews-images%2F1789910102212-9bmm0jyhjn5.jpeg&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNRM0ZYZG01TlNWTkVUbk55VFJEQ0FSaURBaWdCTWdheE5KcXZuUWs",
+      "date": "09/20/2026, 01:21 PM, +0000 UTC",
+      "iso_date": "2026-09-20T13:21:14Z"
+    },
+    {
+      "position": 14,
+      "title": "Tata Trusts says Chandrasekaran reappointment resolution was invalid, rejects casting-vote argument",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sagar Malviya"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/company/corporate-trends/tata-trusts-says-chandrasekaran-reappointment-resolution-was-invalid-rejects-casting-vote-argument/amp_articleshow/134367444.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134367503,width-1200,height-900,resizemode-4,imgsize-35798/tata-sons-approves-5-year-term-extension-for-n-chandrasekaran.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFaV3hJY0V4UGRHVmZaSEpHVFJEZ0F4aUFCU2dLTWdZQmNJNllwQWc",
+      "date": "09/20/2026, 11:43 AM, +0000 UTC",
+      "iso_date": "2026-09-20T11:43:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Tata Sons row: Mehli Mistry objects to trust funds paying legal costs",
+      "source": {
+        "name": "indiatoday.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sonu Vivek"
+        ]
+      },
+      "link": "https://www.indiatoday.in/business/story/tata-sons-legal-battle-mehli-mistry-objects-to-tedt-funds-for-legal-expenses-2999542-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/tata-sons-row-212203291-16x9_0.jpeg?VersionId=izjqawsSrz0P.hda0f6bRvAL295xa5w8&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhPVVZ4Y25KRmNYZE5aVTVyVFJDZkF4ampCU2dLTWdhQkpJeXVuUVk",
+      "date": "09/21/2026, 11:23 AM, +0000 UTC",
+      "iso_date": "2026-09-21T11:23:33Z"
+    },
+    {
+      "position": 16,
+      "title": "Tata Trusts row escalates after Vijay Singh demands probe into 1989 share deal",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/latest/corporate/story/tata-trusts-row-escalates-after-vijay-singh-demands-probe-into-1989-share-deal-536693-2026-06-13",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2cd63187321-the-disputed-transaction-involves-833-tata-sons-shares-transferred-from-the-navajbai-ratan-tata-trus-130147631-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1NRlJIWjNZeWJFWldiMEZQVFJDZkF4ampCU2dLTWdhcE01NnVuUWs",
+      "date": "06/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-13T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Tata Chemicals, Tata Investment Corp shares fall up to 3% as boardroom battle likely to reach court",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debaroti Adhikary"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/stocks/news/tata-chemicals-tata-investment-corp-shares-fall-up-to-3-as-boardroom-battle-likely-to-reach-court/articleshow/134379458.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134379550,width-1200,height-900,resizemode-4,imgsize-2391833/tata-chemicals-tata-investment-corp-shares-fall-up-to-3-as-boardroom-battle-likely-to-reach-courtbr.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUJXbFZZV21aU1RGSmZMV3RTVFJEZ0F4aUFCU2dLTWdB",
+      "date": "09/21/2026, 04:07 AM, +0000 UTC",
+      "iso_date": "2026-09-21T04:07:35Z"
+    },
+    {
+      "position": 18,
+      "title": "N Chandrasekaran resigns as Tata Sons chairman after nine years",
+      "source": {
+        "name": "Telangana Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://telanganatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://telanganatoday.com/n-chandrasekaran-resigns-as-tata-sons-chairman-after-nine-years",
+      "thumbnail": "https://image.telanganatoday.com/wp-content/uploads/2026/08/Chandrashekaran1-1_V_jpg--442x260-4g.webp?sw=412&dsz=442x260&iw=392&p=false&r=2.625",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdiR3hPV21WZk4zWnVVVXh6VFJDRUFoaTZBeWdLTWdZcGxZcXVPUVU",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "TVK Clashes With DMK Over Veeramani Case; Aides Arrested As Probe Deepens - India Today",
+      "source": {
+        "name": "indiatoday.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/india/video/tvk-clashes-with-dmk-over-veeramani-case-aides-arrested-as-probe-deepens-ytvd-3000829-2026-09-23",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/tvksparswithdmkoverveeramanicase-s0-original-sixteen-to-nine.jpg?VersionId=0lXCYrERUx05uhlNBJqodrmVT0P8xzlq?size=647:363",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlVa1ZLWVdkTk0wOVBhV1Z3VFJDZkF4ampCU2dLTWdZQlJJTHRuUU0",
+      "date": "09/23/2026, 04:59 AM, +0000 UTC",
+      "iso_date": "2026-09-23T04:59:51Z"
+    },
+    {
+      "position": 20,
+      "title": "Noel Tata-Mehli Mistry battle heats up, this time over Tata’s position as trustee",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Krishna Gopalan"
+        ]
+      },
+      "link": "https://www.businesstoday.in/latest/corporate/story/noel-tata-mehli-mistry-battle-heats-up-this-time-over-tatas-position-as-trustee-525970-2026-04-16",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69e0c13d13319-experts-say-the-tata-trusts-dispute-hinges-on-technical-compliance-issues--warning-that-the-matter-c-160010404-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1TM1EzVWtWWFprTkRTa3hWVFJDZkF4ampCU2dLTWdrTlE1ckdKdWxNU0FJ",
+      "date": "04/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-16T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "India wants dialogue and respect for territorial integrity to end west asian conflict: Jaishankar",
+      "source": {
+        "name": "The Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tbsnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pallab Bhattacharya"
+        ]
+      },
+      "link": "https://www.tbsnews.net/world/south-asia/india-wants-dialogue-and-respect-territorial-integrity-end-west-asian-conflict",
+      "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2024/08/31/india_jaishankar.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhNMUJtUVZKNWFHd3diRTl0VFJELUFSakVBeWdLTWdZeGRJcVFNUVk",
+      "date": "03/09/2026, 08:37 AM, +0000 UTC",
+      "iso_date": "2026-03-09T08:37:32Z"
+    },
+    {
+      "position": 22,
+      "title": "Mehli says Tata bye bye a week after his ouster",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Reeba Zachariah"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/mehli-says-tata-bye-bye-a-week-after-his-ouster/articleshow/125099219.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125099238,width-1280,height-720,resizemode-4/125099238.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNVbWsyUmxKcFZsSldRVXg1VFJDZkF4ampCU2dLTWdhaFJJYXRvUVE",
+      "date": "11/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-05T08:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "This Week in Explainers: Why Tata Trusts dispute is not good news for the country",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/this-week-in-explainers-tata-trusts-dispute-noel-tata-mehli-mistry-13941035.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2025/10/1-2025-10-b3b3ce252b780948e80b9ff4818043f2.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBha05IU0djNVlrOU1TVFo0VFJDZkF4ampCU2dLTWdhQkpKNnZtUWs",
+      "date": "10/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-11T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "The Tata Power Struggle: Old Ghosts, New Fault Lines",
+      "source": {
+        "name": "outlookbusiness.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vikash Tripathi"
+        ]
+      },
+      "link": "https://www.outlookbusiness.com/in-depth/inside-power-battle-shaking-tata-sons-a-year-after-ratan-tatas-death",
+      "thumbnail": "https://media.assettype.com/outlookbusiness/2026-09-17/zovdutn4/ChatGPT-Image-Sep-17-2026-064455-PM.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1Nazl4ZVZCWlRGRkNPSGwyVFJDZkF4ampCU2dLTWdtUmdaYlZyT2VoN1FF",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Mehli Mistry's term renewal: Three Tata Trusts trustees yet to respond",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dev Chatterjee",
+          "Nivedita Mookerji"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/mehli-mistry-s-term-renewal-three-tata-trusts-trustees-yet-to-respond-125102600820_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684259369-7863.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBVSHBIUXpSclFqWjZZV1IzVFJEZ0F4aUFCU2dLTWdrWkk0U3MxYUo2aUFJ",
+      "date": "10/26/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-26T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Another boardroom battle at Tata Group?",
+      "source": {
+        "name": "indiatoday.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/business/story/tata-groups-trusts-boardroom-battle-infighting-corporate-governance-explained-2799680-2025-10-08",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/the-market-value-of-tata-sons-listed-investments-increased-by-357-percent-to-rs-15-20-56060-crore-070711562-16x9.jpg?VersionId=2APce7h65CulXHTjCzVQHnhP2QjRRG4j&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdkSFp5TTJaelNYaE5WbnA1VFJDZkF4ampCU2dLTWdhSmdvNVBNUVk",
+      "date": "10/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-08T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "'Nobody is bigger than the institution': Mehli Mistry ends Tata Trusts standoff with a letter",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/latest/corporate/story/nobody-is-bigger-than-the-institution-mehli-mistry-ends-tata-trusts-standoff-with-a-letter-500886-2025-11-05",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202511/690ab0468aaf8-mistry--a-cousin-of-the-late-cyrus-mistry--was-known-for-his-low-profile-yet-strategic-presence-with-050241157-16x9.png?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBTa1pVU0RSTVNVRmtaR3hyVFJDZkF4ampCU2dLTWdhcFZZVE5xUVk",
+      "date": "11/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-05T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Tata Group stocks tumble as Tata Sons leadership war escalates; Tata Capital down by 3%",
+      "source": {
+        "name": "newsdrum.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newsdrum.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akansha Srivastava"
+        ]
+      },
+      "link": "https://www.newsdrum.in/business/tata-group-stocks-tumble-as-tata-sons-leadership-war-escalates-tata-capital-down-by-3-12558483",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/newsdrum-in/media/media_files/2025/10/27/tata-investment-corporation-tata-group-2025-10-27-18-02-48.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhVemd4WTA5eVZFTnhSamxNVFJDZkF4ampCU2dLTWdhQllaVFZLQWM",
+      "date": "09/21/2026, 08:05 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:05:02Z"
+    },
+    {
+      "position": 29,
+      "title": "Tata stocks crashed on Friday; investors lost over ₹52k crore - Will shares bounce back today amid boardroom battle?",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/tata-stocks-crashed-on-friday-investors-lost-over-52k-crore-will-shares-bounce-back-today-amid-boardroom-battle-11789953995568.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Tata_1789956368298_VDVD_1789956368454_vkqB_f64c3b94-0cec-4341-a9e2-d936120bcbf8_Gsh5.jfif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZhWGRrTUZaMGFGVXpaVEkyVFJDZkF4ampCU2dLTWdZaElKQ09NUWM",
+      "date": "09/21/2026, 02:06 AM, +0000 UTC",
+      "iso_date": "2026-09-21T02:06:19Z"
+    },
+    {
+      "position": 30,
+      "title": "Tata Trusts hires top lawyer Abhishek Singhvi as drawn out legal battle looms: Shareholder rights cannot be ‘nullified’",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eshita Gain"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/tata-trusts-hires-top-lawyer-abhishek-singhvi-as-drawn-out-legal-battle-looms-shareholder-rights-cannot-be-nullified-11789891893821.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/2-0-1102803960-Abhishek-Singhvi20180312-IB27-0_1679707383582_1789895125615_gSQn_6df3ddfe-45bc-49ee-a6f0-8248ae629d73_UIpb.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHplbTUzWkdkQlJqVkJOMHRTVFJDZkF4ampCU2dLTWdhcE5aak5uUWc",
+      "date": "09/20/2026, 09:08 AM, +0000 UTC",
+      "iso_date": "2026-09-20T09:08:26Z"
+    },
+    {
+      "position": 31,
+      "title": "Noel Tata vs N Chandrasekaran: Why September 17 changed Tata Sons succession battle | Decoding the 3-hour long board meeting",
+      "source": {
+        "name": "ET Now",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Namit Singh Sengar"
+        ]
+      },
+      "link": "https://www.etnownews.com/companies/noel-tata-vs-n-chandrasekaran-why-september-17-changed-tata-sons-succession-battle-decoding-the-3-hour-board-meeting-article-156178387",
+      "thumbnail": "https://images.etnownews.com/thumb/msid-156178387,thumbsize-102001,width-400,height-225,resizemode-75/156178387.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxPVm8yY1VSV04zSk5la3A1VFJEaEFSaVFBeWdLTWdrTlk1TEZLdWhFQ3dJ",
+      "date": "09/18/2026, 02:05 AM, +0000 UTC",
+      "iso_date": "2026-09-18T02:05:13Z"
+    },
+    {
+      "position": 32,
+      "title": "TMPV Shares Fall 3% as Tata Sons Governance Dispute Clouds Listing Hopes",
+      "source": {
+        "name": "Business Upturn",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businessupturn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditya Bhagchandani"
+        ]
+      },
+      "link": "https://businessupturn.com/finance/stock-market/post-11/",
+      "thumbnail": "https://businessupturn.com/_next/image/?url=%2Fuploads%2Fmedia%2F1784202620945-recovered-jtcvy3.webp&w=3840&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1hSHBuVEZNMVNVZFhMVzlHVFJDb0FSaXNBaWdCTWdhZG81UnJ1UVk",
+      "date": "09/18/2026, 09:04 AM, +0000 UTC",
+      "iso_date": "2026-09-18T09:04:30Z"
+    },
+    {
+      "position": 33,
+      "title": "Tata Trusts Dispute: Abhishek Singhvi expresses 'sadness and regret' as he joins conglomerate's legal battle; says shareholder rights cannot be nullified",
+      "source": {
+        "name": "ET Now",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarmeeli Mallick"
+        ]
+      },
+      "link": "https://www.etnownews.com/companies/tata-trusts-dispute-abhishek-singhvi-expresses-sadness-and-regret-as-he-joins-conglomerates-legal-battle-says-shareholder-rights-cannot-be-nullified-article-156191893",
+      "thumbnail": "https://images.etnownews.com/thumb/msid-156191893,thumbsize-451150,width-1280,height-720,resizemode-75/156191893.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVUMWhST1hCWk5rVnJiV1JaVFJDZkF4ampCU2dLTWdZTllwQ21vZ2c",
+      "date": "09/20/2026, 11:56 AM, +0000 UTC",
+      "iso_date": "2026-09-20T11:56:38Z"
+    },
+    {
+      "position": 34,
+      "title": "Why are Tata Chemicals shares falling 7% today? Explained",
+      "source": {
+        "name": "Business Upturn",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businessupturn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditya Bhagchandani"
+        ]
+      },
+      "link": "https://businessupturn.com/finance/stock-market/why-are-tata-chemicals-shares-falling-7-today-explained/",
+      "thumbnail": "https://businessupturn.com/_next/image/?url=%2Fuploads%2Fmedia%2F1784200828745-recovered-hie9ao.webp&w=3840&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJaQzB6VGxkb00xbDRPVlZuVFJDb0FSaXNBaWdCTWdZaHRKQ011UVU",
+      "date": "09/18/2026, 09:04 AM, +0000 UTC",
+      "iso_date": "2026-09-18T09:04:30Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "search_metadata": {
+    "id": "6ab36fbe2f5ea07f01b5cb67",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0fGWEzxBB7mkO_mjxcpKmcQxBBE7MoUllnL3aIsIDgI/6ab36fbe2f5ea07f01b5cb67.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0fGWEzxBB7mkO_mjxcpKmcQxBBE7MoUllnL3aIsIDgI/6ab36fbe2f5ea07f01b5cb67.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0fGWEzxBB7mkO_mjxcpKmcQxBBE7MoUllnL3aIsIDgI/6ab36fbe2f5ea07f01b5cb67.json_with_pixel_position",
+    "created_at": "2026-09-23 06:20:46 UTC",
+    "processed_at": "2026-09-23 06:20:46 UTC",
+    "google_url": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&oq=complete+acquisition+historic+Tata+Sons+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0fGWEzxBB7mkO_mjxcpKmcQxBBE7MoUllnL3aIsIDgI/6ab36fbe2f5ea07f01b5cb67.html",
+    "total_time_taken": 1.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "complete acquisition historic Tata Sons 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "complete acquisition historic Tata Sons 2025",
+    "total_results": 25000000,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Noel Tata, Tata Trusts & Shapoorji Pallonji Stake Sale Explained",
+      "link": "https://www.youtube.com/watch?v=Xugx1WXEY0s",
+      "thumbnail": "https://serpapi.com/searches/6ab36fbe2f5ea07f01b5cb67/images/G4DjKVZFWjIy-_UCQqa9NVEAEath_WEtSgnSXLQo1wg.jpeg",
+      "channel": "Business Today",
+      "duration": "2:43",
+      "platform": "YouTube",
+      "date": "Prieš 5 dienas",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRKaPns_1QuM68gPK_ZbHchVbXQy5I2y2YMTQ"
+    },
+    {
+      "position": 2,
+      "title": "Tata's Succession War: Tracking The Game Of Thrones",
+      "link": "https://www.youtube.com/watch?v=OO1PutF2rZc",
+      "thumbnail": "https://serpapi.com/searches/6ab36fbe2f5ea07f01b5cb67/images/IHxVO3ySJvrFkQxjb7LhA4M0dAq8lFDhxgW1oFemKH4.jpeg",
+      "channel": "WION",
+      "duration": "3:46",
+      "platform": "YouTube",
+      "date": "Prieš 4 dienas",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRy3kHzv1QefusPL03LZuEtYWmRG-CIbIyoXA"
+    },
+    {
+      "position": 3,
+      "title": "What Happens To Tata Trusts, IPO & Cash-Hungry Businesses?",
+      "link": "https://www.youtube.com/watch?v=aGLjlzaBaGc",
+      "thumbnail": "https://serpapi.com/searches/6ab36fbe2f5ea07f01b5cb67/images/9UOFzMcC6tEAaGi6MhF-f4eN5WKiNhiBeARrjFCp12s.jpeg",
+      "channel": "ET Now",
+      "duration": "3:02",
+      "platform": "YouTube",
+      "date": "Prieš 5 dienas",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT9iON3_VfWS_QsDAGe7HOCs-MDpKFWU22VoQ"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is Tata Group's most recent acquisition?",
+      "type": "ai_overview",
+      "page_token": "ENWB-nicHdBdToMwAADgeJk9DhgD55LFpI6yMOmkpeXnxUAZ66AUIkR-3ryLp_I0Gk_wJd_Xt7yr-uchFsPQ9XtNG8dxfWvbm7yuedtoWT8rrvFMyjzj9d5-tI3nkh-cfgQv7QgC2nXsiHUivbewrkfqyCqgu4E70z1UbEhjdkYnkOFK-CjCUbBIyhZvGywCZgqeiYEIqycDhXDjN2LKmKxyPW0S9nS8hEInLrcwTMbCdSxEkc0ZXUjltVRJ6xp7IDZgmje7EdHJTQxhMZ3ZKfT6pCrKXAnhS5CGNd8iZ0B5jadUgTI6-QZxKYFmMr_GnSgafYNVeswXEGAG5lAXnQ9h5d49gE9ovkQpCQ3ck4X1V3fqw9gz_2yYO5ae1YNTMDTHZodXJf88mKv_scN72Qz77qO9_QJdO3ne",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ENWB-nicHdBdToMwAADgeJk9DhgD55LFpI6yMOmkpeXnxUAZ66AUIkR-3ryLp_I0Gk_wJd_Xt7yr-uchFsPQ9XtNG8dxfWvbm7yuedtoWT8rrvFMyjzj9d5-tI3nkh-cfgQv7QgC2nXsiHUivbewrkfqyCqgu4E70z1UbEhjdkYnkOFK-CjCUbBIyhZvGywCZgqeiYEIqycDhXDjN2LKmKxyPW0S9nS8hEInLrcwTMbCdSxEkc0ZXUjltVRJ6xp7IDZgmje7EdHJTQxhMZ3ZKfT6pCrKXAnhS5CGNd8iZ0B5jadUgTI6-QZxKYFmMr_GnSgafYNVeswXEGAG5lAXnQ9h5d49gE9ovkQpCQ3ck4X1V3fqw9gz_2yYO5ae1YNTMDTHZodXJf88mKv_scN72Qz77qO9_QJdO3ne",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFRhdGEgR3JvdXAncyBtb3N0IHJlY2VudCBhY3F1aXNpdGlvbj8iLCJsayI6IkdocDBZWFJoSUdkeWIzVndJRzVsZHlCaFkzRjFhWE5wZEdsdmJnIiwiYnMiOiJjNFdQTzZzQ01SQkd1VzJxMjRsQlpEckJGNXJDZGtzckxieUNoZFd3bVRXUjNZd21XZjM3TnhGOE5uYkRmSWN6ODRtVm1Pd01SckFCdGhnUmxwN2IweUJBd3lHQ3A1SmNCQ3pQclEwMlduYUY2a2taTTNqSUlEaTZ2c1ppTGVadnVqOTJZWkE5M0RUa05HblE5bUoxR3FGaUQycW1Gb1hxeXM1TkdSTDh6SE1tTm1LNk13em9DYUlocU5FZktEMFdUTm9ZcmpYNUFGdzlieFVLWkxfQlkzS19NQmw1WEJCN01icl9tSjFsNjMxdWVjRzZ4VnppUXppV3ctczNfQ0hfX2ZrSCIsImlkIjoiZmNfdjItemF2bTZGdkNvMFBFUHJPSGkwUWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFRhdGEgR3JvdXAncyBtb3N0IHJlY2VudCBhY3F1aXNpdGlvbj8iLCJsayI6IkdocDBZWFJoSUdkeWIzVndJRzVsZHlCaFkzRjFhWE5wZEdsdmJnIiwiYnMiOiJjNFdQTzZzQ01SQkd1VzJxMjRsQlpEckJGNXJDZGtzckxieUNoZFd3bVRXUjNZd21XZjM3TnhGOE5uYkRmSWN6ODRtVm1Pd01SckFCdGhnUmxwN2IweUJBd3lHQ3A1SmNCQ3pQclEwMlduYUY2a2taTTNqSUlEaTZ2c1ppTGVadnVqOTJZWkE5M0RUa05HblE5bUoxR3FGaUQycW1Gb1hxeXM1TkdSTDh6SE1tTm1LNk13em9DYUlocU5FZktEMFdUTm9ZcmpYNUFGdzlieFVLWkxfQlkzS19NQmw1WEJCN01icl9tSjFsNjMxdWVjRzZ4VnppUXppV3ctczNfQ0hfX2ZrSCIsImlkIjoiZmNfdjItemF2bTZGdkNvMFBFUHJPSGkwUWNfNSJ9"
+    },
+    {
+      "question": "What is Tata Sons' recommended dividend for 2026?",
+      "type": "ai_overview",
+      "page_token": "dyhtCnicHdBRboIwAADQ7DJ-DgvRBROzrLYFnWBoS4v8LAgFlALNdAP82112qp1my47w3te3PnfNz0NS327murKsYRgeq76vtHrM-9bKrlOXW3mm9SnLm9XyaQmey3yNrwPc9AOMYmMEonOOqonFt4_CxoAjyFnrcqWxfUhMq3DBJCdD6OST1PmYdWHPdD0KacpMu0jhcFQCjkK4beyBjdKESY-aENU4ukCvQMeJJtRO_fQi9AugPqG8KYJ9HAKG0z4AJqGI-CHWJfPqjDWFUXgBA59EdAOI5LtlFC8Wx7t-Vc12LBwDebdlxDlO-8TURTu3aZei0x1GVMCJz2sTEHLxzjtI_XA6yDSOOHZY0txPjYBSp7aQbiwA_HMJJ8SNzVvazcr8c-3M_sfWb2V7W5n3vvoFp2J4Og",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dyhtCnicHdBRboIwAADQ7DJ-DgvRBROzrLYFnWBoS4v8LAgFlALNdAP82112qp1my47w3te3PnfNz0NS327murKsYRgeq76vtHrM-9bKrlOXW3mm9SnLm9XyaQmey3yNrwPc9AOMYmMEonOOqonFt4_CxoAjyFnrcqWxfUhMq3DBJCdD6OST1PmYdWHPdD0KacpMu0jhcFQCjkK4beyBjdKESY-aENU4ukCvQMeJJtRO_fQi9AugPqG8KYJ9HAKG0z4AJqGI-CHWJfPqjDWFUXgBA59EdAOI5LtlFC8Wx7t-Vc12LBwDebdlxDlO-8TURTu3aZei0x1GVMCJz2sTEHLxzjtI_XA6yDSOOHZY0txPjYBSp7aQbiwA_HMJJ8SNzVvazcr8c-3M_sfWb2V7W5n3vvoFp2J4Og",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFRhdGEgU29ucycgcmVjb21tZW5kZWQgZGl2aWRlbmQgZm9yIDIwMjY/IiwibGsiOiJHaGQwWVhSaElITnZibk1nWkdsMmFXUmxibVFnTWpBeU5nIiwiYnMiOiJjNFdQTzZzQ01SQkd1VzJxMjRsQlpEckJGNXJDZGtzckxieUNoZFd3bVRXUjNZd21XZjM3TnhGOE5uYkRmSWN6ODRtVm1Pd01SckFCdGhnUmxwN2IweUJBd3lHQ3A1SmNCQ3pQclEwMlduYUY2a2taTTNqSUlEaTZ2c1ppTGVadnVqOTJZWkE5M0RUa05HblE5bUoxR3FGaUQycW1Gb1hxeXM1TkdSTDh6SE1tTm1LNk13em9DYUlocU5FZktEMFdUTm9ZcmpYNUFGdzlieFVLWkxfQlkzS19NQmw1WEJCN01icl9tSjFsNjMxdWVjRzZ4VnppUXppV3ctczNfQ0hfX2ZrSCIsImlkIjoiZmNfdjItemF2bTZGdkNvMFBFUHJPSGkwUWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIFRhdGEgU29ucycgcmVjb21tZW5kZWQgZGl2aWRlbmQgZm9yIDIwMjY%2FIiwibGsiOiJHaGQwWVhSaElITnZibk1nWkdsMmFXUmxibVFnTWpBeU5nIiwiYnMiOiJjNFdQTzZzQ01SQkd1VzJxMjRsQlpEckJGNXJDZGtzckxieUNoZFd3bVRXUjNZd21XZjM3TnhGOE5uYkRmSWN6ODRtVm1Pd01SckFCdGhnUmxwN2IweUJBd3lHQ3A1SmNCQ3pQclEwMlduYUY2a2taTTNqSUlEaTZ2c1ppTGVadnVqOTJZWkE5M0RUa05HblE5bUoxR3FGaUQycW1Gb1hxeXM1TkdSTDh6SE1tTm1LNk13em9DYUlocU5FZktEMFdUTm9ZcmpYNUFGdzlieFVLWkxfQlkzS19NQmw1WEJCN01icl9tSjFsNjMxdWVjRzZ4VnppUXppV3ctczNfQ0hfX2ZrSCIsImlkIjoiZmNfdjItemF2bTZGdkNvMFBFUHJPSGkwUWNfNSJ9"
+    },
+    {
+      "question": "Who are the largest shareholders of Tata Sons?",
+      "type": "ai_overview",
+      "page_token": "pe14knicHdBbbqMwFABQdTP9bDAEZhopGokGu4yEG1-wE-7PyDgPwCbQljQJf91LV9XVjNSzhPP55ZqT_b77qMdxeF_MZpfL5eHY90e3fzB9N9Pvt5OZGe1cpY1dRL8i8udglsk5jZ9e01jIYVAr8PLO2SpQa2Nl-ML60PihVYGiwqIGilSz0e6feQTtLtfUMS7Hdc7wjKxuJIkLySApPEAZwByZIYqFlifJXAXGE_582tujJxU22QSSq2wSrfpruiEtT3EKz2pEpl5wpVRB6SuQx14xd9MEog3tw7yI81JCvre85lNMtEdXJlGbwiOQnQbJJQabjmxLn57zCbfcd5DUOz9rSFRuceQWfeH_vshECWMfU13EUF77RkiYTOs66V2vyGhStDFUhbxVE6yrbY24qVPR7jJc8UyK-4P5WAb3P5_Lf4duXAxv_fE_TRGBEA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pe14knicHdBbbqMwFABQdTP9bDAEZhopGokGu4yEG1-wE-7PyDgPwCbQljQJf91LV9XVjNSzhPP55ZqT_b77qMdxeF_MZpfL5eHY90e3fzB9N9Pvt5OZGe1cpY1dRL8i8udglsk5jZ9e01jIYVAr8PLO2SpQa2Nl-ML60PihVYGiwqIGilSz0e6feQTtLtfUMS7Hdc7wjKxuJIkLySApPEAZwByZIYqFlifJXAXGE_582tujJxU22QSSq2wSrfpruiEtT3EKz2pEpl5wpVRB6SuQx14xd9MEog3tw7yI81JCvre85lNMtEdXJlGbwiOQnQbJJQabjmxLn57zCbfcd5DUOz9rSFRuceQWfeH_vshECWMfU13EUF77RkiYTOs66V2vyGhStDFUhbxVE6yrbY24qVPR7jJc8UyK-4P5WAb3P5_Lf4duXAxv_fE_TRGBEA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gYXJlIHRoZSBsYXJnZXN0IHNoYXJlaG9sZGVycyBvZiBUYXRhIFNvbnM/IiwibGsiOiJHaDV0WVdwdmNpQnphR0Z5WldodmJHUmxjaUJ2WmlCMFlYUmhJSE52Ym5NIiwiYnMiOiJjNFdQTzZzQ01SQkd1VzJxMjRsQlpEckJGNXJDZGtzckxieUNoZFd3bVRXUjNZd21XZjM3TnhGOE5uYkRmSWN6ODRtVm1Pd01SckFCdGhnUmxwN2IweUJBd3lHQ3A1SmNCQ3pQclEwMlduYUY2a2taTTNqSUlEaTZ2c1ppTGVadnVqOTJZWkE5M0RUa05HblE5bUoxR3FGaUQycW1Gb1hxeXM1TkdSTDh6SE1tTm1LNk13em9DYUlocU5FZktEMFdUTm9ZcmpYNUFGdzlieFVLWkxfQlkzS19NQmw1WEJCN01icl9tSjFsNjMxdWVjRzZ4VnppUXppV3ctczNfQ0hfX2ZrSCIsImlkIjoiZmNfdjItemF2bTZGdkNvMFBFUHJPSGkwUWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaG8gYXJlIHRoZSBsYXJnZXN0IHNoYXJlaG9sZGVycyBvZiBUYXRhIFNvbnM%2FIiwibGsiOiJHaDV0WVdwdmNpQnphR0Z5WldodmJHUmxjaUJ2WmlCMFlYUmhJSE52Ym5NIiwiYnMiOiJjNFdQTzZzQ01SQkd1VzJxMjRsQlpEckJGNXJDZGtzckxieUNoZFd3bVRXUjNZd21XZjM3TnhGOE5uYkRmSWN6ODRtVm1Pd01SckFCdGhnUmxwN2IweUJBd3lHQ3A1SmNCQ3pQclEwMlduYUY2a2taTTNqSUlEaTZ2c1ppTGVadnVqOTJZWkE5M0RUa05HblE5bUoxR3FGaUQycW1Gb1hxeXM1TkdSTDh6SE1tTm1LNk13em9DYUlocU5FZktEMFdUTm9ZcmpYNUFGdzlieFVLWkxfQlkzS19NQmw1WEJCN01icl9tSjFsNjMxdWVjRzZ4VnppUXppV3ctczNfQ0hfX2ZrSCIsImlkIjoiZmNfdjItemF2bTZGdkNvMFBFUHJPSGkwUWNfNSJ9"
+    },
+    {
+      "question": "What is the current valuation of Tata Sons?",
+      "type": "ai_overview",
+      "page_token": "qPZUjHicHdBRboIwAADQ7DJ-jgLqEhOzpMOiZNZQ2gL9WaCg1RboBhHhb3fZqXaaJXtHeN8_5trq36dMDYPtN44zjuPzpesupn6WXeMU_dRKRxbGlIXUm_XL2n09y-2uH-FbN8KYWcsDAhKjQeFXtxwQJQFJJTKKBHqi3mMZ84hLwFacQoJdaPgMP4sWTSnDirsqrlIOaCOKxFQ-DqVbuOaO6cHjqasyYJvSWwlhRC92lmAuuEgrn-359YgEw65pKZJD7ImE6cdcB_hEtXiQGd_rQHEZ4pH4-FAxEZBdtK-bQSc3PaVZnCA_n94zq6oGeKQVQTnDmHA4UaDsEaFbeI0g2ePplAqa6AEJP8pyjxdlVjFsDJTAgmOYL7F3WFIq2sVZ3rf-4n9s-3Fuho396i5_f2J4zw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qPZUjHicHdBRboIwAADQ7DJ-jgLqEhOzpMOiZNZQ2gL9WaCg1RboBhHhb3fZqXaaJXtHeN8_5trq36dMDYPtN44zjuPzpesupn6WXeMU_dRKRxbGlIXUm_XL2n09y-2uH-FbN8KYWcsDAhKjQeFXtxwQJQFJJTKKBHqi3mMZ84hLwFacQoJdaPgMP4sWTSnDirsqrlIOaCOKxFQ-DqVbuOaO6cHjqasyYJvSWwlhRC92lmAuuEgrn-359YgEw65pKZJD7ImE6cdcB_hEtXiQGd_rQHEZ4pH4-FAxEZBdtK-bQSc3PaVZnCA_n94zq6oGeKQVQTnDmHA4UaDsEaFbeI0g2ePplAqa6AEJP8pyjxdlVjFsDJTAgmOYL7F3WFIq2sVZ3rf-4n9s-3Fuho396i5_f2J4zw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHZhbHVhdGlvbiBvZiBUYXRhIFNvbnM/IiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCamRYSnlaVzUwSUhaaGJIVmhkR2x2YmlCdlppQjBZWFJoSUhOdmJuTSIsImJzIjoiYzRXUE82c0NNUkJHdVcycTI0bEJaRHJCRjVyQ2Rrc3JMYnlDaGRXd21UV1IzWXdtV2YzN054RjhObmJEZkljejg0bVZtT3dNUnJBQnRoZ1JscDdiMHlCQXd5R0NwNUpjQkN6UHJRMDJXbmFGNmtrWk0zaklJRGk2dnNaaUxlWnZ1ajkyWVpBOTNEVGtOR25ROW1KMUdxRmlEMnFtRm9YcXlzNU5HUkw4ekhNbU5tSzZNd3pvQ2FJaHFORWZLRDBXVE5vWXJqWDVBRnc5YnhVS1pMX0JZM0tfTUJsNVhCQjdNYnJfbUoxbDYzMXVlY0c2eFZ6aVF6aVd3LXMzX0NIX19ma0giLCJpZCI6ImZjX3YyLXphdm02RnZDbzBQRVByT0hpMFFjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05sUmFlak5GUkVaU1Vsa3lRbXA2V1hwclQwMTRTRk52Ym1Zek9VOWFPV3BRWm1KVlFtRnZURUp1V0dwM2NUaElkekphVmxRd1ptRmljSG80V0ROWGQza3RhRmQzV21keU9HRkROVWt6Wmt4QldrZ3RRMGxQY1UwelVSSVhkakl0ZW1GMmJUWkdka052TUZCRlVISlBTR2t3VVdNYUlrRkVjM0k1WmxRelEweHZaa0Z4WlV4ZmRubzRSM3BGUjJGSlFtb3RhVzlpYTBFIiwiZmN2IjoiMyIsImVpIjoidjItemF2bTZGdkNvMFBFUHJPSGkwUWMiLCJxYyI6IkNpeGpiMjF3YkdWMFpTQmhZM0YxYVhOcGRHbHZiaUJvYVhOMGIzSnBZeUIwWVhSaElITnZibk1nTWpBeU5SQUFmYklZTUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHZhbHVhdGlvbiBvZiBUYXRhIFNvbnM%2FIiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCamRYSnlaVzUwSUhaaGJIVmhkR2x2YmlCdlppQjBZWFJoSUhOdmJuTSIsImJzIjoiYzRXUE82c0NNUkJHdVcycTI0bEJaRHJCRjVyQ2Rrc3JMYnlDaGRXd21UV1IzWXdtV2YzN054RjhObmJEZkljejg0bVZtT3dNUnJBQnRoZ1JscDdiMHlCQXd5R0NwNUpjQkN6UHJRMDJXbmFGNmtrWk0zaklJRGk2dnNaaUxlWnZ1ajkyWVpBOTNEVGtOR25ROW1KMUdxRmlEMnFtRm9YcXlzNU5HUkw4ekhNbU5tSzZNd3pvQ2FJaHFORWZLRDBXVE5vWXJqWDVBRnc5YnhVS1pMX0JZM0tfTUJsNVhCQjdNYnJfbUoxbDYzMXVlY0c2eFZ6aVF6aVd3LXMzX0NIX19ma0giLCJpZCI6ImZjX3YyLXphdm02RnZDbzBQRVByT0hpMFFjXzUifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Tata Group",
+      "link": "https://en.wikipedia.org/wiki/Tata_Group",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVo6r7h0tC_GcrMOrGMsIutEIJxYa3jAtgbGLWlb79XIDEgJ2p48cbg4sy6v4iU_386Q0gUPHfXxOIdmuUeadVswDDhqxs2arXFksCg7Hz8azx0qeWkda0L_BQ3g&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Tat...",
+      "snippet": "Tata Group comprises numerous affiliate companies, with Tata Sons as the holding company and promoter. As of October 2025, there are more than 20 publicly ...",
+      "snippet_highlighted_words": [
+        "Tata Group",
+        "Tata Sons",
+        "2025"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/Tata_Group#History"
+          },
+          {
+            "title": "Affiliated companies",
+            "link": "https://en.wikipedia.org/wiki/Tata_Group#Affiliated_companies"
+          },
+          {
+            "title": "Acquisitions",
+            "link": "https://en.wikipedia.org/wiki/Tata_Group#Acquisitions"
+          },
+          {
+            "title": "Controversies",
+            "link": "https://en.wikipedia.org/wiki/Tata_Group#Controversies"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Tata Group comprises numerous affiliate companies, with Tata Sons as the holding company and promoter. As of October 2025, there are more than 20 publicly ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Tata_Group",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm82cjdoMHRDX0djck1PckdNc0l1dEVJSnhZYTNqQXRnYkdMV2xiNzlYSURFZ0oycDQ4Y2JnNHN5NnY0aVVfMzg2UTBnVVBIZlh4T0lkbXVVZWFkVnN3RERocXhzMmFyWEZrc0NnN0h6OGF6eDBxZVdrZGEwTF9CUTNnEgQaAggAGr0GEgIIARoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAlwYIABAAGAAgACpwCghjb21wbGV0ZRWhCiU9Ggljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhU7M_E9GghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFTKuPD0aCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVniqSQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMVG7yqPxoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRXIJ2M-GglpdjtuOzIwMjUykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWbzZyN2gwdENfR2NyTU9yR01zSXV0RUlKeFlhM2pBdGdiR0xXbGI3OVhJREVnSjJwNDhjYmc0c3k2djRpVV8zODZRMGdVUEhmWHhPSWRtdVVlYWRWc3dERGhxeHMyYXJYRmtzQ2c3SHo4YXp4MHFlV2tkYTBMX0JRM2c6HTxiPlRhdGEgR3JvdXA8L2I-IC0gV2lraXBlZGlhQrgBPGI-VGF0YSBHcm91cDwvYj4gY29tcHJpc2VzIG51bWVyb3VzIGFmZmlsaWF0ZSBjb21wYW5pZXMsIHdpdGggPGI-VGF0YSBTb25zPC9iPiBhcyB0aGUgaG9sZGluZyBjb21wYW55IGFuZCBwcm9tb3Rlci4gQXMgb2YgT2N0b2JlciA8Yj4yMDI1PC9iPiwgdGhlcmUgYXJlIG1vcmUgdGhhbiAyMCBwdWJsaWNseSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm82cjdoMHRDX0djck1PckdNc0l1dEVJSnhZYTNqQXRnYkdMV2xiNzlYSURFZ0oycDQ4Y2JnNHN5NnY0aVVfMzg2UTBnVVBIZlh4T0lkbXVVZWFkVnN3RERocXhzMmFyWEZrc0NnN0h6OGF6eDBxZVdrZGEwTF9CUTNnEgQaAggAGr0GEgIIARoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAlwYIABAAGAAgACpwCghjb21wbGV0ZRWhCiU9Ggljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhU7M_E9GghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFTKuPD0aCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVniqSQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMVG7yqPxoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRXIJ2M-GglpdjtuOzIwMjUykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWbzZyN2gwdENfR2NyTU9yR01zSXV0RUlKeFlhM2pBdGdiR0xXbGI3OVhJREVnSjJwNDhjYmc0c3k2djRpVV8zODZRMGdVUEhmWHhPSWRtdVVlYWRWc3dERGhxeHMyYXJYRmtzQ2c3SHo4YXp4MHFlV2tkYTBMX0JRM2c6HTxiPlRhdGEgR3JvdXA8L2I-IC0gV2lraXBlZGlhQrgBPGI-VGF0YSBHcm91cDwvYj4gY29tcHJpc2VzIG51bWVyb3VzIGFmZmlsaWF0ZSBjb21wYW5pZXMsIHdpdGggPGI-VGF0YSBTb25zPC9iPiBhcyB0aGUgaG9sZGluZyBjb21wYW55IGFuZCBwcm9tb3Rlci4gQXMgb2YgT2N0b2JlciA8Yj4yMDI1PC9iPiwgdGhlcmUgYXJlIG1vcmUgdGhhbiAyMCBwdWJsaWNseSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Tata Group | Business and Management | Research Starters",
+      "link": "https://www.ebsco.com/research-starters/business-and-management/tata-group/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFXeV1zFOMNzSJs3kQRm3SOh4QdLnoXplTCLCkKGnxtpyGuQQ8VCRF__ejKH7LK5Sy1XqkNFSirGzv3LP0zdyTTVXgod-0s8ux2-_fb_rTQ0M_NgS1TiR3TfM4YvoHYjBaTj18B368yqqc2jXY2GQFgHnJlmPxT7-2DEOQtU-Iw&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://www.ebsco.com › tata-group",
+      "snippet": "Tata Group announced intentions to invest $18 billion in electronics and semiconductors and build nine new factories between 2025 and 2027. The company acquired ...",
+      "snippet_highlighted_words": [
+        "Tata Group",
+        "2025",
+        "acquired"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Group announced intentions to invest $18 billion in electronics and semiconductors and build nine new factories between 2025 and 2027. The company acquired ...",
+          "source_info_link": "https://www.ebsco.com/research-starters/business-and-management/tata-group/",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBQCdASocABwAPtEutFooIagoGAEAGglAE6ZY_AdO16g4BvH5ukPsImpEVphEt0DeAkAA_vDCAB0KrH9xS-6k_9qf7ov6FHj_w43GYvpv3TblaK9dj_fbicr8XsDFsrnSsjZDe0UDVHa7ih-zG04T_MUZ7eY9jazd0h8ZNHN98t5n2QpYp7zP-PisCczcOlniC6SH7uneh9Mm1vcvx6PjhfF8Frc9ZW0P6JKhj4aPEm2v5idx3_2G2Jh1cMf_iy2X8-m7CQ0pVlISoolMKtaPPGSMhmKduT-WVInS21uivWP_VBX9n_2ZuLv9Myo7stoClMedEOHo2gAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZYZVYxekZPTU56U0pzM2tRUm0zU09oNFFkTG5vWHBsVENMQ2tLR254dHB5R3VRUThWQ1JGX19laktIN0xLNVN5MVhxa05GU2lyR3p2M0xQMHpkeVRUVlhnb2QtMHM4dXgyLV9mYl9yVFEwTV9OZ1MxVGlSM1RmTTRZdm9IWWpCYVRqMThCMzY4eXFxYzJqWFkyR1FGZ0huSmxtUHhUNy0yREVPUXRVLUl3EgQaAggAGpUHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA7wYIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhUAAAAAGghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVrvWuQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMVsE2iPxoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRX1GMY-GglpdjtuOzIwMjUywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlhlVjF6Rk9NTnpTSnMza1FSbTNTT2g0UWRMbm9YcGxUQ0xDa0tHbnh0cHlHdVFROFZDUkZfX2VqS0g3TEs1U3kxWHFrTkZTaXJHenYzTFAwemR5VFRWWGdvZC0wczh1eDItX2ZiX3JUUTBNX05nUzFUaVIzVGZNNFl2b0hZakJhVGoxOEIzNjh5cXFjMmpYWTJHUUZnSG5KbG1QeFQ3LTJERU9RdFUtSXc6PzxiPlRhdGEgR3JvdXA8L2I-IHwgQnVzaW5lc3MgYW5kIE1hbmFnZW1lbnQgfCBSZXNlYXJjaCBTdGFydGVyc0K-ATxiPlRhdGEgR3JvdXA8L2I-IGFubm91bmNlZCBpbnRlbnRpb25zIHRvIGludmVzdCAkMTggYmlsbGlvbiBpbiBlbGVjdHJvbmljcyBhbmQgc2VtaWNvbmR1Y3RvcnMgYW5kIGJ1aWxkIG5pbmUgbmV3IGZhY3RvcmllcyBiZXR3ZWVuIDxiPjIwMjU8L2I-IGFuZCAyMDI3LiBUaGUgY29tcGFueSA8Yj5hY3F1aXJlZDwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZYZVYxekZPTU56U0pzM2tRUm0zU09oNFFkTG5vWHBsVENMQ2tLR254dHB5R3VRUThWQ1JGX19laktIN0xLNVN5MVhxa05GU2lyR3p2M0xQMHpkeVRUVlhnb2QtMHM4dXgyLV9mYl9yVFEwTV9OZ1MxVGlSM1RmTTRZdm9IWWpCYVRqMThCMzY4eXFxYzJqWFkyR1FGZ0huSmxtUHhUNy0yREVPUXRVLUl3EgQaAggAGpUHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA7wYIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhUAAAAAGghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVrvWuQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMVsE2iPxoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRX1GMY-GglpdjtuOzIwMjUywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlhlVjF6Rk9NTnpTSnMza1FSbTNTT2g0UWRMbm9YcGxUQ0xDa0tHbnh0cHlHdVFROFZDUkZfX2VqS0g3TEs1U3kxWHFrTkZTaXJHenYzTFAwemR5VFRWWGdvZC0wczh1eDItX2ZiX3JUUTBNX05nUzFUaVIzVGZNNFl2b0hZakJhVGoxOEIzNjh5cXFjMmpYWTJHUUZnSG5KbG1QeFQ3LTJERU9RdFUtSXc6PzxiPlRhdGEgR3JvdXA8L2I-IHwgQnVzaW5lc3MgYW5kIE1hbmFnZW1lbnQgfCBSZXNlYXJjaCBTdGFydGVyc0K-ATxiPlRhdGEgR3JvdXA8L2I-IGFubm91bmNlZCBpbnRlbnRpb25zIHRvIGludmVzdCAkMTggYmlsbGlvbiBpbiBlbGVjdHJvbmljcyBhbmQgc2VtaWNvbmR1Y3RvcnMgYW5kIGJ1aWxkIG5pbmUgbmV3IGZhY3RvcmllcyBiZXR3ZWVuIDxiPjIwMjU8L2I-IGFuZCAyMDI3LiBUaGUgY29tcGFueSA8Yj5hY3F1aXJlZDwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "EBSCO"
+    },
+    {
+      "position": 3,
+      "title": "Tata Group Acquisitions, 1868-2026 (Corus $12.9B, JLR)",
+      "link": "https://baratelliinstitute.com/tata-acquisitions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVqrMPDlQEWkRG-OwBybTBOujYeSlThT0ynj5p36CW4USVtyyA-kCZ_mE8gsz25ExqhtPJD5fZmXMVa5CigRLdt3XNvlxFm-qu-_dgezpYOwMzw7XnoX-z2OQZT7aQVbinGsoy&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://baratelliinstitute.com › tata-a...",
+      "date": "2026-07-06",
+      "snippet": "Every material Tata Group deal since 1868 — Tetley, Corus $12.9B, Jaguar Land Rover, Bhushan Steel, Air India. Sortable, free.",
+      "snippet_highlighted_words": [
+        "Every material Tata Group deal since 1868"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Every material Tata Group deal since 1868 — Tetley, Corus $12.9B, Jaguar Land Rover, Bhushan Steel, Air India. Sortable, free.",
+          "source_info_link": "https://baratelliinstitute.com/tata-acquisitions",
+          "icon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAABQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0ygx_pwG2A3AG8AegB0mqNBXASoIZp5EKXFcbYmz5yMr6uFZwTwW7jxXjCMkGowMAA_vtprbX8boPL39Lda8nVPSTV-xvgnkIs6BYL5h3Zf8hsg4Q273Nv0017fEP3E1vZ-u19NRzIO3JKsSKmbZF8chbP2_-_kPto80a_00DIP8f9D0jmcj_EnrUUExJRjS3WM_yXKj0BuauIRcl_9v7wWvHIPjqDt3r1-Fiag_cVFn--FeSpka_-UUQ0z7E_LYrJ0WPFVKsVCtOqnN28Z_9ZjvDPVhOHJUiOxoKR0iCj9AE6p9v7gEMIG0ZHd7q7ZX5DWQ5KXeeqY8uGrs6Jv7bFpP-M_FRpiSLjwJTvRnYwgwZoz47UYM-oRbJa6JXvrPUgOR9eYDjRPGonwg1dC4-9ch6aX-2FsiiY1b2aaPckTN3aNFN-QXs7fUwAxIhDAaQAAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVnFyTVBEbFFFV2tSRy1Pd0J5YlRCT3VqWWVTbFRoVDB5bmo1cDM2Q1c0VVNWdHl5QS1rQ1pfbUU4Z3N6MjVFeHFodFBKRDVmWm1YTVZhNUNpZ1JMZHQzWE52bHhGbS1xdS1fZGdlenBZT3dNenc3WG5vWC16Mk9RWlQ3YVFWYmluR3NveRIEGgIIABq0BhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCQBggAEAAYACAAKnAKCGNvbXBsZXRlFfKP5j4aCWNvbXBsZXRlcxoEZnVsbBoFdG90YWwaBXdob2xlGg1pdjtkO2NvbXBsZXRlGg5pdjtkO2NvbXBsZXRlcxoJaXY7ZDtmdWxsGgppdjtkO3RvdGFsGgppdjtkO3dob2xlKkUKC2FjcXVpc2l0aW9uFZQ7GEAaCGFjcXVpcmVkGgxhY3F1aXNpdGlvbnMaBm1lcmdlchoEc2FsZRoLdHJhbnNhY3Rpb24qYQoIaGlzdG9yaWMVAAAAABoKaGlzdG9yaWNhbBoHaGlzdG9yeRoDb2xkGg1pdjtkO2hpc3RvcmljGg9pdjtkO2hpc3RvcmljYWwaDGl2O2Q7aGlzdG9yeRoIaXY7ZDtvbGQqKAoEdGF0YRXKUd5AGgZ0w6R0w6QaCHRhdGFzb25zGglpdjtkO3RhdGEqQgoEc29ucxUtPf8_GgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7ZDtzb25zGgppdjtkO2dyb3VwGghpdjtkO3NvbioWCgQyMDI1FS9lIj4aCWl2O247MjAyNTKaAS9nb3RvP3VybD1DQUVTYUFIck96QVZxck1QRGxRRVdrUkctT3dCeWJUQk91alllU2xUaFQweW5qNXAzNkNXNFVTVnR5eUEta0NaX21FOGdzejI1RXhxaHRQSkQ1ZlptWE1WYTVDaWdSTGR0M1hOdmx4Rm0tcXUtX2RnZXpwWU93TXp3N1hub1gtejJPUVpUN2FRVmJpbkdzb3k6PTxiPlRhdGEgR3JvdXAgQWNxdWlzaXRpb25zPC9iPiwgMTg2OC0yMDI2IChDb3J1cyAkMTIuOUIsIEpMUilChwE8Yj5FdmVyeSBtYXRlcmlhbCBUYXRhIEdyb3VwIGRlYWwgc2luY2UgMTg2ODwvYj4g4oCUIFRldGxleSwgQ29ydXMgJDEyLjlCLCBKYWd1YXIgTGFuZCBSb3ZlciwgQmh1c2hhbiBTdGVlbCwgQWlyIEluZGlhLiBTb3J0YWJsZSwgZnJlZS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVnFyTVBEbFFFV2tSRy1Pd0J5YlRCT3VqWWVTbFRoVDB5bmo1cDM2Q1c0VVNWdHl5QS1rQ1pfbUU4Z3N6MjVFeHFodFBKRDVmWm1YTVZhNUNpZ1JMZHQzWE52bHhGbS1xdS1fZGdlenBZT3dNenc3WG5vWC16Mk9RWlQ3YVFWYmluR3NveRIEGgIIABq0BhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCQBggAEAAYACAAKnAKCGNvbXBsZXRlFfKP5j4aCWNvbXBsZXRlcxoEZnVsbBoFdG90YWwaBXdob2xlGg1pdjtkO2NvbXBsZXRlGg5pdjtkO2NvbXBsZXRlcxoJaXY7ZDtmdWxsGgppdjtkO3RvdGFsGgppdjtkO3dob2xlKkUKC2FjcXVpc2l0aW9uFZQ7GEAaCGFjcXVpcmVkGgxhY3F1aXNpdGlvbnMaBm1lcmdlchoEc2FsZRoLdHJhbnNhY3Rpb24qYQoIaGlzdG9yaWMVAAAAABoKaGlzdG9yaWNhbBoHaGlzdG9yeRoDb2xkGg1pdjtkO2hpc3RvcmljGg9pdjtkO2hpc3RvcmljYWwaDGl2O2Q7aGlzdG9yeRoIaXY7ZDtvbGQqKAoEdGF0YRXKUd5AGgZ0w6R0w6QaCHRhdGFzb25zGglpdjtkO3RhdGEqQgoEc29ucxUtPf8_GgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7ZDtzb25zGgppdjtkO2dyb3VwGghpdjtkO3NvbioWCgQyMDI1FS9lIj4aCWl2O247MjAyNTKaAS9nb3RvP3VybD1DQUVTYUFIck96QVZxck1QRGxRRVdrUkctT3dCeWJUQk91alllU2xUaFQweW5qNXAzNkNXNFVTVnR5eUEta0NaX21FOGdzejI1RXhxaHRQSkQ1ZlptWE1WYTVDaWdSTGR0M1hOdmx4Rm0tcXUtX2RnZXpwWU93TXp3N1hub1gtejJPUVpUN2FRVmJpbkdzb3k6PTxiPlRhdGEgR3JvdXAgQWNxdWlzaXRpb25zPC9iPiwgMTg2OC0yMDI2IChDb3J1cyAkMTIuOUIsIEpMUilChwE8Yj5FdmVyeSBtYXRlcmlhbCBUYXRhIEdyb3VwIGRlYWwgc2luY2UgMTg2ODwvYj4g4oCUIFRldGxleSwgQ29ydXMgJDEyLjlCLCBKYWd1YXIgTGFuZCBSb3ZlciwgQmh1c2hhbiBTdGVlbCwgQWlyIEluZGlhLiBTb3J0YWJsZSwgZnJlZS4iAhABSABYAGgA",
+      "source": "baratelliinstitute.com"
+    },
+    {
+      "position": 4,
+      "title": "Tata Sons Private Limited",
+      "link": "https://www.tata.com/content/dam/tata/pdf/fy26/Tata-Sons-Annual-Report-FY26v1.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFZBspIycdprg-B5ZmgSAi_F1hE-NQKe3hTb1i0icI6Hy5Giy9zYa4OItGiAczGvExL55lOfzlDE5qNA1rJ6kuJkL6zmpr2PXz6hM8FLHNLcEvZD2vrEn4Mtz7_M-VTQG-zN4u9AabyXvQRAT4c8b_hewpDxL8yobtTfE4IEtB20ANEpM3g&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.tata.com › content › dam › tata › pdf",
+      "snippet": "We are present in over 100 countries across the world, serving 900 million consumers worldwide. In 2025-26, the revenue of. Tata Group companies was $185 bn.",
+      "snippet_highlighted_words": [
+        "2025",
+        "Tata Group"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "puslapiai": 388
+          },
+          "extensions": [
+            "388 puslapiai"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "We are present in over 100 countries across the world, serving 900 million consumers worldwide. In 2025-26, the revenue of. Tata Group companies was $185 bn.",
+          "source_info_link": "https://www.tata.com/content/dam/tata/pdf/fy26/Tata-Sons-Annual-Report-FY26v1.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExIaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq7mEQnjAAAADHRSTlMAhiDWYzJ48U4Onb4iW1GjAAAA2klEQVQokbVRSRLDMAgzZvP2__cWMO1kO_TQMpOYIAySUsovgkmE-Alpc2XMdoEqrkNoPQ3cNetAjfQ4HKFFs0CMaYD9MLXBmIidpCDOka15MXcZ3Zop3sAiUm7gSJK-cxNa4wP2FOhgyj0spSiIgxIpnfzZ4gwMyVePwPgUsFVrwYO75gpRHP-O1Mju2yZtJ6VFfZknuiq4Alb_0PBz21BDs3dg2FF9mqaB7KANbF4n9wKWkst-g9OuufwA1ZK0KUB_xqZS2RswKYEwC_RS7eVJs99aWJ5c_DZe-lgLszsiLpQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZaQnNwSXljZHByZy1CNVptZ1NBaV9GMWhFLU5RS2UzaFRiMWkwaWNJNkh5NUdpeTl6WWE0T0l0R2lBY3pHdkV4TDU1bE9memxERTVxTkExcko2a3VKa0w2em1wcjJQWHo2aE04RkxITkxjRXZaRDJ2ckVuNE10ejdfTS1WVFFHLXpONHU5QWFieVh2UVJBVDRjOGJfaGV3cER4TDh5b2J0VGZFNElFdEIyMEFORXBNM2cSBBoCCAAa6wYSAggBGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDFBggAEAAYACAAKnAKCGNvbXBsZXRlFcXpKDwaCWNvbXBsZXRlcxoEZnVsbBoFdG90YWwaBXdob2xlGg1pdjtkO2NvbXBsZXRlGg5pdjtkO2NvbXBsZXRlcxoJaXY7ZDtmdWxsGgppdjtkO3RvdGFsGgppdjtkO3dob2xlKkUKC2FjcXVpc2l0aW9uFT6Ooj0aCGFjcXVpcmVkGgxhY3F1aXNpdGlvbnMaBm1lcmdlchoEc2FsZRoLdHJhbnNhY3Rpb24qYQoIaGlzdG9yaWMVWhjROxoKaGlzdG9yaWNhbBoHaGlzdG9yeRoDb2xkGg1pdjtkO2hpc3RvcmljGg9pdjtkO2hpc3RvcmljYWwaDGl2O2Q7aGlzdG9yeRoIaXY7ZDtvbGQqKAoEdGF0YRVFOZ9AGgZ0w6R0w6QaCHRhdGFzb25zGglpdjtkO3RhdGEqQgoEc29ucxUirTxAGgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7ZDtzb25zGgppdjtkO2dyb3VwGghpdjtkO3NvbioWCgQyMDI1FWiuyz4aCWl2O247MjAyNTLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGWkJzcEl5Y2RwcmctQjVabWdTQWlfRjFoRS1OUUtlM2hUYjFpMGljSTZIeTVHaXk5ellhNE9JdEdpQWN6R3ZFeEw1NWxPZnpsREU1cU5BMXJKNmt1SmtMNnptcHIyUFh6NmhNOEZMSE5MY0V2WkQydnJFbjRNdHo3X00tVlRRRy16TjR1OUFhYnlYdlFSQVQ0YzhiX2hld3BEeEw4eW9idFRmRTRJRXRCMjBBTkVwTTNnOiA8Yj5UYXRhIFNvbnM8L2I-IFByaXZhdGUgTGltaXRlZEKrAVdlIGFyZSBwcmVzZW50IGluIG92ZXIgMTAwIGNvdW50cmllcyBhY3Jvc3MgdGhlIHdvcmxkLCBzZXJ2aW5nIDkwMCBtaWxsaW9uIGNvbnN1bWVycyB3b3JsZHdpZGUuIEluIDxiPjIwMjU8L2I-LTI2LCB0aGUgcmV2ZW51ZSBvZi4gPGI-VGF0YSBHcm91cDwvYj4gY29tcGFuaWVzIHdhcyAkMTg1IGJuLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZaQnNwSXljZHByZy1CNVptZ1NBaV9GMWhFLU5RS2UzaFRiMWkwaWNJNkh5NUdpeTl6WWE0T0l0R2lBY3pHdkV4TDU1bE9memxERTVxTkExcko2a3VKa0w2em1wcjJQWHo2aE04RkxITkxjRXZaRDJ2ckVuNE10ejdfTS1WVFFHLXpONHU5QWFieVh2UVJBVDRjOGJfaGV3cER4TDh5b2J0VGZFNElFdEIyMEFORXBNM2cSBBoCCAAa6wYSAggBGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDFBggAEAAYACAAKnAKCGNvbXBsZXRlFcXpKDwaCWNvbXBsZXRlcxoEZnVsbBoFdG90YWwaBXdob2xlGg1pdjtkO2NvbXBsZXRlGg5pdjtkO2NvbXBsZXRlcxoJaXY7ZDtmdWxsGgppdjtkO3RvdGFsGgppdjtkO3dob2xlKkUKC2FjcXVpc2l0aW9uFT6Ooj0aCGFjcXVpcmVkGgxhY3F1aXNpdGlvbnMaBm1lcmdlchoEc2FsZRoLdHJhbnNhY3Rpb24qYQoIaGlzdG9yaWMVWhjROxoKaGlzdG9yaWNhbBoHaGlzdG9yeRoDb2xkGg1pdjtkO2hpc3RvcmljGg9pdjtkO2hpc3RvcmljYWwaDGl2O2Q7aGlzdG9yeRoIaXY7ZDtvbGQqKAoEdGF0YRVFOZ9AGgZ0w6R0w6QaCHRhdGFzb25zGglpdjtkO3RhdGEqQgoEc29ucxUirTxAGgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7ZDtzb25zGgppdjtkO2dyb3VwGghpdjtkO3NvbioWCgQyMDI1FWiuyz4aCWl2O247MjAyNTLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGWkJzcEl5Y2RwcmctQjVabWdTQWlfRjFoRS1OUUtlM2hUYjFpMGljSTZIeTVHaXk5ellhNE9JdEdpQWN6R3ZFeEw1NWxPZnpsREU1cU5BMXJKNmt1SmtMNnptcHIyUFh6NmhNOEZMSE5MY0V2WkQydnJFbjRNdHo3X00tVlRRRy16TjR1OUFhYnlYdlFSQVQ0YzhiX2hld3BEeEw4eW9idFRmRTRJRXRCMjBBTkVwTTNnOiA8Yj5UYXRhIFNvbnM8L2I-IFByaXZhdGUgTGltaXRlZEKrAVdlIGFyZSBwcmVzZW50IGluIG92ZXIgMTAwIGNvdW50cmllcyBhY3Jvc3MgdGhlIHdvcmxkLCBzZXJ2aW5nIDkwMCBtaWxsaW9uIGNvbnN1bWVycyB3b3JsZHdpZGUuIEluIDxiPjIwMjU8L2I-LTI2LCB0aGUgcmV2ZW51ZSBvZi4gPGI-VGF0YSBHcm91cDwvYj4gY29tcGFuaWVzIHdhcyAkMTg1IGJuLiICEAFIAFgAaAA",
+      "source": "The Tata group. Leadership with Trust."
+    },
+    {
+      "position": 5,
+      "title": "Tata Sons: India's corporate crown braces for upheaval ...",
+      "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVNNctSFvDUyxRdXUhqh1oHw1Eu7rFnFbuBk4ffFJlRPoshZBx0yfwmCLqaqdPd0BGDxKjr5bSITxPZYf7dEEk0kx0xxPCv1XRYUm5hrV1ZWh0kEK5oFypRMgdwXa3YrH5fMyciA&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://www.bbc.co.uk › articles",
+      "date": "prieš 4 dienas",
+      "snippet": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "snippet_highlighted_words": [
+        "Tata"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+          "source_info_link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o",
+          "icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAABQBACdASocABwAPtEutFooIagoGAEAGglpAABc6vNEnPU1--1oio5vAtAAAP72AU19n-Jz4FZyw_HkQHjxW_xb38RJEOBPlkEoT5-leVVfLTm4t-p7TtVUk_u4kyIPNTUaX3A38OG3ktYFvqhpRIi1rbiKlmzh7pkS_5uoT7Kn89g_L6Hsa2M8RgAAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVk5OY3RTRnZEVXl4UmRYVWhxaDFvSHcxRXU3ckZuRmJ1Qms0ZmZGSmxSUG9zaFpCeDB5ZndtQ0xxYXFkUGQwQkdEeEtqcjViU0lUeFBaWWY3ZEVFazBreDB4eFBDdjFYUllVbTVoclYxWldoMGtFSzVvRnlwUk1nZHdYYTNZckg1Zk15Y2lBEgQaAggAGrEGEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCJBggAEAAYACAAKnAKCGNvbXBsZXRlFUO4FD0aCWNvbXBsZXRlcxoEZnVsbBoFdG90YWwaBXdob2xlGg1pdjtkO2NvbXBsZXRlGg5pdjtkO2NvbXBsZXRlcxoJaXY7ZDtmdWxsGgppdjtkO3RvdGFsGgppdjtkO3dob2xlKkUKC2FjcXVpc2l0aW9uFQAAAAAaCGFjcXVpcmVkGgxhY3F1aXNpdGlvbnMaBm1lcmdlchoEc2FsZRoLdHJhbnNhY3Rpb24qYQoIaGlzdG9yaWMVAAAAABoKaGlzdG9yaWNhbBoHaGlzdG9yeRoDb2xkGg1pdjtkO2hpc3RvcmljGg9pdjtkO2hpc3RvcmljYWwaDGl2O2Q7aGlzdG9yeRoIaXY7ZDtvbGQqKAoEdGF0YRXAiW9AGgZ0w6R0w6QaCHRhdGFzb25zGglpdjtkO3RhdGEqQgoEc29ucxXqpENAGgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7ZDtzb25zGgppdjtkO2dyb3VwGghpdjtkO3NvbioWCgQyMDI1FQAAAAAaCWl2O247MjAyNTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZOTmN0U0Z2RFV5eFJkWFVocWgxb0h3MUV1N3JGbkZidUJrNGZmRkpsUlBvc2haQngweWZ3bUNMcWFxZFBkMEJHRHhLanI1YlNJVHhQWllmN2RFRWswa3gweHhQQ3YxWFJZVW01aHJWMVpXaDBrRUs1b0Z5cFJNZ2R3WGEzWXJINWZNeWNpQTpLPGI-VGF0YSBTb25zPC9iPjogSW5kaWEmIzM5O3MgY29ycG9yYXRlIGNyb3duIGJyYWNlcyBmb3IgdXBoZWF2YWwgLi4uIC0gQkJDQnFUaGUgPGI-VGF0YTwvYj4gYm9hcmRyb29tIGJhdHRsZSBoYXMgaW50ZW5zaWZpZWQgb3ZlciBhIHJlLWFwcG9pbnRtZW50IG9mIGl0cyBjaGFpcm1hbiBhbmQgYSBkaWt0YXQgdG8gZ28gcHVibGljLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVk5OY3RTRnZEVXl4UmRYVWhxaDFvSHcxRXU3ckZuRmJ1Qms0ZmZGSmxSUG9zaFpCeDB5ZndtQ0xxYXFkUGQwQkdEeEtqcjViU0lUeFBaWWY3ZEVFazBreDB4eFBDdjFYUllVbTVoclYxWldoMGtFSzVvRnlwUk1nZHdYYTNZckg1Zk15Y2lBEgQaAggAGrEGEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCJBggAEAAYACAAKnAKCGNvbXBsZXRlFUO4FD0aCWNvbXBsZXRlcxoEZnVsbBoFdG90YWwaBXdob2xlGg1pdjtkO2NvbXBsZXRlGg5pdjtkO2NvbXBsZXRlcxoJaXY7ZDtmdWxsGgppdjtkO3RvdGFsGgppdjtkO3dob2xlKkUKC2FjcXVpc2l0aW9uFQAAAAAaCGFjcXVpcmVkGgxhY3F1aXNpdGlvbnMaBm1lcmdlchoEc2FsZRoLdHJhbnNhY3Rpb24qYQoIaGlzdG9yaWMVAAAAABoKaGlzdG9yaWNhbBoHaGlzdG9yeRoDb2xkGg1pdjtkO2hpc3RvcmljGg9pdjtkO2hpc3RvcmljYWwaDGl2O2Q7aGlzdG9yeRoIaXY7ZDtvbGQqKAoEdGF0YRXAiW9AGgZ0w6R0w6QaCHRhdGFzb25zGglpdjtkO3RhdGEqQgoEc29ucxXqpENAGgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7ZDtzb25zGgppdjtkO2dyb3VwGghpdjtkO3NvbioWCgQyMDI1FQAAAAAaCWl2O247MjAyNTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZOTmN0U0Z2RFV5eFJkWFVocWgxb0h3MUV1N3JGbkZidUJrNGZmRkpsUlBvc2haQngweWZ3bUNMcWFxZFBkMEJHRHhLanI1YlNJVHhQWllmN2RFRWswa3gweHhQQ3YxWFJZVW01aHJWMVpXaDBrRUs1b0Z5cFJNZ2R3WGEzWXJINWZNeWNpQTpLPGI-VGF0YSBTb25zPC9iPjogSW5kaWEmIzM5O3MgY29ycG9yYXRlIGNyb3duIGJyYWNlcyBmb3IgdXBoZWF2YWwgLi4uIC0gQkJDQnFUaGUgPGI-VGF0YTwvYj4gYm9hcmRyb29tIGJhdHRsZSBoYXMgaW50ZW5zaWZpZWQgb3ZlciBhIHJlLWFwcG9pbnRtZW50IG9mIGl0cyBjaGFpcm1hbiBhbmQgYSBkaWt0YXQgdG8gZ28gcHVibGljLiICEAFIAFgAaAA",
+      "source": "BBC"
+    },
+    {
+      "position": 6,
+      "title": "Ratan Tata के बाद Tata Group में Crisis? Will the Tata ...",
+      "link": "https://www.facebook.com/RahulMalodiaOfficial/posts/ratan-tata-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%A6-tata-group-%E0%A4%AE%E0%A5%87%E0%A4%82-crisiswill-the-tata-group-face-challenges-after/1412940710842508/",
+      "displayed_link": "Reakcijų: daugiau nei 5,8 tūkst. · prieš 11 mėnesių",
+      "thumbnail": "https://serpapi.com/searches/6ab36fbe2f5ea07f01b5cb67/images/oEg4FnDGSI0t8ISjii8IVr5IAhvrfoEtaPz9T7pmwe0.jpeg",
+      "snippet": "But now, a historic dispute has emerged within the Tata Trusts. Some ... If you're curious about TATA Group and want to understand the full ...",
+      "duration": "0:48",
+      "about_this_result": {
+        "source": {
+          "description": "But now, a historic dispute has emerged within the Tata Trusts. Some ... If you're curious about TATA Group and want to understand the full ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvoCL2dvdG8_dXJsPUNBRVNqd0lCNnpzd0ZiODR0U1FaX19feU5jb2RISUlvQ3M4UzJ4VXRkaXZtVUJSR2E4LVhyY01ka2RVMkJRUmJqcFZPOG1pWmtUV1o4SUhwcUh4SG9HSGdSRHcxQlVkVTVfSnhLTHdLMFVLUEdSUW15RW1CcWZvaDFxTmliTlVJMW56LWg5TlRTMzAyUHF1Ymk5TmdicDRyd1dCNWtnT081c2VyZEpLN09XMWV0QzFPaHRHamRZX2ZYcEVJWEhQTkZrbEw4SXZWYVA3YmFmM1NOV2FZWHVnNTEtenU2ZXhnMHlRMGYyclhHQTM4OEJpUmgtZHhvYkowLVp3SV9SRjM2cWVLcG4tV20xdlptc2xrc0xOOVVPTm9EX3Z4OGVGN0R6RUpLU3BtQklfNDFfVDhDRHNOc2d3eGdGdFJSVDZiZmZyR1AyYk1SWFI4Y1g1aTBsN2FITkVSSGVJYW9kb0w4ay1oQldFSzd5WVVSanpNEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvoCL2dvdG8_dXJsPUNBRVNqd0lCNnpzd0ZiODR0U1FaX19feU5jb2RISUlvQ3M4UzJ4VXRkaXZtVUJSR2E4LVhyY01ka2RVMkJRUmJqcFZPOG1pWmtUV1o4SUhwcUh4SG9HSGdSRHcxQlVkVTVfSnhLTHdLMFVLUEdSUW15RW1CcWZvaDFxTmliTlVJMW56LWg5TlRTMzAyUHF1Ymk5TmdicDRyd1dCNWtnT081c2VyZEpLN09XMWV0QzFPaHRHamRZX2ZYcEVJWEhQTkZrbEw4SXZWYVA3YmFmM1NOV2FZWHVnNTEtenU2ZXhnMHlRMGYyclhHQTM4OEJpUmgtZHhvYkowLVp3SV9SRjM2cWVLcG4tV20xdlptc2xrc0xOOVVPTm9EX3Z4OGVGN0R6RUpLU3BtQklfNDFfVDhDRHNOc2d3eGdGdFJSVDZiZmZyR1AyYk1SWFI4Y1g1aTBsN2FITkVSSGVJYW9kb0w4ay1oQldFSzd5WVVSanpNEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · Rahul Malodia"
+    },
+    {
+      "position": 7,
+      "title": "Tata Group's Global Acquisitions Overview | PDF | Brand",
+      "link": "https://www.scribd.com/document/554591824/Tata-Group-Acquisitions",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVQsoKYgpMeN1exR25OhRb-OWxpeYiM4LP2DaaljV0Z6mPsBm0672-j2jaWKu_qsPCTxU9pP1RncEuMl7AGq3XNKAeBbNeCvy8Tg800bPGG9VNfwBZTQWJB51AsoS77wXxHRrQ9VKeZ5KvNqkY52oetGHBvE4&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECEsQAQ&uoh=1",
+      "displayed_link": "https://www.scribd.com › document",
+      "snippet": "The Tata Group has made numerous global acquisitions in recent years across various industries such as steel, automobiles, IT services, and tea.",
+      "snippet_highlighted_words": [
+        "Tata Group",
+        "acquisitions"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tata Group has made numerous global acquisitions in recent years across various industries such as steel, automobiles, IT services, and tea.",
+          "source_info_link": "https://www.scribd.com/document/554591824/Tata-Group-Acquisitions",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALsNcA6TAiSRiU0ciNsNw4-ckvZckbI8Q0Lri0nWvPTAAP6fWoc5hI1waVpH4HPI-z3W07wkXNBNlhQO9hAKmOv8njeniRb9FCg1c1JmF3efXUUmw2bU_zMmv4y8p_nL016PcG2_Kkra3QUXk6GbHsoOEa89zFXoAnXirQsiNRzPXeKrniAu0unVpGtsEeMjevYRjJ48Bp-DMJ4D_R_y1f316ypJ0S_9mXgcgm8VoTywUh86jiUV9Al4I6yaumsUkda-7a6L12tg8hgBlh0gWv0-rnf3aeCVRG6cfsuzLtT0ruwHdbHm1C0wW2RxRakx4lXvH-JOfzi7UEbqOQ5wVHgAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlFzb0tZZ3BNZU4xZXhSMjVPaFJiLU9XeHBlWWlNNExQMkRhYWxqVjBaNm1Qc0JtMDY3Mi1qMmphV0t1X3FzUENUeFU5cFAxUm5jRXVNbDdBR3EzWE5LQWVCYk5lQ3Z5OFRnODAwYlBHRzlWTmZ3QlpUUVdKQjUxQXNvUzc3d1h4SFJyUTlWS2VaNUt2TnFrWTUyb2V0R0hCdkU0EgQaAggAGvEGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAywYIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhWr-CU_GghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVbtuhQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMV1IaxPhoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRVb6Eo9GglpdjtuOzIwMjUysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWUXNvS1lncE1lTjFleFIyNU9oUmItT1d4cGVZaU00TFAyRGFhbGpWMFo2bVBzQm0wNjcyLWoyamFXS3VfcXNQQ1R4VTlwUDFSbmNFdU1sN0FHcTNYTktBZUJiTmVDdnk4VGc4MDBiUEdHOVZOZndCWlRRV0pCNTFBc29TNzd3WHhIUnJROVZLZVo1S3ZOcWtZNTJvZXRHSEJ2RTQ6SjxiPlRhdGEgR3JvdXAmIzM5O3M8L2I-IEdsb2JhbCA8Yj5BY3F1aXNpdGlvbnM8L2I-IE92ZXJ2aWV3IHwgUERGIC0gU2NyaWJkQp4BVGhlIDxiPlRhdGEgR3JvdXA8L2I-IGhhcyBtYWRlIG51bWVyb3VzIGdsb2JhbCA8Yj5hY3F1aXNpdGlvbnM8L2I-IGluIHJlY2VudCB5ZWFycyBhY3Jvc3MgdmFyaW91cyBpbmR1c3RyaWVzIHN1Y2ggYXMgc3RlZWwsIGF1dG9tb2JpbGVzLCBJVCBzZXJ2aWNlcywgYW5kIHRlYS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlFzb0tZZ3BNZU4xZXhSMjVPaFJiLU9XeHBlWWlNNExQMkRhYWxqVjBaNm1Qc0JtMDY3Mi1qMmphV0t1X3FzUENUeFU5cFAxUm5jRXVNbDdBR3EzWE5LQWVCYk5lQ3Z5OFRnODAwYlBHRzlWTmZ3QlpUUVdKQjUxQXNvUzc3d1h4SFJyUTlWS2VaNUt2TnFrWTUyb2V0R0hCdkU0EgQaAggAGvEGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAywYIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhWr-CU_GghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVbtuhQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMV1IaxPhoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRVb6Eo9GglpdjtuOzIwMjUysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWUXNvS1lncE1lTjFleFIyNU9oUmItT1d4cGVZaU00TFAyRGFhbGpWMFo2bVBzQm0wNjcyLWoyamFXS3VfcXNQQ1R4VTlwUDFSbmNFdU1sN0FHcTNYTktBZUJiTmVDdnk4VGc4MDBiUEdHOVZOZndCWlRRV0pCNTFBc29TNzd3WHhIUnJROVZLZVo1S3ZOcWtZNTJvZXRHSEJ2RTQ6SjxiPlRhdGEgR3JvdXAmIzM5O3M8L2I-IEdsb2JhbCA8Yj5BY3F1aXNpdGlvbnM8L2I-IE92ZXJ2aWV3IHwgUERGIC0gU2NyaWJkQp4BVGhlIDxiPlRhdGEgR3JvdXA8L2I-IGhhcyBtYWRlIG51bWVyb3VzIGdsb2JhbCA8Yj5hY3F1aXNpdGlvbnM8L2I-IGluIHJlY2VudCB5ZWFycyBhY3Jvc3MgdmFyaW91cyBpbmR1c3RyaWVzIHN1Y2ggYXMgc3RlZWwsIGF1dG9tb2JpbGVzLCBJVCBzZXJ2aWNlcywgYW5kIHRlYS4iAhABSABYAGgA",
+      "source": "Scribd"
+    },
+    {
+      "position": 8,
+      "title": "Tata Sons Portfolio: Latest Tata Sons Shareholdings (2026)",
+      "link": "https://www.tickertape.in/stocks/collections/tata-sons-portfolio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVDGmIMs72WD7SI7g7C2U5S9N4GfATDdSD_gJIFgsywZiDuNsBZcBUuxI5_n7WFtdENHEGTzwF62gEY6nK_UuOJ3ZkNHZ10mI50A_9MwwoETotpHwE8lKWBe93J2c81kXiamYDA-zbYLCveqUrmPL_bXSRAw&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECEoQAQ&uoh=1",
+      "displayed_link": "https://www.tickertape.in › collections",
+      "snippet": "Learn about the stocks in the Tata Sons Portfolio as of March 2026. Explore investment strategies, net worth and holdings.",
+      "snippet_highlighted_words": [
+        "Learn about the stocks in the Tata Sons Portfolio"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn about the stocks in the Tata Sons Portfolio as of March 2026. Explore investment strategies, net worth and holdings.",
+          "source_info_link": "https://www.tickertape.in/stocks/collections/tata-sons-portfolio",
+          "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglnAKWtjAfo4M6VAzwcL88TWH4lPx2YV3vGSaVXiORs2fUAAP0DO2hWTbd3X6ag1TdqX7QMgurGvdXZv79fhRvfgxzrYALIwsKb-FkBDgON9vf0506GnuRVnwxPOFPeKf7jXBO97duz0_3ikY-ovjgBIXGjkC_ld86jTB2Qobu8REFBt39H6HKf67f7Sw08iGaHfbVT_3wqN1-VDyEVtQOsaAeLWERy_x_9SjjWOp9xBpjS_Jtm-7BKfYF_peF83s2Cyl4NMBaRJfOfkF9mQK32JKYGft4WcHfsVwIo_ml9-oAgWONxBZu5PxpHu3aPjXt7v_BOO7rP2-6BvDz-VNVdHWQ3CYiA2AsafWMPCmgAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkRHbUlNczcyV0Q3U0k3ZzdDMlU1UzlONEdmQVREZFNEX2dKSUZnc3l3WmlEdU5zQlpjQlV1eEk1X243V0Z0ZEVOSEVHVHp3RjYyZ0VZNm5LX1V1T0ozWmtOSFoxMG1JNTBBXzlNd3dvRVRvdHBId0U4bEtXQmU5M0oyYzgxa1hpYW1ZREEtemJZTEN2ZXFVcm1QTF9iWFNSQXcSBBoCCAAazwYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAqwYIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhUAAAAAGghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVeTSsQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMV3kOiQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRU2mwo-GglpdjtuOzIwMjUysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWREdtSU1zNzJXRDdTSTdnN0MyVTVTOU40R2ZBVERkU0RfZ0pJRmdzeXdaaUR1TnNCWmNCVXV4STVfbjdXRnRkRU5IRUdUendGNjJnRVk2bktfVXVPSjNaa05IWjEwbUk1MEFfOU13d29FVG90cEh3RThsS1dCZTkzSjJjODFrWGlhbVlEQS16YllMQ3ZlcVVybVBMX2JYU1JBdzpIPGI-VGF0YSBTb25zPC9iPiBQb3J0Zm9saW86IExhdGVzdCA8Yj5UYXRhIFNvbnM8L2I-IFNoYXJlaG9sZGluZ3MgKDIwMjYpQoEBPGI-TGVhcm4gYWJvdXQgdGhlIHN0b2NrcyBpbiB0aGUgVGF0YSBTb25zIFBvcnRmb2xpbzwvYj4gYXMgb2YgTWFyY2ggMjAyNi4gRXhwbG9yZSBpbnZlc3RtZW50IHN0cmF0ZWdpZXMsIG5ldCB3b3J0aCBhbmQgaG9sZGluZ3MuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkRHbUlNczcyV0Q3U0k3ZzdDMlU1UzlONEdmQVREZFNEX2dKSUZnc3l3WmlEdU5zQlpjQlV1eEk1X243V0Z0ZEVOSEVHVHp3RjYyZ0VZNm5LX1V1T0ozWmtOSFoxMG1JNTBBXzlNd3dvRVRvdHBId0U4bEtXQmU5M0oyYzgxa1hpYW1ZREEtemJZTEN2ZXFVcm1QTF9iWFNSQXcSBBoCCAAazwYSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAqwYIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhUAAAAAGghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVeTSsQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMV3kOiQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRU2mwo-GglpdjtuOzIwMjUysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWREdtSU1zNzJXRDdTSTdnN0MyVTVTOU40R2ZBVERkU0RfZ0pJRmdzeXdaaUR1TnNCWmNCVXV4STVfbjdXRnRkRU5IRUdUendGNjJnRVk2bktfVXVPSjNaa05IWjEwbUk1MEFfOU13d29FVG90cEh3RThsS1dCZTkzSjJjODFrWGlhbVlEQS16YllMQ3ZlcVVybVBMX2JYU1JBdzpIPGI-VGF0YSBTb25zPC9iPiBQb3J0Zm9saW86IExhdGVzdCA8Yj5UYXRhIFNvbnM8L2I-IFNoYXJlaG9sZGluZ3MgKDIwMjYpQoEBPGI-TGVhcm4gYWJvdXQgdGhlIHN0b2NrcyBpbiB0aGUgVGF0YSBTb25zIFBvcnRmb2xpbzwvYj4gYXMgb2YgTWFyY2ggMjAyNi4gRXhwbG9yZSBpbnZlc3RtZW50IHN0cmF0ZWdpZXMsIG5ldCB3b3J0aCBhbmQgaG9sZGluZ3MuIgIQAUgAWABoAA",
+      "source": "Tickertape"
+    },
+    {
+      "position": 9,
+      "title": "From coffee to cars: Inside the Tata empire as its chairman ...",
+      "link": "https://www.straitstimes.com/business/from-coffee-to-cars-inside-the-tata-empire-as-its-chairman-steps-down",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFTS0qCCOKNtUHTHvFApuRlBy0WEg3WpaOrcx5mdiDH_SKI9R1HyngjPXS7afdmDEJx4lvuFSBIMBqD5avVQHHHeOCNWQ7WWBb2B2i_p9VH0ET63qPwg7YOYFnq-FP42G1JeJyRM9YgqjHGHOhQZJysf2ekm_6VR4aqdzxWygWxP-D1agWL-zSAaAVimW2yl_xXhnN1RtMQoaz2GjdYiY&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQFnoECEwQAQ&uoh=1",
+      "displayed_link": "https://www.straitstimes.com › from...",
+      "date": "2026-08-12",
+      "snippet": "In 2025, Tata Motors agreed to acquire Europe's Iveco Group in an all-cash deal valued at US$4.36 billion, combining the two companies ...",
+      "snippet_highlighted_words": [
+        "2025",
+        "Tata",
+        "Group"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In 2025, Tata Motors agreed to acquire Europe's Iveco Group in an all-cash deal valued at US$4.36 billion, combining the two companies ...",
+          "source_info_link": "https://www.straitstimes.com/business/from-coffee-to-cars-inside-the-tata-empire-as-its-chairman-steps-down",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADQBQCdASocABwAPtEutFooIagoGAEAGgljAMip_-N4FvpN7vXbC2kozvm7axInRdRPhwQa8IgAAP72BhFRgRq0EP4drfLrlrEKdA0KlMDZxdF-IVfGEe8AFYIF_I0nXfZk77t0kdwNtXdjXNuNNVveJ_sVW4XPsTTfUBdiWDvEbPcryJUf0qa5s_HXW__BM1O5UP_B1Xyehm0pQE6Zln17_m-9MvINpnCGArhTWNFG5xZk9ZZwIJYcEk104sP-vSZzrvdWFBrtd8qU9YJNuCnh-hZJWq8Mjoa4LnRjkyNY_euPKa9TECyPcKdcsdrNwiY28QjHiTMVoAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZUUzBxQ0NPS050VUhUSHZGQXB1UmxCeTBXRWczV3BhT3JjeDVtZGlESF9TS0k5UjFIeW5nalBYUzdhZmRtREVKeDRsdnVGU0JJTUJxRDVhdlZRSEhIZU9DTldRN1dXQmIyQjJpX3A5VkgwRVQ2M3FQd2c3WU9ZRm5xLUZQNDJHMUplSnlSTTlZZ3FqSEdIT2hRWkp5c2YyZWttXzZWUjRhcWR6eFd5Z1d4UC1EMWFnV0wtelNBYUFWaW1XMnlsX3hYaG5OMVJ0TVFvYXoyR2pkWWlZEgQaAggAGrAHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAigcIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhW_8Ng-GghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVRImkQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMVmPwOQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRXQPRc_GglpdjtuOzIwMjUy6gEvZ290bz91cmw9Q0FFU293RUI2enN3RlRTMHFDQ09LTnRVSFRIdkZBcHVSbEJ5MFdFZzNXcGFPcmN4NW1kaURIX1NLSTlSMUh5bmdqUFhTN2FmZG1ERUp4NGx2dUZTQklNQnFENWF2VlFISEhlT0NOV1E3V1dCYjJCMmlfcDlWSDBFVDYzcVB3ZzdZT1lGbnEtRlA0MkcxSmVKeVJNOVlncWpIR0hPaFFaSnlzZjJla21fNlZSNGFxZHp4V3lnV3hQLUQxYWdXTC16U0FhQVZpbVcyeWxfeFhobk4xUnRNUW9hejJHamRZaVk6RkZyb20gY29mZmVlIHRvIGNhcnM6IEluc2lkZSB0aGUgPGI-VGF0YTwvYj4gZW1waXJlIGFzIGl0cyBjaGFpcm1hbiAuLi5CqAFJbiA8Yj4yMDI1PC9iPiwgPGI-VGF0YTwvYj4gTW90b3JzIGFncmVlZCB0byBhY3F1aXJlIEV1cm9wZSYjMzk7cyBJdmVjbyA8Yj5Hcm91cDwvYj4gaW4gYW4gYWxsLWNhc2ggZGVhbCB2YWx1ZWQgYXQgVVMkNC4zNiBiaWxsaW9uLCBjb21iaW5pbmcgdGhlIHR3byBjb21wYW5pZXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZUUzBxQ0NPS050VUhUSHZGQXB1UmxCeTBXRWczV3BhT3JjeDVtZGlESF9TS0k5UjFIeW5nalBYUzdhZmRtREVKeDRsdnVGU0JJTUJxRDVhdlZRSEhIZU9DTldRN1dXQmIyQjJpX3A5VkgwRVQ2M3FQd2c3WU9ZRm5xLUZQNDJHMUplSnlSTTlZZ3FqSEdIT2hRWkp5c2YyZWttXzZWUjRhcWR6eFd5Z1d4UC1EMWFnV0wtelNBYUFWaW1XMnlsX3hYaG5OMVJ0TVFvYXoyR2pkWWlZEgQaAggAGrAHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAigcIABAAGAAgACpwCghjb21wbGV0ZRUAAAAAGgljb21wbGV0ZXMaBGZ1bGwaBXRvdGFsGgV3aG9sZRoNaXY7ZDtjb21wbGV0ZRoOaXY7ZDtjb21wbGV0ZXMaCWl2O2Q7ZnVsbBoKaXY7ZDt0b3RhbBoKaXY7ZDt3aG9sZSpFCgthY3F1aXNpdGlvbhW_8Ng-GghhY3F1aXJlZBoMYWNxdWlzaXRpb25zGgZtZXJnZXIaBHNhbGUaC3RyYW5zYWN0aW9uKmEKCGhpc3RvcmljFQAAAAAaCmhpc3RvcmljYWwaB2hpc3RvcnkaA29sZBoNaXY7ZDtoaXN0b3JpYxoPaXY7ZDtoaXN0b3JpY2FsGgxpdjtkO2hpc3RvcnkaCGl2O2Q7b2xkKigKBHRhdGEVRImkQBoGdMOkdMOkGgh0YXRhc29ucxoJaXY7ZDt0YXRhKkIKBHNvbnMVmPwOQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O2Q7c29ucxoKaXY7ZDtncm91cBoIaXY7ZDtzb24qFgoEMjAyNRXQPRc_GglpdjtuOzIwMjUy6gEvZ290bz91cmw9Q0FFU293RUI2enN3RlRTMHFDQ09LTnRVSFRIdkZBcHVSbEJ5MFdFZzNXcGFPcmN4NW1kaURIX1NLSTlSMUh5bmdqUFhTN2FmZG1ERUp4NGx2dUZTQklNQnFENWF2VlFISEhlT0NOV1E3V1dCYjJCMmlfcDlWSDBFVDYzcVB3ZzdZT1lGbnEtRlA0MkcxSmVKeVJNOVlncWpIR0hPaFFaSnlzZjJla21fNlZSNGFxZHp4V3lnV3hQLUQxYWdXTC16U0FhQVZpbVcyeWxfeFhobk4xUnRNUW9hejJHamRZaVk6RkZyb20gY29mZmVlIHRvIGNhcnM6IEluc2lkZSB0aGUgPGI-VGF0YTwvYj4gZW1waXJlIGFzIGl0cyBjaGFpcm1hbiAuLi5CqAFJbiA8Yj4yMDI1PC9iPiwgPGI-VGF0YTwvYj4gTW90b3JzIGFncmVlZCB0byBhY3F1aXJlIEV1cm9wZSYjMzk7cyBJdmVjbyA8Yj5Hcm91cDwvYj4gaW4gYW4gYWxsLWNhc2ggZGVhbCB2YWx1ZWQgYXQgVVMkNC4zNiBiaWxsaW9uLCBjb21iaW5pbmcgdGhlIHR3byBjb21wYW5pZXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "The Straits Times"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Tata Sons share price",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Tata+Sons+share+price&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+share+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Tata Sons net worth",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Tata+Sons+net+worth&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+net+worth"
+    },
+    {
+      "block_position": 1,
+      "query": "Tata Group net worth in rupees",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Tata+Group+net+worth+in+rupees&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Group+net+worth+in+rupees"
+    },
+    {
+      "block_position": 1,
+      "query": "Tata Sons IPO",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Tata+Sons+IPO&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+IPO"
+    },
+    {
+      "block_position": 1,
+      "query": "Tata Sons listing",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Tata+Sons+listing&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+listing"
+    },
+    {
+      "block_position": 1,
+      "query": "Tata Sons chairman",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Tata+Sons+chairman&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+chairman"
+    },
+    {
+      "block_position": 1,
+      "query": "Tata Sons board of directors",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Tata+Sons+board+of+directors&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+board+of+directors"
+    },
+    {
+      "block_position": 1,
+      "query": "Ratan Tata net worth",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&q=Ratan+Tata+net+worth&sa=X&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ratan+Tata+net+worth"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=10&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8NMDegQIQBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=10&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAE",
+      "3": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=20&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAG",
+      "4": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=30&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAI",
+      "5": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=40&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAK",
+      "6": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=50&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAM",
+      "7": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=60&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAO",
+      "8": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=70&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAQ",
+      "9": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=80&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAS",
+      "10": "https://www.google.com/search?q=complete+acquisition+historic+Tata+Sons+2025&sca_esv=3ca1fbc8451fdfd6&ei=v2-zavm6FvCo0PEPrOHi0Qc&start=90&sa=N&sstk=AS6-VmJLME6UBcTwVR985ytQWQARFpC7L8bZOas94l4EXW-tPIcSllHPFzYD_w9vNptP4IJDuoYTq1gqgLyk89aKZGVAQ7UDwylVjg&ved=2ahUKEwi5loffh4SXAxVwFDQIHaywOHoQ8tMDegQIQBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=complete+acquisition+historic+Tata+Sons+2025&start=90"
+    }
+  }
+}

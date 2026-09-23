@@ -1,0 +1,1144 @@
+{
+  "search_metadata": {
+    "id": "6ab2bf3bb463f3596f238b1e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_RMkdVny2tTmXEPP5hRjZUXYEoiA5bk9I5LJXrFuio0/6ab2bf3bb463f3596f238b1e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_RMkdVny2tTmXEPP5hRjZUXYEoiA5bk9I5LJXrFuio0/6ab2bf3bb463f3596f238b1e.md",
+    "created_at": "2026-09-22 17:47:39 UTC",
+    "processed_at": "2026-09-22 17:47:39 UTC",
+    "google_news_url": "https://news.google.com/search?q=The+government+has+approved+the+merger+of+nine+public-sector+banks+into+three+banks.",
+    "raw_html_file": "https://serpapi.com/searches/_RMkdVny2tTmXEPP5hRjZUXYEoiA5bk9I5LJXrFuio0/6ab2bf3bb463f3596f238b1e.html",
+    "total_time_taken": 3.44
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "The government has approved the merger of nine public-sector banks into three banks."
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Indian Bank, Bank of Maharashtra, Canara Bank among 9 PSU banks to merge with SBI, PNB, BoB? PIB responds",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/9-psu-banks-including-canara-bank-indian-bank-to-merge-with-sbi-pnb-bank-of-baroda-pib-debunks-fake-gazette/articleshow/134323693.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134323791,width-1200,height-900,resizemode-4,imgsize-114240/psu-bank-merger.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJZV293T1ZjeGNUTk1NblJwVFJEZ0F4aUFCU2dLTWdhdFpJNnVKUWc",
+      "date": "09/20/2026, 01:57 AM, +0000 UTC",
+      "iso_date": "2026-09-20T01:57:51Z"
+    },
+    {
+      "position": 2,
+      "title": "PIB Calls Out Fake Notification Announcing Merger Of Public Sector Banks",
+      "source": {
+        "name": "Newschecker",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newschecker.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newschecker.in/fact-check/pib-calls-out-fake-notification-announcing-merger-of-public-sector-banks",
+      "thumbnail": "https://newschecker.dietpixels.net/2026/09/Newest-41.jpg?quality=71&format=webp&w=1920",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJSSFowYmxaVE0ydGpOWEF6VFJEQ0FSaURBaWdCTWdZbEFLSjRpQXc",
+      "date": "09/18/2026, 02:45 PM, +0000 UTC",
+      "iso_date": "2026-09-18T14:45:15Z"
+    },
+    {
+      "position": 3,
+      "title": "PIB debunks viral fake gazette claiming govt merger of 9 public sector banks",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stacy Pereira"
+        ]
+      },
+      "link": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
+      "thumbnail": "https://media.assettype.com/gulfnews%2Fimport%2F2021%2F11%2F03%2FStock---SBI-Bank---State-Bank-of-India_17ce506c977_large.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNXRmxOYldaQmQwaG9aMDk0VFJEb0FoamdBeWdLTWdhbEFhYnJrQXM",
+      "date": "09/17/2026, 08:43 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:43:21Z"
+    },
+    {
+      "position": 4,
+      "title": "Viral notification regarding the merger of nine public sector banks is fake",
+      "source": {
+        "name": "factly.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://factly.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Konda Harshavardhan"
+        ]
+      },
+      "link": "https://factly.in/viral-notification-regarding-the-merger-of-nine-public-sector-banks-is-fake/",
+      "thumbnail": "https://factly.in/wp-content/uploads//2026/09/Bank-merger-Thumbnail-.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFUVlJDYldOeWRtZzNRM2hCVFJEX0FoaWhCaWdLTWdZQklvZ1V3UVE",
+      "date": "09/17/2026, 08:02 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:02:49Z"
+    },
+    {
+      "position": 5,
+      "title": "Fact Check PSU Bank Merger: How Bank Mergers Work And What Happens To Your Money, Account And IFSC Code",
+      "source": {
+        "name": "Jagran Josh",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagranjosh.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aishwarya Samant"
+        ]
+      },
+      "link": "https://www.jagranjosh.com/general-knowledge/fact-check-psu-bank-merger-how-bank-mergers-work-what-happens-to-your-money-account-and-ifsc-code-1820012319-1",
+      "thumbnail": "https://img.jagranjosh.com/images/2026/09/18/template/image/PSU-BANK-MERGER-NOTIFICATION-1789702245280.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdjWGgzZWxOT1dWRk5ZMFZmVFJDZkF4ampCU2dLTWdtSlFZWUZtLXF4OUFB",
+      "date": "09/18/2026, 03:34 AM, +0000 UTC",
+      "iso_date": "2026-09-18T03:34:37Z"
+    },
+    {
+      "position": 6,
+      "title": "Fact Check: Fake Gazette claims 9 PSBs will merge with SBI, PNB and Bank of Baroda",
+      "source": {
+        "name": "organiser.org",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://organiser.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akanksha Mishra"
+        ]
+      },
+      "link": "https://organiser.org/2026/09/17/381210/bharat/fact-check-fake-gazette-claims-9-psbs-will-merge-with-sbi-pnb-and-bank-of-baroda/",
+      "thumbnail": "https://organiser.org/wp-content/uploads/2026/09/m1ngcntc_pib-banks_625x300_16_september_26.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHljM054YUZkWmExaFhYMHRDVFJDZkF4amlCU2dLTWdZRmNJaVdwQWM",
+      "date": "09/17/2026, 12:35 PM, +0000 UTC",
+      "iso_date": "2026-09-17T12:35:45Z"
+    },
+    {
+      "position": 7,
+      "title": "'Fake': Centre debunks viral gazette on merger of 9 public sector banks",
+      "source": {
+        "name": "businesstoday.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/india/story/fake-centre-debunks-viral-gazette-on-merger-of-9-public-sector-banks-556026-2026-09-17",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aab6856f0601-the-post-also-asked-users-who-spot-suspicious-claims-allegedly-issued-by-the-indian-government-to-re-171101561-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVliV0poV0ZwTFRGWlhiRU15VFJDZkF4ampCU2dLTWdtQlFZNGlKeWhjYmdF",
+      "date": "09/17/2026, 04:11 AM, +0000 UTC",
+      "iso_date": "2026-09-17T04:11:22Z"
+    },
+    {
+      "position": 8,
+      "title": "PSU Bank Merger News: Three Combinations in Focus",
+      "source": {
+        "name": "Univest",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harsh Piplani"
+        ]
+      },
+      "link": "https://univest.in/blogs/psu-bank-merger-news-bank-of-maharashtra-sbi-central-bank-pnb",
+      "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/psu-bank-merger-news-bank-of-maharashtra-sbi-central-bank-pnb.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNSM05QYlZWdlozTjRiMkY1VFJDUUF4ai1CU2dLTWdZQlFJakNHZ28",
+      "date": "09/18/2026, 03:42 AM, +0000 UTC",
+      "iso_date": "2026-09-18T03:42:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Fact Check: Is Govt Considering To Merge 9 PSBs With SBI, PNB And Bank Of Baroda?",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prajwal Jayaraj"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/business/fact-check-is-govt-considering-to-merge-9-psbs-with-sbi-pnb-and-bank-of-baroda-12054056",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/m1ngcntc_pib-banks_625x300_16_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNlVVJETmpkdmVsTXlNMlJzVFJDZkF4ampCU2dLTWdZRmNJaVdwQWM",
+      "date": "09/16/2026, 10:04 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:04:15Z"
+    },
+    {
+      "position": 10,
+      "title": "Bank unions call nationwide strike on September 11 over pending demands",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/business/2026/Aug/24/bank-unions-call-nationwide-strike-on-september-11-over-pending-demands",
+      "thumbnail": "https://cf-images.assettype.com/TNIE%2Fimport%2F2019%2F6%2F5%2Foriginal%2FSBI_EPS.jpg?rect=0%2C62%2C1851%2C1041&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhNMFJQWlVsRmFYaG9lbFJPVFJDZkF4ampCU2dLTWdZWkVvSUlqZ3M",
+      "date": "08/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-24T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Reforms tied to $1.7b WB loans: Govt mulls changing bank merger clause",
+      "source": {
+        "name": "The Daily Star",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thedailystar.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rejaul Karim Byron"
+        ]
+      },
+      "link": "https://www.thedailystar.net/business/economy/news/reforms-tied-17b-wb-loans-govt-mulls-changing-bank-merger-clause-4177456",
+      "thumbnail": "https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-05/world%20bank.png?h=8abcec71",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRaRmxITUhSWlpFaE1XVGh5VFJDZkF4ampCU2dLTWdhaFk0N01xUWM",
+      "date": "05/17/2026, 05:18 AM, +0000 UTC",
+      "iso_date": "2026-05-17T05:18:09Z"
+    },
+    {
+      "position": 12,
+      "title": "Bank Regulator’s Approval of Capital One and Discover Deal Shows Path Forward for Bank M&A Deals",
+      "source": {
+        "name": "Arnold & Porter",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.arnoldporter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amber A. Hay",
+          "Robert Azarow",
+          "Kevin M. Toomey"
+        ]
+      },
+      "link": "https://www.arnoldporter.com/en/perspectives/advisories/2025/06/bank-regulators-approval-of-capital-one-and-discover-deal",
+      "date": "06/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-05T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Revitalizing Bank Merger Enforcement To Restore Competition and Fairness in Banking",
+      "source": {
+        "name": "American Economic Liberties Project",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.economicliberties.us&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.economicliberties.us/our-work/revitalizing-bank-merger-enforcement-to-restore-competition-and-fairness-in-banking/",
+      "thumbnail": "https://www.economicliberties.us/wp-content/uploads/2023/06/iStock-525217399.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFNbVZIYlhOUk5rZElTRlYwVFJDckF4ak9CU2dLTWdZZFo0QXFwZ2M",
+      "date": "06/20/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-06-20T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Biden wants to rein in bank mergers — that could help consumers and the economy",
+      "source": {
+        "name": "Nevada Current",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nevadacurrent.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeremy C. Kress"
+        ]
+      },
+      "link": "https://nevadacurrent.com/2021/07/27/biden-wants-to-rein-in-bank-mergers-that-could-help-consumers-and-the-economy/",
+      "thumbnail": "https://nevadacurrent.com/wp-content/uploads/2021/07/jamie-dimon-one-time-use-only-the-conversation-300x200.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhjeTF4V0hSME9GOUZWRmR4VFJESUFSaXNBaWdLTWdB",
+      "date": "07/27/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-07-27T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "2026 banking and capital markets outlook",
+      "source": {
+        "name": "Deloitte",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deloitte.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook.html",
+      "thumbnail": "https://media.deloitte.com/is/image/deloitte/US188386_Banner-1920x880:425-x-425?$Responsive$&fmt=webp&fit=stretch,1&wid=425&hei=425&dpr=off",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdUMG8wWmtWa1FrcElReTF5VFJDcEF4aXBBeWdLTWdhWlZJYk1wUWc",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Investment Banking Awards 2025",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thebanker.com/content/4fe29cd9-9757-460f-8f40-d011c7efa747",
+      "thumbnail": "https://d2iztrg3kgqpue.cloudfront.net/production/911d0bae-6461-470e-a6ba-6ac785a786ac.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iR3RPWDFSV1NVMU9iVXhPVFJDZkF4ampCU2dLTWdhQlFZUmxtZ1k",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-03T08:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Market Structure of Core Banking Services Providers",
+      "source": {
+        "name": "Kansas City Fed",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kansascityfed.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julian Alcazar",
+          "Fumiko Hayashi",
+          "Ken Isaacson"
+        ]
+      },
+      "link": "https://www.kansascityfed.org/research/payments-system-research-briefings/market-structure-of-core-banking-services-providers/",
+      "thumbnail": "https://www.kansascityfed.org/original_images/PSR_Brief_Hero.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWhjRXN3TmxoMVRXOTRkMGcyVFJEZUFoanNCaWdLTWdNUlZBdw",
+      "date": "03/27/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-03-27T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Nine state banks to be merged into two large entities: Governor",
+      "source": {
+        "name": "The Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tbsnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jebunnesa Alo"
+        ]
+      },
+      "link": "https://www.tbsnews.net/economy/banking/govt-plans-merger-state-owned-banks-two-strengthen-governance-bb-governor-1340061",
+      "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/01/22/nine-states.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpOWGhSYVd0YVVYQnJSblZDVFJELUFSakRBeWdLTWdrWkk0WnBsbWhNTXdF",
+      "date": "01/21/2026, 09:21 AM, +0000 UTC",
+      "iso_date": "2026-01-21T09:21:03Z"
+    },
+    {
+      "position": 19,
+      "title": "No proposal on merger or consolidation of banks before govt presently: MoS Finance",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/industry/banking/finance/banking/no-proposal-on-merger-or-consolidation-of-banks-before-govt-presently-mos-finance/articleshow/125697246.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125697270,width-1200,height-900,resizemode-4,imgsize-77904/new-delhi-dec-1-ani-union-minister-of-state-for-finance-pankaj-chaudhary-sp-.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5kbE52YUVGd1QyRlllalJSVFJEZ0F4aUFCU2dLTWdrQlFJamlHdW9XcndF",
+      "date": "12/01/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-01T08:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Sovereignty in All but Name: Israel’s Quickening Annexation of the West Bank",
+      "source": {
+        "name": "International Crisis Group",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisisgroup.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.crisisgroup.org/rpt/middle-east-north-africa/israelpalestine/252-sovereignty-all-name-israels-quickening-annexation-west-bank",
+      "thumbnail": "https://www.crisisgroup.org/sites/default/files/2025-10/hero_WestBank_Report.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhXVWxUYkcwNVRFSlFPV2h2VFJERUF4aW1CU2dLTWdhbFE0d01uZ2s",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "State of play: India’s banks in 2021",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thebanker.com/content/490688a5-69d1-5d10-89cb-35e80df08158",
+      "thumbnail": "https://specialist-asset-management.s3.amazonaws.com/tb/ezflow_site/storage/images/media/images/get-state-bank-of-india-1232679411/11484368-1-eng-GB/GET-State-bank-of-India-1232679411.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5aREpmVFdoWVpFSnlVWE5vVFJDZkF4ampCU2dLTWdrQkFJREF0S00wYXdJ",
+      "date": "07/12/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-07-12T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Improving the viability of Bus Rapid Transit systems: Nine factors for Sub-Saharan Africa",
+      "source": {
+        "name": "World Bank Blogs",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blogs.worldbank.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Edward Beukes",
+          "Xuanyi Sheng",
+          "Hongye Fan"
+        ]
+      },
+      "link": "https://blogs.worldbank.org/en/transport/improving-viability-bus-rapid-transit-systems-nine-factors-sub-saharan-africa",
+      "thumbnail": "https://blogs.worldbank.org/content/dam/sites/blogs/img/detail/mgr/bus1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZXRWxWUjBKbFFuWk9jblpOVFJDZ0F4amlCU2dLTWdNQmdBZw",
+      "date": "10/21/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-10-21T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Private credit – a rising asset class explained",
+      "source": {
+        "name": "flow – Deutsche Bank",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://flow.db.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://flow.db.com/topics/trust-and-securities-services/private-credit-a-rising-asset-class-explained",
+      "thumbnail": "https://flow.db.com/dA/251fb163-9bbd-47ff-94e8-d8d10c8b951b/shareImage/CB-private-credit-growth-of-an-asset-class-1200x627.jpg?language_id=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxWelpxYkU5cldGWklOVzFyVFJDUUF4ai1CU2dLTWdZQkJvWUNod3c",
+      "date": "10/09/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-09T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "How Bank of New York Mellon Makes Money",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Greg McFarlane"
+        ]
+      },
+      "link": "https://www.investopedia.com/articles/markets/120915/how-bank-new-york-mellon-makes-money-bny.asp",
+      "thumbnail": "https://www.investopedia.com/thmb/6lH_ayVKqV1Xfy1ptVdHLOZYsyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-bank-new-york-mellon-makes-money-bny.asp-V1-026f9a131dd34ec4b235a84901c964e3.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRZVGxhTkRGM01sSlBhMHByVFJESEF4aWlCU2dLTWdZQmM1WkZLZ2c",
+      "date": "12/19/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-19T08:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "India’s banks navigate competitive landscape",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thebanker.com/content/b5033f07-552f-563c-8ed3-b66ea961a336",
+      "thumbnail": "https://specialist-asset-management.s3.amazonaws.com/tb/ezflow_site/storage/images/media/images/reserve-bank-of-india3/11964297-1-eng-GB/Reserve-bank-of-india.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdielExZFhrNVpVNVViekJWVFJDZkF4ampCU2dLTWdhQlFZd29zUWM",
+      "date": "07/01/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-07-01T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "State of play: India's banks in 2020",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thebanker.com/content/b6a97d62-518d-5a57-a141-ea040286d3ae",
+      "thumbnail": "https://specialist-asset-management.s3.amazonaws.com/tb/ezflow_site/storage/images/media/images/bank-of-india/10896258-1-eng-GB/Bank-of-India.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpPVGhGU1ZkT1dWSTNaRU5GVFJDNEF4aTZCU2dLTWdZQkFJNUdqUXM",
+      "date": "07/03/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-07-03T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Wall Street's Rainmakers: The 20 bankers who hammered out 2025's biggest deals",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businessinsider.com/rainmakers-top-mergers-acquisitions-bankers-2025-goldman-jpmorgan-wells-2026-2",
+      "thumbnail": "https://i.insider.com/6994c641a645d1188189769c?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXdhVzk0Y2xaVFpteDBUbFY1VFJEZ0F4aUFCU2dLTWc0QllJNUtKU2tlYnlrMFhKN3BJQQ",
+      "date": "02/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-23T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Shariah bank depositors to wait up to 5 years for payout",
+      "source": {
+        "name": "The Daily Star",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thedailystar.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rejaul Karim Byron"
+        ]
+      },
+      "link": "https://www.thedailystar.net/business/news/shariah-bank-depositors-wait-5-years-payout-4011261",
+      "thumbnail": "https://www.thedailystar.net/sites/default/files/styles/big_1/public/images/2025/10/16/individual-depositors.jpg?h=28f52d92",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZURU01Y1VsaGRtVndNazFMVFJDZkF4ampCU2dLTWdZUklvb1NGUVU",
+      "date": "01/10/2026, 08:35 PM, +0000 UTC",
+      "iso_date": "2026-01-10T20:35:34Z"
+    },
+    {
+      "position": 29,
+      "title": "Africa’s Top 100 Banks 2025: East Africa is fastest-growing region",
+      "source": {
+        "name": "African Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://african.business&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Neil Ford"
+        ]
+      },
+      "link": "https://african.business/2025/10/finance-services/africas-top-100-banks-2025-east-africa-is-fastest-growing-region",
+      "thumbnail": "https://african.business/wp-content/uploads/2025/11/000_33u4994-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlXVzFuUm5aTVNYQTRaM1J1VFJERUF4aW1CU2dLTWdZQm9JQ3N4UVE",
+      "date": "10/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-15T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "How sustainable are India's public sector banks?",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stefania Palma"
+        ]
+      },
+      "link": "https://www.thebanker.com/content/02146909-232c-5b36-9338-f35495a5be41",
+      "date": "11/23/2015, 08:00 AM, +0000 UTC",
+      "iso_date": "2015-11-23T08:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "A/c numbers won’t change after Union Bank’s 3-way merger: MD",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mayur Shetty"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/a/c-numbers-wont-change-after-union-banks-3-way-merger-md/articleshow/73163259.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-73163258,width-1280,height-720,resizemode-4/73163258.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpVR0pUY0hnMVExVm1hRUUyVFJDZkF4ampCU2dLTWdhcEZhRE5FUXM",
+      "date": "01/09/2020, 08:00 AM, +0000 UTC",
+      "iso_date": "2020-01-09T08:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Top 10 banks in India by market cap in 2025",
+      "source": {
+        "name": "Forbes India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.forbesindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.forbesindia.com/article/explainers/top-10-banks-india-by-market-cap/87913/1",
+      "thumbnail": "https://images.forbesindia.com/blog/wp-content/uploads//media/images/2023/Aug/img_217259_top10banksinindiabymarketcapitalisation.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFXbkEzYVdSTGVsSXRWVXRTVFJDZkF4ampCU2dLTWdhTk1ZS053UU0",
+      "date": "08/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-29T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Governance of the Bank of England including Matters Reserved to Court",
+      "source": {
+        "name": "Bank of England",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bankofengland.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bankofengland.co.uk/about/people/court-of-directors/governance-of-the-bank-of-england-including-matters-reserved-to-court",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Database - Reserve Bank of India",
+      "source": {
+        "name": "rbi.org.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rbi.org.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4242",
+      "thumbnail": "https://www.rbi.org.in/scripts/images/03ARDBM20022023_C7.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFVM1JYUVZNelgwVmxaVTlOVFJENUFSaktBU2dCTWdrSkVZcHNIYVExaGdJ",
+      "date": "02/20/2023, 01:22 PM, +0000 UTC",
+      "iso_date": "2023-02-20T13:22:18Z"
+    },
+    {
+      "position": 35,
+      "title": "10 Biggest Banks in the World",
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nathan Reiff"
+        ]
+      },
+      "link": "https://www.investopedia.com/articles/investing/122315/worlds-top-10-banks-jpm-wfc.asp",
+      "thumbnail": "https://www.investopedia.com/thmb/SnhsIqdkkbFhvLLuUa8_bBRxYWY=/375x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1616692666-3f6a540fc72a412e84f817f886a3dd95.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpja3RsY25Sd1RWOVpORXN6VFJENkFSajNBaWdLTWdZbGdJeXdOQWM",
+      "date": "03/25/2017, 03:59 PM, +0000 UTC",
+      "iso_date": "2017-03-25T15:59:54Z"
+    },
+    {
+      "position": 36,
+      "title": "Five merging banks see shares hit record lows, Tk926cr erased in last 3 months",
+      "source": {
+        "name": "The Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tbsnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tbsnews.net/economy/stocks/five-merging-banks-see-shares-hit-record-lows-tk926cr-erased-last-3-months-1252866",
+      "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2025/09/16/five_banks.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFkbDh3VkV0U1NXNXRjREZyVFJDQ0F4aXRCU2dLTWdZWlU0UXZMUVk",
+      "date": "10/05/2025, 04:06 AM, +0000 UTC",
+      "iso_date": "2025-10-05T04:06:37Z"
+    },
+    {
+      "position": 37,
+      "title": "Still on the road to better results",
+      "source": {
+        "name": "TheBanker.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebanker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nick Kochan"
+        ]
+      },
+      "link": "https://www.thebanker.com/content/d85432c2-1d30-5e19-ad45-364cc99aa879",
+      "date": "04/01/2007, 07:00 AM, +0000 UTC",
+      "iso_date": "2007-04-01T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "No plans for public sector banks merger? Government issues clarification; here's what MoS detailed on FDI",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/no-plans-for-public-sector-banks-merger-government-issues-clarification-heres-what-mos-detailed-on-fdis-idbi-offloading-more/articleshow/125712176.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125712465,width-1280,height-720,resizemode-4/125712465.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSMWQxYkZJd1RHSjZNazU0VFJDZkF4ampCU2dLTWdhQlZZek9vUWc",
+      "date": "12/02/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-02T08:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Govt jobs are changing. PSU bank staff live in pressure cooker, 9-5 replaced by 24×7",
+      "source": {
+        "name": "theprint.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nootan Sharma"
+        ]
+      },
+      "link": "https://theprint.in/ground-reports/govt-jobs-psu-bank-staff-pressure-cooker-24x7/2297231/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2024/10/book-launch-5.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRNR3BDTkhoc1kyeEhjUzF1VFJDZkF4ampCU2dLTWdZQlVJQ24yQUU",
+      "date": "10/07/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-07T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Government announces plan to merge 10 PSBs to 4 to gain size: Eight questions on big bank merger exercise",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dinesh Unnikrishnan"
+        ]
+      },
+      "link": "https://www.firstpost.com/business/government-announces-plan-to-merge-10-psbs-to-4-to-gain-size-eight-questions-on-big-bank-merger-exercise-7259991.html",
+      "thumbnail": "https://images.firstpost.com/wp-content/uploads/2018/09/Nirmala-PTI-380.jpg?im=Resize,width=720,aspect=fit,type=normal",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNVa2h1ZVUxcE5WbFdNRXRRVFJEZ0F4aUFCU2dLTWdB",
+      "date": "08/31/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-08-31T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "India's Bank of Baroda, Vijaya Bank and Dena Bank to be merged",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gulfnews.com/business/banking/indias-bank-of-baroda-vijaya-bank-and-dena-bank-to-be-merged-1.2279449",
+      "thumbnail": "https://media.assettype.com/gulfnews%2Fimport%2F2018%2F9%2F17%2F1_16a0850a897.2279452_3834054413_16a0850a897_large.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNPRU55YVZCc2RsTlZURnBhVFJEb0FoamdBeWdLTWdrUk5ZckxtZWx4TWdF",
+      "date": "11/05/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-11-05T08:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "India announces merger of major state run banks",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gulfnews.com/business/banking/india-announces-merger-of-major-state-run-banks-1.66106682",
+      "thumbnail": "https://media.assettype.com/gulfnews%2Fimport%2F2019%2F08%2F30%2F343367008_0-3--Read-Only-_16ce26ab867_large.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9ibGMwWDBzMVN6QmtkRUZIVFJEb0FoamdBeWdLTWdZaGhwTHNNUWM",
+      "date": "08/30/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-08-30T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "PSU bank mergers: Do bigger banks mean happier employees?",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bikash Mishra"
+        ]
+      },
+      "link": "https://www.indiatoday.in/business/story/psu-bank-merger-government-plan-finance-minister-nirmala-sitharaman-employee-problems-salary-promotion-hr-2826868-2025-11-27",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/bank-merger-270434867-16x9_0.jpg?VersionId=z40SES5hGF29fsgggsNLKXfYh2Qx8GTI&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBRV1JmUms5WGNVcDFVVEZZVFJDZkF4ampCU2dLTWdrWk1ZUnFvV2RFa1FF",
+      "date": "11/27/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-27T08:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "No roadmap for now: FM Sitharaman clarifies on public sector banks merger",
+      "source": {
+        "name": "businesstoday.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/india/story/no-roadmap-for-now-fm-sitharaman-clarifies-on-public-sector-banks-merger-517631-2026-02-23",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202602/699c7da64c1c4-finance-minister-nirmala-sitharaman-with-rbi-governor-sanjay-malhotra-23173691-16x9.jpeg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZaRmxRVVVSV1VHUjZkblEwVFJDZkF4ampCU2dLTWdtQkFxSVRGU3FwNUFJ",
+      "date": "02/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-23T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "UCO Bank, Central Bank rise up to 9% in trade: here's why PSBs are surging",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sirali Gupta"
+        ]
+      },
+      "link": "https://www.business-standard.com/markets/news/uco-bank-central-bank-rise-up-to-9-in-trade-here-s-why-psbs-are-surging-124120400400_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/20/full/1726823229-1365.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVR2xYYnpsR1gwTnNTbmRrVFJDWEF4anlCU2dLTWdhaFE0cHRKUVU",
+      "date": "12/04/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-12-04T08:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Press Release",
+      "source": {
+        "name": "OJK",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojk.go.id&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Pages/OJK-Policies-Further-Strengthen-the-Role-of-the-Financial-Services-Sector-in-Supporting-the-Governments-Priority-Programs.aspx",
+      "thumbnail": "https://ojk.go.id/PublishingImages/WhatsApp%20Image%202026-02-05%20at%2023.22.16.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhXR2RMY0ZsUFNFeEROMDVrVFJERUF4aW1CU2dLTWdZQndJcUZ4QVE",
+      "date": "02/06/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-06T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Government to merge Bank of Baroda, Vijaya Bank, Dena Bank",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/government-proposes-to-merge-bank-of-baroda-vijaya-bank-dena-bank/articleshow/65844225.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-65845640,width-1280,height-720,resizemode-4/65845640.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBUVzkyYTBZNWNITjNRa3ROVFJDZkF4ampCU2dLTWdB",
+      "date": "09/18/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-09-18T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Insights into Editorial: Big bank theory: On Public Sector Bank mergers",
+      "source": {
+        "name": "INSIGHTS IAS",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.insightsonindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.insightsonindia.com/2019/09/03/insights-into-editorial-big-bank-theory-on-public-sector-bank-mergers/",
+      "thumbnail": "https://www.insightsonindia.com/wp-content/uploads/2019/09/editorial.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpXWEJqU2xONFUzWlVWamw1VFJDcEF4aW9CU2dLTWdrQllJYVYwS1BJNlFF",
+      "date": "09/03/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-09-03T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Can 10 ‘weak’ banks together create four large, strong banks?",
+      "source": {
+        "name": "thehindu.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manojit Saha"
+        ]
+      },
+      "link": "https://www.thehindu.com/business/can-10-weak-banks-togethercreate-four-large-strong-banks/article61990261.ece",
+      "thumbnail": "https://th-i.thgim.com/public/business/Economy/cnl2aj/article29292304.ece/alternates/LANDSCAPE_1200/RBI",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZSWGR1YUVwclZIVTBPRlZXVFJDZkF4ampCU2dLTWdhWmRvb3FxZ1U",
+      "date": "08/30/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-08-30T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "SBI, other PSU banks rise amid latest merger buzz: What you need to know",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/stocks/psu-banks-merger-sbi-other-psu-banks-in-focus-on-latest-merger-buzz-what-you-need-to-know/article-184719/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/psubanksshares-nov.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRVWhPY3pCWVdrNUxPSFI0VFJEZ0F4aUFCU2dLTWdZWm9JanVRQVU",
+      "date": "11/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-16T08:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Strike notice",
+      "source": {
+        "name": "Frontline Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://frontline.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://frontline.thehindu.com/economy/article30187954.ece",
+      "thumbnail": "https://fl-i.thgim.com/public/magazine/bcadup/article30187953.ece/alternates/LANDSCAPE_1200/20090814261604601jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBlVWhKVG1ZelJYUTVTelJCVFJDZkF4ampCU2dLTWdB",
+      "date": "08/14/2009, 07:00 AM, +0000 UTC",
+      "iso_date": "2009-08-14T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "SBI shares rally 9% in 1 month and 19% YTD; India's largest bank to report Q2 earnings on November 4; here is what to focus on",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/earnings/sbi-shares-rally-9-in-1-month-and-19-ytd-india-s-largest-bank-to-report-q2-earnings-on-november-4-here-is-what-to-focus-on/article-183965/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/sbisharesnov4-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlWVzVaY0VGaFdWUmxWMUJyVFJEZ0F4aUFCU2dLTWdhZFVJek5NQVk",
+      "date": "11/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-11-02T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "PSU bank consolidation: PNB, Union Bank get in-principle nod from govt for proposed merger",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/business/psu-bank-consolidation-pnb-union-bank-get-in-principle-nod-from-govt-for-proposed-merger-7672361.html",
+      "thumbnail": "https://images.firstpost.com/wp-content/uploads/2018/02/PNB_reuters_380.png?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZSMWwyT1d0RmFVbE5lVVJtVFJDZkF4ampCU2dLTWdtUkFvRG9oT3labFFB",
+      "date": "11/19/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-11-19T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Banks to remain closed for five days from tomorrow; holidays, strikes to affect operations, ATMs may take hit on 26 Dec",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/business/banks-to-remain-closed-for-5-days-from-tomorrow-holidays-strikes-to-affect-operations-5762861.html",
+      "thumbnail": "https://images.firstpost.com/wp-content/uploads/2018/09/bank-account-getty-380.jpg?im=Resize,width=343,aspect=fit,type=normal",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9NbTFGWTNkdFJVbE9NSEpSVFJDQkFoalhBaWdLTWdZQklJd2dsZ28",
+      "date": "12/20/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-12-20T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Union Bank of India board meet on 9 September to approve amalgamation of Andhra Bank, Corporation Bank with itself",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/business/union-bank-of-india-board-meet-on-9-september-to-approve-amalgamation-of-andhra-bank-corporation-bank-with-itself-7289101.html",
+      "thumbnail": "https://images.firstpost.com/wp-content/uploads/2018/03/Union-Bank-of-India_380.jpg?im=Resize,width=720,aspect=fit,type=normal",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhOV05mVDE4d2F6YzFlamRHVFJEZ0F4aUFCU2dLTWdhTlZJUUtvZ2c",
+      "date": "09/05/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-09-05T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Saudi central bank steps up with cash to plug liquidity gaps in banking sector",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gulfnews.com/business/banking/saudi-central-bank-steps-up-with-cash-to-plug-liquidity-gaps-in-banking-sector-1.1669897678940",
+      "thumbnail": "https://media.assettype.com/gulfnews/import/2019/05/20/sama_16ad52e7617_large.JPG?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVOVGxNZW1aR1lYUnhXVU55VFJEZ0F4al9CQ2dLTWdZQkFJU0dpZzA",
+      "date": "12/01/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-12-01T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Govt to convene two-day banking reform meet; PSB consolidation likely on table: Sources",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sapna Das"
+        ]
+      },
+      "link": "https://www.cnbctv18.com/business/finance/govt-to-convene-two-day-banking-reform-meet-psb-consolidation-likely-on-table-sources-19669323.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2025/06/banking-2025-06-ec1384fb2bf0b997633309ecc034a64b.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRNMnQzU1hoR1dsRkhiM0poVFJDZkF4ampCU2dLTWdZQlVKWXZyUWc",
+      "date": "09/12/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-12T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Bank strike: Services to be affected as 9 unions call for nation-wide strike against Vijaya, Dena, BoB merger",
+      "source": {
+        "name": "businesstoday.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/industry/banks/story/bank-strike-26th-december-vijaya-dena-bob-merger-bank-services-to-be-affected-9-unions-call-for-strike-125575-2018-12-26",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/201812/bank%20strike%20today660_122318032833_122618091123.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVRVE5EV1ZCak1ETjZPVE5hVFJDZkF4ampCU2dLTWdNRmtRUQ",
+      "date": "12/26/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-12-26T08:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Perform or perish: Govt to public sector banks",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rediff.com/business/report/perform-or-perish-govt-to-public-sector-banks/20150208.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/money/2012/aug/28rup4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUdZVmg2Tm1oVmRWSlJZVE5hVFJDZkF4ampCU2dLTWdB",
+      "date": "02/08/2015, 08:00 AM, +0000 UTC",
+      "iso_date": "2015-02-08T08:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Cabinet approves merging of 42 State agencies, 9 to be scrapped - LIST",
+      "source": {
+        "name": "Citizen Digital",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://citizen.digital&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Benjamin Muriuki"
+        ]
+      },
+      "link": "https://citizen.digital/article/cabinet-approves-merging-of-42-state-agencies-9-to-be-scrapped-list-n356268",
+      "thumbnail": "https://assets.citizen.digital/142918/conversions/Gh1FBfwWsAA71xF-og_image.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhlWFJWU21OM2FVeGpVR1kzVFJERUF4aW1CU2dLTWdZQmtJcWhPQVk",
+      "date": "01/21/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-21T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "PSU Banks Merger: IOB, BOM, Central Bank, PSB, UCO On Alert: Can SBI Take More Banks? Who Will Merge Next?",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pooja Jaiswar"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/psu-banks-merger-iob-boi-bom-central-bank-uco-high-alert-sbi-to-merge-banks-which-banks-merger-next-1470965.html",
+      "thumbnail": "https://images.goodreturns.in/img/2025/11/psubanksmerger1-1763616300.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRTRWxDYm1sMVNtSlZZVU5KVFJDRUF4allCQ2dLTWdZRmdKQzJzQVk",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Top 10 Banks in India 2025: Largest, Best & No.1 Banks by Market Cap",
+      "source": {
+        "name": "PW",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pw.live&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pw.live/private-banking/exams/biggest-bank-in-india",
+      "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS/8cc4cdd4-62e1-4606-a7c0-8e181a3916b3.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5PRk4zYjFoaFdGcDVUMVF3VFJDMkF4aTlCU2dLTWdZRmVJaUdyZ00",
+      "date": "11/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-05T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Dena Bank merger: State-owned banks closed in protest, unions claim strike was ‘total success’",
+      "source": {
+        "name": "Scroll.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://scroll.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scroll.in/latest/907020/dena-bank-merger-state-owned-banks-to-remain-closed-today-in-protest",
+      "thumbnail": "https://sc0.blr1.digitaloceanspaces.com/large/907020-cbdywqaecp-1526134080.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJPRE5STkZONWVFSTRaalZYVFJDUkF4ajhCU2dLTWdZQkFaUkhFUW8",
+      "date": "12/26/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-12-26T08:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Yes Bank Crisis and Reconstruction: Explained",
+      "source": {
+        "name": "ClearIAS",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.clearias.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Andrews George"
+        ]
+      },
+      "link": "https://www.clearias.com/yes-bank-crisis-reconstruction/",
+      "thumbnail": "https://www.clearias.com/up/Yes-Bank-Crisis-and-Reconstruction.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZORTlTWkRCYWVXWkdUVW94VFJDUUF4ai1CU2dLTWdhbFJJVE9IUVk",
+      "date": "03/09/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-03-09T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Nedbank gets approval for R13.9 billion acquisition",
+      "source": {
+        "name": "businesstech.co.za",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://businesstech.co.za&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Caitlyn Hilliard-lomas"
+        ]
+      },
+      "link": "https://businesstech.co.za/news/banking/873171/nedbank-gets-approval-for-r13-9-billion-acquisition/",
+      "thumbnail": "https://businesstech.co.za/news/wp-content/uploads/2026/06/Nedbank-300x169.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlaRGhOYWtKMmJubEJkWHAyVFJDcEFSaXNBaWdLTWdPWkJRZw",
+      "date": "09/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-01T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "SBI, Bank of India, Indian Bank: PSB stocks rally, NIFTY PSU Bank index jumps 3.5%; key updates you must know",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "SWATI VERMA"
+        ]
+      },
+      "link": "https://upstox.com/news/market-news/stocks/sbi-bank-of-india-indian-bank-psb-stocks-rally-nifty-psu-bank-index-jumps-3-5-key-updates-you-must-know/article-189121/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/banking-stocks-feb-09-2026.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdlWFl6Ym5kMFNrMXJMVmx6VFJDZkF4ampCU2dLTWdZQklZaktPUVE",
+      "date": "02/08/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-08T08:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Case-Specific Exemptions under the Takeover Regulations: Key Takeaways from SEBI’s Orders",
+      "source": {
+        "name": "corporate.cyrilamarchandblogs.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://corporate.cyrilamarchandblogs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://corporate.cyrilamarchandblogs.com/2024/04/case-specific-exemptions-under-the-takeover-regulations-key-takeaways-from-sebis-orders/",
+      "thumbnail": "https://corporate.cyrilamarchandblogs.com/wp-content/uploads/sites/857/2024/04/Blog-Image158-655x374.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYM2xtVlhWU1ptNHpTbkZuVFJEMkFoaVBCU2dLTWdhaFJKak1vUWc",
+      "date": "04/08/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-04-08T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "10 Biggest Banks in Australia: September 2026",
+      "source": {
+        "name": "Savings.com.au",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.savings.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dominic Beattie"
+        ]
+      },
+      "link": "https://www.savings.com.au/home-loans/who-are-the-biggest-banks-in-australia",
+      "thumbnail": "https://www.savings.com.au/dA/2d3b905e91/RBABig4Reaction1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtkMEpVUkROaU0xQjRiemcwVFJDMkF4aTlCU2dLTWdrQk1vYmx6T09oaGdJ",
+      "date": "05/05/2022, 11:29 PM, +0000 UTC",
+      "iso_date": "2022-05-05T23:29:51Z"
+    },
+    {
+      "position": 69,
+      "title": "Indian Bank, PNB, BoI: PSU bank stocks decline up to 6% as Centre denies proposal to hike FDI limit; NIFTY PSU Bank down 2.5%",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/stocks/sbi-pnb-bank-of-baroda-ps-bs-in-focus-on-fdi-limit-clarification-here-is-what-you-need-to-know/article-185592/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/banking-shares-fall-dec3.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNWVlIxYXkwNVRFOWhhbFZPVFJEZ0F4aUFCU2dLTWdZVmtvcU1zUVk",
+      "date": "12/02/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-02T08:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "PSU Banks Merger: UCO, IOB, BOI, BOM, Central Bank; Which PSBs Will Merge Next? Can SBI Take More?",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pooja Jaiswar"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/psu-banks-merger-uco-iob-boi-bom-central-bank-which-psbs-will-merge-next-can-sbi-take-more-1468541.html",
+      "thumbnail": "https://images.goodreturns.in/img/2025/11/psubankmerger1-1762668289.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlUbEJmWkMxUWFpMTFOamR4VFJDRUF4allCQ2dLTWdrVkVvSm5FaXROQ3dJ",
+      "date": "11/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-09T08:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "India Debunks Fake Gazette Claiming Nine PSB Merger Scheme",
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://streamlinefeed.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://streamlinefeed.co.ke/news/india-debunks-fake-gazette-claiming-nine-psb-merger-scheme",
+      "thumbnail": "https://streamlinefeed.co.ke/news-fallbacks/business.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlVRWRRYmpJNVYyVjVOekpHVFJDZkF4amlCU2dLTWdZQlVJWURTd1U",
+      "date": "09/16/2026, 10:05 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:05:42Z"
+    },
+    {
+      "position": 72,
+      "title": "Bank Merger Fact Check: Will Canara Bank, Indian Bank and 7 Other PSBs Merge with SBI, PNB and BoB? Check Here",
+      "source": {
+        "name": "timesbull.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.timesbull.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "sweta mitra"
+        ]
+      },
+      "link": "https://www.timesbull.com/bank-merger-fact-check-will-canara-bank-indian-bank-and-7-other-psbs-merge-with-sbi-pnb-and-bob-check-here",
+      "thumbnail": "https://www.timesbull.com/wp-content/uploads/2026/09/bank-2.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNXa1puU2tWbk5YUTRXbVpUVFJDZkF4ampCU2dLTWdrQklJaVVsS284OHdB",
+      "date": "09/18/2026, 09:49 AM, +0000 UTC",
+      "iso_date": "2026-09-18T09:49:46Z"
+    },
+    {
+      "position": 73,
+      "title": "Merger of 10 public sector banks to come into effect from today: 10 points",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sangeeta Ojha"
+        ]
+      },
+      "link": "https://www.livemint.com/industry/banking/merger-of-10-public-sector-banks-to-come-into-effect-from-today-10-points-11585632469446.html",
+      "thumbnail": "https://images.livemint.com/rf/Image-920x613/LiveMint/Period2/2018/12/10/Photos/Processed/PNB-kz8F--621x414@LiveMint.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUJaVmhsVmxWdFltSk1lamRzVFJDZUF4anRCQ2dLTWdNTk1nSQ",
+      "date": "04/01/2020, 07:00 AM, +0000 UTC",
+      "iso_date": "2020-04-01T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "PSB consolidation may resume by fiscal-end",
+      "source": {
+        "name": "financialexpress.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prasanta Sahu"
+        ]
+      },
+      "link": "https://www.financialexpress.com/business/banking-finance/psb-consolidation-may-resume-by-fiscal-end/3999320/",
+      "thumbnail": "https://images.financialexpressdigital.com/2025/10/PSB-Manthan-for-banking-reforms-1_20251005130333.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhWVTl1ZUVSd1pFWTJZVk5tVFJDZkF4ampCU2dLTWdtQlVwQWlLMmhjandF",
+      "date": "10/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-05T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "PNB merger to create second largest PSU bank from 1 April. 10 things to know",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/industry/banking/pnb-merger-to-create-second-largest-psu-bank-from-1-april-10-things-to-know-1568611032427.html",
+      "thumbnail": "https://images.livemint.com/rf/Image-920x613/LiveMint/Period2/2018/09/19/Photos/Processed/pnb-kbAE--621x414@LiveMint.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJSbUpCU1ZjNExYZ3RVWEJ5VFJDZUF4anRCQ2dLTWdNQm9Bbw",
+      "date": "09/16/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-09-16T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

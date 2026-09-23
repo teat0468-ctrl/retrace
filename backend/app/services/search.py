@@ -24,20 +24,28 @@ def serpapi_search(
         if cached is not None:
             return cached
 
-    response = requests.get(
-        SERPAPI_URL,
-        params=request_params,
-        timeout=30,
-    )
-
-    response.raise_for_status()
-
-    data = response.json()
-
-    if use_cache:
-        save_cache(engine, request_params, data)
-
-    return data
+    import time
+    for attempt in range(3):
+        try:
+            response = requests.get(
+                SERPAPI_URL,
+                params=request_params,
+                timeout=30,
+            )
+            response.raise_for_status()
+            data = response.json()
+            
+            if use_cache:
+                save_cache(engine, request_params, data)
+                
+            return data
+        except requests.exceptions.RequestException as e:
+            if attempt == 2:
+                print(f"SerpAPI request failed after 3 attempts: {e}")
+                return {}
+            time.sleep(1)
+            
+    return {}
 
 
 def search_google_news(query: str, num_results: int = 10):

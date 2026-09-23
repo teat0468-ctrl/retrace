@@ -1,0 +1,209 @@
+{
+  "search_metadata": {
+    "id": "6ab2beff6e22378738fd3c61",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GwmoYlQDPMbrSyMdgceUJMlMzRgjjSoRDx0pkmE88rQ/6ab2beff6e22378738fd3c61.json",
+    "markdown_endpoint": "https://serpapi.com/searches/GwmoYlQDPMbrSyMdgceUJMlMzRgjjSoRDx0pkmE88rQ/6ab2beff6e22378738fd3c61.md",
+    "created_at": "2026-09-22 17:46:39 UTC",
+    "processed_at": "2026-09-22 17:46:39 UTC",
+    "google_news_url": "https://news.google.com/search?q=India+may+introduce+plastic+currency+notes.+Is+the+current+announcement+a+new+development+in+India%27s+long-running+discussion+about+polymer+notes%3F",
+    "raw_html_file": "https://serpapi.com/searches/GwmoYlQDPMbrSyMdgceUJMlMzRgjjSoRDx0pkmE88rQ/6ab2beff6e22378738fd3c61.html",
+    "total_time_taken": 1.32
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "India may introduce plastic currency notes. Is the current announcement a new development in India's long-running discussion about polymer notes?"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Plastic notes in India coming soon: Why govt wants polymer banknotes, which countries use them and how the",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/finance/what-are-plastic-notes-explained-rbi-polymer-notes-indian-currency-rs-10-rs-20-notes-why-india-wants-plastic-currency-but-wont-replace-paper-notes/articleshow/132674987.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132675103,width-1200,height-900,resizemode-4,imgsize-237982/india-plastic-notes-rbi-polymer-notes-could-transform-indian-currency-and-cut-costs.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRUbXA1WTBOVUxVUmZPR2R4VFJEZ0F4aUFCU2dLTWdZZFFJcHZ2QU0",
+      "date": "07/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-28T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "India to get plastic notes soon: Why the move is important - explained",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Smriti Jain"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/india-to-get-plastic-notes-soon-rbi-polymer-currency-why-the-move-is-important-explained/articleshow/132764423.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132765717,imgsize-683217,width-400,height-225,resizemode-4/plastic-or-polymer-note.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlOMVZtVlZSdmJEaEtUamRWVFJEaEFSaVFBeWdLTWdZSmNwQW1NUWM",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Will India switch to plastic currency? Why RBI wants to replace paper currency, and what it means for your wallet | WION Decodes",
+      "source": {
+        "name": "WION",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kaur Garg"
+        ]
+      },
+      "link": "https://www.wionews.com/india-news/plastic-rupee-notes-soon-why-rbi-wants-to-replace-paper-currency-and-what-it-means-for-your-wallet-wion-decodes-1784795714143",
+      "thumbnail": "https://cdn1.wionews.com/prod/wion/images/2026/20260723/image-1784796513186.png?rect=(0,0,1200,900)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZRbVl4WmxjMVpqSkhSbE5XVFJEZ0F4aUFCU2dLTWdZQklJalByQVU",
+      "date": "07/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-23T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Is India set to get plastic currency notes? How polymer banknotes differ from paper currency",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/is-india-set-to-get-plastic-currency-notes-how-polymer-banknotes-differ-from-paper-currency-14032178.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/07/Untitled-design-19-2026-07-26bf327d105eba4d1f4808b70c66e971.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpUMjF4VkZKTFJYRXlXWGxTVFJDZkF4ampCU2dLTWdhZEVvTExtUWs",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "India may soon get plastic currency notes as RBI revives decade-old plan",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manojit Saha"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/rbi-set-to-unveil-polymer-rupee-notes-amid-rising-currency-demand-126052801725_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/19/full/1773900558-7755.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjVVZFZVVJMFVtSk9hV0Z2VFJERUF4aW1CU2dLTWdhVlk0NUlyUVk",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Is RBI replacing paper currency with plastic notes from June 30, 2026? Check details",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sneha Kulkarni"
+        ]
+      },
+      "link": "https://m.economictimes.com/wealth/save/is-rbi-replacing-paper-currency-with-plastic-notes-from-june-30-2026-check-details/articleshow/131629763.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-131629890,width-1200,height-900,resizemode-4,imgsize-1740224/et-online.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdkazlpWVZkd2RHUlRkMm95VFJEZ0F4aUFCU2dLTWdrTkFvYm1zS2FoOHdB",
+      "date": "06/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-10T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Will India finally get plastic banknotes? RBI's polymer currency plan explained",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/will-india-finally-get-plastic-banknotes-rbis-polymer-currency-plan-explained/articleshow/131528203.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131528459,width-1280,height-720,imgsize-1156844,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkblZ3U25wRlMwbFpiMjFZVFJDZkF4ampCU2dLTWdZSlVJNmxxZ1U",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "India’s Demonetization Disaster",
+      "source": {
+        "name": "CIRSD",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cirsd.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cirsd.org/horizon-article/indias-demonetization-disaster/",
+      "date": "02/02/2026, 10:27 PM, +0000 UTC",
+      "iso_date": "2026-02-02T22:27:46Z"
+    },
+    {
+      "position": 9,
+      "title": "₹10 and ₹20 notes may be the first polymer currency as RBI's printing arm invites global bids: Report",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eshita Gain"
+        ]
+      },
+      "link": "https://www.livemint.com/economy/10-and-20-notes-may-be-the-first-polymer-currency-as-rbis-printing-arm-invites-global-bids-report-11784378011465.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/18/1600x900/logo/notes_1784380959938_1784380966185_5e36ac94-7713-4144-adcc-8ec079f45bab.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthemxOVXpsaGVsUkZjbmhmVFJDZkF4amlCU2dLTWdhZEVZeHRGUVU",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "RBI Gets Government Approval to Issue ₹10 and ₹20 Polymer Banknotes for Field Trials",
+      "source": {
+        "name": "currentaffairs.adda247.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://currentaffairs.adda247.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://currentaffairs.adda247.com/rbi-gets-government-approval-to-issue-%E2%82%B910-and-%E2%82%B920-polymer-banknotes-for-field-trials/",
+      "thumbnail": "https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2026/07/28162302/Untitled-design-2026-07-28T132538.949.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVVRGRzUzJGaWNIcENaRWRMVFJDZkF4ampCU2dLTWdhbFJZek5yUVk",
+      "date": "07/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-28T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

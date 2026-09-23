@@ -1,0 +1,1487 @@
+{
+  "search_metadata": {
+    "id": "6ab2becf3d40b6f61db537fa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rM8UYATvoMAWfpZsZV_X5TsMChqaTnO5r6lqUu33sBw/6ab2becf3d40b6f61db537fa.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rM8UYATvoMAWfpZsZV_X5TsMChqaTnO5r6lqUu33sBw/6ab2becf3d40b6f61db537fa.md",
+    "created_at": "2026-09-22 17:45:51 UTC",
+    "processed_at": "2026-09-22 17:45:51 UTC",
+    "google_news_url": "https://news.google.com/search?q=indian+pakistani+naval+vessels+collided+india+new+update",
+    "raw_html_file": "https://serpapi.com/searches/rM8UYATvoMAWfpZsZV_X5TsMChqaTnO5r6lqUu33sBw/6ab2becf3d40b6f61db537fa.html",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "indian pakistani naval vessels collided india new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
+      "source": {
+        "name": "Al Jazeera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abid Hussain"
+        ]
+      },
+      "link": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/12811290-1789625937.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWlkVjlVY1RCRGNtbGtUakZRVFJEZ0F4aUFCU2dLTWdzRlVJeG1xR2FKeVZySFhB",
+      "date": "09/17/2026, 01:37 PM, +0000 UTC",
+      "iso_date": "2026-09-17T13:37:20Z"
+    },
+    {
+      "position": 2,
+      "title": "Indian, Pakistani Naval Vessels Collide in Arabian Sea, Prompting Diplomatic Tensions",
+      "source": {
+        "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thediplomat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sudha Ramachandran"
+        ]
+      },
+      "link": "https://thediplomat.com/2026/09/indian-pakistani-naval-vessels-collide-in-arabian-sea-prompting-diplomatic-tensions/",
+      "thumbnail": "https://thediplomat.com/wp-content/uploads/2025/06/sizes/td-story-s-2/thediplomat_2025-06-06-165905.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFlbWhWTW1rMVVFTldNRlk0VFJEWEFoallCQ2dLTWdrQlFaSzFxS2FwekFF",
+      "date": "09/17/2026, 05:10 AM, +0000 UTC",
+      "iso_date": "2026-09-17T05:10:35Z"
+    },
+    {
+      "position": 3,
+      "title": "Arabian Sea collision between Pakistani and Indian naval vessels sparks tensions",
+      "source": {
+        "name": "AP News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://apnews.com/article/india-pakistan-navy-494234c16afbd84ee06032785db43c93",
+      "thumbnail": "https://dims.apnews.com/dims4/default/36eef90/2147483647/strip/false/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRa3B3VFRab2VURlpaMVl5VFJERUF4aW1CU2dLTWdhUmtwS0xQUWM",
+      "date": "09/16/2026, 09:00 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:00:41Z"
+    },
+    {
+      "position": 4,
+      "title": "India and Pakistan summon diplomats after ships collide in international waters",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anahita Sachdev"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/ckge48jggv8go",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/a08c/live/e3d5b6e0-b25e-11f1-81c2-17e97ccb67a1.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU1WWGxEYUZvM2RXdENNbWRQVFJDT0FoamdBeWdLTWdNSkFEbw",
+      "date": "09/17/2026, 06:26 AM, +0000 UTC",
+      "iso_date": "2026-09-17T06:26:55Z"
+    },
+    {
+      "position": 5,
+      "title": "Indian and Pakistani warships collide in Arabian Sea",
+      "source": {
+        "name": "Asian Military Review",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.asianmilitaryreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chuanren Chen"
+        ]
+      },
+      "link": "https://www.asianmilitaryreview.com/2026/09/indian-and-pakistani-warships-collide-in-arabian-sea-foc/",
+      "thumbnail": "https://www.asianmilitaryreview.com/wp-content/uploads/2026/09/PNS-Yarmook.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVSSEpXYXpsdFEwRmpjVkUwVFJERUF4aW1CU2dLTWdhQnNaQk12UVk",
+      "date": "09/21/2026, 02:50 AM, +0000 UTC",
+      "iso_date": "2026-09-21T02:50:58Z"
+    },
+    {
+      "position": 6,
+      "title": "India, Pakistan summon diplomats after naval ships collide in Arabian Sea",
+      "source": {
+        "name": "South China Morning Post",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3367789/india-pakistan-summon-each-others-diplomats-after-naval-ships-collide-arabian-sea",
+      "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/700x400/public/d8/images/canvas/2026/09/17/9c783881-e9b2-426f-ab9a-a2b62bc6709c_e27f23a1.jpg?itok=ym4gLQ2I&v=1789607429",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhXa2R4VTI1MVZWVm1UMWwyVFJDUUF4aThCU2dLTWdNQklBQQ",
+      "date": "09/17/2026, 01:10 AM, +0000 UTC",
+      "iso_date": "2026-09-17T01:10:32Z"
+    },
+    {
+      "position": 7,
+      "title": "Pakistan Accuses Indian Warship Of 'Dangerous Manoeuvres' In Its EEZ Before Collision With Naval Vessel",
+      "source": {
+        "name": "Marine Insight",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marineinsight.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marineinsight.com/pakistan-accuses-indian-warship-of-dangerous-manoeuvres-in-its-eez-before-collision-with-naval-vessel/",
+      "thumbnail": "https://www.marineinsight.com/wp-content/uploads/2026/09/INS-Kolkata.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFOVnBCYTJWNE5tUlJSbGhtVFJDUUF4ai1CU2dLTWdhUmdZeHVzUVU",
+      "date": "09/18/2026, 12:45 PM, +0000 UTC",
+      "iso_date": "2026-09-18T12:45:17Z"
+    },
+    {
+      "position": 8,
+      "title": "Indian and Pakistani warships collide at sea, adding to tensions",
+      "source": {
+        "name": "The Japan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.japantimes.co.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/indian-pakistani-warships-collide/",
+      "thumbnail": "https://cdnx.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/563504.jpg&q=100&f=webp&t=1.53",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXRXRvTUdwMFVtcE9lRTlNVFJERUF4aW5CU2dLTWdZQmdKZ1VyUWc",
+      "date": "09/17/2026, 02:11 AM, +0000 UTC",
+      "iso_date": "2026-09-17T02:11:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Indian and Pakistani naval vessels collide in Arabian Sea",
+      "source": {
+        "name": "NavalToday",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navaltoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Fatima Bahtic"
+        ]
+      },
+      "link": "https://navaltoday.com/2026/09/17/indian-and-pakistani-naval-vessels-collide-in-arabian-sea",
+      "thumbnail": "https://www.navaltoday.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fpn%2520hunain-902x470.png%3Fprefix%3Dmedia&w=3840&q=75&dpl=dpl_4BqGJjS6JK3DZ52kH8HDSJRJMRCW",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxOVUpRZVdOMFRFNXpURWt3VFJDaUFSaTNBaWdCTWdhdE5JeXVJUWM",
+      "date": "09/17/2026, 09:43 AM, +0000 UTC",
+      "iso_date": "2026-09-17T09:43:22Z"
+    },
+    {
+      "position": 10,
+      "title": "Was Pakistan Navy vessel shadowing the Indian destroyer it collided with?",
+      "source": {
+        "name": "firstpost.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/pakistan-navy-pns-hunain-collision-indian-destroyer-what-happened-mea-protest-14046477.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/09/pakship1-2026-09-1f472a8234d0ec02ec430b27eb841e69.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFMWEJHY1ZoUE9HRkNRelEzVFJDZkF4ampCU2dLTWdhdEVveFFIUVk",
+      "date": "09/17/2026, 03:24 AM, +0000 UTC",
+      "iso_date": "2026-09-17T03:24:50Z"
+    },
+    {
+      "position": 11,
+      "title": "Indian, Pakistani warships collide in North Arabian Sea, Delhi summons Islamabad envoy",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "shubhajit roy",
+          "Amrita Nayak Dutta",
+          "Amrita Nayak"
+        ]
+      },
+      "link": "https://indianexpress.com/article/india/pakistani-envoy-delhi-summoned-collision-navy-ships-sea-10880130/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/India-Pakistan-flag.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNVMkpoU2pjNFJqSkxaM0J5VFJDZkF4ampCU2dLTWdaQmNZeTBzQVk",
+      "date": "09/16/2026, 09:39 PM, +0000 UTC",
+      "iso_date": "2026-09-16T21:39:00Z"
+    },
+    {
+      "position": 12,
+      "title": "‘PNS Hunain violated maritime norms’: India rejects Pakistan’s ‘usual prevarication’ over naval collision",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/pns-hunain-violated-maritime-norms-india-rejects-pakistans-usual-prevarication-over-naval-collision/articleshow/134333051.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134333195,width-1280,height-720,imgsize-59509,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURMVVJsTlRNdFMxZFFSSHBtVFJDZkF4ampCU2dLTWdZMVZKUndKUWc",
+      "date": "09/18/2026, 10:57 AM, +0000 UTC",
+      "iso_date": "2026-09-18T10:57:00Z"
+    },
+    {
+      "position": 13,
+      "title": "What is the India-Pakistan conflict at sea about? | Explained",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Saurabh Trivedi"
+        ]
+      },
+      "link": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece/amp/",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/9ohi2g/article71471568.ece/alternates/LANDSCAPE_1200/DEMOLITION%20PAKISTAN%20HIGH%20COMMISSION%20DELHI%20%202026_20_08_18.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNjRWgwYmpBMVlVWnRkbmxRVFJDZkF4ampCU2dLTWdZQlVJeUdLQWM",
+      "date": "09/19/2026, 09:40 PM, +0000 UTC",
+      "iso_date": "2026-09-19T21:40:00Z"
+    },
+    {
+      "position": 14,
+      "title": "India summons Pakistani diplomat over collision between two naval vessels",
+      "source": {
+        "name": "The Independent",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Arpan Rai"
+        ]
+      },
+      "link": "https://www.independent.co.uk/asia/india/india-pakistan-diplomat-summoned-naval-collision-b3051140.html",
+      "thumbnail": "https://static.independent.co.uk/2026/09/16/11/2290628597..",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaemRPYWtObmJWcG5jMWx5VFJERUF4aW1CU2dLTWdZQlVKRGxwQWM",
+      "date": "09/16/2026, 11:58 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:58:00Z"
+    },
+    {
+      "position": 15,
+      "title": "India summons Pakistani diplomat after incident in Arabian Sea",
+      "source": {
+        "name": "Al Jazeera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-04-02T134807Z_1707192281_RC2ZGKA6BXBK_RTRMADP_3_INDIA-DEFENCE-1789549809.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpZbk4yY1ZjME9FazJPRU5uVFJEZ0F4aUFCU2dLTWdZQllJVFZ5QU0",
+      "date": "09/16/2026, 10:49 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:49:15Z"
+    },
+    {
+      "position": 16,
+      "title": "Pak Navy vessel collides with Indian Navy ship, MEA summons Islamabad’s diplomat",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/defence/news/pak-navy-vessel-collides-with-indian-navy-ship-mea-summons-islamabads-diplomat/articleshow/134280703.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134282674,width-1280,height-720,imgsize-66132,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRjRzFWUkVoaFIyRmtiMUY1VFJDZkF4ampCU2dLTWdZaGhKaXRMUWc",
+      "date": "09/16/2026, 08:27 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:27:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Pakistani ship collides with Indian vessel: The 1991 treaty it violated",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/explained/pakistan-ship-collide-indian-navy-1991-treaty-10880965/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/PNS_Tabuk-1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9NMmxHV2xKalIxaEtialJuVFJDZkF4ampCU2dLTWdtVkFJNTRpT3g2Y0FF",
+      "date": "09/16/2026, 02:10 PM, +0000 UTC",
+      "iso_date": "2026-09-16T14:10:06Z"
+    },
+    {
+      "position": 18,
+      "title": "‘Unprofessional’: Pakistani ship collides with Indian naval unit, India summons Islamabad’s envoy",
+      "source": {
+        "name": "firstpost.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/world/india-summons-pakistan-diplomat-after-naval-ships-collide-in-international-waters-14046278.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/09/The-battle-for-Kyiv-3-2026-09-2724acb7f3fc8bbb35c84ab7fef9d3da-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVUSEp4TWxRdGVFZHJhMGR0VFJDZkF4ampCU2dLTWdhQmtveU5NUWM",
+      "date": "09/16/2026, 07:23 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:23:09Z"
+    },
+    {
+      "position": 19,
+      "title": "India, Pakistani naval ships collide in international waters; MEA calls conduct 'unprofessional'",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/india-pakistani-naval-ships-collide-in-international-waters-mea-calls-conduct-unprofessional/articleshow/134281087.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134281214,width-1280,height-720,imgsize-90410,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVORmxwWnpkelZrdGtUeTEzVFJDZkF4ampCU2dLTWdZaGhKaXRMUWc",
+      "date": "09/16/2026, 07:20 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:20:00Z"
+    },
+    {
+      "position": 20,
+      "title": "India, Pakistan trade protests after naval vessels collide in Arabian Sea",
+      "source": {
+        "name": "firstpost.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/world/india-pakistan-trade-protests-after-naval-vessels-collide-in-arabian-sea-14046438.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/09/The-battle-for-Kyiv-3-2026-09-2724acb7f3fc8bbb35c84ab7fef9d3da-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVUSEp4TWxRdGVFZHJhMGR0VFJDZkF4ampCU2dLTWdhQmtveU5NUWM",
+      "date": "09/16/2026, 07:17 PM, +0000 UTC",
+      "iso_date": "2026-09-16T19:17:24Z"
+    },
+    {
+      "position": 21,
+      "title": "Pak vessel PNS Hunain damaged after collision with Indian warship in North Arabian Sea, returns to harbou",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/pak-vessel-pns-hunain-damaged-after-collision-with-indian-warship-in-north-arabian-sea-returns-to-harbour/articleshow/134291641.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134291739,width-1280,height-720,imgsize-44934,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVlbFpCZVVaYVkzVnhZV2xDVFJDZkF4ampCU2dLTWdrUjBZSzJ3S1dwbVFB",
+      "date": "09/16/2026, 03:50 PM, +0000 UTC",
+      "iso_date": "2026-09-16T15:50:00Z"
+    },
+    {
+      "position": 22,
+      "title": "India-Pakistan warships collide: Why a 1991 pact is in the spotlight",
+      "source": {
+        "name": "firstpost.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/india-pakistan-warships-collide-why-a-1991-pact-is-in-the-spotlight-14046370.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/09/Untitled-design-80-2026-09-36dc6a70d8fa92d1636ce28770318bcc-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRSVGh3VG5ZelgwMWpNVGhUVFJDZkF4ampCU2dLTWdhUmdveFFzUVU",
+      "date": "09/16/2026, 01:29 PM, +0000 UTC",
+      "iso_date": "2026-09-16T13:29:42Z"
+    },
+    {
+      "position": 23,
+      "title": "Pakistan Navy vessel collides with Indian warship, New Delhi lodges strong protest: 'Unprofessional' | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rezaul Hasan Laskar"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/india-news/india-summons-pakistani-envoy-after-naval-drills-cause-collision-with-indian-navy-unit-101789542955242.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/16/400x225/PTI09-14-2026-000076B-0_1789543459542_aVDe_1789543469407_5Phz_8f38264f-ccbe-426a-b70a-310355c814fa_uI2b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlXVWxGZHpaTFJWTmlZek5qVFJEaEFSaVFBeWdLTWdhWlpJTHNwUUk",
+      "date": "09/16/2026, 07:18 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:18:32Z"
+    },
+    {
+      "position": 24,
+      "title": "Naval warships collision: India says Pakistan vessel closed in; Islamabad summons envoy",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amrita Nayak Dutta",
+          "Amrita Nayak"
+        ]
+      },
+      "link": "https://indianexpress.com/article/india/pakistan-indian-naval-collision-envoy-summoned-10882500/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/pakistan-indian-navy-collision.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhUVWRGUWxCdVZXcFFiVmsyVFJDZkF4ampCU2dLTWdZaGNKSU5zUVk",
+      "date": "09/17/2026, 01:17 PM, +0000 UTC",
+      "iso_date": "2026-09-17T13:17:54Z"
+    },
+    {
+      "position": 25,
+      "title": "Pakistan Navy vessel collides with Indian warship in Arabian Sea",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Saurabh Trivedi"
+        ]
+      },
+      "link": "https://www.thehindu.com/news/national/india-pakistan-vessel-collision-arabian-sea-protest-lodged-september-16-2026/article71471556.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/9ohi2g/article71471568.ece/alternates/LANDSCAPE_1200/DEMOLITION%20PAKISTAN%20HIGH%20COMMISSION%20DELHI%20%202026_20_08_18.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNjRWgwYmpBMVlVWnRkbmxRVFJDZkF4ampCU2dLTWdZQlVJeUdLQWM",
+      "date": "09/16/2026, 07:54 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:54:02Z"
+    },
+    {
+      "position": 26,
+      "title": "Pakistan naval vessel returns to harbour with 'severe damage' after collision with Indian warship in Arabian Sea",
+      "source": {
+        "name": "WION",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wionews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Siddhant Sibbal"
+        ]
+      },
+      "link": "https://www.wionews.com/world/pakistan-naval-vessel-returns-to-harbour-with-severe-damage-after-collision-with-indian-warship-in-arabian-sea-1789553687929",
+      "thumbnail": "https://cdn1.wionews.com/prod/wion/images/2026/20260916/image-1789554251458.jpeg?rect=(0,89,572,429)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9kMWhxZG1kcE9VRnJWblpSVFJDdEF4aThCQ2dLTWdZQm9vNXZOUWM",
+      "date": "09/16/2026, 10:24 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:24:00Z"
+    },
+    {
+      "position": 27,
+      "title": "India Protests After Pakistani Naval Ship Collides With Indian Navy Unit",
+      "source": {
+        "name": "INDIA New England News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://indianewengland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianewengland.com/india-protests-after-pakistani-naval-ship-collides-with-indian-navy-unit/",
+      "thumbnail": "https://indianewengland.com/wp-content/uploads/2026/09/Navy.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRkSGswZW1kRFJEWXRTVmxqVFJERUF4aW5CU2dLTWdZQnNwUk5PUWM",
+      "date": "09/16/2026, 05:22 PM, +0000 UTC",
+      "iso_date": "2026-09-16T17:22:44Z"
+    },
+    {
+      "position": 28,
+      "title": "Pak Ship Collides With Indian Navy Unit, Delhi Summons Islamabad's Envoy",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vishnu Som",
+          "Shiv Aroor",
+          "Sanstuti Nath"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/pak-ship-collides-with-indian-navy-unit-delhi-summons-islamabads-top-envoy-12053208",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/e45clkkc_pak-ship-collides-with-indian-navy-unit_650x400_16_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURTa3RQWXpKUk5rcFVXRWMzVFJDZkF4ampCU2dLTWdZSm9KSm52UVk",
+      "date": "09/16/2026, 07:13 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:13:56Z"
+    },
+    {
+      "position": 29,
+      "title": "Pakistan Navy Ship Collides With Indian Warship In Arabian Sea During Routine Surveillance Mission",
+      "source": {
+        "name": "Marine Insight",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marineinsight.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marineinsight.com/pakistan-navy-ship-collides-with-indian-warship-in-arabian-sea-during-routine-surveillance-mission/",
+      "thumbnail": "https://www.marineinsight.com/wp-content/uploads/2026/09/indian-nav-ship.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHRja2hFUjBObVYyOUtVMTgyVFJDUUF4ai1CU2dLTWdNQll3Zw",
+      "date": "09/17/2026, 07:25 AM, +0000 UTC",
+      "iso_date": "2026-09-17T07:25:31Z"
+    },
+    {
+      "position": 30,
+      "title": "India lodges protest after Pakistani naval ship collides with warship in Arabian Sea",
+      "source": {
+        "name": "PRESS Insider",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pressinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://pressinsider.com/news/india-lodges-protest-after-pakistani-naval-ship-collides-with-warship-in-arabian-sea/",
+      "thumbnail": "https://pressinsider.com/wp-content/uploads/2026/09/Indian-Navy-Frigate.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNRmxYYmsxQlUxRjBkSFZGVFJDZkF4amlCU2dLTWdZVmNJd3VyUVk",
+      "date": "09/16/2026, 11:43 PM, +0000 UTC",
+      "iso_date": "2026-09-16T23:43:34Z"
+    },
+    {
+      "position": 31,
+      "title": "Indian warship rammed by Pakistani naval vessel: How grey-zone tactics are entering the Arabian Sea",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/defence/news/indian-warship-rammed-by-pakistani-naval-vessel-how-grey-zone-tactics-are-entering-the-arabian-sea/articleshow/134283156.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134285469,width-1280,height-720,imgsize-105268,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRSM2hWVUc1MFpVOUhPV1ZaVFJDZkF4ampCU2dLTWdrQm9JNklRQ2FhRGdJ",
+      "date": "09/16/2026, 10:42 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:42:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Pakistan Envoy Summoned After Naval Ship Collides with Indian Navy Vessel",
+      "source": {
+        "name": "The Quint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thequint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thequint.com/news/breaking-news/india-pakistan-naval-collision-diplomatic-protest-arabian-sea",
+      "thumbnail": "https://cf-images.assettype.com/thequint/2026-09-16/ry0pb6dq/pnsHunain.png?auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUbnB6VDBwWFpGSkdRbGxMVFJENkFSaThBeWdLTWdZQmdvcHd0UVk",
+      "date": "09/16/2026, 11:56 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:56:37Z"
+    },
+    {
+      "position": 33,
+      "title": "India-Pakistan naval ships collide in Arabian Sea: What 1991 pact says",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rohitashwa Ranjan"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/india/india-pakistan-naval-ships-collide-in-arabian-sea-what-1991-pact-says/articleshow/134284669.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134284736,width-1280,height-720,imgsize-552536,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxXVGgwVm5WTFZ6UkZUbGhFVFJDZkF4ampCU2dLTWdZQmNJeUh1Z1k",
+      "date": "09/16/2026, 10:09 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:09:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Not the first time a Pakistani naval vessel collided with Indian warship. Here’s what happened in 2011",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://theprint.in/defence/not-the-first-time-a-pakistani-naval-vessel-collided-with-indian-warship-heres-what-happened-in-2011/3044345/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-design-12-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRha1IwVVVRMFdHeElPRTFIVFJDcUF4alBCU2dLTWdZSmdJU1ZUQU0",
+      "date": "09/16/2026, 10:46 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:46:18Z"
+    },
+    {
+      "position": 35,
+      "title": "‘Unacceptable And Unprofessional Conduct’: India Summons Pakistani Envoy After Pak Navy Ship Collides With Indian Warship",
+      "source": {
+        "name": "Swarajya",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://swarajyamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://swarajyamag.com/defence/unacceptable-and-unprofessional-conduct-india-summons-pakistani-envoy-after-pak-navy-ship-collides-with-indian-warship",
+      "thumbnail": "https://swarajya.gumlet.io/swarajya/2024-05/8d2041ad-e646-47d6-89d3-6bf7e5e64343/INS_Kulish__P63__is_underway_with_U_S__and_Indian_navy_ships_during_Exercise_Malabar_2012.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVVbHA2TkcxU1lrZFlTa016VFJERUF4aW1CU2dLTWdZUmNveUxNUVU",
+      "date": "09/16/2026, 09:38 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:38:22Z"
+    },
+    {
+      "position": 36,
+      "title": "‘Came close at high speed’: What led to India-Pakistan naval collision in Arabian Sea",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vivek Dubey"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/india/came-close-at-high-speed-what-led-to-india-pakistan-naval-collision-at-arabian-sea/articleshow/134281629.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134281805,width-1280,height-720,imgsize-99624,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJWVVkyVjFCbmIyZFlVVVJTVFJDZkF4ampCU2dLTWdtVlZJVE0xU0p6U1FJ",
+      "date": "09/16/2026, 07:57 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:57:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Warship collision: Why India accused Pakistan Navy of breaching 1991 pact",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/toi-plus/defence-security/warship-collision-why-india-accused-pakistan-navy-of-breaching-1991-pact/articleshow/134332244.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/resizemode-75,overlay-toiplus,width-1200,height-900,msid-134332452/134332452.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdiMVpPYkV0TVZISmlVbFprVFJEZkF4aUFCU2dLTWdrTkVJeHNtV1pGN1FF",
+      "date": "09/18/2026, 10:28 AM, +0000 UTC",
+      "iso_date": "2026-09-18T10:28:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Pakistan, Indian Navy ships come head-on in international waters: What we know | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nayanika Sengupta"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/india-news/speeding-pakistan-navy-ship-indian-warship-in-collision-what-exactly-happened-in-north-arabian-sea-101789543546575.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/pakistan_navy_indian_navy_ship_collision_1789545096448_Lwx8_1789545096566_0C0G_f7f2cf27-0416-41ae-9cc7-df45fc45e7fe_3BEO.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBia3RGTTBFd01TMVlha2cwVFJDZkF4ampCU2dLTWdhaHM0eHRRUVU",
+      "date": "09/16/2026, 07:54 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:54:49Z"
+    },
+    {
+      "position": 39,
+      "title": "India-Pakistan naval ships collide in Arabian Sea; New Delhi summons Pakistan diplomat over ‘unsafe’ conduct",
+      "source": {
+        "name": "organiser.org",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://organiser.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vishnu Aravind"
+        ]
+      },
+      "link": "https://organiser.org/2026/09/16/381136/bharat/india-pakistan-naval-ships-collide-in-arabian-sea-new-delhi-summons-pakistan-diplomat-over-unsafe-conduct/",
+      "thumbnail": "https://organiser.org/wp-content/uploads/2026/09/untitled-98.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDBXVlptZVRaTFpVdG5WVE14VFJDZkF4ampCU2dLTWdzQk1JcGxScVVXcGlyMmFR",
+      "date": "09/16/2026, 09:34 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:34:47Z"
+    },
+    {
+      "position": 40,
+      "title": "Why a 1991 India-Pakistan pact is back in focus after naval ships collided in the Arabian Sea",
+      "source": {
+        "name": "Open Magazine",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://openthemagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://openthemagazine.com/world/why-a-1991-india-pakistan-pact-is-back-in-focus-after-naval-ships-collided-in-the-arabian-sea",
+      "thumbnail": "https://media.openthemagazine.com/openthemagazine/2026-09-16/c1t3ffwl/ship.jpg?w=640&auto=format,compress&q=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpTazFUVW5SMk4yWmxPWEIzVFJEb0FoaUFCU2dLTWdhcGtwYU9PUWM",
+      "date": "09/16/2026, 10:44 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:44:15Z"
+    },
+    {
+      "position": 41,
+      "title": "High-speed manoeuvre, collision, damaged ship: What happened between PNS Hunain & Indian destroyer",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Philip",
+          "Snehesh Philip"
+        ]
+      },
+      "link": "https://theprint.in/defence/high-speed-manoeuvre-collision-damaged-ship-what-happened-between-pns-hunain-indian-destroyer/3044973/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-design-2026-09-16T155704.377.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRMkoxUVRaeE9GYzJPR1ZPVFJDZkF4ampCU2dLTWdhTm9vNXJQUVk",
+      "date": "09/16/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:03:37Z"
+    },
+    {
+      "position": 42,
+      "title": "When a Pakistan Navy ship brushed past an Indian warship in 2011",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/india/when-a-pakistan-navy-ship-brushed-past-an-indian-warship-in-2011-14032045.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/03/indian-navy-piracy.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhkVzlGTW1sYVRYZFVSVEJVVFJERUFSamVBaWdLTWdB",
+      "date": "09/17/2026, 09:27 AM, +0000 UTC",
+      "iso_date": "2026-09-17T09:27:22Z"
+    },
+    {
+      "position": 43,
+      "title": "Mid-sea collision: Pak vessel was no match to three-times bigger Indian destroyer INS Kolkata",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/india/mid-sea-collision-pak-vessel-was-no-match-to-three-times-bigger-indian-destroyer-ins-kolkata/articleshow/134316715.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134317065,width-1280,height-720,imgsize-238956,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRURUpuVnpGT1psOTJWbFZSVFJDZkF4ampCU2dLTWdhQmNaSnNzUWM",
+      "date": "09/17/2026, 04:44 PM, +0000 UTC",
+      "iso_date": "2026-09-17T16:44:00Z"
+    },
+    {
+      "position": 44,
+      "title": "PNS Hunain's high-seas collision with Indian warship: How Pakistan violated article 10 of the 1991 pact",
+      "source": {
+        "name": "opindia.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.opindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jinit Jain"
+        ]
+      },
+      "link": "https://www.opindia.com/2026/09/pns-hunain-returns-to-pakistani-harbour-after-sustaining-severe-damage-heres-what-we-know-about-the-high-seas-collision-with-an-indian-warship/",
+      "thumbnail": "https://www.opindia.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-16.43.04-696x392.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJOMWRGWjBSNVRITnhUR2RJVFJDSUF4aTRCU2dLTWdtVmxZTHB0U2FMMUFB",
+      "date": "09/16/2026, 11:20 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:20:23Z"
+    },
+    {
+      "position": 45,
+      "title": "Video | Pak Navy Ship Collides With Indian Warship In North Arabian Sea",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtv.com/video/pak-navy-ship-collides-with-indian-warship-in-north-arabian-sea-1159106",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/p663p5h_image_160x120_16_September_26.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpiRW81WWw5ZmJrbDNNRk14VFJDZkF4ampCU2dLTWdZSm9KQ0h2UVk",
+      "date": "09/16/2026, 12:32 PM, +0000 UTC",
+      "iso_date": "2026-09-16T12:32:19Z"
+    },
+    {
+      "position": 46,
+      "title": "First flashpoint since Operation Sindoor: Pak Navy vessel collides with Indian warship in Arabian Sea | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rezaul Hasan Laskar",
+          "Rahul Singh"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/india-news/arabian-sea-face-off-india-protests-after-pak-warship-collides-with-vessel-101789579394895.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/Representative_Image_1789580510168_FMAf_1789580513902_XIDk_2daaad56-08ec-4904-88aa-56b465c78a02_GOoU.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdiVE5tWVdGRlFucGllbXQxVFJDZkF4ampCU2dLTWdZbHBaTE5PUVk",
+      "date": "09/16/2026, 05:42 PM, +0000 UTC",
+      "iso_date": "2026-09-16T17:42:45Z"
+    },
+    {
+      "position": 47,
+      "title": "Pak navy brings Chinese playbook to Arabian Sea, dashes Indian warship",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anand Singh"
+        ]
+      },
+      "link": "https://www.indiatoday.in/india/story/india-pakistan-naval-collision-pns-hunain-ins-kolkata-indian-warship-deliberate-china-intimidation-playbook-2996749-2026-09-17",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-pakistan-pns-hunain-ins-kolkata-south-china-sea-tactic-chinese-playbook-2011-collision-173916707-16x9_0.jpg?VersionId=oNFN1ClvRFTkyKlhzT6xY83UvWSvjX91&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVTbHBuUkU5SlNteHVNMlEzVFJDZkF4ampCU2dLTWdhcFZZek5wUWM",
+      "date": "09/17/2026, 11:14 AM, +0000 UTC",
+      "iso_date": "2026-09-17T11:14:04Z"
+    },
+    {
+      "position": 48,
+      "title": "Pak vessel PNS Hunain involved in collision with Indian Navy ship - all about Yarmook-class corvette",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/defence/international/pak-vessel-pns-hunain-involved-in-collision-with-indian-navy-ship-all-about-yarmook-class-corvette/articleshow/134285111.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134285286,width-1280,height-720,imgsize-827002,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxhek53UVdaU2EyZGpWek0zVFJDZkF4ampCU2dLTWdhQm9wUk9PUWM",
+      "date": "09/16/2026, 10:35 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:35:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Pakistan summons Indian diplomat after New Delhi lodges strong protest over naval vessel collision | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/india-news/pakistan-summons-indian-diplomat-after-new-delhi-lodges-strong-protest-over-naval-vessel-collision-101789578001530.html",
+      "date": "09/16/2026, 05:26 PM, +0000 UTC",
+      "iso_date": "2026-09-16T17:26:36Z"
+    },
+    {
+      "position": 50,
+      "title": "Envoy summoned as Pakistan vessel hits Indian warship",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jayanth Jacob",
+          "Javaria Rana"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/india/2026/Sep/16/envoy-summoned-as-pakistan-vessel-hits-indian-warship",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-09-16/l758cqbh/BritainRussiaMukh.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZNbmh4VURoM1pGZzBYM0ozVFJDUUF4ai1CU2dLTWdZWjg0aXRTUVE",
+      "date": "09/17/2026, 02:36 AM, +0000 UTC",
+      "iso_date": "2026-09-17T02:36:32Z"
+    },
+    {
+      "position": 51,
+      "title": "Why India raised a storm over ship collision by Pakistan in Arabian Sea",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pradip R Sagar"
+        ]
+      },
+      "link": "https://www.indiatoday.in/india-today-insight/story/why-india-raised-a-storm-over-ship-collision-by-pakistan-in-arabian-sea-2996199-2026-09-16",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/why-india-raised-a-storm-over-ship-collision-by-pakistan-in-arabian-sea-165819876-16x9_0.png?VersionId=4hjeen3H_XI.1pgM9226uetBSKbkD2yv&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJhbWhzWDI5UmFFRlZiMHh5VFJDZkF4ampCU2dLTWdtWmRJS3FMU2g3dGdB",
+      "date": "09/16/2026, 02:58 PM, +0000 UTC",
+      "iso_date": "2026-09-16T14:58:29Z"
+    },
+    {
+      "position": 52,
+      "title": "TENSE…India–Pakistan Warships Collide in Arabian Sea Flashpoint",
+      "source": {
+        "name": "Defence Security Asia",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://defencesecurityasia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://defencesecurityasia.com/en/tense-india-pakistan-warships-collide-arabian-sea-ins-kolkata-pns-hunain/",
+      "thumbnail": "https://i0.wp.com/defencesecurityasia.com/wp-content/uploads/2026/09/HSVEfPWaIAAocQG.jpg?resize=700%2C430&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5RMFJOVjIxaWJDMVdNMU4zVFJDdUF4aThCU2dLTWdNZFVnZw",
+      "date": "09/16/2026, 10:19 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:19:27Z"
+    },
+    {
+      "position": 53,
+      "title": "Huge dent on PNS Hunain after collision with Indian Navy ship in Arabian Sea, returns to harbour",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Snehesh Philip"
+        ]
+      },
+      "link": "https://theprint.in/defence/how-pakistans-dutch-designed-pns-hunain-collided-with-indian-navy-ship/3044148/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-design-2026-09-16T155704.377.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRMkoxUVRaeE9GYzJPR1ZPVFJDZkF4ampCU2dLTWdhTm9vNXJQUVk",
+      "date": "09/16/2026, 11:29 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:29:37Z"
+    },
+    {
+      "position": 54,
+      "title": "Pakistani ship collides with Indian Navy unit; Delhi summons Islamabad's top diplomat",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gulfnews.com/world/asia/india/pakistani-ship-collides-with-indian-navy-unit-delhi-summons-islamabads-top-diplomat-1.500676447",
+      "thumbnail": "https://media.assettype.com/gulfnews/2026-09-16/1ni5v4jg/20260818504.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVYMXBRWDNkaldVRkNNRWRFVFJEZ0F4al9CQ2dLTWdhcFZack5wUWc",
+      "date": "09/16/2026, 08:11 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:11:01Z"
+    },
+    {
+      "position": 55,
+      "title": "Pakistani Naval ship collides with Navy vessel in Arabian Sea, India lodges protest",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Snehesh Philip"
+        ]
+      },
+      "link": "https://theprint.in/defence/pakistani-naval-ship-collides-with-navy-vessel-in-arabian-sea-india-lodges-protest/3044142/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/06/Untitled-design-2025-06-27T205643.773.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpNak5ZY3pGSFkwdHdSMDh3VFJDZkF4ampCU2dLTWdrQkVJekZ2aVF1elFF",
+      "date": "09/16/2026, 07:36 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:36:19Z"
+    },
+    {
+      "position": 56,
+      "title": "Pakistan Warship returns with severe damage after collision with Indian Warship in Arabian Sea",
+      "source": {
+        "name": "India Shipping News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indiashippingnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indiashippingnews.com/defence/pakistan-warship-returns-with-severe-damage-after-collision-with-indian-warship-in-arabian-sea/",
+      "thumbnail": "https://indiashippingnews.com/wp-content/uploads/2026/09/PNS-HUNAIN-ATTACK.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJOMWRGWjBSNVRITnhUR2RJVFJDSUF4aTRCU2dLTWdtVmxZTHB0U2FMMUFB",
+      "date": "09/17/2026, 03:40 AM, +0000 UTC",
+      "iso_date": "2026-09-17T03:40:59Z"
+    },
+    {
+      "position": 57,
+      "title": "Pakistan's PNS Hunain involved in collision with Indian Navy vessel in Arabian Sea: Sources",
+      "source": {
+        "name": "aninews.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aninews.in/news/world/asia/pakistans-pns-hunain-involved-in-collision-with-indian-navy-vessel-in-arabian-sea-sources20260916150635",
+      "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260916092739.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW1USHBWTW1KU1gwOWthMnQzVFJEZ0F4aUFCU2dLTWdNcGNSdw",
+      "date": "09/16/2026, 09:36 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:36:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Pak navy ship collides with Indian warship, New Delhi summons Islamabad's top envoy",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manjeet Negi"
+        ]
+      },
+      "link": "https://www.indiatoday.in/india/story/pakistan-ship-collides-with-indian-navy-unit-islamabads-top-envoy-summoned-2995745-2026-09-16",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/indian-navy-ship-163731785-16x9_0.jpg?VersionId=MbODm7Zrv2vejeOvUEtZIPsaW1_hPzMt&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpYMGxrWmtKbk5XVjRZMk52VFJDZkF4ampCU2dLTWdZUkpJWkpHZ2M",
+      "date": "09/16/2026, 07:19 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:19:03Z"
+    },
+    {
+      "position": 59,
+      "title": "India Summons Pakistan Envoy After Naval Ships Collide in International Waters",
+      "source": {
+        "name": "TheWire.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://m.thewire.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.thewire.in/article/diplomacy/india-summons-pakistan-envoy-after-naval-ships-collide-in-international-waters",
+      "thumbnail": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhMGI4ZmUyMzAtYjFiMi0xMWYxLWI3YzQtZDkzNjNhNjU5MGM3LmpwZw==",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBUMjVVZEhKVmJIQlNNVXRhVFJDLUF4aXZCU2dLTWdhVmRJVE1MUU0",
+      "date": "09/16/2026, 09:25 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:25:24Z"
+    },
+    {
+      "position": 60,
+      "title": "India Summons Pakistan Envoy After Naval Ships Collide in Arabian Sea",
+      "source": {
+        "name": "News Mobile",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newsmobile.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsmobile.in/top-story/india-summons-pakistan-envoy-after-naval-ships-collide-in-arabian-sea-2/",
+      "thumbnail": "https://www.newsmobile.in/wp-content/uploads/2026/09/Arabian-Sea.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlTR2xVV0ZRNVR5MHpWVXRJVFJDZkF4ampCU2dLTWdhWmNvVHF0UU0",
+      "date": "09/16/2026, 01:12 PM, +0000 UTC",
+      "iso_date": "2026-09-16T13:12:47Z"
+    },
+    {
+      "position": 61,
+      "title": "India summons Pakistan envoy after naval vessels collide in Arabian Sea",
+      "source": {
+        "name": "Free Press Kashmir",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://freepresskashmir.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://freepresskashmir.news/2026/09/16/india-summons-pakistan-envoy-after-naval-vessels-collide-in-arabian-sea/",
+      "thumbnail": "https://cdn.freepresskashmir.news/wp-content/uploads/2026/09/Pakistan-Navy-ships.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRRa050V25CQ05YZFBSMTgzVFJDZkF4amlCU2dLTWdZVlE0Q08xUUk",
+      "date": "09/16/2026, 11:15 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:15:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Video | India-Pakistan Warships Collide: How A Dangerous Arabian Sea Manoeuvre Ended",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtv.com/video/india-pakistan-warships-collide-how-a-dangerous-arabian-sea-manoeuvre-ended-1159260",
+      "thumbnail": "https://c.ndtvimg.com/dmx-images/video/images/vod/medium/2026-09/1159260_maxresdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBaRVUyZDFndGMwTmhZalJIVFJDZkF4ampCU2dLTWdrTk1JaG5QYVFXeEFJ",
+      "date": "09/16/2026, 04:48 PM, +0000 UTC",
+      "iso_date": "2026-09-16T16:48:56Z"
+    },
+    {
+      "position": 63,
+      "title": "High Seas Tension: India-Pakistan Naval Collision Sparks Diplomatic Protest",
+      "source": {
+        "name": "Devdiscourse",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.devdiscourse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.devdiscourse.com/article/politics/3977830-high-seas-tension-india-pakistan-naval-collision-sparks-diplomatic-protest",
+      "date": "09/16/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:00:52Z"
+    },
+    {
+      "position": 64,
+      "title": "Pak Vessel Collides With Indian Navy Ship; India Summons Envoy",
+      "source": {
+        "name": "Deccan Chronicle",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanchronicle.com/nation/current-affairs/india-summons-pakistan-envoy-over-naval-warship-collision-in-arabian-sea-1987855",
+      "thumbnail": "https://www.deccanchronicle.com/h-upload/2026/09/16/1500x900_2089549-pti04252025000046b-scaled.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDFjbXBxUTA1UWFVWXhXRUZDVFJDdEF4akxCU2dLTWd1QklKRHZGQ2pRQ2twTlpB",
+      "date": "09/16/2026, 07:59 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:59:33Z"
+    },
+    {
+      "position": 65,
+      "title": "Pakistani Warship Collides With Indian Navy Ship; Delhi Summons Envoy, Flags 1991 Pact Breach",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/videos/times-axis/pakistani-warship-collides-with-indian-navy-ship-delhi-summons-envoy-flags-1991-pact-breach/videoshow/134287732.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134287732,width-1200,height-900,resizemode-4/134287732.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhXRFpCZVVOdlExaDZWV2huVFJEZ0F4aUFCU2dLTWdtQk1aREdKU2JZcFFJ",
+      "date": "09/16/2026, 12:14 PM, +0000 UTC",
+      "iso_date": "2026-09-16T12:14:38Z"
+    },
+    {
+      "position": 66,
+      "title": "India rejects Pakistan’s version of INS Kolkata collision with PNS Hunain",
+      "source": {
+        "name": "heraldgoa.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.heraldgoa.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.heraldgoa.in/goa/india-rejects-pakistans-version-of-ins-kolkata-collision-with-pns-hunain/489200/",
+      "thumbnail": "https://www.heraldgoa.in/wp-content/uploads/2026/09/navy_collision__1789729356448_TrmU_1789729356604_8dBJ_27ed26d0-3292-4cda-be46-df58765f5a1b_KPSZ-860x484.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XV1ZOU0ZkR1NHZ3lNM0Z6VFJDZkF4amlCU2dLTWdhRkk1WnZsUW8",
+      "date": "09/18/2026, 01:41 PM, +0000 UTC",
+      "iso_date": "2026-09-18T13:41:53Z"
+    },
+    {
+      "position": 67,
+      "title": "Pakistan Naval Ship Collides With Indian Warship After 'Unprofessional Manoeuvre'; Diplomat Summoned",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Apoorva Misra"
+        ]
+      },
+      "link": "https://www.news18.com/india/indian-navy-warship-pakistan-ship-collide-in-arabian-sea-india-summons-top-diplomat-10333441.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/indian-warship-2026-09-fa0f2e5f2dea9832b31f757d9b6ebb5e.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZlRzFvYjJKRk5saDRjWGh0VFJDZkF4ampCU2dLTWdrZElvb3R4YVJieFFJ",
+      "date": "09/16/2026, 07:17 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:17:54Z"
+    },
+    {
+      "position": 68,
+      "title": "Unsafe manoeuvres by Pakistan Navy ship preceded collision with Indian warship",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Javaria Rana"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/india/2026/Sep/16/unsafe-manoeuvres-by-pakistan-navy-ship-preceded-collision-with-indian-warship",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2026-03-22%2Fpyaazmzm%2FANI_20260322041444.jpg?rect=0%2C300%2C1600%2C900&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaRTlhVW5GNk56bHdUbUpmVFJDZkF4ampCU2dLTWdhWllvNHV0UVU",
+      "date": "09/16/2026, 11:54 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:54:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Pak naval vessel PNS Hunain sustains damage after collision with Indian warship, heads to own harbour",
+      "source": {
+        "name": "The Statesman",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestatesman.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thestatesman.com/india/pak-naval-vessel-pns-hunain-sustains-damage-after-collision-with-indian-warship-heads-to-own-harbour-1503639225.html",
+      "thumbnail": "https://www.thestatesman.com/wp-content/uploads/2026/09/PNS-Hunain_20260916_155834_0000.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVllbWx0V1hKWldGUjNZMEpUVFJDZkF4ampCU2dLTWdhTm9vNXJPUVk",
+      "date": "09/16/2026, 10:30 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:30:00Z"
+    },
+    {
+      "position": 70,
+      "title": "India protests to Pakistan over collision of naval ships at sea",
+      "source": {
+        "name": "The Straits Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.straitstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.straitstimes.com/asia/east-asia/india-protests-to-pakistan-over-collision-of-naval-ships-at-sea",
+      "thumbnail": "https://cassette.sphdigital.com.sg/image/straitstimes/a4f64c6f3f3c0ff8332237b3207d56ff3440fec30c934561591963a88b5b82b7",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRjRFJQVkZWbE5rRkJkWGxaVFJERUF4aW1CU2dLTWdhRlNZZ0Vud2s",
+      "date": "09/16/2026, 08:02 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:02:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Delhi lodges protest after India, Pakistan naval vessels collide",
+      "source": {
+        "name": "PressReader",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pressreader.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pressreader.com/india/hindustan-times-lucknow/20260917/281479283314578",
+      "thumbnail": "https://i.prcdn.co/img?regionKey=dlpH8EZy9U1L3Cs%2FF9olZA%3D%3D",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpVekZVWVhkNFRFeFRjWFZLVFJEUEFSaW5BU2dCTWdrRkFKSWxBdXRyWndJ",
+      "date": "09/17/2026, 09:45 PM, +0000 UTC",
+      "iso_date": "2026-09-17T21:45:44Z"
+    },
+    {
+      "position": 72,
+      "title": "India denies Pakistan's version of naval collision, says PNS Hunain acted 'unprofessionally'",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hritika Mitra"
+        ]
+      },
+      "link": "https://www.india.com/news/india/india-denies-pakistans-version-of-naval-collision-says-pns-hunain-acted-unprofessionally-ins-kolkata-8527326/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/09/Randhir.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVXbFkyUXkxdVYyZzBkVWwzVFJERUF4aW1CU2dLTWdhNVU1QlJKUWc",
+      "date": "09/18/2026, 12:50 PM, +0000 UTC",
+      "iso_date": "2026-09-18T12:50:17Z"
+    },
+    {
+      "position": 73,
+      "title": "Video | Pakistan Navy Warship Collides With Frontline Indian Navy Vessel; India Summons Top Diplomat",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtv.com/video/pakistan-navy-warship-collides-with-frontline-indian-navy-vessel-india-summons-top-diplomat-1159174",
+      "thumbnail": "https://c.ndtvimg.com/dmx-images/video/images/vod/medium/2026-09/1159174_maxresdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBlbWx1UWt4RlVXVndWMDkxVFJDZkF4ampCU2dLTWdhQmRJQWg0Z0U",
+      "date": "09/16/2026, 02:32 PM, +0000 UTC",
+      "iso_date": "2026-09-16T14:32:35Z"
+    },
+    {
+      "position": 74,
+      "title": "Pakistan lodges protest after Delhi summons Islamabad envoy over warship collision in Arabian Sea",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/india/pakistan-protest-delhi-summons-islamabad-envoy-warship-collision-in-arabian-sea-10881306/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/p1-pakistan-4cols.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhPRlpLTjIxUk5XbE9kMUI2VFJDZkF4ampCU2dLTWdZaGNaSXRzUVk",
+      "date": "09/16/2026, 10:34 PM, +0000 UTC",
+      "iso_date": "2026-09-16T22:34:50Z"
+    },
+    {
+      "position": 75,
+      "title": "Indian and Pakistani naval vessels collide in Arabian Sea: Why New Delhi invoked a 1991 pact and what its...",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/world/indian-and-pakistani-naval-vessels-collide-in-arabian-sea-why-new-delhi-invoked-a-1991-pact-and-what-its-three-nautical-mile-rule-means-article-14031395.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260916150137_Hunain.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFlbXhLTlZsa2FVbHNNa3MwVFJERUFSamVBaWdLTWdZTm80NXJ2UVU",
+      "date": "09/16/2026, 03:01 PM, +0000 UTC",
+      "iso_date": "2026-09-16T15:01:53Z"
+    },
+    {
+      "position": 76,
+      "title": "India Protests After Pakistani Naval Vessel Collides with Warship in International Waters | News18",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/videos/breaking-news/india-protests-after-pakistani-naval-vessel-collides-with-warship-in-international-waters-news18-10333944.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/1789552937_7b1aae8a-7ae1-46e3-9f0a-d1d835d1c106.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpkMk40VDJKaU0xOUZTbHBwVFJDZkF4ampCU2dLTWdhRkZvNUdrZ1k",
+      "date": "09/16/2026, 09:56 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:56:00Z"
+    },
+    {
+      "position": 77,
+      "title": "‘Unacceptable, unprofessional conduct’: India summons envoy after Pakistani ship collides with Indian warship",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manjeet Negi"
+        ]
+      },
+      "link": "https://www.businesstoday.in/india/story/unacceptable-unprofessional-conduct-india-summons-envoy-after-pakistani-ship-collides-with-indian-warship-555867-2026-09-16",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aaa5a865be30-pakistani-navy-ship-collides-with-indian-warship-165948936-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRTRFpJTlY5eVNXbFBaSE4wVFJDZkF4ampCU2dLTWdZUkZJWkpHZ2M",
+      "date": "09/16/2026, 09:02 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:02:15Z"
+    },
+    {
+      "position": 78,
+      "title": "India Lodges Strong Protest With Pakistan After Naval Ships Collide In The Arabian Sea",
+      "source": {
+        "name": "ETV Bharat",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.etvbharat.com/en/international/india-lodges-strong-protest-with-pakistan-after-its-naval-ship-collides-with-an-indian-navy-vessel-enn26091602355",
+      "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27644668-thumbnail-16x9-nav-aspera.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9WVkJOZFVOQ2NHZExOVmxRVFJDZkF4ampCU2dLTWdhVnM0eU1RUVU",
+      "date": "09/16/2026, 07:59 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:59:14Z"
+    },
+    {
+      "position": 79,
+      "title": "Pakistan navy ship returns with severe damage after collision with Indian warship in Arabian Sea",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/world/pakistan-navy-ship-returns-with-severe-damage-after-collision-with-indian-warship-in-arabian-sea-article-14031282.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260916114219_Hunain.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFlbXhLTlZsa2FVbHNNa3MwVFJERUFSamVBaWdLTWdZTm80NXJ2UVU",
+      "date": "09/16/2026, 11:43 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:43:21Z"
+    },
+    {
+      "position": 80,
+      "title": "Pakistan vessel collides with Indian Navy ship in Arabian Sea; MEA summons envoy",
+      "source": {
+        "name": "The Assam Tribune",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://assamtribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://assamtribune.com/national/pakistan-vessel-collides-with-indian-navy-ship-in-arabian-sea-mea-summons-envoy-1617566",
+      "thumbnail": "https://assamtribune.com/h-upload/2025/05/13/1500x900_1711938-indian-navy.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdOM3BDUm5sVmQyRjNSWEJ0VFJDdEF4akxCU2dLTWdZSjBZcld5QVE",
+      "date": "09/16/2026, 09:44 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:44:43Z"
+    },
+    {
+      "position": 81,
+      "title": "Pakistan Navy Ship Collision Sparks Diplomatic Protest From India | India-Pakistan | News Periscope",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/videos/news-periscope/pakistan-navy-ship-collision-sparks-diplomatic-protest-from-india-india-pakistan-news-periscope-10334161.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/1789558381_ff9577bc-cd8a-4219-9d69-65b6162d936c.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJWR3BJVEdWVVYweENPVkF6VFJDZkF4ampCU2dLTWdZZFpKS0xyUVk",
+      "date": "09/16/2026, 11:15 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:15:00Z"
+    },
+    {
+      "position": 82,
+      "title": "1991 India-Pakistan Agreement: Naval Collision and Grey-Zone Tactics",
+      "source": {
+        "name": "Vajiram & Ravi",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vajiramandravi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://vajiramandravi.com/current-affairs/1991-india-pakistan-agreement/",
+      "thumbnail": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/09/17114145/1991-India-Pakistan-Agreement-768x461.webp?v=1789625504",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNNa0ZhYzFwbGQzRmpha3B4VFJDdEF4akxCU2dLTWdtZEE0SnJYYUp6Z1FN",
+      "date": "09/17/2026, 06:20 AM, +0000 UTC",
+      "iso_date": "2026-09-17T06:20:08Z"
+    },
+    {
+      "position": 83,
+      "title": "India Summons Pakistan Envoy After High-Speed Warship Collision in Arabian Sea",
+      "source": {
+        "name": "Pragativadi",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pragativadi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Itishree Sethy"
+        ]
+      },
+      "link": "https://pragativadi.com/india-summons-pakistan-envoy-after-high-speed-warship-collision-in-arabian-sea/",
+      "thumbnail": "https://pragativadi.com/wp-content/uploads/2026/09/ship-1-640x375.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNWbWx4WVZKM1JWRXhWbWhaVFJEM0FoaUFCU2dLTWdhSldaYkZvZ2c",
+      "date": "09/16/2026, 08:14 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:14:06Z"
+    },
+    {
+      "position": 84,
+      "title": "Pakistani Navy vessel collides with Indian Naval ship; New Delhi summons Pakistan’s Charge d’Affaires",
+      "source": {
+        "name": "myind.net",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://myind.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://myind.net/Home/viewArticle/pakistani-navy-vessel-collides-with-indian-naval-ship-new-delhi-summons-pakistans-charge-daffaires",
+      "thumbnail": "https://myind.net/sites/default/files/field/image/9f77b5ba_488a7a2a-dbfa-47a6-994f-871be859b53d.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXFSMHBKYlVaQmRFNXNSMnBvVFJDUUF4aThCU2dLTWdzQllJaVZQS2JJY0trZ1JR",
+      "date": "09/16/2026, 09:32 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:32:38Z"
+    },
+    {
+      "position": 85,
+      "title": "'PNS Hunain Behaved in an Unacceptable & Unprofessional Manner': MEA on Pakistani Naval Vessel's Collision With Indian Ship",
+      "source": {
+        "name": "republicworld.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.republicworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankita Paul"
+        ]
+      },
+      "link": "https://www.republicworld.com/world-news/pns-hunain-behaved-in-an-unacceptable-unprofessional-manner-mea-on-pakistani-naval-vessel-s-collision-with-indian-ship-2026-09-18-137237",
+      "thumbnail": "https://img.republicworld.com/all_images/2026/09/pns-hunain-behaved-in-an-unacceptable-unprofessional-manner-mea-on-pakistani-naval-vessel-s-collision-with-indian-ship-1789730356317-1280x720.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdjVUpqU2tWTlMzSjNNRmhuVFJDZkF4ampCU2dLTWdteFlKS1B0ZVlsQ3dJ",
+      "date": "09/18/2026, 11:19 AM, +0000 UTC",
+      "iso_date": "2026-09-18T11:19:24Z"
+    },
+    {
+      "position": 86,
+      "title": "\"Unacceptable, unprofessional\": Former Navy spokesperson Captain DK Sharma (Retd) denounces Pakistani naval vessel's collision with Indian ship",
+      "source": {
+        "name": "malaysiasun.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.malaysiasun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.malaysiasun.com/news/279311582/unacceptable-unprofessional-former-navy-spokesperson-captain-dk-sharma-retd-denounces-pakistani-naval-vessel-collision-with-indian-ship",
+      "thumbnail": "https://chitra-api.kreatio.com/api/v1/wps/5d16cc1/60458c8f-2b24-49a0-a933-05bd4d22e83a/0/ANI-20260916131148-630x420.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFXRzQ0ZWpCME1rbFpRbmxSVFJDM0FSaVRBaWdCTWdZdE5ZN09JUWM",
+      "date": "09/16/2026, 03:28 PM, +0000 UTC",
+      "iso_date": "2026-09-16T15:28:00Z"
+    },
+    {
+      "position": 87,
+      "title": "Why INS Kolkata Held Fire: Ex-Commodore Decodes India-Pakistan Naval Collision in Arabian Sea",
+      "source": {
+        "name": "EurAsian Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.eurasiantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sakshi Tiwari"
+        ]
+      },
+      "link": "https://www.eurasiantimes.com/why-ins-kolkata-held-fire/",
+      "thumbnail": "https://www.eurasiantimes.com/wp-content/uploads/2026/09/INS-KOLKATA.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVWa2w1UVcxMGNEZERkRGxGVFJERUF4aW1CU2dLTWdhTmNaUnVMUWM",
+      "date": "09/19/2026, 07:52 AM, +0000 UTC",
+      "iso_date": "2026-09-19T07:52:18Z"
+    },
+    {
+      "position": 88,
+      "title": "India summons Pakistani envoy after navy ships collide",
+      "source": {
+        "name": "malaysiasun.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.malaysiasun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.malaysiasun.com/news/279310347/india-summons-pakistani-envoy-after-navy-ships-collide",
+      "thumbnail": "https://chitra-api.kreatio.com/api/v1/wps/1f79216/2a826228-6bea-4a7e-bfbf-13178f654771/0/NmU4YjAxNWYtNzJ-630x420.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVRMnBSZDBkaVRtTldWRXRqVFJDM0FSaVRBaWdCTWdhWkZJak9sUVk",
+      "date": "09/16/2026, 08:27 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:27:00Z"
+    },
+    {
+      "position": 89,
+      "title": "'Usual prevarication': India dismisses Pakistan's allegations on collision of naval vessels",
+      "source": {
+        "name": "Mathrubhumi English",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://english.mathrubhumi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://english.mathrubhumi.com/news/india/india-rejects-pakistan-allegations-naval-collision-qc285m9g",
+      "thumbnail": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1tvg4l4lq1yilj0stqn/0/randhir-jaiswal-jpg.webp?f=16:9&w=1200&q=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNUMjUxU3prd2VWTm1SemRCVFJDZkF4ampCU2dLTWdZeEJZS3ZLUWc",
+      "date": "09/18/2026, 12:32 PM, +0000 UTC",
+      "iso_date": "2026-09-18T12:32:19Z"
+    },
+    {
+      "position": 90,
+      "title": "What is Article 10? The 1991 pact at the centre of India-Pakistan naval ship collision – explained",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/news/india/what-is-article-10-the-1991-pact-at-the-centre-of-india-pakistan-naval-ship-collision-explained-11789549935884.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/maxresdefault_1789574738619_XWhV_1789574746772_b1C1_66c595bf-d6f9-42aa-8510-27f89dcc3034_2J65.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRVM2wxZFhCVmVuWmhVaTFCVFJDZkF4ampCU2dLTWdrQm9JSjR0S2JRckFF",
+      "date": "09/16/2026, 10:53 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:53:47Z"
+    },
+    {
+      "position": 91,
+      "title": "INS Kolkata-PNS Hunain Collision: India Hits Back At Pakistan’s ‘Provocative’ Claim",
+      "source": {
+        "name": "Times Now",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yuvraj Tyagi"
+        ]
+      },
+      "link": "https://www.timesnownews.com/india/ins-kolkata-pns-hunain-collision-india-hits-back-at-pakistans-provocative-claim-article-156182114",
+      "thumbnail": "https://images.timesnownews.com/thumb/msid-156182154,thumbsize-1101655,width-1280,height-720,resizemode-75/156182154.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdkVlpxY0ZWNVVFRTBSVGRVVFJDZkF4ampCU2dLTWdZTnNveEx2UVU",
+      "date": "09/18/2026, 12:06 PM, +0000 UTC",
+      "iso_date": "2026-09-18T12:06:27Z"
+    },
+    {
+      "position": 92,
+      "title": "India Calls Pakistan Naval Manoeuvre ‘Unprofessional’ After Arabian Sea Collision",
+      "source": {
+        "name": "Outlook India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.outlookindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shvetank Maurya"
+        ]
+      },
+      "link": "https://www.outlookindia.com/international/india-calls-pakistan-naval-manoeuvre-unprofessional-after-arabian-sea-collision",
+      "thumbnail": "https://cf-images.assettype.com/outlookindia/2026-05-21/ib7dtw1a/imago856056072.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZNekp6UW10WUxXdzVNbmRYVFJDZkF4ampCU2dLTWdZVnNKQ3ZRQVk",
+      "date": "09/16/2026, 10:14 AM, +0000 UTC",
+      "iso_date": "2026-09-16T10:14:42Z"
+    },
+    {
+      "position": 93,
+      "title": "Pak naval ship collides with Indian Navy unit in international waters; India takes action",
+      "source": {
+        "name": "Indiablooms",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiablooms.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiablooms.com/news/pak-naval-ship-collides-with-indian-navy-unit-in-international-waters-india-takes-action/details",
+      "thumbnail": "https://www.indiablooms.com/storage/assets/n/2026/1789547568175400288.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpTazVSV0ZJdGQzTTNVazU1VFJDMkF4aTlCU2dLTWdhUmtwSkl0UVk",
+      "date": "09/16/2026, 08:32 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:32:48Z"
+    },
+    {
+      "position": 94,
+      "title": "India summons Pakistani envoy after navy ships collide",
+      "source": {
+        "name": "India's News.Net",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiasnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiasnews.net/news/279310347/india-summons-pakistani-envoy-after-navy-ships-collide",
+      "thumbnail": "https://chitra-api.kreatio.com/api/v1/wps/d15e045/2a826228-6bea-4a7e-bfbf-13178f654771/0/NmU4YjAxNWYtNzJ-1156x770.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhVMlpxVEdNemVtVjNVVTVmVFJDM0FSaVRBaWdCTWdhWkZJak9sUVk",
+      "date": "09/16/2026, 06:27 PM, +0000 UTC",
+      "iso_date": "2026-09-16T18:27:00Z"
+    },
+    {
+      "position": 95,
+      "title": "‘High-Speed, Unprofessional Manoeuvre’: What Led To India-Pakistan Naval Ships Collision",
+      "source": {
+        "name": "Times Now",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Sharma"
+        ]
+      },
+      "link": "https://www.timesnownews.com/india/high-speed-unprofessional-manoeuvre-what-led-to-collision-between-india-and-pakistan-warships-in-arabian-sea-article-156167380",
+      "thumbnail": "https://images.timesnownews.com/thumb/msid-156168074,thumbsize-375643,width-1280,height-720,resizemode-75/156168074.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBNVFl4WW1SNFR6WkJWbXBsVFJDZkF4ampCU2dLTWdZUmhJb29OZ1U",
+      "date": "09/16/2026, 09:18 AM, +0000 UTC",
+      "iso_date": "2026-09-16T09:18:48Z"
+    },
+    {
+      "position": 96,
+      "title": "India-Pakistan Navy Ships Collide in International Waters",
+      "source": {
+        "name": "Pakistan Connect",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thepakistanconnect.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thepakistanconnect.com/india-pakistan-navy-ships-collide-in-international-waters/",
+      "thumbnail": "https://thepakistanconnect.com/wp-content/uploads/2026/09/Untitled-design-75.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtWMEZaUVU5MlRIcFNPR0YwVFJEQ0F4aXBCU2dLTWdhWmc1aXNMUWc",
+      "date": "09/16/2026, 01:57 PM, +0000 UTC",
+      "iso_date": "2026-09-16T13:57:33Z"
+    },
+    {
+      "position": 97,
+      "title": "What Happened In The Arabian Sea? Pakistan Navy Ship Collides With Indian Warship, India Actioned Firmly",
+      "source": {
+        "name": "Indianmasterminds",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://indianmasterminds.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianmasterminds.com/news/defence/india-pakistan-navy-ship-collision-arabian-sea-mea-protest-233775/",
+      "thumbnail": "https://indianmasterminds.com/wp-content/uploads/2024/07/Ministry-of-External-Affairs-MEA-resized-768x469.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRaVEZEZFUxTVdHMHdYM0o2VFJDeEF4akZCU2dLTWdhQmM0Nm9yUVk",
+      "date": "09/16/2026, 11:26 AM, +0000 UTC",
+      "iso_date": "2026-09-16T11:26:12Z"
+    },
+    {
+      "position": 98,
+      "title": "Pak Naval Ship Returns With 'Major Scar' After 'Unprofessional Collision' With Indian Warship",
+      "source": {
+        "name": "Times Now",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mahima Joshi"
+        ]
+      },
+      "link": "https://www.timesnownews.com/india/pakistan-naval-ship-returns-with-major-damage-after-collision-with-indian-warship-in-north-arabian-sea-article-156169360",
+      "thumbnail": "https://images.timesnownews.com/thumb/msid-156169635,thumbsize-111349,width-1280,height-720,resizemode-75/156169635.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRRMk5CV1VsRlEzaFlTekZPVFJDZkF4ampCU2dLTWdtUmtZcndSS1dDelFF",
+      "date": "09/16/2026, 01:25 PM, +0000 UTC",
+      "iso_date": "2026-09-16T13:25:34Z"
+    },
+    {
+      "position": 99,
+      "title": "Pakistan Naval Ship Collides With Indian Vessel; MEA Summons Pak Diplomat",
+      "source": {
+        "name": "Outlook India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.outlookindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Saurabh Sharma"
+        ]
+      },
+      "link": "https://www.outlookindia.com/national/pakistan-naval-ship-collides-with-indian-warship-mea-summons-pak-diplomat",
+      "thumbnail": "https://cf-images.assettype.com/outlookindia/2025-05-23/39bc53pi/India-Pakistan-Relations?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTVRWHBFWWtrMk9WbG1OMnhKVFJERUF4aW1CU2dLTWd1RmNZYUhNaWM5ek9uYVJB",
+      "date": "09/16/2026, 08:28 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:28:04Z"
+    },
+    {
+      "position": 100,
+      "title": "India-Pakistan Navy Ship Collision: ‘Unprofessional’ – Indian-Pakistani Navy Ships Collide In Arabian Sea, Delhi Summons Diplomat Over ‘Unacceptable’ Conduct; What Does 1991 Pact Say?",
+      "source": {
+        "name": "The Sunday Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sundayguardianlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Kumar"
+        ]
+      },
+      "link": "https://sundayguardianlive.com/world/india-pakistan-navy-ship-collision-unprofessional-indian-pakistani-navy-ships-collide-in-arabian-sea-delhi-summons-diplomat-over-unacceptable-conduct-what-does-1991-pact-say-285914/",
+      "thumbnail": "https://sundayguardianlive.com/wp-content/uploads/2026/09/discord-outage-today-16.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUVXWHBwVkZsNGIyUXpaMVl3VFJEZ0F4aUFCU2dLTWdB",
+      "date": "09/16/2026, 08:53 AM, +0000 UTC",
+      "iso_date": "2026-09-16T08:53:08Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

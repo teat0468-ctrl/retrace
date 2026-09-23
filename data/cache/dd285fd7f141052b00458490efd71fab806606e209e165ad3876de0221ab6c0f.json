@@ -1,0 +1,251 @@
+{
+  "search_metadata": {
+    "id": "6ab2bfeb22abf78946054d4f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FLG57OoOUM9jPas18vd1c68fdhjhh1WdCX2Ui75Cgfg/6ab2bfeb22abf78946054d4f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FLG57OoOUM9jPas18vd1c68fdhjhh1WdCX2Ui75Cgfg/6ab2bfeb22abf78946054d4f.md",
+    "created_at": "2026-09-22 17:50:35 UTC",
+    "processed_at": "2026-09-22 17:50:35 UTC",
+    "google_news_url": "https://news.google.com/search?q=The+Tata+Sons-Tata+Trusts+dispute+is+escalating%2C+with+the+two+sides+now+clashing+over+the+company%27s+leadership+and+governance.",
+    "raw_html_file": "https://serpapi.com/searches/FLG57OoOUM9jPas18vd1c68fdhjhh1WdCX2Ui75Cgfg/6ab2bfeb22abf78946054d4f.html",
+    "total_time_taken": 1.88
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "The Tata Sons-Tata Trusts dispute is escalating, with the two sides now clashing over the company's leadership and governance."
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Why Tata’s boardroom is at war",
+      "source": {
+        "name": "Financial Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Kay",
+          "Krishn Kaushik"
+        ]
+      },
+      "link": "https://www.ft.com/content/c4753943-5af3-4260-a655-460afcb55502?syn-25a6b1a6=1",
+      "thumbnail": "https://images.ft.com/v3/image/raw/ftcms%3A1e31ec30-463b-4fe5-8976-8224b750af74?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURTbXRVTFhwemEwRXRUV2x3VFJDZkF4ampCU2dLTWdhcFpZak5yUVk",
+      "date": "09/18/2026, 09:04 AM, +0000 UTC",
+      "iso_date": "2026-09-18T09:04:48Z"
+    },
+    {
+      "position": 2,
+      "title": "Tata Group Faces Leadership Crisis as Chandrasekaran Stays On",
+      "source": {
+        "name": "Global Banking & Finance Review",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.globalbankingandfinance.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abhijith Ganapavaram"
+        ]
+      },
+      "link": "https://www.globalbankingandfinance.com/tatas-quiet-man-staying-amid-all-out-war-indian-conglomerate/",
+      "thumbnail": "https://www.globalbankingandfinance.com/i/cloud-c1a50ef3-804f-4e32-9fbd-83479baf1fa9/width=1200,quality=72,format=auto,fit=cover/",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhSRWM1Tld4ZmFIRkhTbFJXVFJERUF4aW5CU2dLTWdZcFpaRE5yUWM",
+      "date": "09/18/2026, 10:38 AM, +0000 UTC",
+      "iso_date": "2026-09-18T10:38:22Z"
+    },
+    {
+      "position": 3,
+      "title": "Tata dispute: Lawyers Singhvi, Salve now on opposing sides",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-dipute-singhvi-salve-now-on-opposing-sides/articleshow/134375598.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134375970,width-1280,height-720,imgsize-75670,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhWbGRqY0ZneE4wbEdaVm96VFJDZkF4ampCU2dLTWdtTmNZN1dKS2l4clFF",
+      "date": "09/20/2026, 10:06 PM, +0000 UTC",
+      "iso_date": "2026-09-20T22:06:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Tata Sons row: Can a board overrule a 66% shareholder? Legal experts explain what happens next",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanjali Ghose"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/tata-sons-row-can-a-board-overrule-a-66-shareholder-legal-experts-explain-what-happens-next-14033092.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/08/20240802125551_tata-sons.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNkMmhtY2swNE0yaFdaRlI0VFJDZkF4ampCU2dLTWdtUklwUXhtU2VxaUFJ",
+      "date": "09/18/2026, 12:10 PM, +0000 UTC",
+      "iso_date": "2026-09-18T12:10:53Z"
+    },
+    {
+      "position": 5,
+      "title": "What Fuelled the Rebellion Within the Tatas",
+      "source": {
+        "name": "TheWire.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://m.thewire.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dev Chatterjee"
+        ]
+      },
+      "link": "https://m.thewire.in/article/business/what-fuelled-the-rebellion-within-the-tatas/amp",
+      "thumbnail": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhZDEyZTJiMjAtOTg5Yy0xMWYxLWI2ZWYtOTUxNDBlNzJjM2VmLnBuZw==",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpaSE5aYTIxellXaHpNVVp1VFJDVEF4ajRCU2dLTWdhRllKaUVxQWc",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekaran-steps-down-how-power-struggle-at-tata-group-is-deepening-with-exit-of-ratan-tatas-key-allies/articleshow/133187749.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133187841,width-1280,height-720,imgsize-388875,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZa3BUY1hCU1VGVTBhMnd6VFJDZkF4ampCU2dLTWdhbFpJYXRMUVU",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Tata Sons board meeting ends amid focus on leadership and group performance concerns",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-meeting-ends-amid-focus-on-leadership-and-group-performance-concerns/articleshow/131330276.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131330282,width-1280,height-720,imgsize-722752,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXV3BQUmxCcmNFNW9lRnB4VFJDZkF4ampCU2dLTWdhcEk1TE5sUW8",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Trouble in Tata Group? Government asks leadership to restore stability, says report",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sonu Vivek"
+        ]
+      },
+      "link": "https://www.indiatoday.in/business/market/story/tata-trust-news-government-asks-restore-stability-amit-shah-meeting-noel-tata-report-2799554-2025-10-08",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202510/noel-tata-084132167-16x9_0.png?VersionId=3wbaYCU35LKYnJAHvB3y0jV58fi1VeMq&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBWbnB5WjFOcGRsWTFPVEEzVFJDZkF4ampCU2dLTWdhdFZaRE9KUWc",
+      "date": "10/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-08T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Governance Clash at Tata Trusts: Mehli Mistry Ousted after Trustees Split over Reappointment, Say Reports",
+      "source": {
+        "name": "Moneylife",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneylife.in/article/governance-clash-at-tata-trusts-mehli-mistry-ousted-after-trustees-split-over-reappointment-say-reports/78691.html",
+      "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/Governance28102025Mian.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhRbkZuYjBvMGF6ZHlaVXBMVFJDZUF4amxCU2dLTWdB",
+      "date": "10/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-28T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "India and Pakistan's drone battles mark new arms race in Asia",
+      "source": {
+        "name": "tbsnews.net",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tbsnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tbsnews.net/world/south-asia/india-and-pakistans-drone-battles-mark-new-arms-race-asia-1152581",
+      "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/05/27/pakistan_drones_exhibition.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRjRTF0TkRGalRrd3llWFJGVFJELUFSakVBeWdLTWdB",
+      "date": "05/27/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-27T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Tata Group stocks under pressure as Tata Trusts-Tata Sons rift deepens",
+      "source": {
+        "name": "India's News.Net",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiasnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiasnews.net/news/279321035/tata-group-stocks-under-pressure-as-tata-trusts-tata-sons-rift-deepens",
+      "thumbnail": "https://chitra-api.kreatio.com/api/v1/wps/2875af0/15100eec-40ce-4837-a183-4a1272599d64/0/ANI-20260921071558-1156x770.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXNMV2cxUkdkbmRqaHNZMVp1VFJDM0FSaVRBaWdCTWdB",
+      "date": "09/21/2026, 05:59 PM, +0000 UTC",
+      "iso_date": "2026-09-21T17:59:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Why Tata Sons and Tata Trusts Are Heading for a Legal Showdown",
+      "source": {
+        "name": "Dynamite News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dynamitenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dynamitenews.com/business/why-tata-sons-and-tata-trusts-are-heading-for-a-legal-showdown",
+      "thumbnail": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/09/Untitled-design-84.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlkRzlwVjFGbmVXdEVXVlpvVFJDZkF4ampCU2dLTWdZRk1JeWtIZ1k",
+      "date": "09/21/2026, 08:29 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:29:41Z"
+    },
+    {
+      "position": 13,
+      "title": "Tata Sons boardroom battle intensifies as top advocates Salve and Singhvi take opposing sides",
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://streamlinefeed.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://streamlinefeed.co.ke/news/tata-sons-boardroom-battle-intensifies-as-top-advocates-salve-and-singhvi-take-opposing-sides",
+      "thumbnail": "https://streamlinefeed.co.ke/news-fallbacks/business.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlVRWRRYmpJNVYyVjVOekpHVFJDZkF4amlCU2dLTWdZQlVJWURTd1U",
+      "date": "09/21/2026, 05:50 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:50:58Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

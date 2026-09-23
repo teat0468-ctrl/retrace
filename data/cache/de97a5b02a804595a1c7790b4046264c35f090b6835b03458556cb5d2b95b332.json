@@ -1,0 +1,320 @@
+{
+  "search_metadata": {
+    "id": "6ab36b2dfd81c8a32973723a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tC_YWJEbvDDoM2B1Z76_LWOWn_aTqzuGUkbuZKhH1Cc/6ab36b2dfd81c8a32973723a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tC_YWJEbvDDoM2B1Z76_LWOWn_aTqzuGUkbuZKhH1Cc/6ab36b2dfd81c8a32973723a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/tC_YWJEbvDDoM2B1Z76_LWOWn_aTqzuGUkbuZKhH1Cc/6ab36b2dfd81c8a32973723a.json_with_pixel_position",
+    "created_at": "2026-09-23 06:01:17 UTC",
+    "processed_at": "2026-09-23 06:01:17 UTC",
+    "google_url": "https://www.google.com/search?q=announced+replace+paper+currency+before%3A2026-01-01&oq=announced+replace+paper+currency+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/tC_YWJEbvDDoM2B1Z76_LWOWn_aTqzuGUkbuZKhH1Cc/6ab36b2dfd81c8a32973723a.html",
+    "total_time_taken": 2.62
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "announced replace paper currency before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "announced replace paper currency before:2026-01-01",
+    "total_results": 4770000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "2AtNK3iczVZbcuI4FF3ArGP4SYJfEB5Vri5JGDCPgHiEhh-XX8jGYBMLcMNfb2BWMaua1YxswDFpIN39MTUqClmydHSP7j0cvv-9dH3vnz_-cjabNa1yXBRFeRIEZGnnzWDF6XTvm9w8WNLQdL7sd7KUM6nM52xX7ojbg74befWXibje4P6uHCoFUMglW2TN0Km9YIjfFpTTOPbl_SnV2CBP87afH0hPg2ZUxm7Py4u8KOV7nL5iC8B_1zACCgAEquwZ3lzEVvwMGGQIDMjLTKmnnRnsKUAxnoqTEbqBTBK0GECF8QbWabOwAEH7jAWjm4Gg7HlsEB-loIRIwtT9GTYZDnFTUkx0d_U1PkcEdrxynulm3irgRkMfKmHM0MugqwLnNPEhY0qQHbXir9rx-DkoREphUL8bObudcQSLbfBpuutg4JMTKRVt2E7IWYRVLs8ZIesEzjUdM3kIaVzQaFThg-a00y4N92ZnNoK1pVAnzlL0fPFQL1DMmQZbtwx0y7Y0R-O_JGNBFIp8RSqVHxMlmTSVEs1KCbQbUoXX30piN9_JQ-GsI5TefJqy40NcC0i95JQMITqtuJZjAt_n32_eU7JZaJ-w2F2KKkjPT7bg52Pa06z2VQCJSrNnnLHifdd0dIokJUOOxR2HFaTRZZkRJqM0wCyr7lW9f5zDzTQCFf6wMBuTClXCaOMUPttQXOWqE78cs0vukJMCzUuMWAn4IlSSMEeNlJiSpahkj3EZUiKMxRDE1R-04hzDGBAdd5xlPwbH6QyZDLesHCmIQOu-3m819ZPfidPJZ8F8qP8L3YwOUntQ9gF2FPfgN6PhqEv0dV0NhtF1nQQr4xc8x_xfKensSO3k3W0lxXXzqZJY8at3HSl5PjlS66gkRG4qKbGkHxypd9WRLpWEwOBdSW1415F-XUnorpLIiekVJTFHuqYk75aSEke6VJJTxheOdKGkd0dKlfQ7joR-z5ESYdnH7tKetgty06bqBWNcHHjiqzsTp2-GXtnPNzv4OirtDuBTm5qvNtWVbi0fNdeqQrG12VuPGpsIqraVe5N13w-2vmlbD6G9Xuqm_bDW13b4YG7D0PbN_YNhz4PQrjJlPj_xAvvkVsswkHm9uNg1v3qVxXMf48Oy3pK8QFL65kqjrz59diK0kdyFQ-19yei3Kw1CapHygrsD1xtLb5E6KQ6tcv3bfNoz4KjV2Gre2hXcry8HCfemxV2nrwQG7HV2XRxKkxplfwiL1mE_J5N2YYVfbaD1S5OJ7VO6jq-n_ISTuKiMEBgrWJzNitPcKjRllqkCAS8YTAgrSTRlciZgrAesjwBuPAOswBw1dc2mO7kkWIJlGCWdL_KiVSnlVmSzX8sFIUf9UBb-BUyGQWM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2AtNK3iczVZbcuI4FF3ArGP4SYJfEB5Vri5JGDCPgHiEhh-XX8jGYBMLcMNfb2BWMaua1YxswDFpIN39MTUqClmydHSP7j0cvv-9dH3vnz_-cjabNa1yXBRFeRIEZGnnzWDF6XTvm9w8WNLQdL7sd7KUM6nM52xX7ojbg74befWXibje4P6uHCoFUMglW2TN0Km9YIjfFpTTOPbl_SnV2CBP87afH0hPg2ZUxm7Py4u8KOV7nL5iC8B_1zACCgAEquwZ3lzEVvwMGGQIDMjLTKmnnRnsKUAxnoqTEbqBTBK0GECF8QbWabOwAEH7jAWjm4Gg7HlsEB-loIRIwtT9GTYZDnFTUkx0d_U1PkcEdrxynulm3irgRkMfKmHM0MugqwLnNPEhY0qQHbXir9rx-DkoREphUL8bObudcQSLbfBpuutg4JMTKRVt2E7IWYRVLs8ZIesEzjUdM3kIaVzQaFThg-a00y4N92ZnNoK1pVAnzlL0fPFQL1DMmQZbtwx0y7Y0R-O_JGNBFIp8RSqVHxMlmTSVEs1KCbQbUoXX30piN9_JQ-GsI5TefJqy40NcC0i95JQMITqtuJZjAt_n32_eU7JZaJ-w2F2KKkjPT7bg52Pa06z2VQCJSrNnnLHifdd0dIokJUOOxR2HFaTRZZkRJqM0wCyr7lW9f5zDzTQCFf6wMBuTClXCaOMUPttQXOWqE78cs0vukJMCzUuMWAn4IlSSMEeNlJiSpahkj3EZUiKMxRDE1R-04hzDGBAdd5xlPwbH6QyZDLesHCmIQOu-3m819ZPfidPJZ8F8qP8L3YwOUntQ9gF2FPfgN6PhqEv0dV0NhtF1nQQr4xc8x_xfKensSO3k3W0lxXXzqZJY8at3HSl5PjlS66gkRG4qKbGkHxypd9WRLpWEwOBdSW1415F-XUnorpLIiekVJTFHuqYk75aSEke6VJJTxheOdKGkd0dKlfQ7joR-z5ESYdnH7tKetgty06bqBWNcHHjiqzsTp2-GXtnPNzv4OirtDuBTm5qvNtWVbi0fNdeqQrG12VuPGpsIqraVe5N13w-2vmlbD6G9Xuqm_bDW13b4YG7D0PbN_YNhz4PQrjJlPj_xAvvkVsswkHm9uNg1v3qVxXMf48Oy3pK8QFL65kqjrz59diK0kdyFQ-19yei3Kw1CapHygrsD1xtLb5E6KQ6tcv3bfNoz4KjV2Gre2hXcry8HCfemxV2nrwQG7HV2XRxKkxplfwiL1mE_J5N2YYVfbaD1S5OJ7VO6jq-n_ISTuKiMEBgrWJzNitPcKjRllqkCAS8YTAgrSTRlciZgrAesjwBuPAOswBw1dc2mO7kkWIJlGCWdL_KiVSnlVmSzX8sFIUf9UBb-BUyGQWM"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Currency Redesign | Engraving & Printing",
+      "link": "https://www.bep.gov/currency/currency-redesign/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVVpKnqtQh4D6fxddjeNmpi9x6lv3Xf5pyiU8dcvq91BpWz24eJ0NPH3R_2C1RzYAYgIfOT3ySsTetD8qjdTA5PQdlr2IhZbtIV5rzOBI1bAoWSdwA6xQ110a_NESvYJz13lQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.bep.gov › currency › currency-redesign",
+      "date": "Apr 23, 2022",
+      "snippet": "New features, closely aligned with and integrated into new design, are developed to address this threat. More than a decade of research and development, ...",
+      "about_this_result": {
+        "source": {
+          "description": "New features, closely aligned with and integrated into new design, are developed to address this threat. More than a decade of research and development, ...",
+          "source_info_link": "https://www.bep.gov/currency/currency-redesign/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWJAByzBiwCkkIEJACEIABulRX6XVvtJHKFRGsE3QPCPECHgIMK7yGGIoUCMwfkodmMeRDKNfpJXJoL1ixRfJjP-WR3VlsHI2AG5CEiLFwy88myygDIQZb_zSCngsovxXAtQYJDzXCJlRo5L_IYSjc51VbhiACSHEY1YE1JQZ_7_B69EYBpBbLAYZkKiPClTnpkozs4AoF3gGlpc6rUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlZwS25xdFFoNEQ2ZnhkZGplTm1waTl4Nmx2M1hmNXB5aVU4ZGN2cTkxQnBXejI0ZUowTlBIM1JfMkMxUnpZQVlnSWZPVDN5U3NUZXREOHFqZFRBNVBRZGxyMkloWmJ0SVY1cnpPQkkxYkFvV1Nkd0E2eFExMTBhX05FU3ZZSnoxM2xREgQaAggAGukFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAwwUIABAAGAAgACpTCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchUAAAAAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FVQlikAaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlZwS25xdFFoNEQ2ZnhkZGplTm1waTl4Nmx2M1hmNXB5aVU4ZGN2cTkxQnBXejI0ZUowTlBIM1JfMkMxUnpZQVlnSWZPVDN5U3NUZXREOHFqZFRBNVBRZGxyMkloWmJ0SVY1cnpPQkkxYkFvV1Nkd0E2eFExMTBhX05FU3ZZSnoxM2xROjM8Yj5DdXJyZW5jeTwvYj4gUmVkZXNpZ24gfCBFbmdyYXZpbmcgJmFtcDsgUHJpbnRpbmdCoQFOZXcgZmVhdHVyZXMsIGNsb3NlbHkgYWxpZ25lZCB3aXRoIGFuZCBpbnRlZ3JhdGVkIGludG8gbmV3IGRlc2lnbiwgYXJlIGRldmVsb3BlZCB0byBhZGRyZXNzIHRoaXMgdGhyZWF0LiBNb3JlIHRoYW4gYSBkZWNhZGUgb2YgcmVzZWFyY2ggYW5kIGRldmVsb3BtZW50LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlZwS25xdFFoNEQ2ZnhkZGplTm1waTl4Nmx2M1hmNXB5aVU4ZGN2cTkxQnBXejI0ZUowTlBIM1JfMkMxUnpZQVlnSWZPVDN5U3NUZXREOHFqZFRBNVBRZGxyMkloWmJ0SVY1cnpPQkkxYkFvV1Nkd0E2eFExMTBhX05FU3ZZSnoxM2xREgQaAggAGukFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAwwUIABAAGAAgACpTCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchUAAAAAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FVQlikAaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlZwS25xdFFoNEQ2ZnhkZGplTm1waTl4Nmx2M1hmNXB5aVU4ZGN2cTkxQnBXejI0ZUowTlBIM1JfMkMxUnpZQVlnSWZPVDN5U3NUZXREOHFqZFRBNVBRZGxyMkloWmJ0SVY1cnpPQkkxYkFvV1Nkd0E2eFExMTBhX05FU3ZZSnoxM2xROjM8Yj5DdXJyZW5jeTwvYj4gUmVkZXNpZ24gfCBFbmdyYXZpbmcgJmFtcDsgUHJpbnRpbmdCoQFOZXcgZmVhdHVyZXMsIGNsb3NlbHkgYWxpZ25lZCB3aXRoIGFuZCBpbnRlZ3JhdGVkIGludG8gbmV3IGRlc2lnbiwgYXJlIGRldmVsb3BlZCB0byBhZGRyZXNzIHRoaXMgdGhyZWF0LiBNb3JlIHRoYW4gYSBkZWNhZGUgb2YgcmVzZWFyY2ggYW5kIGRldmVsb3BtZW50LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Bureau of Engraving and Printing (.gov)",
+      "read_more_link": "https://www.bep.gov/currency/currency-redesign/#:~:text=New%20features%2C%20closely%20aligned%20with,decade%20of%20research%20and%20development%2C"
+    },
+    {
+      "position": 2,
+      "title": "Treasury Announces Release Date for New $10 and $5 ...",
+      "link": "https://home.treasury.gov/news/press-releases/ls581",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVpyvIsvuC_GBq7W3o1VHSDADZV8MAlC6P7u06K4tbEa1015mai98yP333ZVOa4GmvNjuQZ5LsPSSmN7LC8RgE4pLdz3AxxkVppjwytSHKFL8Q8l-a84QCS07aQtiVVxOsTi0cyeLV&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://home.treasury.gov › news › press-releases",
+      "date": "Jan 31, 2001",
+      "snippet": "Summers announced on Wednesday that the redesigned $10 and $5 notes will be issued beginning May 24. The bills, similar to the $20 note issued in September 1998 ...",
+      "snippet_highlighted_words": [
+        "announced"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Summers announced on Wednesday that the redesigned $10 and $5 notes will be issued beginning May 24. The bills, similar to the $20 note issued in September 1998 ...",
+          "source_info_link": "https://home.treasury.gov/news/press-releases/ls581",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWJAByzBiwCkkIEJACEIABulRX6XVvtJHKFRGsE3QPCPECHgIMK7yGGIoUCMwfkodmMeRDKNfpJXJoL1ixRfJjP-WR3VlsHI2AG5CEiLFwy88myygDIQZb_zSCngsovxXAtQYJDzXCJlRo5L_IYSjc51VbhiACSHEY1YE1JQZ_7_B69EYBpBbLAYZkKiPClTnpkozs4AoF3gGlpc6rUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnB5dklzdnVDX0dCcTdXM28xVkhTREFEWlY4TUFsQzZQN3UwNks0dGJFYTEwMTVtYWk5OHlQMzMzWlZPYTRHbXZOanVRWjVMc1BTU21ON0xDOFJnRTRwTGR6M0F4eGtWcHBqd3l0U0hLRkw4UThsLWE4NFFDUzA3YVF0aVZWeE9zVGkwY3llTFYSBBoCCAAahwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4wUIABAAGAAgACpTCglhbm5vdW5jZWQVBcDDPRoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchX003Y9GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FfkQCT8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5Mp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnB5dklzdnVDX0dCcTdXM28xVkhTREFEWlY4TUFsQzZQN3UwNks0dGJFYTEwMTVtYWk5OHlQMzMzWlZPYTRHbXZOanVRWjVMc1BTU21ON0xDOFJnRTRwTGR6M0F4eGtWcHBqd3l0U0hLRkw4UThsLWE4NFFDUzA3YVF0aVZWeE9zVGkwY3llTFY6P1RyZWFzdXJ5IDxiPkFubm91bmNlczwvYj4gUmVsZWFzZSBEYXRlIGZvciBOZXcgJDEwIGFuZCAkNSBOb3Rlc0KwAVN1bW1lcnMgPGI-YW5ub3VuY2VkPC9iPiBvbiBXZWRuZXNkYXkgdGhhdCB0aGUgcmVkZXNpZ25lZCAkMTAgYW5kICQ1IG5vdGVzIHdpbGwgYmUgaXNzdWVkIGJlZ2lubmluZyBNYXkgMjQuIFRoZSBiaWxscywgc2ltaWxhciB0byB0aGUgJDIwIG5vdGUgaXNzdWVkIGluIFNlcHRlbWJlciAxOTk4Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnB5dklzdnVDX0dCcTdXM28xVkhTREFEWlY4TUFsQzZQN3UwNks0dGJFYTEwMTVtYWk5OHlQMzMzWlZPYTRHbXZOanVRWjVMc1BTU21ON0xDOFJnRTRwTGR6M0F4eGtWcHBqd3l0U0hLRkw4UThsLWE4NFFDUzA3YVF0aVZWeE9zVGkwY3llTFYSBBoCCAAahwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4wUIABAAGAAgACpTCglhbm5vdW5jZWQVBcDDPRoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchX003Y9GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FfkQCT8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5Mp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnB5dklzdnVDX0dCcTdXM28xVkhTREFEWlY4TUFsQzZQN3UwNks0dGJFYTEwMTVtYWk5OHlQMzMzWlZPYTRHbXZOanVRWjVMc1BTU21ON0xDOFJnRTRwTGR6M0F4eGtWcHBqd3l0U0hLRkw4UThsLWE4NFFDUzA3YVF0aVZWeE9zVGkwY3llTFY6P1RyZWFzdXJ5IDxiPkFubm91bmNlczwvYj4gUmVsZWFzZSBEYXRlIGZvciBOZXcgJDEwIGFuZCAkNSBOb3Rlc0KwAVN1bW1lcnMgPGI-YW5ub3VuY2VkPC9iPiBvbiBXZWRuZXNkYXkgdGhhdCB0aGUgcmVkZXNpZ25lZCAkMTAgYW5kICQ1IG5vdGVzIHdpbGwgYmUgaXNzdWVkIGJlZ2lubmluZyBNYXkgMjQuIFRoZSBiaWxscywgc2ltaWxhciB0byB0aGUgJDIwIG5vdGUgaXNzdWVkIGluIFNlcHRlbWJlciAxOTk4Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "read_more_link": "https://home.treasury.gov/news/press-releases/ls581#:~:text=Summers%20announced%20on%20Wednesday%20that,deter%20counterfeiting%20of%20U.S.%20currency."
+    },
+    {
+      "position": 3,
+      "title": "History of U.S. Currency",
+      "link": "https://www.uscurrency.gov/history",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVF1XbCZI-ZbYcUwCedlWK7Vj4ZWf9i3fRRtT1OcD3eWD6keBpWvrCMF4nTNN1iqqA_KC62oi32xfPsDcOdcT6_k1cUWSpVHDNiAm3ddHPNWBr4BhdtQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.uscurrency.gov › history",
+      "date": "Oct 29, 2015",
+      "snippet": "After the Treasury issued Demand Notes, Congress authorizes a new class of currency known as “United States notes” or “Legal Tender notes.” These notes replace ...",
+      "snippet_highlighted_words": [
+        "currency",
+        "replace"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "After the Treasury issued Demand Notes, Congress authorizes a new class of currency known as “United States notes” or “Legal Tender notes.” These notes replace ...",
+          "source_info_link": "https://www.uscurrency.gov/history",
+          "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAABQBwCdASocABwAPtEutFooIagoGAEAGgloAMzpoDbADAQf7f07syht2h3jT3_prEVbR_t-c7dWK_5Je9ak0JE264UAAP72ERe1QeIwv7hl6moD3Aqkgku5h5_nqljwvRVgjiJ-HKoDZ_izQqnEre6x038WZBm6qmN1NiA19JCKR2D43wLGHa-5vyqDHsgeN1K6sMqFipfPy5wUGDHFVMFo3L1iba4yp0vhLxWQVSIg1zrUaU9VrRLu8iRS5FUPnmH2TxjSp0Tg0iPlMxDmzZ4_Xt-YL-p0tAxz_cEdJpmzfqaxv6-zQD2b9eoo_Nsvj9MdLRdO13i_HIsrFew1LVho3tEGg74bgXT-buu366voA3DwDC4KxsvjbSRR0pDF83lT8MnT-C-LDx5qQvsCOxxcb8ftQ2k_XtN-XVYiC8mA_BfdpsImHV5KbaIHnLF_Bm71TZRXXB-TxmEbE6DuAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVkYxWGJDWkktWmJZY1V3Q2VkbFdLN1ZqNFpXZjlpM2ZSUnRUMU9jRDNlV0Q2a2VCcFd2ckNNRjRuVE5OMWlxcUFfS0M2Mm9pMzJ4ZlBzRGNPZGNUNl9rMWNVV1NwVkhETmlBbTNkZEhQTldCcjRCaGR0URIEGgIIABrhBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLsFCAAQABgAIAAqUwoJYW5ub3VuY2VkFQC4tzwaCGFubm91bmNlGgxhbm5vdW5jZW1lbnQaCWFubm91bmNlcxoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkKmkKB3JlcGxhY2UVIzvXPBoGY2hhbmdlGghjaGFuZ2luZxoGcmVtb3ZlGghyZXBsYWNlZBoLcmVwbGFjZW1lbnQaCXJlcGxhY2luZxoKc3Vic3RpdHV0ZRoHdXBncmFkZRoIZXhjaGFuZ2UqPAoFcGFwZXIVqvqWPxoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoNcGFwZXJjdXJyZW5jeSpGCghjdXJyZW5jeRWyLptAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeTKIAS9nb3RvP3VybD1DQUVTV2dIck96QVZGMVhiQ1pJLVpiWWNVd0NlZGxXSzdWajRaV2Y5aTNmUlJ0VDFPY0QzZVdENmtlQnBXdnJDTUY0blROTjFpcXFBX0tDNjJvaTMyeGZQc0RjT2RjVDZfazFjVVdTcFZIRE5pQW0zZGRIUE5XQnI0QmhkdFE6H0hpc3Rvcnkgb2YgVS5TLiA8Yj5DdXJyZW5jeTwvYj5CvgFBZnRlciB0aGUgVHJlYXN1cnkgaXNzdWVkIERlbWFuZCBOb3RlcywgQ29uZ3Jlc3MgYXV0aG9yaXplcyBhIG5ldyBjbGFzcyBvZiA8Yj5jdXJyZW5jeTwvYj4ga25vd24gYXMg4oCcVW5pdGVkIFN0YXRlcyBub3Rlc-KAnSBvciDigJxMZWdhbCBUZW5kZXIgbm90ZXMu4oCdIFRoZXNlIG5vdGVzIDxiPnJlcGxhY2U8L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVkYxWGJDWkktWmJZY1V3Q2VkbFdLN1ZqNFpXZjlpM2ZSUnRUMU9jRDNlV0Q2a2VCcFd2ckNNRjRuVE5OMWlxcUFfS0M2Mm9pMzJ4ZlBzRGNPZGNUNl9rMWNVV1NwVkhETmlBbTNkZEhQTldCcjRCaGR0URIEGgIIABrhBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLsFCAAQABgAIAAqUwoJYW5ub3VuY2VkFQC4tzwaCGFubm91bmNlGgxhbm5vdW5jZW1lbnQaCWFubm91bmNlcxoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkKmkKB3JlcGxhY2UVIzvXPBoGY2hhbmdlGghjaGFuZ2luZxoGcmVtb3ZlGghyZXBsYWNlZBoLcmVwbGFjZW1lbnQaCXJlcGxhY2luZxoKc3Vic3RpdHV0ZRoHdXBncmFkZRoIZXhjaGFuZ2UqPAoFcGFwZXIVqvqWPxoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoNcGFwZXJjdXJyZW5jeSpGCghjdXJyZW5jeRWyLptAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeTKIAS9nb3RvP3VybD1DQUVTV2dIck96QVZGMVhiQ1pJLVpiWWNVd0NlZGxXSzdWajRaV2Y5aTNmUlJ0VDFPY0QzZVdENmtlQnBXdnJDTUY0blROTjFpcXFBX0tDNjJvaTMyeGZQc0RjT2RjVDZfazFjVVdTcFZIRE5pQW0zZGRIUE5XQnI0QmhkdFE6H0hpc3Rvcnkgb2YgVS5TLiA8Yj5DdXJyZW5jeTwvYj5CvgFBZnRlciB0aGUgVHJlYXN1cnkgaXNzdWVkIERlbWFuZCBOb3RlcywgQ29uZ3Jlc3MgYXV0aG9yaXplcyBhIG5ldyBjbGFzcyBvZiA8Yj5jdXJyZW5jeTwvYj4ga25vd24gYXMg4oCcVW5pdGVkIFN0YXRlcyBub3Rlc-KAnSBvciDigJxMZWdhbCBUZW5kZXIgbm90ZXMu4oCdIFRoZXNlIG5vdGVzIDxiPnJlcGxhY2U8L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "The U.S. Currency Education Program (.gov)",
+      "read_more_link": "https://www.uscurrency.gov/history#:~:text=Show%20More"
+    },
+    {
+      "position": 4,
+      "title": "The new US dollar bill is a future-proofing opportunity",
+      "link": "https://www.gi-de.com/en/spotlight/security-stories/the-new-us-dollar-bill-is-a-future-proofing-opportunity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFWnSZkbtxjRLtDCHYo3KQTOGdKkP8sQcmvK2AIqwObuIDIJ3AMAxoIVTFzXwkq2_FcBYiKCUs4N41BqQ_bs1RD574dzvTz3KgAiRsUMfYKRdIm3Jo6PI5bSb5g06YYsbDIrtnOHaz0bJXeAOJJN6td_87cxMzR989NDc798VoBYtMJuEYAHB2jeaK4r2xUiKaGxLceW0ynmSi1WtQlVr&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.gi-de.com › Home › Security Stories",
+      "date": "Oct 30, 2025",
+      "snippet": "A new banknote like the redesigned US $10 bill in 2026 isn't just a challenge to your existing infrastructure: it's an opportunity for a strategic reset.",
+      "snippet_highlighted_words": [
+        "redesigned US $10 bill in 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A new banknote like the redesigned US $10 bill in 2026 isn't just a challenge to your existing infrastructure: it's an opportunity for a strategic reset.",
+          "source_info_link": "https://www.gi-de.com/en/spotlight/security-stories/the-new-us-dollar-bill-is-a-future-proofing-opportunity",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEwEAGYEAGYEAGYEAGYEAGYEAGYDAGYDAGYEAGYEAGYAAGIAAFlBQH9NTIagn7v____Oztze3ujBwNI1NHhjYpMlJHP4-PyKiquOg97NAAAAC3RSTlMAMoXE6_1h_xbfPiKmQ6gAAADVSURBVHgBfZOBDkQwDEBhU7QoA___pdemuQnn-pIMe8nadlVkyqoOMYa6KosnTYBMaG6q7eBG116uhx96x2Xbwit2cvcuO3WNvSOiLIbtaM4BBKJhHCPKokRSH6R2dTSxMNLMxjKqLYtK3cKcUlopcVLkcxNbFTUATjyTgCJ3UjZmkbWGJD4IgQSTqGFOlKARcOdEQIfArMuJuOpW9KUee_w59psQqnsmlEuZk3Do4yolN-HGMlgTrH1I63AB1r5b442r8d6VuZftjYk_YP5o-kPt_g4fkuYZoL2eS2EAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZXblNaa2J0eGpSTHREQ0hZbzNLUVRPR2RLa1A4c1FjbXZLMkFJcXdPYnVJRElKM0FNQXhvSVZURnpYd2txMl9GY0JZaUtDVXM0TjQxQnFRX2JzMVJENTc0ZHp2VHozS2dBaVJzVU1mWUtSZEltM0pvNlBJNWJTYjVnMDZZWXNiRElydG5PSGF6MGJKWGVBT0pKTjZ0ZF84N2N4TXpSOTg5TkRjNzk4Vm9CWXRNSnVFWUFIQjJqZWFLNHIyeFVpS2FHeExjZVcweW5tU2kxV3RRbFZyEgQaAggAGsUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnwYIABAAGAAgACpTCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchUAAAAAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FW6bgT8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZXblNaa2J0eGpSTHREQ0hZbzNLUVRPR2RLa1A4c1FjbXZLMkFJcXdPYnVJRElKM0FNQXhvSVZURnpYd2txMl9GY0JZaUtDVXM0TjQxQnFRX2JzMVJENTc0ZHp2VHozS2dBaVJzVU1mWUtSZEltM0pvNlBJNWJTYjVnMDZZWXNiRElydG5PSGF6MGJKWGVBT0pKTjZ0ZF84N2N4TXpSOTg5TkRjNzk4Vm9CWXRNSnVFWUFIQjJqZWFLNHIyeFVpS2FHeExjZVcweW5tU2kxV3RRbFZyOjdUaGUgbmV3IFVTIGRvbGxhciBiaWxsIGlzIGEgZnV0dXJlLXByb29maW5nIG9wcG9ydHVuaXR5QqgBQSBuZXcgYmFua25vdGUgbGlrZSB0aGUgPGI-cmVkZXNpZ25lZCBVUyAkMTAgYmlsbCBpbiAyMDI2PC9iPiBpc24mIzM5O3QganVzdCBhIGNoYWxsZW5nZSB0byB5b3VyIGV4aXN0aW5nIGluZnJhc3RydWN0dXJlOiBpdCYjMzk7cyBhbiBvcHBvcnR1bml0eSBmb3IgYSBzdHJhdGVnaWMgcmVzZXQuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZXblNaa2J0eGpSTHREQ0hZbzNLUVRPR2RLa1A4c1FjbXZLMkFJcXdPYnVJRElKM0FNQXhvSVZURnpYd2txMl9GY0JZaUtDVXM0TjQxQnFRX2JzMVJENTc0ZHp2VHozS2dBaVJzVU1mWUtSZEltM0pvNlBJNWJTYjVnMDZZWXNiRElydG5PSGF6MGJKWGVBT0pKTjZ0ZF84N2N4TXpSOTg5TkRjNzk4Vm9CWXRNSnVFWUFIQjJqZWFLNHIyeFVpS2FHeExjZVcweW5tU2kxV3RRbFZyEgQaAggAGsUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnwYIABAAGAAgACpTCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchUAAAAAGgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FW6bgT8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZXblNaa2J0eGpSTHREQ0hZbzNLUVRPR2RLa1A4c1FjbXZLMkFJcXdPYnVJRElKM0FNQXhvSVZURnpYd2txMl9GY0JZaUtDVXM0TjQxQnFRX2JzMVJENTc0ZHp2VHozS2dBaVJzVU1mWUtSZEltM0pvNlBJNWJTYjVnMDZZWXNiRElydG5PSGF6MGJKWGVBT0pKTjZ0ZF84N2N4TXpSOTg5TkRjNzk4Vm9CWXRNSnVFWUFIQjJqZWFLNHIyeFVpS2FHeExjZVcweW5tU2kxV3RRbFZyOjdUaGUgbmV3IFVTIGRvbGxhciBiaWxsIGlzIGEgZnV0dXJlLXByb29maW5nIG9wcG9ydHVuaXR5QqgBQSBuZXcgYmFua25vdGUgbGlrZSB0aGUgPGI-cmVkZXNpZ25lZCBVUyAkMTAgYmlsbCBpbiAyMDI2PC9iPiBpc24mIzM5O3QganVzdCBhIGNoYWxsZW5nZSB0byB5b3VyIGV4aXN0aW5nIGluZnJhc3RydWN0dXJlOiBpdCYjMzk7cyBhbiBvcHBvcnR1bml0eSBmb3IgYSBzdHJhdGVnaWMgcmVzZXQuIgIQAUgAWABoAA",
+      "source": "Giesecke+Devrient"
+    },
+    {
+      "position": 5,
+      "title": "Why are new banknotes made of polymer?",
+      "link": "https://www.bankofengland.co.uk/explainers/why-are-new-banknotes-made-of-polymer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFVJ7YJ14xtZfLBYWniUR7X9IrPCriyPoBiVGPbMvYavlrmA3oGSihRtZ3GskAB52pkoqAOP2rA6n8d2yNjEIcanE_XNTyAfwBrq84D7M-ORUh9t7TOSkUIQoOFA7X9fhjMxYcTyl1mty53QxTP6gvf9KCzMFm45lc8TYQTaXvfnVmbRC&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://www.bankofengland.co.uk › explainers › why-a...",
+      "date": "Jan 23, 2020",
+      "snippet": "The new polymer £20 note will enter circulation in 2020. In October 2018 we announced that a polymer £50 note will be issued after the polymer £20 note.",
+      "snippet_highlighted_words": [
+        "announced"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The new polymer £20 note will enter circulation in 2020. In October 2018 we announced that a polymer £50 note will be issued after the polymer £20 note.",
+          "source_info_link": "https://www.bankofengland.co.uk/explainers/why-are-new-banknotes-made-of-polymer",
+          "icon": "https://serpapi.com/images/i/UklGRsoBAABXRUJQVlA4IL4BAACQCQCdASocABwAPtE-tFooIigoFAEAGglAFYZbXwh9_00FpN_2_piZp_mb2BP1K_4Hqq-wf9IPZP_XIOKMfSKzMstaESiAJS3AKWwHl4PX0jd3TuYAAP72ELmy2c45IpsODASbYdOuVqEryKrXpzxfn5zzS48KN0AChYtW1v-WR1ZMsk47p9rEmDBZ-VosebhRzkv3rCmjjQLxncxbcVEjuaRjK3YvOmtq3ZbT1WBCBEuPwa3KW7QJg1mNMzxd34UYCb5D6KzNSyYLNAVKRD4PWvXteW2MBEkA1raZWZV0LGcxa8-sC4vOlXsRp6HmkE1QL7ncqLvTnFac81cfe_tBqs7bJm7draGAjyKs1R8XMbiO0r22yD7NWIoqmk0vvttXjZM1sKGHbegO2d2N5hrIyWr0DPnWQSweWzL7g08Af_0j1PkXO4La-qDXk10ZxQrTTcD-mx9a6IXcynh4w2RIgyit9SXLQunWG1-XwTa8gA4SshzifN7F3Vn5_Y41kC116PPgtG22L6-y6wBgpzoshS6FxoyIP-MOyIV3fPqGXTWOyuD9AD1v_Jh6Rg1NIViwrXFtxMFRRChNAkcgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWSjdZSjE0eHRaZkxCWVduaVVSN1g5SXJQQ3JpeVBvQmlWR1BiTXZZYXZscm1BM29HU2loUnRaM0dza0FCNTJwa29xQU9QMnJBNm44ZDJ5TmpFSWNhbkVfWE5UeUFmd0JycTg0RDdNLU9SVWg5dDdUT1NrVUlRb09GQTdYOWZoak14WWNUeWwxbXR5NTNReFRQNmd2ZjlLQ3pNRm00NWxjOFRZUVRhWHZmblZtYlJDEgQaAggAGqMGEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA_QUIABAAGAAgACpTCglhbm5vdW5jZWQV-je1PRoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchVt2jA_GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5Fd4yvDwaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWSjdZSjE0eHRaZkxCWVduaVVSN1g5SXJQQ3JpeVBvQmlWR1BiTXZZYXZscm1BM29HU2loUnRaM0dza0FCNTJwa29xQU9QMnJBNm44ZDJ5TmpFSWNhbkVfWE5UeUFmd0JycTg0RDdNLU9SVWg5dDdUT1NrVUlRb09GQTdYOWZoak14WWNUeWwxbXR5NTNReFRQNmd2ZjlLQ3pNRm00NWxjOFRZUVRhWHZmblZtYlJDOj9XaHkgYXJlIG5ldyA8Yj5iYW5rbm90ZXM8L2I-IG1hZGUgb2YgcG9seW1lcj8gLSBCYW5rIG9mIEVuZ2xhbmRCogFUaGUgbmV3IHBvbHltZXIgwqMyMCBub3RlIHdpbGwgZW50ZXIgY2lyY3VsYXRpb24gaW4gMjAyMC4gSW4gT2N0b2JlciAyMDE4IHdlIDxiPmFubm91bmNlZDwvYj4gdGhhdCBhIHBvbHltZXIgwqM1MCBub3RlIHdpbGwgYmUgaXNzdWVkIGFmdGVyIHRoZSBwb2x5bWVyIMKjMjAgbm90ZS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWSjdZSjE0eHRaZkxCWVduaVVSN1g5SXJQQ3JpeVBvQmlWR1BiTXZZYXZscm1BM29HU2loUnRaM0dza0FCNTJwa29xQU9QMnJBNm44ZDJ5TmpFSWNhbkVfWE5UeUFmd0JycTg0RDdNLU9SVWg5dDdUT1NrVUlRb09GQTdYOWZoak14WWNUeWwxbXR5NTNReFRQNmd2ZjlLQ3pNRm00NWxjOFRZUVRhWHZmblZtYlJDEgQaAggAGqMGEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA_QUIABAAGAAgACpTCglhbm5vdW5jZWQV-je1PRoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRUAAAAAGgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchVt2jA_GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5Fd4yvDwaCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWSjdZSjE0eHRaZkxCWVduaVVSN1g5SXJQQ3JpeVBvQmlWR1BiTXZZYXZscm1BM29HU2loUnRaM0dza0FCNTJwa29xQU9QMnJBNm44ZDJ5TmpFSWNhbkVfWE5UeUFmd0JycTg0RDdNLU9SVWg5dDdUT1NrVUlRb09GQTdYOWZoak14WWNUeWwxbXR5NTNReFRQNmd2ZjlLQ3pNRm00NWxjOFRZUVRhWHZmblZtYlJDOj9XaHkgYXJlIG5ldyA8Yj5iYW5rbm90ZXM8L2I-IG1hZGUgb2YgcG9seW1lcj8gLSBCYW5rIG9mIEVuZ2xhbmRCogFUaGUgbmV3IHBvbHltZXIgwqMyMCBub3RlIHdpbGwgZW50ZXIgY2lyY3VsYXRpb24gaW4gMjAyMC4gSW4gT2N0b2JlciAyMDE4IHdlIDxiPmFubm91bmNlZDwvYj4gdGhhdCBhIHBvbHltZXIgwqM1MCBub3RlIHdpbGwgYmUgaXNzdWVkIGFmdGVyIHRoZSBwb2x5bWVyIMKjMjAgbm90ZS4iAhABSABYAGgA",
+      "source": "Bank of England",
+      "read_more_link": "https://www.bankofengland.co.uk/explainers/why-are-new-banknotes-made-of-polymer#:~:text=The%20new%20polymer%20%C2%A320%20note,after%20the%20polymer%20%C2%A320%20note."
+    },
+    {
+      "position": 6,
+      "title": "U.S. Dollars Designed to Outsmart Counterfeiters",
+      "link": "https://geneva.usmission.gov/2013/04/11/u-s-dollars-designed-to-outsmart-counterfeiters/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFXx-zXpCdZkDspZK3fehzp_VVNWeMnmi6JYcm4gGCd90GVa1gYe_RHlU9A1UKZbjMMaxP4vjzxcwcIxSLZrlyMR4el7WilLUHOEcQ3tMWYFURzpsmj9HSZxMCIKQb5xu5DzarPZX-hMhhgf4lzn5VyE-h27P0STSvT75L0Gaa45BXCfPKZAardIvt_g&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://geneva.usmission.gov › 2013/04/11 › u-s-dollar...",
+      "date": "Apr 11, 2013",
+      "snippet": "Since 1971, the U.S. government has tried to encourage the use of more durable $1 coins as a replacement for paper bills. Metal coins are able to stay in ...",
+      "snippet_highlighted_words": [
+        "more durable $1 coins"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Since 1971, the U.S. government has tried to encourage the use of more durable $1 coins as a replacement for paper bills. Metal coins are able to stay in ...",
+          "source_info_link": "https://geneva.usmission.gov/2013/04/11/u-s-dollars-designed-to-outsmart-counterfeiters/",
+          "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAAAwBwCdASocABwAPrUurVanIacnG_DgFoloALUXSWzVPAGUDDXsyEancNNEP_ZZk7onsmyf-VE2eiyimuOHQUkBnAAA_vizGqS83pYV0QYOv6hMLLPi8Vf_gL0xK4cPOu_YXuxl5_7AUG70KDVa2cNXNhY6YPDXyKTGBsJYPscLKnfauQoQmOTbF2oPDbjzXJPVJzdELI2NbCZTWKsdYe6DFH0KupXXrgB0_zUiVuH0l2VdjtcSySarsMMd12cRkr_YnGjJH_-NBBeggOlxPTVMpnZWya6N12s4yE-W4VO5hKAXO6pdfZSwpnQJ0I79MNBbu9esPO9ygX1qvvubS86e6vha6StvnTI2_-xKcmRvDZqs_y7_ueUO5U7bpaCPzrZinPUyn1l3LlQvdppakY_lfPNaPwIqXNsRBvWvx3nVSzzVzFPADWntT0gKZbxKEWAsDV_LDspajekp7N0V47PflC1IwwcAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZYeC16WHBDZFprRHNwWkszZmVoenBfVlZOV2VNbm1pNkpZY200Z0dDZDkwR1ZhMWdZZV9SSGxVOUExVUtaYmpNTWF4UDR2anp4Y3djSXhTTFpybHlNUjRlbDdXaWxMVUhPRWNRM3RNV1lGVVJ6cHNtajlIU1p4TUNJS1FiNXh1NUR6YXJQWlgtaE1oaGdmNGx6bjVWeUUtaDI3UDBTVFN2VDc1TDBHYWE0NUJYQ2ZQS1pBYXJkSXZ0X2cSBBoCCAAapgYSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCABggAEAAYACAAKlMKCWFubm91bmNlZBUhegk9Gghhbm5vdW5jZRoMYW5ub3VuY2VtZW50Gglhbm5vdW5jZXMaCmFubm91bmNpbmcaCGRlY2xhcmVkGghyZWxlYXNlZCppCgdyZXBsYWNlFVWghz4aBmNoYW5nZRoIY2hhbmdpbmcaBnJlbW92ZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50GglyZXBsYWNpbmcaCnN1YnN0aXR1dGUaB3VwZ3JhZGUaCGV4Y2hhbmdlKjwKBXBhcGVyFXDXjT8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaDXBhcGVyY3VycmVuY3kqRgoIY3VycmVuY3kVqFNgPxoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoFbW9uZXkaDXBhcGVyY3VycmVuY3ky0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3Rlh4LXpYcENkWmtEc3BaSzNmZWh6cF9WVk5XZU1ubWk2SlljbTRnR0NkOTBHVmExZ1llX1JIbFU5QTFVS1piak1NYXhQNHZqenhjd2NJeFNMWnJseU1SNGVsN1dpbExVSE9FY1EzdE1XWUZVUnpwc21qOUhTWnhNQ0lLUWI1eHU1RHphclBaWC1oTWhoZ2Y0bHpuNVZ5RS1oMjdQMFNUU3ZUNzVMMEdhYTQ1QlhDZlBLWkFhcmRJdnRfZzowVS5TLiBEb2xsYXJzIERlc2lnbmVkIHRvIE91dHNtYXJ0IENvdW50ZXJmZWl0ZXJzQqkBU2luY2UgMTk3MSwgdGhlIFUuUy4gZ292ZXJubWVudCBoYXMgdHJpZWQgdG8gZW5jb3VyYWdlIHRoZSB1c2Ugb2YgPGI-bW9yZSBkdXJhYmxlICQxIGNvaW5zPC9iPiBhcyBhIHJlcGxhY2VtZW50IGZvciBwYXBlciBiaWxscy4gTWV0YWwgY29pbnMgYXJlIGFibGUgdG8gc3RheSBpbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZYeC16WHBDZFprRHNwWkszZmVoenBfVlZOV2VNbm1pNkpZY200Z0dDZDkwR1ZhMWdZZV9SSGxVOUExVUtaYmpNTWF4UDR2anp4Y3djSXhTTFpybHlNUjRlbDdXaWxMVUhPRWNRM3RNV1lGVVJ6cHNtajlIU1p4TUNJS1FiNXh1NUR6YXJQWlgtaE1oaGdmNGx6bjVWeUUtaDI3UDBTVFN2VDc1TDBHYWE0NUJYQ2ZQS1pBYXJkSXZ0X2cSBBoCCAAapgYSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCABggAEAAYACAAKlMKCWFubm91bmNlZBUhegk9Gghhbm5vdW5jZRoMYW5ub3VuY2VtZW50Gglhbm5vdW5jZXMaCmFubm91bmNpbmcaCGRlY2xhcmVkGghyZWxlYXNlZCppCgdyZXBsYWNlFVWghz4aBmNoYW5nZRoIY2hhbmdpbmcaBnJlbW92ZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50GglyZXBsYWNpbmcaCnN1YnN0aXR1dGUaB3VwZ3JhZGUaCGV4Y2hhbmdlKjwKBXBhcGVyFXDXjT8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaDXBhcGVyY3VycmVuY3kqRgoIY3VycmVuY3kVqFNgPxoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoFbW9uZXkaDXBhcGVyY3VycmVuY3ky0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3Rlh4LXpYcENkWmtEc3BaSzNmZWh6cF9WVk5XZU1ubWk2SlljbTRnR0NkOTBHVmExZ1llX1JIbFU5QTFVS1piak1NYXhQNHZqenhjd2NJeFNMWnJseU1SNGVsN1dpbExVSE9FY1EzdE1XWUZVUnpwc21qOUhTWnhNQ0lLUWI1eHU1RHphclBaWC1oTWhoZ2Y0bHpuNVZ5RS1oMjdQMFNUU3ZUNzVMMEdhYTQ1QlhDZlBLWkFhcmRJdnRfZzowVS5TLiBEb2xsYXJzIERlc2lnbmVkIHRvIE91dHNtYXJ0IENvdW50ZXJmZWl0ZXJzQqkBU2luY2UgMTk3MSwgdGhlIFUuUy4gZ292ZXJubWVudCBoYXMgdHJpZWQgdG8gZW5jb3VyYWdlIHRoZSB1c2Ugb2YgPGI-bW9yZSBkdXJhYmxlICQxIGNvaW5zPC9iPiBhcyBhIHJlcGxhY2VtZW50IGZvciBwYXBlciBiaWxscy4gTWV0YWwgY29pbnMgYXJlIGFibGUgdG8gc3RheSBpbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "U.S. Mission to International Organizations in Geneva (.gov)",
+      "read_more_link": "https://geneva.usmission.gov/2013/04/11/u-s-dollars-designed-to-outsmart-counterfeiters/#:~:text=Since%201971%2C%20the%20U.S.%20government,an%20average%20of%2025%20years."
+    },
+    {
+      "position": 7,
+      "title": "US Treasury Dept to announce Alexander Hamilton will ...",
+      "link": "https://www.facebook.com/NEWS7/posts/breaking-us-treasury-dept-to-announce-alexander-hamilton-will-stay-on-10-bill-ha/10153580046599856/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFSfNf4P68fRbire4EY9v3rFAJr26u7DZ9242pChwS3pYJSTlo324pwdzbvfILjslZuQBqTWYhj1HIHGaqst42rgdJblFUYMIY7gXMxYh1EHXj2EDezalnCjWWqsj2b-xxdYXARR4NdAu3nt3YeDxaoe4NIt4kTMh0jNQmd7IkAy5p7e5pzT4ZZaDK6So1Hm-lWuwKlzHvh3FUswf8CdG0XWTq9NM9IUYPWC0DEvyB_UqXPLGkOAOz-iUhCoN&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECB4QAQ&uoh=1",
+      "displayed_link": "40+ reactions",
+      "snippet": "On Friday, US Secretary of the Treasury Jack Lew announced that the Department would delay its $10 bill redesign, slated to put a yet-to-be-determined American ...",
+      "snippet_highlighted_words": [
+        "announced"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On Friday, US Secretary of the Treasury Jack Lew announced that the Department would delay its $10 bill redesign, slated to put a yet-to-be-determined American ...",
+          "source_info_link": "https://www.facebook.com/NEWS7/posts/breaking-us-treasury-dept-to-announce-alexander-hamilton-will-stay-on-10-bill-ha/10153580046599856/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZTZk5mNFA2OGZSYmlyZTRFWTl2M3JGQUpyMjZ1N0RaOTI0MnBDaHdTM3BZSlNUbG8zMjRwd2R6YnZmSUxqc2xadVFCcVRXWWhqMUhJSEdhcXN0NDJyZ2RKYmxGVVlNSVk3Z1hNeFloMUVIWGoyRURlemFsbkNqV1dxc2oyYi14eGRZWEFSUjROZEF1M250M1llRHhhb2U0Tkl0NGtUTWgwak5RbWQ3SWtBeTVwN2U1cHpUNFpaYURLNlNvMUhtLWxXdXdLbHpIdmgzRlVzd2Y4Q2RHMFhXVHE5Tk05SVVZUFdDMERFdnlCX1VxWFBMR2tPQU96LWlVaENvThIEGgIIABr_BhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDbBggAEAAYACAAKlMKCWFubm91bmNlZBXKzB0_Gghhbm5vdW5jZRoMYW5ub3VuY2VtZW50Gglhbm5vdW5jZXMaCmFubm91bmNpbmcaCGRlY2xhcmVkGghyZWxlYXNlZCppCgdyZXBsYWNlFReiVz8aBmNoYW5nZRoIY2hhbmdpbmcaBnJlbW92ZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50GglyZXBsYWNpbmcaCnN1YnN0aXR1dGUaB3VwZ3JhZGUaCGV4Y2hhbmdlKjwKBXBhcGVyFRbutz8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaDXBhcGVyY3VycmVuY3kqRgoIY3VycmVuY3kV6W6oPxoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoFbW9uZXkaDXBhcGVyY3VycmVuY3kykgIvZ290bz91cmw9Q0FFU3dRRUI2enN3RlNmTmY0UDY4ZlJiaXJlNEVZOXYzckZBSnIyNnU3RFo5MjQycENod1MzcFlKU1RsbzMyNHB3ZHpidmZJTGpzbFp1UUJxVFdZaGoxSElIR2Fxc3Q0MnJnZEpibEZVWU1JWTdnWE14WWgxRUhYajJFRGV6YWxuQ2pXV3FzajJiLXh4ZFlYQVJSNE5kQXUzbnQzWWVEeGFvZTROSXQ0a1RNaDBqTlFtZDdJa0F5NXA3ZTVwelQ0WlphREs2U28xSG0tbFd1d0tsekh2aDNGVXN3ZjhDZEcwWFdUcTlOTTlJVVlQV0MwREV2eUJfVXFYUExHa09BT3otaVVoQ29OOkRVUyBUcmVhc3VyeSBEZXB0IHRvIDxiPmFubm91bmNlPC9iPiBBbGV4YW5kZXIgSGFtaWx0b24gd2lsbCBzdGF5IC4uLkKvAU9uIEZyaWRheSwgVVMgU2VjcmV0YXJ5IG9mIHRoZSBUcmVhc3VyeSBKYWNrIExldyA8Yj5hbm5vdW5jZWQ8L2I-IHRoYXQgdGhlIERlcGFydG1lbnQgd291bGQgZGVsYXkgaXRzICQxMCBiaWxsIHJlZGVzaWduLCBzbGF0ZWQgdG8gcHV0IGEgeWV0LXRvLWJlLWRldGVybWluZWQgQW1lcmljYW4mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZTZk5mNFA2OGZSYmlyZTRFWTl2M3JGQUpyMjZ1N0RaOTI0MnBDaHdTM3BZSlNUbG8zMjRwd2R6YnZmSUxqc2xadVFCcVRXWWhqMUhJSEdhcXN0NDJyZ2RKYmxGVVlNSVk3Z1hNeFloMUVIWGoyRURlemFsbkNqV1dxc2oyYi14eGRZWEFSUjROZEF1M250M1llRHhhb2U0Tkl0NGtUTWgwak5RbWQ3SWtBeTVwN2U1cHpUNFpaYURLNlNvMUhtLWxXdXdLbHpIdmgzRlVzd2Y4Q2RHMFhXVHE5Tk05SVVZUFdDMERFdnlCX1VxWFBMR2tPQU96LWlVaENvThIEGgIIABr_BhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDbBggAEAAYACAAKlMKCWFubm91bmNlZBXKzB0_Gghhbm5vdW5jZRoMYW5ub3VuY2VtZW50Gglhbm5vdW5jZXMaCmFubm91bmNpbmcaCGRlY2xhcmVkGghyZWxlYXNlZCppCgdyZXBsYWNlFReiVz8aBmNoYW5nZRoIY2hhbmdpbmcaBnJlbW92ZRoIcmVwbGFjZWQaC3JlcGxhY2VtZW50GglyZXBsYWNpbmcaCnN1YnN0aXR1dGUaB3VwZ3JhZGUaCGV4Y2hhbmdlKjwKBXBhcGVyFRbutz8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaDXBhcGVyY3VycmVuY3kqRgoIY3VycmVuY3kV6W6oPxoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoFbW9uZXkaDXBhcGVyY3VycmVuY3kykgIvZ290bz91cmw9Q0FFU3dRRUI2enN3RlNmTmY0UDY4ZlJiaXJlNEVZOXYzckZBSnIyNnU3RFo5MjQycENod1MzcFlKU1RsbzMyNHB3ZHpidmZJTGpzbFp1UUJxVFdZaGoxSElIR2Fxc3Q0MnJnZEpibEZVWU1JWTdnWE14WWgxRUhYajJFRGV6YWxuQ2pXV3FzajJiLXh4ZFlYQVJSNE5kQXUzbnQzWWVEeGFvZTROSXQ0a1RNaDBqTlFtZDdJa0F5NXA3ZTVwelQ0WlphREs2U28xSG0tbFd1d0tsekh2aDNGVXN3ZjhDZEcwWFdUcTlOTTlJVVlQV0MwREV2eUJfVXFYUExHa09BT3otaVVoQ29OOkRVUyBUcmVhc3VyeSBEZXB0IHRvIDxiPmFubm91bmNlPC9iPiBBbGV4YW5kZXIgSGFtaWx0b24gd2lsbCBzdGF5IC4uLkKvAU9uIEZyaWRheSwgVVMgU2VjcmV0YXJ5IG9mIHRoZSBUcmVhc3VyeSBKYWNrIExldyA8Yj5hbm5vdW5jZWQ8L2I-IHRoYXQgdGhlIERlcGFydG1lbnQgd291bGQgZGVsYXkgaXRzICQxMCBiaWxsIHJlZGVzaWduLCBzbGF0ZWQgdG8gcHV0IGEgeWV0LXRvLWJlLWRldGVybWluZWQgQW1lcmljYW4mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Facebook · WJHG-TV",
+      "read_more_link": "https://www.facebook.com/NEWS7/posts/breaking-us-treasury-dept-to-announce-alexander-hamilton-will-stay-on-10-bill-ha/10153580046599856/#:~:text=On%20Friday%2C%20US%20Secretary%20of,time%20in%20over%20100%20years."
+    },
+    {
+      "position": 8,
+      "title": "Paper money",
+      "link": "https://en.wikipedia.org/wiki/Paper_money",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVby7rT9-f99Z-RfZtaUh786Fil24HwLuZXoj6XtaLoEkvONBsgIqvSDq1eUIoCM5lubS84kXRX0N-cQixRjEAjMvShe00CZ6linriyWctrAtVPtBC6tEhvOEGNrY&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Paper_money",
+      "date": "Jan 15, 2025",
+      "snippet": "Paper money, often referred to as a note or a bill (North American English), is a type of negotiable promissory note that is payable to the bearer on demand ...",
+      "snippet_highlighted_words": [
+        "is a type of negotiable promissory note"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Paper money, often referred to as a note or a bill (North American English), is a type of negotiable promissory note that is payable to the bearer on demand ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/Paper_money",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVmJ5N3JUOS1mOTlaLVJmWnRhVWg3ODZGaWwyNEh3THVaWG9qNlh0YUxvRWt2T05Cc2dJcXZTRHExZVVJb0NNNWx1YlM4NGtYUlgwTi1jUWl4UmpFQWpNdlNoZTAwQ1o2bGlucml5V2N0ckF0VlB0QkM2dEVodk9FR05yWRIEGgIIABrXBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLEFCAAQABgAIAAqUwoJYW5ub3VuY2VkFQAAAAAaCGFubm91bmNlGgxhbm5vdW5jZW1lbnQaCWFubm91bmNlcxoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkKmkKB3JlcGxhY2UVb2FLPRoGY2hhbmdlGghjaGFuZ2luZxoGcmVtb3ZlGghyZXBsYWNlZBoLcmVwbGFjZW1lbnQaCXJlcGxhY2luZxoKc3Vic3RpdHV0ZRoHdXBncmFkZRoIZXhjaGFuZ2UqPAoFcGFwZXIVIyiAQBoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoNcGFwZXJjdXJyZW5jeSpGCghjdXJyZW5jeRW4WWU_GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZieTdyVDktZjk5Wi1SZlp0YVVoNzg2RmlsMjRId0x1WlhvajZYdGFMb0Vrdk9OQnNnSXF2U0RxMWVVSW9DTTVsdWJTODRrWFJYME4tY1FpeFJqRUFqTXZTaGUwMENaNmxpbnJpeVdjdHJBdFZQdEJDNnRFaHZPRUdOclk6HjxiPlBhcGVyIG1vbmV5PC9iPiAtIFdpa2lwZWRpYUKsAVBhcGVyIG1vbmV5LCBvZnRlbiByZWZlcnJlZCB0byBhcyBhIG5vdGUgb3IgYSBiaWxsIChOb3J0aCBBbWVyaWNhbiBFbmdsaXNoKSwgPGI-aXMgYSB0eXBlIG9mIG5lZ290aWFibGUgcHJvbWlzc29yeSBub3RlPC9iPiB0aGF0IGlzIHBheWFibGUgdG8gdGhlIGJlYXJlciBvbiBkZW1hbmQmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVmJ5N3JUOS1mOTlaLVJmWnRhVWg3ODZGaWwyNEh3THVaWG9qNlh0YUxvRWt2T05Cc2dJcXZTRHExZVVJb0NNNWx1YlM4NGtYUlgwTi1jUWl4UmpFQWpNdlNoZTAwQ1o2bGlucml5V2N0ckF0VlB0QkM2dEVodk9FR05yWRIEGgIIABrXBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLEFCAAQABgAIAAqUwoJYW5ub3VuY2VkFQAAAAAaCGFubm91bmNlGgxhbm5vdW5jZW1lbnQaCWFubm91bmNlcxoKYW5ub3VuY2luZxoIZGVjbGFyZWQaCHJlbGVhc2VkKmkKB3JlcGxhY2UVb2FLPRoGY2hhbmdlGghjaGFuZ2luZxoGcmVtb3ZlGghyZXBsYWNlZBoLcmVwbGFjZW1lbnQaCXJlcGxhY2luZxoKc3Vic3RpdHV0ZRoHdXBncmFkZRoIZXhjaGFuZ2UqPAoFcGFwZXIVIyiAQBoKYmFuayBub3RlcxoIYmFua25vdGUaCWJhbmtub3RlcxoNcGFwZXJjdXJyZW5jeSpGCghjdXJyZW5jeRW4WWU_GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGgVtb25leRoNcGFwZXJjdXJyZW5jeTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZieTdyVDktZjk5Wi1SZlp0YVVoNzg2RmlsMjRId0x1WlhvajZYdGFMb0Vrdk9OQnNnSXF2U0RxMWVVSW9DTTVsdWJTODRrWFJYME4tY1FpeFJqRUFqTXZTaGUwMENaNmxpbnJpeVdjdHJBdFZQdEJDNnRFaHZPRUdOclk6HjxiPlBhcGVyIG1vbmV5PC9iPiAtIFdpa2lwZWRpYUKsAVBhcGVyIG1vbmV5LCBvZnRlbiByZWZlcnJlZCB0byBhcyBhIG5vdGUgb3IgYSBiaWxsIChOb3J0aCBBbWVyaWNhbiBFbmdsaXNoKSwgPGI-aXMgYSB0eXBlIG9mIG5lZ290aWFibGUgcHJvbWlzc29yeSBub3RlPC9iPiB0aGF0IGlzIHBheWFibGUgdG8gdGhlIGJlYXJlciBvbiBkZW1hbmQmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Paper_money#:~:text=Paper%20money%2C%20often%20referred%20to,it%20a%20form%20of%20currency."
+    },
+    {
+      "position": 9,
+      "title": "Money and Payments: The U.S. Dollar in the Age of Digital ...",
+      "link": "https://www.federalreserve.gov/publications/january-2022-cbdc.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVGZpKKdieGaqlTCGWfvRPVz-wjFZeu9yiFINpna38D3Cs8lGKtNt7fqSNqyQbUKhx_mB9sBQJFWEGdvI_dAfRqxmB-Ws2xJCaA2_XPfsnF4RhIXU6tWS0ZnhadDR-nS6dqYS6Xh8q1taHwbv1QRg-ASZyVLs&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.federalreserve.gov › january-2022-cbdc",
+      "date": "Jan 20, 2022",
+      "snippet": "In the 1970s, the Federal Reserve developed an automated clearinghouse (ACH) system that offered an electronic alternative to paper checks. And in 2019, the ...",
+      "snippet_highlighted_words": [
+        "paper"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In the 1970s, the Federal Reserve developed an automated clearinghouse (ACH) system that offered an electronic alternative to paper checks. And in 2019, the ...",
+          "source_info_link": "https://www.federalreserve.gov/publications/january-2022-cbdc.htm",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBQCdASocABwAPtEutFooIagoGAEAGglqAKwvd_qoQknoAflKMx2CmRL6g2Sfg-kwwrh1GqRAAP7wxAh-R2lIjm-lvgijhVwNaowT3BvlEFt_ozAb-fjfvyvr7v3WCH4plzvbdg4BSH2J2_QFNikpcTgZO5lWBL1P1cFwsyMST8WUVPWj5SxqS0R-DorubIA4uWdSiFy-GJ6awSDZOJHo8PD-gfDKPSyLvhN6TFqghA99JljWddWh5jJgRsugrb11Ln2J9ROjvYuUG_fz1Zogsa_YLDOYk5L2Z-Zf_wzPQC__CHvpld1uPm63RHE6Wup64HllLKTcmEMshZJuA_ppBD_sJasGLVTq6c__jUxuHEZKTkvL683orwUn2gGYL3Paxgj8UbUVDAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkdacEtLZGllR2FxbFRDR1dmdlJQVnotd2pGWmV1OXlpRklOcG5hMzhEM0NzOGxHS3ROdDdmcVNOcXlRYlVLaHhfbUI5c0JRSkZXRUdkdklfZEFmUnF4bUItV3MyeEpDYUEyX1hQZnNuRjRSaElYVTZ0V1MwWm5oYWREUi1uUzZkcVlTNlhoOHExdGFId2J2MVFSZy1BU1p5VkxzEgQaAggAGp0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wUIABAAGAAgACpTCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRXYxE8-GgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchVtJXo_GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FcF5kD8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkdacEtLZGllR2FxbFRDR1dmdlJQVnotd2pGWmV1OXlpRklOcG5hMzhEM0NzOGxHS3ROdDdmcVNOcXlRYlVLaHhfbUI5c0JRSkZXRUdkdklfZEFmUnF4bUItV3MyeEpDYUEyX1hQZnNuRjRSaElYVTZ0V1MwWm5oYWREUi1uUzZkcVlTNlhoOHExdGFId2J2MVFSZy1BU1p5VkxzOkQ8Yj5Nb25leTwvYj4gYW5kIFBheW1lbnRzOiBUaGUgVS5TLiBEb2xsYXIgaW4gdGhlIEFnZSBvZiBEaWdpdGFsIC4uLkKsAUluIHRoZSAxOTcwcywgdGhlIEZlZGVyYWwgUmVzZXJ2ZSBkZXZlbG9wZWQgYW4gYXV0b21hdGVkIGNsZWFyaW5naG91c2UgKEFDSCkgc3lzdGVtIHRoYXQgb2ZmZXJlZCBhbiBlbGVjdHJvbmljIGFsdGVybmF0aXZlIHRvIDxiPnBhcGVyPC9iPiBjaGVja3MuIEFuZCBpbiAyMDE5LCB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkdacEtLZGllR2FxbFRDR1dmdlJQVnotd2pGWmV1OXlpRklOcG5hMzhEM0NzOGxHS3ROdDdmcVNOcXlRYlVLaHhfbUI5c0JRSkZXRUdkdklfZEFmUnF4bUItV3MyeEpDYUEyX1hQZnNuRjRSaElYVTZ0V1MwWm5oYWREUi1uUzZkcVlTNlhoOHExdGFId2J2MVFSZy1BU1p5VkxzEgQaAggAGp0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wUIABAAGAAgACpTCglhbm5vdW5jZWQVAAAAABoIYW5ub3VuY2UaDGFubm91bmNlbWVudBoJYW5ub3VuY2VzGgphbm5vdW5jaW5nGghkZWNsYXJlZBoIcmVsZWFzZWQqaQoHcmVwbGFjZRXYxE8-GgZjaGFuZ2UaCGNoYW5naW5nGgZyZW1vdmUaCHJlcGxhY2VkGgtyZXBsYWNlbWVudBoJcmVwbGFjaW5nGgpzdWJzdGl0dXRlGgd1cGdyYWRlGghleGNoYW5nZSo8CgVwYXBlchVtJXo_GgpiYW5rIG5vdGVzGghiYW5rbm90ZRoJYmFua25vdGVzGg1wYXBlcmN1cnJlbmN5KkYKCGN1cnJlbmN5FcF5kD8aCmJhbmsgbm90ZXMaCGJhbmtub3RlGgliYW5rbm90ZXMaBW1vbmV5Gg1wYXBlcmN1cnJlbmN5MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkdacEtLZGllR2FxbFRDR1dmdlJQVnotd2pGWmV1OXlpRklOcG5hMzhEM0NzOGxHS3ROdDdmcVNOcXlRYlVLaHhfbUI5c0JRSkZXRUdkdklfZEFmUnF4bUItV3MyeEpDYUEyX1hQZnNuRjRSaElYVTZ0V1MwWm5oYWREUi1uUzZkcVlTNlhoOHExdGFId2J2MVFSZy1BU1p5VkxzOkQ8Yj5Nb25leTwvYj4gYW5kIFBheW1lbnRzOiBUaGUgVS5TLiBEb2xsYXIgaW4gdGhlIEFnZSBvZiBEaWdpdGFsIC4uLkKsAUluIHRoZSAxOTcwcywgdGhlIEZlZGVyYWwgUmVzZXJ2ZSBkZXZlbG9wZWQgYW4gYXV0b21hdGVkIGNsZWFyaW5naG91c2UgKEFDSCkgc3lzdGVtIHRoYXQgb2ZmZXJlZCBhbiBlbGVjdHJvbmljIGFsdGVybmF0aXZlIHRvIDxiPnBhcGVyPC9iPiBjaGVja3MuIEFuZCBpbiAyMDE5LCB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Federal Reserve (.gov)",
+      "read_more_link": "https://www.federalreserve.gov/publications/january-2022-cbdc.htm#:~:text=In%20the%201970s%2C%20the%20Federal,checks.%20And%20in%202019%2C%20the"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=10&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8NMDegQIPxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=10&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAE",
+      "3": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=20&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAG",
+      "4": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=30&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAI",
+      "5": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=40&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAK",
+      "6": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=50&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAM",
+      "7": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=60&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAO",
+      "8": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=70&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAQ",
+      "9": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=80&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAS",
+      "10": "https://www.google.com/search?q=announced+replace+paper+currency+before:2026-01-01&sca_esv=71d1dbb7a0502d97&sxsrf=APpeQnvE-THBSLxPwT-SRC_rcH3wA6GpHQ:1790143279346&ei=L2uzavTkFNW2ptQPv8rE4A4&start=90&sa=N&sstk=AS6-VmJHk1daw31dyK7DF3yFpdbZtem1vb5kIpCIGr54-Mwn1Fi_5pQi8q3UyNNf26rkdg8UoLwKDeTQTvJ_smiRmGwkqKcgivRCsQ&ved=2ahUKEwi0uIyyg4SXAxVVm4kEHT8lEewQ8tMDegQIPxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=announced+replace+paper+currency+before%3A2026-01-01&start=90"
+    }
+  }
+}

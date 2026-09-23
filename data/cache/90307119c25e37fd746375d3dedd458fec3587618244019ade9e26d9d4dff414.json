@@ -1,0 +1,326 @@
+{
+  "search_metadata": {
+    "id": "6ab36af527c2b013a2170756",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pDzw4SlL94vHuGZEPXySvwpC--zHzf3vakKC5Efu-T8/6ab36af527c2b013a2170756.json",
+    "markdown_endpoint": "https://serpapi.com/searches/pDzw4SlL94vHuGZEPXySvwpC--zHzf3vakKC5Efu-T8/6ab36af527c2b013a2170756.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/pDzw4SlL94vHuGZEPXySvwpC--zHzf3vakKC5Efu-T8/6ab36af527c2b013a2170756.json_with_pixel_position",
+    "created_at": "2026-09-23 06:00:21 UTC",
+    "processed_at": "2026-09-23 06:00:21 UTC",
+    "google_url": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before%3A2026-01-01&oq=dispute+escalating+newly+appointed+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/pDzw4SlL94vHuGZEPXySvwpC--zHzf3vakKC5Efu-T8/6ab36af527c2b013a2170756.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "dispute escalating newly appointed before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "dispute escalating newly appointed before:2026-01-01",
+    "total_results": 4540000,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "htpG73iczVXbcqpIFP2A-Y7xJVEQNGqqqFPdHSIdvOElOfpiISAXhVZA0bzNJ8w_zFfN15wGlKBRc855mJouy2423Wvv3Xsv1l__LG1v8e8ff1thuAoeGSaKopJJiLk0ShpxGTXYexozJ8vA16xv-63AF7RAYAuGLTTe1u_qFmnS9H1W7ZAe6XivezAuJEeE6UwNDIci7pyAmTL0b_En_0QfSkHJ8Ep9vtiXorpidxcljuX4UpdRXboB_IcDAREAE2K6hNf2KHTHz2BBikCBFjkTPpzMYY-pT2rFSur_CrKZoMUAGMYH6DSd-BUI5CMWjK4GgvL-6EPsSkRJIkmm9s9kk8shHmKGiW7uvpRPikDdi0dLO_dWBFcGOuuEEUWvgzYG1sFwVjER559e4r-n1P0cVCKx0n--GTm9nVEEqzL4stzPoO-ZB2cYhfQkZHSTdi7LzHw6lRlbs7Rk4QdxQ6NhgyWSKKsbXuxMJMn14FhW3wdDKO1EVXEiRpvRfUui6oY-tabst-S5zJWrbIOv1e8TJmlBRqUgTyUgN_kGq65rXLvUKsHykUcou_mzksW9gDD4PCA6bL1YY_hh_7j5hZivgpzeSXyXHAaZ_-SI8pCWOqtqDwNo4nwrZLjxuUs8SsdhHfNISZo7Dotk0eUzMymNsgDzWbUv8v3cpkhZBBh-2piPCUNs0rSVDD4_UNzl2Ipfjuglt8wDA7U8BgaiAo4A6JhpnDlqnid25GTOjU2REmI4AxB3P5nENYYxIEpPHGk_Aqk5l8yVb18AIvBym-_XBv7iO3HwfCTMWf_nedMs9rZVNLcHkix5vGH2xHkRtfwO2Y3AZZ4Qd_YLmqP9v5h0UCQ5eXedSXHffMkk2vz4piIl61SRlJeUSci8yqREkj4pUveiIp12FAL9DybJ8KYi_TqT0E0mmYdMLzBJOWrGKZMW15iUKNIpk6y6cqJIJ3l_KFLGpN9RJPR7ipQQy0inU3naOOZVmWpO9JblWKT_ZA4nT8XWcLhudmUDbwbK1zI1d8NHV9WX91Nbf4TcS7jX76fUQB4NvbAWdDtYbULjzgg0damGtmfeeUa03N-pqxWxvdDQ72bGnPjGI-XmQ5Et01_BXfpEYNVqbdIKepifvQ7dyRv0RLaz7W42EScWiYwWixmWWPxqa6RYb4iBVOcbW_6tFvirWmWFCX5td4t2uCOT8WDB6UOu5Txx0RJP38sdcz1ma-EDXwmdOWy6Rt1B1ks3aPrbHb_egcl8XNVkpcnNHb67H67mluSg74NKElgglO3Nqr2pP6OGWHB9TaDFqpigo4A3E2oAjYFCO3CkEjpHQGk-AEWEBZr_1Ai2Qq2sl_XZrKayVZbTG7WCa4b7lVCpFALPF8o_ACPcQOc",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=htpG73iczVXbcqpIFP2A-Y7xJVEQNGqqqFPdHSIdvOElOfpiISAXhVZA0bzNJ8w_zFfN15wGlKBRc855mJouy2423Wvv3Xsv1l__LG1v8e8ff1thuAoeGSaKopJJiLk0ShpxGTXYexozJ8vA16xv-63AF7RAYAuGLTTe1u_qFmnS9H1W7ZAe6XivezAuJEeE6UwNDIci7pyAmTL0b_En_0QfSkHJ8Ep9vtiXorpidxcljuX4UpdRXboB_IcDAREAE2K6hNf2KHTHz2BBikCBFjkTPpzMYY-pT2rFSur_CrKZoMUAGMYH6DSd-BUI5CMWjK4GgvL-6EPsSkRJIkmm9s9kk8shHmKGiW7uvpRPikDdi0dLO_dWBFcGOuuEEUWvgzYG1sFwVjER559e4r-n1P0cVCKx0n--GTm9nVEEqzL4stzPoO-ZB2cYhfQkZHSTdi7LzHw6lRlbs7Rk4QdxQ6NhgyWSKKsbXuxMJMn14FhW3wdDKO1EVXEiRpvRfUui6oY-tabst-S5zJWrbIOv1e8TJmlBRqUgTyUgN_kGq65rXLvUKsHykUcou_mzksW9gDD4PCA6bL1YY_hh_7j5hZivgpzeSXyXHAaZ_-SI8pCWOqtqDwNo4nwrZLjxuUs8SsdhHfNISZo7Dotk0eUzMymNsgDzWbUv8v3cpkhZBBh-2piPCUNs0rSVDD4_UNzl2Ipfjuglt8wDA7U8BgaiAo4A6JhpnDlqnid25GTOjU2REmI4AxB3P5nENYYxIEpPHGk_Aqk5l8yVb18AIvBym-_XBv7iO3HwfCTMWf_nedMs9rZVNLcHkix5vGH2xHkRtfwO2Y3AZZ4Qd_YLmqP9v5h0UCQ5eXedSXHffMkk2vz4piIl61SRlJeUSci8yqREkj4pUveiIp12FAL9DybJ8KYi_TqT0E0mmYdMLzBJOWrGKZMW15iUKNIpk6y6cqJIJ3l_KFLGpN9RJPR7ipQQy0inU3naOOZVmWpO9JblWKT_ZA4nT8XWcLhudmUDbwbK1zI1d8NHV9WX91Nbf4TcS7jX76fUQB4NvbAWdDtYbULjzgg0damGtmfeeUa03N-pqxWxvdDQ72bGnPjGI-XmQ5Et01_BXfpEYNVqbdIKepifvQ7dyRv0RLaz7W42EScWiYwWixmWWPxqa6RYb4iBVOcbW_6tFvirWmWFCX5td4t2uCOT8WDB6UOu5Txx0RJP38sdcz1ma-EDXwmdOWy6Rt1B1ks3aPrbHb_egcl8XNVkpcnNHb67H67mluSg74NKElgglO3Nqr2pP6OGWHB9TaDFqpigo4A3E2oAjYFCO3CkEjpHQGk-AEWEBZr_1Ai2Qq2sl_XZrKayVZbTG7WCa4b7lVCpFALPF8o_ACPcQOc"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Pre-Dispute And Pre-Escalation Processes To Prevent ...",
+      "link": "https://imimediation.org/2016/08/11/pre-dispute-and-pre-escalation-processes-to-prevent-disputes-a-brief-introduction/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFSQZ3aPl7sY98DN_GXOIO-FQvqofHXfIwwHvu4OoW8c7hbk1JUYeU1kpocZKis7PchKA13Hcrd_6UNQRAnNRqgGSa67fbIH03KQQRr3IIblxPOoHAtjLHdxGhArI-saTw497auRVO3t4TqnHTiSyqc0ADiFVBT2OJScPuUREbvVLFM_UnUfaeYH1JZxVAw_ZJgLA9ACVPnGRks2VOxHIU4pR1_oE8Dbk2Is&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://imimediation.org › Initiatives › Worldwide › GPC",
+      "date": "Aug 11, 2016",
+      "snippet": "The process is voluntary, private and non-binding. Standing Neutrals and Dispute Review Boards. A standing neutral is a trusted neutral person or group of ...",
+      "snippet_highlighted_words": [
+        "Dispute"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The process is voluntary, private and non-binding. Standing Neutrals and Dispute Review Boards. A standing neutral is a trusted neutral person or group of ...",
+          "source_info_link": "https://imimediation.org/2016/08/11/pre-dispute-and-pre-escalation-processes-to-prevent-disputes-a-brief-introduction/",
+          "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAQBgCdASocABwAPtE-tFooIigoFAEAGgloALEMybpg7QGFrZ1PpAMJAppjDpFGYQ8O3FgtNCk-0EAA_vYC5eTZretTQfs5zbgzZx0tDVi55rP1befhau-EN6JwEoE8T43sne5_zEdxmtb14YYARVVUxjVku5r5l0LpAhIuuLow4I-xeKHto7K9VpDCuUJCTi7U7N6r9C6DrYn-P-I6OFnrKUQQmm0yAy9JPq9ghvUs_jH8zOecufm_sER-HuA5S4ep3ZVXrCkEi2w3STxEK83P72kDf147-_i1eeVr0-79KUZRQWxa3KrHDbHdqtlz2KZnRT1dNVMpuivT2oDhU3suOFofNncJChsRBQIZVTcdyhETReNIdLjPjdZC9FTUR4EpgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZTUVozYVBsN3NZOThETl9HWE9JTy1GUXZxb2ZIWGZJd3dIdnU0T29XOGM3aGJrMUpVWWVVMWtwb2NaS2lzN1BjaEtBMTNIY3JkXzZVTlFSQW5OUnFnR1NhNjdmYklIMDNLUVFScjNJSWJseFBPb0hBdGpMSGR4R2hBckktc2FUdzQ5N2F1UlZPM3Q0VHFuSFRpU3lxYzBBRGlGVkJUMk9KU2NQdVVSRWJ2VkxGTV9VblVmYWVZSDFKWnhWQXdfWkpnTEE5QUNWUG5HUmtzMlZPeEhJVTRwUjFfb0U4RGJrMklzEgQaAggAGsIGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnAYIABAAGAAgAComCgdkaXNwdXRlFfR_lkAaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxU4cRI_Gghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBXrLcU-GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZTUVozYVBsN3NZOThETl9HWE9JTy1GUXZxb2ZIWGZJd3dIdnU0T29XOGM3aGJrMUpVWWVVMWtwb2NaS2lzN1BjaEtBMTNIY3JkXzZVTlFSQW5OUnFnR1NhNjdmYklIMDNLUVFScjNJSWJseFBPb0hBdGpMSGR4R2hBckktc2FUdzQ5N2F1UlZPM3Q0VHFuSFRpU3lxYzBBRGlGVkJUMk9KU2NQdVVSRWJ2VkxGTV9VblVmYWVZSDFKWnhWQXdfWkpnTEE5QUNWUG5HUmtzMlZPeEhJVTRwUjFfb0U4RGJrMklzOlFQcmUtPGI-RGlzcHV0ZTwvYj4gQW5kIFByZS08Yj5Fc2NhbGF0aW9uPC9iPiBQcm9jZXNzZXMgVG8gUHJldmVudCA8Yj5EaXNwdXRlczwvYj5CqgFUaGUgcHJvY2VzcyBpcyB2b2x1bnRhcnksIHByaXZhdGUgYW5kIG5vbi1iaW5kaW5nLiBTdGFuZGluZyBOZXV0cmFscyBhbmQgPGI-RGlzcHV0ZTwvYj4gUmV2aWV3IEJvYXJkcy4gQSBzdGFuZGluZyBuZXV0cmFsIGlzIGEgdHJ1c3RlZCBuZXV0cmFsIHBlcnNvbiBvciBncm91cCBvZiZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZTUVozYVBsN3NZOThETl9HWE9JTy1GUXZxb2ZIWGZJd3dIdnU0T29XOGM3aGJrMUpVWWVVMWtwb2NaS2lzN1BjaEtBMTNIY3JkXzZVTlFSQW5OUnFnR1NhNjdmYklIMDNLUVFScjNJSWJseFBPb0hBdGpMSGR4R2hBckktc2FUdzQ5N2F1UlZPM3Q0VHFuSFRpU3lxYzBBRGlGVkJUMk9KU2NQdVVSRWJ2VkxGTV9VblVmYWVZSDFKWnhWQXdfWkpnTEE5QUNWUG5HUmtzMlZPeEhJVTRwUjFfb0U4RGJrMklzEgQaAggAGsIGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnAYIABAAGAAgAComCgdkaXNwdXRlFfR_lkAaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxU4cRI_Gghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBXrLcU-GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZTUVozYVBsN3NZOThETl9HWE9JTy1GUXZxb2ZIWGZJd3dIdnU0T29XOGM3aGJrMUpVWWVVMWtwb2NaS2lzN1BjaEtBMTNIY3JkXzZVTlFSQW5OUnFnR1NhNjdmYklIMDNLUVFScjNJSWJseFBPb0hBdGpMSGR4R2hBckktc2FUdzQ5N2F1UlZPM3Q0VHFuSFRpU3lxYzBBRGlGVkJUMk9KU2NQdVVSRWJ2VkxGTV9VblVmYWVZSDFKWnhWQXdfWkpnTEE5QUNWUG5HUmtzMlZPeEhJVTRwUjFfb0U4RGJrMklzOlFQcmUtPGI-RGlzcHV0ZTwvYj4gQW5kIFByZS08Yj5Fc2NhbGF0aW9uPC9iPiBQcm9jZXNzZXMgVG8gUHJldmVudCA8Yj5EaXNwdXRlczwvYj5CqgFUaGUgcHJvY2VzcyBpcyB2b2x1bnRhcnksIHByaXZhdGUgYW5kIG5vbi1iaW5kaW5nLiBTdGFuZGluZyBOZXV0cmFscyBhbmQgPGI-RGlzcHV0ZTwvYj4gUmV2aWV3IEJvYXJkcy4gQSBzdGFuZGluZyBuZXV0cmFsIGlzIGEgdHJ1c3RlZCBuZXV0cmFsIHBlcnNvbiBvciBncm91cCBvZiZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "source": "The International Mediation Institute",
+      "read_more_link": "https://imimediation.org/2016/08/11/pre-dispute-and-pre-escalation-processes-to-prevent-disputes-a-brief-introduction/#:~:text=The%20process%20is%20voluntary%2C%20private,neutral%20person%20or%20group%20of"
+    },
+    {
+      "position": 2,
+      "title": "Dispute Resolution Management in Construction Projects",
+      "link": "https://ascelibrary.org/doi/10.1061/JLADAH.LADR-1261",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV6fUPQMv2kOfn7zVcaE2auFDGzfqXb9_1xcQltsMLJ8r3DwFnm1Fbk4GYTd-5CscmpAZfAkSqqpu2j0cDuSqHjccWnCXBrJ0-WH_UFaxGacbkGF7CMQAwwtT4kKtIakXas7gPecoJfA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://ascelibrary.org › doi › JLADAH.LADR-1261",
+      "date": "May 21, 2025",
+      "snippet": "The appointed board reviews disputes and makes temporary, binding decisions, frequently used in construction projects.",
+      "snippet_highlighted_words": [
+        "appointed",
+        "disputes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The appointed board reviews disputes and makes temporary, binding decisions, frequently used in construction projects.",
+          "source_info_link": "https://ascelibrary.org/doi/10.1061/JLADAH.LADR-1261",
+          "icon": "https://serpapi.com/images/i/UklGRtwAAABXRUJQVlA4INAAAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0ugHCGaBO63SKpANtH-f-jG3vGxRMLbPXYiiHCIAD-_S_xKaIYXPZZydzrcPKywhWS8mSnlHbyAyXnJKnqUd3G1Oh2tpqS9QNOPPL98wyLojU-nbQqZqbPeOalsCrnZLKnRyS-f4j-g8vFhwLJri7aEPbbbzMGLnl3EIpSRtbe63iaBxit7UJZgVGz6QP9itr9PcPoQILUCERlXWbWO5FDWqXAoADdZm2zMaX4xyWnsp3EvEAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVjZmVVBRTXYya09mbjd6VmNhRTJhdUZER3pmcVhiOV8xeGNRbHRzTUxKOHIzRHdGbm0xRmJrNEdZVGQtNUNzY21wQVpmQWtTcXFwdTJqMGNEdVNxSGpjY1duQ1hCckowLVdIX1VGYXhHYWNia0dGN0NNUUF3d3RUNGtLdElha1hhczdnUGVjb0pmQRIEGgIIABqvBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIkFCAAQABgAIAAqJgoHZGlzcHV0ZRU0RzFAGghkaXNwdXRlcxoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSp8CglhcHBvaW50ZWQVRNhnPBoHYXBwb2ludBoLYXBwb2ludG1lbnQaCGFwcG9pbnRzGghhc3NpZ25lZBoKZGVzaWduYXRlZBoHZWxlY3RlZBoFbmFtZWQaCW5vbWluYXRlZBoJcmVjcnVpdGVkGg5pdjtwO2FwcG9pbnRlZDKgAS9nb3RvP3VybD1DQUVTYkFIck96QVY2ZlVQUU12MmtPZm43elZjYUUyYXVGREd6ZnFYYjlfMXhjUWx0c01MSjhyM0R3Rm5tMUZiazRHWVRkLTVDc2NtcEFaZkFrU3FxcHUyajBjRHVTcUhqY2NXbkNYQnJKMC1XSF9VRmF4R2FjYmtHRjdDTVFBd3d0VDRrS3RJYWtYYXM3Z1BlY29KZkE6PTxiPkRpc3B1dGU8L2I-IFJlc29sdXRpb24gTWFuYWdlbWVudCBpbiBDb25zdHJ1Y3Rpb24gUHJvamVjdHNChAFUaGUgPGI-YXBwb2ludGVkPC9iPiBib2FyZCByZXZpZXdzIDxiPmRpc3B1dGVzPC9iPiBhbmQgbWFrZXMgdGVtcG9yYXJ5LCBiaW5kaW5nIGRlY2lzaW9ucywgZnJlcXVlbnRseSB1c2VkIGluIGNvbnN0cnVjdGlvbiBwcm9qZWN0cy5SA25ldyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVjZmVVBRTXYya09mbjd6VmNhRTJhdUZER3pmcVhiOV8xeGNRbHRzTUxKOHIzRHdGbm0xRmJrNEdZVGQtNUNzY21wQVpmQWtTcXFwdTJqMGNEdVNxSGpjY1duQ1hCckowLVdIX1VGYXhHYWNia0dGN0NNUUF3d3RUNGtLdElha1hhczdnUGVjb0pmQRIEGgIIABqvBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIkFCAAQABgAIAAqJgoHZGlzcHV0ZRU0RzFAGghkaXNwdXRlcxoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSp8CglhcHBvaW50ZWQVRNhnPBoHYXBwb2ludBoLYXBwb2ludG1lbnQaCGFwcG9pbnRzGghhc3NpZ25lZBoKZGVzaWduYXRlZBoHZWxlY3RlZBoFbmFtZWQaCW5vbWluYXRlZBoJcmVjcnVpdGVkGg5pdjtwO2FwcG9pbnRlZDKgAS9nb3RvP3VybD1DQUVTYkFIck96QVY2ZlVQUU12MmtPZm43elZjYUUyYXVGREd6ZnFYYjlfMXhjUWx0c01MSjhyM0R3Rm5tMUZiazRHWVRkLTVDc2NtcEFaZkFrU3FxcHUyajBjRHVTcUhqY2NXbkNYQnJKMC1XSF9VRmF4R2FjYmtHRjdDTVFBd3d0VDRrS3RJYWtYYXM3Z1BlY29KZkE6PTxiPkRpc3B1dGU8L2I-IFJlc29sdXRpb24gTWFuYWdlbWVudCBpbiBDb25zdHJ1Y3Rpb24gUHJvamVjdHNChAFUaGUgPGI-YXBwb2ludGVkPC9iPiBib2FyZCByZXZpZXdzIDxiPmRpc3B1dGVzPC9iPiBhbmQgbWFrZXMgdGVtcG9yYXJ5LCBiaW5kaW5nIGRlY2lzaW9ucywgZnJlcXVlbnRseSB1c2VkIGluIGNvbnN0cnVjdGlvbiBwcm9qZWN0cy5SA25ldyICEAFIAFgAaAA",
+      "source": "ASCE Library"
+    },
+    {
+      "position": 3,
+      "title": "Using Alternative Dispute Resolution Techniques",
+      "link": "https://www.gsa.gov/directives-library/using-alternative-dispute-resolution-techniques",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFdO-YBYSFUqQgdnSJljST2YD7bxdBgWgD0Du40jOgUWnHQAGMRUvB4ytpNtO7Lk5q2VDpRuFWaC2ZScF7O03NV2q5gS8wviXsu1prubL8CkHGu4aznQtwTWmaHW0Slc0IybxZ2uVIzmjPGgwY3AxeNjBtH18yUBeJwATeRhzt0J6yVEyhccQzMxp&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.gsa.gov › directives-library › using-alternat...",
+      "date": "Mar 23, 2005",
+      "snippet": "GSA is committed to using dispute prevention methods and ADR techniques to effect prompt, efficient, and just resolution of disputes.",
+      "snippet_highlighted_words": [
+        "dispute",
+        "disputes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "GSA is committed to using dispute prevention methods and ADR techniques to effect prompt, efficient, and just resolution of disputes.",
+          "source_info_link": "https://www.gsa.gov/directives-library/using-alternative-dispute-resolution-techniques",
+          "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAADQCACdASocABwAPtEutFooIagoGAEAGglsAJ0y43mPeDgQbPbRXZB6AHSwI18cBKrG2V7WNWXL3QhZz6Bk13IlkaJGLtQezylFv7SLxpYAAP72E0TJXYE39bS25Vwet1Nr5Qf9AL3YQZ-8Is_3diqmqYkXvAChnSHPpyzQiiJsJHIgJ3Q0FBATJ1dlex596n3V8fO7H-lkgO_qq5cd6ystNLfqMeLb2dYPgzGmwDK6wXu-mt3-BI-pVEBdO7_lEF0rvFAkUTKjUMhj-ndLkqvdG53uGD2E-Gz669k5bSzBiwXjdvt0_H_BJVQ5lFVUsYpkaCnGhHi0qc9kray3tPsNs0AqqsQ9OomBxmtwHMPXNJv6HAnHyIl1r56jIdxfL-dqaHEMat_DNjENrS3-Mf954FocKRNomnyO5ARvflbGWXRlFMZU0I08XWNr_DLfl8XKUvZPMEzQZsYZMNzBDT3k15_arws_ew88irR9v7fBASpZsOQZuTMyVEYvfqVooV9DwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZkTy1ZQllTRlVxUWdkblNKbGpTVDJZRDdieGRCZ1dnRDBEdTQwak9nVVduSFFBR01SVXZCNHl0cE50TzdMazVxMlZEcFJ1RldhQzJaU2NGN08wM05WMnE1Z1M4d3ZpWHN1MXBydWJMOENrSEd1NGF6blF0d1RXbWFIVzBTbGMwSXlieFoydVZJem1qUEdnd1kzQXhlTmpCdEgxOHlVQmVKd0FUZVJoenQwSjZ5VkV5aGNjUXpNeHASBBoCCAAa6wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBQgAEAAYACAAKiYKB2Rpc3B1dGUVmpX-PxoIZGlzcHV0ZXMaDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFQAAAAAaCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqfAoJYXBwb2ludGVkFSIoUTwaB2FwcG9pbnQaC2FwcG9pbnRtZW50GghhcHBvaW50cxoIYXNzaWduZWQaCmRlc2lnbmF0ZWQaB2VsZWN0ZWQaBW5hbWVkGglub21pbmF0ZWQaCXJlY3J1aXRlZBoOaXY7cDthcHBvaW50ZWQyzgEvZ290bz91cmw9Q0FFU2pnRUI2enN3RmRPLVlCWVNGVXFRZ2RuU0psalNUMllEN2J4ZEJnV2dEMER1NDBqT2dVV25IUUFHTVJVdkI0eXRwTnRPN0xrNXEyVkRwUnVGV2FDMlpTY0Y3TzAzTlYycTVnUzh3dmlYc3UxcHJ1Ykw4Q2tIR3U0YXpuUXR3VFdtYUhXMFNsYzBJeWJ4WjJ1Vkl6bWpQR2d3WTNBeGVOakJ0SDE4eVVCZUp3QVRlUmh6dDBKNnlWRXloY2NRek14cDo8VXNpbmcgQWx0ZXJuYXRpdmUgPGI-RGlzcHV0ZTwvYj4gUmVzb2x1dGlvbiBUZWNobmlxdWVzIHwgR1NBQpMBR1NBIGlzIGNvbW1pdHRlZCB0byB1c2luZyA8Yj5kaXNwdXRlPC9iPiBwcmV2ZW50aW9uIG1ldGhvZHMgYW5kIEFEUiB0ZWNobmlxdWVzIHRvIGVmZmVjdCBwcm9tcHQsIGVmZmljaWVudCwgYW5kIGp1c3QgcmVzb2x1dGlvbiBvZiA8Yj5kaXNwdXRlczwvYj4uUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZkTy1ZQllTRlVxUWdkblNKbGpTVDJZRDdieGRCZ1dnRDBEdTQwak9nVVduSFFBR01SVXZCNHl0cE50TzdMazVxMlZEcFJ1RldhQzJaU2NGN08wM05WMnE1Z1M4d3ZpWHN1MXBydWJMOENrSEd1NGF6blF0d1RXbWFIVzBTbGMwSXlieFoydVZJem1qUEdnd1kzQXhlTmpCdEgxOHlVQmVKd0FUZVJoenQwSjZ5VkV5aGNjUXpNeHASBBoCCAAa6wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBQgAEAAYACAAKiYKB2Rpc3B1dGUVmpX-PxoIZGlzcHV0ZXMaDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFQAAAAAaCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqfAoJYXBwb2ludGVkFSIoUTwaB2FwcG9pbnQaC2FwcG9pbnRtZW50GghhcHBvaW50cxoIYXNzaWduZWQaCmRlc2lnbmF0ZWQaB2VsZWN0ZWQaBW5hbWVkGglub21pbmF0ZWQaCXJlY3J1aXRlZBoOaXY7cDthcHBvaW50ZWQyzgEvZ290bz91cmw9Q0FFU2pnRUI2enN3RmRPLVlCWVNGVXFRZ2RuU0psalNUMllEN2J4ZEJnV2dEMER1NDBqT2dVV25IUUFHTVJVdkI0eXRwTnRPN0xrNXEyVkRwUnVGV2FDMlpTY0Y3TzAzTlYycTVnUzh3dmlYc3UxcHJ1Ykw4Q2tIR3U0YXpuUXR3VFdtYUhXMFNsYzBJeWJ4WjJ1Vkl6bWpQR2d3WTNBeGVOakJ0SDE4eVVCZUp3QVRlUmh6dDBKNnlWRXloY2NRek14cDo8VXNpbmcgQWx0ZXJuYXRpdmUgPGI-RGlzcHV0ZTwvYj4gUmVzb2x1dGlvbiBUZWNobmlxdWVzIHwgR1NBQpMBR1NBIGlzIGNvbW1pdHRlZCB0byB1c2luZyA8Yj5kaXNwdXRlPC9iPiBwcmV2ZW50aW9uIG1ldGhvZHMgYW5kIEFEUiB0ZWNobmlxdWVzIHRvIGVmZmVjdCBwcm9tcHQsIGVmZmljaWVudCwgYW5kIGp1c3QgcmVzb2x1dGlvbiBvZiA8Yj5kaXNwdXRlczwvYj4uUgNuZXciAhABSABYAGgA",
+      "source": "GSA (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Airbus-Boeing conflict is set to escalate",
+      "link": "https://www.gisreportsonline.com/r/airbus-boeing-conflict/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVrO7FbfLSyOhiQwb7q1wpJ0_Il2D2E_jMT2sZsVaXeOJQZCPZLUu473ZmcOezdseHiJYpDg8b2j7qzbb11wKBuYLLlMXWVv-O9wyOeLFgTkbWngBFxSp_TgX3BCq19LBBlErQCEGAZypyqS7ZNA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.gisreportsonline.com › airbus-boeing-confl...",
+      "date": "Jan 29, 2020",
+      "snippet": "However, in the course of the last few years, the U.S. has blocked the appointment of new judges. The body is now unable to hear disputes and issue rulings.",
+      "snippet_highlighted_words": [
+        "appointment",
+        "new",
+        "disputes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "However, in the course of the last few years, the U.S. has blocked the appointment of new judges. The body is now unable to hear disputes and issue rulings.",
+          "source_info_link": "https://www.gisreportsonline.com/r/airbus-boeing-conflict/",
+          "icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAADwBgCdASocABwAPtEwtFooIigoGAEAGglnAM4-gAU4B4Axd_Ne9AdLMpUBKKonRHp7SZjWxCs--3A6bONYsIAAAP7-k6s81xgaRU5td33dtf92wfPRn6XTg3Be75uP0m6qGrd4zU2uQPoWZX_No_qu2hWu9KwBEE-0tRBt7HmuQTw6G3NcZCCzBbYRcb5jRjIT39SYoky2hPxwIoslWGExuR-FJvyotU-8CC5AWUcRidvEoqnVPEUl2jJibaCw2ZF82Ba8K3CalC4pqBZemKf_sWXi0H7mg6rizrJg8zXEaNIZBNeNjjFIZk0R17RlE7EWYPywU55OXf1lopP_4deD1v01w-x4T0MAfhVGaS11d-LIRL7jJR67Cv3T2StGql8Ae3uZgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnJPN0ZiZkxTeU9oaVF3YjdxMXdwSjBfSWwyRDJFX2pNVDJzWnNWYVhlT0pRWkNQWkxVdTQ3M1ptY09lemRzZUhpSllwRGc4YjJqN3F6YmIxMXdLQnVZTExsTVhXVnYtTzl3eU9lTEZnVGtiV25nQkZ4U3BfVGdYM0JDcTE5TEJCbEVyUUNFR0FaeXB5cVM3Wk5BEgQaAggAGuMFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8FCAAQABgAIAAqJgoHZGlzcHV0ZRUSjdQ_GghkaXNwdXRlcxoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSp8CglhcHBvaW50ZWQVAAAAABoHYXBwb2ludBoLYXBwb2ludG1lbnQaCGFwcG9pbnRzGghhc3NpZ25lZBoKZGVzaWduYXRlZBoHZWxlY3RlZBoFbmFtZWQaCW5vbWluYXRlZBoJcmVjcnVpdGVkGg5pdjtwO2FwcG9pbnRlZDKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZyTzdGYmZMU3lPaGlRd2I3cTF3cEowX0lsMkQyRV9qTVQyc1pzVmFYZU9KUVpDUFpMVXU0NzNabWNPZXpkc2VIaUpZcERnOGIyajdxemJiMTF3S0J1WUxMbE1YV1Z2LU85d3lPZUxGZ1RrYlduZ0JGeFNwX1RnWDNCQ3ExOUxCQmxFclFDRUdBWnlweXFTN1pOQTo-QWlyYnVzLUJvZWluZyBjb25mbGljdCBpcyBzZXQgdG8gPGI-ZXNjYWxhdGU8L2I-IC0gR0lTIFJlcG9ydHNCsQFIb3dldmVyLCBpbiB0aGUgY291cnNlIG9mIHRoZSBsYXN0IGZldyB5ZWFycywgdGhlIFUuUy4gaGFzIGJsb2NrZWQgdGhlIDxiPmFwcG9pbnRtZW50PC9iPiBvZiA8Yj5uZXc8L2I-IGp1ZGdlcy4gVGhlIGJvZHkgaXMgbm93IHVuYWJsZSB0byBoZWFyIDxiPmRpc3B1dGVzPC9iPiBhbmQgaXNzdWUgcnVsaW5ncy5SA25ldyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnJPN0ZiZkxTeU9oaVF3YjdxMXdwSjBfSWwyRDJFX2pNVDJzWnNWYVhlT0pRWkNQWkxVdTQ3M1ptY09lemRzZUhpSllwRGc4YjJqN3F6YmIxMXdLQnVZTExsTVhXVnYtTzl3eU9lTEZnVGtiV25nQkZ4U3BfVGdYM0JDcTE5TEJCbEVyUUNFR0FaeXB5cVM3Wk5BEgQaAggAGuMFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8FCAAQABgAIAAqJgoHZGlzcHV0ZRUSjdQ_GghkaXNwdXRlcxoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSp8CglhcHBvaW50ZWQVAAAAABoHYXBwb2ludBoLYXBwb2ludG1lbnQaCGFwcG9pbnRzGghhc3NpZ25lZBoKZGVzaWduYXRlZBoHZWxlY3RlZBoFbmFtZWQaCW5vbWluYXRlZBoJcmVjcnVpdGVkGg5pdjtwO2FwcG9pbnRlZDKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZyTzdGYmZMU3lPaGlRd2I3cTF3cEowX0lsMkQyRV9qTVQyc1pzVmFYZU9KUVpDUFpMVXU0NzNabWNPZXpkc2VIaUpZcERnOGIyajdxemJiMTF3S0J1WUxMbE1YV1Z2LU85d3lPZUxGZ1RrYlduZ0JGeFNwX1RnWDNCQ3ExOUxCQmxFclFDRUdBWnlweXFTN1pOQTo-QWlyYnVzLUJvZWluZyBjb25mbGljdCBpcyBzZXQgdG8gPGI-ZXNjYWxhdGU8L2I-IC0gR0lTIFJlcG9ydHNCsQFIb3dldmVyLCBpbiB0aGUgY291cnNlIG9mIHRoZSBsYXN0IGZldyB5ZWFycywgdGhlIFUuUy4gaGFzIGJsb2NrZWQgdGhlIDxiPmFwcG9pbnRtZW50PC9iPiBvZiA8Yj5uZXc8L2I-IGp1ZGdlcy4gVGhlIGJvZHkgaXMgbm93IHVuYWJsZSB0byBoZWFyIDxiPmRpc3B1dGVzPC9iPiBhbmQgaXNzdWUgcnVsaW5ncy5SA25ldyICEAFIAFgAaAA",
+      "source": "GIS Reports",
+      "read_more_link": "https://www.gisreportsonline.com/r/airbus-boeing-conflict/#:~:text=However%2C%20in%20the%20course%20of,hear%20disputes%20and%20issue%20rulings."
+    },
+    {
+      "position": 5,
+      "title": "U.S. blocks Hong Kong's escalation of WTO trade dispute",
+      "link": "https://www.reuters.com/world/asia-pacific/us-blocks-hong-kongs-escalation-wto-trade-dispute-2021-01-25/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFYQ4YP6lhWENGcdwvULJh5wniyDpktHHNgvJbTY77qv3stHnEPUST5ZcScoxr5NpD-C6y0JDVY9OEJiz_A0mWBzj8c5okj3-oCbSxo4KJPuJfEFbSpJgD-VUr_B9jTKMVdLLfucm1aIkVevI2DiXbMmhPnL860c3CMpyJiZ0nmHwoOcbywyZduoGS0REswJef_75IUv59tg9b3ip&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.reuters.com › world › asia-pacific › us-blo...",
+      "date": "Jan 25, 2021",
+      "snippet": "The United States on Monday blocked a decision by Hong Kong to escalate a Trump-era trade disagreement at the World Trade Organization, in its first meeting ...",
+      "snippet_highlighted_words": [
+        "escalate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The United States on Monday blocked a decision by Hong Kong to escalate a Trump-era trade disagreement at the World Trade Organization, in its first meeting ...",
+          "source_info_link": "https://www.reuters.com/world/asia-pacific/us-blocks-hong-kongs-escalation-wto-trade-dispute-2021-01-25/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcBAMAAABi_9neAAAAMFBMVEVHcEzWQADWQADWQADWQADWQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQAAMYMgbAAAAEHRSTlMAcv8VN8ac8yFO6Aey2oVbn-X8aAAAAOtJREFUeAE1ziFMAgEAQNEHAJ4Dxg2LNrzhmEwRbbabwWJhBEa82QNj2hnRZNbi3OxnMEhiBHuxOoJ9FIMmrxD_fnmARliIAQxNxrN9gGLk4b5xAGAP89bbCAwBy2NwCxh0AObhJXc3gMdZvwHflFty7YAgUYp6aidZIljZimKVmCug-AU-QW4Fp7RBte-1Z7KQAizHnhNAYer6yTsvIN-0ncIvKC-geggEIbtctBkh31XvcHbETsV5pgu6BGvkV4N4CtSjWG76gxQZvA_UmlCLkhTkEqh81KPeJqAUhY0w3wLI7mS8uUj9rYF_OuYuZknO4GoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZZUTRZUDZsaFdFTkdjZHd2VUxKaDV3bml5RHBrdEhITmd2SmJUWTc3cXYzc3RIbkVQVVNUNVpjU2NveHI1TnBELUM2eTBKRFZZOU9FSml6X0EwbVdCemo4YzVva2ozLW9DYlN4bzRLSlB1SmZFRmJTcEpnRC1WVXJfQjlqVEtNVmRMTGZ1Y20xYUlrVmV2STJEaVhiTW1oUG5MODYwYzNDTXB5SmlaMG5tSHdvT2NieXd5WmR1b0dTMFJFc3dKZWZfNzVJVXY1OXRnOWIzaXASBBoCCAAapwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgAComCgdkaXNwdXRlFYaDYEAaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBUAAAAAGgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZZUTRZUDZsaFdFTkdjZHd2VUxKaDV3bml5RHBrdEhITmd2SmJUWTc3cXYzc3RIbkVQVVNUNVpjU2NveHI1TnBELUM2eTBKRFZZOU9FSml6X0EwbVdCemo4YzVva2ozLW9DYlN4bzRLSlB1SmZFRmJTcEpnRC1WVXJfQjlqVEtNVmRMTGZ1Y20xYUlrVmV2STJEaVhiTW1oUG5MODYwYzNDTXB5SmlaMG5tSHdvT2NieXd5WmR1b0dTMFJFc3dKZWZfNzVJVXY1OXRnOWIzaXA6SVUuUy4gYmxvY2tzIEhvbmcgS29uZyYjMzk7cyA8Yj5lc2NhbGF0aW9uPC9iPiBvZiBXVE8gdHJhZGUgPGI-ZGlzcHV0ZTwvYj5CrAFUaGUgVW5pdGVkIFN0YXRlcyBvbiBNb25kYXkgYmxvY2tlZCBhIGRlY2lzaW9uIGJ5IEhvbmcgS29uZyB0byA8Yj5lc2NhbGF0ZTwvYj4gYSBUcnVtcC1lcmEgdHJhZGUgZGlzYWdyZWVtZW50IGF0IHRoZSBXb3JsZCBUcmFkZSBPcmdhbml6YXRpb24sIGluIGl0cyBmaXJzdCBtZWV0aW5nJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZZUTRZUDZsaFdFTkdjZHd2VUxKaDV3bml5RHBrdEhITmd2SmJUWTc3cXYzc3RIbkVQVVNUNVpjU2NveHI1TnBELUM2eTBKRFZZOU9FSml6X0EwbVdCemo4YzVva2ozLW9DYlN4bzRLSlB1SmZFRmJTcEpnRC1WVXJfQjlqVEtNVmRMTGZ1Y20xYUlrVmV2STJEaVhiTW1oUG5MODYwYzNDTXB5SmlaMG5tSHdvT2NieXd5WmR1b0dTMFJFc3dKZWZfNzVJVXY1OXRnOWIzaXASBBoCCAAapwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgAComCgdkaXNwdXRlFYaDYEAaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBUAAAAAGgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZZUTRZUDZsaFdFTkdjZHd2VUxKaDV3bml5RHBrdEhITmd2SmJUWTc3cXYzc3RIbkVQVVNUNVpjU2NveHI1TnBELUM2eTBKRFZZOU9FSml6X0EwbVdCemo4YzVva2ozLW9DYlN4bzRLSlB1SmZFRmJTcEpnRC1WVXJfQjlqVEtNVmRMTGZ1Y20xYUlrVmV2STJEaVhiTW1oUG5MODYwYzNDTXB5SmlaMG5tSHdvT2NieXd5WmR1b0dTMFJFc3dKZWZfNzVJVXY1OXRnOWIzaXA6SVUuUy4gYmxvY2tzIEhvbmcgS29uZyYjMzk7cyA8Yj5lc2NhbGF0aW9uPC9iPiBvZiBXVE8gdHJhZGUgPGI-ZGlzcHV0ZTwvYj5CrAFUaGUgVW5pdGVkIFN0YXRlcyBvbiBNb25kYXkgYmxvY2tlZCBhIGRlY2lzaW9uIGJ5IEhvbmcgS29uZyB0byA8Yj5lc2NhbGF0ZTwvYj4gYSBUcnVtcC1lcmEgdHJhZGUgZGlzYWdyZWVtZW50IGF0IHRoZSBXb3JsZCBUcmFkZSBPcmdhbml6YXRpb24sIGluIGl0cyBmaXJzdCBtZWV0aW5nJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "source": "Reuters"
+    },
+    {
+      "position": 6,
+      "title": "The Role of a Receiver in Business Disputes",
+      "link": "https://www.bcclegal.com/2025/02/18/the-role-of-a-receiver-in-business-disputes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFYkrb7lJv0bpyumZLy5bvlUjcoc4mJ3ido4MefyiJwaPlrfSHALcKJbJBsNWLh9MvvUZJK7Bt08LPNW1wREnE6Anvo6-14yE7rEs2f-ZbN58cmH98ewbrxMzgbRf82XS0XULDI35sRJmvtfDTau58CaPPDtlwRDEJ2vkshX4kmgNVreZ&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.bcclegal.com › Receivership Services",
+      "date": "Feb 18, 2025",
+      "snippet": "As disputes escalated, creditors became concerned about the company's ability to meet financial obligations. Now imagine that a court appoints a receiver to ...",
+      "snippet_highlighted_words": [
+        "disputes escalated",
+        "appoints"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "As disputes escalated, creditors became concerned about the company's ability to meet financial obligations. Now imagine that a court appoints a receiver to ...",
+          "source_info_link": "https://www.bcclegal.com/2025/02/18/the-role-of-a-receiver-in-business-disputes/",
+          "icon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAAAQBwCdASocABwAPtFAtFooIqgoFAEAGglpABOJTygPtA-DrN88w-iDvo36gB2a6aaCi9NOhf9do9jCSONjCtn7EAD-9gFt_4C3xJMLwi_ctPIVZf0Ytb6Bu9EGnJbWSFu7vvGdHgqfsHqNve6gxXZPDlO9fy6LJLFIaFVTICIlOfL-ED-h49UCJx0bl7gHyNRUXBK1nJc9w3IlhF4lCFovf_DUA5u-rhtEaQD3ovoB95c0I02dQUFwoco6Mp_en_SQkfBb2cf4z83io7vy4Ap6PBYQq6K-gaMNtBuG3EH_pQfGBxDxrq8FlZkhPvnFOAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZa3JiN2xKdjBicHl1bVpMeTVidmxVamNvYzRtSjNpZG80TWVmeWlKd2FQbHJmU0hBTGNLSmJKQnNOV0xoOU12dlVaSks3QnQwOExQTlcxd1JFbkU2QW52bzYtMTR5RTdyRXMyZi1aYk41OGNtSDk4ZXdicnhNemdiUmY4MlhTMFhVTERJMzVzUkptdnRmRFRhdTU4Q2FQUER0bHdSREVKMnZrc2hYNGttZ05WcmVaEgQaAggAGv0FEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA1wUIABAAGAAgAComCgdkaXNwdXRlFSjzkT8aCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBVBVKA_GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZa3JiN2xKdjBicHl1bVpMeTVidmxVamNvYzRtSjNpZG80TWVmeWlKd2FQbHJmU0hBTGNLSmJKQnNOV0xoOU12dlVaSks3QnQwOExQTlcxd1JFbkU2QW52bzYtMTR5RTdyRXMyZi1aYk41OGNtSDk4ZXdicnhNemdiUmY4MlhTMFhVTERJMzVzUkptdnRmRFRhdTU4Q2FQUER0bHdSREVKMnZrc2hYNGttZ05WcmVaOjJUaGUgUm9sZSBvZiBhIFJlY2VpdmVyIGluIEJ1c2luZXNzIDxiPkRpc3B1dGVzPC9iPkK3AUFzIDxiPmRpc3B1dGVzIGVzY2FsYXRlZDwvYj4sIGNyZWRpdG9ycyBiZWNhbWUgY29uY2VybmVkIGFib3V0IHRoZSBjb21wYW55JiMzOTtzIGFiaWxpdHkgdG8gbWVldCBmaW5hbmNpYWwgb2JsaWdhdGlvbnMuIE5vdyBpbWFnaW5lIHRoYXQgYSBjb3VydCA8Yj5hcHBvaW50czwvYj4gYSByZWNlaXZlciB0byZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZa3JiN2xKdjBicHl1bVpMeTVidmxVamNvYzRtSjNpZG80TWVmeWlKd2FQbHJmU0hBTGNLSmJKQnNOV0xoOU12dlVaSks3QnQwOExQTlcxd1JFbkU2QW52bzYtMTR5RTdyRXMyZi1aYk41OGNtSDk4ZXdicnhNemdiUmY4MlhTMFhVTERJMzVzUkptdnRmRFRhdTU4Q2FQUER0bHdSREVKMnZrc2hYNGttZ05WcmVaEgQaAggAGv0FEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA1wUIABAAGAAgAComCgdkaXNwdXRlFSjzkT8aCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBVBVKA_GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZZa3JiN2xKdjBicHl1bVpMeTVidmxVamNvYzRtSjNpZG80TWVmeWlKd2FQbHJmU0hBTGNLSmJKQnNOV0xoOU12dlVaSks3QnQwOExQTlcxd1JFbkU2QW52bzYtMTR5RTdyRXMyZi1aYk41OGNtSDk4ZXdicnhNemdiUmY4MlhTMFhVTERJMzVzUkptdnRmRFRhdTU4Q2FQUER0bHdSREVKMnZrc2hYNGttZ05WcmVaOjJUaGUgUm9sZSBvZiBhIFJlY2VpdmVyIGluIEJ1c2luZXNzIDxiPkRpc3B1dGVzPC9iPkK3AUFzIDxiPmRpc3B1dGVzIGVzY2FsYXRlZDwvYj4sIGNyZWRpdG9ycyBiZWNhbWUgY29uY2VybmVkIGFib3V0IHRoZSBjb21wYW55JiMzOTtzIGFiaWxpdHkgdG8gbWVldCBmaW5hbmNpYWwgb2JsaWdhdGlvbnMuIE5vdyBpbWFnaW5lIHRoYXQgYSBjb3VydCA8Yj5hcHBvaW50czwvYj4gYSByZWNlaXZlciB0byZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "source": "Burke Costanza & Carberry LLP",
+      "read_more_link": "https://www.bcclegal.com/2025/02/18/the-role-of-a-receiver-in-business-disputes/#:~:text=As%20disputes%20escalated%2C%20creditors%20became,XYZ%20Corporation's%20assets%20and%20operations."
+    },
+    {
+      "position": 7,
+      "title": "The dispute settlement crisis in the World Trade Organization",
+      "link": "https://researchoutreach.org/articles/dispute-settlement-crisis-world-trade-organization-issues-challenges-directions/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFYPP-eRVABOeAMZqehQ5pekQNcJLj8YPcr_bcg_lSnv5wHM89c9-AeqntJLulfPY3PhqKAWFbhMJXDWWdaGw_whgZejXXAOUxu-3RzaYM7cxcRoDKGB7-Z0N6g_dbwr-Rby2Yje0XERDbvW-d__Xi3gWW3pfDLXhrPZBu2myDEZ2v2-hDFhbdP328YdxH88C-hhEsXGvc-Wihu53G7uAWUKvF1i8OD4p6-M&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://researchoutreach.org › Articles",
+      "date": "Nov 8, 2023",
+      "snippet": "When the time for new appointments came due to death and retirement, the United States under the direction of Donald Trump, blocked them, raising concerns",
+      "snippet_highlighted_words": [
+        "new"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "When the time for new appointments came due to death and retirement, the United States under the direction of Donald Trump, blocked them, raising concerns",
+          "source_info_link": "https://researchoutreach.org/articles/dispute-settlement-crisis-world-trade-organization-issues-challenges-directions/",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAADQBACdASocABwAPtE-tFooIigoFAEAGglAF2ZnKDXbtvHisuvrZerL06pDlfK5AAD-UcACqdKTnMRgAegqsWXoKemJ6TqdW9IZsbBaTOVCofr_dHuv1lKmAiMliBYUn2SZ4wSBQsRs5ACT2MdzQYvn6fAitkTIOY4U9IH93kzuezTBgG7n2_-mkHe7oAK91_g0kY58iCtzaEPJ5FzYAk8IAIpwAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZZUFAtZVJWQUJPZUFNWnFlaFE1cGVrUU5jSkxqOFlQY3JfYmNnX2xTbnY1d0hNODljOS1BZXFudEpMdWxmUFkzUGhxS0FXRmJoTUpYRFdXZGFHd193aGdaZWpYWEFPVXh1LTNSemFZTTdjeGNSb0RLR0I3LVowTjZnX2Rid3ItUmJ5MllqZTBYRVJEYnZXLWRfX1hpM2dXVzNwZkRMWGhyUFpCdTJteURFWjJ2Mi1oREZoYmRQMzI4WWR4SDg4Qy1oaEVzWEd2Yy1XaWh1NTNHN3VBV1VLdkYxaThPRDRwNi1NEgQaAggAGqwGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAhgYIABAAGAAgAComCgdkaXNwdXRlFdIQQEAaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBXqjmg-GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZZUFAtZVJWQUJPZUFNWnFlaFE1cGVrUU5jSkxqOFlQY3JfYmNnX2xTbnY1d0hNODljOS1BZXFudEpMdWxmUFkzUGhxS0FXRmJoTUpYRFdXZGFHd193aGdaZWpYWEFPVXh1LTNSemFZTTdjeGNSb0RLR0I3LVowTjZnX2Rid3ItUmJ5MllqZTBYRVJEYnZXLWRfX1hpM2dXVzNwZkRMWGhyUFpCdTJteURFWjJ2Mi1oREZoYmRQMzI4WWR4SDg4Qy1oaEVzWEd2Yy1XaWh1NTNHN3VBV1VLdkYxaThPRDRwNi1NOkRUaGUgPGI-ZGlzcHV0ZTwvYj4gc2V0dGxlbWVudCBjcmlzaXMgaW4gdGhlIFdvcmxkIFRyYWRlIE9yZ2FuaXphdGlvbkKhAVdoZW4gdGhlIHRpbWUgZm9yIDxiPm5ldzwvYj4gYXBwb2ludG1lbnRzIGNhbWUgZHVlIHRvIGRlYXRoIGFuZCByZXRpcmVtZW50LCB0aGUgVW5pdGVkIFN0YXRlcyB1bmRlciB0aGUgZGlyZWN0aW9uIG9mIERvbmFsZCBUcnVtcCwgYmxvY2tlZCB0aGVtLCByYWlzaW5nIGNvbmNlcm5zUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZZUFAtZVJWQUJPZUFNWnFlaFE1cGVrUU5jSkxqOFlQY3JfYmNnX2xTbnY1d0hNODljOS1BZXFudEpMdWxmUFkzUGhxS0FXRmJoTUpYRFdXZGFHd193aGdaZWpYWEFPVXh1LTNSemFZTTdjeGNSb0RLR0I3LVowTjZnX2Rid3ItUmJ5MllqZTBYRVJEYnZXLWRfX1hpM2dXVzNwZkRMWGhyUFpCdTJteURFWjJ2Mi1oREZoYmRQMzI4WWR4SDg4Qy1oaEVzWEd2Yy1XaWh1NTNHN3VBV1VLdkYxaThPRDRwNi1NEgQaAggAGqwGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAhgYIABAAGAAgAComCgdkaXNwdXRlFdIQQEAaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBXqjmg-GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZZUFAtZVJWQUJPZUFNWnFlaFE1cGVrUU5jSkxqOFlQY3JfYmNnX2xTbnY1d0hNODljOS1BZXFudEpMdWxmUFkzUGhxS0FXRmJoTUpYRFdXZGFHd193aGdaZWpYWEFPVXh1LTNSemFZTTdjeGNSb0RLR0I3LVowTjZnX2Rid3ItUmJ5MllqZTBYRVJEYnZXLWRfX1hpM2dXVzNwZkRMWGhyUFpCdTJteURFWjJ2Mi1oREZoYmRQMzI4WWR4SDg4Qy1oaEVzWEd2Yy1XaWh1NTNHN3VBV1VLdkYxaThPRDRwNi1NOkRUaGUgPGI-ZGlzcHV0ZTwvYj4gc2V0dGxlbWVudCBjcmlzaXMgaW4gdGhlIFdvcmxkIFRyYWRlIE9yZ2FuaXphdGlvbkKhAVdoZW4gdGhlIHRpbWUgZm9yIDxiPm5ldzwvYj4gYXBwb2ludG1lbnRzIGNhbWUgZHVlIHRvIGRlYXRoIGFuZCByZXRpcmVtZW50LCB0aGUgVW5pdGVkIFN0YXRlcyB1bmRlciB0aGUgZGlyZWN0aW9uIG9mIERvbmFsZCBUcnVtcCwgYmxvY2tlZCB0aGVtLCByYWlzaW5nIGNvbmNlcm5zUgNuZXciAhABSABYAGgA",
+      "source": "Research Outreach"
+    },
+    {
+      "position": 8,
+      "title": "What are the implications of the United States' blockage ...",
+      "link": "https://www.oxjournal.org/united-states-blockage-of-appointments-to-the-wto-appellate-body/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFaJnJnYmgtoBgW3GVbMyIpyetfuCsIUD5PrX7kxfS950IsEyuIbjv-ZOIdr6lmN7-qGKIL4ja04XleFL_0i_BVq_YOBnceQPrDaP03uIk08wpza4Z8c5K6g6EBjwPdMk7U56CduoFXETLVSEdoCCn2uCC0vmrgkuhBhiUWW0I42dVHBuN80hdXmiOwZiKLE&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://www.oxjournal.org › united-states-blockage-of-a...",
+      "date": "Sep 24, 2025",
+      "snippet": "The U.S. began blocking new appointments to the Appellate Body in 2017 and rejected all proposals to occupy vacant seats (Horton & Hopewell, 2021).",
+      "snippet_highlighted_words": [
+        "new"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The U.S. began blocking new appointments to the Appellate Body in 2017 and rejected all proposals to occupy vacant seats (Horton & Hopewell, 2021).",
+          "source_info_link": "https://www.oxjournal.org/united-states-blockage-of-appointments-to-the-wto-appellate-body/",
+          "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAwCdASocABwAPtEutFooIagoGAEAGglnAAPhIg38RxAR2cj_Sj1AAP7w0FZhLBS2HFVIAxnPp1IhMBiLn_-TER3zJ-fYW2vta3mHqVdz_5OW5x_KDVl7ZrYXmUfvbIonTNmAgfUriVrDCdDL1bQ7e1PrGnraCIDOZXTMdl9-T7DDxWVqc0PM77StFWUw_KFaRENF9raYptcAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZhSm5KblltZ3RvQmdXM0dWYk15SXB5ZXRmdUNzSVVENVByWDdreGZTOTUwSXNFeXVJYmp2LVpPSWRyNmxtTjctcUdLSUw0amEwNFhsZUZMXzBpX0JWcV9ZT0JuY2VRUHJEYVAwM3VJazA4d3B6YTRaOGM1SzZnNkVCandQZE1rN1U1NkNkdW9GWEVUTFZTRWRvQ0NuMnVDQzB2bXJna3VoQmhpVVdXMEk0MmRWSEJ1TjgwaGRYbWlPd1ppS0xFEgQaAggAGoQGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3gUIABAAGAAgAComCgdkaXNwdXRlFRFa2T8aCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxW9dow8Gghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBVUPUY-GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZhSm5KblltZ3RvQmdXM0dWYk15SXB5ZXRmdUNzSVVENVByWDdreGZTOTUwSXNFeXVJYmp2LVpPSWRyNmxtTjctcUdLSUw0amEwNFhsZUZMXzBpX0JWcV9ZT0JuY2VRUHJEYVAwM3VJazA4d3B6YTRaOGM1SzZnNkVCandQZE1rN1U1NkNkdW9GWEVUTFZTRWRvQ0NuMnVDQzB2bXJna3VoQmhpVVdXMEk0MmRWSEJ1TjgwaGRYbWlPd1ppS0xFOkNXaGF0IGFyZSB0aGUgaW1wbGljYXRpb25zIG9mIHRoZSBVbml0ZWQgU3RhdGVzJiMzOTsgYmxvY2thZ2Ugb2YgLi4uQp4BVGhlIFUuUy4gYmVnYW4gYmxvY2tpbmcgPGI-bmV3PC9iPiBhcHBvaW50bWVudHMgdG8gdGhlIEFwcGVsbGF0ZSBCb2R5IGluIDIwMTcgYW5kIHJlamVjdGVkIGFsbCBwcm9wb3NhbHMgdG8gb2NjdXB5IHZhY2FudCBzZWF0cyAoSG9ydG9uICZhbXA7IEhvcGV3ZWxsLCAyMDIxKS5SA25ldyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZhSm5KblltZ3RvQmdXM0dWYk15SXB5ZXRmdUNzSVVENVByWDdreGZTOTUwSXNFeXVJYmp2LVpPSWRyNmxtTjctcUdLSUw0amEwNFhsZUZMXzBpX0JWcV9ZT0JuY2VRUHJEYVAwM3VJazA4d3B6YTRaOGM1SzZnNkVCandQZE1rN1U1NkNkdW9GWEVUTFZTRWRvQ0NuMnVDQzB2bXJna3VoQmhpVVdXMEk0MmRWSEJ1TjgwaGRYbWlPd1ppS0xFEgQaAggAGoQGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3gUIABAAGAAgAComCgdkaXNwdXRlFRFa2T8aCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxW9dow8Gghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBVUPUY-GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZhSm5KblltZ3RvQmdXM0dWYk15SXB5ZXRmdUNzSVVENVByWDdreGZTOTUwSXNFeXVJYmp2LVpPSWRyNmxtTjctcUdLSUw0amEwNFhsZUZMXzBpX0JWcV9ZT0JuY2VRUHJEYVAwM3VJazA4d3B6YTRaOGM1SzZnNkVCandQZE1rN1U1NkNkdW9GWEVUTFZTRWRvQ0NuMnVDQzB2bXJna3VoQmhpVVdXMEk0MmRWSEJ1TjgwaGRYbWlPd1ppS0xFOkNXaGF0IGFyZSB0aGUgaW1wbGljYXRpb25zIG9mIHRoZSBVbml0ZWQgU3RhdGVzJiMzOTsgYmxvY2thZ2Ugb2YgLi4uQp4BVGhlIFUuUy4gYmVnYW4gYmxvY2tpbmcgPGI-bmV3PC9iPiBhcHBvaW50bWVudHMgdG8gdGhlIEFwcGVsbGF0ZSBCb2R5IGluIDIwMTcgYW5kIHJlamVjdGVkIGFsbCBwcm9wb3NhbHMgdG8gb2NjdXB5IHZhY2FudCBzZWF0cyAoSG9ydG9uICZhbXA7IEhvcGV3ZWxsLCAyMDIxKS5SA25ldyICEAFIAFgAaAA",
+      "source": "OxJournal"
+    },
+    {
+      "position": 9,
+      "title": "Dispute Resolution Overview",
+      "link": "https://www.americanbar.org/groups/dispute_resolution/resources/overview/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFQ25gML41A2g4qze-Z4kSe4PNFkDMFJgOJ3OLN7VKBdEp3Wb7y7OyMFMXPz3u0_f19FlwiRg4PQ1YL1rHS2HYovB_DPGrHF7Mk8Zcks5PPpet4qdTAtpKd82GjUrgwGx80Pw79FqRFpWcfzB2TTWMywHD-z3EQhPE7P-XIo&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.americanbar.org › groups › resources › ov...",
+      "date": "Feb 20, 2024",
+      "snippet": "What is Dispute Resolution? Dispute resolution is a term that refers to a number of processes that can be used to resolve a conflict, dispute or claim.",
+      "snippet_highlighted_words": [
+        "Dispute",
+        "Dispute",
+        "dispute"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What is Dispute Resolution? Dispute resolution is a term that refers to a number of processes that can be used to resolve a conflict, dispute or claim.",
+          "source_info_link": "https://www.americanbar.org/groups/dispute_resolution/resources/overview/",
+          "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAAAwBgCdASocABwAPtEutFooIagoGAEAGglqAMcAFZJVD5W0HDgXvR-McfIKs52pWAp93gj7KmLboOiAAP71Pv4GH0Q36rXtV-dSk1LpYiH2nNGLn3jwDKNF8A9nt73e_o0hC9SLOHX203X94Tp4KY7LfoHx2J1jSdo9s2lof6p0IF226fS-v515v9h7TNhX28R39wwd7O2QS3ufihcmud2P_L7VtJf_hrRmj7-0JoQoBUpr9S5nQ6paoB2-97vD_PsrT5fSQ9-sNS0DSmXpjSwYrqO4R_jrB0n8vVAlHfqEwq5C8U6ndmFar0LfkJS6ePHe8uf72NGrZO17wOGQXoETvMZpPQQMNQ0yneTsk0poeLo2f3MocLSlb_kGNgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZRMjVnTUw0MUEyZzRxemUtWjRrU2U0UE5Ga0RNRkpnT0ozT0xON1ZLQmRFcDNXYjd5N095TUZNWFB6M3UwX2YxOUZsd2lSZzRQUTFZTDFySFMySFlvdkJfRFBHckhGN01rOFpja3M1UFBwZXQ0cWRUQXRwS2Q4MkdqVXJnd0d4ODBQdzc5RnFSRnBXY2Z6QjJUVFdNeXdIRC16M0VRaFBFN1AtWElvEgQaAggAGvQFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAzgUIABAAGAAgAComCgdkaXNwdXRlFZMvR0AaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBUlUuA9GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZRMjVnTUw0MUEyZzRxemUtWjRrU2U0UE5Ga0RNRkpnT0ozT0xON1ZLQmRFcDNXYjd5N095TUZNWFB6M3UwX2YxOUZsd2lSZzRQUTFZTDFySFMySFlvdkJfRFBHckhGN01rOFpja3M1UFBwZXQ0cWRUQXRwS2Q4MkdqVXJnd0d4ODBQdzc5RnFSRnBXY2Z6QjJUVFdNeXdIRC16M0VRaFBFN1AtWElvOj08Yj5EaXNwdXRlPC9iPiBSZXNvbHV0aW9uIE92ZXJ2aWV3IC0gQW1lcmljYW4gQmFyIEFzc29jaWF0aW9uQqwBV2hhdCBpcyA8Yj5EaXNwdXRlPC9iPiBSZXNvbHV0aW9uPyA8Yj5EaXNwdXRlPC9iPiByZXNvbHV0aW9uIGlzIGEgdGVybSB0aGF0IHJlZmVycyB0byBhIG51bWJlciBvZiBwcm9jZXNzZXMgdGhhdCBjYW4gYmUgdXNlZCB0byByZXNvbHZlIGEgY29uZmxpY3QsIDxiPmRpc3B1dGU8L2I-IG9yIGNsYWltLlIDbmV3IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZRMjVnTUw0MUEyZzRxemUtWjRrU2U0UE5Ga0RNRkpnT0ozT0xON1ZLQmRFcDNXYjd5N095TUZNWFB6M3UwX2YxOUZsd2lSZzRQUTFZTDFySFMySFlvdkJfRFBHckhGN01rOFpja3M1UFBwZXQ0cWRUQXRwS2Q4MkdqVXJnd0d4ODBQdzc5RnFSRnBXY2Z6QjJUVFdNeXdIRC16M0VRaFBFN1AtWElvEgQaAggAGvQFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAzgUIABAAGAAgAComCgdkaXNwdXRlFZMvR0AaCGRpc3B1dGVzGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KnwKCWFwcG9pbnRlZBUlUuA9GgdhcHBvaW50GgthcHBvaW50bWVudBoIYXBwb2ludHMaCGFzc2lnbmVkGgpkZXNpZ25hdGVkGgdlbGVjdGVkGgVuYW1lZBoJbm9taW5hdGVkGglyZWNydWl0ZWQaDml2O3A7YXBwb2ludGVkMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZRMjVnTUw0MUEyZzRxemUtWjRrU2U0UE5Ga0RNRkpnT0ozT0xON1ZLQmRFcDNXYjd5N095TUZNWFB6M3UwX2YxOUZsd2lSZzRQUTFZTDFySFMySFlvdkJfRFBHckhGN01rOFpja3M1UFBwZXQ0cWRUQXRwS2Q4MkdqVXJnd0d4ODBQdzc5RnFSRnBXY2Z6QjJUVFdNeXdIRC16M0VRaFBFN1AtWElvOj08Yj5EaXNwdXRlPC9iPiBSZXNvbHV0aW9uIE92ZXJ2aWV3IC0gQW1lcmljYW4gQmFyIEFzc29jaWF0aW9uQqwBV2hhdCBpcyA8Yj5EaXNwdXRlPC9iPiBSZXNvbHV0aW9uPyA8Yj5EaXNwdXRlPC9iPiByZXNvbHV0aW9uIGlzIGEgdGVybSB0aGF0IHJlZmVycyB0byBhIG51bWJlciBvZiBwcm9jZXNzZXMgdGhhdCBjYW4gYmUgdXNlZCB0byByZXNvbHZlIGEgY29uZmxpY3QsIDxiPmRpc3B1dGU8L2I-IG9yIGNsYWltLlIDbmV3IgIQAUgAWABoAA",
+      "source": "American Bar Association",
+      "read_more_link": "https://www.americanbar.org/groups/dispute_resolution/resources/overview/#:~:text=What%20is%20Dispute%20Resolution%3F,a%20conflict%2C%20dispute%20or%20claim."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=10&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8NMDegQIPhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=10&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=20&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=30&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAI",
+      "5": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=40&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAK",
+      "6": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=50&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAM",
+      "7": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=60&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAO",
+      "8": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=70&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAQ",
+      "9": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=80&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAS",
+      "10": "https://www.google.com/search?q=dispute+escalating+newly+appointed+before:2026-01-01&sca_esv=71d1dbb7a0502d97&ei=9WqzavCcH_zb5NoPoNnVyAY&start=90&sa=N&sstk=AS6-VmLitHk5BUhmS4H1jLUoxfSl0Irai7aSIGDlnfnZcjQCRZgNpkGoYA-7K7I8NBA49wAO1PyER5AO3jsIm5JRFitHIM1p2MTkzA&ved=2ahUKEwiw68KWg4SXAxX8LVkFHaBsFWkQ8tMDegQIPhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dispute+escalating+newly+appointed+before%3A2026-01-01&start=90"
+    }
+  }
+}

@@ -181,4 +181,41 @@ def compare_event_details(source, target, source_index, target_index):
             )
         )
 
+    # ---------------------------------------------------------
+    # 6. Named Entities changed
+    # ---------------------------------------------------------
+    
+    source_entities = _set(source, "entities")
+    target_entities = _set(target, "entities")
+    
+    added_entities = target_entities - source_entities
+    if added_entities:
+        changes.append(
+            ChangeSignal(
+                category="new_entity",
+                label="new entities mentioned",
+                description=(
+                    f"The later reporting introduces new entities: {', '.join(added_entities)}."
+                ),
+                source_event_index=source_index,
+                target_event_index=target_index,
+                severity="medium", # Triggers DEVELOPING
+            )
+        )
+        
+    removed_entities = source_entities - target_entities
+    if removed_entities:
+        changes.append(
+            ChangeSignal(
+                category="omitted_entity",
+                label="entities dropped",
+                description=(
+                    f"The later reporting drops mention of: {', '.join(removed_entities)}."
+                ),
+                source_event_index=source_index,
+                target_event_index=target_index,
+                severity="low", # Triggers DEVELOPING
+            )
+        )
+
     return changes

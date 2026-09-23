@@ -10,6 +10,8 @@ class ClaimAnalysis:
     claim_type: str
     entities: list[str]
     keywords: list[str]
+    news_topic: str
+    trends_topic: str
 
 
 @dataclass
@@ -64,7 +66,6 @@ def extract_entities(claim: str) -> list[str]:
     entities = []
 
     # Basic proper-name detection.
-    # This is intentionally simple for version 1.
     matches = re.findall(
         r"\b[A-Z][a-zA-Z0-9]*(?:\s+[A-Z][a-zA-Z0-9]*){0,3}",
         claim,
@@ -78,6 +79,93 @@ def extract_entities(claim: str) -> list[str]:
                 entities.append(cleaned)
 
     return entities[:8]
+
+
+def extract_trends_topic(entities: list[str], keywords: list[str]) -> str:
+    """
+    Broad topic for Google Trends — uses the core NOUN content of the claim.
+    Strips action verbs ('announced', 'replace', 'approved') since they produce
+    zero Trends data. Domain nouns come FIRST so the historical topic
+    anchors the search rather than a new specific actor.
+    """
+    VERB_NOISE = {
+        'announced', 'announce', 'replaced', 'replace', 'approved', 'approve',
+        'introduced', 'introduce', 'launched', 'launch', 'dismissed', 'dismiss',
+        'escalating', 'escalate', 'appointed', 'appoint', 'dispute', 'disputing',
+        'clashing', 'clash', 'newly', 'officially', 'groundbreaking', 'massive',
+        'just', 'will', 'start', 'getting', 'really', 'claim', 'claims',
+        'new', 'actually', 'officially', 'increasing', 'starting', 'also',
+        'governor', 'minister', 'president', 'chairman', 'secretary',
+        # Generic nouns that pollute Trends searches
+        'product', 'products', 'service', 'services', 'issue', 'issues',
+        'leadership', 'governance', 'management', 'company', 'companies',
+        'sector', 'banks', 'notes', 'teams', 'members', 'board', 'legal',
+        'simultaneously', 'launching', 'duo', 'trio', 'decision',
+    }
+
+    # Entity words to deduplicate
+    entity_words = set()
+    for e in entities:
+        for w in e.lower().split():
+            entity_words.add(w)
+
+    # Domain nouns: keywords NOT in entity words and NOT verbs
+    # These are the most searchable content words (e.g. "currency", "merger", "polymer")
+    noun_kws = [
+        kw for kw in keywords
+        if kw not in VERB_NOISE and kw not in entity_words and len(kw) > 3
+    ]
+
+    # Entity brand/org tokens as supplementary (e.g. "Apple", "Tata", "RBI")
+    org_tokens = []
+    for e in entities[:2]:
+        e_clean = re.sub(r'^(The|A|An)\s+', '', e, flags=re.IGNORECASE)
+        count = 0
+        for word in e_clean.split():
+            if word.lower() not in VERB_NOISE and len(word) >= 3:
+                org_tokens.append(word)
+                count += 1
+                if count >= 2:  # Take up to 2 words per entity (e.g. "Tata Trusts", "Apple Vision")
+                    break
+
+    # Domain nouns first, then org tokens
+    combined = []
+    seen = set()
+    for tok in noun_kws[:3] + org_tokens:
+        if tok.lower() not in seen:
+            seen.add(tok.lower())
+            combined.append(tok)
+
+    return ' '.join(combined[:5])[:80]
+
+
+
+def extract_news_topic(entities: list[str], keywords: list[str]) -> str:
+    """
+    Specific topic for Google News — entities + domain nouns.
+    Includes WHO (entity names) so News finds this exact event.
+    """
+    VERB_NOISE = {
+        'announced', 'announce', 'replaced', 'replace', 'approved', 'approve',
+        'introduced', 'introduce', 'launched', 'launch', 'dismissed', 'dismiss',
+        'escalating', 'escalate', 'appointed', 'appoint', 'dispute', 'disputing',
+        'just', 'will', 'start', 'getting', 'really', 'claim', 'claims', 'new',
+        'actually', 'officially', 'massive', 'groundbreaking', 'huge'
+    }
+    entity_words = set()
+    for e in entities:
+        for w in e.lower().split():
+            entity_words.add(w)
+
+    filtered_kws = [kw for kw in keywords if kw not in entity_words and kw not in VERB_NOISE]
+
+    core_parts = []
+    for e in entities[:2]:
+        e_clean = re.sub(r'^(The|A|An)\s+', '', e, flags=re.IGNORECASE)
+        core_parts.append(e_clean)
+
+    core_parts.extend(filtered_kws[:3])
+    return ' '.join(core_parts)[:100]
 
 
 def detect_claim_type(claim: str) -> str:
@@ -144,24 +232,26 @@ def detect_claim_type(claim: str) -> str:
 
 def analyze_claim(claim: str) -> ClaimAnalysis:
     normalized = normalize_claim(claim)
+    entities = extract_entities(normalized)
+    keywords = extract_keywords(normalized)
 
     return ClaimAnalysis(
         original_claim=claim,
         normalized_claim=normalized,
         claim_type=detect_claim_type(normalized),
-        entities=extract_entities(normalized),
-        keywords=extract_keywords(normalized),
+        entities=entities,
+        keywords=keywords,
+        news_topic=extract_news_topic(entities, keywords),
+        trends_topic=extract_trends_topic(entities, keywords)
     )
 
 
 def build_search_plan(claim: str) -> list[SearchQuery]:
     analysis = analyze_claim(claim)
 
-    topic = " ".join(analysis.keywords[:6])
-
     plan = [
         SearchQuery(
-            query=analysis.normalized_claim,
+            query=analysis.news_topic,
             engine="google_news",
             purpose="current_news",
         ),
@@ -171,17 +261,17 @@ def build_search_plan(claim: str) -> list[SearchQuery]:
             purpose="exact_claim",
         ),
         SearchQuery(
-            query=f"{topic} before:{datetime.now().year}-01-01",
+            query=f"{analysis.trends_topic} before:{datetime.now().year}-01-01",
             engine="google",
             purpose="historical_search",
         ),
         SearchQuery(
-            query=f"{topic} {datetime.now().year - 1}",
+            query=f"{analysis.trends_topic} {datetime.now().year - 1}",
             engine="google",
             purpose="historical_context",
         ),
         SearchQuery(
-            query=f"{topic} new update",
+            query=f"{analysis.news_topic} new update",
             engine="google_news",
             purpose="new_event_check",
         ),
@@ -190,14 +280,14 @@ def build_search_plan(claim: str) -> list[SearchQuery]:
     if analysis.claim_type == "research":
         plan.append(
             SearchQuery(
-                query=topic,
+                query=analysis.trends_topic,
                 engine="google_scholar",
                 purpose="scholar_research",
             )
         )
         plan.append(
             SearchQuery(
-                query=topic,
+                query=analysis.trends_topic,
                 engine="google_patents",
                 purpose="patent_research",
             )

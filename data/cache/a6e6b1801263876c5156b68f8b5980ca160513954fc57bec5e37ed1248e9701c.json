@@ -1,0 +1,499 @@
+{
+  "search_metadata": {
+    "id": "6ab365ee32f11d9fc108b9a3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/nHFjtXfwfNKD3MI_kj94Ct0IGpCeu6LTErgT7nnPAf8/6ab365ee32f11d9fc108b9a3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/nHFjtXfwfNKD3MI_kj94Ct0IGpCeu6LTErgT7nnPAf8/6ab365ee32f11d9fc108b9a3.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/nHFjtXfwfNKD3MI_kj94Ct0IGpCeu6LTErgT7nnPAf8/6ab365ee32f11d9fc108b9a3.json_with_pixel_position",
+    "created_at": "2026-09-23 05:38:54 UTC",
+    "processed_at": "2026-09-23 05:38:54 UTC",
+    "google_url": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&oq=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/nHFjtXfwfNKD3MI_kj94Ct0IGpCeu6LTErgT7nnPAf8/6ab365ee32f11d9fc108b9a3.html",
+    "total_time_taken": 0.84
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "massive magnitude earthquake struck coast hokkaido 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "massive magnitude earthquake struck coast hokkaido 2025",
+    "total_results": 130,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "„🚨 Japan Rocked by Strong Earthquake off Hokkaido – May 31 ...“, autorius: Above The Norm News sistemoje „Facebook“. Paleisti per „Facebook“. 1:17",
+      "source": "Facebook",
+      "profile_name": "Above The Norm News",
+      "extensions": [
+        "Above The Norm News"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "1:17",
+      "thumbnail": "https://serpapi.com/searches/6ab365ee32f11d9fc108b9a3/images/CKaHdv3cdiSjvUXDgJnU5ksArtpeVNi7gm02piR7hvs.jpeg",
+      "link": "https://www.facebook.com/Abovethenormnews/videos/-japan-rocked-by-strong-earthquake-off-hokkaido-may-31-2025-a-powerful-magnitude/1249636066741017/"
+    },
+    {
+      "position": 2,
+      "title": "„8.12.2025 Japan, Hokkaido 🇯🇵 A massive M7.6 quake off ...“, autorius: Дмитрий Ребров sistemoje „Facebook“. Paleisti per „Facebook“. 0:15",
+      "source": "Facebook",
+      "profile_name": "Дмитрий Ребров",
+      "extensions": [
+        "Дмитрий Ребров"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:15",
+      "thumbnail": "https://serpapi.com/searches/6ab365ee32f11d9fc108b9a3/images/dPSgtPR2jLRwlI4-MVfy9c2oR5x6TWa_gPZbKckqPT8.jpeg",
+      "link": "https://www.facebook.com/World.Climat.News/videos/8122025-japan-hokkaido-a-massive-m76-quake-off-aomori-triggered-tsunami-alerts-u/2064132987679903/"
+    },
+    {
+      "position": 3,
+      "title": "„Huge waves are seen reaching the coastline of Hokkaido in ...“, autorius: Al Arabiya English sistemoje „Facebook“. Paleisti per „Facebook“. 1:00",
+      "source": "Facebook",
+      "profile_name": "Al Arabiya English",
+      "extensions": [
+        "Al Arabiya English"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "1:00",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS9lwB6tVXmUQdCjqtJjHYL7Mru7MTWCkttTg",
+      "thumbnail": "https://serpapi.com/searches/6ab365ee32f11d9fc108b9a3/images/iy0BhBrQXX71Jebnp-J2Nh18Pv4espirWV8QsJFEudI.jpeg",
+      "link": "https://www.facebook.com/alarabiya.english/videos/large-waves-hit-hokkaido-coastline-amid-tsunami-evacuation-order/762257336196943/"
+    },
+    {
+      "position": 4,
+      "title": "„Moment a A 5.9 magnitude earthquake shook the Tokyo region ...“, autorius: The Independent sistemoje „Facebook“. Paleisti per „Facebook“. 1:17",
+      "source": "Facebook",
+      "profile_name": "The Independent",
+      "extensions": [
+        "The Independent"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "1:17",
+      "thumbnail": "https://serpapi.com/searches/6ab365ee32f11d9fc108b9a3/images/Su7IRbJcngwi5336OgXTQWsEd1QJlIuimO28PpNcwks.jpeg",
+      "link": "https://www.facebook.com/TheIndependentOnline/videos/moment-a-a-59-magnitude-earthquake-shook-the-tokyo-region-in-japan/1047257388019411/"
+    },
+    {
+      "position": 5,
+      "title": "„A 7.6-magnitude earthquake struck off Japan's northern coast ...“, autorius: TRT World sistemoje „Facebook“. Paleisti per „Facebook“. 0:19",
+      "source": "Facebook",
+      "profile_name": "TRT World",
+      "extensions": [
+        "TRT World"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:19",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSHyu4ya2wYykAl4FkOz3DRLKx5c-Qcy1pywfcJ3j8jpB1nT639yn2Pw&s=10",
+      "link": "https://www.facebook.com/trtworld/videos/a-76-magnitude-earthquake-struck-off-japans-northern-coast-on-december-8-accordi/873567868958704/"
+    },
+    {
+      "position": 6,
+      "title": "„🌊🌏 M5.4 Earthquake Hits Pacific Ocean Off Hokkaido, Japan A ...“, autorius: Above The Norm News sistemoje „Facebook“. Paleisti per „Facebook“. 0:29",
+      "source": "Facebook",
+      "profile_name": "Above The Norm News",
+      "extensions": [
+        "Above The Norm News"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:29",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDCs9_x6rXS0IC-1LeIqV3eU2ENDTRURdqLWOhF3XATd_rsPhzbCqAtc&s=10",
+      "link": "https://www.facebook.com/Abovethenormnews/videos/-m54-earthquake-hits-pacific-ocean-off-hokkaido-japana-magnitude-54-earthquake-s/2048449375731970/"
+    },
+    {
+      "position": 7,
+      "title": "„People in Hokkaido take no chances during Tsunami warning“, autorius: NHK WORLD-JAPAN sistemoje „Facebook“. Paleisti per „Facebook“. 0:24",
+      "source": "Facebook",
+      "profile_name": "NHK WORLD-JAPAN",
+      "extensions": [
+        "NHK WORLD-JAPAN"
+      ],
+      "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "duration": "0:24",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiYzjgIeIvo-30TWOc1C9RhHRbBIPoZRRWDC9Ah1Sewpz_fd5chXA0RNY&s=10",
+      "link": "https://www.facebook.com/nhkworld/videos/people-in-hokkaido-take-no-chances-during-tsunami-warning/1186010120216202/"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Was there a 7.1 earthquake in Japan today?",
+      "type": "ai_overview",
+      "page_token": "TjBdtXicHZDdTsIwAEbjy3gpa_kxISEmQwZbpNiuP1tvTNcyGNvaIoMhd76LT-XTSHyB75zzff80la1_Hy77rvOn6WDQ9_3Tzrlds33Srh2o05fVA62aplC6nk6eJ-Cl1LPFOQ7nxzjEzHv-SgIa4W7bSJq2wVBlbJRS8pbSaLW1xq6tERyaVr1Kabis2RKcmTWUAdlhxiWhyLE6eac0qSgnGwyvRyncDYtdn9r9niwXIBc-3mRJgG7Ep1E0yiEYceZzxXylhLTpCql06Q9pEEAMQaA5G6_hNUY0LBFAZ9xGYzMHVdEk5b0FKHjqVOTGOkvElsnszi9RQIY8u2-ChCz2elhwM8kzDvNAXtCBuLxuMBJJS24hKa6uwozc9KFpWevunkmkeDhnC7TU1iBUj6WoYygYYMWKb0z_WOrLbPj4_-fso2y7qf90uz8cMIMi",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TjBdtXicHZDdTsIwAEbjy3gpa_kxISEmQwZbpNiuP1tvTNcyGNvaIoMhd76LT-XTSHyB75zzff80la1_Hy77rvOn6WDQ9_3Tzrlds33Srh2o05fVA62aplC6nk6eJ-Cl1LPFOQ7nxzjEzHv-SgIa4W7bSJq2wVBlbJRS8pbSaLW1xq6tERyaVr1Kabis2RKcmTWUAdlhxiWhyLE6eac0qSgnGwyvRyncDYtdn9r9niwXIBc-3mRJgG7Ep1E0yiEYceZzxXylhLTpCql06Q9pEEAMQaA5G6_hNUY0LBFAZ9xGYzMHVdEk5b0FKHjqVOTGOkvElsnszi9RQIY8u2-ChCz2elhwM8kzDvNAXtCBuLxuMBJJS24hKa6uwozc9KFpWevunkmkeDhnC7TU1iBUj6WoYygYYMWKb0z_WOrLbPj4_-fso2y7qf90uz8cMIMi",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJXYXMgdGhlcmUgYSA3LjEgZWFydGhxdWFrZSBpbiBKYXBhbiB0b2RheT8iLCJsayI6IkdpbDNZWE1nZEdobGNtVWdZU0EzTGpFZ1pXRnlkR2h4ZFdGclpTQnBiaUJxWVhCaGJpQjBiMlJoZVEiLCJicyI6ImMtT0s1TklLVHl4V0tNbElMVXBWU0ZRdzF6TlVTRTBzS3Nrb0xFM01UbFhJekZQd1NpeEl6Rk1veVU5SnJMUTMwcGJTTE1lck9ndWhtc3VYU3dYWmFFczlBMnhHMnh1cFNpbVg0MVVITnBUTG5VdlJBNjRzS1RVMUQ2alcwQUJGc2IyUmtwUkNCZ0ZGWFA1Y3FwN0ZVSC1sVmhTa0pwZGs1cVVEMWVXbXBpZWlHS1ltcFpKWkRQVVNIb1VDakFBIiwiaWQiOiJmY183bVd6YXV2Y0ZvNjRoYklQNWJmRzBRb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJXYXMgdGhlcmUgYSA3LjEgZWFydGhxdWFrZSBpbiBKYXBhbiB0b2RheT8iLCJsayI6IkdpbDNZWE1nZEdobGNtVWdZU0EzTGpFZ1pXRnlkR2h4ZFdGclpTQnBiaUJxWVhCaGJpQjBiMlJoZVEiLCJicyI6ImMtT0s1TklLVHl4V0tNbElMVXBWU0ZRdzF6TlVTRTBzS3Nrb0xFM01UbFhJekZQd1NpeEl6Rk1veVU5SnJMUTMwcGJTTE1lck9ndWhtc3VYU3dYWmFFczlBMnhHMnh1cFNpbVg0MVVITnBUTG5VdlJBNjRzS1RVMUQ2alcwQUJGc2IyUmtwUkNCZ0ZGWFA1Y3FwN0ZVSC1sVmhTa0pwZGs1cVVEMWVXbXBpZWlHS1ltcFpKWkRQVVNIb1VDakFBIiwiaWQiOiJmY183bVd6YXV2Y0ZvNjRoYklQNWJmRzBRb181In0%3D"
+    },
+    {
+      "question": "Was there a 9.0 earthquake in Japan?",
+      "type": "ai_overview",
+      "page_token": "WhESl3icHdBdToNAFEDhuJk-Wn6kapPGBJhWUUAG5g7Mi4GZtlguDGhbat_ci6tyNTa-n-RLzvcPvnfN79Wx3u_7z_l0Oo7j9VbrLa6vpW6n5edXJ6eyRKxK2cxntzPzYSMX5PDkesOTm7C-B58aGTl1lGCoPHPI_CVhy9qrVmCngLHoIqY4HkJwy6hToFAVHKVNsQ4r06XUokfBnZuCBZoZd3ZmayPOxXAp4pDsMfbhkT-KtmT0WRg1T7japZYirBOCndVLuqI6ztyWQ-2Ii8dXAQuJ81oimIorQRvzBs4qKrIgFFhbkEdRmPcmtOiW1v2rZDhAC96aO6S0cVBL6pJa2hWoWZGDVRjiGO2oLhpMIh609OzS6qTfE0bPcoctY6YlrCAXiJsU-lEx8ISP6RqVs2anJPObkxgnG3lc2JP_n4u3Tbuf9x96-weS3INS",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WhESl3icHdBdToNAFEDhuJk-Wn6kapPGBJhWUUAG5g7Mi4GZtlguDGhbat_ci6tyNTa-n-RLzvcPvnfN79Wx3u_7z_l0Oo7j9VbrLa6vpW6n5edXJ6eyRKxK2cxntzPzYSMX5PDkesOTm7C-B58aGTl1lGCoPHPI_CVhy9qrVmCngLHoIqY4HkJwy6hToFAVHKVNsQ4r06XUokfBnZuCBZoZd3ZmayPOxXAp4pDsMfbhkT-KtmT0WRg1T7japZYirBOCndVLuqI6ztyWQ-2Ii8dXAQuJ81oimIorQRvzBs4qKrIgFFhbkEdRmPcmtOiW1v2rZDhAC96aO6S0cVBL6pJa2hWoWZGDVRjiGO2oLhpMIh609OzS6qTfE0bPcoctY6YlrCAXiJsU-lEx8ISP6RqVs2anJPObkxgnG3lc2JP_n4u3Tbuf9x96-weS3INS",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJXYXMgdGhlcmUgYSA5LjAgZWFydGhxdWFrZSBpbiBKYXBhbj8iLCJsayI6IkdpTjNZWE1nZEdobGNtVWdZU0E1TGpBZ1pXRnlkR2h4ZFdGclpTQnBiaUJxWVhCaGJnIiwiYnMiOiJjLU9LNU5JS1R5eFdLTWxJTFVwVlNGUXcxek5VU0Uwc0tza29MRTNNVGxYSXpGUHdTaXhJekZNb3lVOUpyTFEzMHBiU0xNZXJPZ3VobXN1WFN3WFphRXM5QTJ4RzJ4dXBTaW1YNDFVSE5wVExuVXZSQTY0c0tUVTFENmpXMEFCRnNiMlJrcFJDQmdGRlhQNWNxcDdGVUgtbFZoU2tKcGRrNXFVRDFlV21waWVpR0tZbXBaSlpEUFVTSG9VQ2pBQSIsImlkIjoiZmNfN21XemF1dmNGbzY0aGJJUDViZkcwUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJXYXMgdGhlcmUgYSA5LjAgZWFydGhxdWFrZSBpbiBKYXBhbj8iLCJsayI6IkdpTjNZWE1nZEdobGNtVWdZU0E1TGpBZ1pXRnlkR2h4ZFdGclpTQnBiaUJxWVhCaGJnIiwiYnMiOiJjLU9LNU5JS1R5eFdLTWxJTFVwVlNGUXcxek5VU0Uwc0tza29MRTNNVGxYSXpGUHdTaXhJekZNb3lVOUpyTFEzMHBiU0xNZXJPZ3VobXN1WFN3WFphRXM5QTJ4RzJ4dXBTaW1YNDFVSE5wVExuVXZSQTY0c0tUVTFENmpXMEFCRnNiMlJrcFJDQmdGRlhQNWNxcDdGVUgtbFZoU2tKcGRrNXFVRDFlV21waWVpR0tZbXBaSlpEUFVTSG9VQ2pBQSIsImlkIjoiZmNfN21XemF1dmNGbzY0aGJJUDViZkcwUW9fNSJ9"
+    },
+    {
+      "question": "Has there been a 10.0 earthquake?",
+      "type": "ai_overview",
+      "page_token": "kEHWGHicHdBRbpswAABQ9TL5bMBWMiVSVImEJKDUiw22wT8T2BAKNnZXEih_u8tOtdOs6gXex_vzV7_13b-nRzMM7mO7XI7j-Hyz9qarZ2nNsvj47OVSFlqXhey26x9r_6WWu_AeBfv3KMDUOXYgXgKDOu0xvDDHeRdHl0z4CW2u5ax47m98dVKIgulOtI4ScBsFU7ZqmcbeinPdDF9GX5xiRjwxl2c35TMaebhBaTgZCdxdsXBVnYR9ZQFNewtL4HISDjXWYkyyaJQHcRH-ERLjN-S4gczE76hvxhz464q-zgiyK2IWINbUvHet6mMiuLoW3qYQnHBK5SRPx5m3FCRAkbCRsGRqnWcM5J54oJbYvNMY8diQOSDlZN8wJbNstaEGXYuUweTs6vKgj1XnOOWrDGdq_zMVHIXMYLyo5WMHF9-fu1-1Gbbut739B9YphHU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kEHWGHicHdBRbpswAABQ9TL5bMBWMiVSVImEJKDUiw22wT8T2BAKNnZXEih_u8tOtdOs6gXex_vzV7_13b-nRzMM7mO7XI7j-Hyz9qarZ2nNsvj47OVSFlqXhey26x9r_6WWu_AeBfv3KMDUOXYgXgKDOu0xvDDHeRdHl0z4CW2u5ax47m98dVKIgulOtI4ScBsFU7ZqmcbeinPdDF9GX5xiRjwxl2c35TMaebhBaTgZCdxdsXBVnYR9ZQFNewtL4HISDjXWYkyyaJQHcRH-ERLjN-S4gczE76hvxhz464q-zgiyK2IWINbUvHet6mMiuLoW3qYQnHBK5SRPx5m3FCRAkbCRsGRqnWcM5J54oJbYvNMY8diQOSDlZN8wJbNstaEGXYuUweTs6vKgj1XnOOWrDGdq_zMVHIXMYLyo5WMHF9-fu1-1Gbbut739B9YphHU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJIYXMgdGhlcmUgYmVlbiBhIDEwLjAgZWFydGhxdWFrZT8iLCJsayI6IkdpQm9ZWE1nZEdobGNtVWdZbVZsYmlCaElERXdMakFnWldGeWRHaHhkV0ZyWlEiLCJicyI6ImMtT0s1TklLVHl4V0tNbElMVXBWU0ZRdzF6TlVTRTBzS3Nrb0xFM01UbFhJekZQd1NpeEl6Rk1veVU5SnJMUTMwcGJTTE1lck9ndWhtc3VYU3dYWmFFczlBMnhHMnh1cFNpbVg0MVVITnBUTG5VdlJBNjRzS1RVMUQ2alcwQUJGc2IyUmtwUkNCZ0ZGWFA1Y3FwN0ZVSC1sVmhTa0pwZGs1cVVEMWVXbXBpZWlHS1ltcFpKWkRQVVNIb1VDakFBIiwiaWQiOiJmY183bVd6YXV2Y0ZvNjRoYklQNWJmRzBRb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJIYXMgdGhlcmUgYmVlbiBhIDEwLjAgZWFydGhxdWFrZT8iLCJsayI6IkdpQm9ZWE1nZEdobGNtVWdZbVZsYmlCaElERXdMakFnWldGeWRHaHhkV0ZyWlEiLCJicyI6ImMtT0s1TklLVHl4V0tNbElMVXBWU0ZRdzF6TlVTRTBzS3Nrb0xFM01UbFhJekZQd1NpeEl6Rk1veVU5SnJMUTMwcGJTTE1lck9ndWhtc3VYU3dYWmFFczlBMnhHMnh1cFNpbVg0MVVITnBUTG5VdlJBNjRzS1RVMUQ2alcwQUJGc2IyUmtwUkNCZ0ZGWFA1Y3FwN0ZVSC1sVmhTa0pwZGs1cVVEMWVXbXBpZWlHS1ltcFpKWkRQVVNIb1VDakFBIiwiaWQiOiJmY183bVd6YXV2Y0ZvNjRoYklQNWJmRzBRb181In0%3D"
+    },
+    {
+      "question": "Is Japan expecting a mega earthquake?",
+      "type": "ai_overview",
+      "page_token": "V-pVLXicHdBRboIwGADg7DI-TsDJNhOzhAlOZ38E2wJ9WUpBkFaogoK-7S471U6zZN8Rvu8fdajl78O17Drdzsbjvu8fi6YpVP4omuOYt7dajAVXKuVCzuxn23zbi7l7WTnvp5UTEK3pIjR2GFqIi5uwhhJHaMjdQSWxs4Sd8eSTogf35SY-wNqQ1kCVGgQObsjQO1FnF2TqBkdZiyx1ojFlTIWrVA6XKGI7JrtrFOk7kuUZlmsWyezEscP5hHEiYcmN8kDMEhB2tmAGA5oEHTeyDcVenKi1HZKuhgXdUrK2iYd6sJjOMeVUgYctT-aLwuAxTHM5JEzqM1rST5-UtVuKSUozO4mplRjsClXYJFIFEK2P4d0J06E5BCS8i0odSeVB6po2rsVUmHSF3dAilcPBzXyfvt59TFUQjPbiOp-M_j_nX_tjN9PnpvgD-aSE9g",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=V-pVLXicHdBRboIwGADg7DI-TsDJNhOzhAlOZ38E2wJ9WUpBkFaogoK-7S471U6zZN8Rvu8fdajl78O17Drdzsbjvu8fi6YpVP4omuOYt7dajAVXKuVCzuxn23zbi7l7WTnvp5UTEK3pIjR2GFqIi5uwhhJHaMjdQSWxs4Sd8eSTogf35SY-wNqQ1kCVGgQObsjQO1FnF2TqBkdZiyx1ojFlTIWrVA6XKGI7JrtrFOk7kuUZlmsWyezEscP5hHEiYcmN8kDMEhB2tmAGA5oEHTeyDcVenKi1HZKuhgXdUrK2iYd6sJjOMeVUgYctT-aLwuAxTHM5JEzqM1rST5-UtVuKSUozO4mplRjsClXYJFIFEK2P4d0J06E5BCS8i0odSeVB6po2rsVUmHSF3dAilcPBzXyfvt59TFUQjPbiOp-M_j_nX_tjN9PnpvgD-aSE9g",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJJcyBKYXBhbiBleHBlY3RpbmcgYSBtZWdhIGVhcnRocXVha2U/IiwibGsiOiJHaVJwY3lCcVlYQmhiaUJsZUhCbFkzUnBibWNnWVNCdFpXZGhJR1ZoY25Sb2NYVmhhMlUiLCJicyI6ImMtT0s1TklLVHl4V0tNbElMVXBWU0ZRdzF6TlVTRTBzS3Nrb0xFM01UbFhJekZQd1NpeEl6Rk1veVU5SnJMUTMwcGJTTE1lck9ndWhtc3VYU3dYWmFFczlBMnhHMnh1cFNpbVg0MVVITnBUTG5VdlJBNjRzS1RVMUQ2alcwQUJGc2IyUmtwUkNCZ0ZGWFA1Y3FwN0ZVSC1sVmhTa0pwZGs1cVVEMWVXbXBpZWlHS1ltcFpKWkRQVVNIb1VDakFBIiwiaWQiOiJmY183bVd6YXV2Y0ZvNjRoYklQNWJmRzBRb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVEwNDRYMlJQVmpsYWIzWmZRa0pNUVdWbGVVaDVNVkpWYjNsUGNYbEtaalJsTlRsVVgybEJaVTV5YzA4NGRVMUZNa0ZHTTFwNmVrSndhWE5FZFhaSU9Hd3djMkpvWkhGelpEVTNNMU52Um5GdldqbENTazVLWm1aR1p4SVhOMjFYZW1GMWRtTkdielkwYUdKSlVEVmlaa2N3VVc4YUlrRkVjM0k1WmxOQ1drNW1jMGR3T1ZvM2JsQm1jMDU1YzFKVlgweHZhR0poVlhjIiwiZmN2IjoiMyIsImVpIjoiN21XemF1dmNGbzY0aGJJUDViZkcwUW8iLCJxYyI6IkNqZHRZWE56YVhabElHMWhaMjVwZEhWa1pTQmxZWEowYUhGMVlXdGxJSE4wY25WamF5QmpiMkZ6ZENCb2IydHJZV2xrYnlBeU1ESTFFQUI5VnZ3cVB3IiwicXVlc3Rpb24iOiJJcyBKYXBhbiBleHBlY3RpbmcgYSBtZWdhIGVhcnRocXVha2U%2FIiwibGsiOiJHaVJwY3lCcVlYQmhiaUJsZUhCbFkzUnBibWNnWVNCdFpXZGhJR1ZoY25Sb2NYVmhhMlUiLCJicyI6ImMtT0s1TklLVHl4V0tNbElMVXBWU0ZRdzF6TlVTRTBzS3Nrb0xFM01UbFhJekZQd1NpeEl6Rk1veVU5SnJMUTMwcGJTTE1lck9ndWhtc3VYU3dYWmFFczlBMnhHMnh1cFNpbVg0MVVITnBUTG5VdlJBNjRzS1RVMUQ2alcwQUJGc2IyUmtwUkNCZ0ZGWFA1Y3FwN0ZVSC1sVmhTa0pwZGs1cVVEMWVXbXBpZWlHS1ltcFpKWkRQVVNIb1VDakFBIiwiaWQiOiJmY183bVd6YXV2Y0ZvNjRoYklQNWJmRzBRb181In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Japan lifts tsunami advisory after 6.7-magnitude earthquake",
+      "link": "https://www.bbc.com/news/live/c14vpek5v0rt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAV51Qa0MdfMVESpanfwkvORMimPs20tL6xMI50vXpuz9zFIpAiiRNbDPnrWS1tGMwlNahqyasRjkLcRlEJ7N1nwdvKFBTCQ2QLJlShNbKK2CtOA3T2uYtQWulXhRe9&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.bbc.com › news › live",
+      "date": "2025-12-12",
+      "snippet": "Magnitude 7.5 earthquake hit the region days agopublished at 04:06 GMT 12 December 2025. 04:06 GMT 12 December 2025 ... The earthquake today comes ...",
+      "snippet_highlighted_words": [
+        "Magnitude",
+        "earthquake hit",
+        "2025",
+        "2025",
+        "earthquake"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Magnitude 7.5 earthquake hit the region days agopublished at 04:06 GMT 12 December 2025. 04:06 GMT 12 December 2025 ... The earthquake today comes ...",
+          "source_info_link": "https://www.bbc.com/news/live/c14vpek5v0rt",
+          "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjUxUWEwTWRmTVZFU3BhbmZ3a3ZPUk1pbVBzMjB0TDZ4TUk1MHZYcHV6OXpGSXBBaWlSTmJEUG5yV1MxdEdNd2xOYWhxeWFzUmprTGNSbEVKN04xbndkdktGQlRDUTJRTEpsU2hOYktLMkN0T0EzVDJ1WXRRV3VsWGhSZTkSBBoCCAAaxwYSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkChBggAEAAYACAAKl8KB21hc3NpdmUVAAAAABoDYmlnGgVsYXJnZRoMaXY7ZDttYXNzaXZlGghpdjtkO2JpZxoKaXY7ZDtsYXJnZRoHYmlnZ2VzdBoHbGFyZ2VzdBoGc2V2ZXJlGgVtYWpvcio3CgltYWduaXR1ZGUV0GOWQBoKbWFnbml0dWTElxoOaXY7ZDttYWduaXR1ZGUaCWl2O2Q7c2l6ZSoeCgplYXJ0aHF1YWtlFRQpqUAaC2VhcnRocXVha2VzKmIKBnN0cnVjaxWFhDlAGghoYXBwZW5lZBoDaGl0GgJpbhoIb2NjdXJyZWQaB3N0cmlrZXMaC2l2O2Q7c3RydWNrGg1pdjtkO2hhcHBlbmVkGghpdjtkO2hpdBoHaXY7ZDtpbioYCgVjb2FzdBVA9i9AGgppdjtkO2NvYXN0KikKCGhva2thaWRvFaeQMj8aCWhva2thaWTFjRoNaXY7ZDtob2trYWlkbyoWCgQyMDI1Fd2dC0AaCWl2O247MjAyNTKSAS9nb3RvP3VybD1DQUVTWWdIck96QVY1MVFhME1kZk1WRVNwYW5md2t2T1JNaW1QczIwdEw2eE1JNTB2WHB1ejl6RklwQWlpUk5iRFBucldTMXRHTXdsTmFocXlhc1Jqa0xjUmxFSjdOMW53ZHZLRkJUQ1EyUUxKbFNoTmJLSzJDdE9BM1QydVl0UVd1bFhoUmU5OkJKYXBhbiBsaWZ0cyB0c3VuYW1pIGFkdmlzb3J5IGFmdGVyIDYuNy08Yj5tYWduaXR1ZGUgZWFydGhxdWFrZTwvYj5CvgE8Yj5NYWduaXR1ZGU8L2I-IDcuNSA8Yj5lYXJ0aHF1YWtlIGhpdDwvYj4gdGhlIHJlZ2lvbiBkYXlzIGFnb3B1Ymxpc2hlZCBhdCAwNDowNiBHTVQgMTIgRGVjZW1iZXIgPGI-MjAyNTwvYj4uIDA0OjA2IEdNVCAxMiBEZWNlbWJlciA8Yj4yMDI1PC9iPiAuLi4gVGhlIDxiPmVhcnRocXVha2U8L2I-IHRvZGF5IGNvbWVzJm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjUxUWEwTWRmTVZFU3BhbmZ3a3ZPUk1pbVBzMjB0TDZ4TUk1MHZYcHV6OXpGSXBBaWlSTmJEUG5yV1MxdEdNd2xOYWhxeWFzUmprTGNSbEVKN04xbndkdktGQlRDUTJRTEpsU2hOYktLMkN0T0EzVDJ1WXRRV3VsWGhSZTkSBBoCCAAaxwYSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkChBggAEAAYACAAKl8KB21hc3NpdmUVAAAAABoDYmlnGgVsYXJnZRoMaXY7ZDttYXNzaXZlGghpdjtkO2JpZxoKaXY7ZDtsYXJnZRoHYmlnZ2VzdBoHbGFyZ2VzdBoGc2V2ZXJlGgVtYWpvcio3CgltYWduaXR1ZGUV0GOWQBoKbWFnbml0dWTElxoOaXY7ZDttYWduaXR1ZGUaCWl2O2Q7c2l6ZSoeCgplYXJ0aHF1YWtlFRQpqUAaC2VhcnRocXVha2VzKmIKBnN0cnVjaxWFhDlAGghoYXBwZW5lZBoDaGl0GgJpbhoIb2NjdXJyZWQaB3N0cmlrZXMaC2l2O2Q7c3RydWNrGg1pdjtkO2hhcHBlbmVkGghpdjtkO2hpdBoHaXY7ZDtpbioYCgVjb2FzdBVA9i9AGgppdjtkO2NvYXN0KikKCGhva2thaWRvFaeQMj8aCWhva2thaWTFjRoNaXY7ZDtob2trYWlkbyoWCgQyMDI1Fd2dC0AaCWl2O247MjAyNTKSAS9nb3RvP3VybD1DQUVTWWdIck96QVY1MVFhME1kZk1WRVNwYW5md2t2T1JNaW1QczIwdEw2eE1JNTB2WHB1ejl6RklwQWlpUk5iRFBucldTMXRHTXdsTmFocXlhc1Jqa0xjUmxFSjdOMW53ZHZLRkJUQ1EyUUxKbFNoTmJLSzJDdE9BM1QydVl0UVd1bFhoUmU5OkJKYXBhbiBsaWZ0cyB0c3VuYW1pIGFkdmlzb3J5IGFmdGVyIDYuNy08Yj5tYWduaXR1ZGUgZWFydGhxdWFrZTwvYj5CvgE8Yj5NYWduaXR1ZGU8L2I-IDcuNSA8Yj5lYXJ0aHF1YWtlIGhpdDwvYj4gdGhlIHJlZ2lvbiBkYXlzIGFnb3B1Ymxpc2hlZCBhdCAwNDowNiBHTVQgMTIgRGVjZW1iZXIgPGI-MjAyNTwvYj4uIDA0OjA2IEdNVCAxMiBEZWNlbWJlciA8Yj4yMDI1PC9iPiAuLi4gVGhlIDxiPmVhcnRocXVha2U8L2I-IHRvZGF5IGNvbWVzJm5ic3A7Li4uUgJpbiICEAFIAFgAaAA",
+      "source": "BBC"
+    },
+    {
+      "position": 2,
+      "title": "2025 Aomori earthquake",
+      "link": "https://en.wikipedia.org/wiki/2025_Aomori_earthquake",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVJQkuyz2ZCq9WyoW3TxjFye9SSzLay8DqXi8J0jkIIbG0_baJXjaB0bhVqkZsBPsORNkcAnrsz8WBpIaiVGZJ14xWhe7jRdSnbXQYSOo-YU1FZGV83CHdmIL9-EjUPh5kZia4y_Mgrw&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › 20...",
+      "snippet": "On 8 December 2025, at 23:15:10 JST (14:15:10 UTC), a Mw 7.6 earthquake struck in the Pacific Ocean off the coast of Aomori Prefecture, Sanriku, Japan.",
+      "snippet_highlighted_words": [
+        "Mw 7.6 earthquake struck in the Pacific Ocean off the coast of Aomori Prefecture"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Tectonic setting",
+            "link": "https://en.wikipedia.org/wiki/2025_Aomori_earthquake#Tectonic_setting"
+          },
+          {
+            "title": "Earthquake",
+            "link": "https://en.wikipedia.org/wiki/2025_Aomori_earthquake#Earthquake"
+          },
+          {
+            "title": "Tsunami",
+            "link": "https://en.wikipedia.org/wiki/2025_Aomori_earthquake#Tsunami"
+          },
+          {
+            "title": "Impact",
+            "link": "https://en.wikipedia.org/wiki/2025_Aomori_earthquake#Impact"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "On 8 December 2025, at 23:15:10 JST (14:15:10 UTC), a Mw 7.6 earthquake struck in the Pacific Ocean off the coast of Aomori Prefecture, Sanriku, Japan.",
+          "source_info_link": "https://en.wikipedia.org/wiki/2025_Aomori_earthquake",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkpRa3V5ejJaQ3E5V3lvVzNUeGpGeWU5U1N6TGF5OERxWGk4SjBqa0lJYkcwX2JhSlhqYUIwYmhWcWtac0JQc09STmtjQW5yc3o4V0JwSWFpVkdaSjE0eFdoZTdqUmRTbmJYUVlTT28tWVUxRlpHVjgzQ0hkbUlMOS1FalVQaDVrWmlhNHlfTWdydxIEGgIIABqjBhICCAAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQP0FCAAQABgAIAAqXwoHbWFzc2l2ZRUAAAAAGgNiaWcaBWxhcmdlGgxpdjtkO21hc3NpdmUaCGl2O2Q7YmlnGgppdjtkO2xhcmdlGgdiaWdnZXN0GgdsYXJnZXN0GgZzZXZlcmUaBW1ham9yKjcKCW1hZ25pdHVkZRUcbKo-GgptYWduaXR1ZMSXGg5pdjtkO21hZ25pdHVkZRoJaXY7ZDtzaXplKh4KCmVhcnRocXVha2UV1_eWQBoLZWFydGhxdWFrZXMqYgoGc3RydWNrFXGkhz8aCGhhcHBlbmVkGgNoaXQaAmluGghvY2N1cnJlZBoHc3RyaWtlcxoLaXY7ZDtzdHJ1Y2saDWl2O2Q7aGFwcGVuZWQaCGl2O2Q7aGl0GgdpdjtkO2luKhgKBWNvYXN0FULs2j8aCml2O2Q7Y29hc3QqKQoIaG9ra2FpZG8V0-PUPxoJaG9ra2FpZMWNGg1pdjtkO2hva2thaWRvKhYKBDIwMjUVzbyBQBoJaXY7bjsyMDI1MqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkpRa3V5ejJaQ3E5V3lvVzNUeGpGeWU5U1N6TGF5OERxWGk4SjBqa0lJYkcwX2JhSlhqYUIwYmhWcWtac0JQc09STmtjQW5yc3o4V0JwSWFpVkdaSjE0eFdoZTdqUmRTbmJYUVlTT28tWVUxRlpHVjgzQ0hkbUlMOS1FalVQaDVrWmlhNHlfTWdydzowPGI-MjAyNTwvYj4gQW9tb3JpIDxiPmVhcnRocXVha2U8L2I-IC0gV2lraXBlZGlhQp4BT24gOCBEZWNlbWJlciAyMDI1LCBhdCAyMzoxNToxMCBKU1QgKDE0OjE1OjEwIFVUQyksIGEgPGI-TXcgNy42IGVhcnRocXVha2Ugc3RydWNrIGluIHRoZSBQYWNpZmljIE9jZWFuIG9mZiB0aGUgY29hc3Qgb2YgQW9tb3JpIFByZWZlY3R1cmU8L2I-LCBTYW5yaWt1LCBKYXBhbi5SAmluIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkpRa3V5ejJaQ3E5V3lvVzNUeGpGeWU5U1N6TGF5OERxWGk4SjBqa0lJYkcwX2JhSlhqYUIwYmhWcWtac0JQc09STmtjQW5yc3o4V0JwSWFpVkdaSjE0eFdoZTdqUmRTbmJYUVlTT28tWVUxRlpHVjgzQ0hkbUlMOS1FalVQaDVrWmlhNHlfTWdydxIEGgIIABqjBhICCAAaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQP0FCAAQABgAIAAqXwoHbWFzc2l2ZRUAAAAAGgNiaWcaBWxhcmdlGgxpdjtkO21hc3NpdmUaCGl2O2Q7YmlnGgppdjtkO2xhcmdlGgdiaWdnZXN0GgdsYXJnZXN0GgZzZXZlcmUaBW1ham9yKjcKCW1hZ25pdHVkZRUcbKo-GgptYWduaXR1ZMSXGg5pdjtkO21hZ25pdHVkZRoJaXY7ZDtzaXplKh4KCmVhcnRocXVha2UV1_eWQBoLZWFydGhxdWFrZXMqYgoGc3RydWNrFXGkhz8aCGhhcHBlbmVkGgNoaXQaAmluGghvY2N1cnJlZBoHc3RyaWtlcxoLaXY7ZDtzdHJ1Y2saDWl2O2Q7aGFwcGVuZWQaCGl2O2Q7aGl0GgdpdjtkO2luKhgKBWNvYXN0FULs2j8aCml2O2Q7Y29hc3QqKQoIaG9ra2FpZG8V0-PUPxoJaG9ra2FpZMWNGg1pdjtkO2hva2thaWRvKhYKBDIwMjUVzbyBQBoJaXY7bjsyMDI1MqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVkpRa3V5ejJaQ3E5V3lvVzNUeGpGeWU5U1N6TGF5OERxWGk4SjBqa0lJYkcwX2JhSlhqYUIwYmhWcWtac0JQc09STmtjQW5yc3o4V0JwSWFpVkdaSjE0eFdoZTdqUmRTbmJYUVlTT28tWVUxRlpHVjgzQ0hkbUlMOS1FalVQaDVrWmlhNHlfTWdydzowPGI-MjAyNTwvYj4gQW9tb3JpIDxiPmVhcnRocXVha2U8L2I-IC0gV2lraXBlZGlhQp4BT24gOCBEZWNlbWJlciAyMDI1LCBhdCAyMzoxNToxMCBKU1QgKDE0OjE1OjEwIFVUQyksIGEgPGI-TXcgNy42IGVhcnRocXVha2Ugc3RydWNrIGluIHRoZSBQYWNpZmljIE9jZWFuIG9mZiB0aGUgY29hc3Qgb2YgQW9tb3JpIFByZWZlY3R1cmU8L2I-LCBTYW5yaWt1LCBKYXBhbi5SAmluIgIQAUgAWABoAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Powerful 7.5-magnitude earthquake strikes Japan's northeast",
+      "link": "https://www.reuters.com/business/environment/japan-warns-3-metre-high-tsunami-after-magnitude-72-earthquake-2025-12-08/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFcNHruQRys23hdvWZCPgwpGLSJbNyszN49qK6U3UMD8_P2Yway0lIJkqXbfG4krVbMvqUHHMOCHKP9CBSu7AXnV8a-DzEgcPZ0NjDN97fspVNaFnSOh3jThqgmfux4CN4trJlfbdYZOlGGwI3GOU3FKlpptE4cF49YgwE0CgVLL_JefXVmqDQwofnGWC7gG-ogGl7NIc_ud7P1W1R0HMLgJakLV1Iq2aFHJt&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.reuters.com › business",
+      "date": "2025-12-08",
+      "snippet": "A powerful 7.5-magnitude earthquake shook northeastern Japan late on Monday, prompting orders for about 90000 residents to evacuate and ...",
+      "snippet_highlighted_words": [
+        "magnitude earthquake"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A powerful 7.5-magnitude earthquake shook northeastern Japan late on Monday, prompting orders for about 90000 residents to evacuate and ...",
+          "source_info_link": "https://www.reuters.com/business/environment/japan-warns-3-metre-high-tsunami-after-magnitude-72-earthquake-2025-12-08/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcBAMAAABi_9neAAAAMFBMVEVHcEzWQADWQADWQADWQADWQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQAAMYMgbAAAAEHRSTlMAcv8VN8ac8yFO6Aey2oVbn-X8aAAAAOtJREFUeAE1ziFMAgEAQNEHAJ4Dxg2LNrzhmEwRbbabwWJhBEa82QNj2hnRZNbi3OxnMEhiBHuxOoJ9FIMmrxD_fnmARliIAQxNxrN9gGLk4b5xAGAP89bbCAwBy2NwCxh0AObhJXc3gMdZvwHflFty7YAgUYp6aidZIljZimKVmCug-AU-QW4Fp7RBte-1Z7KQAizHnhNAYer6yTsvIN-0ncIvKC-geggEIbtctBkh31XvcHbETsV5pgu6BGvkV4N4CtSjWG76gxQZvA_UmlCLkhTkEqh81KPeJqAUhY0w3wLI7mS8uUj9rYF_OuYuZknO4GoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZjTkhydVFSeXMyM2hkdldaQ1Bnd3BHTFNKYk55c3pONDlxSzZVM1VNRDhfUDJZd2F5MGxJSmtxWGJmRzRrclZiTXZxVUhITU9DSEtQOUNCU3U3QVhuVjhhLUR6RWdjUFowTmpETjk3ZnNwVk5hRm5TT2gzalRocWdtZnV4NENONHRySmxmYmRZWk9sR0d3STNHT1UzRktscHB0RTRjRjQ5WWd3RTBDZ1ZMTF9KZWZYVm1xRFF3b2ZuR1dDN2dHLW9nR2w3TkljX3VkN1AxVzFSMEhNTGdKYWtMVjFJcTJhRkhKdBIEGgIIABqMBxICCAEaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQOYGCAAQABgAIAAqXwoHbWFzc2l2ZRVV4go_GgNiaWcaBWxhcmdlGgxpdjtkO21hc3NpdmUaCGl2O2Q7YmlnGgppdjtkO2xhcmdlGgdiaWdnZXN0GgdsYXJnZXN0GgZzZXZlcmUaBW1ham9yKjcKCW1hZ25pdHVkZRXOoItAGgptYWduaXR1ZMSXGg5pdjtkO21hZ25pdHVkZRoJaXY7ZDtzaXplKh4KCmVhcnRocXVha2UVoM-gQBoLZWFydGhxdWFrZXMqYgoGc3RydWNrFQLAsz8aCGhhcHBlbmVkGgNoaXQaAmluGghvY2N1cnJlZBoHc3RyaWtlcxoLaXY7ZDtzdHJ1Y2saDWl2O2Q7aGFwcGVuZWQaCGl2O2Q7aGl0GgdpdjtkO2luKhgKBWNvYXN0FU0tAUAaCml2O2Q7Y29hc3QqKQoIaG9ra2FpZG8VzG-0PxoJaG9ra2FpZMWNGg1pdjtkO2hva2thaWRvKhYKBDIwMjUVK5Z2PxoJaXY7bjsyMDI1MvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZjTkhydVFSeXMyM2hkdldaQ1Bnd3BHTFNKYk55c3pONDlxSzZVM1VNRDhfUDJZd2F5MGxJSmtxWGJmRzRrclZiTXZxVUhITU9DSEtQOUNCU3U3QVhuVjhhLUR6RWdjUFowTmpETjk3ZnNwVk5hRm5TT2gzalRocWdtZnV4NENONHRySmxmYmRZWk9sR0d3STNHT1UzRktscHB0RTRjRjQ5WWd3RTBDZ1ZMTF9KZWZYVm1xRFF3b2ZuR1dDN2dHLW9nR2w3TkljX3VkN1AxVzFSMEhNTGdKYWtMVjFJcTJhRkhKdDpGUG93ZXJmdWwgNy41LTxiPm1hZ25pdHVkZSBlYXJ0aHF1YWtlIHN0cmlrZXM8L2I-IEphcGFuJiMzOTtzIG5vcnRoZWFzdEKXAUEgcG93ZXJmdWwgNy41LTxiPm1hZ25pdHVkZSBlYXJ0aHF1YWtlPC9iPiBzaG9vayBub3J0aGVhc3Rlcm4gSmFwYW4gbGF0ZSBvbiBNb25kYXksIHByb21wdGluZyBvcmRlcnMgZm9yIGFib3V0IDkwMDAwIHJlc2lkZW50cyB0byBldmFjdWF0ZSBhbmQmbmJzcDsuLi5SAmluIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZjTkhydVFSeXMyM2hkdldaQ1Bnd3BHTFNKYk55c3pONDlxSzZVM1VNRDhfUDJZd2F5MGxJSmtxWGJmRzRrclZiTXZxVUhITU9DSEtQOUNCU3U3QVhuVjhhLUR6RWdjUFowTmpETjk3ZnNwVk5hRm5TT2gzalRocWdtZnV4NENONHRySmxmYmRZWk9sR0d3STNHT1UzRktscHB0RTRjRjQ5WWd3RTBDZ1ZMTF9KZWZYVm1xRFF3b2ZuR1dDN2dHLW9nR2w3TkljX3VkN1AxVzFSMEhNTGdKYWtMVjFJcTJhRkhKdBIEGgIIABqMBxICCAEaACIAKgAyBggCEgJsdDoAQgQIAhAVSgBaAHIAegCCQOYGCAAQABgAIAAqXwoHbWFzc2l2ZRVV4go_GgNiaWcaBWxhcmdlGgxpdjtkO21hc3NpdmUaCGl2O2Q7YmlnGgppdjtkO2xhcmdlGgdiaWdnZXN0GgdsYXJnZXN0GgZzZXZlcmUaBW1ham9yKjcKCW1hZ25pdHVkZRXOoItAGgptYWduaXR1ZMSXGg5pdjtkO21hZ25pdHVkZRoJaXY7ZDtzaXplKh4KCmVhcnRocXVha2UVoM-gQBoLZWFydGhxdWFrZXMqYgoGc3RydWNrFQLAsz8aCGhhcHBlbmVkGgNoaXQaAmluGghvY2N1cnJlZBoHc3RyaWtlcxoLaXY7ZDtzdHJ1Y2saDWl2O2Q7aGFwcGVuZWQaCGl2O2Q7aGl0GgdpdjtkO2luKhgKBWNvYXN0FU0tAUAaCml2O2Q7Y29hc3QqKQoIaG9ra2FpZG8VzG-0PxoJaG9ra2FpZMWNGg1pdjtkO2hva2thaWRvKhYKBDIwMjUVK5Z2PxoJaXY7bjsyMDI1MvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZjTkhydVFSeXMyM2hkdldaQ1Bnd3BHTFNKYk55c3pONDlxSzZVM1VNRDhfUDJZd2F5MGxJSmtxWGJmRzRrclZiTXZxVUhITU9DSEtQOUNCU3U3QVhuVjhhLUR6RWdjUFowTmpETjk3ZnNwVk5hRm5TT2gzalRocWdtZnV4NENONHRySmxmYmRZWk9sR0d3STNHT1UzRktscHB0RTRjRjQ5WWd3RTBDZ1ZMTF9KZWZYVm1xRFF3b2ZuR1dDN2dHLW9nR2w3TkljX3VkN1AxVzFSMEhNTGdKYWtMVjFJcTJhRkhKdDpGUG93ZXJmdWwgNy41LTxiPm1hZ25pdHVkZSBlYXJ0aHF1YWtlIHN0cmlrZXM8L2I-IEphcGFuJiMzOTtzIG5vcnRoZWFzdEKXAUEgcG93ZXJmdWwgNy41LTxiPm1hZ25pdHVkZSBlYXJ0aHF1YWtlPC9iPiBzaG9vayBub3J0aGVhc3Rlcm4gSmFwYW4gbGF0ZSBvbiBNb25kYXksIHByb21wdGluZyBvcmRlcnMgZm9yIGFib3V0IDkwMDAwIHJlc2lkZW50cyB0byBldmFjdWF0ZSBhbmQmbmJzcDsuLi5SAmluIgIQAUgAWABoAA",
+      "source": "Reuters"
+    },
+    {
+      "position": 4,
+      "title": "Japan rattled by 7.5-magnitude earthquake, tsunami ...",
+      "link": "https://www.cnn.com/2025/12/08/asia/tsunami-warning-japan-earthquake-intl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFb7STHtPCm8oSNGgo9ksbWH-o-3JOJNdG_OGLapymkSIcWlsIosC379nJEuwSSG_XKo6QV-S9mD_nCLCSrbpTfPulwTqYaBNDf9FIwCxFCgs9Yb1y26FVMNyAohZEgbFNS4NNGqPEV-MHa3PRjyEUAyHbwTf0YoJPtoFldc&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://www.cnn.com › asia › tsuna...",
+      "date": "2025-12-08",
+      "snippet": "A magnitude-7.5 earthquake struck off Japan's northeastern coast on Monday, injuring more than two dozen people and prompting authorities to ...",
+      "snippet_highlighted_words": [
+        "magnitude",
+        "earthquake struck",
+        "coast"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A magnitude-7.5 earthquake struck off Japan's northeastern coast on Monday, injuring more than two dozen people and prompting authorities to ...",
+          "source_info_link": "https://www.cnn.com/2025/12/08/asia/tsunami-warning-japan-earthquake-intl",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIF_qoQifkn9UAb7XkgBqfeUizk7pORr4NL2f9AA_uKslHi7ADhPu7QhAcYyiFpZzpZvrgsR3O7mJ_t_PtGmLP_1FcPyiLbbSThf2_wyNuiPMR_Al5TFP4Ds8Vn_maNhWOUCxPwXOpXP39w7jo_4RNj-YeaLDuW0JRUN8Mvw-VpMOir-JH2t_cZXiLj9_IuLxVBf_pMh6Gpiki7FnD0L-BT_tb2Fdj8X_gjuMO-PV3CMaUV-5eLzuThzAtO4zccLOKti6xZCMmL2yor9jn7pH0ys1JQn2yJnej9XbwqH0ZxNNbe92Z4DpPnbaO95H_8dn17CeXFyoLhWbHqYHSFC1BXDAuftw8968-sE4AAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZiN1NUSHRQQ204b1NOR2dvOWtzYldILW8tM0pPSk5kR19PR0xhcHlta1NJY1dsc0lvc0MzNzluSkV1d1NTR19YS282UVYtUzltRF9uQ0xDU3JicFRmUHVsd1RxWWFCTkRmOUZJd0N4RkNnczlZYjF5MjZGVk1OeUFvaFpFZ2JGTlM0Tk5HcVBFVi1NSGEzUFJqeUVVQXlIYndUZjBZb0pQdG9GbGRjEgQaAggAGuUGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAvwYIABAAGAAgACpfCgdtYXNzaXZlFQAAAAAaA2JpZxoFbGFyZ2UaDGl2O2Q7bWFzc2l2ZRoIaXY7ZDtiaWcaCml2O2Q7bGFyZ2UaB2JpZ2dlc3QaB2xhcmdlc3QaBnNldmVyZRoFbWFqb3IqNwoJbWFnbml0dWRlFZ10XUAaCm1hZ25pdHVkxJcaDml2O2Q7bWFnbml0dWRlGglpdjtkO3NpemUqHgoKZWFydGhxdWFrZRUUcYxAGgtlYXJ0aHF1YWtlcypiCgZzdHJ1Y2sVQ3BYPxoIaGFwcGVuZWQaA2hpdBoCaW4aCG9jY3VycmVkGgdzdHJpa2VzGgtpdjtkO3N0cnVjaxoNaXY7ZDtoYXBwZW5lZBoIaXY7ZDtoaXQaB2l2O2Q7aW4qGAoFY29hc3QVro-FPxoKaXY7ZDtjb2FzdCopCghob2trYWlkbxUB91g_Gglob2trYWlkxY0aDWl2O2Q7aG9ra2FpZG8qFgoEMjAyNRW0LAlAGglpdjtuOzIwMjUyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RmI3U1RIdFBDbThvU05HZ285a3NiV0gtby0zSk9KTmRHX09HTGFweW1rU0ljV2xzSW9zQzM3OW5KRXV3U1NHX1hLbzZRVi1TOW1EX25DTENTcmJwVGZQdWx3VHFZYUJORGY5Rkl3Q3hGQ2dzOVliMXkyNkZWTU55QW9oWkVnYkZOUzROTkdxUEVWLU1IYTNQUmp5RVVBeUhid1RmMFlvSlB0b0ZsZGM6RUphcGFuIHJhdHRsZWQgYnkgNy41LTxiPm1hZ25pdHVkZSBlYXJ0aHF1YWtlPC9iPiwgdHN1bmFtaSB3YXJuaW5nIC4uLkKuAUEgPGI-bWFnbml0dWRlPC9iPi03LjUgPGI-ZWFydGhxdWFrZSBzdHJ1Y2s8L2I-IG9mZiBKYXBhbiYjMzk7cyBub3J0aGVhc3Rlcm4gPGI-Y29hc3Q8L2I-IG9uIE1vbmRheSwgaW5qdXJpbmcgbW9yZSB0aGFuIHR3byBkb3plbiBwZW9wbGUgYW5kIHByb21wdGluZyBhdXRob3JpdGllcyB0byZuYnNwOy4uLlICaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZiN1NUSHRQQ204b1NOR2dvOWtzYldILW8tM0pPSk5kR19PR0xhcHlta1NJY1dsc0lvc0MzNzluSkV1d1NTR19YS282UVYtUzltRF9uQ0xDU3JicFRmUHVsd1RxWWFCTkRmOUZJd0N4RkNnczlZYjF5MjZGVk1OeUFvaFpFZ2JGTlM0Tk5HcVBFVi1NSGEzUFJqeUVVQXlIYndUZjBZb0pQdG9GbGRjEgQaAggAGuUGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAvwYIABAAGAAgACpfCgdtYXNzaXZlFQAAAAAaA2JpZxoFbGFyZ2UaDGl2O2Q7bWFzc2l2ZRoIaXY7ZDtiaWcaCml2O2Q7bGFyZ2UaB2JpZ2dlc3QaB2xhcmdlc3QaBnNldmVyZRoFbWFqb3IqNwoJbWFnbml0dWRlFZ10XUAaCm1hZ25pdHVkxJcaDml2O2Q7bWFnbml0dWRlGglpdjtkO3NpemUqHgoKZWFydGhxdWFrZRUUcYxAGgtlYXJ0aHF1YWtlcypiCgZzdHJ1Y2sVQ3BYPxoIaGFwcGVuZWQaA2hpdBoCaW4aCG9jY3VycmVkGgdzdHJpa2VzGgtpdjtkO3N0cnVjaxoNaXY7ZDtoYXBwZW5lZBoIaXY7ZDtoaXQaB2l2O2Q7aW4qGAoFY29hc3QVro-FPxoKaXY7ZDtjb2FzdCopCghob2trYWlkbxUB91g_Gglob2trYWlkxY0aDWl2O2Q7aG9ra2FpZG8qFgoEMjAyNRW0LAlAGglpdjtuOzIwMjUyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RmI3U1RIdFBDbThvU05HZ285a3NiV0gtby0zSk9KTmRHX09HTGFweW1rU0ljV2xzSW9zQzM3OW5KRXV3U1NHX1hLbzZRVi1TOW1EX25DTENTcmJwVGZQdWx3VHFZYUJORGY5Rkl3Q3hGQ2dzOVliMXkyNkZWTU55QW9oWkVnYkZOUzROTkdxUEVWLU1IYTNQUmp5RVVBeUhid1RmMFlvSlB0b0ZsZGM6RUphcGFuIHJhdHRsZWQgYnkgNy41LTxiPm1hZ25pdHVkZSBlYXJ0aHF1YWtlPC9iPiwgdHN1bmFtaSB3YXJuaW5nIC4uLkKuAUEgPGI-bWFnbml0dWRlPC9iPi03LjUgPGI-ZWFydGhxdWFrZSBzdHJ1Y2s8L2I-IG9mZiBKYXBhbiYjMzk7cyBub3J0aGVhc3Rlcm4gPGI-Y29hc3Q8L2I-IG9uIE1vbmRheSwgaW5qdXJpbmcgbW9yZSB0aGFuIHR3byBkb3plbiBwZW9wbGUgYW5kIHByb21wdGluZyBhdXRob3JpdGllcyB0byZuYnNwOy4uLlICaW4iAhABSABYAGgA",
+      "source": "CNN"
+    },
+    {
+      "position": 5,
+      "title": "A 7.6-magnitude earthquake struck off Japan's northern coast ...",
+      "link": "https://www.facebook.com/trtworld/videos/a-76-magnitude-earthquake-struck-off-japans-northern-coast-on-december-8-accordi/873567868958704/",
+      "displayed_link": "Reakcijų: daugiau nei 830 · prieš 9 mėnesius",
+      "thumbnail": "https://serpapi.com/searches/6ab365ee32f11d9fc108b9a3/images/qeI9KCjMlGV4myPJNCiFH6tVCHOb2zC0RZYfLleBz-A.jpeg",
+      "snippet": "A 7.6-magnitude earthquake struck off Japan's northern coast on December 8, according to the US Geological Survey. Tsunami warnings were issued ...",
+      "duration": "0:19",
+      "about_this_result": {
+        "source": {
+          "description": "A 7.6-magnitude earthquake struck off Japan's northern coast on December 8, according to the US Geological Survey. Tsunami warnings were issued ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZRVFBLVklKRUlQanpuZjZiY1FNMWV4RTVTSGRoblhNSHdpQnZnUlItVHhRLTBrQjBtNGw3WDRHaEloZWJZalhYTkU5X1czUVdBNkNLZE5KaUJfSzcwdk0xS0d1NjVqLU1seFpWUWotSEUyM2R5cWNMdUZKSmF1elJIby1TTVhzR29ua3oxNFlpUFotYUYtbGNtNDMyOWNVNDlZY09GLVZRSWN1c3NuOU5walRmZjMwOUpkbXhKRU50UV92RWQyQ3lZOHlwOE5qeF9hcFdCQlNrX1R4eEVnVkgyRmoxZmhTQXV6Yml0Mk9XTkxZbzd4OFd3bnROS1FZOWhOZU12MBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUCL2dvdG8_dXJsPUNBRVN3d0VCNnpzd0ZRVFBLVklKRUlQanpuZjZiY1FNMWV4RTVTSGRoblhNSHdpQnZnUlItVHhRLTBrQjBtNGw3WDRHaEloZWJZalhYTkU5X1czUVdBNkNLZE5KaUJfSzcwdk0xS0d1NjVqLU1seFpWUWotSEUyM2R5cWNMdUZKSmF1elJIby1TTVhzR29ua3oxNFlpUFotYUYtbGNtNDMyOWNVNDlZY09GLVZRSWN1c3NuOU5walRmZjMwOUpkbXhKRU50UV92RWQyQ3lZOHlwOE5qeF9hcFdCQlNrX1R4eEVnVkgyRmoxZmhTQXV6Yml0Mk9XTkxZbzd4OFd3bnROS1FZOWhOZU12MBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Facebook · TRT World"
+    },
+    {
+      "position": 6,
+      "title": "Tsunami warning lifted after latest earthquake hits Japan's ...",
+      "link": "https://www.aljazeera.com/news/2025/12/12/magnitude-6-7-earthquake-hits-japans-northeast-tsunami-warning-issued",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFZ6VAshdsy9Z3PKrqgB_1yJMSczVrOJoWRSNOFdYQFVhahiPRDmJkunjv6hqz_njDL3LByoZzbV6_PBACm09CpP7zF3qT6q2g3ZjHWiubwwMoRxyFA7Unwcojhkls3qNWK5cDWXZ2qCbtw3xIVo2eIBfuXY7_EdopNvV06B4jxLb45rsu1f7dgq3HLt9W3BvJU69yjPfFd2ZcF2LkOHng7FJeQ&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://www.aljazeera.com › news",
+      "date": "2025-12-12",
+      "snippet": "The magnitude 6.7 quake struck on Friday off the coast of Aomori Prefecture at 11:44am local time (02:44 GMT) at a depth of 20km (12.4 miles), ...",
+      "snippet_highlighted_words": [
+        "magnitude",
+        "struck",
+        "coast"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The magnitude 6.7 quake struck on Friday off the coast of Aomori Prefecture at 11:44am local time (02:44 GMT) at a depth of 20km (12.4 miles), ...",
+          "source_info_link": "https://www.aljazeera.com/news/2025/12/12/magnitude-6-7-earthquake-hits-japans-northeast-tsunami-warning-issued",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0yhHA3qvDoPkgg38PVNk1qg4w8E9zkQ8gFNAAA_cj31Op65Mq2ukBCuE-lkFLrCL__lK0OLeGVcoNA1v-2zrREqIZ9x2OeYFSM2yQDNSKFz_8pspG68Q1ovv6NPFHX9UIuzCBnR7E0lJY-JZuf43-DSt2T0h9Pg6bB_CJ7XkOtRvaZmuZ6LD-MqjPwWVimy2w5ochwDVcKkegb7npAAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZaNlZBc2hkc3k5WjNQS3JxZ0JfMXlKTVNjelZyT0pvV1JTTk9GZFlRRlZoYWhpUFJEbUprdW5qdjZocXpfbmpETDNMQnlvWnpiVjZfUEJBQ20wOUNwUDd6RjNxVDZxMmczWmpIV2l1Ynd3TW9SeHlGQTdVbndjb2poa2xzM3FOV0s1Y0RXWFoycUNidHczeElWbzJlSUJmdVhZN19FZG9wTnZWMDZCNGp4TGI0NXJzdTFmN2RncTNITHQ5VzNCdkpVNjl5alBmRmQyWmNGMkxrT0huZzdGSmVREgQaAggAGpsHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA9QYIABAAGAAgACpfCgdtYXNzaXZlFSpPPT8aA2JpZxoFbGFyZ2UaDGl2O2Q7bWFzc2l2ZRoIaXY7ZDtiaWcaCml2O2Q7bGFyZ2UaB2JpZ2dlc3QaB2xhcmdlc3QaBnNldmVyZRoFbWFqb3IqNwoJbWFnbml0dWRlFSgadEAaCm1hZ25pdHVkxJcaDml2O2Q7bWFnbml0dWRlGglpdjtkO3NpemUqHgoKZWFydGhxdWFrZRVO_7pAGgtlYXJ0aHF1YWtlcypiCgZzdHJ1Y2sVYeoDQBoIaGFwcGVuZWQaA2hpdBoCaW4aCG9jY3VycmVkGgdzdHJpa2VzGgtpdjtkO3N0cnVjaxoNaXY7ZDtoYXBwZW5lZBoIaXY7ZDtoaXQaB2l2O2Q7aW4qGAoFY29hc3QVhhtLQBoKaXY7ZDtjb2FzdCopCghob2trYWlkbxWYjhs_Gglob2trYWlkxY0aDWl2O2Q7aG9ra2FpZG8qFgoEMjAyNRWxkStAGglpdjtuOzIwMjUy8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3Rlo2VkFzaGRzeTlaM1BLcnFnQl8xeUpNU2N6VnJPSm9XUlNOT0ZkWVFGVmhhaGlQUkRtSmt1bmp2Nmhxel9uakRMM0xCeW9aemJWNl9QQkFDbTA5Q3BQN3pGM3FUNnEyZzNaakhXaXVid3dNb1J4eUZBN1Vud2NvamhrbHMzcU5XSzVjRFdYWjJxQ2J0dzN4SVZvMmVJQmZ1WFk3X0Vkb3BOdlYwNkI0anhMYjQ1cnN1MWY3ZGdxM0hMdDlXM0J2SlU2OXlqUGZGZDJaY0YyTGtPSG5nN0ZKZVE6SlRzdW5hbWkgd2FybmluZyBsaWZ0ZWQgYWZ0ZXIgbGF0ZXN0IDxiPmVhcnRocXVha2U8L2I-IGhpdHMgSmFwYW4mIzM5O3MgLi4uQqwBVGhlIDxiPm1hZ25pdHVkZTwvYj4gNi43IHF1YWtlIDxiPnN0cnVjazwvYj4gb24gRnJpZGF5IG9mZiB0aGUgPGI-Y29hc3Q8L2I-IG9mIEFvbW9yaSBQcmVmZWN0dXJlIGF0IDExOjQ0YW0gbG9jYWwgdGltZSAoMDI6NDQgR01UKSBhdCBhIGRlcHRoIG9mIDIwa20gKDEyLjQgbWlsZXMpLCZuYnNwOy4uLlICaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZaNlZBc2hkc3k5WjNQS3JxZ0JfMXlKTVNjelZyT0pvV1JTTk9GZFlRRlZoYWhpUFJEbUprdW5qdjZocXpfbmpETDNMQnlvWnpiVjZfUEJBQ20wOUNwUDd6RjNxVDZxMmczWmpIV2l1Ynd3TW9SeHlGQTdVbndjb2poa2xzM3FOV0s1Y0RXWFoycUNidHczeElWbzJlSUJmdVhZN19FZG9wTnZWMDZCNGp4TGI0NXJzdTFmN2RncTNITHQ5VzNCdkpVNjl5alBmRmQyWmNGMkxrT0huZzdGSmVREgQaAggAGpsHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA9QYIABAAGAAgACpfCgdtYXNzaXZlFSpPPT8aA2JpZxoFbGFyZ2UaDGl2O2Q7bWFzc2l2ZRoIaXY7ZDtiaWcaCml2O2Q7bGFyZ2UaB2JpZ2dlc3QaB2xhcmdlc3QaBnNldmVyZRoFbWFqb3IqNwoJbWFnbml0dWRlFSgadEAaCm1hZ25pdHVkxJcaDml2O2Q7bWFnbml0dWRlGglpdjtkO3NpemUqHgoKZWFydGhxdWFrZRVO_7pAGgtlYXJ0aHF1YWtlcypiCgZzdHJ1Y2sVYeoDQBoIaGFwcGVuZWQaA2hpdBoCaW4aCG9jY3VycmVkGgdzdHJpa2VzGgtpdjtkO3N0cnVjaxoNaXY7ZDtoYXBwZW5lZBoIaXY7ZDtoaXQaB2l2O2Q7aW4qGAoFY29hc3QVhhtLQBoKaXY7ZDtjb2FzdCopCghob2trYWlkbxWYjhs_Gglob2trYWlkxY0aDWl2O2Q7aG9ra2FpZG8qFgoEMjAyNRWxkStAGglpdjtuOzIwMjUy8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3Rlo2VkFzaGRzeTlaM1BLcnFnQl8xeUpNU2N6VnJPSm9XUlNOT0ZkWVFGVmhhaGlQUkRtSmt1bmp2Nmhxel9uakRMM0xCeW9aemJWNl9QQkFDbTA5Q3BQN3pGM3FUNnEyZzNaakhXaXVid3dNb1J4eUZBN1Vud2NvamhrbHMzcU5XSzVjRFdYWjJxQ2J0dzN4SVZvMmVJQmZ1WFk3X0Vkb3BOdlYwNkI0anhMYjQ1cnN1MWY3ZGdxM0hMdDlXM0J2SlU2OXlqUGZGZDJaY0YyTGtPSG5nN0ZKZVE6SlRzdW5hbWkgd2FybmluZyBsaWZ0ZWQgYWZ0ZXIgbGF0ZXN0IDxiPmVhcnRocXVha2U8L2I-IGhpdHMgSmFwYW4mIzM5O3MgLi4uQqwBVGhlIDxiPm1hZ25pdHVkZTwvYj4gNi43IHF1YWtlIDxiPnN0cnVjazwvYj4gb24gRnJpZGF5IG9mZiB0aGUgPGI-Y29hc3Q8L2I-IG9mIEFvbW9yaSBQcmVmZWN0dXJlIGF0IDExOjQ0YW0gbG9jYWwgdGltZSAoMDI6NDQgR01UKSBhdCBhIGRlcHRoIG9mIDIwa20gKDEyLjQgbWlsZXMpLCZuYnNwOy4uLlICaW4iAhABSABYAGgA",
+      "source": "Al Jazeera"
+    },
+    {
+      "position": 7,
+      "title": "Magnitude 7.2 quake strikes off Japan's coast",
+      "link": "https://www.nbcnews.com/world/japan/japan-earthquake-tsunami-hokkaido-meteorological-agency-rcna248007",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFdBZ8p7OPA_UpY1T6-PIGPwuGby-TRuSekhyf_XI01K8b0QqXeX_jNVU1v8R1LTn7pvzQKvD_q0WoBlkYpGJeocWzxDREm9VCM0BMRxv-kUEApiCEbhG_xZCXwPDOlSfVyeE0Yz-0S8caMqYXkzdIcpjh5sMK0psMPWXGJy5O7YQNJ2OOcA0Q4obbDl-RGKRLazJXYZmyyHwtg&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQFnoECEkQAQ&uoh=1",
+      "displayed_link": "https://www.nbcnews.com › japan",
+      "date": "2025-12-08",
+      "snippet": "The Japanese Meteorological Agency said the quake struck off Hokkaido and issued an alert for a tsunami of up to 10 feet.",
+      "snippet_highlighted_words": [
+        "struck",
+        "Hokkaido"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Japanese Meteorological Agency said the quake struck off Hokkaido and issued an alert for a tsunami of up to 10 feet.",
+          "source_info_link": "https://www.nbcnews.com/world/japan/japan-earthquake-tsunami-hokkaido-meteorological-agency-rcna248007",
+          "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASocABwAPtEwtFooIigoGAEAGglsALcBQQoMIC7AeLl-s2WMbx-jQQgHKK53Lfald0A_qCtN6UQ2w-h5ToWzfNENYQAA_vYCW8uQXH1YFqvHJDn7cnlTuv20i6ngkuTlC0R7dRJ__I5xm92V-QlZlcReEt6rLVNvBs3SoCAZBjf5CL534tDZ331j0DGE_eWVEVp56yY8rwayovtOJ_Q4SFR8BtHxqrHaoKCYHelubT2Pwhm1k9rSueaBoJNWowEktZI-_-yBzeKtiy_EDZpMiKEkpASyXNnVIJjmHc6_fZemRaJnFk2qieNv97kMMkQsaCHMeYY4hrYkO4uCJbepQXSa17f03yR7hN9TvrzQnekR5nQ28a7sz93NXvnBTASuIKm9wVOY0tg5iSL84MmcFzq1agS3Ri8ft7FKU4fLBcyQAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZkQlo4cDdPUEFfVXBZMVQ2LVBJR1B3dUdieS1UUnVTZWtoeWZfWEkwMUs4YjBRcVhlWF9qTlZVMXY4UjFMVG43cHZ6UUt2RF9xMFdvQmxrWXBHSmVvY1d6eERSRW05VkNNMEJNUnh2LWtVRUFwaUNFYmhHX3haQ1h3UERPbFNmVnllRTBZei0wUzhjYU1xWVhremRJY3BqaDVzTUswcHNNUFdYR0p5NU83WVFOSjJPT2NBMFE0b2JiRGwtUkdLUkxhekpYWVpteXlId3RnEgQaAggAGvEGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAywYIABAAGAAgACpfCgdtYXNzaXZlFfbhQj4aA2JpZxoFbGFyZ2UaDGl2O2Q7bWFzc2l2ZRoIaXY7ZDtiaWcaCml2O2Q7bGFyZ2UaB2JpZ2dlc3QaB2xhcmdlc3QaBnNldmVyZRoFbWFqb3IqNwoJbWFnbml0dWRlFWzzeEAaCm1hZ25pdHVkxJcaDml2O2Q7bWFnbml0dWRlGglpdjtkO3NpemUqHgoKZWFydGhxdWFrZRX5NQ1AGgtlYXJ0aHF1YWtlcypiCgZzdHJ1Y2sVN0XGPxoIaGFwcGVuZWQaA2hpdBoCaW4aCG9jY3VycmVkGgdzdHJpa2VzGgtpdjtkO3N0cnVjaxoNaXY7ZDtoYXBwZW5lZBoIaXY7ZDtoaXQaB2l2O2Q7aW4qGAoFY29hc3QVAADQPxoKaXY7ZDtjb2FzdCopCghob2trYWlkbxWihbI_Gglob2trYWlkxY0aDWl2O2Q7aG9ra2FpZG8qFgoEMjAyNRVu5o49GglpdjtuOzIwMjUy5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmRCWjhwN09QQV9VcFkxVDYtUElHUHd1R2J5LVRSdVNla2h5Zl9YSTAxSzhiMFFxWGVYX2pOVlUxdjhSMUxUbjdwdnpRS3ZEX3EwV29CbGtZcEdKZW9jV3p4RFJFbTlWQ00wQk1SeHYta1VFQXBpQ0ViaEdfeFpDWHdQRE9sU2ZWeWVFMFl6LTBTOGNhTXFZWGt6ZEljcGpoNXNNSzBwc01QV1hHSnk1TzdZUU5KMk9PY0EwUTRvYmJEbC1SR0tSTGF6SlhZWm15eUh3dGc6UTxiPk1hZ25pdHVkZTwvYj4gNy4yIHF1YWtlIDxiPnN0cmlrZXM8L2I-IG9mZiBKYXBhbiYjMzk7cyA8Yj5jb2FzdDwvYj4gLSBOQkMgTmV3c0KHAVRoZSBKYXBhbmVzZSBNZXRlb3JvbG9naWNhbCBBZ2VuY3kgc2FpZCB0aGUgcXVha2UgPGI-c3RydWNrPC9iPiBvZmYgPGI-SG9ra2FpZG88L2I-IGFuZCBpc3N1ZWQgYW4gYWxlcnQgZm9yIGEgdHN1bmFtaSBvZiB1cCB0byAxMCBmZWV0LlICaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZkQlo4cDdPUEFfVXBZMVQ2LVBJR1B3dUdieS1UUnVTZWtoeWZfWEkwMUs4YjBRcVhlWF9qTlZVMXY4UjFMVG43cHZ6UUt2RF9xMFdvQmxrWXBHSmVvY1d6eERSRW05VkNNMEJNUnh2LWtVRUFwaUNFYmhHX3haQ1h3UERPbFNmVnllRTBZei0wUzhjYU1xWVhremRJY3BqaDVzTUswcHNNUFdYR0p5NU83WVFOSjJPT2NBMFE0b2JiRGwtUkdLUkxhekpYWVpteXlId3RnEgQaAggAGvEGEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAywYIABAAGAAgACpfCgdtYXNzaXZlFfbhQj4aA2JpZxoFbGFyZ2UaDGl2O2Q7bWFzc2l2ZRoIaXY7ZDtiaWcaCml2O2Q7bGFyZ2UaB2JpZ2dlc3QaB2xhcmdlc3QaBnNldmVyZRoFbWFqb3IqNwoJbWFnbml0dWRlFWzzeEAaCm1hZ25pdHVkxJcaDml2O2Q7bWFnbml0dWRlGglpdjtkO3NpemUqHgoKZWFydGhxdWFrZRX5NQ1AGgtlYXJ0aHF1YWtlcypiCgZzdHJ1Y2sVN0XGPxoIaGFwcGVuZWQaA2hpdBoCaW4aCG9jY3VycmVkGgdzdHJpa2VzGgtpdjtkO3N0cnVjaxoNaXY7ZDtoYXBwZW5lZBoIaXY7ZDtoaXQaB2l2O2Q7aW4qGAoFY29hc3QVAADQPxoKaXY7ZDtjb2FzdCopCghob2trYWlkbxWihbI_Gglob2trYWlkxY0aDWl2O2Q7aG9ra2FpZG8qFgoEMjAyNRVu5o49GglpdjtuOzIwMjUy5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmRCWjhwN09QQV9VcFkxVDYtUElHUHd1R2J5LVRSdVNla2h5Zl9YSTAxSzhiMFFxWGVYX2pOVlUxdjhSMUxUbjdwdnpRS3ZEX3EwV29CbGtZcEdKZW9jV3p4RFJFbTlWQ00wQk1SeHYta1VFQXBpQ0ViaEdfeFpDWHdQRE9sU2ZWeWVFMFl6LTBTOGNhTXFZWGt6ZEljcGpoNXNNSzBwc01QV1hHSnk1TzdZUU5KMk9PY0EwUTRvYmJEbC1SR0tSTGF6SlhZWm15eUh3dGc6UTxiPk1hZ25pdHVkZTwvYj4gNy4yIHF1YWtlIDxiPnN0cmlrZXM8L2I-IG9mZiBKYXBhbiYjMzk7cyA8Yj5jb2FzdDwvYj4gLSBOQkMgTmV3c0KHAVRoZSBKYXBhbmVzZSBNZXRlb3JvbG9naWNhbCBBZ2VuY3kgc2FpZCB0aGUgcXVha2UgPGI-c3RydWNrPC9iPiBvZmYgPGI-SG9ra2FpZG88L2I-IGFuZCBpc3N1ZWQgYW4gYWxlcnQgZm9yIGEgdHN1bmFtaSBvZiB1cCB0byAxMCBmZWV0LlICaW4iAhABSABYAGgA",
+      "source": "NBC News"
+    },
+    {
+      "position": 8,
+      "title": "Hokkaido Island Hits with 6.2 Magnitude Earthquake; Alert Issued",
+      "link": "https://www.youtube.com/watch?v=1doonhQ0GIk",
+      "displayed_link": "Peržiūrų: daugiau nei 16 tūkst. · prieš 4 mėnesius",
+      "thumbnail": "https://serpapi.com/searches/6ab365ee32f11d9fc108b9a3/images/qeI9KCjMlGV4myPJNCiFHzkK0uJbIA7FcBlsBoNSz5U.jpeg",
+      "snippet": "A powerful 6.2 magnitude earthquake has struck Japan's northern island of Hokkaido, shaking the region early Monday morning.",
+      "duration": "11:55:01",
+      "about_this_result": {
+        "source": {
+          "description": "A powerful 6.2 magnitude earthquake has struck Japan's northern island of Hokkaido, shaking the region early Monday morning.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjNSa1FOMXRjM0JsZXNiS0k3R1hfd3lzNTZRNTRRc18xUkdSd0lxZ3JGZEpycVVjODN6bldyM3JYTVJZWGhKYU1sR1c3dlVSdTFnS1dicGdIajBJOVBFTlU0NEdtNVZ0cHJudzNxcDEyOXhlMnVjeWxBdW9HUnljUFd6dGJVURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjNSa1FOMXRjM0JsZXNiS0k3R1hfd3lzNTZRNTRRc18xUkdSd0lxZ3JGZEpycVVjODN6bldyM3JYTVJZWGhKYU1sR1c3dlVSdTFnS1dicGdIajBJOVBFTlU0NEdtNVZ0cHJudzNxcDEyOXhlMnVjeWxBdW9HUnljUFd6dGJVURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · WION"
+    },
+    {
+      "position": 9,
+      "title": "Japan hit by quakes: What to know if you have a trip planned",
+      "link": "https://www.straitstimes.com/singapore/japan-hit-by-7-5-magnitude-earthquake-what-you-should-know-if-you-have-a-trip-planned",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStAEB6zswFcbvlWI_8kMsIpdZ6vtDMT2S_9NWKt4p1KghBlESIhRSyoyNX_F6lyMrNB3URS7PBg2_pnRQ9sESKny64dntRZy7kmBxHUt6hzC8ghp72kMDE2QFsf7dZdlKnJqclEgg1DVaEqi084MNVkePUAX8bcqmcFjNkMWgc2FNi08jW31yl1Q8P6o870G3nOWVN7sUHU3I8ZvgqHloBze8Bxn2ZlsAmuxeKlbeSbdXiIkACw0&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQFnoECEgQAQ&uoh=1",
+      "displayed_link": "https://www.straitstimes.com › japan...",
+      "date": "2025-12-09",
+      "snippet": "On Dec 12, a 6.7-magnitude quake struck off Japan's northern coast. National broadcaster NHK said that there is no tsunami damage expected after ...",
+      "snippet_highlighted_words": [
+        "magnitude",
+        "struck",
+        "coast"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On Dec 12, a 6.7-magnitude quake struck off Japan's northern coast. National broadcaster NHK said that there is no tsunami damage expected after ...",
+          "source_info_link": "https://www.straitstimes.com/singapore/japan-hit-by-7-5-magnitude-earthquake-what-you-should-know-if-you-have-a-trip-planned",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADQBQCdASocABwAPtEutFooIagoGAEAGgljAMip_-N4FvpN7vXbC2kozvm7axInRdRPhwQa8IgAAP72BhFRgRq0EP4drfLrlrEKdA0KlMDZxdF-IVfGEe8AFYIF_I0nXfZk77t0kdwNtXdjXNuNNVveJ_sVW4XPsTTfUBdiWDvEbPcryJUf0qa5s_HXW__BM1O5UP_B1Xyehm0pQE6Zln17_m-9MvINpnCGArhTWNFG5xZk9ZZwIJYcEk104sP-vSZzrvdWFBrtd8qU9YJNuCnh-hZJWq8Mjoa4LnRjkyNY_euPKa9TECyPcKdcsdrNwiY28QjHiTMVoAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoECL2dvdG8_dXJsPUNBRVN0QUVCNnpzd0ZjYnZsV0lfOGtNc0lwZFo2dnRETVQyU185TldLdDRwMUtnaEJsRVNJaFJTeW95TlhfRjZseU1yTkIzVVJTN1BCZzJfcG5SUTlzRVNLbnk2NGRudFJaeTdrbUJ4SFV0Nmh6QzhnaHA3MmtNREUyUUZzZjdkWmRsS25KcWNsRWdnMURWYUVxaTA4NE1OVmtlUFVBWDhiY3FtY0ZqTmtNV2djMkZOaTA4alczMXlsMVE4UDZvODcwRzNuT1dWTjdzVUhVM0k4WnZncUhsb0J6ZThCeG4yWmxzQW11eGVLbGJlU2JkWGlJa0FDdzASBBoCCAAaqwcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCFBwgAEAAYACAAKl8KB21hc3NpdmUV4QhSPhoDYmlnGgVsYXJnZRoMaXY7ZDttYXNzaXZlGghpdjtkO2JpZxoKaXY7ZDtsYXJnZRoHYmlnZ2VzdBoHbGFyZ2VzdBoGc2V2ZXJlGgVtYWpvcio3CgltYWduaXR1ZGUVqhGGQBoKbWFnbml0dWTElxoOaXY7ZDttYWduaXR1ZGUaCWl2O2Q7c2l6ZSoeCgplYXJ0aHF1YWtlFbM1ZEAaC2VhcnRocXVha2VzKmIKBnN0cnVjaxVqfkJAGghoYXBwZW5lZBoDaGl0GgJpbhoIb2NjdXJyZWQaB3N0cmlrZXMaC2l2O2Q7c3RydWNrGg1pdjtkO2hhcHBlbmVkGghpdjtkO2hpdBoHaXY7ZDtpbioYCgVjb2FzdBUz2RZAGgppdjtkO2NvYXN0KikKCGhva2thaWRvFRdi1j8aCWhva2thaWTFjRoNaXY7ZDtob2trYWlkbyoWCgQyMDI1FbLfCT8aCWl2O247MjAyNTKBAi9nb3RvP3VybD1DQUVTdEFFQjZ6c3dGY2J2bFdJXzhrTXNJcGRaNnZ0RE1UMlNfOU5XS3Q0cDFLZ2hCbEVTSWhSU3lveU5YX0Y2bHlNck5CM1VSUzdQQmcyX3BuUlE5c0VTS255NjRkbnRSWnk3a21CeEhVdDZoekM4Z2hwNzJrTURFMlFGc2Y3ZFpkbEtuSnFjbEVnZzFEVmFFcWkwODRNTlZrZVBVQVg4YmNxbWNGak5rTVdnYzJGTmkwOGpXMzF5bDFROFA2bzg3MEczbk9XVk43c1VIVTNJOFp2Z3FIbG9CemU4QnhuMlpsc0FtdXhlS2xiZVNiZFhpSWtBQ3cwOkNKYXBhbiA8Yj5oaXQ8L2I-IGJ5IHF1YWtlczogV2hhdCB0byBrbm93IGlmIHlvdSBoYXZlIGEgdHJpcCBwbGFubmVkQrIBT24gRGVjIDEyLCBhIDYuNy08Yj5tYWduaXR1ZGU8L2I-IHF1YWtlIDxiPnN0cnVjazwvYj4gb2ZmIEphcGFuJiMzOTtzIG5vcnRoZXJuIDxiPmNvYXN0PC9iPi4gTmF0aW9uYWwgYnJvYWRjYXN0ZXIgTkhLIHNhaWQgdGhhdCB0aGVyZSBpcyBubyB0c3VuYW1pIGRhbWFnZSBleHBlY3RlZCBhZnRlciZuYnNwOy4uLlICaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoECL2dvdG8_dXJsPUNBRVN0QUVCNnpzd0ZjYnZsV0lfOGtNc0lwZFo2dnRETVQyU185TldLdDRwMUtnaEJsRVNJaFJTeW95TlhfRjZseU1yTkIzVVJTN1BCZzJfcG5SUTlzRVNLbnk2NGRudFJaeTdrbUJ4SFV0Nmh6QzhnaHA3MmtNREUyUUZzZjdkWmRsS25KcWNsRWdnMURWYUVxaTA4NE1OVmtlUFVBWDhiY3FtY0ZqTmtNV2djMkZOaTA4alczMXlsMVE4UDZvODcwRzNuT1dWTjdzVUhVM0k4WnZncUhsb0J6ZThCeG4yWmxzQW11eGVLbGJlU2JkWGlJa0FDdzASBBoCCAAaqwcSAggAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCFBwgAEAAYACAAKl8KB21hc3NpdmUV4QhSPhoDYmlnGgVsYXJnZRoMaXY7ZDttYXNzaXZlGghpdjtkO2JpZxoKaXY7ZDtsYXJnZRoHYmlnZ2VzdBoHbGFyZ2VzdBoGc2V2ZXJlGgVtYWpvcio3CgltYWduaXR1ZGUVqhGGQBoKbWFnbml0dWTElxoOaXY7ZDttYWduaXR1ZGUaCWl2O2Q7c2l6ZSoeCgplYXJ0aHF1YWtlFbM1ZEAaC2VhcnRocXVha2VzKmIKBnN0cnVjaxVqfkJAGghoYXBwZW5lZBoDaGl0GgJpbhoIb2NjdXJyZWQaB3N0cmlrZXMaC2l2O2Q7c3RydWNrGg1pdjtkO2hhcHBlbmVkGghpdjtkO2hpdBoHaXY7ZDtpbioYCgVjb2FzdBUz2RZAGgppdjtkO2NvYXN0KikKCGhva2thaWRvFRdi1j8aCWhva2thaWTFjRoNaXY7ZDtob2trYWlkbyoWCgQyMDI1FbLfCT8aCWl2O247MjAyNTKBAi9nb3RvP3VybD1DQUVTdEFFQjZ6c3dGY2J2bFdJXzhrTXNJcGRaNnZ0RE1UMlNfOU5XS3Q0cDFLZ2hCbEVTSWhSU3lveU5YX0Y2bHlNck5CM1VSUzdQQmcyX3BuUlE5c0VTS255NjRkbnRSWnk3a21CeEhVdDZoekM4Z2hwNzJrTURFMlFGc2Y3ZFpkbEtuSnFjbEVnZzFEVmFFcWkwODRNTlZrZVBVQVg4YmNxbWNGak5rTVdnYzJGTmkwOGpXMzF5bDFROFA2bzg3MEczbk9XVk43c1VIVTNJOFp2Z3FIbG9CemU4QnhuMlpsc0FtdXhlS2xiZVNiZFhpSWtBQ3cwOkNKYXBhbiA8Yj5oaXQ8L2I-IGJ5IHF1YWtlczogV2hhdCB0byBrbm93IGlmIHlvdSBoYXZlIGEgdHJpcCBwbGFubmVkQrIBT24gRGVjIDEyLCBhIDYuNy08Yj5tYWduaXR1ZGU8L2I-IHF1YWtlIDxiPnN0cnVjazwvYj4gb2ZmIEphcGFuJiMzOTtzIG5vcnRoZXJuIDxiPmNvYXN0PC9iPi4gTmF0aW9uYWwgYnJvYWRjYXN0ZXIgTkhLIHNhaWQgdGhhdCB0aGVyZSBpcyBubyB0c3VuYW1pIGRhbWFnZSBleHBlY3RlZCBhZnRlciZuYnNwOy4uLlICaW4iAhABSABYAGgA",
+      "source": "The Straits Times"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Japan earthquake map",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Japan+earthquake+map&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japan+earthquake+map"
+    },
+    {
+      "block_position": 1,
+      "query": "Japan earthquake 2025 death toll",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Japan+earthquake+2025+death+toll&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japan+earthquake+2025+death+toll"
+    },
+    {
+      "block_position": 1,
+      "query": "Japan earthquake January 2025",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Japan+earthquake+January+2025&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japan+earthquake+January+2025"
+    },
+    {
+      "block_position": 1,
+      "query": "Japan earthquake now",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Japan+earthquake+now&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japan+earthquake+now"
+    },
+    {
+      "block_position": 1,
+      "query": "Japan earthquake today damage",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Japan+earthquake+today+damage&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japan+earthquake+today+damage"
+    },
+    {
+      "block_position": 1,
+      "query": "Earthquake in Japan tsunami warning",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Earthquake+in+Japan+tsunami+warning&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Earthquake+in+Japan+tsunami+warning"
+    },
+    {
+      "block_position": 1,
+      "query": "Japan earthquake today live",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Japan+earthquake+today+live&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japan+earthquake+today+live"
+    },
+    {
+      "block_position": 1,
+      "query": "Japan earthquake 2024",
+      "link": "https://www.google.com/search?sca_esv=71d1dbb7a0502d97&q=Japan+earthquake+2024&sa=X&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Japan+earthquake+2024"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=10&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8NMDegQIOBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=10&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=20&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=30&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=40&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=50&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=60&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=70&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAQ",
+      "9": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=80&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAS",
+      "10": "https://www.google.com/search?q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&sca_esv=71d1dbb7a0502d97&ei=7mWzauvcFo64hbIP5bfG0Qo&start=90&sa=N&sstk=AS6-VmLjzqgCs0acwaGQpT8JIw8IYiSQ8wvNu2l2pv4xVlXeBoZI7JuW24R6zMVRJeaKtRxIi-3l7QCAshh_JtH2T8DA0DS8DVnlLA&ved=2ahUKEwjri-Kw_oOXAxUOXEEAHeWbMaoQ8tMDegQIOBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=massive+magnitude+earthquake+struck+coast+hokkaido+2025&start=90"
+    }
+  }
+}

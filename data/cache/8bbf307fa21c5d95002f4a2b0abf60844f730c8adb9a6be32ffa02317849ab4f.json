@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab36b0d5c018f3602ae993d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ffDGgVR0q81ON9P9apMl5mnCmNMBVBwua3AwGMVrqIg/6ab36b0d5c018f3602ae993d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ffDGgVR0q81ON9P9apMl5mnCmNMBVBwua3AwGMVrqIg/6ab36b0d5c018f3602ae993d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ffDGgVR0q81ON9P9apMl5mnCmNMBVBwua3AwGMVrqIg/6ab36b0d5c018f3602ae993d.json_with_pixel_position",
+    "created_at": "2026-09-23 06:00:45 UTC",
+    "processed_at": "2026-09-23 06:00:45 UTC",
+    "google_url": "https://www.google.com/search?q=%22is+the+launch+of+apple+duo+true%3F%22&oq=%22is+the+launch+of+apple+duo+true%3F%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ffDGgVR0q81ON9P9apMl5mnCmNMBVBwua3AwGMVrqIg/6ab36b0d5c018f3602ae993d.html",
+    "total_time_taken": 0.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"is the launch of apple duo true?\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"is the launch of apple duo true?\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.15,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "NO5pQ3iczVbbcqJKFP2A8x3DizlyCRpNFZVqWkw6XiKOl-iLBQ00KIihMUTf5jvO6_mq8zWnQSWYUTMzD1PTVQjd7F57r957sf32r-8tF__99Y8bxyt6y_NJkpRJGBLfLuMw4A26WWLeCX0aYfeOhusI256lYDcKA5vbvCrXHKaKwNme0hivt8brw7hTgUmlG_aEamst6x0ug1BmpkHtOfPwNqf8jGc_iy_XDTYp07K9LK_ViQCjUdfQaVkSxHr5iTcCZgB-39Ah0AAgKmLP6lkjZvEjYCpDYECLwhLa7yxgTwBM8ZCezeAZZJKhpQBITTew22waySpoHbCgfjYQWPTHJqmlBjMiGVPvR9gUOKRDyzHhRetTfHYIzL12WOkU3mrgzIAfKmHI0Gugg4C7X_iQMS0szh7Tn8bOvQPkRJP7zYuRs9MZJmqlBT5NdxP0l2RPCsGY7VR5i7DKFXgzYjeR97CLs4eIpgUNB3UhbLabeNDW-sNepXLf-nuFxef6UnsadadRwmOT2fmhYdnWzJ0Jd9lclMSKUL--qV1lSsI0lxItSgm07q_rgvFyI3XK7bIqHnQE85P_kLK0FiA6QUyFe9NTOZ6r7-vvJ7_Qillo7c4kPUsJgdx_tkWv7lKdZ7WHgEoQPQpgf0_3ndLRbpCcFdkVdxpWmEdXZEaYjPIAi6w6J_X-cU1_yCNA6neGxZiQigijfRBlscAzxxpAbvpyyA65TfYKxEUMBDQdHADggWnKHN7nxLQiRa3oxmNImTDmX0Fa_S-PaY7VFBDudhxkPwS75QKZM98-ChLweFnv5wb65Dux93wQzIf6L-pGC4xFvdKr3iTzJn3o9N-0qN_FaPRcc_TTOgkD8yd6Dv6jlHToSK3s3XklpXXzqZJY8aOLHSl73nekx52SIDmrpKwlfdeRnk52pOOKgqD_rqSWerEj_byS4EUlkT3TE0piHemUkhbnlJR1pGMluTX9qCMd8X7vSLmSfqUjwV_rSJmw7N3tuD2t5-Rsm3pYxTVzNE1cHMmjdrABXn8TzKdT-8X8vE05QXwbGJZ_NfOsW1V6jDfW1YwthLe2xb0oXyTJo6XYtUu-sV5itxQ6JWO18u2StQ5LcbS275gJF_hRqAiGnDwYxg2owKq0qelWreE33a-2qZnjjuXTTpUkA62yHNm9ttyrvrjPzcUTIlM4dgfSdkJI1JCH6-GbAyN9sm0M3jav5tYjs3g1RjcA4nHPjkg7mk7a09l4NfDqwtR_FSVbXGiT7liNzf7WQdZ9Q4Ce2POT6baKssCoMg6k6vwtpk5Y4xg3aisiF0RYYWmSCejqYExYPcIJ0zIrZBiyK2FXFeiaylFszGzK_kNjQ3RMXJMromM5VpULSLxZKbLM0WWkiP8D6oNHmQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NO5pQ3iczVbbcqJKFP2A8x3DizlyCRpNFZVqWkw6XiKOl-iLBQ00KIihMUTf5jvO6_mq8zWnQSWYUTMzD1PTVQjd7F57r957sf32r-8tF__99Y8bxyt6y_NJkpRJGBLfLuMw4A26WWLeCX0aYfeOhusI256lYDcKA5vbvCrXHKaKwNme0hivt8brw7hTgUmlG_aEamst6x0ug1BmpkHtOfPwNqf8jGc_iy_XDTYp07K9LK_ViQCjUdfQaVkSxHr5iTcCZgB-39Ah0AAgKmLP6lkjZvEjYCpDYECLwhLa7yxgTwBM8ZCezeAZZJKhpQBITTew22waySpoHbCgfjYQWPTHJqmlBjMiGVPvR9gUOKRDyzHhRetTfHYIzL12WOkU3mrgzIAfKmHI0Gugg4C7X_iQMS0szh7Tn8bOvQPkRJP7zYuRs9MZJmqlBT5NdxP0l2RPCsGY7VR5i7DKFXgzYjeR97CLs4eIpgUNB3UhbLabeNDW-sNepXLf-nuFxef6UnsadadRwmOT2fmhYdnWzJ0Jd9lclMSKUL--qV1lSsI0lxItSgm07q_rgvFyI3XK7bIqHnQE85P_kLK0FiA6QUyFe9NTOZ6r7-vvJ7_Qillo7c4kPUsJgdx_tkWv7lKdZ7WHgEoQPQpgf0_3ndLRbpCcFdkVdxpWmEdXZEaYjPIAi6w6J_X-cU1_yCNA6neGxZiQigijfRBlscAzxxpAbvpyyA65TfYKxEUMBDQdHADggWnKHN7nxLQiRa3oxmNImTDmX0Fa_S-PaY7VFBDudhxkPwS75QKZM98-ChLweFnv5wb65Dux93wQzIf6L-pGC4xFvdKr3iTzJn3o9N-0qN_FaPRcc_TTOgkD8yd6Dv6jlHToSK3s3XklpXXzqZJY8aOLHSl73nekx52SIDmrpKwlfdeRnk52pOOKgqD_rqSWerEj_byS4EUlkT3TE0piHemUkhbnlJR1pGMluTX9qCMd8X7vSLmSfqUjwV_rSJmw7N3tuD2t5-Rsm3pYxTVzNE1cHMmjdrABXn8TzKdT-8X8vE05QXwbGJZ_NfOsW1V6jDfW1YwthLe2xb0oXyTJo6XYtUu-sV5itxQ6JWO18u2StQ5LcbS275gJF_hRqAiGnDwYxg2owKq0qelWreE33a-2qZnjjuXTTpUkA62yHNm9ttyrvrjPzcUTIlM4dgfSdkJI1JCH6-GbAyN9sm0M3jav5tYjs3g1RjcA4nHPjkg7mk7a09l4NfDqwtR_FSVbXGiT7liNzf7WQdZ9Q4Ce2POT6baKssCoMg6k6vwtpk5Y4xg3aisiF0RYYWmSCejqYExYPcIJ0zIrZBiyK2FXFeiaylFszGzK_kNjQ3RMXJMromM5VpULSLxZKbLM0WWkiP8D6oNHmQ"
+  }
+}

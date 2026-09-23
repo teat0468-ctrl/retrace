@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab36737bde979208035be1b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZFW59ViPTfuw9FouEz4wjjGyQYQ6qM8uD50QG10AJAs/6ab36737bde979208035be1b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ZFW59ViPTfuw9FouEz4wjjGyQYQ6qM8uD50QG10AJAs/6ab36737bde979208035be1b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ZFW59ViPTfuw9FouEz4wjjGyQYQ6qM8uD50QG10AJAs/6ab36737bde979208035be1b.json_with_pixel_position",
+    "created_at": "2026-09-23 05:44:23 UTC",
+    "processed_at": "2026-09-23 05:44:23 UTC",
+    "google_url": "https://www.google.com/search?q=%22RBI+Governor+Sanjay+Malhotra+just+announced+that+India+will+%22&oq=%22RBI+Governor+Sanjay+Malhotra+just+announced+that+India+will+%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ZFW59ViPTfuw9FouEz4wjjGyQYQ6qM8uD50QG10AJAs/6ab36737bde979208035be1b.html",
+    "total_time_taken": 0.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"RBI Governor Sanjay Malhotra just announced that India will \"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"RBI Governor Sanjay Malhotra just announced that India will \"",
+    "total_results": 0,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "z_HfaXiczVXblqI4FP2A-Y72xSrBW6G1FqtXEtEKXvFSpfXCwoBB5aKAor7Nj8zTfNV8zQRUCqvV6u6HWZMHSEKyc3bO2ew__7bmzvKfP_4yg2DlP3NcGIY56rrUMnLEtTnN3zuEm7mW7xHz-34rFjPEF_mMMRc7BeOgbdVDxyi-ljtub9ccT9ZgmYm3iOpU840FQ9wtfE7l2GP5rVhjg5yfM5zcBk545L12NMXPFfh8NdflNJstAP9dUxCQAKAQsz68uYit-BkwyBAY0DI1hU87U9gTgCI8rMQjdAOZxmgRAIbRBvZS370SBM0zFlJuBoLS57FBtFJCMZGY6fxn2KQ4RE1KMNHd1df4HBHY8dJ5pp36KoEbDX2qhBFDr4A2BuZp4lPGJDc9kqNH7Xj8DJRCqdSv342c3c4ohOUm-DLdddB36IkURgHbCTmdssrluanHXnluTkwSdzw_Kmg0rPJuvVUnw5bUH_XK5UbzcUXy46ojdV87717IkSlbZ7mabuiqqfLf43G-kC_z1aJQeYiVRPxESn5aSqDZKFZ5bS0U2rlWDubPOkLJzScpO3aiWkD4klM8hIPTims5pvBj_uPmJSmdheYJi91lAYPk_HiL8nRMdZLVHgaQ4nQpJLjRvms6OkWSkKFKXNxRWG4SXZoZZTJKAkyzal_V--c55SWJAMMfFqZjwhBTRvssygtW0cESwGb0cQQgatGTAkkaAwNJAWcAdGYaMUeNhJiUpiilj5kzpFgYiwGIqn8tRzmGESA67jjLfgSO0ykyN_59PgiBfF_vtxr-4j9xOvksmE_1n9bNizI4VKUuqsFWqVINu2u66j3O3LZV85TrOnHt6S94DvlfKensSM34220lRXXzpZJY8eO7jhT3j46kyEclIXpTSbEl_eBI3auOdFlRCPQ_lNSEdx3p15WE7iqJnpheURJzpGtKWt5SUuxIl0oyK8qFI13w_nCkREm_40jo9xwpFpZxfF3a02ZBb9pUwz4YO2nUmRaspWl3B4fySvXhu2qp5GubmtnBs63p1oM6159hQQ72-oPKJtxnQ8-sxW-FQh_ibMPdGp7jetmB5iy0fbatWaYbeFp2sfGDrOY47sYhhp4NTC3IYkefa9lwbllZtj1jW54r8pqwDZvTXStwJ4L-tvScliULNULM0FzKTjBayd5osB4Pt4fGuP0uV3R5HHarvfqTbC4nL3QyQMOisMGrurGq-WaXEBaOMKtt7b6Q36hDgoXyWrWU7ha3GsKsuHut-7XGRJWF14HUH_OlN7uLHKmxeIO1_pNXfwFxXL44ER4p1Huy3OYztkdElrkSBR0FvFFWomjC5E3BSHPZOwRK4wkoEsz4RFMNfysKeT2vT6eCxpf5gl4VMjYN9iuxVMr4jifm_wVmqkdY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=z_HfaXiczVXblqI4FP2A-Y72xSrBW6G1FqtXEtEKXvFSpfXCwoBB5aKAor7Nj8zTfNV8zQRUCqvV6u6HWZMHSEKyc3bO2ew__7bmzvKfP_4yg2DlP3NcGIY56rrUMnLEtTnN3zuEm7mW7xHz-34rFjPEF_mMMRc7BeOgbdVDxyi-ljtub9ccT9ZgmYm3iOpU840FQ9wtfE7l2GP5rVhjg5yfM5zcBk545L12NMXPFfh8NdflNJstAP9dUxCQAKAQsz68uYit-BkwyBAY0DI1hU87U9gTgCI8rMQjdAOZxmgRAIbRBvZS370SBM0zFlJuBoLS57FBtFJCMZGY6fxn2KQ4RE1KMNHd1df4HBHY8dJ5pp36KoEbDX2qhBFDr4A2BuZp4lPGJDc9kqNH7Xj8DJRCqdSv342c3c4ohOUm-DLdddB36IkURgHbCTmdssrluanHXnluTkwSdzw_Kmg0rPJuvVUnw5bUH_XK5UbzcUXy46ojdV87717IkSlbZ7mabuiqqfLf43G-kC_z1aJQeYiVRPxESn5aSqDZKFZ5bS0U2rlWDubPOkLJzScpO3aiWkD4klM8hIPTims5pvBj_uPmJSmdheYJi91lAYPk_HiL8nRMdZLVHgaQ4nQpJLjRvms6OkWSkKFKXNxRWG4SXZoZZTJKAkyzal_V--c55SWJAMMfFqZjwhBTRvssygtW0cESwGb0cQQgatGTAkkaAwNJAWcAdGYaMUeNhJiUpiilj5kzpFgYiwGIqn8tRzmGESA67jjLfgSO0ykyN_59PgiBfF_vtxr-4j9xOvksmE_1n9bNizI4VKUuqsFWqVINu2u66j3O3LZV85TrOnHt6S94DvlfKensSM34220lRXXzpZJY8eO7jhT3j46kyEclIXpTSbEl_eBI3auOdFlRCPQ_lNSEdx3p15WE7iqJnpheURJzpGtKWt5SUuxIl0oyK8qFI13w_nCkREm_40jo9xwpFpZxfF3a02ZBb9pUwz4YO2nUmRaspWl3B4fySvXhu2qp5GubmtnBs63p1oM6159hQQ72-oPKJtxnQ8-sxW-FQh_ibMPdGp7jetmB5iy0fbatWaYbeFp2sfGDrOY47sYhhp4NTC3IYkefa9lwbllZtj1jW54r8pqwDZvTXStwJ4L-tvScliULNULM0FzKTjBayd5osB4Pt4fGuP0uV3R5HHarvfqTbC4nL3QyQMOisMGrurGq-WaXEBaOMKtt7b6Q36hDgoXyWrWU7ha3GsKsuHut-7XGRJWF14HUH_OlN7uLHKmxeIO1_pNXfwFxXL44ER4p1Huy3OYztkdElrkSBR0FvFFWomjC5E3BSHPZOwRK4wkoEsz4RFMNfysKeT2vT6eCxpf5gl4VMjYN9iuxVMr4jifm_wVmqkdY"
+  }
+}

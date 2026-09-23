@@ -1,0 +1,153 @@
+{
+  "search_metadata": {
+    "id": "6ab367090676dcd4d248b6aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3IPPYA6Ah3FrHfwJWGZ04FaErmov4tzmRnOd3QMkn-8/6ab367090676dcd4d248b6aa.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3IPPYA6Ah3FrHfwJWGZ04FaErmov4tzmRnOd3QMkn-8/6ab367090676dcd4d248b6aa.md",
+    "created_at": "2026-09-23 05:43:37 UTC",
+    "processed_at": "2026-09-23 05:43:37 UTC",
+    "google_news_url": "https://news.google.com/search?q=What+actually+happened+when+the+Indian+and+Pakistani+naval+vessels+collided%3F+India+blames+Pakistan+for+the+incident%2C+while+Pakistan+strongly+denies+the+claims+and+rejects+the+allegations.",
+    "raw_html_file": "https://serpapi.com/searches/3IPPYA6Ah3FrHfwJWGZ04FaErmov4tzmRnOd3QMkn-8/6ab367090676dcd4d248b6aa.html",
+    "total_time_taken": 2.94
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "What actually happened when the Indian and Pakistani naval vessels collided? India blames Pakistan for the incident, while Pakistan strongly denies the claims and rejects the allegations."
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
+      "source": {
+        "name": "Al Jazeera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abid Hussain"
+        ]
+      },
+      "link": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/09/12811290-1789625937.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWlkVjlVY1RCRGNtbGtUakZRVFJEZ0F4aUFCU2dLTWdzRlVJeG1xR2FKeVZySFhB",
+      "date": "09/17/2026, 01:37 PM, +0000 UTC",
+      "iso_date": "2026-09-17T13:37:20Z"
+    },
+    {
+      "position": 2,
+      "title": "Tehrik-E-Taliban Pakistan Suicide Attack Kills At Least 27 in Kohat Mosque Blast: who 14 outlets blamed",
+      "source": {
+        "name": "NewsCord",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newscord.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newscord.org/article/tehrik-e-taliban-pakistan-suicide-attack-kills-at-least-27-in-kohat-mosque-blast--Story_20260918_DozensKilledInjuredi2c4fd3af",
+      "thumbnail": "https://newscord.org/_next/image?url=https%3A%2F%2Fgdb.rferl.org%2F1f331f0c-0471-4b5a-a19c-f4b910ab952c_cx0_cy10_cw0_w1200_h630.jpg&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRhVm8zYTB3dE1EZEpjbUpwVFJDUkF4ajhCU2dLTWdZQkVJcGtxQVk",
+      "date": "09/18/2026, 03:38 PM, +0000 UTC",
+      "iso_date": "2026-09-18T15:38:43Z"
+    },
+    {
+      "position": 3,
+      "title": "Indian and Pakistani warships collide at sea, adding to tensions",
+      "source": {
+        "name": "japantimes.co.jp",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.japantimes.co.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/indian-pakistani-warships-collide/",
+      "thumbnail": "https://cdnx.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/563504.jpg&q=100&f=webp&t=1.53",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXRXRvTUdwMFVtcE9lRTlNVFJERUF4aW5CU2dLTWdZQmdKZ1VyUWc",
+      "date": "09/17/2026, 02:11 AM, +0000 UTC",
+      "iso_date": "2026-09-17T02:11:00Z"
+    },
+    {
+      "position": 4,
+      "title": "India, Pakistan trade blame and protests over navy collision",
+      "source": {
+        "name": "The Star",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestar.com.my&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/17/india-pakistan-trade-blame-and-protests-over-navy-collision?tblci=GiB_2R0JRiwacd4GPVM8IoD4CR7uHI75RU2kp1JFqNpa_iDywz0onI33uNG7_rhl",
+      "thumbnail": "https://apicms.thestar.com.my/uploads/images/2026/09/17/4114957.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpkMnRYWTJOVVJHMTVTbkp0VFJDZUF4amlCU2dLTWdZTm80NXJPUVk",
+      "date": "09/17/2026, 06:19 AM, +0000 UTC",
+      "iso_date": "2026-09-17T06:19:00Z"
+    },
+    {
+      "position": 5,
+      "title": "India denies Pakistan's version of naval collision, says PNS Hunain acted 'unprofessionally'",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hritika Mitra"
+        ]
+      },
+      "link": "https://www.india.com/news/india/india-denies-pakistans-version-of-naval-collision-says-pns-hunain-acted-unprofessionally-ins-kolkata-8527326/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/09/Randhir.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVXbFkyUXkxdVYyZzBkVWwzVFJERUF4aW1CU2dLTWdhNVU1QlJKUWc",
+      "date": "09/18/2026, 12:50 PM, +0000 UTC",
+      "iso_date": "2026-09-18T12:50:17Z"
+    },
+    {
+      "position": 6,
+      "title": "Pahalgam attack: A simple guide to the Kashmir conflict",
+      "source": {
+        "name": "Al Jazeera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abid Hussain"
+        ]
+      },
+      "link": "https://www.aljazeera.com/news/2025/5/2/pahalgam-attack-a-simple-guide-to-the-kashmir-conflict",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-25T143718Z_1775153349_RC205EA57BDT_RTRMADP_3_INDIA-KASHMIR-ATTACK-1745648720.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVhaek5DVkZkcFIyTlFWME5OVFJEZ0F4aUFCU2dLTWdzQklKUURFMmt0Q1JxWGtn",
+      "date": "05/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-02T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

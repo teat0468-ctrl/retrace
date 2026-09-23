@@ -1,0 +1,158 @@
+{
+  "search_metadata": {
+    "id": "6ab365ea06ca7f6f265cef1a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/89z2JdHeMV3i_H9vSJF88Vz2R9BymHmE2CCjKo5a-cE/6ab365ea06ca7f6f265cef1a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/89z2JdHeMV3i_H9vSJF88Vz2R9BymHmE2CCjKo5a-cE/6ab365ea06ca7f6f265cef1a.md",
+    "created_at": "2026-09-23 05:38:50 UTC",
+    "processed_at": "2026-09-23 05:38:50 UTC",
+    "google_news_url": "https://news.google.com/search?q=A+massive+7.8+magnitude+earthquake+just+struck+the+coast+of+Hokkaido%2C+Japan%2C+triggering+widespread+tsunami+warnings",
+    "raw_html_file": "https://serpapi.com/searches/89z2JdHeMV3i_H9vSJF88Vz2R9BymHmE2CCjKo5a-cE/6ab365ea06ca7f6f265cef1a.html",
+    "total_time_taken": 0.91
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "A massive 7.8 magnitude earthquake just struck the coast of Hokkaido, Japan, triggering widespread tsunami warnings"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "A strong 6.1 magnitude earthquake rattled Japan's northern island of Hokkaido early Monday, US and Japanese meteorological agencies reported, the latest in a series of powerful tremors to hit the island nation. No tsunami alert was issued, and USGS predict",
+      "source": {
+        "name": "facebook.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/abscbnNEWS/posts/a-strong-61-magnitude-earthquake-rattled-japans-northern-island-of-hokkaido-earl/1488888009953117/",
+      "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1488887973286454",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWxRbXhQVlhNd1owOXdYMEU1VFJEckJCanZBeWdLTWdB",
+      "date": "04/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-26T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Major quake triggers evacuations in Hawai'i, Japan: Tsunami alerts issued for western U.S.",
+      "source": {
+        "name": "Axios",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rebecca Falconer"
+        ]
+      },
+      "link": "https://www.axios.com/2025/07/30/earthquake-russia-tsunami-warnings-hawaii-japan-evacuations",
+      "thumbnail": "https://images.axios.com/oS8Q5OlM1d67rlyhys_kD_HQ1i8=/0x1264:4644x3877/1920x1080/2025/07/30/1753883056198.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxlSEJCUzJWTU4zVk9aM2RGVFJDZkF4ampCU2dLTWdhVlo0aUoxZ00",
+      "date": "07/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-30T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "What is it about an earthquake that causes a tsunami?",
+      "source": {
+        "name": "usgs.gov",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usgs.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.usgs.gov/faqs/what-it-about-earthquake-causes-a-tsunami",
+      "thumbnail": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/IMG_0625.JPG?itok=UvJ626O9",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDNTMGhSU1U5ZmQyWjROblJpVFJEQ0FSaURBaWdCTWdNTmdBUQ",
+      "date": "10/31/2017, 05:34 AM, +0000 UTC",
+      "iso_date": "2017-10-31T05:34:05Z"
+    },
+    {
+      "position": 4,
+      "title": "Earthquake of 8.7 magnitude hits Russia, tsunami warnings in Japan, Alaska and Hawaii",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/world-news/russia-earthquake-today-powerful-8-7-earthquake-off-kamchatka-triggers-tsunami-alerts-across-pacific-coastlines/articleshow/122985805.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-122985864,width-1200,height-900,resizemode-4,imgsize-23330/earthquake-of-5-9-magnitude-jolts-tibet-triggers-regional-alert.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRVbFJHZVRWdVVXeDBaMDh4VFJEZ0F4aUFCU2dLTWdZQm80WUtUZ1E",
+      "date": "07/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-30T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Small tsunami waves strike Japan after major 7.5 mag earthquake hits the country injuring 23 & cancelling bullet trains",
+      "source": {
+        "name": "the-sun.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.the-sun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.the-sun.com/news/15607705/tsunami-alert-huge-earthquake-strikes-japan/",
+      "thumbnail": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/12/2025-triggering-tsunami-warning-coastal-1044354317.jpg?w=960",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZkRVUxYkdWZmFIZE1ZVEZGVFJERUF4aW5CU2dLTWdrUlVvWUhSbU56Q3dJ",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "10 Most Devastating Tsunamis in Recent History",
+      "source": {
+        "name": "Meteo24News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://meteo24news.gr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://meteo24news.gr/english-edition/10-most-devastating-tsunamis-in-recent-history/",
+      "date": "01/21/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-21T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Tsunami Chaos Unfolds Live: Russia & Japan Hit After Earthquake, U.S. Pacific Coasts On Alert",
+      "source": {
+        "name": "Business Connect India",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businessconnectindia.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://businessconnectindia.in/tsunami-warning-alert-news-live/",
+      "thumbnail": "https://businessconnectindia.in/wp-content/uploads/2025/07/Tsunami-Warning-Alert-News-Live-Alaska-and-Hawaii-issue-alerts-during-thestrongest-earthquake-followed-by-a-tsunami-striking-Russia-and-Japan-copy.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTRmsxYjJZdE5rTnBTMFpVVFJDZkF4ampCU2dLTWdZTlFwYnhuQWc",
+      "date": "07/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-30T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

@@ -1,0 +1,1219 @@
+{
+  "search_metadata": {
+    "id": "6ab36b8fbd173142f23f9d5c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UXGI7Pj2g1M947RX8rCI9hlC_2bDY_Kus65LD-dqusw/6ab36b8fbd173142f23f9d5c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UXGI7Pj2g1M947RX8rCI9hlC_2bDY_Kus65LD-dqusw/6ab36b8fbd173142f23f9d5c.md",
+    "created_at": "2026-09-23 06:02:55 UTC",
+    "processed_at": "2026-09-23 06:02:55 UTC",
+    "google_news_url": "https://news.google.com/search?q=India+GDP+growth+government+secretly+new+update",
+    "raw_html_file": "https://serpapi.com/searches/UXGI7Pj2g1M947RX8rCI9hlC_2bDY_Kus65LD-dqusw/6ab36b8fbd173142f23f9d5c.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "India GDP growth government secretly new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "The Secret Mission of the World's Weirdest Regime to Trump's Backyard",
+      "source": {
+        "name": "Politico",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ilan Greenberg"
+        ]
+      },
+      "link": "https://www.politico.com/news/magazine/2026/06/26/turkmenistan-trump-secret-mission-00969739",
+      "thumbnail": "https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F92%2F67%2F355c94d54aeea3dded01e54cf6bd%2Fturkmenistan-final.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJlVkZuYldSS1JrTlFNRkZDVFJDaEF4ajJCQ2dLTWdhcGM0NVJzUVk",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Strait face, secret plan: Inside details of how Indian ships cross war-hit Hormuz | India News",
+      "source": {
+        "name": "hindustantimes.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nayanika Sengupta"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/india-news/how-do-indian-ships-cross-risky-strait-of-hormuz-govt-reveals-keeping-some-details-secret-101780050796581.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/05/29/1600x900/logo/strait_of_hormuz_indian_ships_1780052801607_1780052801773_35b10c13-6905-4990-8e65-9263a427ac5d.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZXWGxNZDFCalRGSjJUWEYwVFJDZkF4ampCU2dLTWdabEFLd2JBQTA",
+      "date": "05/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-30T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Govts’ carry trade a rising global risk",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shankkar Aiyar"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/22/govts-carry-trade-a-rising-global-risk",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-05-26/anjyrziw/ANI_20250526090517.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhSR0Z4ZUdSQloySk1aVjlhVFJEZ0F4aUFCU2dLTWdZQkFJYUpQUVU",
+      "date": "08/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-22T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Gold pulled India back from the edge of crisis 35 years ago",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/finance/gold-pulled-india-back-from-the-edge-of-crisis-35-years-ago-manmohan-singh-pledged-gold-1991-economic-reforms-gold-airlift-balance-of-payments-crisis/articleshow/132734952.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132735623,width-1200,height-900,resizemode-4,imgsize-491104/indias-gold-pledge-paved-the-way-for-1991-economic-reforms.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJhVEYwYVhWcGNrOXVaVGhsVFJEZ0F4aUFCU2dLTWdrQllJSndyT1E4cVFJ",
+      "date": "08/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-15T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Bangladesh–India relations: Delhi signals a new chapter after a period of strain",
+      "source": {
+        "name": "Prothom Alo English",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://en.prothomalo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Raheed Ejaz"
+        ]
+      },
+      "link": "https://en.prothomalo.com/opinion/op-ed/0oj9n1qegf",
+      "thumbnail": "https://media.prothomalo.com/prothomalo-english/2025-12-23/lc426bvf/prothomalo-bangla2025-12-18ac1atq4cWhatsApp-Image-2025-12-18-at-9.30.25-AM.avif?w=1200&h=675&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhPRmxtV25KUlYyVTRVVWRqVFJERUF4aW1CU2dLTWdhUlVwUW9xUWc",
+      "date": "05/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-21T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Why India sent 47,000 kg of gold to UK in 1991",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sushim Mukul"
+        ]
+      },
+      "link": "https://www.indiatoday.in/history-of-it/story/gold-news-price-today-rbi-1991-pledge-reserves-forex-india-sent-england-financial-default-2911999-2026-05-15",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/four-consignments-of-indias-gold-reserves-were-moved-from-the-mumbai-airport-to-england-to-secure-e-141012777-16x9_0.png?VersionId=Z2TdcPuthmZ4azYjVj4BZVFWFm7pOZK8&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJUV2czT1U0elJtNVJkbE00VFJDZkF4ampCU2dLTWdZQkFJaGhDdzA",
+      "date": "05/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-15T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Speedy, secret deal with several fishhooks: 8 key takeaways of the India-NZ FTA",
+      "source": {
+        "name": "thepost.co.nz",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thepost.co.nz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jane Kelsey"
+        ]
+      },
+      "link": "https://www.thepost.co.nz/business/360998063/speedy-secret-deal-several-fishhooks-8-key-takeaways-india-nz-fta",
+      "thumbnail": "https://www.thepost.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUSeZYZbm+SU0zjMnNqDfql8Yk4r+Ht43oxrl86VwI5ID0m56GaDxw9TPAeM08swGRTM7ifQ0i+olpJlDTZwfV8RX+xtrruqnvNEW79TpFPMtdCG8EL0xhiui+CMOElVmF2Nv43VT4xLiTvz+UfiWgtR9cl0eDN32vOuK4XhMWrfS+R8JeUzDwzVSLYIGLOCN0=",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNkMWhwWjA1R2FFVjRlRzB0VFJERUF4aW1CU2dLTWdhUk1wSklJUWs",
+      "date": "05/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "It's a secret: LIC’s unusually fast $3.3 billion deal kept bankers in dark",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rajesh Mascarenhas"
+        ]
+      },
+      "link": "https://m.economictimes.com/industry/banking/finance/banking/lic-ofs-ita-secret-lics-unusually-fast-3-3-billion-deal-kept-bankers-in-dark-as-indian-government-stake-sale/articleshow/132979912.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132980176,width-1200,height-900,resizemode-4,imgsize-199926/lic-ofs-secret-lic-stake-sale-helps-government-raise-3-3-billion-successfully.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRYMUV3UVhOV1ZIVTNRMDFHVFJEZ0F4aUFCU2dLTWdZVlk1QndyUVk",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Decoding 7.8% GDP growth: What changes in the new series & what it tells us about India's road to becomin",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Smriti Jain"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/decoding-7-8-gdp-growth-what-changes-in-the-new-series-what-it-tells-us-about-indias-road-to-becoming-3rd-largest/articleshow/128854501.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-128854889,width-1280,height-720,imgsize-154414,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhPRU4wWmtWcGNESlZkRzFZVFJDZkF4ampCU2dLTWdZQklJZ0NGZ28",
+      "date": "02/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-27T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "As PM, India’s Modi secretly tried to massively cut state funds",
+      "source": {
+        "name": "aljazeera.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shreegireesh Jalihal",
+          "Nitin Sethi"
+        ]
+      },
+      "link": "https://www.aljazeera.com/economy/2024/1/18/as-pm-indias-modi-secretly-tried-to-massively-cut-state-funds",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2024/01/AP23364393170553-1704785880-e1707985839797.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhNMVV6YW00dGVqRnVXVEJRVFJEZ0F4aUFCU2dLTWdZZFE0ek5MUWM",
+      "date": "01/18/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-18T08:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Secret longer version of US National Security Strategy calls for Core 5 countries to run the world",
+      "source": {
+        "name": "IntelliNews",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.intellinews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Aris"
+        ]
+      },
+      "link": "https://www.intellinews.com/secret-longer-version-of-us-national-security-strategy-calls-for-core-5-countries-to-run-the-world-416040/",
+      "thumbnail": "https://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneGeneric_C5_-_US_China_Japan_India_Russia_flags.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5RV1p0T0ZJMWEwOURlbmgyVFJDaEF4amdCU2dLTWdZUk00cU5NUVk",
+      "date": "12/10/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-10T08:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Narendra Modi’s secret weapon: India’s diaspora",
+      "source": {
+        "name": "The Economist",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.economist.com/international/2024/03/27/narendra-modis-secret-weapon-indias-diaspora",
+      "thumbnail": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240330_IRP001.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhhRGRNWmpaVVRscHlObWxGVFJDZkF4ampCU2dLTWdhWmhJeXROUVk",
+      "date": "03/27/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-03-27T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "What is the secret to Bangladesh’s economic success?",
+      "source": {
+        "name": "The World Economic Forum",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.weforum.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.weforum.org/stories/all/the-secret-to-bangladesh-s-economic-success-the-sheikh-hasina-factor/",
+      "thumbnail": "https://assets.weforum.org/article/image/large_d00uisy-LKwoYBOZLpVixlWoWsJioUAi4l7y8-M1H6I.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkMHQ1TUVsdWRURXdVVTlsVFJDVEFSaldBaWdCTWdZQkFZUmhsUWs",
+      "date": "10/03/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-10-03T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "The private notes and secret documents that tell the inside story of the UK's Covid response",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/news/articles/c78zy20ydlmo",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7ac6/live/244fd390-bfc1-11f0-8669-5560f5c90fbe.png.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJjWGc0YURWSGIzRkZialo1VFJEZ0F4amdBeWdLTWdrRlU0U2xJcWxyMWdB",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "WATCH: Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Will Weissert"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-secret-service-wanted-him-to-sneak-off-af1-defends-safety-of-plane-with-staff",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-12T012037Z_181170881_RC2PWMA0GTK3_RTRMADP_3_USA-TRUMP-1024x664.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iVGxuZUd0Zk1tZEtUWE42VFJDLUF4aXdCU2dLTWdhdFJJU1FJUWs",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "GDP growth at 7.8%: What Trump doesn’t get about India’s 'dead' economy",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/gdp-growth-at-7-8-what-trump-doesnt-get-about-indias-dead-economy/articleshow/123586922.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-123587442,width-1280,height-720,resizemode-4/123587442.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5TWGM0YURSNVVXb3RMUzFrVFJDZkF4ampCU2dLTWdZRlo1VEVxZ2M",
+      "date": "08/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-29T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Iran war impact to show on India GDP, inflation in risk to ‘Goldilocks’ economy | Business News",
+      "source": {
+        "name": "hindustantimes.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/business/iran-war-impact-to-show-on-india-gdp-inflation-in-risk-to-goldilocks-economy-101773808171500.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/03/18/1600x900/logo/INDIA-ENERGY-WEEK_1773809835312_1773809835420.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1NazVDWVZOdFdsVlZiMWd5VFJDZkF4ampCU2dLTWdZcHhJU3RRUVE",
+      "date": "03/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-18T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Why cooperative and competitive federalism is the secret to India's success",
+      "source": {
+        "name": "The World Economic Forum",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.weforum.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amitabh Kant"
+        ]
+      },
+      "link": "https://www.weforum.org/stories/geographies-in-depth/what-is-cooperative-and-competitive-federalism-india/",
+      "thumbnail": "https://assets.weforum.org/article/image/large_DKE0H9YiIxNo-XKL2jhvmEnY4onP8lxLxi52FyeGFC0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxTM1ZSUzFCbU5IWnRZV2RJVFJDVEFSaldBaWdCTWdtQkFZU3FuU095YlFF",
+      "date": "10/04/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-10-04T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Bangladesh set for ‘secret’ US tariff deal ahead of elections — move after India’s pact?",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/international-business/bangladesh-set-for-secret-us-tariff-deal-ahead-of-elections-move-after-indias-pact/articleshow/127966701.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-127969141,width-1280,height-720,imgsize-1209141,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5aM2swYkY5b2RIVnNha3B5VFJDZkF4ampCU2dLTWdhQkVvd1JzUVU",
+      "date": "02/06/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-06T08:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "The federal government has shut down — at least for a few days. Here’s what could be affected",
+      "source": {
+        "name": "CNN",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tami Luhby"
+        ]
+      },
+      "link": "https://www.cnn.com/2026/01/28/politics/government-shutdown-impact-january-2026",
+      "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2246192573.jpg?c=original&q=w_1041,c_fill",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRhMmc1WDNNM1pWQkVlRWxXVFJERUF4aW1CU2dLTWdPQmNBUQ",
+      "date": "01/28/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-28T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Amazon documents reveal company’s secret strategy to dodge India’s regulators",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditya Kalra"
+        ]
+      },
+      "link": "https://www.reuters.com/investigates/special-report/amazon-india-operation/",
+      "thumbnail": "https://www.reuters.com/investigates/special-report/assets/section-leads/amazon-com/amazon-india-operation/RTS2YG2M_3.jpg?v=400921040122",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlRk5GVGxGQllVRkJOMGRPVFJEc0FoaThCQ2dLTWdZcE5wYnRuUWs",
+      "date": "02/17/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-02-17T08:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "India to update national accounts base year to 2022–23; new data effective from February 26–27, says Nirma",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/india-to-update-national-accounts-base-year-to-202223-new-data-effective-from-february-2627/articleshow/125742873.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125742881,width-1200,height-900,resizemode-4,imgsize-163286/winter-session-of-parliament.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJNVGh4VUZWb2FqWmpNa3A2VFJEZ0F4aUFCU2dLTWdhVlU1QndJUWs",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-03T08:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "17,000-year-old ancient paintings found in France when a boy followed his dog into a secret cave in 1940",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/17000-year-old-ancient-paintings-found-in-france-when-a-boy-followed-his-dog-into-a-secret-cave-in-1940/articleshow/128791495.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-128791572,width-1280,height-720,imgsize-110988,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZaMUk0VTJKWlFVNW5hR1pTVFJDZkF4ampCU2dLTWdhRkU0UmxXZ0k",
+      "date": "02/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-27T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Here’s what is affected by the government shutdown",
+      "source": {
+        "name": "CNN",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tami Luhby"
+        ]
+      },
+      "link": "https://www.cnn.com/2025/09/26/politics/government-shutdown-september-2025-explained",
+      "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236976507.jpg?c=original&q=w_860,c_fill",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVhbWRXYTJWNmVYUjRhVVpSVFJERUF4aW5CU2dLTWdZVk00aUpzUU0",
+      "date": "09/26/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-26T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Uber broke laws, duped police and secretly lobbied governments, leak reveals",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harry Davies",
+          "Simon Goodley",
+          "Paul Lewis"
+        ]
+      },
+      "link": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign",
+      "thumbnail": "https://i.guim.co.uk/img/media/76e0949b9bda37f26daaa18bba5bf56148a11faf/0_0_5000_3000/master/5000.jpg?width=480&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhPRzltVm14WFdUVm1lVEV0VFJDZ0FoamdBeWdLTWdhWkJJZ0xsZ1U",
+      "date": "07/10/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-07-10T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Egyptian army holds billions in secret cash as country misses debt deadline, officials say",
+      "source": {
+        "name": "Middle East Eye",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.middleeasteye.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.middleeasteye.net/news/egypt-army-holds-billions-dollars-secret-cash-country-misses-debt-deadline-sources-say",
+      "thumbnail": "https://www.middleeasteye.net/sites/default/files/styles/crop_16_9/public/images-story/egypt-soldiers-sinai-2023-afp.jpg.jpg?itok=Nr7jqZIY",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVORlI1TkhKTFQyRmlSVzVYVFJDZkF4amlCU2dLTWdZQllJaVd2QVU",
+      "date": "01/13/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-13T08:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Why Italy's new president could make or break economy",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Russell Padmore"
+        ]
+      },
+      "link": "https://www.bbc.com/news/business-60106517",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/16B1B/production/_122955929_ffc56027-83df-4ac4-886d-2c060b036a78.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWVGhhUm0xYWJGUlhWeTFYVFJDb0FSaXNBaWdCTWdZVkpJaHBuZ2s",
+      "date": "01/26/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-01-26T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Brazil has a secret weapon against oil shocks",
+      "source": {
+        "name": "The Economist",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.economist.com/the-americas/2026/03/26/brazil-has-a-secret-weapon-against-oil-shocks",
+      "thumbnail": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20260328_AMP501.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhjRUZJTTFsdFNFUldjMjlyVFJDZkF4ampCU2dLTWdrQkFJcUtRS1dwNVFJ",
+      "date": "03/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-26T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Pak secretly moving Imran Khan from jail? His party alleges 'risk to ex-PM's life'",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajmal Aramam"
+        ]
+      },
+      "link": "https://www.indiatoday.in/world/story/pakistan-former-prime-minister-imran-khan-secret-hospital-transfer-pti-vision-loss-health-issues-jail-2868472-2026-02-15",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/imran-khan-has-been-in-jail-since-august-2023-in-a-corruption-case-photo-reutersfile-152807668-16x9_0.jpg?VersionId=WjmLJ_sihnSJp_D9m1cuQM4aQ8nOj.Ib&size=690:388",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVSWFp0YzNGbFRpMXJOakpQVFJDRUF4aXlCU2dLTWdhdFpJcVFMUWM",
+      "date": "02/15/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-15T08:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Iranian ships deliver jet fuel, urea to Myanmar junta",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Devjyot Ghoshal",
+          "Han Huang",
+          "Adolfo Arranz"
+        ]
+      },
+      "link": "https://www.reuters.com/graphics/IRAN-MYANMAR/JET-FUEL/jnpwkonqrpw/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/VZVRLRPNJVDC3DLBJZH27VUBL4.jpg?auth=a2c35cd31638363e7313d2e3cd370e5a14a6f25b3241f7b496cc99180c41b6ad&width=480&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxWRXB6V0VSQmVXaGlSSGczVFJDT0FoamdBeWdLTWdZWmNKRHJOUWM",
+      "date": "01/26/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-26T08:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Head-on | Why China secretly fears India’s rise",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Minhaz Merchant"
+        ]
+      },
+      "link": "https://www.firstpost.com/opinion/head-on-why-china-secretly-fears-indias-rise-13024062.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2023/08/XiJinping_TV640AP-1.jpg?im=Resize,width=720,aspect=fit,type=normal",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxaRE5VTUVOT1NETlNTVVpYVFJDWUF4alFCU2dLTWdhcGRaRE5MUWM",
+      "date": "08/22/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-08-22T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "What Are China’s Alleged ‘Secret Overseas Police Stations’?",
+      "source": {
+        "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thediplomat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thediplomat.com/2023/04/what-are-chinas-alleged-secret-overseas-police-stations/",
+      "thumbnail": "https://thediplomat.com/wp-content/uploads/2023/04/sizes/td-story-s-2/thediplomat_2023-04-18-153153.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVZemx0ZUdaTFNsVnVSVTg0VFJEQ0F4allCQ2dLTWdrUlVwTHpLT2VoQ2dJ",
+      "date": "04/19/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-04-19T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Paradox of 2025: India’s strongest performance in decades has collided with...",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/economic-survey-2026-paradox-of-2025-indias-strongest-performance-in-decades-has-collided-with-global-system/articleshow/127757701.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-127758335,width-1280,height-720,imgsize-83510,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZkV1F6YlVZMVEzUnNNRGhaVFJDZkF4ampCU2dLTWdNQlJBUQ",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Who is Dhruv Rathee? From Modi fan to Indian PM’s most formidable critic",
+      "source": {
+        "name": "aljazeera.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alishan Jafri"
+        ]
+      },
+      "link": "https://www.aljazeera.com/features/2024/5/29/who-is-dhruv-rathee-from-modi-fan-to-indian-pms-most-formidable-critic",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2024/05/Screenshot-2024-05-29-at-8.22.35%E2%80%AFAM-1-1716960841.jpg?resize=1200%2C630",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVXVE5rUWpBMFoweFpVa3RNVFJDUkF4ajhCU2dLTWdZbEJwN3RrUW8",
+      "date": "05/29/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-05-29T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "America’s Human Experiments in the Marshall Islands Demand Justice",
+      "source": {
+        "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thediplomat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Camilla Pohle"
+        ]
+      },
+      "link": "https://thediplomat.com/2024/03/americas-human-experiments-in-the-marshall-islands-demand-justice/",
+      "thumbnail": "https://thediplomat.com/wp-content/uploads/2024/03/sizes/td-story-s-1/thediplomat_2024-03-22-151245.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5TMmRxY0UxbU5IQjZXRU4zVFJEd0FSaXNBaWdLTWdrQlFKampuaWtlYUFJ",
+      "date": "03/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-03-23T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "The $10bn India-Pakistan trade secret hidden by official data",
+      "source": {
+        "name": "aljazeera.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yashraj Sharma",
+          "Priyanka Shankar"
+        ]
+      },
+      "link": "https://www.aljazeera.com/news/2025/5/1/the-10bn-india-pakistan-trade-secret-hidden-by-official-data",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-26T070835Z_1560755857_RC2E5EAXKB90_RTRMADP_3_INDIA-KASHMIR-ATTACK-1745665252.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWpUa054UVZobFQwRkxlWE00VFJEZ0F4aUFCU2dLTWdzQlFJb0NNaVE4Q1hvb05n",
+      "date": "05/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-01T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "India secretly works to preserve reputation on global Democracy Index",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anisha Dutta"
+        ]
+      },
+      "link": "https://www.theguardian.com/world/2023/jun/22/india-democracy-index-flawed-preserve-reputation-narendra-modi",
+      "thumbnail": "https://i.guim.co.uk/img/media/3b1fd08e52a304bef042e16512bddbe3bcd46917/0_203_7680_4608/master/7680.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlWFJZWDNVMExUQlBSWEpEVFJDWEFoalJBeWdLTWdhVklwZ01tUWs",
+      "date": "06/22/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-06-22T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Explained: India’s GDP fall, in perspective",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Udit Misra"
+        ]
+      },
+      "link": "https://indianexpress.com/article/explained/india-gdp-gdp-fall-7-3-per-cent-in-perspective-modi-govt-coronavirus-economy-7338852/",
+      "thumbnail": "https://images.indianexpress.com/2021/06/India-gate.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdOa0pVTjNOSVQwRjBNa2RZVFJDZEF4am5CU2dLTWdZQklJNVpEQXc",
+      "date": "06/01/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-06-01T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "The Battle for the World’s Most Powerful Cyberweapon (Published 2022)",
+      "source": {
+        "name": "nytimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ronen Bergman",
+          "Mark Mazzetti"
+        ]
+      },
+      "link": "https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html",
+      "thumbnail": "https://static01.nyt.com/images/2022/02/06/magazine/06mag-NSO-1/06mag-NSO-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVkWGxhYldKM2RFcExVVTlmVFJEZEJCajdBeWdLTWdZaHBJNnN1UVU",
+      "date": "01/28/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-01-28T08:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "‘Trump a great peacemaker’: Secret letter from Xi Jinping helps revive India-China ties; move to counter US tariff war",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/donald-trump-a-great-peacemaker-secret-letter-from-xi-jinping-helps-revive-india-china-ties-move-to-counter-us-tariff-war/articleshow/123559255.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-123559465,width-1070,height-580,imgsize-154156,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVVSMUF0TkRoMGFXZFNlalZmVFJDWUF4andCU2dLTWdB",
+      "date": "08/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-28T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Who knew? Modi's black money move kept a closely guarded secret",
+      "source": {
+        "name": "cnbc.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Neelabh Chaturvedi"
+        ]
+      },
+      "link": "https://www.cnbc.com/2016/12/08/india-demonetization-news-modis-black-money-move-kept-a-closely-guarded-secret.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/104145958-IMG_20161201_104649333.jpg?v=1480904140",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZjMTltU3pnMlEzbEVlRFpYVFJEZ0F4aUFCU2dLTWdZQlFJaUFRQVE",
+      "date": "12/08/2016, 08:00 AM, +0000 UTC",
+      "iso_date": "2016-12-08T08:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "What are India’s electoral bonds, the secret donations powering Modi’s BJP?",
+      "source": {
+        "name": "aljazeera.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kunal Purohit"
+        ]
+      },
+      "link": "https://www.aljazeera.com/news/2024/2/15/what-are-electoral-bonds-the-secret-donations-powering-modis-bjp",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2024/01/AP23364393170553-1704785880-e1707985839797.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhNMVV6YW00dGVqRnVXVEJRVFJEZ0F4aUFCU2dLTWdZZFE0ek5MUWM",
+      "date": "02/15/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-02-15T08:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Modi’s Cash Crackdown Failed, Indian Bank Data Shows (Published 2018)",
+      "source": {
+        "name": "nytimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeffrey Gettleman"
+        ]
+      },
+      "link": "https://www.nytimes.com/2018/08/30/world/asia/modi-india-rupee-cash.html",
+      "thumbnail": "https://static01.nyt.com/images/2018/08/31/world/31INDIA-ECON-print/merlin_114764207_0f039fad-d149-4d29-8278-4ccd8b776298-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdaVGhMVWxOdFZubGxORFl3VFJDTUF4allCQ2dLTWdZTlVKWnlwQWc",
+      "date": "08/30/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-08-30T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Viewpoint: Why Modi's currency gamble was 'epic failure'",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/news/world-asia-india-41100610",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/A147/production/_92378214_gettyimages-622117634.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZiM00wVkdoV1VsRjNjVkp1VFJDT0FoamdBeWdLTWdrQkVJeUFwbWNsQndJ",
+      "date": "08/30/2017, 07:00 AM, +0000 UTC",
+      "iso_date": "2017-08-30T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "A secret Swiss dinner with India's government and the opposition highlighted how fragile reforms are right now",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lianna Brinded"
+        ]
+      },
+      "link": "https://www.businessinsider.com/jll-india-anuj-puri-davos-india-official-modi-dinner-discussion-2016-1",
+      "thumbnail": "https://i.insider.com/56a77999dd0895cd148b45a3?width=800&format=jpeg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJURFJTWDJSa2FESXphVTFYVFJEZ0F4aUFCU2dLTWdZaE1ZZ0xIZ2s",
+      "date": "01/26/2016, 08:00 AM, +0000 UTC",
+      "iso_date": "2016-01-26T08:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Defining moment: India overtakes Japan to become world's fourth largest economy; enjoys ‘Goldilocks’ phas",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/defining-moment-india-overtakes-japan-to-become-worlds-fourth-largest-economy-enjoys-goldilocks-phase-with-high-growth-low-inflation/articleshow/126250504.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-126250563,width-1280,height-720,resizemode-4/126250563.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNXVTVIT1U5RFZuWm9jakF0VFJDZkF4ampCU2dLTWdhSlFZaU1LUWM",
+      "date": "12/31/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-31T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "PFI ban: What is Popular Front of India and why has India outlawed it?",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/news/world-asia-india-63004142",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/F6B9/production/_126816136_pfi1.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVRZMU52WWxwRkxXcFRTRGgwVFJDT0FoamdBeWdLTWdzQkFJSmdRT01jRFNxTkhn",
+      "date": "09/28/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-09-28T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Britain's dirty secret: the burning tyres choking India | George Monbiot",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "George Monbiot"
+        ]
+      },
+      "link": "https://www.theguardian.com/commentisfree/2019/jan/30/worse-than-plastic-burning-tyres-india-george-monbiot",
+      "thumbnail": "https://i.guim.co.uk/img/media/00599b646cc4bf49445f1c8cc2ceb886109cd291/0_0_2560_1536/master/2560.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRNM1l4UXpOQlJEWndkMnczVFJDWEFoalJBeWdLTWdhWkVJQnRtUWs",
+      "date": "01/30/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-01-30T08:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "India's economy shatters a 35-year barrier to enter A-rated club",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/indias-economy-shatters-a-35-year-barrier-to-enter-a-rated-club-india-sovereign-rating-a-by-jcra-sp-moodys-gdp-growth/articleshow/133731421.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133731737,width-1200,height-900,resizemode-4,imgsize-184506/india-enters-a-club-as-global-agencies-recognise-stronger-economic-fundamentals-and-growth-ai-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJSamx3UjJGcE4wZFpNMXBqVFJEZ0F4aUFCU2dLTWdhQlZJTE5JUVk",
+      "date": "09/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-03T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "China Is Hiding A Population Secret, Analyst Claims",
+      "source": {
+        "name": "Newsweek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Micah Mccartney"
+        ]
+      },
+      "link": "https://www.newsweek.com/china-hiding-population-secret-1926834",
+      "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/2431164-people-walk-down-shanghais-nanjing-road.jpg?w=1600&quality=80&webp=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXRWMU5sZEc5TFUyTkZWREJDVFJERkF4aWtCU2dLTWc0QmtJUVVXQ0hvNzFqTGtvNjdKQQ",
+      "date": "07/18/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-18T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Inside the government's secret data room",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gordon Corera"
+        ]
+      },
+      "link": "https://www.bbc.com/news/technology-59651706",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7ECE/production/_122226423_a7c995d8-e0a3-4591-b44c-911eac534355.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdPVFZpUVV4NFJtOXJUMWd5VFJDT0FoamdBeWdLTWdZbGNJYTByQVk",
+      "date": "12/15/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-12-15T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Kolkata earthquake today: Bangladesh secretly testing nuclear power? Netizens discuss after strong tremors",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/kolkata-earthquake-today-bangladesh-secretly-testing-nuclear-power-netizens-discuss-after-strong-tremors-felt-in-city-of-joy/articleshow/128842621.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-128842825,width-1200,height-900,resizemode-4,imgsize-3373872/kolkata-earthquake-today.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9RbUZ2WHpKc2NWVlVVMngwVFJEZ0F4aUFCU2dLTWdZQndJcmhSQVU",
+      "date": "02/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-27T08:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Economic Survey delivers powerful message of India's growth, say experts",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/policy/economic-survey-delivers-powerful-message-of-indias-growth-say-experts/articleshow/127781203.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-127781274,width-1200,height-900,resizemode-4,imgsize-191127/economic-survey-2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVSUzF0UVZGdVRuWmxNMjVpVFJEZ0F4aUFCU2dLTWdhVlFwS0xvUVk",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Experts worry that India is creating new fuel for an arsenal of H-bombs",
+      "source": {
+        "name": "Center for Public Integrity",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://publicintegrity.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adrian Levy"
+        ]
+      },
+      "link": "https://publicintegrity.org/national-security/experts-worry-that-india-is-creating-new-fuel-for-an-arsenal-of-h-bombs/",
+      "thumbnail": "https://publicintegrity.org/wp-content/uploads/2015/12/khudapura.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhTM1pqZUdkVVlteFZTbFU1VFJEZ0F4aUFCU2dLTWdZQnNJcEhRQVU",
+      "date": "12/16/2015, 08:00 AM, +0000 UTC",
+      "iso_date": "2015-12-16T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "First signs of fallout emerge! US-Iran war hits India’s private sector growth; manufacturing activity slu",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/first-signs-of-fallout-emerge-us-iran-war-hits-indias-private-sector-growth-manufacturing-activity-slumps-to-over-4-5-year-low/articleshow/129769298.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-129769322,width-1280,height-720,imgsize-135638,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpNbEpEUmxjMFRVaFZYM1pOVFJDZkF4ampCU2dLTWdrQklJSkVvS1doMVFB",
+      "date": "03/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-24T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Why was ₹6 lakh crore shaved off last year’s GDP? Govt explains the numbers",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/indicators/india-gdp-revision-q1-fy26-86-lakh-crore-80-lakh-crore-current-price-gdp-growth-govt-clarification/articleshow/133709337.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133709686,width-1200,height-900,resizemode-4,imgsize-41520/india-gdp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1OVEZVY0ZnMWVXNDFSRTB5VFJEZ0F4aUFCU2dLTWdZTm9vZ3FRUVU",
+      "date": "09/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-02T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "India GDP Q3 FY26 Highlights: Growth at 7.8% in Oct–Dec after data revamp; FY26 forecast raised to 7.6%",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/indicators/india-gdp-q3-fy26-highlights-growth-at-7-8-in-octdec-after-data-revamp-fy26-forecast-raised-to-7-6/articleshow/128845857.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-128845857,width-1200,height-900,resizemode-4,imgsize-30284/india-gdp-q3-fy26-highlights-growth-at-7-8-in-octdec-after-data-revamp-fy26-forecast-raised-to-7-6.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJhRmxWVkhSamRHdEVNMEZUVFJEZ0F4aUFCU2dLTWdhUm9vaEtQUVU",
+      "date": "02/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-27T08:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Dubai’s secret: Why it leads the region beyond oil and real estate",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/dubais-secret-why-it-leads-the-region-beyond-oil-and-real-estate/articleshow/122401344.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-122402406,width-1280,height-720,resizemode-4/122402406.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTNZV0Z0ZVRGRlZHdG1ZVzFwVFJDZkF4ampCU2dLTWdNQkFBVQ",
+      "date": "07/12/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-12T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Bhutan’s Dark Secret: The Lhotshampa Expulsion",
+      "source": {
+        "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thediplomat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maximillian Morch"
+        ]
+      },
+      "link": "https://thediplomat.com/2016/09/bhutans-dark-secret-the-lhotshampa-expulsion/",
+      "thumbnail": "https://thediplomat.com/wp-content/uploads/2016/09/sizes/td-story-s-2/thediplomat_2016-09-20_16-33-09.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWxaa3BJZW5aMU0yVklUemd0VFJDREF4allCQ2dLTWd1QlFveXRGV3FwTHpueWtn",
+      "date": "09/21/2016, 07:00 AM, +0000 UTC",
+      "iso_date": "2016-09-21T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Pakistan, India, and the Secret War for Afghanistan",
+      "source": {
+        "name": "geopoliticalmonitor.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.geopoliticalmonitor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.geopoliticalmonitor.com/pakistan-india-secret-war-afghanistan/",
+      "thumbnail": "https://www.geopoliticalmonitor.com/wp-content/uploads/2014/12/IndiaPakistanFlags4.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllVGg2Ym14VGR6SmhWVkZ3VFJDQUF4aWZCaWdLTWdZQkFZNmlEZ2M",
+      "date": "12/03/2014, 08:00 AM, +0000 UTC",
+      "iso_date": "2014-12-03T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Opinion | How Pakistan Became World's Only Muslim Nuclear-Powered Nation - Secretly",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Syed Zubair Ahmed"
+        ]
+      },
+      "link": "https://www.ndtv.com/opinion/us-iran-israel-war-how-pakistan-became-worlds-only-muslim-nuclear-powered-nation-secretly-11177097",
+      "thumbnail": "https://c.ndtvimg.com/2026-03/gpb2ns94_pak_625x300_06_March_26.jpg?im=FitAndFill,algorithm=dnn,width=400,height=225&q=70",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVkVUZtZVdSQlFWcHlaVzF1VFJEaEFSaVFBeWdLTWdhZEpJeEt0Z1U",
+      "date": "03/06/2026, 10:00 AM, +0000 UTC",
+      "iso_date": "2026-03-06T10:00:05Z"
+    },
+    {
+      "position": 62,
+      "title": "India rupees: PM Modi says move had to be secret",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/news/world-asia-india-37961975",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/13967/production/_92413208_mediaitem92413204.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpVMWRFY1hRMFNFRlVSamgxVFJDZkF4ampCU2dLTWdZQmdJYVJ0QVE",
+      "date": "11/12/2016, 08:00 AM, +0000 UTC",
+      "iso_date": "2016-11-12T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "France’s secret gold strategy explained: How Banque de France turned US-held bullion into €12.8 billion pr",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/us/frances-secret-gold-strategy-explained-how-banque-de-france-turned-us-held-bullion-into-12-8-billion-profit/articleshow/130067762.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130069380,width-1200,height-900,resizemode-4,imgsize-135370/frances-secret-gold-strategy-explained-how-banque-de-france-turned-us-held-bullion-into-12-8-billion-profit.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdhalpLYUdSUVVuSkVVR2hYVFJEZ0F4aUFCU2dLTWdhUmNZcExOUVk",
+      "date": "04/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-07T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "The hanging of Afzal Guru is a stain on India's democracy | Arundhati Roy",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Arundhati Roy"
+        ]
+      },
+      "link": "https://www.theguardian.com/commentisfree/2013/feb/10/hanging-afzal-guru-india-democracy",
+      "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Environment/Pix/pictures/2013/2/10/1360512113368/Police-bring-Afzal-Guru-t-008.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBPRTQzZVdWb2FXNDRUSFZ4VFJDVUFoak1BeWdLTWdrQkVKNldrQ3VacHdJ",
+      "date": "02/10/2013, 08:00 AM, +0000 UTC",
+      "iso_date": "2013-02-10T08:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "AWS partnering with the Australian Government to deliver cloud innovation in national security & defence",
+      "source": {
+        "name": "About Amazon Australia",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aboutamazon.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Iain Rouse"
+        ]
+      },
+      "link": "https://www.aboutamazon.com.au/news/company-news/partnering-with-the-australian-government-to-deliver-cloud-innovation-in-national-security-defence",
+      "thumbnail": "https://assets.aboutamazon.com/dims4/default/52bcd74/2147483647/strip/true/crop/1999x1125+1+0/resize/1240x698!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fbc%2Fce%2Fd86a91f54fbdaab27b0ead8e41e1%2Funtitled-design-15.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdlWEYwYVVKSVlVMWlVR0o1VFJDb0FSaXJBaWdCTWdNQmNnZw",
+      "date": "07/04/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-04T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Nuclear leakage in Ganga? How a secret CIA mission 60 years ago may haunt the billions in India who depend on the holy river",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/nuclear-leakage-in-ganga-how-a-secret-cia-mission-60-years-ago-may-haunt-the-billions-in-india-who-depend-on-the-holy-river/articleshow/122201046.cms",
+      "thumbnail": "https://img.etimg.com/thumb/width-420,height-315,imgsize-733493,resizemode-75,msid-122201182/news/new-updates/nuclear-leakage-in-ganga-how-a-secret-cia-mission-60-years-ago-may-haunt-the-billions-in-india-who-depend-on-the-holy-river/cold-wars-lost-bomb-how-a-secret-cia-mission-still-haunts-indias-holy-river.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTalpKTTNvdGFXTm1XVlJHVFJDN0FoaWtBeWdLTWdZbFVJYVRRQVE",
+      "date": "07/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-02T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Rolls-Royce 'made secret payments'",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.com/news/business-37823554",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/169D/production/_90498750_rolls-royceengine.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZiVzV4VTE5VldtNXVURk5UVFJDZkF4ampCU2dLTWdZQkE0SUhtZ2M",
+      "date": "10/31/2016, 07:00 AM, +0000 UTC",
+      "iso_date": "2016-10-31T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Union Budget 2026: FY27 fiscal deficit likely to peg at 4.3% of GDP, says ICRA",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/union-budget-2026-fy27-fiscal-deficit-likely-to-peg-at-4-3-of-gdp-says-icra/articleshow/126586801.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-126586997,width-1280,height-720,imgsize-1084787,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRWa042UjBKUVYyUTNhV1pLVFJDZkF4ampCU2dLTWdrVkVKcHhIR21pSWdN",
+      "date": "01/16/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-16T08:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Goa’s Pramod Sawant govt faces heat from within—files ‘handled in secret’, tribal bhavan in limbo",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shanker Arnimesh"
+        ]
+      },
+      "link": "https://theprint.in/politics/goas-pramod-sawant-govt-faces-heat-from-within-files-handled-in-secret-tribal-bhavan-in-limbo/2640259/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/05/goa-2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRhV2s0YzFaS1JVdEliemx3VFJDZkF4ampCU2dLTWdrRlVaamtIdWt0N0FF",
+      "date": "05/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-29T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "US spent $21 trillion to build secret underground 'doomsday' bunkers for elites, claims former official",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/us/us-spent-21-trillion-to-build-secret-underground-doomsday-bunkers-for-elites-claims-former-official/articleshow/120969291.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-120969435,width-1200,height-900,resizemode-4,imgsize-57290/us-spent-21-trillion-to-build-secret-underground-doomsday-bunkers-for-elites-claims-former-official.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWFhMVZ0YkZKdE9HRnFaM2xXVFJEZ0F4aUFCU2dLTWdNQndBQQ",
+      "date": "05/07/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-07T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "The quiet architect of India's foreign policy: Held secret talks with Musharraf on Kashmir; Obama called hi...",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shalini Rai"
+        ]
+      },
+      "link": "https://www.bhaskarenglish.in/originals/news/foreign-policy-legacy-of-manmohan-singh-134193191.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2024/12/27/manmohan-singh-cover_1735303254.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRSRWxsZDI1cWJEWm1ZMWMwVFJEZ0F4al9CQ2dLTWdrQk1KeTFJT21ocGdJ",
+      "date": "01/26/2025, 06:52 AM, +0000 UTC",
+      "iso_date": "2025-01-26T06:52:07Z"
+    },
+    {
+      "position": 72,
+      "title": "U.S. Intelligence and the Indian Bomb",
+      "source": {
+        "name": "The George Washington University",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nsarchive2.gwu.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB187/index.htm",
+      "thumbnail": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB187/trombay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBUM0pNUkdkRmNuQjJTR3hRVFJEY0FSaVFBeWdLTWdZTlVJNHVOUVk",
+      "date": "04/13/2006, 07:00 AM, +0000 UTC",
+      "iso_date": "2006-04-13T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Education: The secret sauce that helped China in beating India at growth",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andy Mukherjee"
+        ]
+      },
+      "link": "https://www.business-standard.com/economy/news/education-the-secret-sauce-that-helped-china-in-beating-india-at-growth-124110800098_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/23/full/1729682168-8831.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9URmxMUTNGRGJsWTRUalF5VFJERUF4aW1CU2dLTWdZSlpKS2xNZ1k",
+      "date": "11/08/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-11-08T08:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "‘Nudge’ is the secret behind success of Modi’s pet projects, says Economic Survey",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Achyut Mishra"
+        ]
+      },
+      "link": "https://theprint.in/economy/nudge-is-the-secret-behind-success-of-modis-pet-projects-says-economic-survey/258290/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2018/08/swachh-bharat.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUlWV0o1TjFseVpVaGFXalUwVFJDTUF4aUdCaWdLTWdB",
+      "date": "07/05/2019, 07:00 AM, +0000 UTC",
+      "iso_date": "2019-07-05T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Is AI the secret to Pakistan’s GDP growth?",
+      "source": {
+        "name": "Business Recorder",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.brecorder.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.brecorder.com/news/40406084",
+      "thumbnail": "https://i.brecorder.com/large/2026/02/0715252232a4906.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVbE5pY0VkUFVHZHdNM2x2VFJDdEF4akxCU2dLTWdhQk1ZclVRQVE",
+      "date": "02/07/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-07T08:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "India’s 1991 crisis and the RBI Governor’s role",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pulapre Balakrishnan"
+        ]
+      },
+      "link": "https://www.thehindu.com/business/Economy/indias-1991-crisis-and-the-rbi-governors-role/article67695203.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/3upxki/article67696540.ece/alternates/LANDSCAPE_1200/HG_3693-027.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNhbUpEWTA5NFRVTmtVR3N5VFJDZkF4ampCU2dLTWdZWlpaWXFKZ2c",
+      "date": "01/01/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-01T08:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "From 'pure milk' to Scotch: Bihar’s secret language of liquor",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/industry/cons-products/liquor/from-pure-milk-to-scotch-bihars-secret-language-of-liquor/articleshow/130633283.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130633411,width-1200,height-900,resizemode-4,imgsize-98572/a-box-of-johnnie-walker-black-label-blended-scotch-whisky.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpkMko1U1hSSGJtUm1RMGxqVFJEZ0F4aUFCU2dLTWdhaEE0eXRvUVk",
+      "date": "04/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-30T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "GDP's dirty little secret: Why we should be tracking GVA instead",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tk Arun"
+        ]
+      },
+      "link": "https://www.livemint.com/opinion/online-views/india-gdp-growth-rate-gross-value-added-india-gdp-vs-gva-economic-indicators-india-gst-council-impact-subsidy-cuts-11749631915230.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/06/11/1600x900/2-0-1255603870-20180216-DLI-SKH-MN-Job-Fair-67-A-0_1679608558893_1749632628705.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWMWRRVm1NeVZqaG5VakJ2VFJDZkF4ampCU2dLTWdZQkFwaERqUW8",
+      "date": "06/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-14T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "search_metadata": {
+    "id": "6ab2be3048c7916aa696df09",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YGESPBeIzKYp-M7rzb3hsouuhLPQdOIZGxXJ8O6x3p0/6ab2be3048c7916aa696df09.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YGESPBeIzKYp-M7rzb3hsouuhLPQdOIZGxXJ8O6x3p0/6ab2be3048c7916aa696df09.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/YGESPBeIzKYp-M7rzb3hsouuhLPQdOIZGxXJ8O6x3p0/6ab2be3048c7916aa696df09.json_with_pixel_position",
+    "created_at": "2026-09-22 17:43:12 UTC",
+    "processed_at": "2026-09-22 17:43:12 UTC",
+    "google_url": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&oq=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/YGESPBeIzKYp-M7rzb3hsouuhLPQdOIZGxXJ8O6x3p0/6ab2be3048c7916aa696df09.html",
+    "total_time_taken": 0.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "tata sons trusts dispute escalating two before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "tata sons trusts dispute escalating two before:2026-01-01",
+    "total_results": 6420000000,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "NTq54HiczZXrcqJIFMcfYJ9j_WKigGg0VdRUd9sRjCZ2ouMkXyhutigXAygh3-ZVtvap9mm2AS_IqJmZD1vbZdkXzjmc7j4__t__dmxv-c8ff82jaBXe1utxHNeo71PHqhm-W9fCxDPqM98JA2P-JfTXgWHZpmTMA9-1KslGalSMUOIqli0NB61Eiz4G0JoOVhEZeRYaCYSrZCEkVddCa8He8L4I62qd_S3_bHTZpBbWLK_2tFzduG-R82GSmsDxndpjXXOZAfjvGiYUpf0zwBeMAFB-KhohgEXrHxYQ2gXYNZpOKIuH0kWUjk82BQOS9jbOvcAjmrnTNgC9vYNxPuFiUEizSBDmi88InH3p6Zbv4W6X2CVTeHH5fjdXCoaX4pGX40TY4c0ohAenojNbnhdc04e9fNwEUBwBJCPgX0oe-aDrEqgQcKkYMssATeLteAB4dkJ1k7LC5ep6wDq-bhtzIxsEYVrPaNzh_J6AWvOhGm7eJzxErR4e2Aa5cdvNTgfUDZ3ZOb5mWqY6V7kv2ZwX-CbXady0rzKQjHBPUlgkqYsW3Q1uetNgWRvUIL_DCO3PBx2nj9kcnTp3iLamqPwED6ECdrdROB1yVzBS9t6YgKFdijOx0qobHha6AgAiysu8FDf1-xGjcmopRmCSjbLhtqyLL1VSJsnBYd_k8g7BqVvHcHvNtFd6QkpHhMCzwgLsQpS-YZThhxQCc4zexOzwY3AUVMm2sY-_zQgCnO0hbQdo8pFCC7xhdhA4LXmMWG5PCD8R9lWju2Aw_dZtU7VL_J-sBcCuG4Mp_slPX7ndfW6SYrPlpVT-RWywOOkn69cXmBBLECfyjUNG11aiw4VHT2Piu_ovKI7xvwIp1yNlq0fnQVJ-CiRC0Hk9yocHPUpBQpTSMyDhHKQf9Eg-oUdlkDAtgPSJHv0qSMolkOBFkO5PgaRcACnVo2OQlkd6hE7r0R6k39Gju9_Uo4wrK--OxWm9oOdF6jWacMILhutvVHRFR23LUTIex52xHX8qUjM3unU107lSbfMWCv0oMa9UtuDfWmblTYq0SKuGvhdWo2AdRmHVtMPVOrKqVmhojhbZHq1GsV_VrZkfWLcCJ7SuOZ79Kq4T-BKnifdat2MkgaXTxfWDQxpaJ3ap2f4mD5VIJhv_jl7j6820-WGMHCPh1Zd2fzNkTs5URn5z8BpZY12c-9xD53nw1ZS5wXrIt5JHdUFdH9IP2RnoSw_HpuLw8_70owG85QpgTp7Yy_cHdRbI9oL_2nzaALAxZmOQ5RVK7b43Wg24hiYOK25gSKygRYeyqplSxgR6YVpBwUTzWR8D0msBgmGFbVm1wo2k6Y1OS-TEhsbrnNAwKy6NkpUk8pXQCyT-Xz9VSuY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NTq54HiczZXrcqJIFMcfYJ9j_WKigGg0VdRUd9sRjCZ2ouMkXyhutigXAygh3-ZVtvap9mm2AS_IqJmZD1vbZdkXzjmc7j4__t__dmxv-c8ff82jaBXe1utxHNeo71PHqhm-W9fCxDPqM98JA2P-JfTXgWHZpmTMA9-1KslGalSMUOIqli0NB61Eiz4G0JoOVhEZeRYaCYSrZCEkVddCa8He8L4I62qd_S3_bHTZpBbWLK_2tFzduG-R82GSmsDxndpjXXOZAfjvGiYUpf0zwBeMAFB-KhohgEXrHxYQ2gXYNZpOKIuH0kWUjk82BQOS9jbOvcAjmrnTNgC9vYNxPuFiUEizSBDmi88InH3p6Zbv4W6X2CVTeHH5fjdXCoaX4pGX40TY4c0ohAenojNbnhdc04e9fNwEUBwBJCPgX0oe-aDrEqgQcKkYMssATeLteAB4dkJ1k7LC5ep6wDq-bhtzIxsEYVrPaNzh_J6AWvOhGm7eJzxErR4e2Aa5cdvNTgfUDZ3ZOb5mWqY6V7kv2ZwX-CbXady0rzKQjHBPUlgkqYsW3Q1uetNgWRvUIL_DCO3PBx2nj9kcnTp3iLamqPwED6ECdrdROB1yVzBS9t6YgKFdijOx0qobHha6AgAiysu8FDf1-xGjcmopRmCSjbLhtqyLL1VSJsnBYd_k8g7BqVvHcHvNtFd6QkpHhMCzwgLsQpS-YZThhxQCc4zexOzwY3AUVMm2sY-_zQgCnO0hbQdo8pFCC7xhdhA4LXmMWG5PCD8R9lWju2Aw_dZtU7VL_J-sBcCuG4Mp_slPX7ndfW6SYrPlpVT-RWywOOkn69cXmBBLECfyjUNG11aiw4VHT2Piu_ovKI7xvwIp1yNlq0fnQVJ-CiRC0Hk9yocHPUpBQpTSMyDhHKQf9Eg-oUdlkDAtgPSJHv0qSMolkOBFkO5PgaRcACnVo2OQlkd6hE7r0R6k39Gju9_Uo4wrK--OxWm9oOdF6jWacMILhutvVHRFR23LUTIex52xHX8qUjM3unU107lSbfMWCv0oMa9UtuDfWmblTYq0SKuGvhdWo2AdRmHVtMPVOrKqVmhojhbZHq1GsV_VrZkfWLcCJ7SuOZ79Kq4T-BKnifdat2MkgaXTxfWDQxpaJ3ap2f4mD5VIJhv_jl7j6820-WGMHCPh1Zd2fzNkTs5URn5z8BpZY12c-9xD53nw1ZS5wXrIt5JHdUFdH9IP2RnoSw_HpuLw8_70owG85QpgTp7Yy_cHdRbI9oL_2nzaALAxZmOQ5RVK7b43Wg24hiYOK25gSKygRYeyqplSxgR6YVpBwUTzWR8D0msBgmGFbVm1wo2k6Y1OS-TEhsbrnNAwKy6NkpUk8pXQCyT-Xz9VSuY"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "SONS",
+      "link": "https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVl-TWw6xu58gqecaq1ytDYzEh7owtFnOPs8sn92uo_9q-zsrNmIrmLHppW1ylGVGKkNj1UkqdN_abj-bbNOhqr0H3uS6occup67isp9IfxxMAyjUbCi_pERDJLZV847U9oZDNkpeV9JoI&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://open.spotify.com › artist",
+      "date": "Jan 19, 2018",
+      "snippet": "Listen to SONS on Spotify. SONS is a four-piece rock band from Belgium known for their explosive energy, razor",
+      "snippet_highlighted_words": [
+        "SONS",
+        "SONS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Listen to SONS on Spotify. SONS is a four-piece rock band from Belgium known for their explosive energy, razor",
+          "source_info_link": "https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S",
+          "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmwtVFd3Nnh1NThncWVjYXExeXREWXpFaDdvd3RGbk9QczhzbjkydW9fOXEtenNyTm1Jcm1MSHBwVzF5bEdWR0trTmoxVWtxZE5fYWJqLWJiTk9ocXIwSDN1UzZvY2N1cDY3aXNwOUlmeHhNQXlqVWJDaV9wRVJESkxaVjg0N1U5b1pETmtwZVY5Sm9JEgQaAggAGo0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wIIABAAGAAgACogCgR0YXRhFd_DgEAaCHRhdGFzb25zGglpdjtwO3RhdGEyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWbC1UV3c2eHU1OGdxZWNhcTF5dERZekVoN293dEZuT1BzOHNuOTJ1b185cS16c3JObUlybUxIcHBXMXlsR1ZHS2tOajFVa3FkTl9hYmotYmJOT2hxcjBIM3VTNm9jY3VwNjdpc3A5SWZ4eE1BeWpVYkNpX3BFUkRKTFpWODQ3VTlvWkROa3BlVjlKb0k6FTxiPlNPTlM8L2I-IHwgU3BvdGlmeUJ8TGlzdGVuIHRvIDxiPlNPTlM8L2I-IG9uIFNwb3RpZnkuIDxiPlNPTlM8L2I-IGlzIGEgZm91ci1waWVjZSByb2NrIGJhbmQgZnJvbSBCZWxnaXVtIGtub3duIGZvciB0aGVpciBleHBsb3NpdmUgZW5lcmd5LCByYXpvclIBMiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVmwtVFd3Nnh1NThncWVjYXExeXREWXpFaDdvd3RGbk9QczhzbjkydW9fOXEtenNyTm1Jcm1MSHBwVzF5bEdWR0trTmoxVWtxZE5fYWJqLWJiTk9ocXIwSDN1UzZvY2N1cDY3aXNwOUlmeHhNQXlqVWJDaV9wRVJESkxaVjg0N1U5b1pETmtwZVY5Sm9JEgQaAggAGo0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wIIABAAGAAgACogCgR0YXRhFd_DgEAaCHRhdGFzb25zGglpdjtwO3RhdGEyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWbC1UV3c2eHU1OGdxZWNhcTF5dERZekVoN293dEZuT1BzOHNuOTJ1b185cS16c3JObUlybUxIcHBXMXlsR1ZHS2tOajFVa3FkTl9hYmotYmJOT2hxcjBIM3VTNm9jY3VwNjdpc3A5SWZ4eE1BeWpVYkNpX3BFUkRKTFpWODQ3VTlvWkROa3BlVjlKb0k6FTxiPlNPTlM8L2I-IHwgU3BvdGlmeUJ8TGlzdGVuIHRvIDxiPlNPTlM8L2I-IG9uIFNwb3RpZnkuIDxiPlNPTlM8L2I-IGlzIGEgZm91ci1waWVjZSByb2NrIGJhbmQgZnJvbSBCZWxnaXVtIGtub3duIGZvciB0aGVpciBleHBsb3NpdmUgZW5lcmd5LCByYXpvclIBMiICEAFIAFgAaAA",
+      "source": "Spotify - Web Player: Music for everyone"
+    },
+    {
+      "position": 2,
+      "title": "SONS - Home",
+      "link": "https://www.sonsyeahsons.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVN_pbFjA2phGmpnpOrSZC3fpXQ418Il22cIKjTFCY7kcSpCpkQYyEU2o5gJwA_MtDCdNlwaA2pEdFS91-u6Dphg0qYkVSCUQpnFbTenqWWkg&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.sonsyeahsons.com",
+      "date": "Dec 5, 2022",
+      "snippet": "SONS made a name for themselves in Benelux with their debut album &#39;Family&#39; Dinner&#39; (2019) and expanded their reach to Germany, France, Switzerland",
+      "snippet_highlighted_words": [
+        "SONS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "SONS made a name for themselves in Benelux with their debut album &#39;Family&#39; Dinner&#39; (2019) and expanded their reach to Germany, France, Switzerland",
+          "source_info_link": "https://www.sonsyeahsons.com/",
+          "icon": "https://serpapi.com/images/i/UklGRo4AAABXRUJQVlA4IIIAAACwBACdASocABwAPtE-tFooIigoFAEAGglsAJ0zaIF_qp-FoDIQaCGG3SryNWgAAP7ylX9Ov3nf_9CT_E2aoavfL3i7nHKEUZN1_3WZsxdjDMOGk-ie4Gn_e350lDr4Rtqak61IgVydDyCg3hLOwRqxCAo7ahAeGD97asZYiNvUJ4AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVk5fcGJGakEycGhHbXBucE9yU1pDM2ZwWFE0MThJbDIyY0lLalRGQ1k3a2NTcENwa1FZeUVVMm81Z0p3QV9NdERDZE5sd2FBMnBFZEZTOTEtdTZEcGhnMHFZa1ZTQ1VRcG5GYlRlbnFXV2tnEgQaAggAGp8DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-QIIABAAGAAgACogCgR0YXRhFVg1d0AaCHRhdGFzb25zGglpdjtwO3RhdGEygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWTl9wYkZqQTJwaEdtcG5wT3JTWkMzZnBYUTQxOElsMjJjSUtqVEZDWTdrY1NwQ3BrUVl5RVUybzVnSndBX010RENkTmx3YUEycEVkRlM5MS11NkRwaGcwcVlrVlNDVVFwbkZiVGVucVdXa2c6EjxiPlNPTlM8L2I-IC0gSG9tZUKxATxiPlNPTlM8L2I-IG1hZGUgYSBuYW1lIGZvciB0aGVtc2VsdmVzIGluIEJlbmVsdXggd2l0aCB0aGVpciBkZWJ1dCBhbGJ1bSAmYW1wOyMzOTtGYW1pbHkmYW1wOyMzOTsgRGlubmVyJmFtcDsjMzk7ICgyMDE5KSBhbmQgZXhwYW5kZWQgdGhlaXIgcmVhY2ggdG8gR2VybWFueSwgRnJhbmNlLCBTd2l0emVybGFuZFIBMiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVk5fcGJGakEycGhHbXBucE9yU1pDM2ZwWFE0MThJbDIyY0lLalRGQ1k3a2NTcENwa1FZeUVVMm81Z0p3QV9NdERDZE5sd2FBMnBFZEZTOTEtdTZEcGhnMHFZa1ZTQ1VRcG5GYlRlbnFXV2tnEgQaAggAGp8DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-QIIABAAGAAgACogCgR0YXRhFVg1d0AaCHRhdGFzb25zGglpdjtwO3RhdGEygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWTl9wYkZqQTJwaEdtcG5wT3JTWkMzZnBYUTQxOElsMjJjSUtqVEZDWTdrY1NwQ3BrUVl5RVUybzVnSndBX010RENkTmx3YUEycEVkRlM5MS11NkRwaGcwcVlrVlNDVVFwbkZiVGVucVdXa2c6EjxiPlNPTlM8L2I-IC0gSG9tZUKxATxiPlNPTlM8L2I-IG1hZGUgYSBuYW1lIGZvciB0aGVtc2VsdmVzIGluIEJlbmVsdXggd2l0aCB0aGVpciBkZWJ1dCBhbGJ1bSAmYW1wOyMzOTtGYW1pbHkmYW1wOyMzOTsgRGlubmVyJmFtcDsjMzk7ICgyMDE5KSBhbmQgZXhwYW5kZWQgdGhlaXIgcmVhY2ggdG8gR2VybWFueSwgRnJhbmNlLCBTd2l0emVybGFuZFIBMiICEAFIAFgAaAA",
+      "source": "sonsyeahsons.com"
+    },
+    {
+      "position": 3,
+      "title": "Stream S.O.N.S music | Listen to songs, albums, playlists ...",
+      "link": "https://soundcloud.com/s-o-n-s",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAV5vISXmFq9oF3Yem_SBC1Acr8fOdf05yqrknpMhNkJIoTHTvD93oZmNnVB24D33Be96cYZYmrpFXkhZdtNMQEJO-tFsA2Sm-Yt7RTJ6s8JW_j&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECB4QAQ&uoh=1",
+      "displayed_link": "13.6K+ followers",
+      "snippet": "Play S.O.N.S on SoundCloud and discover followers on SoundCloud | Stream tracks, albums, playlists on desktop and mobile.",
+      "snippet_highlighted_words": [
+        "S.O.N.S"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Play S.O.N.S on SoundCloud and discover followers on SoundCloud | Stream tracks, albums, playlists on desktop and mobile.",
+          "source_info_link": "https://soundcloud.com/s-o-n-s",
+          "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsALsvAnjH5ARgD8OvdaAbPZ96rUumRaOFCtKadaWAAPxTso_kXx_Xc256YoSTPjUXiO-WCn_5SgOVUhsLZ__JRr_P_cfYt8BbNz-4snGjBOyOScAe_rWzowjGrOP5AaY4DoL2D7Vnd_79V5R1n_N957RtDX2rteC2JHgB9hQXLqJg8IaDOnqW7jAo0IadZ9w0SUviPA7WeFpnfklQUFxKYveo_cgUC5lx_hEre1MVGXWPR_l-8FV7AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVjV2SVNYbUZxOW9GM1llbV9TQkMxQWNyOGZPZGYwNXlxcmtucE1oTmtKSW9USFR2RDkzb1ptTm5WQjI0RDMzQmU5NmNZWlltcnBGWGtoWmR0Tk1RRUpPLXRGc0EyU20tWXQ3UlRKNnM4SldfahIEGgIIABr4AhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNICCAAQABgAIAAqIAoEdGF0YRUrb51AGgh0YXRhc29ucxoJaXY7cDt0YXRhMoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVjV2SVNYbUZxOW9GM1llbV9TQkMxQWNyOGZPZGYwNXlxcmtucE1oTmtKSW9USFR2RDkzb1ptTm5WQjI0RDMzQmU5NmNZWlltcnBGWGtoWmR0Tk1RRUpPLXRGc0EyU20tWXQ3UlRKNnM4SldfajobPGI-Uy5PLk4uUzwvYj4gLSBTb3VuZENsb3VkQoABUGxheSA8Yj5TLk8uTi5TPC9iPiBvbiBTb3VuZENsb3VkIGFuZCBkaXNjb3ZlciBmb2xsb3dlcnMgb24gU291bmRDbG91ZCB8IFN0cmVhbSB0cmFja3MsIGFsYnVtcywgcGxheWxpc3RzIG9uIGRlc2t0b3AgYW5kIG1vYmlsZS5SATIiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVjV2SVNYbUZxOW9GM1llbV9TQkMxQWNyOGZPZGYwNXlxcmtucE1oTmtKSW9USFR2RDkzb1ptTm5WQjI0RDMzQmU5NmNZWlltcnBGWGtoWmR0Tk1RRUpPLXRGc0EyU20tWXQ3UlRKNnM4SldfahIEGgIIABr4AhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNICCAAQABgAIAAqIAoEdGF0YRUrb51AGgh0YXRhc29ucxoJaXY7cDt0YXRhMoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVjV2SVNYbUZxOW9GM1llbV9TQkMxQWNyOGZPZGYwNXlxcmtucE1oTmtKSW9USFR2RDkzb1ptTm5WQjI0RDMzQmU5NmNZWlltcnBGWGtoWmR0Tk1RRUpPLXRGc0EyU20tWXQ3UlRKNnM4SldfajobPGI-Uy5PLk4uUzwvYj4gLSBTb3VuZENsb3VkQoABUGxheSA8Yj5TLk8uTi5TPC9iPiBvbiBTb3VuZENsb3VkIGFuZCBkaXNjb3ZlciBmb2xsb3dlcnMgb24gU291bmRDbG91ZCB8IFN0cmVhbSB0cmFja3MsIGFsYnVtcywgcGxheWxpc3RzIG9uIGRlc2t0b3AgYW5kIG1vYmlsZS5SATIiAhABSABYAGgA",
+      "source": "SoundCloud · S.O.N.S"
+    },
+    {
+      "position": 4,
+      "title": "Whispering Sons (@whisperingsons)",
+      "link": "https://www.instagram.com/whisperingsons/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVOc7JMIuNBl3BnhVD_XujGyIHEQ_r-JjFJ8eBBTQA9cisa4WKE7YvKKQdK9iPNu1_OS53kEcNOeGFMX-bAkG0Duz1ihClpSMUw3yZ_HTxDtmiK4Pfptut1YJsBTMetaJ09jk&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECBoQAQ&uoh=1",
+      "displayed_link": "15K+ followers",
+      "snippet": "Our new album 'The Great Calm' is out now! helping children affected by the war in Gaza through the work of artists and teachers. Get your tickets via www. ...",
+      "about_this_result": {
+        "source": {
+          "description": "Our new album 'The Great Calm' is out now! helping children affected by the war in Gaza through the work of artists and teachers. Get your tickets via www. ...",
+          "source_info_link": "https://www.instagram.com/whisperingsons/?hl=en",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVk9jN0pNSXVOQmwzQm5oVkRfWHVqR3lJSEVRX3ItSmpGSjhlQkJUUUE5Y2lzYTRXS0U3WXZLS1FkSzlpUE51MV9PUzUza0VjTk9lR0ZNWC1iQWtHMER1ejFpaENscFNNVXczeVpfSFR4RHRtaUs0UGZwdHV0MVlKc0JUTWV0YUowOWprEgQaAggAGtQDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArgMIABAAGAAgACogCgR0YXRhFbilLEAaCHRhdGFzb25zGglpdjtwO3RhdGEymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWT2M3Sk1JdU5CbDNCbmhWRF9YdWpHeUlIRVFfci1KakZKOGVCQlRRQTljaXNhNFdLRTdZdktLUWRLOWlQTnUxX09TNTNrRWNOT2VHRk1YLWJBa0cwRHV6MWloQ2xwU01VdzN5Wl9IVHhEdG1pSzRQZnB0dXQxWUpzQlRNZXRhSjA5ams6NFdoaXNwZXJpbmcgPGI-U29uczwvYj4gKEB3aGlzcGVyaW5nc29ucykgLSBJbnN0YWdyYW1CrAFPdXIgbmV3IGFsYnVtICYjMzk7VGhlIEdyZWF0IENhbG0mIzM5OyBpcyBvdXQgbm93ISBoZWxwaW5nIGNoaWxkcmVuIGFmZmVjdGVkIGJ5IHRoZSB3YXIgaW4gR2F6YSB0aHJvdWdoIHRoZSB3b3JrIG9mIGFydGlzdHMgYW5kIHRlYWNoZXJzLiBHZXQgeW91ciB0aWNrZXRzIHZpYSB3d3cuJm5ic3A7Li4uUgEyIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVk9jN0pNSXVOQmwzQm5oVkRfWHVqR3lJSEVRX3ItSmpGSjhlQkJUUUE5Y2lzYTRXS0U3WXZLS1FkSzlpUE51MV9PUzUza0VjTk9lR0ZNWC1iQWtHMER1ejFpaENscFNNVXczeVpfSFR4RHRtaUs0UGZwdHV0MVlKc0JUTWV0YUowOWprEgQaAggAGtQDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArgMIABAAGAAgACogCgR0YXRhFbilLEAaCHRhdGFzb25zGglpdjtwO3RhdGEymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWT2M3Sk1JdU5CbDNCbmhWRF9YdWpHeUlIRVFfci1KakZKOGVCQlRRQTljaXNhNFdLRTdZdktLUWRLOWlQTnUxX09TNTNrRWNOT2VHRk1YLWJBa0cwRHV6MWloQ2xwU01VdzN5Wl9IVHhEdG1pSzRQZnB0dXQxWUpzQlRNZXRhSjA5ams6NFdoaXNwZXJpbmcgPGI-U29uczwvYj4gKEB3aGlzcGVyaW5nc29ucykgLSBJbnN0YWdyYW1CrAFPdXIgbmV3IGFsYnVtICYjMzk7VGhlIEdyZWF0IENhbG0mIzM5OyBpcyBvdXQgbm93ISBoZWxwaW5nIGNoaWxkcmVuIGFmZmVjdGVkIGJ5IHRoZSB3YXIgaW4gR2F6YSB0aHJvdWdoIHRoZSB3b3JrIG9mIGFydGlzdHMgYW5kIHRlYWNoZXJzLiBHZXQgeW91ciB0aWNrZXRzIHZpYSB3d3cuJm5ic3A7Li4uUgEyIgIQAUgAWABoAA",
+      "source": "Instagram · whisperingsons"
+    },
+    {
+      "position": 5,
+      "title": "Society of Sons and Daughters Legacy Roll",
+      "link": "https://www.pacificwarmuseum.org/join-give/society-sons-daughters",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVuGp2dBu8hz9LbPE8ZH13XEaCKiCo8hUGKF1gClyBWZAxKNhW6YNuWNMlVP-yb5uMOPC66nUZoC8iouTuxcezRZdXDUgdQQirAVGjCQiGQsWu7Q1EGpgajZalJKavsC7sgAiKIhyiShTrrkfK12fFe_wroN4&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.pacificwarmuseum.org › Join & Give",
+      "date": "Mar 30, 2021",
+      "snippet": "The Sons and Daughters Legacy Roll helps families honor that service by preserving the names and stories of those who served for future generations.",
+      "snippet_highlighted_words": [
+        "Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Sons and Daughters Legacy Roll helps families honor that service by preserving the names and stories of those who served for future generations.",
+          "source_info_link": "https://www.pacificwarmuseum.org/join-give/society-sons-daughters",
+          "icon": "https://serpapi.com/images/i/UklGRroBAABXRUJQVlA4IK4BAADwCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0zNELPoHEF5AbeDQ_8kx_bP0jjABTB_H19N78D9VfYl_SsPPRf2iBjfcondehyEJUjIAKouUnLINhNqdoAAP72EfL-38_HVqPWmbXA80hoToieEY3VOcoiyDDW72AENwKiw6BdMuHsHV0mVIm-lqPb13dDrvS-JgpXLmEIAmX4UztCdr29bsSP-WI7WyzT1_nvy2U_ujhn-Ity892ssTPYwD9xKhKHDjU41XcQLB1dsxRvpiqOLat8d3n0W8SHKyyLaNfOrCKuAzUf1aarRx__A5-5SP80nwaPyhrykOtnK7-au7FJ5Zg_98nn_5JWUzTS_3X1P0VYrIQC4kTdLqbh-f3FAgPW_RBrSPFFyRakqvOmtBIn8tgcKSg39Lliez9qu_PIfzAMBKsxM49oP6VPZCy0xjiEOomuThHyaMiHh1B6lN4nLa7NuEQ4jaP5avHlQNtS68h-SaCRLSGVOFxIvab6aRr_BbqtMkLC9zyIUMlOi7Gn9G4Gzmyb7r8bhIn5E6z_AXaCTMAjoU1d-ohc8AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnVHcDJkQnU4aHo5TGJQRThaSDEzWEVhQ0tpQ284aFVHS0YxZ0NseUJXWkF4S05oVzZZTnVXTk1sVlAteWI1dU1PUEM2Nm5VWm9DOGlvdVR1eGNlelJaZFhEVWdkUVFpckFWR2pDUWlHUXNXdTdRMUVHcGdhalphbEpLYXZzQzdzZ0FpS0loeWlTaFRycmtmSzEyZkZlX3dyb040EgQaAggAGtcDEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAsQMIABAAGAAgACogCgR0YXRhFeglmEAaCHRhdGFzb25zGglpdjtwO3RhdGEysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWdUdwMmRCdThoejlMYlBFOFpIMTNYRWFDS2lDbzhoVUdLRjFnQ2x5QldaQXhLTmhXNllOdVdOTWxWUC15YjV1TU9QQzY2blVab0M4aW91VHV4Y2V6UlpkWERVZ2RRUWlyQVZHakNRaUdRc1d1N1ExRUdwZ2FqWmFsSkthdnNDN3NnQWlLSWh5aVNoVHJya2ZLMTJmRmVfd3JvTjQ6MFNvY2lldHkgb2YgPGI-U29uczwvYj4gYW5kIERhdWdodGVycyBMZWdhY3kgUm9sbEKbAVRoZSA8Yj5Tb25zPC9iPiBhbmQgRGF1Z2h0ZXJzIExlZ2FjeSBSb2xsIGhlbHBzIGZhbWlsaWVzIGhvbm9yIHRoYXQgc2VydmljZSBieSBwcmVzZXJ2aW5nIHRoZSBuYW1lcyBhbmQgc3RvcmllcyBvZiB0aG9zZSB3aG8gc2VydmVkIGZvciBmdXR1cmUgZ2VuZXJhdGlvbnMuUgEyIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnVHcDJkQnU4aHo5TGJQRThaSDEzWEVhQ0tpQ284aFVHS0YxZ0NseUJXWkF4S05oVzZZTnVXTk1sVlAteWI1dU1PUEM2Nm5VWm9DOGlvdVR1eGNlelJaZFhEVWdkUVFpckFWR2pDUWlHUXNXdTdRMUVHcGdhalphbEpLYXZzQzdzZ0FpS0loeWlTaFRycmtmSzEyZkZlX3dyb040EgQaAggAGtcDEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAsQMIABAAGAAgACogCgR0YXRhFeglmEAaCHRhdGFzb25zGglpdjtwO3RhdGEysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWdUdwMmRCdThoejlMYlBFOFpIMTNYRWFDS2lDbzhoVUdLRjFnQ2x5QldaQXhLTmhXNllOdVdOTWxWUC15YjV1TU9QQzY2blVab0M4aW91VHV4Y2V6UlpkWERVZ2RRUWlyQVZHakNRaUdRc1d1N1ExRUdwZ2FqWmFsSkthdnNDN3NnQWlLSWh5aVNoVHJya2ZLMTJmRmVfd3JvTjQ6MFNvY2lldHkgb2YgPGI-U29uczwvYj4gYW5kIERhdWdodGVycyBMZWdhY3kgUm9sbEKbAVRoZSA8Yj5Tb25zPC9iPiBhbmQgRGF1Z2h0ZXJzIExlZ2FjeSBSb2xsIGhlbHBzIGZhbWlsaWVzIGhvbm9yIHRoYXQgc2VydmljZSBieSBwcmVzZXJ2aW5nIHRoZSBuYW1lcyBhbmQgc3RvcmllcyBvZiB0aG9zZSB3aG8gc2VydmVkIGZvciBmdXR1cmUgZ2VuZXJhdGlvbnMuUgEyIgIQAUgAWABoAA",
+      "source": "National Museum of the Pacific War"
+    },
+    {
+      "position": 6,
+      "title": "Sons of the American Legion",
+      "link": "https://www.legion.org/about/american-legion-family/sons-of-the-american-legion",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFdW4rvq2ed_jX6M8G_Y4gCG1wbL_IQRH4TBx1rlAzDaogXNwLcS53HemZUBhlE9KNMmlQa7ile_P-3hzCA67q9EqB_EO-e_30hOUIiHIw6Xw_vqg_g0vODkMaQ9f-eerPfaMkxwggJou0Dk8-ywTZNWBBHSw6-dXqOWfazXSnDukeeg&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://www.legion.org › about › sons-of-the-american-l...",
+      "date": "Mar 15, 2006",
+      "snippet": "Learn about Sons of The American Legion, a program dedicated to honoring veterans through service, leadership, patriotism and support of The American ...",
+      "snippet_highlighted_words": [
+        "Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Learn about Sons of The American Legion, a program dedicated to honoring veterans through service, leadership, patriotism and support of The American ...",
+          "source_info_link": "https://www.legion.org/about/american-legion-family/sons-of-the-american-legion",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0y44KmEAZ2a0w2Ptlkc4Bx-4iFtNYy0Ah1xK6QgAD-RIm53PzN4tu8mW_W84Z6TSH9JpPcjN4NxwH2P-vwxGhA0mv__S_xPa_TtN6-J95RLWyeSBD_a_UaK5Fe0d7Q-yr77mZslSYW7ESof5jGVw0ddLXLn9HM3s9b259BRcJQY5A-rHMYwvRp0InxfPiXV3u1_LwTOQF3j85z0xy_1i-NpFCVzIl_2HsrDig7O_pS2Pjm4dhFMPXwM2X1iYPYYyUDOOQCG1upCM5Sk1x8On9-ieQ8TxikPDA_eJKxGLXNPfg50gIf5O0AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZkVzRydnEyZWRfalg2TThHX1k0Z0NHMXdiTF9JUVJINFRCeDFybEF6RGFvZ1hOd0xjUzUzSGVtWlVCaGxFOUtOTW1sUWE3aWxlX1AtM2h6Q0E2N3E5RXFCX0VPLWVfMzBoT1VJaUhJdzZYd192cWdfZzB2T0RrTWFROWYtZWVyUGZhTWt4d2dnSm91MERrOC15d1RaTldCQkhTdzYtZFhxT1dmYXpYU25EdWtlZWcSBBoCCAAa5wMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDBAwgAEAAYACAAKiAKBHRhdGEVQOu6QBoIdGF0YXNvbnMaCWl2O3A7dGF0YTLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGZFc0cnZxMmVkX2pYNk04R19ZNGdDRzF3YkxfSVFSSDRUQngxcmxBekRhb2dYTndMY1M1M0hlbVpVQmhsRTlLTk1tbFFhN2lsZV9QLTNoekNBNjdxOUVxQl9FTy1lXzMwaE9VSWlISXc2WHdfdnFnX2cwdk9Ea01hUTlmLWVlclBmYU1reHdnZ0pvdTBEazgteXdUWk5XQkJIU3c2LWRYcU9XZmF6WFNuRHVrZWVnOiI8Yj5Tb25zPC9iPiBvZiB0aGUgQW1lcmljYW4gTGVnaW9uQqUBTGVhcm4gYWJvdXQgPGI-U29uczwvYj4gb2YgVGhlIEFtZXJpY2FuIExlZ2lvbiwgYSBwcm9ncmFtIGRlZGljYXRlZCB0byBob25vcmluZyB2ZXRlcmFucyB0aHJvdWdoIHNlcnZpY2UsIGxlYWRlcnNoaXAsIHBhdHJpb3Rpc20gYW5kIHN1cHBvcnQgb2YgVGhlIEFtZXJpY2FuJm5ic3A7Li4uUgEyIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZkVzRydnEyZWRfalg2TThHX1k0Z0NHMXdiTF9JUVJINFRCeDFybEF6RGFvZ1hOd0xjUzUzSGVtWlVCaGxFOUtOTW1sUWE3aWxlX1AtM2h6Q0E2N3E5RXFCX0VPLWVfMzBoT1VJaUhJdzZYd192cWdfZzB2T0RrTWFROWYtZWVyUGZhTWt4d2dnSm91MERrOC15d1RaTldCQkhTdzYtZFhxT1dmYXpYU25EdWtlZWcSBBoCCAAa5wMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDBAwgAEAAYACAAKiAKBHRhdGEVQOu6QBoIdGF0YXNvbnMaCWl2O3A7dGF0YTLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGZFc0cnZxMmVkX2pYNk04R19ZNGdDRzF3YkxfSVFSSDRUQngxcmxBekRhb2dYTndMY1M1M0hlbVpVQmhsRTlLTk1tbFFhN2lsZV9QLTNoekNBNjdxOUVxQl9FTy1lXzMwaE9VSWlISXc2WHdfdnFnX2cwdk9Ea01hUTlmLWVlclBmYU1reHdnZ0pvdTBEazgteXdUWk5XQkJIU3c2LWRYcU9XZmF6WFNuRHVrZWVnOiI8Yj5Tb25zPC9iPiBvZiB0aGUgQW1lcmljYW4gTGVnaW9uQqUBTGVhcm4gYWJvdXQgPGI-U29uczwvYj4gb2YgVGhlIEFtZXJpY2FuIExlZ2lvbiwgYSBwcm9ncmFtIGRlZGljYXRlZCB0byBob25vcmluZyB2ZXRlcmFucyB0aHJvdWdoIHNlcnZpY2UsIGxlYWRlcnNoaXAsIHBhdHJpb3Rpc20gYW5kIHN1cHBvcnQgb2YgVGhlIEFtZXJpY2FuJm5ic3A7Li4uUgEyIgIQAUgAWABoAA",
+      "source": "The American Legion"
+    },
+    {
+      "position": 7,
+      "title": "Stephen on Sons of Anarchy",
+      "link": "https://stephenking.com/other/sons/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVCZisSUiO8XWcjJ6mb59CuqZpzgwxhBJ3wv6RcJP6JE3vaWam1Iv44vEBvoE8hRAdDxj3f84kVVJYAOHHqqkxPRmZcSDeyRr45fUKZW0htH5TnXAAplw&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://stephenking.com › other › sons",
+      "date": "May 27, 2010",
+      "snippet": "The short form is I had a chance to act on Sons of Anarchy (known simply to those of us who watch on FX as Sons or SOA), and I jumped at the chance.",
+      "snippet_highlighted_words": [
+        "Sons",
+        "Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The short form is I had a chance to act on Sons of Anarchy (known simply to those of us who watch on FX as Sons or SOA), and I jumped at the chance.",
+          "source_info_link": "https://stephenking.com/other/sons/",
+          "icon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAAAwBwCdASogACAAPtEutFooIagoGAEAGgllAMOyodRgfASBSqCGeeO87oVzchA07mO7nhbhKgnH_t5u14xmtABi7AAA_u1MOnVbEh5iS5aQBVBQJ0ks0Eh-fDDFGUnicT7a3Vkudn4Ut8D_LR8vn0FPoYV7WwRRIlaKQ8LL0L8k0Jq70EBTF9_i7QhntnY0i4hf4Nmb-WCKlhTMqTWF1DbeSu394US_wD6APiFk_JkvF9H2ePJdB0x5BvGv3vX_3sgEPHhET_Y5amF8qoIz-qeh7IXAzmLbc0wDfvEhSvh0butwLcHjfN64BHoWFWGk7orl_9DAyqUuj0DFZZrfIi1DHsI82szIKBHIoIJlFFKftWFY4Fw7hc1NVqbx8IAQfY-vqA_LjCNffrpe0O6RZhgsv8P3mn4P5oENtgRK-jdgDLhSQXvPy5tju-C7SOUrc6_5FXg4ftPIXT5fh1Zmn98P1L2eQnD0NGARxTp5mCnSJFFdMnf_Nev_uD9OH1HjmdBbuk3_w6_cGaqLBbe2ig8Re_IVknL_IowAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkNaaXNTVWlPOFhXY2pKNm1iNTlDdXFacHpnd3hoQkozd3Y2UmNKUDZKRTN2YVdhbTFJdjQ0dkVCdm9FOGhSQWREeGozZjg0a1ZWSllBT0hIcXFreFBSbVpjU0RleVJyNDVmVUtaVzBodEg1VG5YQUFwbHcSBBoCCAAapwMSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCBAwgAEAAYACAAKiAKBHRhdGEVOhCVQBoIdGF0YXNvbnMaCWl2O3A7dGF0YTKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZDWmlzU1VpTzhYV2NqSjZtYjU5Q3VxWnB6Z3d4aEJKM3d2NlJjSlA2SkUzdmFXYW0xSXY0NHZFQnZvRThoUkFkRHhqM2Y4NGtWVkpZQU9ISHFxa3hQUm1aY1NEZXlScjQ1ZlVLWlcwaHRINVRuWEFBcGx3OiFTdGVwaGVuIG9uIDxiPlNvbnM8L2I-IG9mIEFuYXJjaHlCogFUaGUgc2hvcnQgZm9ybSBpcyBJIGhhZCBhIGNoYW5jZSB0byBhY3Qgb24gPGI-U29uczwvYj4gb2YgQW5hcmNoeSAoa25vd24gc2ltcGx5IHRvIHRob3NlIG9mIHVzIHdobyB3YXRjaCBvbiBGWCBhcyA8Yj5Tb25zPC9iPiBvciBTT0EpLCBhbmQgSSBqdW1wZWQgYXQgdGhlIGNoYW5jZS5SATIiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkNaaXNTVWlPOFhXY2pKNm1iNTlDdXFacHpnd3hoQkozd3Y2UmNKUDZKRTN2YVdhbTFJdjQ0dkVCdm9FOGhSQWREeGozZjg0a1ZWSllBT0hIcXFreFBSbVpjU0RleVJyNDVmVUtaVzBodEg1VG5YQUFwbHcSBBoCCAAapwMSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCBAwgAEAAYACAAKiAKBHRhdGEVOhCVQBoIdGF0YXNvbnMaCWl2O3A7dGF0YTKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZDWmlzU1VpTzhYV2NqSjZtYjU5Q3VxWnB6Z3d4aEJKM3d2NlJjSlA2SkUzdmFXYW0xSXY0NHZFQnZvRThoUkFkRHhqM2Y4NGtWVkpZQU9ISHFxa3hQUm1aY1NEZXlScjQ1ZlVLWlcwaHRINVRuWEFBcGx3OiFTdGVwaGVuIG9uIDxiPlNvbnM8L2I-IG9mIEFuYXJjaHlCogFUaGUgc2hvcnQgZm9ybSBpcyBJIGhhZCBhIGNoYW5jZSB0byBhY3Qgb24gPGI-U29uczwvYj4gb2YgQW5hcmNoeSAoa25vd24gc2ltcGx5IHRvIHRob3NlIG9mIHVzIHdobyB3YXRjaCBvbiBGWCBhcyA8Yj5Tb25zPC9iPiBvciBTT0EpLCBhbmQgSSBqdW1wZWQgYXQgdGhlIGNoYW5jZS5SATIiAhABSABYAGgA",
+      "source": "StephenKing.com"
+    },
+    {
+      "position": 8,
+      "title": "SONS - Somehow (Official Video)",
+      "link": "https://www.youtube.com/watch?v=JyDc4gPOdBI&xstg=CAMSBhUD_LL2Hw%3D%3D",
+      "displayed_link": "34.2K+ views · 12 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab2be3048c7916aa696df09/images/mB3ieyKvvXtccW_5OA5l1vkz6c-daoW0KRaMCoKhuNk.jpeg",
+      "snippet": "Somehow is taken from SONS&#39;s upcoming. SONS - Somehow (Official Video) a rare sound that brings back an era we thought was lost. This band has the power to ...",
+      "duration": "3:30",
+      "about_this_result": {
+        "source": {
+          "description": "Somehow is taken from SONS&#39;s upcoming. SONS - Somehow (Official Video) a rare sound that brings back an era we thought was lost. This band has the power to ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVk9DWHRRa0w4UzhtdEN4RWlIWGkxRUc0R1YwaHltS3J4SXFEczRyTDc0RjIzb1lPU0c5NTYzVzB6SXdHV2N4OXJJc0ZUZDMzdDlacWtsVW9FUTIyQjE0Z1VIMUZ3YWQ5M1FyMGtZTFlmOGdraXJnR0M4dF9VOWQxdzZITk5rOFhOMm9PREg4UlVwRkt6WVQ0ejN4NkdWbVM0UHVWeDc2a1cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVk9DWHRRa0w4UzhtdEN4RWlIWGkxRUc0R1YwaHltS3J4SXFEczRyTDc0RjIzb1lPU0c5NTYzVzB6SXdHV2N4OXJJc0ZUZDMzdDlacWtsVW9FUTIyQjE0Z1VIMUZ3YWQ5M1FyMGtZTFlmOGdraXJnR0M4dF9VOWQxdzZITk5rOFhOMm9PREg4UlVwRkt6WVQ0ejN4NkdWbVM0UHVWeDc2a1cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSdh6dBc5snQzrJO6Er-5k6NfPnHNeaVvVbSA",
+      "source": "YouTube · SONS"
+    },
+    {
+      "position": 9,
+      "title": "My son's future may look different from others, but I know ...",
+      "link": "https://www.autismspeaks.org/blog/my-sons-future-may-look-different-others-i-know-he-happy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFQbZJteGhBqDGVAraNvzjqxtuy_M3E5HNbcAyqdBV4OTx_Z1AQohab87KMsPj0LhNWN2iVN6CHRqRC7sBRTR4kj_7wSneaJTqKTSqmNyxCijQWw2T4F2QuCrxN0ktv2R7gbPzo7NyZObBDi5W7FNWpHogPpJ2fT6grv8B8N1_fGzM1pZC2OejpDenmxLdA&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQFnoECDoQAQ&uoh=1",
+      "displayed_link": "https://www.autismspeaks.org › blog › my-sons-future-m...",
+      "date": "Oct 2, 2017",
+      "snippet": "Kimberlee, mother to two sons on the autism spectrum, reflects on a conversation with friends about her autistic sons schooling.",
+      "snippet_highlighted_words": [
+        "two sons",
+        "sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kimberlee, mother to two sons on the autism spectrum, reflects on a conversation with friends about her autistic sons schooling.",
+          "source_info_link": "https://www.autismspeaks.org/blog/my-sons-future-may-look-different-others-i-know-he-happy",
+          "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAADwBwCdASogACAAPtE-tFooIigoFAEAGglsALElQX4Bp0DS0QQYDboc9n5__SqjZP01raAWLk7wMKNZ3zgWMwjt1VHY6FZZ2QAA_v0sV5NpmasEW3EnmvdhFGnRI38xUOP0UwV5qlOzWyCv463nx9V0aMgA3GjuR5FIC_oAWPjKt7okOlOU0mBfIa-XQ1Br9v-blIFZNqCZDZRIJRHbPYI1aKZ84lzFazaQvX77XBekzVj26GIwBk5OoznotX2Wwww92jUbvyxz1UoB75U5URF7e5tBzE79228FRdBpgzrwEOSDUlW72kf8G9dUt2YFYbK4hoRtItIRUJfqmPn_Lx_pn5yPvR5-pc9yzG-_JaWhL_rexfzkgJUByzncqAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZRYlpKdGVHaEJxREdWQXJhTnZ6anF4dHV5X00zRTVITmJjQXlxZEJWNE9UeF9aMUFRb2hhYjg3S01zUGowTGhOV04yaVZONkNIUnFSQzdzQlJUUjRral83d1NuZWFKVHFLVFNxbU55eENpalFXdzJUNEYyUXVDcnhOMGt0djJSN2diUHpvN055Wk9iQkRpNVc3Rk5XcEhvZ1BwSjJmVDZncnY4QjhOMV9mR3pNMXBaQzJPZWpwRGVubXhMZEESBBoCCAAajAQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDmAwgAEAAYACAAKiAKBHRhdGEVy7AsPxoIdGF0YXNvbnMaCWl2O3A7dGF0YTLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGUWJaSnRlR2hCcURHVkFyYU52empxeHR1eV9NM0U1SE5iY0F5cWRCVjRPVHhfWjFBUW9oYWI4N0tNc1BqMExoTldOMmlWTjZDSFJxUkM3c0JSVFI0a2pfN3dTbmVhSlRxS1RTcW1OeXhDaWpRV3cyVDRGMlF1Q3J4TjBrdHYyUjdnYlB6bzdOeVpPYkJEaTVXN0ZOV3BIb2dQcEoyZlQ2Z3J2OEI4TjFfZkd6TTFwWkMyT2VqcERlbm14TGRBOk9NeSA8Yj5zb24mIzM5O3M8L2I-IGZ1dHVyZSBtYXkgbG9vayBkaWZmZXJlbnQgZnJvbSBvdGhlcnMsIGJ1dCBJIGtub3cgaGUgaXMgLi4uQo4BS2ltYmVybGVlLCBtb3RoZXIgdG8gPGI-dHdvIHNvbnM8L2I-IG9uIHRoZSBhdXRpc20gc3BlY3RydW0sIHJlZmxlY3RzIG9uIGEgY29udmVyc2F0aW9uIHdpdGggZnJpZW5kcyBhYm91dCBoZXIgYXV0aXN0aWMgPGI-c29uczwvYj4gc2Nob29saW5nLlIBMiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZRYlpKdGVHaEJxREdWQXJhTnZ6anF4dHV5X00zRTVITmJjQXlxZEJWNE9UeF9aMUFRb2hhYjg3S01zUGowTGhOV04yaVZONkNIUnFSQzdzQlJUUjRral83d1NuZWFKVHFLVFNxbU55eENpalFXdzJUNEYyUXVDcnhOMGt0djJSN2diUHpvN055Wk9iQkRpNVc3Rk5XcEhvZ1BwSjJmVDZncnY4QjhOMV9mR3pNMXBaQzJPZWpwRGVubXhMZEESBBoCCAAajAQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDmAwgAEAAYACAAKiAKBHRhdGEVy7AsPxoIdGF0YXNvbnMaCWl2O3A7dGF0YTLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGUWJaSnRlR2hCcURHVkFyYU52empxeHR1eV9NM0U1SE5iY0F5cWRCVjRPVHhfWjFBUW9oYWI4N0tNc1BqMExoTldOMmlWTjZDSFJxUkM3c0JSVFI0a2pfN3dTbmVhSlRxS1RTcW1OeXhDaWpRV3cyVDRGMlF1Q3J4TjBrdHYyUjdnYlB6bzdOeVpPYkJEaTVXN0ZOV3BIb2dQcEoyZlQ2Z3J2OEI4TjFfZkd6TTFwWkMyT2VqcERlbm14TGRBOk9NeSA8Yj5zb24mIzM5O3M8L2I-IGZ1dHVyZSBtYXkgbG9vayBkaWZmZXJlbnQgZnJvbSBvdGhlcnMsIGJ1dCBJIGtub3cgaGUgaXMgLi4uQo4BS2ltYmVybGVlLCBtb3RoZXIgdG8gPGI-dHdvIHNvbnM8L2I-IG9uIHRoZSBhdXRpc20gc3BlY3RydW0sIHJlZmxlY3RzIG9uIGEgY29udmVyc2F0aW9uIHdpdGggZnJpZW5kcyBhYm91dCBoZXIgYXV0aXN0aWMgPGI-c29uczwvYj4gc2Nob29saW5nLlIBMiICEAFIAFgAaAA",
+      "source": "Autism Speaks"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+two+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQntLHl-KmOq58gsgiHtj5fBHbuwI9w:1790098992098&ei=ML6yatzLBeWLptQPneCP2Q0&start=10&sa=N&sstk=AS6-VmJxzBnUIoionx_SCwdymj7bdSQYQWJwXazKke3tXpryz_kUZ9a3PlOZH15TpfzFFV47uDI7l2M6KjztQOArsMoRGvVDb8lDng&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQ8NMDegQIORAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+two+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQntLHl-KmOq58gsgiHtj5fBHbuwI9w:1790098992098&ei=ML6yatzLBeWLptQPneCP2Q0&start=10&sa=N&sstk=AS6-VmJxzBnUIoionx_SCwdymj7bdSQYQWJwXazKke3tXpryz_kUZ9a3PlOZH15TpfzFFV47uDI7l2M6KjztQOArsMoRGvVDb8lDng&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+two+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQntLHl-KmOq58gsgiHtj5fBHbuwI9w:1790098992098&ei=ML6yatzLBeWLptQPneCP2Q0&start=20&sa=N&sstk=AS6-VmJxzBnUIoionx_SCwdymj7bdSQYQWJwXazKke3tXpryz_kUZ9a3PlOZH15TpfzFFV47uDI7l2M6KjztQOArsMoRGvVDb8lDng&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+two+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQntLHl-KmOq58gsgiHtj5fBHbuwI9w:1790098992098&ei=ML6yatzLBeWLptQPneCP2Q0&start=30&sa=N&sstk=AS6-VmJxzBnUIoionx_SCwdymj7bdSQYQWJwXazKke3tXpryz_kUZ9a3PlOZH15TpfzFFV47uDI7l2M6KjztQOArsMoRGvVDb8lDng&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+two+before:2026-01-01&sca_esv=ab3964043a1b023d&sxsrf=APpeQntLHl-KmOq58gsgiHtj5fBHbuwI9w:1790098992098&ei=ML6yatzLBeWLptQPneCP2Q0&start=40&sa=N&sstk=AS6-VmJxzBnUIoionx_SCwdymj7bdSQYQWJwXazKke3tXpryz_kUZ9a3PlOZH15TpfzFFV47uDI7l2M6KjztQOArsMoRGvVDb8lDng&ved=2ahUKEwjco6W03oKXAxXlhYkEHR3wI9sQ8tMDegQIORAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+two+before%3A2026-01-01&start=40"
+    }
+  }
+}

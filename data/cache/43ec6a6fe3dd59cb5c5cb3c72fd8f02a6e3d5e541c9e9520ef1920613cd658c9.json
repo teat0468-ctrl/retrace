@@ -1,0 +1,512 @@
+{
+  "search_metadata": {
+    "id": "6ab36af471a90dc37afc8401",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9r3RsqsdQDlo_oSXG7X1rjS__dBNdWTOhjfqgGrHGHI/6ab36af471a90dc37afc8401.json",
+    "markdown_endpoint": "https://serpapi.com/searches/9r3RsqsdQDlo_oSXG7X1rjS__dBNdWTOhjfqgGrHGHI/6ab36af471a90dc37afc8401.md",
+    "created_at": "2026-09-23 06:00:20 UTC",
+    "processed_at": "2026-09-23 06:00:20 UTC",
+    "google_news_url": "https://news.google.com/search?q=Tata+Sons+Tata+Trusts+dispute+escalating+newly",
+    "raw_html_file": "https://serpapi.com/searches/9r3RsqsdQDlo_oSXG7X1rjS__dBNdWTOhjfqgGrHGHI/6ab36af471a90dc37afc8401.html",
+    "total_time_taken": 0.52
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Tata Sons Tata Trusts dispute escalating newly"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Tata’s rival camps lawyer up ahead of looming legal battle",
+      "source": {
+        "name": "inkl",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inkl.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.inkl.com/news/tatas-rival-camps-lawyer-up-ahead-of-looming-legal-battle",
+      "thumbnail": "https://img.etimg.com/photo/imgsize-187414,msid-134367514/134367514.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpjWFZsVXpodGEwUlZlRFZEVFJEZ0F4aUFCU2dLTWdZSkFaREZnZ3c",
+      "date": "09/20/2026, 11:47 AM, +0000 UTC",
+      "iso_date": "2026-09-20T11:47:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Tata Sons vs Tata Trusts: Situation Definitely Headed For Legal Fight, Says Abhishek Singhvi",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yukta Baid"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/business/tata-sons-vs-tata-trusts-situation-definitely-headed-for-legal-fight-says-abhishek-singhvi-12074377",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/3iufuu9c_n-chandrasekaran-noel-tata_625x300_17_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZUeTFQTmtkME9UQlBialJyVFJDZkF4ampCU2dLTWdtTk1wN0duaWxGYUFJ",
+      "date": "09/21/2026, 04:01 AM, +0000 UTC",
+      "iso_date": "2026-09-21T04:01:23Z"
+    },
+    {
+      "position": 3,
+      "title": "Tata Sons Listing Battle: Who Stands Where & Controls What",
+      "source": {
+        "name": "Rediff MoneyWiz",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://money.rediff.com/news/market/tata-sons-listing-battle-who-stands-where-controls-what/54561420260918",
+      "thumbnail": "https://im.rediff.com/1200-900/money/2016/oct/28tata1-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRXVXBhU2t0RlFWWTFhbTVRVFJEZ0F4aUFCU2dLTWdhQmdZd3ZzUVU",
+      "date": "09/18/2026, 10:34 AM, +0000 UTC",
+      "iso_date": "2026-09-18T10:34:24Z"
+    },
+    {
+      "position": 4,
+      "title": "Tata Trusts fires fresh salvo on Chandrasekaran, listing issues",
+      "source": {
+        "name": "FM Bharat",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fmbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fmbharat.com/en/business/tata-trusts-fires-fresh-salvo-on-chandrasekaran-listing-issues",
+      "thumbnail": "https://www.fmbharat.com/_next/image?url=https%3A%2F%2Ffastmail-media-318270725886-ap-south-1-an.s3.ap-south-1.amazonaws.com%2Fnews-images%2F1789910102212-9bmm0jyhjn5.jpeg&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNRM0ZYZG01TlNWTkVUbk55VFJEQ0FSaURBaWdCTWdheE5KcXZuUWs",
+      "date": "09/20/2026, 01:21 PM, +0000 UTC",
+      "iso_date": "2026-09-20T13:21:14Z"
+    },
+    {
+      "position": 5,
+      "title": "Tata's rival camps line up top lawyers ahead of looming legal battle",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Menaka Doshi"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/tata-s-rival-camps-line-up-top-lawyers-ahead-of-looming-legal-battle-126092100072_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/21/full/1789957997-6664.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaMnBCZDFaMGVUSmhabHBJVFJERUF4aW1CU2dLTWdhRkFaQ25nZ3c",
+      "date": "09/21/2026, 02:40 AM, +0000 UTC",
+      "iso_date": "2026-09-21T02:40:35Z"
+    },
+    {
+      "position": 6,
+      "title": "Tata Chemicals, Tata Investment Corp shares fall up to 3% as boardroom battle likely to reach court",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debaroti Adhikary"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/stocks/news/tata-chemicals-tata-investment-corp-shares-fall-up-to-3-as-boardroom-battle-likely-to-reach-court/articleshow/134379458.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134379550,width-1200,height-900,resizemode-4,imgsize-2391833/tata-chemicals-tata-investment-corp-shares-fall-up-to-3-as-boardroom-battle-likely-to-reach-courtbr.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUJXbFZZV21aU1RGSmZMV3RTVFJEZ0F4aUFCU2dLTWdB",
+      "date": "09/21/2026, 04:07 AM, +0000 UTC",
+      "iso_date": "2026-09-21T04:07:35Z"
+    },
+    {
+      "position": 7,
+      "title": "Tata Sons dispute: Singhvi, advising Tata Trusts, says shareholder rights cannot be ‘nullified’",
+      "source": {
+        "name": "SME Futures",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://smefutures.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "nishtha narayan"
+        ]
+      },
+      "link": "https://smefutures.com/tata-sons-dispute-singhvi-advising-tata-trusts-says-shareholder-rights-cannot-be-nullified/",
+      "thumbnail": "https://smefutures.com/wp-content/uploads/2026/09/Tata-Sons-dispute-Singhvi-advising-Tata-Trusts-says-shareholder-rights-cannot-be-nullified-1-1-copy.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxabkZwVGpWclYxUmhkR1ZqVFJDZkF4ampCU2dLTWdhdFJKU3ZvUWM",
+      "date": "09/22/2026, 07:56 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:56:27Z"
+    },
+    {
+      "position": 8,
+      "title": "Tata Aeris launch on September 25: Tata's new sedan…",
+      "source": {
+        "name": "inkl",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inkl.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.inkl.com/news/tata-aeris-launch-on-september-25-tatas-new-sedan-expected-with-cng-option-rivaling-maruti-suzuki-dzire-hyundai-aura-may-replace-tigor-ktjpsdnd",
+      "thumbnail": "https://img.etimg.com/photo/imgsize-126707,msid-134378232/134378232.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJlVkZGUTBKNGVWTlFSbE55VFJEZ0F4aUFCU2dLTWdtQmdKVFZOS2V4N1FF",
+      "date": "09/21/2026, 05:04 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:04:28Z"
+    },
+    {
+      "position": 9,
+      "title": "N Chandrasekaran steps down: How power struggle at Tata group is deepening with exit of Ratan Tata’s key",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekaran-steps-down-how-power-struggle-at-tata-group-is-deepening-with-exit-of-ratan-tatas-key-allies/articleshow/133187749.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133187841,width-1280,height-720,imgsize-388875,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZa3BUY1hCU1VGVTBhMnd6VFJDZkF4ampCU2dLTWdhbFpJYXRMUVU",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Tata Trusts Meetings To Proceed after Bombay HC Declines Urgent Intervention in Trustee Row",
+      "source": {
+        "name": "moneylife.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneylife.in/article/tata-trusts-meetings-to-proceed-after-bombay-hc-declines-urgent-intervention-in-trustee-row/80400.html",
+      "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/large_BHC_7May26.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlXRUpHU1RaWlJHUkhNemRRVFJDZUF4amxCU2dLTWdrQkE0UW9oaXRrU2dJ",
+      "date": "05/07/2026, 10:07 AM, +0000 UTC",
+      "iso_date": "2026-05-07T10:07:49Z"
+    },
+    {
+      "position": 11,
+      "title": "This Week in Explainers: Why Tata Trusts dispute is not good news for the country",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/this-week-in-explainers-tata-trusts-dispute-noel-tata-mehli-mistry-13941035.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2025/10/1-2025-10-b3b3ce252b780948e80b9ff4818043f2.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBha05IU0djNVlrOU1TVFo0VFJDZkF4ampCU2dLTWdhQkpKNnZtUWs",
+      "date": "10/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-11T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Tata Sons vs Tata Trusts set for courtroom showdown: All you need to know",
+      "source": {
+        "name": "indiatoday.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sonu Vivek"
+        ]
+      },
+      "link": "https://www.indiatoday.in/amp/business/story/tata-sons-legal-battle-tata-trusts-lawyers-n-chandrasekaran-camp-lawyers-list-salve-vs-singhvi-2999224-2026-09-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/abhishek-manu-singhvi--harish-salve-175407812-original-sixteen-to-nine.jpeg?VersionId=Z5KoQQnIfDsXcgEUjuFJbuS3C5g2ov4t&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJRMnB5ZGxGR1JWOWZTRGhKVFJDZkF4ampCU2dLTWdrQllaYldxQ2VhQ2dJ",
+      "date": "09/21/2026, 04:57 AM, +0000 UTC",
+      "iso_date": "2026-09-21T04:57:50Z"
+    },
+    {
+      "position": 13,
+      "title": "Satellites under siege? Kaspersky flags growing cyber risks in space systems",
+      "source": {
+        "name": "Gulf Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gulfbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nida Sohail"
+        ]
+      },
+      "link": "https://gulfbusiness.com/en/2026/tech/satellites-under-siege-kaspersky-flags-growing-cyber-risks-in-space-systems/",
+      "thumbnail": "https://media.gulfbusiness.com/2026/09/Kaspersky.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZXa0ZmVVRCUmQzSlFiVWhIVFJDZkF4ampCU2dLTWdhWlE1Q3RHUVk",
+      "date": "09/20/2026, 05:58 AM, +0000 UTC",
+      "iso_date": "2026-09-20T05:58:58Z"
+    },
+    {
+      "position": 14,
+      "title": "Tata Sons board meeting ends amid focus on leadership and group performance concerns",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-meeting-ends-amid-focus-on-leadership-and-group-performance-concerns/articleshow/131330276.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131330282,width-1280,height-720,imgsize-722752,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhXV3BQUmxCcmNFNW9lRnB4VFJDZkF4ampCU2dLTWdhcEk1TE5sUW8",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Tata Sons Boardroom Battle: Listing Decision Sparks Controversy",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rediff.com/business/report/tata-sons-listing-board-approves-public-offering-amidst-shareholder-disagreement/20260918.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/money/2025/oct/24tata-bombay-house.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdURGxzVkhSTVUwMDRVV2cxVFJDZkF4ampCU2dLTWdhbEJJaU55UU0",
+      "date": "09/18/2026, 10:59 AM, +0000 UTC",
+      "iso_date": "2026-09-18T10:59:30Z"
+    },
+    {
+      "position": 16,
+      "title": "Mehli says Tata bye bye a week after his ouster",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Reeba Zachariah"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/mehli-says-tata-bye-bye-a-week-after-his-ouster/articleshow/125099219.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125099238,width-1280,height-720,resizemode-4/125099238.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNVbWsyUmxKcFZsSldRVXg1VFJDZkF4ampCU2dLTWdhaFJJYXRvUVE",
+      "date": "11/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-05T08:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Why Is Mehli Mistry Against Noel Tata?",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dev Chatterjee"
+        ]
+      },
+      "link": "https://www.rediff.com/business/report/why-is-mehli-mistry-against-noel-tata/20251008.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/money/2025/oct/08bombay-house-tata-trusts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZiR2MyVVV4SWRWSXhaM3B5VFJDZkF4ampCU2dLTWdZZFJJQnNvUWs",
+      "date": "10/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-08T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Tata Sons Dilemma: To List Or Not To List",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nivedita Mookerji"
+        ]
+      },
+      "link": "https://www.rediff.com/business/special/tata-sons-dilemma-to-list-or-not-to-list/20260526.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/money/2025/oct/08bombay-house-tata-trusts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZiR2MyVVV4SWRWSXhaM3B5VFJDZkF4ampCU2dLTWdZZFJJQnNvUWs",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "'Nobody is bigger than the institution': Mehli Mistry exits Tata Trusts; urges transparency and good gove",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/nobody-is-bigger-than-the-institution-mehli-mistry-exits-tata-trusts-urges-transparency-and-good-governance-in-farewell-note/articleshow/125092840.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125099642,width-1280,height-720,resizemode-4/125099642.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhPVUZHWVV0V1gxQk1OMGRsVFJDZkF4ampCU2dLTWdZOWNvWVRzUVE",
+      "date": "11/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-05T08:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Tata Trusts board 'illegal', replace it: Mehli Mistry",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Reeba Zachariah"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/tata-trusts-board-illegal-replace-it-mehli/articleshow/130296089.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-130296089,width-1280,height-720,imgsize-9972,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTViakJqY0hWdWJWVkNUblZNVFJDZkF4ampCU2dLTWdhZFJJaXRvUVE",
+      "date": "04/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-16T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Mehli Mistry's term renewal: Three Tata Trusts trustees yet to respond",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dev Chatterjee",
+          "Nivedita Mookerji"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/mehli-mistry-s-term-renewal-three-tata-trusts-trustees-yet-to-respond-125102600820_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/16/full/1684259369-7863.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBVSHBIUXpSclFqWjZZV1IzVFJEZ0F4aUFCU2dLTWdrWkk0U3MxYUo2aUFJ",
+      "date": "10/26/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-26T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Battle lines drawn at Tata Trusts ahead of vote on Mehli Mistry",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/company/corporate-trends/tata-trusts-to-take-a-call-on-mehli-mistrys-reappointment-today/articleshow/124861537.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-124861626,width-1200,height-900,resizemode-4,imgsize-22466/noel-tata-1-.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNXWE4yY2taWVJXeGlSWFpWVFJEZ0F4aUFCU2dLTWdZbE5wcnNIUWs",
+      "date": "10/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-28T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Government urges Tata Group to resolve dispute and restore stability: Report - India Today",
+      "source": {
+        "name": "indiatoday.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/business/video/government-urges-tata-group-to-resolve-dispute-and-restore-stability-report-2799731-2025-10-08",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202510/tata-group-internal-dispute-084420184-16x9_0.jpg?VersionId=gJdxbLTcHDu7NPEbDqkzXSgzkq3GtnjC?size=647:363",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhjV05aTlZWUkxUbFZVSGxRVFJDZkF4ampCU2dLTWdrRmNKYk5yV2NlREFJ",
+      "date": "10/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-08T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Iran conflict enters 5th week, Brent above $115: what lies for Nifty? | Opening Bell",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/videos/business/markets/iran-conflict-enters-5th-week-brent-above-115-what-lies-for-nifty-opening-bell-2-13876181.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260401022027_OB-1.jpeg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRibmxzZFdSbU5uQlFhMng0VFJDZkF4ampCU2dLTWdB",
+      "date": "04/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-01T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Tata Group stocks face fresh risk as Trusts-Sons row escalates: Which stock looks most attractive now?",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pranati Deva"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-face-fresh-risk-as-trusts-sons-row-escalates-which-stock-looks-most-attractive-now-11789989497661.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/tata_sons_1789990398735_3tro_1789990402737_qDwC_85fcda43-e657-4699-9dda-37e944d9f6c3_RFhB.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5abmhxVldoMGJVSm1SRGxQVFJDZkF4amlCU2dLTWdrTkVJcExNU1VtU0FJ",
+      "date": "09/21/2026, 11:46 AM, +0000 UTC",
+      "iso_date": "2026-09-21T11:46:07Z"
+    },
+    {
+      "position": 26,
+      "title": "Tata Group battle turns into legal heavyweight showdown",
+      "source": {
+        "name": "Daijiworld",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.daijiworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.daijiworld.com/news/newsDisplay?newsID=1326298",
+      "thumbnail": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ASM_showdown_21092026_1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpiQzFuTUVKU2FWUkVkV0l4VFJDM0F4aW1CQ2dLTWdZZFE0aU9uUWc",
+      "date": "09/21/2026, 03:34 AM, +0000 UTC",
+      "iso_date": "2026-09-21T03:34:39Z"
+    },
+    {
+      "position": 27,
+      "title": "Tata Trusts step up battle as legal heavyweights join",
+      "source": {
+        "name": "financialexpress.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.financialexpress.com/business/news/tata-trusts-step-up-battle-as-legal-heavyweights-join/4343470/",
+      "thumbnail": "https://images.financialexpressdigital.com/2026/09/Tata-trusts_ccde4e_20260913143155_20260920141100.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJPVWQ1WDI5UVZVbEZNRlIwVFJDZkF4ampCU2dLTWdrUk00NVJIU2VxYVFJ",
+      "date": "09/20/2026, 02:13 PM, +0000 UTC",
+      "iso_date": "2026-09-20T14:13:02Z"
+    },
+    {
+      "position": 28,
+      "title": "Tata Trusts Cites 2021 Supreme Court Ruling in Boardroom Standoff",
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://streamlinefeed.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://streamlinefeed.co.ke/news/tata-trusts-cites-2021-supreme-court-ruling-in-boardroom-standoff",
+      "thumbnail": "https://streamlinefeed.co.ke/news-fallbacks/business.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlVRWRRYmpJNVYyVjVOekpHVFJDZkF4amlCU2dLTWdZQlVJWURTd1U",
+      "date": "09/22/2026, 08:54 AM, +0000 UTC",
+      "iso_date": "2026-09-22T08:54:13Z"
+    },
+    {
+      "position": 29,
+      "title": "Cyrus Mistry responds to allegations of bad management",
+      "source": {
+        "name": "Forbes India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.forbesindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aveek Datta"
+        ]
+      },
+      "link": "https://www.forbesindia.com/article/battle-at-bombay-house/cyrus-mistry-responds-to-allegations-of-bad-management/44673/1",
+      "thumbnail": "https://images.forbesindia.com/blog/wp-content/uploads//media/images/2016/Nov/img_89527_cyrus_sm.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSMHBGU2tZNGVsbHBVVzlWVFJDZkF4ampCU2dLTWdhcFZaYnRvUWc",
+      "date": "11/01/2016, 07:00 AM, +0000 UTC",
+      "iso_date": "2016-11-01T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Tata, India’s Most Trusted Brand, Is Now Asking A Question It Never Had To Answer Before: Who Really Controls It?",
+      "source": {
+        "name": "inventiva.co.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.inventiva.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Naveenika Chauhan"
+        ]
+      },
+      "link": "https://www.inventiva.co.in/trends/tata-indias-most-trusted-brand-is-now-asking-a-question-it-never-had-to-answer-before-who-really-controls-it/",
+      "thumbnail": "https://www.inventiva.co.in/wp-content/uploads/2026/04/tata-group-feud-094226217-16x9_0-390x220.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1PVFprYURKSmJWZ3pVMDlEVFJEY0FSaUdBeWdLTWdreE1KUjRHR3BjS3dJ",
+      "date": "04/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-07T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Tata Sons boardroom battle intensifies as top advocates Salve and Singhvi take opposing sides",
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://streamlinefeed.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://streamlinefeed.co.ke/news/tata-sons-boardroom-battle-intensifies-as-top-advocates-salve-and-singhvi-take-opposing-sides",
+      "thumbnail": "https://streamlinefeed.co.ke/news-fallbacks/business.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlVRWRRYmpJNVYyVjVOekpHVFJDZkF4amlCU2dLTWdZQlVJWURTd1U",
+      "date": "09/21/2026, 05:50 AM, +0000 UTC",
+      "iso_date": "2026-09-21T05:50:58Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

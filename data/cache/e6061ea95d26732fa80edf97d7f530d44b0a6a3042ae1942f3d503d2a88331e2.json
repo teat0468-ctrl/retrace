@@ -1,0 +1,366 @@
+{
+  "search_metadata": {
+    "id": "6ab2bf422f5ea09ada04b106",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Wv9KspliUanUQFuQzwP44IKahFbcZNURNyl3Nr8Bby8/6ab2bf422f5ea09ada04b106.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Wv9KspliUanUQFuQzwP44IKahFbcZNURNyl3Nr8Bby8/6ab2bf422f5ea09ada04b106.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Wv9KspliUanUQFuQzwP44IKahFbcZNURNyl3Nr8Bby8/6ab2bf422f5ea09ada04b106.json_with_pixel_position",
+    "created_at": "2026-09-22 17:47:46 UTC",
+    "processed_at": "2026-09-22 17:47:46 UTC",
+    "google_url": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&oq=government+approved+merger+nine+public+sector+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Wv9KspliUanUQFuQzwP44IKahFbcZNURNyl3Nr8Bby8/6ab2bf422f5ea09ada04b106.html",
+    "total_time_taken": 1.22
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "government approved merger nine public sector 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "government approved merger nine public sector 2025",
+    "total_results": 177000000,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is there a plan for merger of public sector banks in 2026?",
+      "type": "ai_overview",
+      "page_token": "kzFKQHicHZBNjtowGEDVy8xysMMMFUioUiY_dERM88U2iTeV4yQYYhMTMgTY9Qo9Q081pxnU_Vu89_78M_tj-_ntrx4Gd15MJuM4Pu-6bmfqZ9XZiTzfjmqipDGlVO1i9n2GfzRqGV6U_9YrP2XO8QBQlrsGptxLOWwoc--buMMVS69ZG60LRlrlgV-H1UkYkRA0HJIoKqgtxmrrhGyNJxlOIYSg5hEqpu1LHUQ-xcVImP5IjvoiGDSVMbGK4W3NOyS9d81XWkKuX5kH13UuzrSFB18FKtc9ReEt2WOTWRNSK66biKwyLgJuYQ8xKRhyWW3cTOKoFUe9pfG8ByQImPlQbnVQsp8jYJ1mq-T-cMkYnt8T4_pH4UuoKyA3_Frk_gcg0_I78dTBT6Wd003g-xy6fcrgrg7GMqtxeQDJuBplRE6C8nWO-CllO1wGhUc88kuMT426LKdP_18vfzd2WLi-230Bl7uNGA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kzFKQHicHZBNjtowGEDVy8xysMMMFUioUiY_dERM88U2iTeV4yQYYhMTMgTY9Qo9Q081pxnU_Vu89_78M_tj-_ntrx4Gd15MJuM4Pu-6bmfqZ9XZiTzfjmqipDGlVO1i9n2GfzRqGV6U_9YrP2XO8QBQlrsGptxLOWwoc--buMMVS69ZG60LRlrlgV-H1UkYkRA0HJIoKqgtxmrrhGyNJxlOIYSg5hEqpu1LHUQ-xcVImP5IjvoiGDSVMbGK4W3NOyS9d81XWkKuX5kH13UuzrSFB18FKtc9ReEt2WOTWRNSK66biKwyLgJuYQ8xKRhyWW3cTOKoFUe9pfG8ByQImPlQbnVQsp8jYJ1mq-T-cMkYnt8T4_pH4UuoKyA3_Frk_gcg0_I78dTBT6Wd003g-xy6fcrgrg7GMqtxeQDJuBplRE6C8nWO-CllO1wGhUc88kuMT426LKdP_18vfzd2WLi-230Bl7uNGA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgcGxhbiBmb3IgbWVyZ2VyIG9mIHB1YmxpYyBzZWN0b3IgYmFua3MgaW4gMjAyNj8iLCJsayI6IkdnOXdjMklnYldWeVoyVnlJREl3TWpZIiwiYnMiOiJjNDJPS3dfQ01CU0ZnNjBCYk5XRkFBSVFwQWtJeklJaXFFa0VxaTEzYmNQV05tMWg0ZC16WmN5Uk1Idk9keDRrSjhkTGhLUXhJSER3SmJkUXVBQVZCb1VCWEFILUtVb2pJYUpNalM2NGZVUXdGdGlPSFRJMnBXTWZSVS0zR3JtUnphbnAtaFZUemxnRnlZSEFMbkxQMkphdS1XQ2M1R1I1MVVacWtLN3kzQnFNb1BtcnR5R2dSSnZLZDhaV2RGRVBBTW1aekxyQ19YZTBQYU13cFhhNl96aW5VUC1CSnFNUCIsImlkIjoiZmNfUTcteWFwbkdJZFczdnIwUGpvUzgwQVVfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgcGxhbiBmb3IgbWVyZ2VyIG9mIHB1YmxpYyBzZWN0b3IgYmFua3MgaW4gMjAyNj8iLCJsayI6IkdnOXdjMklnYldWeVoyVnlJREl3TWpZIiwiYnMiOiJjNDJPS3dfQ01CU0ZnNjBCYk5XRkFBSVFwQWtJeklJaXFFa0VxaTEzYmNQV05tMWg0ZC16WmN5Uk1Idk9keDRrSjhkTGhLUXhJSER3SmJkUXVBQVZCb1VCWEFILUtVb2pJYUpNalM2NGZVUXdGdGlPSFRJMnBXTWZSVS0zR3JtUnphbnAtaFZUemxnRnlZSEFMbkxQMkphdS1XQ2M1R1I1MVVacWtLN3kzQnFNb1BtcnR5R2dSSnZLZDhaV2RGRVBBTW1aekxyQ19YZTBQYU13cFhhNl96aW5VUC1CSnFNUCIsImlkIjoiZmNfUTcteWFwbkdJZFczdnIwUGpvUzgwQVVfNiJ9"
+    },
+    {
+      "question": "Are public sector banks going to be merged?",
+      "type": "ai_overview",
+      "page_token": "PhMXDXicHdBbcpswFADQ6WbyGQv50dgzns5gkEMS1EhIF8NPBwvb2FwBSbB5_HUvXVVXk0yWcM7ff3iuyv8_bkXbNh-ryaTruvtTXZ_wcG9qO8k-hspMTIa4z0y5WvxcOL-OZu1fA3fzFrhCNw14kqgteJHnurntX0KKUtBeZbruI0QuaPOa-u2gLQZAZgTGIjCgSUKXmBF8zWnK9g4PNVsmhsxBIyxUFQ7ZY85DK0VaaiofmUpU0Etg0Z49PUe-JgcodjpurgdghdqxRQJYCShuAmFIK4gV5WOk-1lu0zqk_QbKtJHU4aDyqdqyLq0aIpSZitLx1MWMsX7oFYJnSib9Ipd8cObJzr1KgiWMnJqLKzK7VL-_nCDrs9ByNBe02j613M43QNs3tZOUx-FsjxwyfxmH26-Ls6PT7u5obuvp3ffn-s_RtqvmvT59ApoZgpU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PhMXDXicHdBbcpswFADQ6WbyGQv50dgzns5gkEMS1EhIF8NPBwvb2FwBSbB5_HUvXVVXk0yWcM7ff3iuyv8_bkXbNh-ryaTruvtTXZ_wcG9qO8k-hspMTIa4z0y5WvxcOL-OZu1fA3fzFrhCNw14kqgteJHnurntX0KKUtBeZbruI0QuaPOa-u2gLQZAZgTGIjCgSUKXmBF8zWnK9g4PNVsmhsxBIyxUFQ7ZY85DK0VaaiofmUpU0Etg0Z49PUe-JgcodjpurgdghdqxRQJYCShuAmFIK4gV5WOk-1lu0zqk_QbKtJHU4aDyqdqyLq0aIpSZitLx1MWMsX7oFYJnSib9Ipd8cObJzr1KgiWMnJqLKzK7VL-_nCDrs9ByNBe02j613M43QNs3tZOUx-FsjxwyfxmH26-Ls6PT7u5obuvp3ffn-s_RtqvmvT59ApoZgpU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IkFyZSBwdWJsaWMgc2VjdG9yIGJhbmtzIGdvaW5nIHRvIGJlIG1lcmdlZD8iLCJsayI6IkdpcGhjbVVnY0hWaWJHbGpJSE5sWTNSdmNpQmlZVzVyY3lCbmIybHVaeUIwYnlCaVpTQnRaWEpuWldRIiwiYnMiOiJjNDJPS3dfQ01CU0ZnNjBCYk5XRkFBSVFwQWtJeklJaXFFa0VxaTEzYmNQV05tMWg0ZC16WmN5Uk1Idk9keDRrSjhkTGhLUXhJSER3SmJkUXVBQVZCb1VCWEFILUtVb2pJYUpNalM2NGZVUXdGdGlPSFRJMnBXTWZSVS0zR3JtUnphbnAtaFZUemxnRnlZSEFMbkxQMkphdS1XQ2M1R1I1MVVacWtLN3kzQnFNb1BtcnR5R2dSSnZLZDhaV2RGRVBBTW1aekxyQ19YZTBQYU13cFhhNl96aW5VUC1CSnFNUCIsImlkIjoiZmNfUTcteWFwbkdJZFczdnIwUGpvUzgwQVVfNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IkFyZSBwdWJsaWMgc2VjdG9yIGJhbmtzIGdvaW5nIHRvIGJlIG1lcmdlZD8iLCJsayI6IkdpcGhjbVVnY0hWaWJHbGpJSE5sWTNSdmNpQmlZVzVyY3lCbmIybHVaeUIwYnlCaVpTQnRaWEpuWldRIiwiYnMiOiJjNDJPS3dfQ01CU0ZnNjBCYk5XRkFBSVFwQWtJeklJaXFFa0VxaTEzYmNQV05tMWg0ZC16WmN5Uk1Idk9keDRrSjhkTGhLUXhJSER3SmJkUXVBQVZCb1VCWEFILUtVb2pJYUpNalM2NGZVUXdGdGlPSFRJMnBXTWZSVS0zR3JtUnphbnAtaFZUemxnRnlZSEFMbkxQMkphdS1XQ2M1R1I1MVVacWtLN3kzQnFNb1BtcnR5R2dSSnZLZDhaV2RGRVBBTW1aekxyQ19YZTBQYU13cFhhNl96aW5VUC1CSnFNUCIsImlkIjoiZmNfUTcteWFwbkdJZFczdnIwUGpvUzgwQVVfNiJ9"
+    },
+    {
+      "question": "Which companies have merged recently?",
+      "type": "ai_overview",
+      "page_token": "pYsRvnicHdBdboIwAADg7DJ7nLaoiyZmsUNwZC2jtAV5WUoFqxToJv7A2-6yU-00W3aDL9_Xtzk01c_dRXedPS1Go-v1-rBv270pHlRbj-Spb9RISWNyqarF7HEGnkq1XJ9f0PPHC4q4tcKl49jZaeFZyOrbZst1nBkUKqi7xBeXbUWynO-dVybeJAzc2J8O3Bc0rsVBmdUk5lWf-_YsB01Vk0WxpyGHWYJdry_8-WkLPJYkE0D4PKCQQJKajvUAv7JgzPwdUZ73VqSiLAyZxEeyCcUK8gQ4sqFpyKjEqY2pl33kIAixs0PCIQ42Zhay1TUTmkjY3vL1dEi4dQujS2x0s9Y7Snow3aboTMemEgOB6ogiWc9Z6CIkaHuIOB3U0dTCt4gfg5RuvBQ3K4h5R_kmCCJgT3j4sz-DM4_uS3VZOvf_n8v3su4W9rPd_wJZWYHQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pYsRvnicHdBdboIwAADg7DJ7nLaoiyZmsUNwZC2jtAV5WUoFqxToJv7A2-6yU-00W3aDL9_Xtzk01c_dRXedPS1Go-v1-rBv270pHlRbj-Spb9RISWNyqarF7HEGnkq1XJ9f0PPHC4q4tcKl49jZaeFZyOrbZst1nBkUKqi7xBeXbUWynO-dVybeJAzc2J8O3Bc0rsVBmdUk5lWf-_YsB01Vk0WxpyGHWYJdry_8-WkLPJYkE0D4PKCQQJKajvUAv7JgzPwdUZ73VqSiLAyZxEeyCcUK8gQ4sqFpyKjEqY2pl33kIAixs0PCIQ42Zhay1TUTmkjY3vL1dEi4dQujS2x0s9Y7Snow3aboTMemEgOB6ogiWc9Z6CIkaHuIOB3U0dTCt4gfg5RuvBQ3K4h5R_kmCCJgT3j4sz-DM4_uS3VZOvf_n8v3su4W9rPd_wJZWYHQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IldoaWNoIGNvbXBhbmllcyBoYXZlIG1lcmdlZCByZWNlbnRseT8iLCJsayI6IkdpUjNhR2xqYUNCamIyMXdZVzVwWlhNZ2FHRjJaU0J0WlhKblpXUWdjbVZqWlc1MGJIayIsImJzIjoiYzQyT0t3X0NNQlNGZzYwQmJOV0ZBQUlRcEFrSXpJSWlxRWtFcWkxM2JjUFdObTFoNGQtelpjeVJNSHZPZHg0a0o4ZExoS1F4SUhEd0piZFF1QUFWQm9VQlhBSC1LVW9qSWFKTWpTNjRmVVF3RnRpT0hUSTJwV01mUlUtM0dybVJ6YW5wLWhWVHpsZ0Z5WUhBTG5MUDJKYXUtV0NjNUdSNTFVWnFrSzd5M0JxTW9QbXJ0eUdnUkp2S2Q4WldkRkVQQU1tWnpMckNfWGUwUGFNd3BYYTZfemluVVAtQkpxTVAiLCJpZCI6ImZjX1E3LXlhcG5HSWRXM3ZyMFBqb1M4MEFVXzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IldoaWNoIGNvbXBhbmllcyBoYXZlIG1lcmdlZCByZWNlbnRseT8iLCJsayI6IkdpUjNhR2xqYUNCamIyMXdZVzVwWlhNZ2FHRjJaU0J0WlhKblpXUWdjbVZqWlc1MGJIayIsImJzIjoiYzQyT0t3X0NNQlNGZzYwQmJOV0ZBQUlRcEFrSXpJSWlxRWtFcWkxM2JjUFdObTFoNGQtelpjeVJNSHZPZHg0a0o4ZExoS1F4SUhEd0piZFF1QUFWQm9VQlhBSC1LVW9qSWFKTWpTNjRmVVF3RnRpT0hUSTJwV01mUlUtM0dybVJ6YW5wLWhWVHpsZ0Z5WUhBTG5MUDJKYXUtV0NjNUdSNTFVWnFrSzd5M0JxTW9QbXJ0eUdnUkp2S2Q4WldkRkVQQU1tWnpMckNfWGUwUGFNd3BYYTZfemluVVAtQkpxTVAiLCJpZCI6ImZjX1E3LXlhcG5HSWRXM3ZyMFBqb1M4MEFVXzYifQ%3D%3D"
+    },
+    {
+      "question": "Which 5 banks are getting merged?",
+      "type": "ai_overview",
+      "page_token": "xY_tg3icHdDdboIwGIDh7GZ2ONsxWTQxy9AWJBuEUipyskALov342ayinO1edlW7mpmdvyfP-_0D-1b_3p1rY_rjfDIZhuFh13U7KB9k10zy47WVE5kDFLnUc_vZxi-VXJDT2ll-rp0o6XuxYijGDGec-qrVVsipXXrExGMQBbqeFi0bpZvZPPWJICbNmvooR_9z24BQtKacztIt16gEP2VanAoXlhsy699ihBJvfSlaggoKVZm-WhtXRYqyx5wKJlppuFWbnMNBajCCBv07hnPs9kPmqYahma1GP9gk0sSIWDExPfcCu0x3A_dqHKNbgyF9pzSMNGMRiD3zfBF6TktqxYIrnm5T58QQaDEGj_LgRHkz4-HKcQTr9lFycx2gSVr1FYp6SBButvqCN4fEkliBpEpLkYHUT9dsuK_keWHd__9cfFSNmfdf3e4Pd7eEMQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xY_tg3icHdDdboIwGIDh7GZ2ONsxWTQxy9AWJBuEUipyskALov342ayinO1edlW7mpmdvyfP-_0D-1b_3p1rY_rjfDIZhuFh13U7KB9k10zy47WVE5kDFLnUc_vZxi-VXJDT2ll-rp0o6XuxYijGDGec-qrVVsipXXrExGMQBbqeFi0bpZvZPPWJICbNmvooR_9z24BQtKacztIt16gEP2VanAoXlhsy699ihBJvfSlaggoKVZm-WhtXRYqyx5wKJlppuFWbnMNBajCCBv07hnPs9kPmqYahma1GP9gk0sSIWDExPfcCu0x3A_dqHKNbgyF9pzSMNGMRiD3zfBF6TktqxYIrnm5T58QQaDEGj_LgRHkz4-HKcQTr9lFycx2gSVr1FYp6SBButvqCN4fEkliBpEpLkYHUT9dsuK_keWHd__9cfFSNmfdf3e4Pd7eEMQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IldoaWNoIDUgYmFua3MgYXJlIGdldHRpbmcgbWVyZ2VkPyIsImxrIjoiR2lCM2FHbGphQ0ExSUdKaGJtdHpJR0Z5WlNCblpYUjBhVzVuSUcxbGNtZGxaQSIsImJzIjoiYzQyT0t3X0NNQlNGZzYwQmJOV0ZBQUlRcEFrSXpJSWlxRWtFcWkxM2JjUFdObTFoNGQtelpjeVJNSHZPZHg0a0o4ZExoS1F4SUhEd0piZFF1QUFWQm9VQlhBSC1LVW9qSWFKTWpTNjRmVVF3RnRpT0hUSTJwV01mUlUtM0dybVJ6YW5wLWhWVHpsZ0Z5WUhBTG5MUDJKYXUtV0NjNUdSNTFVWnFrSzd5M0JxTW9QbXJ0eUdnUkp2S2Q4WldkRkVQQU1tWnpMckNfWGUwUGFNd3BYYTZfemluVVAtQkpxTVAiLCJpZCI6ImZjX1E3LXlhcG5HSWRXM3ZyMFBqb1M4MEFVXzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFkwNWxVRkZCYUZGb1pFVlVlREIzV1ZKRFpsbExRVEZzV1MxWVUyVkRUVWt5WjJoQlNXVlZjbkpmUVRJNFlYRTRXQzFGWm5scFh6Vmpkak16T0RsTGMzazRTMlF5ZGpWS2VXOXpWMGN4TW14b2RuQkVRbkZIVkVaMVVSSVhVVGN0ZVdGd2JrZEpaRmN6ZG5Jd1VHcHZVemd3UVZVYUlrRkVjM0k1WmxJMFMxbDBPRFJsU0VONVRGWlNjVXRwYjJGeFVUWXlTelphV1hjIiwiZmN2IjoiMyIsImVpIjoiUTcteWFwbkdJZFczdnIwUGpvUzgwQVUiLCJxYyI6IkNqSm5iM1psY201dFpXNTBJR0Z3Y0hKdmRtVmtJRzFsY21kbGNpQnVhVzVsSUhCMVlteHBZeUJ6WldOMGIzSWdNakF5TlJBQWZmZHlGVDgiLCJxdWVzdGlvbiI6IldoaWNoIDUgYmFua3MgYXJlIGdldHRpbmcgbWVyZ2VkPyIsImxrIjoiR2lCM2FHbGphQ0ExSUdKaGJtdHpJR0Z5WlNCblpYUjBhVzVuSUcxbGNtZGxaQSIsImJzIjoiYzQyT0t3X0NNQlNGZzYwQmJOV0ZBQUlRcEFrSXpJSWlxRWtFcWkxM2JjUFdObTFoNGQtelpjeVJNSHZPZHg0a0o4ZExoS1F4SUhEd0piZFF1QUFWQm9VQlhBSC1LVW9qSWFKTWpTNjRmVVF3RnRpT0hUSTJwV01mUlUtM0dybVJ6YW5wLWhWVHpsZ0Z5WUhBTG5MUDJKYXUtV0NjNUdSNTFVWnFrSzd5M0JxTW9QbXJ0eUdnUkp2S2Q4WldkRkVQQU1tWnpMckNfWGUwUGFNd3BYYTZfemluVVAtQkpxTVAiLCJpZCI6ImZjX1E3LXlhcG5HSWRXM3ZyMFBqb1M4MEFVXzYifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Making mergers work: A playbook for public sector ...",
+      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/making-mergers-work-a-playbook-for-public-sector-consolidations",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFTxCf2wvaZ3BjtK6ur8ecwXGchJ5FL03SbMtKk1iAOzAi3TXTkNSMq98k5S-st0JJjnQZTtwzd9JnLx3TQnQiJb2GPRtrQyjbSLKYAUm7M2fs_TQMMhi91VdSsJYkHDYeFPYYud7X-Ga6qCOC4s7ZvXOG5TmFlL8tBwop4NPd1IPG3sOr5vlQh-xXGpXCfnkyYCOMx7SJ3ZnYwxRxEcH56jr2q9Slhv0vyaUWgonbdqE2g&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECA4QAQ&uoh=1",
+      "displayed_link": "https://www.mckinsey.com › makin...",
+      "date": "2026-04-28",
+      "snippet": "Government mergers are far less common than private sector ones. Five principles can guide the process and facilitate smooth transitions.",
+      "snippet_highlighted_words": [
+        "Government mergers are far less common than private sector ones"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Government mergers are far less common than private sector ones. Five principles can guide the process and facilitate smooth transitions.",
+          "source_info_link": "https://www.mckinsey.com/industries/public-sector/our-insights/making-mergers-work-a-playbook-for-public-sector-consolidations",
+          "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAADwBQCdASocABwAPtEutFooIagoGAEAGglkAKwHalNkUi_6QWo4U1XpQFb5_8mTZLXDNTaRmntfoAD-7yaqRDpwk3jGBBW0swALMZ8pT4sorJYKcUeblR4Ia_ORB4gLovt_0XUhRJtaWt8eR1gOaqgVAjPLZAwZtkvCcXC9AFtnlxKwDNJG4pa5b9ftNJ_hqnBlYWfyOaVrBw4C2eD559-E82wK1HswjKIXgARf0IUadCWihHb-DnxF2hrdr482Ceew3GrgXbNyruSNP-LKnw_n6apIoZvt0dxirPVvX9-idz-pd5l5DpaDMB88gBXR31YNzadiQ-_huCu-0pdT9fUq0FLuFypyQogMZkk1gmzAQcsaxLY2cXAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZUeENmMnd2YVozQmp0SzZ1cjhlY3dYR2NoSjVGTDAzU2JNdEtrMWlBT3pBaTNUWFRrTlNNcTk4azVTLXN0MEpKam5RWlR0d3pkOUpuTHgzVFFuUWlKYjJHUFJ0clF5amJTTEtZQVVtN00yZnNfVFFNTWhpOTFWZFNzSllrSERZZUZQWVl1ZDdYLUdhNnFDT0M0czdadlhPRzVUbUZsTDh0QndvcDROUGQxSVBHM3NPcjV2bFFoLXhYR3BYQ2Zua3lZQ09NeDdTSjNabll3eFJ4RWNINTZqcjJxOVNsaHYwdnlhVVdnb25iZHFFMmcSBBoCCAAaowcSAggAGgAiACoAMgYIAxICbHQ6AEIECAIQFUoAWgByAHoAgkD9BggAEAAYACAAKmAKCmdvdmVybm1lbnQVTKEkQBoDZ292GgRnb3Z0Gghwb2xpdGljcxoSZ292ZXJubWVudGFwcHJvdmVkGg9pdjtkO2dvdmVybm1lbnQaCGl2O2Q7Z292GglpdjtkO2dvdnQqPAoIYXBwcm92ZWQVAAAAABoIYXBwcm92YWwaEmdvdmVybm1lbnRhcHByb3ZlZBoNaXY7ZDthcHByb3ZlZCoyCgZtZXJnZXIVJmBuPxoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaCml2O2Q7bWVyZ2UqIAoEbmluZRWGpMM9GgE5GgVuaW7ElxoJaXY7ZDtuaW5lKigKBnB1YmxpYxWS9RtAGgxwdWJsaWNzZWN0b3IaC2l2O2Q7cHVibGljKk4KBnNlY3RvchVyFjBAGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IaC2l2O2Q7c2VjdG9yGgxpdjtkO3NlcnZpY2UaDWl2O2Q7c2VydmljZXMqFgoEMjAyNRWj1Yw-GglpdjtuOzIwMjUyhAIvZ290bz91cmw9Q0FFU3RnRUI2enN3RlR4Q2Yyd3ZhWjNCanRLNnVyOGVjd1hHY2hKNUZMMDNTYk10S2sxaUFPekFpM1RYVGtOU01xOThrNVMtc3QwSkpqblFaVHR3emQ5Sm5MeDNUUW5RaUpiMkdQUnRyUXlqYlNMS1lBVW03TTJmc19UUU1NaGk5MVZkU3NKWWtIRFllRlBZWXVkN1gtR2E2cUNPQzRzN1p2WE9HNVRtRmxMOHRCd29wNE5QZDFJUEczc09yNXZsUWgteFhHcFhDZm5reVlDT014N1NKM1puWXd4UnhFY0g1NmpyMnE5U2xodjB2eWFVV2dvbmJkcUUyZzpOTWFraW5nIDxiPm1lcmdlcnM8L2I-IHdvcms6IEEgcGxheWJvb2sgZm9yIDxiPnB1YmxpYyBzZWN0b3I8L2I-IC4uLiAtIE1jS2luc2V5QpABPGI-R292ZXJubWVudCBtZXJnZXJzIGFyZSBmYXIgbGVzcyBjb21tb24gdGhhbiBwcml2YXRlIHNlY3RvciBvbmVzPC9iPi4gRml2ZSBwcmluY2lwbGVzIGNhbiBndWlkZSB0aGUgcHJvY2VzcyBhbmQgZmFjaWxpdGF0ZSBzbW9vdGggdHJhbnNpdGlvbnMuUgE5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZUeENmMnd2YVozQmp0SzZ1cjhlY3dYR2NoSjVGTDAzU2JNdEtrMWlBT3pBaTNUWFRrTlNNcTk4azVTLXN0MEpKam5RWlR0d3pkOUpuTHgzVFFuUWlKYjJHUFJ0clF5amJTTEtZQVVtN00yZnNfVFFNTWhpOTFWZFNzSllrSERZZUZQWVl1ZDdYLUdhNnFDT0M0czdadlhPRzVUbUZsTDh0QndvcDROUGQxSVBHM3NPcjV2bFFoLXhYR3BYQ2Zua3lZQ09NeDdTSjNabll3eFJ4RWNINTZqcjJxOVNsaHYwdnlhVVdnb25iZHFFMmcSBBoCCAAaowcSAggAGgAiACoAMgYIAxICbHQ6AEIECAIQFUoAWgByAHoAgkD9BggAEAAYACAAKmAKCmdvdmVybm1lbnQVTKEkQBoDZ292GgRnb3Z0Gghwb2xpdGljcxoSZ292ZXJubWVudGFwcHJvdmVkGg9pdjtkO2dvdmVybm1lbnQaCGl2O2Q7Z292GglpdjtkO2dvdnQqPAoIYXBwcm92ZWQVAAAAABoIYXBwcm92YWwaEmdvdmVybm1lbnRhcHByb3ZlZBoNaXY7ZDthcHByb3ZlZCoyCgZtZXJnZXIVJmBuPxoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaCml2O2Q7bWVyZ2UqIAoEbmluZRWGpMM9GgE5GgVuaW7ElxoJaXY7ZDtuaW5lKigKBnB1YmxpYxWS9RtAGgxwdWJsaWNzZWN0b3IaC2l2O2Q7cHVibGljKk4KBnNlY3RvchVyFjBAGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IaC2l2O2Q7c2VjdG9yGgxpdjtkO3NlcnZpY2UaDWl2O2Q7c2VydmljZXMqFgoEMjAyNRWj1Yw-GglpdjtuOzIwMjUyhAIvZ290bz91cmw9Q0FFU3RnRUI2enN3RlR4Q2Yyd3ZhWjNCanRLNnVyOGVjd1hHY2hKNUZMMDNTYk10S2sxaUFPekFpM1RYVGtOU01xOThrNVMtc3QwSkpqblFaVHR3emQ5Sm5MeDNUUW5RaUpiMkdQUnRyUXlqYlNMS1lBVW03TTJmc19UUU1NaGk5MVZkU3NKWWtIRFllRlBZWXVkN1gtR2E2cUNPQzRzN1p2WE9HNVRtRmxMOHRCd29wNE5QZDFJUEczc09yNXZsUWgteFhHcFhDZm5reVlDT014N1NKM1puWXd4UnhFY0g1NmpyMnE5U2xodjB2eWFVV2dvbmJkcUUyZzpOTWFraW5nIDxiPm1lcmdlcnM8L2I-IHdvcms6IEEgcGxheWJvb2sgZm9yIDxiPnB1YmxpYyBzZWN0b3I8L2I-IC4uLiAtIE1jS2luc2V5QpABPGI-R292ZXJubWVudCBtZXJnZXJzIGFyZSBmYXIgbGVzcyBjb21tb24gdGhhbiBwcml2YXRlIHNlY3RvciBvbmVzPC9iPi4gRml2ZSBwcmluY2lwbGVzIGNhbiBndWlkZSB0aGUgcHJvY2VzcyBhbmQgZmFjaWxpdGF0ZSBzbW9vdGggdHJhbnNpdGlvbnMuUgE5IgIQAUgAWABoAA",
+      "source": "McKinsey & Company"
+    },
+    {
+      "position": 2,
+      "title": "PIB debunks viral fake gazette claiming govt merger of 9 ...",
+      "link": "https://www.facebook.com/GulfNews.UAE/posts/pib-debunks-viral-fake-gazette-claiming-govt-merger-of-9-indian-public-sector-ba/1546117537546620/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFdzgYu-jliOrocRpjQ1MdQlG6s5KU3YzTnx-fGwWa6chJEno0MiLW2G9J5Ld3plXXQ_SLDzcZm0nbw19nyiIjC6Kv3XB5CdReOMKIR_CofDFrrL9ddCAuihTtImG_ntmlp-xH_rw63sefvSvb7ygRcDjYu7Yawe6CdYm_8gUFeY_XTrqDZ4rTXSxt38f7W1enep-8-Pz8tQL8uhnk5N3K53QEThqL_olsdIPEpJTIGDAMKnKlCAB11jBGODheA1AxrS1&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECBQQAQ&uoh=1",
+      "displayed_link": "Reakcijų: 4 · prieš 5 dienas",
+      "snippet": "PIB debunks viral fake gazette claiming govt merger of 9 public sector banks https://mrf. ... The Government in February had approved the merger ...",
+      "snippet_highlighted_words": [
+        "govt merger",
+        "9 public sector",
+        "Government",
+        "approved",
+        "merger"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "PIB debunks viral fake gazette claiming govt merger of 9 public sector banks https://mrf. ... The Government in February had approved the merger\n ...",
+          "source_info_link": "https://www.facebook.com/GulfNews.UAE/posts/pib-debunks-viral-fake-gazette-claiming-govt-merger-of-9-indian-public-sector-ba/1546117537546620/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZkemdZdS1qbGlPcm9jUnBqUTFNZFFsRzZzNUtVM1l6VG54LWZHd1dhNmNoSkVubzBNaUxXMkc5SjVMZDNwbFhYUV9TTER6Y1ptMG5idzE5bnlpSWpDNkt2M1hCNUNkUmVPTUtJUl9Db2ZERnJyTDlkZENBdWloVHRJbUdfbnRtbHAteEhfcnc2M3NlZnZTdmI3eWdSY0RqWXU3WWF3ZTZDZFltXzhnVUZlWV9YVHJxRFo0clRYU3h0MzhmN1cxZW5lcC04LVB6OHRRTDh1aG5rNU4zSzUzUUVUaHFMX29sc2RJUEVwSlRJR0RBTUtuS2xDQUIxMWpCR09EaGVBMUF4clMxEgQaAggAGuQHEgAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAvgcIABAAGAAgACpgCgpnb3Zlcm5tZW50FYB7N0AaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFVxvOT8aCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFbTOwEAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVAAAAABoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVLfq5QBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVoUdwQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZkemdZdS1qbGlPcm9jUnBqUTFNZFFsRzZzNUtVM1l6VG54LWZHd1dhNmNoSkVubzBNaUxXMkc5SjVMZDNwbFhYUV9TTER6Y1ptMG5idzE5bnlpSWpDNkt2M1hCNUNkUmVPTUtJUl9Db2ZERnJyTDlkZENBdWloVHRJbUdfbnRtbHAteEhfcnc2M3NlZnZTdmI3eWdSY0RqWXU3WWF3ZTZDZFltXzhnVUZlWV9YVHJxRFo0clRYU3h0MzhmN1cxZW5lcC04LVB6OHRRTDh1aG5rNU4zSzUzUUVUaHFMX29sc2RJUEVwSlRJR0RBTUtuS2xDQUIxMWpCR09EaGVBMUF4clMxOk1QSUIgZGVidW5rcyB2aXJhbCBmYWtlIGdhemV0dGUgY2xhaW1pbmcgPGI-Z292dCBtZXJnZXI8L2I-IG9mIDxiPjkgcHVibGljPC9iPkK8AVBJQiBkZWJ1bmtzIHZpcmFsIGZha2UgZ2F6ZXR0ZSBjbGFpbWluZyA8Yj5nb3Z0IG1lcmdlcjwvYj4gb2YgPGI-OSBwdWJsaWMgc2VjdG9yPC9iPiBiYW5rcyBodHRwczovL21yZi4gLi4uIFRoZSA8Yj5Hb3Zlcm5tZW50PC9iPiBpbiBGZWJydWFyeSBoYWQgPGI-YXBwcm92ZWQ8L2I-IHRoZSA8Yj5tZXJnZXI8L2I-Jm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZkemdZdS1qbGlPcm9jUnBqUTFNZFFsRzZzNUtVM1l6VG54LWZHd1dhNmNoSkVubzBNaUxXMkc5SjVMZDNwbFhYUV9TTER6Y1ptMG5idzE5bnlpSWpDNkt2M1hCNUNkUmVPTUtJUl9Db2ZERnJyTDlkZENBdWloVHRJbUdfbnRtbHAteEhfcnc2M3NlZnZTdmI3eWdSY0RqWXU3WWF3ZTZDZFltXzhnVUZlWV9YVHJxRFo0clRYU3h0MzhmN1cxZW5lcC04LVB6OHRRTDh1aG5rNU4zSzUzUUVUaHFMX29sc2RJUEVwSlRJR0RBTUtuS2xDQUIxMWpCR09EaGVBMUF4clMxEgQaAggAGuQHEgAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAvgcIABAAGAAgACpgCgpnb3Zlcm5tZW50FYB7N0AaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFVxvOT8aCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFbTOwEAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVAAAAABoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVLfq5QBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVoUdwQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZkemdZdS1qbGlPcm9jUnBqUTFNZFFsRzZzNUtVM1l6VG54LWZHd1dhNmNoSkVubzBNaUxXMkc5SjVMZDNwbFhYUV9TTER6Y1ptMG5idzE5bnlpSWpDNkt2M1hCNUNkUmVPTUtJUl9Db2ZERnJyTDlkZENBdWloVHRJbUdfbnRtbHAteEhfcnc2M3NlZnZTdmI3eWdSY0RqWXU3WWF3ZTZDZFltXzhnVUZlWV9YVHJxRFo0clRYU3h0MzhmN1cxZW5lcC04LVB6OHRRTDh1aG5rNU4zSzUzUUVUaHFMX29sc2RJUEVwSlRJR0RBTUtuS2xDQUIxMWpCR09EaGVBMUF4clMxOk1QSUIgZGVidW5rcyB2aXJhbCBmYWtlIGdhemV0dGUgY2xhaW1pbmcgPGI-Z292dCBtZXJnZXI8L2I-IG9mIDxiPjkgcHVibGljPC9iPkK8AVBJQiBkZWJ1bmtzIHZpcmFsIGZha2UgZ2F6ZXR0ZSBjbGFpbWluZyA8Yj5nb3Z0IG1lcmdlcjwvYj4gb2YgPGI-OSBwdWJsaWMgc2VjdG9yPC9iPiBiYW5rcyBodHRwczovL21yZi4gLi4uIFRoZSA8Yj5Hb3Zlcm5tZW50PC9iPiBpbiBGZWJydWFyeSBoYWQgPGI-YXBwcm92ZWQ8L2I-IHRoZSA8Yj5tZXJnZXI8L2I-Jm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "source": "Facebook · Gulf News"
+    },
+    {
+      "position": 3,
+      "title": "Public Sector Undertakings in India",
+      "link": "https://en.wikipedia.org/wiki/Public_Sector_Undertakings_in_India",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAV84GDnqZd5CyYHoDTamStgtkW-xUVJ-rcXtv1c_29PPzIDhSO0iRp5TlT0-gCyBUnTUPPEW5eIeXnC0vQocShoa5dweHH4xrn35TvPCshJhdnEanLOONuaqXCyP0Fnv0RqRAfj4ho8xRlW1C1CGdB-Rxp2jw&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Pu...",
+      "snippet": "... merger, Government of India held majority controlling stake of IDFC. Ferro Scrap Nigam Limited sold to Konoike Transport Co. Ltd. of Japan in 2025.",
+      "snippet_highlighted_words": [
+        "merger",
+        "Government",
+        "2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... merger, Government of India held majority controlling stake of IDFC. Ferro Scrap Nigam Limited sold to Konoike Transport Co. Ltd. of Japan in 2025.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Public_Sector_Undertakings_in_India",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjg0R0RucVpkNUN5WUhvRFRhbVN0Z3RrVy14VVZKLXJjWHR2MWNfMjlQUHpJRGhTTzBpUnA1VGxUMC1nQ3lCVW5UVVBQRVc1ZUllWG5DMHZRb2NTaG9hNWR3ZUhINHhybjM1VHZQQ3NoSmhkbkVhbkxPT051YXFYQ3lQMEZudjBScVJBZmo0aG84eFJsVzFDMUNHZEItUnhwMmp3EgQaAggAGtQGEgIIARoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJArgYIABAAGAAgACpgCgpnb3Zlcm5tZW50FYl7A0AaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFQeDlTkaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVCtd8PRoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVvDtSQBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVgLVaQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVjcOePRoJaXY7bjsyMDI1MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjg0R0RucVpkNUN5WUhvRFRhbVN0Z3RrVy14VVZKLXJjWHR2MWNfMjlQUHpJRGhTTzBpUnA1VGxUMC1nQ3lCVW5UVVBQRVc1ZUllWG5DMHZRb2NTaG9hNWR3ZUhINHhybjM1VHZQQ3NoSmhkbkVhbkxPT051YXFYQ3lQMEZudjBScVJBZmo0aG84eFJsVzFDMUNHZEItUnhwMmp3OjY8Yj5QdWJsaWMgU2VjdG9yPC9iPiBVbmRlcnRha2luZ3MgaW4gSW5kaWEgLSBXaWtpcGVkaWFCrAEuLi4gPGI-bWVyZ2VyPC9iPiwgPGI-R292ZXJubWVudDwvYj4gb2YgSW5kaWEgaGVsZCBtYWpvcml0eSBjb250cm9sbGluZyBzdGFrZSBvZiBJREZDLiBGZXJybyBTY3JhcCBOaWdhbSBMaW1pdGVkIHNvbGQgdG8gS29ub2lrZSBUcmFuc3BvcnQgQ28uIEx0ZC4gb2YgSmFwYW4gaW4gPGI-MjAyNTwvYj4uUgE5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjg0R0RucVpkNUN5WUhvRFRhbVN0Z3RrVy14VVZKLXJjWHR2MWNfMjlQUHpJRGhTTzBpUnA1VGxUMC1nQ3lCVW5UVVBQRVc1ZUllWG5DMHZRb2NTaG9hNWR3ZUhINHhybjM1VHZQQ3NoSmhkbkVhbkxPT051YXFYQ3lQMEZudjBScVJBZmo0aG84eFJsVzFDMUNHZEItUnhwMmp3EgQaAggAGtQGEgIIARoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJArgYIABAAGAAgACpgCgpnb3Zlcm5tZW50FYl7A0AaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFQeDlTkaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVCtd8PRoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVvDtSQBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVgLVaQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVjcOePRoJaXY7bjsyMDI1MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjg0R0RucVpkNUN5WUhvRFRhbVN0Z3RrVy14VVZKLXJjWHR2MWNfMjlQUHpJRGhTTzBpUnA1VGxUMC1nQ3lCVW5UVVBQRVc1ZUllWG5DMHZRb2NTaG9hNWR3ZUhINHhybjM1VHZQQ3NoSmhkbkVhbkxPT051YXFYQ3lQMEZudjBScVJBZmo0aG84eFJsVzFDMUNHZEItUnhwMmp3OjY8Yj5QdWJsaWMgU2VjdG9yPC9iPiBVbmRlcnRha2luZ3MgaW4gSW5kaWEgLSBXaWtpcGVkaWFCrAEuLi4gPGI-bWVyZ2VyPC9iPiwgPGI-R292ZXJubWVudDwvYj4gb2YgSW5kaWEgaGVsZCBtYWpvcml0eSBjb250cm9sbGluZyBzdGFrZSBvZiBJREZDLiBGZXJybyBTY3JhcCBOaWdhbSBMaW1pdGVkIHNvbGQgdG8gS29ub2lrZSBUcmFuc3BvcnQgQ28uIEx0ZC4gb2YgSmFwYW4gaW4gPGI-MjAyNTwvYj4uUgE5IgIQAUgAWABoAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "FACT CHECK: Has the Indian Ministry of Finance Announced ...",
+      "link": "https://www.youtube.com/watch?v=f2XdE6AtD1o",
+      "displayed_link": "Peržiūrų: daugiau nei 6,8 tūkst. · prieš 3 dienas",
+      "thumbnail": "https://serpapi.com/searches/6ab2bf422f5ea09ada04b106/images/VQsa1Pr-6XiLjg3ogeMhQ0ovt23QOmWq9cDGvYGZgwQ.jpeg",
+      "snippet": "... Government has notified a scheme for the merger of nine public sector banks into three entities. We check the veracity of the claim in this ...",
+      "duration": "1:13",
+      "about_this_result": {
+        "source": {
+          "description": "... Government has notified a scheme for the merger of nine public sector banks into three entities. We check the veracity of the claim in this ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnQ3aU1BNldTaFdiX1JxbWJLODBJcmgtam9vX25YbjhjN056ejdZeENHN1lxUlE5SkdzNlFiOGhac1MzTmh4UnczbFBVM2lWTkFCT0lXYjZ0TTR3bHdCRHVfYzBvYjRpSVFSaGlfVzJXcVdBSWVjMkY3YnUydkE2NEtwXzktURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnQ3aU1BNldTaFdiX1JxbWJLODBJcmgtam9vX25YbjhjN056ejdZeENHN1lxUlE5SkdzNlFiOGhac1MzTmh4UnczbFBVM2lWTkFCT0lXYjZ0TTR3bHdCRHVfYzBvYjRpSVFSaGlfVzJXcVdBSWVjMkY3YnUydkE2NEtwXzktURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS7Yz8L_palpSnI_dR2YRIABajkqNuqAfJn1A",
+      "source": "YouTube · Factly"
+    },
+    {
+      "position": 5,
+      "title": "Indian government fact-checkers debunk viral claim of nine ...",
+      "link": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStQEB6zswFR2gLSi4xONkjef2rWoxBUXDXc9V3cNvbpssueSKizpEfnfE3UXEeCJaMH27eVkHCZ2RQiRLIy1kon3mItJ43NoXwWPAHpjOgJtqxXRL9yXELveJcHW28JTlEkxPnScdFhw7BRErmFNYps9sV_yPeY2YEfW-ENqmty6Ehox12gPHX79EeoCxWBVHss9Hx4jXgBmdL9eCGLEVn2wVMXfnFdnJCz1OwsUCTadp533SRKGU&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://gulfnews.com › ... › Banking",
+      "date": "prieš 5 dienas",
+      "snippet": "PIB fact-checkers debunk viral fake document claiming merger of nine PSU banks, clarifying no government proposal is on the table for such ...",
+      "snippet_highlighted_words": [
+        "no government proposal is on the table"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "PIB fact-checkers debunk viral fake document claiming merger of nine PSU banks, clarifying no government proposal is on the table for such ...",
+          "source_info_link": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
+          "icon": "https://serpapi.com/images/i/UklGRm4BAABXRUJQVlA4IGIBAABwBgCdASocABwAPtEutFooIagoGAEAGglsAJ05QVIrvVGHR5oE1oZlXp1_1tKGUt9FRxP7-Ay2IfGvQFgA_u50hOCCerofNYs2ZrnUaWMlh6gwd3Np6jQilrzoPjOWZwKWczHQqeP8_PJfZSkoi00Gv4_4FD6Z9vLg2wwU6jBwb07WmU7k7Z7ZI4kOmzrbTpY-yEct9jeh_P7lf3k-eGV70uTfw_ze7f7l1T_YK9c7og0cGB8HUcCXH6tz-vdX3YWt85z0oi3d_QqdmqkK0xseOCAmVkW0uHgDzu-6BJMybSziJnvZKiu2GHwz1Z5i_3DESmKmmMvhfWK-rtfo7cyGZFrSbYF_H3B-e69ViLy4XJ6LFUtPrSL-R-BmOFAd0Hjb0fs1oX1r1Ppvn_YR9wKinFU8-eHE85Bt9wWy27vX_WPJH8R-f6fX66paXMUw2zAKAYhR9U_jQW9KP6Ary5EAAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZSMmdMU2k0eE9Oa2plZjJyV294QlVYRFhjOVYzY052YnBzc3VlU0tpenBFZm5mRTNVWEVlQ0phTUgyN2VWa0hDWjJSUWlSTEl5MWtvbjNtSXRKNDNOb1h3V1BBSHBqT2dKdHF4WFJMOXlYRUx2ZUpjSFcyOEpUbEVreFBuU2NkRmh3N0JSRXJtRk5ZcHM5c1ZfeVBlWTJZRWZXLUVOcW10eTZFaG94MTJnUEhYNzlFZW9DeFdCVkhzczlIeDRqWGdCbWRMOWVDR0xFVm4yd1ZNWGZuRmRuSkN6MU93c1VDVGFkcDUzM1NSS0dVEgQaAggAGqcHEgAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAgQcIABAAGAAgACpgCgpnb3Zlcm5tZW50FUoHxkAaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFWO9wUAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVWmCcQBoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVReuGQBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVgsdvQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZSMmdMU2k0eE9Oa2plZjJyV294QlVYRFhjOVYzY052YnBzc3VlU0tpenBFZm5mRTNVWEVlQ0phTUgyN2VWa0hDWjJSUWlSTEl5MWtvbjNtSXRKNDNOb1h3V1BBSHBqT2dKdHF4WFJMOXlYRUx2ZUpjSFcyOEpUbEVreFBuU2NkRmh3N0JSRXJtRk5ZcHM5c1ZfeVBlWTJZRWZXLUVOcW10eTZFaG94MTJnUEhYNzlFZW9DeFdCVkhzczlIeDRqWGdCbWRMOWVDR0xFVm4yd1ZNWGZuRmRuSkN6MU93c1VDVGFkcDUzM1NSS0dVOkpJbmRpYW4gPGI-R292ZXJubWVudDwvYj4gRmFjdC1DaGVja2VycyBEZWJ1bmsgVmlyYWwgRmFrZSA8Yj5NZXJnZXI8L2I-IC4uLkKaAVBJQiBmYWN0LWNoZWNrZXJzIGRlYnVuayB2aXJhbCBmYWtlIGRvY3VtZW50IGNsYWltaW5nIG1lcmdlciBvZiBuaW5lIFBTVSBiYW5rcywgY2xhcmlmeWluZyA8Yj5ubyBnb3Zlcm5tZW50IHByb3Bvc2FsIGlzIG9uIHRoZSB0YWJsZTwvYj4gZm9yIHN1Y2gmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZSMmdMU2k0eE9Oa2plZjJyV294QlVYRFhjOVYzY052YnBzc3VlU0tpenBFZm5mRTNVWEVlQ0phTUgyN2VWa0hDWjJSUWlSTEl5MWtvbjNtSXRKNDNOb1h3V1BBSHBqT2dKdHF4WFJMOXlYRUx2ZUpjSFcyOEpUbEVreFBuU2NkRmh3N0JSRXJtRk5ZcHM5c1ZfeVBlWTJZRWZXLUVOcW10eTZFaG94MTJnUEhYNzlFZW9DeFdCVkhzczlIeDRqWGdCbWRMOWVDR0xFVm4yd1ZNWGZuRmRuSkN6MU93c1VDVGFkcDUzM1NSS0dVEgQaAggAGqcHEgAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAgQcIABAAGAAgACpgCgpnb3Zlcm5tZW50FUoHxkAaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFWO9wUAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVWmCcQBoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVReuGQBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVgsdvQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZSMmdMU2k0eE9Oa2plZjJyV294QlVYRFhjOVYzY052YnBzc3VlU0tpenBFZm5mRTNVWEVlQ0phTUgyN2VWa0hDWjJSUWlSTEl5MWtvbjNtSXRKNDNOb1h3V1BBSHBqT2dKdHF4WFJMOXlYRUx2ZUpjSFcyOEpUbEVreFBuU2NkRmh3N0JSRXJtRk5ZcHM5c1ZfeVBlWTJZRWZXLUVOcW10eTZFaG94MTJnUEhYNzlFZW9DeFdCVkhzczlIeDRqWGdCbWRMOWVDR0xFVm4yd1ZNWGZuRmRuSkN6MU93c1VDVGFkcDUzM1NSS0dVOkpJbmRpYW4gPGI-R292ZXJubWVudDwvYj4gRmFjdC1DaGVja2VycyBEZWJ1bmsgVmlyYWwgRmFrZSA8Yj5NZXJnZXI8L2I-IC4uLkKaAVBJQiBmYWN0LWNoZWNrZXJzIGRlYnVuayB2aXJhbCBmYWtlIGRvY3VtZW50IGNsYWltaW5nIG1lcmdlciBvZiBuaW5lIFBTVSBiYW5rcywgY2xhcmlmeWluZyA8Yj5ubyBnb3Zlcm5tZW50IHByb3Bvc2FsIGlzIG9uIHRoZSB0YWJsZTwvYj4gZm9yIHN1Y2gmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "source": "Gulf News"
+    },
+    {
+      "position": 6,
+      "title": "Viral notification regarding the merger of nine public sector ...",
+      "link": "https://factly.in/viral-notification-regarding-the-merger-of-nine-public-sector-banks-is-fake/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFQPy8yFAeWOWAk8wnvkci5evafPONhTK_dFhUu6KPxDxsOaxZtUPG7iIU0bROMLoOsK0lAYK1or-ewge8oJi9Aue5UN0YCEhbYKI2QDwvcHehCcLwUjQBf34z0qbvnnC-CNoqtLz8CFRKGvj5PAHjagVtW88Lz7L6Yh-SFYXcWcYVuZ7He_4GGsGHKP1o0_WbI8&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://factly.in › English",
+      "date": "prieš 5 dienas",
+      "snippet": "PIB Fact Check also has confirmed the document is fabricated. Hence, the claim made in the post is False. An internet search using relevant ...",
+      "about_this_result": {
+        "source": {
+          "description": "PIB Fact Check also has confirmed the document is fabricated. Hence, the claim made in the post is False. An internet search using relevant ...",
+          "source_info_link": "https://factly.in/viral-notification-regarding-the-merger-of-nine-public-sector-banks-is-fake/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEXoNEZHcEzoNEboNEboM0boNEboNEboNEboNEboNEboNEboNEboNEai0sCoAAAADHRSTlN9ALQZBy6pzmaT6kgC9WYjAAAApUlEQVQoka3TRxLDIAwFUKFCEb7_eSMgOJiSTfI3ZnimSB4DwjFG7hj4CxIg-sg7ZLxa0op03dEFryFhwlQ3JBZfBvGJZSq3mc_SN2abQecEkV0Aem4LdSGh90MlE_otRkMoK3GDtUo7U8SGKFMpoRRfLiJDkzpKqx61PnnqUBw6lJfGDzqfaeGkXVesL7RG4hb71eIB2weiA7qgquGEd37Bb7_DCwMnCUl6no6oAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZRUHk4eUZBZVdPV0FrOHdudmtjaTVldmFmUE9OaFRLX2RGaFV1NktQeER4c09heFp0VVBHN2lJVTBiUk9NTG9Pc0swbEFZSzFvci1ld2dlOG9KaTlBdWU1VU4wWUNFaGJZS0kyUUR3dmNIZWhDY0x3VWpRQmYzNHowcWJ2bm5DLUNOb3F0THo4Q0ZSS0d2ajVQQUhqYWdWdFc4OEx6N0w2WWgtU0ZZWGNXY1lWdVo3SGVfNEdHc0dIS1AxbzBfV2JJOBIEGgIIABr_BhICCAAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA1wYIABAAGAAgACpgCgpnb3Zlcm5tZW50FY5cEUAaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFSSGsD4aCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFXoHtEAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVKMGyQBoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVf_y9QBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVDz25QBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZRUHk4eUZBZVdPV0FrOHdudmtjaTVldmFmUE9OaFRLX2RGaFV1NktQeER4c09heFp0VVBHN2lJVTBiUk9NTG9Pc0swbEFZSzFvci1ld2dlOG9KaTlBdWU1VU4wWUNFaGJZS0kyUUR3dmNIZWhDY0x3VWpRQmYzNHowcWJ2bm5DLUNOb3F0THo4Q0ZSS0d2ajVQQUhqYWdWdFc4OEx6N0w2WWgtU0ZZWGNXY1lWdVo3SGVfNEdHc0dIS1AxbzBfV2JJODpPVmlyYWwgbm90aWZpY2F0aW9uIHJlZ2FyZGluZyB0aGUgPGI-bWVyZ2VyPC9iPiBvZiA8Yj5uaW5lIHB1YmxpYyBzZWN0b3I8L2I-IC4uLkKUAVBJQiBGYWN0IENoZWNrIGFsc28gaGFzIGNvbmZpcm1lZCB0aGUgZG9jdW1lbnQgaXMgZmFicmljYXRlZC4gSGVuY2UsIHRoZSBjbGFpbSBtYWRlIGluIHRoZSBwb3N0IGlzIEZhbHNlLiBBbiBpbnRlcm5ldCBzZWFyY2ggdXNpbmcgcmVsZXZhbnQmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZRUHk4eUZBZVdPV0FrOHdudmtjaTVldmFmUE9OaFRLX2RGaFV1NktQeER4c09heFp0VVBHN2lJVTBiUk9NTG9Pc0swbEFZSzFvci1ld2dlOG9KaTlBdWU1VU4wWUNFaGJZS0kyUUR3dmNIZWhDY0x3VWpRQmYzNHowcWJ2bm5DLUNOb3F0THo4Q0ZSS0d2ajVQQUhqYWdWdFc4OEx6N0w2WWgtU0ZZWGNXY1lWdVo3SGVfNEdHc0dIS1AxbzBfV2JJOBIEGgIIABr_BhICCAAaACICCAEqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA1wYIABAAGAAgACpgCgpnb3Zlcm5tZW50FY5cEUAaA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFSSGsD4aCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFXoHtEAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVKMGyQBoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVf_y9QBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVDz25QBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZRUHk4eUZBZVdPV0FrOHdudmtjaTVldmFmUE9OaFRLX2RGaFV1NktQeER4c09heFp0VVBHN2lJVTBiUk9NTG9Pc0swbEFZSzFvci1ld2dlOG9KaTlBdWU1VU4wWUNFaGJZS0kyUUR3dmNIZWhDY0x3VWpRQmYzNHowcWJ2bm5DLUNOb3F0THo4Q0ZSS0d2ajVQQUhqYWdWdFc4OEx6N0w2WWgtU0ZZWGNXY1lWdVo3SGVfNEdHc0dIS1AxbzBfV2JJODpPVmlyYWwgbm90aWZpY2F0aW9uIHJlZ2FyZGluZyB0aGUgPGI-bWVyZ2VyPC9iPiBvZiA8Yj5uaW5lIHB1YmxpYyBzZWN0b3I8L2I-IC4uLkKUAVBJQiBGYWN0IENoZWNrIGFsc28gaGFzIGNvbmZpcm1lZCB0aGUgZG9jdW1lbnQgaXMgZmFicmljYXRlZC4gSGVuY2UsIHRoZSBjbGFpbSBtYWRlIGluIHRoZSBwb3N0IGlzIEZhbHNlLiBBbiBpbnRlcm5ldCBzZWFyY2ggdXNpbmcgcmVsZXZhbnQmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "source": "FACTLY"
+    },
+    {
+      "position": 7,
+      "title": "Indian Bank, Bank of Maharashtra, Canara Bank among 9 ...",
+      "link": "https://m.economictimes.com/news/new-updates/9-psu-banks-including-canara-bank-indian-bank-to-merge-with-sbi-pnb-bank-of-baroda-pib-debunks-fake-gazette/articleshow/134323693.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES6wEB6zswFUjTJ04UykCk-mNP_7GKY_3JM6R-rQN9GYHW7GMd33wIz_X_qrCKaA5mEqMpcAX9_oPbj8vEhuT-2_dWm7Gi63EhivJJtVZV7GOsAI4ffMm1_CrgWX9xSj7YMd0X3XnEtKQZba-ZUQieeIu6RAMAZfZt6FoHOpuDZuXQjzmajRsUs9JcH1wzjawafI8hfMPSf1UPTloLazSfcgu020oh6z25gMIJ66lKp8mS3svv_pV0CizFeRgaSq5Funowq8O86IhPHhWqJgdvYQeAuImn3zmvVUk8BL6iyejXKFD8nNeiY06PdmLk&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://m.economictimes.com › news",
+      "date": "prieš 3 dienas",
+      "snippet": "A Gazette notification claiming that nine public sector banks will be merged into State Bank of India, Punjab National Bank and Bank of Baroda ...",
+      "snippet_highlighted_words": [
+        "nine public sector banks will be merged"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A Gazette notification claiming that nine public sector banks will be merged into State Bank of India, Punjab National Bank and Bank of Baroda ...",
+          "source_info_link": "https://m.economictimes.com/news/new-updates/9-psu-banks-including-canara-bank-indian-bank-to-merge-with-sbi-pnb-bank-of-baroda-pib-debunks-fake-gazette/articleshow/134323693.cms",
+          "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAKwy6M4BtGUG_e7Uf_IM7saSf5E0ERQAAP6cqPZjr7J-9SavpOBfLsbhlRwsMG_a8Rbp-_R4cS-RyVWgx5cgvXgNo_-N4_cBT3AAfxeKB3GuT5gvQ2UDKHi3eJKJK7jykwBhT-W8b8M_9sh_hHbBkT3H1HVTQjuw2pclgD91RkaQw8HgF_E7-Uesx4U0eMZZ9A1fwXZEgmRpqxY79imRAM-wGZUCybLSh9vT7Cu1eXa4O844RnSmSGtBnZe52XwjAOzZeq5f8f8NlC3MH6AA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoCL2dvdG8_dXJsPUNBRVM2d0VCNnpzd0ZValRKMDRVeWtDay1tTlBfN0dLWV8zSk02Ui1yUU45R1lIVzdHTWQzM3dJel9YX3FyQ0thQTVtRXFNcGNBWDlfb1Biajh2RWh1VC0yX2RXbTdHaTYzRWhpdkpKdFZaVjdHT3NBSTRmZk1tMV9DcmdXWDl4U2o3WU1kMFgzWG5FdEtRWmJhLVpVUWllZUl1NlJBTUFaZlp0NkZvSE9wdURadVhRanptYWpSc1VzOUpjSDF3emphd2FmSThoZk1QU2YxVVBUbG9MYXpTZmNndTAyMG9oNnoyNWdNSUo2NmxLcDhtUzNzdnZfcFYwQ2l6RmVSZ2FTcTVGdW5vd3E4Tzg2SWhQSGhXcUpnZHZZUWVBdUltbjN6bXZWVWs4Qkw2aXllalhLRkQ4bk5laVkwNlBkbUxrEgQaAggAGu8HEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDHBwgAEAAYACAAKmAKCmdvdmVybm1lbnQV43DFPxoDZ292GgRnb3Z0Gghwb2xpdGljcxoSZ292ZXJubWVudGFwcHJvdmVkGg9pdjtkO2dvdmVybm1lbnQaCGl2O2Q7Z292GglpdjtkO2dvdnQqPAoIYXBwcm92ZWQVOew1PxoIYXBwcm92YWwaEmdvdmVybm1lbnRhcHByb3ZlZBoNaXY7ZDthcHByb3ZlZCoyCgZtZXJnZXIVmOM6QBoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaCml2O2Q7bWVyZ2UqIAoEbmluZRU4tbI_GgE5GgVuaW7ElxoJaXY7ZDtuaW5lKigKBnB1YmxpYxW1uuI_GgxwdWJsaWNzZWN0b3IaC2l2O2Q7cHVibGljKk4KBnNlY3RvchV4u-U_GgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IaC2l2O2Q7c2VjdG9yGgxpdjtkO3NlcnZpY2UaDWl2O2Q7c2VydmljZXMqFgoEMjAyNRWIH1k-GglpdjtuOzIwMjUyygIvZ290bz91cmw9Q0FFUzZ3RUI2enN3RlVqVEowNFV5a0NrLW1OUF83R0tZXzNKTTZSLXJRTjlHWUhXN0dNZDMzd0l6X1hfcXJDS2FBNW1FcU1wY0FYOV9vUGJqOHZFaHVULTJfZFdtN0dpNjNFaGl2Skp0VlpWN0dPc0FJNGZmTW0xX0NyZ1dYOXhTajdZTWQwWDNYbkV0S1FaYmEtWlVRaWVlSXU2UkFNQVpmWnQ2Rm9IT3B1RFp1WFFqem1halJzVXM5SmNIMXd6amF3YWZJOGhmTVBTZjFVUFRsb0xhelNmY2d1MDIwb2g2ejI1Z01JSjY2bEtwOG1TM3N2dl9wVjBDaXpGZVJnYVNxNUZ1bm93cThPODZJaFBIaFdxSmdkdllRZUF1SW1uM3ptdlZVazhCTDZpeWVqWEtGRDhuTmVpWTA2UGRtTGs6RFBTVSBiYW5rIDxiPm1lcmdlcjwvYj46IEluZGlhbiBCYW5rLCBCYW5rIG9mIE1haGFyYXNodHJhLCBDYW5hcmEgLi4uQp4BQSBHYXpldHRlIG5vdGlmaWNhdGlvbiBjbGFpbWluZyB0aGF0IDxiPm5pbmUgcHVibGljIHNlY3RvciBiYW5rcyB3aWxsIGJlIG1lcmdlZDwvYj4gaW50byBTdGF0ZSBCYW5rIG9mIEluZGlhLCBQdW5qYWIgTmF0aW9uYWwgQmFuayBhbmQgQmFuayBvZiBCYXJvZGEmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoCL2dvdG8_dXJsPUNBRVM2d0VCNnpzd0ZValRKMDRVeWtDay1tTlBfN0dLWV8zSk02Ui1yUU45R1lIVzdHTWQzM3dJel9YX3FyQ0thQTVtRXFNcGNBWDlfb1Biajh2RWh1VC0yX2RXbTdHaTYzRWhpdkpKdFZaVjdHT3NBSTRmZk1tMV9DcmdXWDl4U2o3WU1kMFgzWG5FdEtRWmJhLVpVUWllZUl1NlJBTUFaZlp0NkZvSE9wdURadVhRanptYWpSc1VzOUpjSDF3emphd2FmSThoZk1QU2YxVVBUbG9MYXpTZmNndTAyMG9oNnoyNWdNSUo2NmxLcDhtUzNzdnZfcFYwQ2l6RmVSZ2FTcTVGdW5vd3E4Tzg2SWhQSGhXcUpnZHZZUWVBdUltbjN6bXZWVWs4Qkw2aXllalhLRkQ4bk5laVkwNlBkbUxrEgQaAggAGu8HEgIIARoAIgIIASoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkDHBwgAEAAYACAAKmAKCmdvdmVybm1lbnQV43DFPxoDZ292GgRnb3Z0Gghwb2xpdGljcxoSZ292ZXJubWVudGFwcHJvdmVkGg9pdjtkO2dvdmVybm1lbnQaCGl2O2Q7Z292GglpdjtkO2dvdnQqPAoIYXBwcm92ZWQVOew1PxoIYXBwcm92YWwaEmdvdmVybm1lbnRhcHByb3ZlZBoNaXY7ZDthcHByb3ZlZCoyCgZtZXJnZXIVmOM6QBoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaCml2O2Q7bWVyZ2UqIAoEbmluZRU4tbI_GgE5GgVuaW7ElxoJaXY7ZDtuaW5lKigKBnB1YmxpYxW1uuI_GgxwdWJsaWNzZWN0b3IaC2l2O2Q7cHVibGljKk4KBnNlY3RvchV4u-U_GgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IaC2l2O2Q7c2VjdG9yGgxpdjtkO3NlcnZpY2UaDWl2O2Q7c2VydmljZXMqFgoEMjAyNRWIH1k-GglpdjtuOzIwMjUyygIvZ290bz91cmw9Q0FFUzZ3RUI2enN3RlVqVEowNFV5a0NrLW1OUF83R0tZXzNKTTZSLXJRTjlHWUhXN0dNZDMzd0l6X1hfcXJDS2FBNW1FcU1wY0FYOV9vUGJqOHZFaHVULTJfZFdtN0dpNjNFaGl2Skp0VlpWN0dPc0FJNGZmTW0xX0NyZ1dYOXhTajdZTWQwWDNYbkV0S1FaYmEtWlVRaWVlSXU2UkFNQVpmWnQ2Rm9IT3B1RFp1WFFqem1halJzVXM5SmNIMXd6amF3YWZJOGhmTVBTZjFVUFRsb0xhelNmY2d1MDIwb2g2ejI1Z01JSjY2bEtwOG1TM3N2dl9wVjBDaXpGZVJnYVNxNUZ1bm93cThPODZJaFBIaFdxSmdkdllRZUF1SW1uM3ptdlZVazhCTDZpeWVqWEtGRDhuTmVpWTA2UGRtTGs6RFBTVSBiYW5rIDxiPm1lcmdlcjwvYj46IEluZGlhbiBCYW5rLCBCYW5rIG9mIE1haGFyYXNodHJhLCBDYW5hcmEgLi4uQp4BQSBHYXpldHRlIG5vdGlmaWNhdGlvbiBjbGFpbWluZyB0aGF0IDxiPm5pbmUgcHVibGljIHNlY3RvciBiYW5rcyB3aWxsIGJlIG1lcmdlZDwvYj4gaW50byBTdGF0ZSBCYW5rIG9mIEluZGlhLCBQdW5qYWIgTmF0aW9uYWwgQmFuayBhbmQgQmFuayBvZiBCYXJvZGEmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "source": "The Economic Times"
+    },
+    {
+      "position": 8,
+      "title": "PIB Calls Out Fake Notification Announcing Merger Of ...",
+      "link": "https://newschecker.in/fact-check/fact-check/pib-calls-out-fake-notification-announcing-merger-of-public-sector-banks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFW4edS915aqjgXD5Mgbw80SP7_adiX_o1wzhU_JwP97jj-SgoicsvqTPb5VkLipUIJgw_8_LJIyVPK2StQXhQ2plkj85DeD_Q3EZIDFpa7vUp8BUvtVGym2jAxf2PIvViZ3sancWqhV0zRXkHgch56onb0p2aWAJdyw_5yuOxogpG96576l6ltB49HYaJEFU1RGnpTgfKnOpuLoffM8qYBnm40uY9o48nA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://newschecker.in › fact-check",
+      "snippet": "Hence, we find that the viral document claiming that the Ministry of Finance has notified the merger of nine public sector banks into three entities is fake.",
+      "snippet_highlighted_words": [
+        "merger",
+        "nine public sector"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Hence, we find that the viral document claiming that the Ministry of Finance has notified the merger of nine public sector banks into three entities is fake.",
+          "source_info_link": "https://newschecker.in/fact-check/fact-check/pib-calls-out-fake-notification-announcing-merger-of-public-sector-banks",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAADwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y4OACadHx7WB4AaTWZv4xHuHoVlhn4lo-ydTLk3XfCWkapn1YO9eO3by04QAA_vfqX89KS4T86zHUfA3kYVv7QhlnQBMWrXAbsBhscU21lG1XH-2Q7OpFCP6qcLvEi0RHtKk03SOOyNurIeqpFFYI6Se9EsjktahsUmm_vK-YPwcj3fj6tGCYJzTjNDt49vhlYcpvNXYpGwk_yVfJ8qtD1ocfKdod_kNBBTj709UrgNEpfWy26wR05ywUr_dKbG0vUH1JG0LXngGsfif3tZvL64l9KW4cVI0iD41Kavej5rhOu-YPvXiA2q4kmOntOL1vYiR4iea7-nb4IyPc62Ik1KDlRvmbVwFJopw4bASn5yJ84bm4Qb5Ojj0U3vT16pVQZYWtYqhrYIIKeU2sadq8T7ZmTZVK0-2RzyWyijoGgBwp3nJSksbpn-8LCVwsjuEy-vXszgqp-uHOds4L6K3jccElUQyeIRs0pOS-ggSP-5aoL0HP3P-8sifTf3ModATnAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZXNGVkUzkxNWFxamdYRDVNZ2J3ODBTUDdfYWRpWF9vMXd6aFVfSndQOTdqai1TZ29pY3N2cVRQYjVWa0xpcFVJSmd3XzhfTEpJeVZQSzJTdFFYaFEycGxrajg1RGVEX1EzRVpJREZwYTd2VXA4QlV2dFZHeW0yakF4ZjJQSXZWaVozc2FuY1dxaFYwelJYa0hnY2g1Nm9uYjBwMmFXQUpkeXdfNXl1T3hvZ3BHOTY1NzZsNmx0QjQ5SFlhSkVGVTFSR25wVGdmS25PcHVMb2ZmTThxWUJubTQwdVk5bzQ4bkESBBoCCAAarwcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAiwcIABAAGAAgACpgCgpnb3Zlcm5tZW50Fd-ZzD8aA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFTZJtUAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVrwXfPxoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVZ169QBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVZ169QBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZXNGVkUzkxNWFxamdYRDVNZ2J3ODBTUDdfYWRpWF9vMXd6aFVfSndQOTdqai1TZ29pY3N2cVRQYjVWa0xpcFVJSmd3XzhfTEpJeVZQSzJTdFFYaFEycGxrajg1RGVEX1EzRVpJREZwYTd2VXA4QlV2dFZHeW0yakF4ZjJQSXZWaVozc2FuY1dxaFYwelJYa0hnY2g1Nm9uYjBwMmFXQUpkeXdfNXl1T3hvZ3BHOTY1NzZsNmx0QjQ5SFlhSkVGVTFSR25wVGdmS25PcHVMb2ZmTThxWUJubTQwdVk5bzQ4bkE6TVBJQiBDYWxscyBPdXQgRmFrZSBOb3RpZmljYXRpb24gQW5ub3VuY2luZyA8Yj5NZXJnZXI8L2I-IE9mIDxiPlB1YmxpYzwvYj4gLi4uQqsBSGVuY2UsIHdlIGZpbmQgdGhhdCB0aGUgdmlyYWwgZG9jdW1lbnQgY2xhaW1pbmcgdGhhdCB0aGUgTWluaXN0cnkgb2YgRmluYW5jZSBoYXMgbm90aWZpZWQgdGhlIDxiPm1lcmdlcjwvYj4gb2YgPGI-bmluZSBwdWJsaWMgc2VjdG9yPC9iPiBiYW5rcyBpbnRvIHRocmVlIGVudGl0aWVzIGlzIGZha2UuUgE5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZXNGVkUzkxNWFxamdYRDVNZ2J3ODBTUDdfYWRpWF9vMXd6aFVfSndQOTdqai1TZ29pY3N2cVRQYjVWa0xpcFVJSmd3XzhfTEpJeVZQSzJTdFFYaFEycGxrajg1RGVEX1EzRVpJREZwYTd2VXA4QlV2dFZHeW0yakF4ZjJQSXZWaVozc2FuY1dxaFYwelJYa0hnY2g1Nm9uYjBwMmFXQUpkeXdfNXl1T3hvZ3BHOTY1NzZsNmx0QjQ5SFlhSkVGVTFSR25wVGdmS25PcHVMb2ZmTThxWUJubTQwdVk5bzQ4bkESBBoCCAAarwcSABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJAiwcIABAAGAAgACpgCgpnb3Zlcm5tZW50Fd-ZzD8aA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFTZJtUAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVrwXfPxoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVZ169QBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVZ169QBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZXNGVkUzkxNWFxamdYRDVNZ2J3ODBTUDdfYWRpWF9vMXd6aFVfSndQOTdqai1TZ29pY3N2cVRQYjVWa0xpcFVJSmd3XzhfTEpJeVZQSzJTdFFYaFEycGxrajg1RGVEX1EzRVpJREZwYTd2VXA4QlV2dFZHeW0yakF4ZjJQSXZWaVozc2FuY1dxaFYwelJYa0hnY2g1Nm9uYjBwMmFXQUpkeXdfNXl1T3hvZ3BHOTY1NzZsNmx0QjQ5SFlhSkVGVTFSR25wVGdmS25PcHVMb2ZmTThxWUJubTQwdVk5bzQ4bkE6TVBJQiBDYWxscyBPdXQgRmFrZSBOb3RpZmljYXRpb24gQW5ub3VuY2luZyA8Yj5NZXJnZXI8L2I-IE9mIDxiPlB1YmxpYzwvYj4gLi4uQqsBSGVuY2UsIHdlIGZpbmQgdGhhdCB0aGUgdmlyYWwgZG9jdW1lbnQgY2xhaW1pbmcgdGhhdCB0aGUgTWluaXN0cnkgb2YgRmluYW5jZSBoYXMgbm90aWZpZWQgdGhlIDxiPm1lcmdlcjwvYj4gb2YgPGI-bmluZSBwdWJsaWMgc2VjdG9yPC9iPiBiYW5rcyBpbnRvIHRocmVlIGVudGl0aWVzIGlzIGZha2UuUgE5IgIQAUgAWABoAA",
+      "source": "Newschecker"
+    },
+    {
+      "position": 9,
+      "title": "Public Sector Mergers in India: Does Size Bring Synergies?",
+      "link": "https://knowledge.wharton.upenn.edu/article/public-sector-mergers-india-size-bring-synergies/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFdK_xeUhYXGbeiZvQAUECFR33KBQ13dS0Zl_jCUb0cxPUsoCZcms_VMgqk7KC5HpuhlkxxEnEtwFI-tBsjeQAV_HNMqPzF8nEkCF6p585wdGUt853M573rh7LyTCVNqKFxwWn2BUxS40I1yi4UnWpvXNDHjwxBw_JbMMnw0sQY0CIm0BUUTULPgCBHGpaFJN1g&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://knowledge.wharton.upenn.edu › ...",
+      "date": "2017-08-09",
+      "snippet": "A few days later, the government announced a deal between two public sector undertakings (PSUs) – the Oil & Natural Gas Corporation (ONGC) and ...",
+      "snippet_highlighted_words": [
+        "government",
+        "public sector"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A few days later, the government announced a deal between two public sector undertakings (PSUs) – the Oil & Natural Gas Corporation (ONGC) and ...",
+          "source_info_link": "https://knowledge.wharton.upenn.edu/article/public-sector-mergers-india-size-bring-synergies/",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACQBQCdASocABwAPtEwtFooIigoGAEAGglkAIEejivItc4GoAMtB0Zlhxrc9q-J73c2D21QAAD-9gF2Dk5e5V3hYOzPHcTUsfdUfJ7lKPCHzo4p952yxQy_ddlNcbJOdMZ2bxOLddWIWC8CXL_wBNPvhW85qAdzh5es-GeVzhP_o7sIhB33St5I3Ef_0dZpmvvTlVZF_7JC-4fMdyuh5nssTvv0n_-qEss_tg-El6PsHSI6s39An6GcU7YxBfunch4hqVRxFxnHK2kCMTRNkjwAvAyNXxv-53-m_GYTwDIUv-h0GMfx6p-LlxNwyfnopy0pRT9nphfSgAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZkS194ZVVoWVhHYmVpWnZRQVVFQ0ZSMzNLQlExM2RTMFpsX2pDVWIwY3hQVXNvQ1pjbXNfVk1ncWs3S0M1SHB1aGxreHhFbkV0d0ZJLXRCc2plUUFWX0hOTXFQekY4bkVrQ0Y2cDU4NXdkR1V0ODUzTTU3M3JoN0x5VENWTnFLRnh3V24yQlV4UzQwSTF5aTRVbldwdlhOREhqd3hCd19KYk1Nbncwc1FZMENJbTBCVVVUVUxQZ0NCSEdwYUZKTjFnEgQaAggAGoUHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA3wYIABAAGAAgACpgCgpnb3Zlcm5tZW50FVoh6D8aA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFXPg_D8aBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVAAAAABoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVboWQQBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVePCQQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZkS194ZVVoWVhHYmVpWnZRQVVFQ0ZSMzNLQlExM2RTMFpsX2pDVWIwY3hQVXNvQ1pjbXNfVk1ncWs3S0M1SHB1aGxreHhFbkV0d0ZJLXRCc2plUUFWX0hOTXFQekY4bkVrQ0Y2cDU4NXdkR1V0ODUzTTU3M3JoN0x5VENWTnFLRnh3V24yQlV4UzQwSTF5aTRVbldwdlhOREhqd3hCd19KYk1Nbncwc1FZMENJbTBCVVVUVUxQZ0NCSEdwYUZKTjFnOkE8Yj5QdWJsaWMgU2VjdG9yIE1lcmdlcnM8L2I-IGluIEluZGlhOiBEb2VzIFNpemUgQnJpbmcgU3luZXJnaWVzP0KrAUEgZmV3IGRheXMgbGF0ZXIsIHRoZSA8Yj5nb3Zlcm5tZW50PC9iPiBhbm5vdW5jZWQgYSBkZWFsIGJldHdlZW4gdHdvIDxiPnB1YmxpYyBzZWN0b3I8L2I-IHVuZGVydGFraW5ncyAoUFNVcykg4oCTIHRoZSBPaWwgJmFtcDsgTmF0dXJhbCBHYXMgQ29ycG9yYXRpb24gKE9OR0MpIGFuZCZuYnNwOy4uLlIBOSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZkS194ZVVoWVhHYmVpWnZRQVVFQ0ZSMzNLQlExM2RTMFpsX2pDVWIwY3hQVXNvQ1pjbXNfVk1ncWs3S0M1SHB1aGxreHhFbkV0d0ZJLXRCc2plUUFWX0hOTXFQekY4bkVrQ0Y2cDU4NXdkR1V0ODUzTTU3M3JoN0x5VENWTnFLRnh3V24yQlV4UzQwSTF5aTRVbldwdlhOREhqd3hCd19KYk1Nbncwc1FZMENJbTBCVVVUVUxQZ0NCSEdwYUZKTjFnEgQaAggAGoUHEgIIABoAIgAqADIGCAISAmx0OgBCBAgCEBVKAFoAcgB6AIJA3wYIABAAGAAgACpgCgpnb3Zlcm5tZW50FVoh6D8aA2dvdhoEZ292dBoIcG9saXRpY3MaEmdvdmVybm1lbnRhcHByb3ZlZBoPaXY7ZDtnb3Zlcm5tZW50GghpdjtkO2dvdhoJaXY7ZDtnb3Z0KjwKCGFwcHJvdmVkFQAAAAAaCGFwcHJvdmFsGhJnb3Zlcm5tZW50YXBwcm92ZWQaDWl2O2Q7YXBwcm92ZWQqMgoGbWVyZ2VyFXPg_D8aBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgppdjtkO21lcmdlKiAKBG5pbmUVAAAAABoBORoFbmluxJcaCWl2O2Q7bmluZSooCgZwdWJsaWMVboWQQBoMcHVibGljc2VjdG9yGgtpdjtkO3B1YmxpYypOCgZzZWN0b3IVePCQQBoHc2VydmljZRoMcHVibGljc2VjdG9yGgtpdjtkO3NlY3RvchoMaXY7ZDtzZXJ2aWNlGg1pdjtkO3NlcnZpY2VzKhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZkS194ZVVoWVhHYmVpWnZRQVVFQ0ZSMzNLQlExM2RTMFpsX2pDVWIwY3hQVXNvQ1pjbXNfVk1ncWs3S0M1SHB1aGxreHhFbkV0d0ZJLXRCc2plUUFWX0hOTXFQekY4bkVrQ0Y2cDU4NXdkR1V0ODUzTTU3M3JoN0x5VENWTnFLRnh3V24yQlV4UzQwSTF5aTRVbldwdlhOREhqd3hCd19KYk1Nbncwc1FZMENJbTBCVVVUVUxQZ0NCSEdwYUZKTjFnOkE8Yj5QdWJsaWMgU2VjdG9yIE1lcmdlcnM8L2I-IGluIEluZGlhOiBEb2VzIFNpemUgQnJpbmcgU3luZXJnaWVzP0KrAUEgZmV3IGRheXMgbGF0ZXIsIHRoZSA8Yj5nb3Zlcm5tZW50PC9iPiBhbm5vdW5jZWQgYSBkZWFsIGJldHdlZW4gdHdvIDxiPnB1YmxpYyBzZWN0b3I8L2I-IHVuZGVydGFraW5ncyAoUFNVcykg4oCTIHRoZSBPaWwgJmFtcDsgTmF0dXJhbCBHYXMgQ29ycG9yYXRpb24gKE9OR0MpIGFuZCZuYnNwOy4uLlIBOSICEAFIAFgAaAA",
+      "source": "Knowledge at Wharton"
+    },
+    {
+      "position": 10,
+      "title": "Mary O'Hagan's Post",
+      "link": "https://www.linkedin.com/posts/maryohagan_nearly-9000-public-sector-jobs-to-go-government-activity-7462379249748856832-9kMw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESswEB6zswFdUUB6Duwtpd5iB60cbucGnauXNvTNdQwfTVij4fxuoXCY1i2A2VRqMK2Cz5Ue-2XMmSQFKeQkA_Gs3UPJ7vZR7iM-P2gSTE64V57SK7xuok-ZsmHuP-4hmJXfODSFrkZ5Qsc2v0ZwT57RRH_qwd_QuoOXcLo4M21t06raApJnMofE-zncDG8AKST1iEgnlWtLAahgunMcMOXVIrVvI9N8b1Ows5Wetd-WE_oflqiQ&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQFnoECEQQAQ&uoh=1",
+      "displayed_link": "Reakcijų: daugiau nei 20 · prieš 4 mėnesius",
+      "snippet": "Nearly 9000 public sector jobs to go, government ...",
+      "snippet_highlighted_words": [
+        "public sector",
+        "government"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nearly 9000 public sector jobs to go, government ...",
+          "source_info_link": "https://www.linkedin.com/posts/maryohagan_nearly-9000-public-sector-jobs-to-go-government-activity-7462379249748856832-9kMw",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "lt"
+        ],
+        "regions": [
+          "LT"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZkVVVCNkR1d3RwZDVpQjYwY2J1Y0duYXVYTnZUTmRRd2ZUVmlqNGZ4dW9YQ1kxaTJBMlZScU1LMkN6NVVlLTJYTW1TUUZLZVFrQV9HczNVUEo3dlpSN2lNLVAyZ1NURTY0VjU3U0s3eHVvay1ac21IdVAtNGhtSlhmT0RTRnJrWjVRc2MydjBad1Q1N1JSSF9xd2RfUXVvT1hjTG80TTIxdDA2cmFBcEpuTW9mRS16bmNERzhBS1NUMWlFZ25sV3RMQWFoZ3VuTWNNT1hWSXJWdkk5TjhiMU93czVXZXRkLVdFX29mbHFpURIEGgIIABqrBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCHBggAEAAYACAAKmAKCmdvdmVybm1lbnQVzz2WQBoDZ292GgRnb3Z0Gghwb2xpdGljcxoSZ292ZXJubWVudGFwcHJvdmVkGg9pdjtkO2dvdmVybm1lbnQaCGl2O2Q7Z292GglpdjtkO2dvdnQqPAoIYXBwcm92ZWQVAAAAABoIYXBwcm92YWwaEmdvdmVybm1lbnRhcHByb3ZlZBoNaXY7ZDthcHByb3ZlZCoyCgZtZXJnZXIVV4ctPRoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaCml2O2Q7bWVyZ2UqIAoEbmluZRUAAAAAGgE5GgVuaW7ElxoJaXY7ZDtuaW5lKigKBnB1YmxpYxV6ZphAGgxwdWJsaWNzZWN0b3IaC2l2O2Q7cHVibGljKk4KBnNlY3RvchX8CY9AGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IaC2l2O2Q7c2VjdG9yGgxpdjtkO3NlcnZpY2UaDWl2O2Q7c2VydmljZXMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUygAIvZ290bz91cmw9Q0FFU3N3RUI2enN3RmRVVUI2RHV3dHBkNWlCNjBjYnVjR25hdVhOdlROZFF3ZlRWaWo0Znh1b1hDWTFpMkEyVlJxTUsyQ3o1VWUtMlhNbVNRRktlUWtBX0dzM1VQSjd2WlI3aU0tUDJnU1RFNjRWNTdTSzd4dW9rLVpzbUh1UC00aG1KWGZPRFNGcmtaNVFzYzJ2MFp3VDU3UlJIX3F3ZF9RdW9PWGNMbzRNMjF0MDZyYUFwSm5Nb2ZFLXpuY0RHOEFLU1QxaUVnbmxXdExBYWhndW5NY01PWFZJclZ2STlOOGIxT3dzNVdldGQtV0Vfb2ZscWlROiZNYXJ5IE8mIzM5O0hhZ2FuJiMzOTtzIFBvc3QgLSBMaW5rZWRJbkJHTmVhcmx5IDkwMDAgPGI-cHVibGljIHNlY3RvcjwvYj4gam9icyB0byBnbywgPGI-Z292ZXJubWVudDwvYj4mbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoACL2dvdG8_dXJsPUNBRVNzd0VCNnpzd0ZkVVVCNkR1d3RwZDVpQjYwY2J1Y0duYXVYTnZUTmRRd2ZUVmlqNGZ4dW9YQ1kxaTJBMlZScU1LMkN6NVVlLTJYTW1TUUZLZVFrQV9HczNVUEo3dlpSN2lNLVAyZ1NURTY0VjU3U0s3eHVvay1ac21IdVAtNGhtSlhmT0RTRnJrWjVRc2MydjBad1Q1N1JSSF9xd2RfUXVvT1hjTG80TTIxdDA2cmFBcEpuTW9mRS16bmNERzhBS1NUMWlFZ25sV3RMQWFoZ3VuTWNNT1hWSXJWdkk5TjhiMU93czVXZXRkLVdFX29mbHFpURIEGgIIABqrBhIAGgAiACoAMgYIAhICbHQ6AEIECAIQFUoAWgByAHoAgkCHBggAEAAYACAAKmAKCmdvdmVybm1lbnQVzz2WQBoDZ292GgRnb3Z0Gghwb2xpdGljcxoSZ292ZXJubWVudGFwcHJvdmVkGg9pdjtkO2dvdmVybm1lbnQaCGl2O2Q7Z292GglpdjtkO2dvdnQqPAoIYXBwcm92ZWQVAAAAABoIYXBwcm92YWwaEmdvdmVybm1lbnRhcHByb3ZlZBoNaXY7ZDthcHByb3ZlZCoyCgZtZXJnZXIVV4ctPRoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaCml2O2Q7bWVyZ2UqIAoEbmluZRUAAAAAGgE5GgVuaW7ElxoJaXY7ZDtuaW5lKigKBnB1YmxpYxV6ZphAGgxwdWJsaWNzZWN0b3IaC2l2O2Q7cHVibGljKk4KBnNlY3RvchX8CY9AGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IaC2l2O2Q7c2VjdG9yGgxpdjtkO3NlcnZpY2UaDWl2O2Q7c2VydmljZXMqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUygAIvZ290bz91cmw9Q0FFU3N3RUI2enN3RmRVVUI2RHV3dHBkNWlCNjBjYnVjR25hdVhOdlROZFF3ZlRWaWo0Znh1b1hDWTFpMkEyVlJxTUsyQ3o1VWUtMlhNbVNRRktlUWtBX0dzM1VQSjd2WlI3aU0tUDJnU1RFNjRWNTdTSzd4dW9rLVpzbUh1UC00aG1KWGZPRFNGcmtaNVFzYzJ2MFp3VDU3UlJIX3F3ZF9RdW9PWGNMbzRNMjF0MDZyYUFwSm5Nb2ZFLXpuY0RHOEFLU1QxaUVnbmxXdExBYWhndW5NY01PWFZJclZ2STlOOGIxT3dzNVdldGQtV0Vfb2ZscWlROiZNYXJ5IE8mIzM5O0hhZ2FuJiMzOTtzIFBvc3QgLSBMaW5rZWRJbkJHTmVhcmx5IDkwMDAgPGI-cHVibGljIHNlY3RvcjwvYj4gam9icyB0byBnbywgPGI-Z292ZXJubWVudDwvYj4mbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "source": "LinkedIn · Mary O'Hagan"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=10&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8NMDegQIQRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=10&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAE",
+      "3": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=20&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAG",
+      "4": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=30&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAI",
+      "5": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=40&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAK",
+      "6": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=50&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAM",
+      "7": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=60&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAO",
+      "8": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=70&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAQ",
+      "9": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=80&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAS",
+      "10": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQns0X4RiF6eOd3j-fQca5HPdkjpK2Q:1790099267556&ei=Q7-yapnGIdW3vr0PjoS80AU&start=90&sa=N&sstk=AS6-VmJ7LrvXnGpN0z8ILS_N8ZXUyJ-T6cNL2u8-zRosXtR8MyBel_tJ4cSSNi3_emYpJME3vPChepRp0S8xGz83RU81JKVPSl0wPA&ved=2ahUKEwjZ89G334KXAxXVm68BHQ4CD1oQ8tMDegQIQRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+2025&start=90"
+    }
+  }
+}

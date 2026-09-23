@@ -181,6 +181,18 @@ def generate_verdict(investigation, events, trends, evidence_sources) -> dict:
     reasons = []
     changes_detected = []
 
+    # --- Detect if we have recent news (within ~7 days) ---
+    now = datetime.utcnow()
+    recent_sources = []
+    for s in evidence_sources:
+        pub = getattr(s, 'published_at', None)
+        if pub:
+            age_days = (now - pub).days
+            if age_days <= 7:
+                recent_sources.append(s)
+    has_recent_news = len(recent_sources) >= 2
+    has_any_trends_data = len(timeline_data) >= 4
+
     # 1. Cluster events to find the main narrative
     clusters = cluster_events(events)
 
@@ -189,6 +201,16 @@ def generate_verdict(investigation, events, trends, evidence_sources) -> dict:
 
     if clusters:
         primary_cluster = clusters[0]
+        
+        # Check for inherent conflict in the cluster's events
+        for idx in primary_cluster.event_indices:
+            if "conflict_signal" in getattr(events[idx], "event_markers", []):
+                is_contested = True
+                msg = "Reporting indicates disputes, denials, or conflicting accounts."
+                if msg not in changes_detected:
+                    changes_detected.append(msg)
+                break
+
         # Compare earliest and latest events in the primary cluster
         if len(primary_cluster.event_indices) >= 2:
             earliest_idx = primary_cluster.event_indices[-1]
@@ -202,7 +224,6 @@ def generate_verdict(investigation, events, trends, evidence_sources) -> dict:
             )
 
             for change in changes:
-                # Deduplicate descriptions
                 if change.description not in changes_detected:
                     changes_detected.append(change.description)
                 if change.severity == "high":
@@ -214,7 +235,28 @@ def generate_verdict(investigation, events, trends, evidence_sources) -> dict:
     historical = spike_analysis["historical_spike"]
     current = spike_analysis["current_spike"]
 
-    if historical:
+    if not has_any_trends_data:
+        # Google Trends returned nothing — brand-new topic or very niche query
+        if is_contested:
+            verdict = "CONTESTED"
+            reasons.append(
+                "This appears to be an emerging topic with conflicting accounts "
+                "and no established Google Trends footprint."
+            )
+        elif has_recent_news:
+            # Recent news but zero Trends history = genuinely new / BREAKING
+            verdict = "BREAKING"
+            reasons.append(
+                "This appears to be a new event: Google Trends has no historical "
+                "record for this topic, and recent news coverage is actively emerging."
+            )
+        else:
+            verdict = "NEEDS REVIEW"
+            reasons.append(
+                "There is no Google Trends data and insufficient news coverage "
+                "to classify this claim automatically."
+            )
+    elif historical:
         if is_contested:
             verdict = "CONTESTED"
             reasons.append(
@@ -235,12 +277,21 @@ def generate_verdict(investigation, events, trends, evidence_sources) -> dict:
                 "Current reports mirror old claims with no new triggering event."
             )
         else:
-            verdict = "NEEDS REVIEW"
-            reasons.append(
-                "This topic was popular in the past but is not currently "
-                "driving meaningful new search interest."
-            )
+            # Old topic, no current spike — could be developing quietly
+            if is_developing:
+                verdict = "OLD TOPIC + NEW EVENT"
+                reasons.append(
+                    "This topic has historical search interest and new developments "
+                    "are now being reported."
+                )
+            else:
+                verdict = "NEEDS REVIEW"
+                reasons.append(
+                    "This topic was popular in the past but is not currently "
+                    "driving meaningful new search interest."
+                )
     else:
+        # No historical spike
         if is_contested:
             verdict = "CONTESTED"
             reasons.append(
@@ -259,6 +310,12 @@ def generate_verdict(investigation, events, trends, evidence_sources) -> dict:
                 "This is a new, unprecedented spike in search interest "
                 f"(current: {spike_analysis['current_max']}/100) "
                 "with a broadly unified narrative."
+            )
+        elif has_recent_news:
+            verdict = "BREAKING"
+            reasons.append(
+                "This is a new event with active current news coverage "
+                "and no established historical footprint on Google Trends."
             )
         else:
             verdict = "NEEDS REVIEW"

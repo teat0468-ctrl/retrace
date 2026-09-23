@@ -1,0 +1,1138 @@
+{
+  "search_metadata": {
+    "id": "6ab2bf03d996124e8d3fd690",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FD_Z76yh5dl-QH95a9QSvrmyXYwClPLtny6kbX5x0po/6ab2bf03d996124e8d3fd690.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FD_Z76yh5dl-QH95a9QSvrmyXYwClPLtny6kbX5x0po/6ab2bf03d996124e8d3fd690.md",
+    "created_at": "2026-09-22 17:46:43 UTC",
+    "processed_at": "2026-09-22 17:46:43 UTC",
+    "google_news_url": "https://news.google.com/search?q=india+may+introduce+plastic+currency+notes+new+update",
+    "raw_html_file": "https://serpapi.com/searches/FD_Z76yh5dl-QH95a9QSvrmyXYwClPLtny6kbX5x0po/6ab2bf03d996124e8d3fd690.html",
+    "total_time_taken": 6.53
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "india may introduce plastic currency notes new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Are Plastic Notes Coming to India? What Travelers Should Know",
+      "source": {
+        "name": "indianeagle.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indianeagle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indianeagle.com/traveldiary/plastic-notes-india-travel/",
+      "thumbnail": "https://tds.indianeagle.com/wp-content/uploads/2026/06/Plastic-currency-notes-in-India-soon-says-RBI-as-cash-sees-a-surge.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVhUV3BWZUUxNVRuZHpVMFJTVFJERUF4aW5CU2dLTWdzSkFZYmtCV3lLRUlrSExR",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "India may soon get plastic notes: Why they are being introduced and what happens to paper money",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/india-may-soon-get-plastic-notes-rbi-polymer-notes-why-they-are-being-introduced-and-what-happens-to-paper-money/articleshow/132702311.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132702534,width-1280,height-720,imgsize-809448,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdlV1JtUjBsbWFFbGZNM1JKVFJDZkF4ampCU2dLTWdZQlVZaVFTUVU",
+      "date": "07/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-29T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Plastic in Your Wallet? Is India Ready for Polymer Currency?",
+      "source": {
+        "name": "Deccan Chronicle",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanchronicle.com/tabloid/hyderabad-chronicle/plastic-in-your-wallet-is-india-ready-for-polymer-currency-1960351",
+      "thumbnail": "https://www.deccanchronicle.com/h-upload/2026/05/31/1500x900_2046247-01indiasgrowingpapercurrencyeconomy-copy-copy.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZkV016VG5KS2VtNXhRVWxCVFJDdEF4akxCU2dLTWdrZE00Qk5JZVNhU0FJ",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Plastic notes in India get a likely release date: Here's what RBI Governor said",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/finance/plastic-notes-in-india-get-a-likely-release-date-heres-what-rbi-governor-said/articleshow/132898445.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132902255,width-1200,height-900,resizemode-4,imgsize-95188/plastic-currency-notes-may-enter-circulation-at-the-start-of-next-financial-year.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW1SbVpwWVdNMlgwTjFiR0poVFJEZ0F4aUFCU2dLTWdNWkZRbw",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "A garage incident made Australia introduce plastic banknotes: They'll soon be in your hands too; know pros ...",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bhaskarenglish.in/originals/news/india-plastic-banknotes-trials-rupee-notes-government-launch-138565468.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/07/28/aaj-ka-exp-cover-29-07-2026-cover_1785244580.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJTazlvVnpkeFNYaERjbVZoVFJEZ0F4al9CQ2dLTWdZUmNwSW9MUWM",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "India may get Rs 10 and 20 plastic currency notes from next year. Here's why",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/business/story/rbi-polymer-currency-notes-india-rs-10-rs-20-pilot-next-year-2950496-2026-07-18",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/rbi-india-10--20-rupees-plastic-currency-184838846-16x9_0.jpg?VersionId=FI.ApL0dhZqD6vZRs9LVqOP2RLEHKA3P&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRhRU4xWlVabE5VVlRWVlE1VFJDZkF4ampCU2dLTWdZaEZJYk5sUWs",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "RBI's Currency Makeover: Why Polymer Notes Are Important",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtv.com/india-news/reserve-bank-of-india-rbi-currency-makeover-why-polymer-notes-are-important-11566885",
+      "thumbnail": "https://c.ndtvimg.com/2026-05/8d0fmo58_polymer-notes_625x300_30_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRjbVpCUjJsclQybHNWMWs1VFJDZkF4ampCU2dLTWdaRk1ZalZ0QU0",
+      "date": "05/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-30T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "India may soon get plastic currency notes as RBI revives decade-old plan",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manojit Saha"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/rbi-set-to-unveil-polymer-rupee-notes-amid-rising-currency-demand-126052801725_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/19/full/1773900558-7755.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjVVZFZVVJMFVtSk9hV0Z2VFJERUF4aW1CU2dLTWdhVlk0NUlyUVk",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Is India set to get plastic currency notes? How polymer banknotes differ from paper currency",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/is-india-set-to-get-plastic-currency-notes-how-polymer-banknotes-differ-from-paper-currency-14032178.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/07/Untitled-design-19-2026-07-26bf327d105eba4d1f4808b70c66e971.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpUMjF4VkZKTFJYRXlXWGxTVFJDZkF4ampCU2dLTWdhZEVvTExtUWs",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "RBI may roll out plastic currency notes: Pros, cons and what it means for you",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Subhankar Paul"
+        ]
+      },
+      "link": "https://www.businesstoday.in/india/story/india-may-test-plastic-currency-notes-pros-cons-and-what-it-means-for-you-543702-2026-07-17",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a5a244dee778-plastic-notes-were-first-introduced-in-australia-to-safeguard-against-counterfeiting-of-currency-se-174703536-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFRMUV3VDNGdmNHTnlZVXBuVFJDZkF4ampCU2dLTWdhVkFvcXJDUWc",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "RBI May Revive Plastic Currency in India After 12 Years",
+      "source": {
+        "name": "outlookbusiness.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.outlookbusiness.com/economy-and-policy/goodbye-paper-notes-rbi-may-revive-plastic-currency-in-india-after-12-years",
+      "thumbnail": "https://media.assettype.com/outlookbusiness/2026-03-18/k70pnzhb/IMG_BL26_Think_rupee_not_2_1_.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpWVXByZGpkSVFXMUtZamx4VFJDZkF4ampCU2dLTWdZTmdJS3FUUU0",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "RBI Revives Plan For Plastic Currency Notes, New Pilot Project Likely Soon",
+      "source": {
+        "name": "ETV Bharat",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.etvbharat.com/en/business/rbi-revives-plan-for-plastic-currency-notes-new-pilot-project-likely-soon-enn26060407344",
+      "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/04-06-2026/1200-675-26849165-387-26849165-1780590528818.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFSRUZMU2tsS0xURkpOalUxVFJDZkF4ampCU2dLTWdZQkFJNVFxUVk",
+      "date": "06/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-04T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "India May Soon Have Polymer Banknotes. How Are They Better Than Paper Currency?",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Varun Yadav"
+        ]
+      },
+      "link": "https://www.news18.com/business/banking-finance/india-may-soon-have-polymer-banknotes-how-are-they-better-than-paper-currency-ws-l-10118867.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/05/bank-note-2026-05-cf3a3a10f3c1a7d411a1ae6222ff78a5.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNMUzFYYzBvNVZsQnFOWGhPVFJDZkF4ampCU2dLTWdZWlE0YnBSUVE",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "India to have plastic banknotes soon? RBI revives polymer currency plan amid demand surge",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/currency/india-to-have-plastic-banknotes-soon-rbi-revives-polymer-currency-plan-amid-demand-surge-13935275.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/02/20260201072404_rupee.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNhVFZPWHpGeFJuWm5RUzFXVFJDZkF4ampCU2dLTWdtSkE0cUhHYVpyUkFN",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "New money? India's currency might soon get a plastic makeover",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/reserve-bank-of-india-planning-polymer-notes-new-money-indias-currency-might-soon-get-a-plastic-makeover/articleshow/132476206.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132476394,width-1280,height-720,imgsize-2895175,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVWMGhIYzE4MlRGQlFOM2R3VFJDZkF4ampCU2dLTWdhQkFZVGlHZ3M",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Is RBI replacing paper currency with plastic notes from June 30, 2026? Check details",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sneha Kulkarni"
+        ]
+      },
+      "link": "https://m.economictimes.com/wealth/save/is-rbi-replacing-paper-currency-with-plastic-notes-from-june-30-2026-check-details/articleshow/131629763.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-131629890,width-1200,height-900,resizemode-4,imgsize-1740224/et-online.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdkazlpWVZkd2RHUlRkMm95VFJEZ0F4aUFCU2dLTWdrTkFvYm1zS2FoOHdB",
+      "date": "06/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-10T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "What are plastic banknotes and why is RBI considering them now?",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anjaly Raj"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/what-are-plastic-banknotes-why-is-rbi-considering-them-now-126052900458_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/11/full/1765446296-9146.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZhREp6TnpNelVFNDRVREZmVFJERUF4aW1CU2dLTWdhZFU0ek1wUVk",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "India to get plastic notes soon: Why the move is important - explained",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Smriti Jain"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/india-to-get-plastic-notes-soon-rbi-polymer-currency-why-the-move-is-important-explained/articleshow/132764423.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132765717,imgsize-683217,width-400,height-225,resizemode-4/plastic-or-polymer-note.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlOMVZtVlZSdmJEaEtUamRWVFJEaEFSaVFBeWdLTWdZSmNwQW1NUWM",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Plastic notes in India coming soon: Why govt wants polymer banknotes, which countries use them and how the",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/economy/finance/what-are-plastic-notes-explained-rbi-polymer-notes-indian-currency-rs-10-rs-20-notes-why-india-wants-plastic-currency-but-wont-replace-paper-notes/articleshow/132674987.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132675103,width-1200,height-900,resizemode-4,imgsize-237982/india-plastic-notes-rbi-polymer-notes-could-transform-indian-currency-and-cut-costs.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRUbXA1WTBOVUxVUmZPR2R4VFJEZ0F4aUFCU2dLTWdZZFFJcHZ2QU0",
+      "date": "07/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-28T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Will India finally get plastic banknotes? RBI's polymer currency plan explained",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/will-india-finally-get-plastic-banknotes-rbis-polymer-currency-plan-explained/articleshow/131528203.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131528459,width-1280,height-720,imgsize-1156844,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkblZ3U25wRlMwbFpiMjFZVFJDZkF4ampCU2dLTWdZSlVJNmxxZ1U",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "RBI Likely To Reintroduce Plastic Currency Notes Amid Rising Costs",
+      "source": {
+        "name": "KNN India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://knnindia.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://knnindia.co.in/news/newsdetails/sectors/rbi-likely-to-reintroduce-plastic-currency-notes-amid-rising-costs",
+      "thumbnail": "https://knnindia.co.in/uploads/newsfiles/RBI-29-5-2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9jeTFWUjJGWVNtTTVURVo2VFJDZkF4ampCU2dLTWdhbFpZN05yUVU",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "India May Soon Get Plastic Currency Notes; RBI Evaluating Proposal",
+      "source": {
+        "name": "My City Links",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mycitylinks.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mycitylinks.in/india-may-soon-get-plastic-currency-notes-rbi-evaluating-proposal",
+      "thumbnail": "https://pub-e9d3756b10844029b3d9ab7873821e23.r2.dev/newsdata/6a23cb555439b_20260606125509.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTFVekpDWTAxb1NESTNaM0Z2VFJDbkF4alZCU2dLTWdzTklvTHFJV0pjdG5qc21R",
+      "date": "06/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-06T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "RBI May Introduce Plastic Currency to Extend Note Life and Cut Printing Expenses",
+      "source": {
+        "name": "digital terminal",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://digitalterminal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://digitalterminal.in/hot-news/rbi-may-introduce-plastic-currency-to-extend-note-life-and-cut-printing-expenses",
+      "thumbnail": "https://media.assettype.com/digitalterminal/2026-06-01/g30r9txt/Image-1-4.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRkak5xT1RkV2QwYzFlUzAxVFJDZkF4amtCU2dLTWdrQlFJckRIcVdTU1FJ",
+      "date": "06/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-01T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Rs 100, Rs 200, Rs 500: India to soon get plastic currency notes – Know why RBI revived its decade-old plan",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.india.com/business/rs-100-rs-200-rs-500-india-to-soon-get-plastic-currency-notes-know-why-rbi-revived-its-decade-old-plan-reserve-bank-of-india-central-bank-icici-hdfc-8429801/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/05/rs-100-rs-500-notes.png?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW1VMVpuUkVWbFFtMWZURUZYVFJERUF4aW1CU2dLTWd1UkFvNnNnV2FpSVR1WDBB",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "🇮🇳 India's currency notes could be going plastic... again! 💵 RBI Governor Sanjay Malhotra said the central bank is actively considering polymer banknotes that are more durable, water-resistant & longer lasting. Will India finally ditch paper for plastic? Ritu Sing",
+      "source": {
+        "name": "LinkedIn",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.linkedin.com/posts/cnbc-tv18_indiancurrency-sanjaymalhotra-plasticcurrency-activity-7468626605293219840-qwKc",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "India to Launch Polymer Currency Notes - RBI Seeks Bids for ₹10 and ₹20 Plastic Notes, May Enter Circulation Next Year",
+      "source": {
+        "name": "Sangri Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sangritoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Muskan Kumawat"
+        ]
+      },
+      "link": "https://www.sangritoday.com/business/india-to-launch-polymer-currency-notes-rbi-seeks-bids-for-10-and-20-plastic-notes-may-enter-circulation-next-year",
+      "thumbnail": "https://www.sangritoday.com/uploads/images/202607/image_1200x675_6a5b17db21118.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtibFYxZDJZdE0wRk5Oeko2VFJDZkF4ampCU2dLTWdB",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "For plastic cash, bidders certify no animal tallow, China-Pakistan firewalls",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ritu Sarin"
+        ]
+      },
+      "link": "https://indianexpress.com/article/india/india-rbi-plastic-currency-notes-polymer-bids-firewalls-against-china-pakistan-10856211/",
+      "thumbnail": "https://images.indianexpress.com/2026/08/plastic-notes-RBI.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBOM051ZWpOUVRVVm9ibmR2VFJDZkF4ampCU2dLTWdrQms0Z3R1YVM1endF",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Polymer rupee notes may be a reality in FY28",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rediff.com/business/report/polymer-rupee-notes-may-be-a-reality-in-fy28/20260805.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/news/2026/aug/5sanjay-gov.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNRbEJCWVRWR09HVldkM1JYVFJDZkF4ampCU2dLTWdhWllwQnBxZ2c",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Knowledge Nugget | RBI to introduce Polymer banknotes: What are ‘Plastic’ notes and why do they matter?",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Roshni Yadav"
+        ]
+      },
+      "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-rbi-polymer-banknotes-plastic-notes-upsc-10824617/",
+      "thumbnail": "https://images.indianexpress.com/2026/08/Knowledge-Nugget-RBI-to-introduce-Polymer-banknotes-What-are-%E2%80%98Plastic-notes-and-why-do-they-matter.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRWVEIzUkdwSFdGTlVkWGMzVFJDZkF4ampCU2dLTWdZQkFJQkdjUUE",
+      "date": "08/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-09T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Soiled rupee notes may soon be history as RBI eyes polymer currency rollout",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Benn Kochuveedan"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/business/2026/Jul/17/soiled-rupee-notes-may-soon-be-history-as-rbi-eyes-polymer-currency-rollout",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-05-29/xyq9uio7/RBI%20issues.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUa2xvWXpCSVJVSmxhMEZxVFJDZkF4ampCU2dLTWdZcEpZak5MUVk",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Video | Why India May Soon Replace Paper Notes with Plastic Notes: Explained",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtv.com/video/why-india-may-soon-replace-paper-notes-with-plastic-notes-explained-1106786",
+      "thumbnail": "https://drop.ndtv.com/video/images/vod/medium/2026-05/1106786_maxresdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdSMHRJY1hwdk1tcEdXR2R4VFJDZkF4ampCU2dLTWdhSkFZSzBFQXM",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "When will government issue plastic currency notes? Minister reveals this in Parliament",
+      "source": {
+        "name": "economictimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shaghil Bilali"
+        ]
+      },
+      "link": "https://m.economictimes.com/wealth/save/when-will-rbi-central-government-issue-plastic-currency-notes-minister-reveals-this-in-parliament/articleshow/133177358.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133177379,width-1200,height-900,resizemode-4,imgsize-137762/plastic-currency-notes.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRSR1owUVZWcWVqTm5RMHQ0VFJEZ0F4aUFCU2dLTWdZRlFJN0ZIUW8",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "RBI revives plastic currency plan, eyes polymer banknotes pilot amid rising cash demand: Report",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/business/rbi-polymer-banknotes-plastic-currency-pilot-india-cash-demand-printing-costs-14016424.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/04/AFP__20250606__49FC8TM__v1__MidRes__IndiaEconomyRate-1-2026-04-39051c8ec78a9f631a8b37688be48356.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRaV1JmZVd0SllXSjNSMWRPVFJDZkF4ampCU2dLTWdhTlk1YW1vZ2s",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "RBI prepares for plastic banknotes: Here's why India's currency may see its biggest makeover",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesstoday.in/india/story/rbi-prepares-for-plastic-banknotes-heres-why-indias-currency-may-see-its-biggest-makeover-543662-2026-07-17",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a5a0b4994ab7-most-indian-banknotes-are-currently-printed-on-cotton-based-paper-embedded-with-multiple-security-fe-170020296-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRXakIzTUV4blF6RllTMXBRVFJDZkF4ampCU2dLTWdhZEVvcE9tUVU",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "RBI wants to bring in plastic money in India: These countries have already done it",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/rbi-wants-to-bring-in-plastic-money-in-india-these-countries-have-already-done-it/articleshow/132706123.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132706145,width-1280,height-720,imgsize-87970,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRiSE5PTjNnME1IcDJXa2RrVFJDZkF4ampCU2dLTWdZQllJaVJUUVU",
+      "date": "07/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-29T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Plastic currency notes' proposal being reviewed, no decision yet: RBI Guv",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/economy/news/plastic-currency-notes-proposal-being-reviewed-no-decision-yet-rbi-guv-126060500876_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/19/full/1773900558-7755.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjVVZFZVVJMFVtSk9hV0Z2VFJERUF4aW1CU2dLTWdhVlk0NUlyUVk",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "RBI set to launch ‘plastic’ notes at start of next financial year",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akash Mandal"
+        ]
+      },
+      "link": "https://indianexpress.com/article/business/rbi-plastic-notes-rs-10-rs-20-plastic-notes-fy28-10819248/",
+      "thumbnail": "https://images.indianexpress.com/2026/08/currency-notes-file-photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxjMlZWU2sxdmEwZEhXVGx2VFJDZkF4ampCU2dLTWdPQmt3WQ",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "When will govt issue plastic ₹10 and ₹20 banknotes? FM Nirmala Sitharaman responds to query in Rajya Sabha",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eshita Gain"
+        ]
+      },
+      "link": "https://www.livemint.com/money/personal-finance/when-will-govt-issue-plastic-10-and-20-bank-notes-fm-nirmala-sitharaman-responds-to-query-in-rajya-sabha-11786582958602.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/currency_1786583701005_1786583709991_2cb6a3fc-55b9-4945-a41a-8c28facae7b9.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBjRVJyT0RaS1NqWkpkVlp2VFJDZkF4ampCU2dLTWdhZEVZeHRGUVU",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "'Plastic notes to be introduced soon in the country': Trial to begin with ₹10 and ₹20 notes; full-scale lau...",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bhaskarenglish.in/business/news/rbi-plastic-polymer-currency-notes-india-trial-launch-2027-138465757.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/07/17/ppp_1784284212.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdRV1ZVVlhaTmExTmtkemh5VFJEZ0F4aUFCU2dLTWdrQklvWkxtU21TRXdF",
+      "date": "07/17/2026, 10:43 AM, +0000 UTC",
+      "iso_date": "2026-07-17T10:43:42Z"
+    },
+    {
+      "position": 40,
+      "title": "RBI to print plastic notes from April-May 2027: Governor drops hint ₹10, ₹20 & other low-value notes will b...",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bhaskarenglish.in/business/news/rbi-governor-malhotra-plastic-notes-launch-india-currency-138638698.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/08/05/ppp_1784284212_1785158927625_1785918336469.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdRV1ZVVlhaTmExTmtkemh5VFJEZ0F4aUFCU2dLTWdrQklvWkxtU21TRXdF",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "India Could Get Plastic Banknotes As RBI Looks To Cut Currency Costs",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Varun Yadav"
+        ]
+      },
+      "link": "https://www.news18.com/business/banking-finance/india-could-get-plastic-banknotes-as-rbi-looks-to-cut-currency-costs-ws-l-10118833.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2025/01/consumption-2025-01-465cfbe3fa268235c5349e2dd5aa006f.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRNMnN4ZGxSV1JuVnJlRGg2VFJDZkF4ampCU2dLTWdZVm81Q3J1UVU",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Soon, your rupee notes may be made of 'plastic': Know why RBI is likely to make such a move",
+      "source": {
+        "name": "Bhaskar English",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bhaskarenglish.in/business/news/rbi-plastic-money-cash-circulation-polymer-notes-india-138064062.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/05/30/plastcnotesai_1780119333.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9lWGxGUnpWdmJGVm9ValpDVFJEZ0F4aUFCU2dLTWdzQkVJb3BsZWRia1htdXFR",
+      "date": "05/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-30T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Reserve Bank of India gets govt's nod to issue ₹10, ₹20 polymer banknotes",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Krity Ambey"
+        ]
+      },
+      "link": "https://www.business-standard.com/economy/news/govt-allows-rbi-to-issue-2-billion-pieces-of-10-20-polymer-banknotes-126072700988_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/24/full/1782296594-1335.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZORk5GUTJWdVpWQkpORVF6VFJERUF4aW1CU2dLTWdhdE1vUXdLUU0",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "RBI May Revive Decade-Old Polymer Currency Plan As Printing Costs Jumped To Rs 6,373 Crore In FY25",
+      "source": {
+        "name": "Swarajya",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://swarajyamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://swarajyamag.com/news-brief/rbi-revived-decade-old-polymer-currency-plan-as-printing-costs-jumped-to-6373-crore-in-fy25",
+      "thumbnail": "https://swarajya.gumlet.io/swarajya/2023-06/5eed7d2f-fd58-4904-b801-c2bb623e5190/photo_1565371767810_ef913a6c8315.jfif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWMk52YlhCUmIzUlpTMVpXVFJERUF4aW1CU2dLTWdZQkFJeFFLUVk",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "RBI Considers Introducing Polymer Currency Notes in India",
+      "source": {
+        "name": "odishanewslens.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://odishanewslens.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://odishanewslens.com/english/webpage/detailnews/5095/5",
+      "thumbnail": "https://odishanewslens.com/english/news_gallery/5095_1780236216.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNNbWhWTTJndFZYVlFRWGd3VFJERUF4aW1CU2dLTWdhQklJYmltZ2s",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Polymer Banknotes in India",
+      "source": {
+        "name": "ClearIAS",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.clearias.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.clearias.com/polymer-banknotes-in-india/",
+      "thumbnail": "https://www.clearias.com/up/Polymer-Banknotes-in-India.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFXREI2WW5sRVVWWkpSV3BSVFJDUUF4ai1CU2dLTWdZcGxZek50UVk",
+      "date": "07/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-23T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "India may soon get plastic money: RBI revives decade-old plan",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/video-gallery/general/india-may-soon-get-plastic-money-rbi-revives-decade-old-plan-banknotes-178861.htm",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/vdo/video-gallery/general/india-may-soon-get-plastic-money-rbi-revives-decade-old-plan-banknotes/orig/india-may-soon-get-plastic-money-rbi-revives-decade-old-plan-17800433848361.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFWR3BHUTJwUGNFdE1hRzFKVFJDZkF4ampCU2dLTWdrSlVZS2xWT0tKZEFF",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "RBI seriously considering plastic currency notes; ATMs may accept them too",
+      "source": {
+        "name": "DhanamOnline",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://english.dhanamonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://english.dhanamonline.com/news/rbi-seriously-considering-plastic-currency-notes-atms-may-accept-them-too-9003350",
+      "thumbnail": "https://media.assettype.com/dhanamonline-english/2025-02-21/j0sxov52/Rupee.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDViekJUYlZFMU5DMTJXVkp0VFJDZkF4ampCU2dLTWdrQkFJYktqS1FleEFJ",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Govt may soon introduce plastic currency notes, procurement initiated | India News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/india-news/govt-may-soon-introduce-plastic-currency-notes-procurement-initiated/story-DFMt9iPbuiSqN1C3KBhGcJ.html",
+      "thumbnail": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2016/12/09/Pictures/_4fe56746-bdf9-11e6-acf3-8522f55b22d1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJTbVpRYm1GTWRWQkVYMEV5VFJDZkF4ampCU2dLTWdtVlU0Nk1LYWVpcndF",
+      "date": "12/09/2016, 08:00 AM, +0000 UTC",
+      "iso_date": "2016-12-09T08:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "…may introduce polymer notes in 2012",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/chandigarh/may-introduce-polymer-notes-in-2012/",
+      "thumbnail": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURVV1ZxWW5GNFprZE9XV1kwVFJDZEF4am5CU2dLTWdhVm9wWW9OUWM",
+      "date": "04/28/2010, 07:00 AM, +0000 UTC",
+      "iso_date": "2010-04-28T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Coming soon to India! Plastic currency notes",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rediff.com/business/slide-show/slide-show-1-plastic-rupee-notes-coming-soon-to-india/20090917.htm",
+      "thumbnail": "https://im.rediff.com/money/2009/sep/17note1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhPVGhaWlU0dFNqWTRiRWMxVFJEeUFSamVBaWdLTWdZVkVvNXVNUVk",
+      "date": "09/17/2009, 07:00 AM, +0000 UTC",
+      "iso_date": "2009-09-17T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "India to get 'plastic notes'? RBI considers decade-old plan. What are polymer banknotes and are they better than paper?",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sayantani Biswas"
+        ]
+      },
+      "link": "https://www.livemint.com/economy/india-to-get-plastic-notes-rbi-considers-decade-old-plan-what-are-polymer-banknotes-and-are-they-better-than-paper-11780032713709.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/29/1600x900/hqdefault_1780056780211_1780056793572_d42b64dd-7f0d-44fa-af73-06aee21099e1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUlMVU4zZFdSU1dYTm1TRXc0VFJDZkF4ampCU2dLTWdtSkpJTEZYV0pxaGdJ",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "India May Soon Introduce Plastic Banknotes; Why Is RBI Moving Away From Paper Currency?",
+      "source": {
+        "name": "OdishaBytes",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://odishabytes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://odishabytes.com/india-may-soon-introduce-plastic-banknotes-why-is-rbi-moving-away-from-paper-currency/",
+      "thumbnail": "https://assets.odishabytes.com/wp-content/uploads/2026/07/Paper-currency-to-be-changed.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWpPRTFJT0hCdmQzSjJaRUk1VFJEaEFSaVFBeWdLTWdB",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "₹10 and ₹20 notes may be the first polymer currency as RBI's printing arm invites global bids: Report",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eshita Gain"
+        ]
+      },
+      "link": "https://www.livemint.com/economy/10-and-20-notes-may-be-the-first-polymer-currency-as-rbis-printing-arm-invites-global-bids-report-11784378011465.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/18/1600x900/logo/notes_1784380959938_1784380966185_5e36ac94-7713-4144-adcc-8ec079f45bab.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthemxOVXpsaGVsUkZjbmhmVFJDZkF4amlCU2dLTWdhZEVZeHRGUVU",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "RBI Looks To Introduce Plastic Currency Notes To Cut Costs And Improve Durability",
+      "source": {
+        "name": "Outlook Money",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.outlookmoney.com/banking/rbi-looks-to-introduce-plastic-currency-notes-to-cut-costs-and-improve-durability",
+      "thumbnail": "https://media.assettype.com/outlookmoney/2026-05-29/406t0stj/Paper-currency.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpaMlpoTm5kdVEzbDZkRGRHVFJDZkF4ampCU2dLTWdZTlE0WXpKUWc",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Plastic currency in India: Can plastic banknotes be counterfeited? Here's why the govt may introduce them",
+      "source": {
+        "name": "News24Online",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news24online.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Navya Dubey"
+        ]
+      },
+      "link": "https://news24online.com/india/plastic-currency-in-india-can-plastic-banknotes-be-counterfeited-heres-why-the-govt-may-introduce-them/888517/",
+      "thumbnail": "https://news24online.com/_next/image?url=https%3A%2F%2Fnews24online.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fimage-48-1.jpg&w=3840&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlSUzFUY2pFMFRqbFRlR3QzVFJDZkF4ampCU2dLTWdrQmtZNFJ1V1d4cndF",
+      "date": "07/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-19T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Plastic currency notes to be introduced in India soon? RBI governor's statement sparks buzz; What does it mean?",
+      "source": {
+        "name": "News24Online",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news24online.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news24online.com/business/plastic-currency-notes-to-be-introduced-in-india-soon-rbi-governors-statement-sparks-buzz-what-does-it-mean/856989/",
+      "thumbnail": "https://news24online.com/wp-content/uploads/2025/10/Rupees.jpg?w=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVWV3hIYlRWd1ZFdDFOQzFpVFJDZkF4ampCU2dLTWdB",
+      "date": "06/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-06T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Plastic Banknotes in India? Here’s What RBI’s Polymer Currency Proposal Means",
+      "source": {
+        "name": "PUNE PULSE",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mypunepulse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mypunepulse.com/plastic-banknotes-in-india-heres-what-rbis-polymer-currency-proposal-means/",
+      "thumbnail": "https://www.mypunepulse.com/wp-content/uploads/2026/06/RBI-May-Introduce-Plastic-Currency-Notes-in-India-1024x576.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhWMVJYYzBsdFRtSkVTbkpoVFJDZkF4ampCU2dLTWdrZElvajFGS3VTRWdF",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "India May Introduce Plastic Currency Notes as RBI Revives Polymer Banknote Plan",
+      "source": {
+        "name": "Thekanal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thekanal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thekanal.in/en-IN/details/india-may-introduce-plastic-currency-notes-as-rbi-revives-polymer-banknote-plan-32032",
+      "thumbnail": "https://thekanal.in/_next/image?url=https%3A%2F%2Fassets.thekanal.in%2Fassets%2F6e3c91a8-07aa-475e-accf-f32105a29e52.jpg&w=3840&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURMVVIwUVZSMFYzRjRPVE54VFJDb0FSaXNBaWdCTWdtQk1vaUNvdWhNU1FJ",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "India may introduce plastic currency notes next year as RBI revives polymer note plan",
+      "source": {
+        "name": "News9live",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.news9live.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajay Awana"
+        ]
+      },
+      "link": "https://www.news9live.com/india/india-may-introduce-plastic-currency-notes-next-year-as-rbi-revives-polymer-note-plan-2990632",
+      "thumbnail": "https://images.news9live.com/wp-content/uploads/2026/06/RBI-forex-strategy-PTI.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZXWEJmZEhack5sUmlRbkowVFJDZkF4ampCU2dLTWdZUlU0SVRxUVk",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "RBI May Introduce Plastic Currency Notes in India: How Will It Impact Your Cash?",
+      "source": {
+        "name": "Trade Brains",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tradebrains.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tradebrains.in/money/rbi-may-introduce-plastic-currency-notes-in-india-how-will-it-impact-your-cash/",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/853x480/filters:format(webp)/trade-brains/media/media_files/money/wp-content/uploads/2026/01/RBI-Rule-Changes-2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlSRXhPWTNGWWNWaERjSEJuVFJERUF4aW1CU2dLTWdZOXNvajB3QVE",
+      "date": "06/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-06T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Plastic Currency Notes Soon? RBI Revives Plan To Introduce Polymer Banknotes In India",
+      "source": {
+        "name": "PUNE PULSE",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mypunepulse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mypunepulse.com/plastic-currency-notes-soon-rbi-revives-plan-to-introduce-polymer-banknotes-in-india/",
+      "thumbnail": "https://www.mypunepulse.com/wp-content/uploads/2026/05/pune-pulse169-2026-05-31T110918.428.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxhVUZKTVcxWVEwZHVTVTFTVFJDZkF4ampCU2dLTWdhQlJJb2pvZ2c",
+      "date": "05/31/2026, 05:42 AM, +0000 UTC",
+      "iso_date": "2026-05-31T05:42:24Z"
+    },
+    {
+      "position": 63,
+      "title": "Is RBI Planning To Introduce Plastic Currency Notes In India? Here’s What We Know",
+      "source": {
+        "name": "NewsX",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newsx.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsx.com/business/is-rbi-planning-to-introduce-plastic-currency-notes-in-india-heres-what-we-know-228375/",
+      "thumbnail": "https://www.newsx.com/wp-content/uploads/2026/05/rupee.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWazQwZDNnd09FcDJlR0pWVFJEZ0F4aUFCU2dLTWdhaE5Zek5vUVk",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "RBI plans to roll out polymer banknotes by FY28",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anshika Kayastha"
+        ]
+      },
+      "link": "https://www.livemint.com/news/india/rbi-polymer-banknotes-india-rollout-fy28-pilot-security-features-11785932489302.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/rupee_1708592614056_1785937729639_91c0e065-0096-4cde-ba48-12922af001ed.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFUVEZvWmpKcmRHeDBVVlJUVFJDZkF4ampCU2dLTWdrQkFJcFlnRzFjYkFF",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Plastic Notes In India? RBI Takes Fresh Step Towards Introducing Polymer Currency",
+      "source": {
+        "name": "ABP Live English",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "VARUN BHASIN"
+        ]
+      },
+      "link": "https://news.abplive.com/business/plastic-notes-to-replace-paper-currency-in-india-rbi-1857043",
+      "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/03/24/c9fe739e471953b7be400c817f9d6840177433996444678_original.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhVemhwUlZGb2NXeEhjMWRRVFJDRkF4anhCQ2dLTWdhZFVvQ1BNUUU",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Plastic over paper? Why RBI is rethinking polymer banknotes",
+      "source": {
+        "name": "financialexpress.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.financialexpress.com/policy/economy/plastic-over-paper-why-rbi-is-rethinking-polymer-banknotes/4260248/",
+      "thumbnail": "https://images.financialexpressdigital.com/2026/06/RBI-riskaccounting_20260522111125_20260605142946.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZiSEZ4YUY4MGFGOVFYemRCVFJDZkF4ampCU2dLTWdhcFJZck50UVU",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "RBI revives plan to introduce polymer currency notes amid rising cash demand",
+      "source": {
+        "name": "Daijiworld",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.daijiworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.daijiworld.com/news/newsDisplay?newsID=1315759",
+      "thumbnail": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/cash_290526_1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTRNbE5qWjJVeWJYQk9SVlJyVFJEb0FoaUFCU2dLTWdB",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Plastic currency notes soon? Why is RBI mulling to replace paper notes?",
+      "source": {
+        "name": "DNA India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dnaindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manisha Chauhan"
+        ]
+      },
+      "link": "https://www.dnaindia.com/india/report-plastic-currency-notes-soon-why-is-rbi-mulling-to-replace-paper-notes-3212593",
+      "thumbnail": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2026/06/06/2750798-fotojet-2026-06-06t121415.850.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJWbWhtVEdGcVRHbzVZelJoVFJEZ0F4aUFCU2dLTWdZbGRZek5zUVU",
+      "date": "06/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-06T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "RBI May Launch Polymer Currency Note Pilot Project, Eyes Longer-Lasting and More Secure Banknotes",
+      "source": {
+        "name": "illustrated Daily News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.illustrateddailynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.illustrateddailynews.com/india/rbi-may-launch-polymer-currency-note-pilot-project-eyes-longer-lasting-and-more-secure-banknotes-867624",
+      "thumbnail": "https://www.illustrateddailynews.com/h-upload/2026/07/18/1098614-rbiplasticcurrencyindiapolymerbanknotes1784367185.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHlVVWwxWDNWYVdEZDJVQzFYVFJDZkF4ampCU2dLTWdB",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "What are polymer notes? RBI explores major change to Indian currency",
+      "source": {
+        "name": "Mathrubhumi English",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://english.mathrubhumi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://english.mathrubhumi.com/news/india/rbi-evaluating-polymer-currency-notes-india-tk60os18",
+      "thumbnail": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1rlccvrc5mye9b2zjan/1/plastic-currency-jpg.webp?f=16:9&w=1200&q=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpRVjlGZG5WNE4xWkNRbVF5VFJDZkF4ampCU2dLTWdhQlFZSUdKZ00",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Plastic currency notes coming to India? RBI revives decade-old plan",
+      "source": {
+        "name": "Indiablooms",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiablooms.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiablooms.com/finance/plastic-currency-notes-coming-to-india-rbi-revives-decade-old-plan/details",
+      "thumbnail": "https://www.indiablooms.com/storage/assets/n/2026/1780040425849247460.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRjRVpzVmxCcVVqZ3dObVJYVFJERUF4aW5CU2dLTWdZQkFJeFFLUVk",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Plastic currency: RBI revives idea of polymer notes, says report",
+      "source": {
+        "name": "Revoi.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://english.revoi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Virendra Pandit"
+        ]
+      },
+      "link": "https://english.revoi.in/plastic-currency-rbi-revives-idea-of-polymer-notes-says-report/",
+      "thumbnail": "https://english.revoi.in/wp-content/uploads/2026/05/Screenshot-2026-05-29-145102.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhSbkpJUjBSYVRFdDRiMUJGVFJDUkF4aldBeWdLTWdZUkE0UW9TUU0",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "India Could Soon Get Polymer Notes; RBI Revisits Decade-Old ‘Plastic Currency’ Plan",
+      "source": {
+        "name": "thelogicalindian.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thelogicalindian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chhavi Chandani"
+        ]
+      },
+      "link": "https://thelogicalindian.com/india-could-soon-get-polymer-notes-rbi-revisits-decade-old-plastic-currency-plan/",
+      "date": "05/29/2026, 09:31 AM, +0000 UTC",
+      "iso_date": "2026-05-29T09:31:38Z"
+    },
+    {
+      "position": 74,
+      "title": "Plastic currency: RBI revives idea of polymer notes, says report",
+      "source": {
+        "name": "Dailyhunt",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://m.dailyhunt.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.dailyhunt.in/news/india/english/real+voice+of+india+english-epaper-realvoi/plastic+currency+rbi+revives+idea+of+polymer+notes+says+report-newsid-n714076002",
+      "thumbnail": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x225_75/fetchdata20/images/1a/2b/4b/1a2b4b3618c75ad4eb3b32bf437544b1784358db484e80a7a9303c08d85347d0.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdaelkzY2xac2EzUm9Ua1F4VFJEVkFoaVFBeWdLTWdZUkE0UW9TUU0",
+      "date": "05/30/2026, 01:38 AM, +0000 UTC",
+      "iso_date": "2026-05-30T01:38:36Z"
+    },
+    {
+      "position": 75,
+      "title": "Goodbye Paper Notes? RBI Plans Pilot for Plastic Currency in India",
+      "source": {
+        "name": "Dailyhunt",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://m.dailyhunt.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.dailyhunt.in/news/india/english/pratidin+time-epaper-prtdntm/goodbye+paper+notes+rbi+plans+pilot+for+plastic+currency+in+india-newsid-n714291037",
+      "thumbnail": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x225_75/fetchdata20/images/84/fa/a5/84faa59b34c936d9d665a494ede12e65c3fea54e439ab6ad299d99a94b335cfd.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZaMHhuVTNOTFkyTmlSVUZhVFJEaEFSaVFBeWdLTWdZQllvNzBzQVU",
+      "date": "05/31/2026, 02:11 PM, +0000 UTC",
+      "iso_date": "2026-05-31T14:11:57Z"
+    },
+    {
+      "position": 76,
+      "title": "RBI Plans Plastic Currency: Why 60 Nations Use Durable Polymer Banknotes",
+      "source": {
+        "name": "zoomnews.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.zoomnews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vikrant Singh"
+        ]
+      },
+      "link": "https://www.zoomnews.in/en/news-detail/rbi-plans-plastic-currency-why-60-nations-use-durable-polymer-banknotes.html",
+      "thumbnail": "https://www.zoomnews.in/uploads_2019/newses/rbi_1554279881_sm.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhZWHBwWldReFJWTjVWMmQwVFJDZkF4ampCU2dLTWdtSmNZWW1ybVkxVVFF",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "School Assembly News Headlines For 27th August 2024: Pakistan To Introduce Polymer Plastic Currency, Redesign Banknotes By Year-End, Ladakh Gets 5 New Districts: Zanskar, Drass, Sham, Nubra And Chang",
+      "source": {
+        "name": "Jagran Josh",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagranjosh.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.jagranjosh.com/articles/school-assembly-news-headlines-today-pakistan-to-introduce-polymer-plastic-currency-redesign-banknotes-by-year-end-ladakh-gets-5-new-districts-zanskar-drass-sham-nubra-and-changthang-1724670566-1",
+      "thumbnail": "https://img.jagranjosh.com/images/2024/August/2682024/Featured-Image--akshita-(3)-(1).jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVkalZhTkRGQ1MzZFFNQzF4VFJDZkF4ampCU2dLTWdZRlFwTGtLZ2c",
+      "date": "08/26/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-08-26T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

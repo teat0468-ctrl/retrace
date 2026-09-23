@@ -1,0 +1,340 @@
+{
+  "search_metadata": {
+    "id": "6ab36b731325836b1c354ea3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5UtLJqHD7CeTFXcBIcB-5hYPzfxu22ofXhJxMcY19pI/6ab36b731325836b1c354ea3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5UtLJqHD7CeTFXcBIcB-5hYPzfxu22ofXhJxMcY19pI/6ab36b731325836b1c354ea3.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5UtLJqHD7CeTFXcBIcB-5hYPzfxu22ofXhJxMcY19pI/6ab36b731325836b1c354ea3.json_with_pixel_position",
+    "created_at": "2026-09-23 06:02:27 UTC",
+    "processed_at": "2026-09-23 06:02:27 UTC",
+    "google_url": "https://www.google.com/search?q=%22India%27s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because+%22&oq=%22India%27s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because+%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5UtLJqHD7CeTFXcBIcB-5hYPzfxu22ofXhJxMcY19pI/6ab36b731325836b1c354ea3.html",
+    "total_time_taken": 0.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"India's GDP growth is actually only 2.6%, not 7.8%, because \"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"India's GDP growth is actually only 2.6%, not 7.8%, because \"",
+    "total_results": 112,
+    "time_taken_displayed": 0.6,
+    "organic_results_state": "Empty showing fixed spelling results",
+    "showing_results_for": "India s GDP growth is actually only 2.6%, not 7.8%, because",
+    "spelling_fix": "India s GDP growth is actually only 2.6%, not 7.8%, because"
+  },
+  "related_questions": [
+    {
+      "question": "Is India's GDP overstated by 22%?",
+      "type": "ai_overview",
+      "page_token": "jpOUiXicHdDBboIwGADg7GV2nC1kLpiYJSgwUTCt7V_hskCrVijQTZyM295lT7Wn2bLrd_y-vs25rX_uPnTf28tsMrndbg-nrjuZw4Psmklx-WzlRBbGlIWsZ9OnKX4-ynlwXfmLt5VPuLWwpIhFZssinEqHXkUYWsJxn4gh3S1wm4J3ztxwylE60iBH1LVVEtS4rPJOvISmEPGVtulSLOsRXPXOjG4yoC0wY3dg18yljzCGFyYwzsO4V0hdN2IYDwa2hyquMp5fkkgPwDThUQrAlaC1Pu4C5fAotuDUaIe8jCDdHBrcKlexP38U-9WNOMOa7rWjXLMWoYcU0kXBtR9oVSUtTLM9MBpoXQpwt1FKyj3dqGXsl0N3JpyOsjINrwjeiJirCAIIPJEJbyQiPG9ZbuWL30OUJ4TcH-XH3L3__5y_Hpt-Zt-70y-tSYJ1",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jpOUiXicHdDBboIwGADg7GV2nC1kLpiYJSgwUTCt7V_hskCrVijQTZyM295lT7Wn2bLrd_y-vs25rX_uPnTf28tsMrndbg-nrjuZw4Psmklx-WzlRBbGlIWsZ9OnKX4-ynlwXfmLt5VPuLWwpIhFZssinEqHXkUYWsJxn4gh3S1wm4J3ztxwylE60iBH1LVVEtS4rPJOvISmEPGVtulSLOsRXPXOjG4yoC0wY3dg18yljzCGFyYwzsO4V0hdN2IYDwa2hyquMp5fkkgPwDThUQrAlaC1Pu4C5fAotuDUaIe8jCDdHBrcKlexP38U-9WNOMOa7rWjXLMWoYcU0kXBtR9oVSUtTLM9MBpoXQpwt1FKyj3dqGXsl0N3JpyOsjINrwjeiJirCAIIPJEJbyQiPG9ZbuWL30OUJ4TcH-XH3L3__5y_Hpt-Zt-70y-tSYJ1",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IklzIEluZGlhJ3MgR0RQIG92ZXJzdGF0ZWQgYnkgMjIlPyIsImxrIjoiR2h0cGJtUnBZU0JuWkhBZ2IzWmxjbk4wWVhSbFpDQmllU0F5TWlVIiwiYnMiOiJjMlhQTVEtQ01CQ0c0YmplNUZ3VlR5TzY5dy1RS0lsaDBvMjVjZzF0TkdEYUt1SGZXeFJEMGZsNzgxd0xlMWhsRnJPS3ROaFpQS1puckpfU1dDZWNKTHkweUhtYzhBV2I2YTdBa3U3X081d2d6cFZ3cUFmSVNIRjdhNldwRzZmUS1EN2hXN1pwLWxDSFljY0dJUnhnLWZPb2ZoVkY4ZmhReUtKQUNZQnZBaW1zYzlVaWFScEpSbFJYSkZuNHc5WTdFWnMzdmhxLU45cHBPbmtCIiwiaWQiOiJmY19jMnV6YXVTREhhbWV3OGNQbXRLdDJBb182In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IklzIEluZGlhJ3MgR0RQIG92ZXJzdGF0ZWQgYnkgMjIlPyIsImxrIjoiR2h0cGJtUnBZU0JuWkhBZ2IzWmxjbk4wWVhSbFpDQmllU0F5TWlVIiwiYnMiOiJjMlhQTVEtQ01CQ0c0YmplNUZ3VlR5TzY5dy1RS0lsaDBvMjVjZzF0TkdEYUt1SGZXeFJEMGZsNzgxd0xlMWhsRnJPS3ROaFpQS1puckpfU1dDZWNKTHkweUhtYzhBV2I2YTdBa3U3X081d2d6cFZ3cUFmSVNIRjdhNldwRzZmUS1EN2hXN1pwLWxDSFljY0dJUnhnLWZPb2ZoVkY4ZmhReUtKQUNZQnZBaW1zYzlVaWFScEpSbFJYSkZuNHc5WTdFWnMzdmhxLU45cHBPbmtCIiwiaWQiOiJmY19jMnV6YXVTREhhbWV3OGNQbXRLdDJBb182In0%3D"
+    },
+    {
+      "question": "What is India's real GDP growth rate?",
+      "type": "ai_overview",
+      "page_token": "8jmnkHicHdDbToMwAADQ-DN7HGOMmSxZjKxchlsXSi_QF0OprEC56Jggb_6LX-XXmHg-4Xz_6LKtfx8-1TD0t51hjOO4vHbdVb8t864xsttXmxt5prXI8nq3fdyaT0W-d-9H5_B-dCLS9xSgVVzJ-wlzRNcygL5dZo0uBaAOITbAIAwzBkMRr2bZKh2b6iVtJiVnagt_Gi4-mSIM45TROfNgSVo6xi1cxzVnPKDovLY9aME2rWlCAHJwbVNuhltKoJ_Nz0OUoAwnzoG5G4sDB3Ni1pCGUcp0gUzqk0pRxJSFTO8sKlnmidrgxuujZrJ5ac4yUD0iyJPucI7msIGEW66S1bml2zShGLlKCUatiw8jkaCTBKEjpq6MCJrzSjdkdRuhe1zzFWQs4JglfBAA2lJDJbEGmCDGx0WRf-6txf_n_rVohl3_0V3_AAwOgxk",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8jmnkHicHdDbToMwAADQ-DN7HGOMmSxZjKxchlsXSi_QF0OprEC56Jggb_6LX-XXmHg-4Xz_6LKtfx8-1TD0t51hjOO4vHbdVb8t864xsttXmxt5prXI8nq3fdyaT0W-d-9H5_B-dCLS9xSgVVzJ-wlzRNcygL5dZo0uBaAOITbAIAwzBkMRr2bZKh2b6iVtJiVnagt_Gi4-mSIM45TROfNgSVo6xi1cxzVnPKDovLY9aME2rWlCAHJwbVNuhltKoJ_Nz0OUoAwnzoG5G4sDB3Ni1pCGUcp0gUzqk0pRxJSFTO8sKlnmidrgxuujZrJ5ac4yUD0iyJPucI7msIGEW66S1bml2zShGLlKCUatiw8jkaCTBKEjpq6MCJrzSjdkdRuhe1zzFWQs4JglfBAA2lJDJbEGmCDGx0WRf-6txf_n_rVohl3_0V3_AAwOgxk",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgSW5kaWEncyByZWFsIEdEUCBncm93dGggcmF0ZT8iLCJsayI6IkdpUjNhR0YwSUdseklHbHVaR2xoSjNNZ2NtVmhiQ0JuWkhBZ1ozSnZkM1JvSUhKaGRHVSIsImJzIjoiYzJYUE1RLUNNQkNHNGJqZTVGd1ZUeU82OXctUUtJbGgwbzI1Y2cxdE5HRGFLdUhmV3hSRDBmbDc4MXdMZTFobEZyT0t0TmhaUEtabnJKX1NXQ2VjSkx5MHlIbWM4QVdiNmE3QWt1N19PNXdnenBWd3FBZklTSEY3YTZXcEc2ZlEtRDdoVzdacC1sQ0hZY2NHSVJ4Zy1mT29maFZGOGZoUXlLSkFDWUJ2QWltc2M5VWlhUnBKUmxSWEpGbjR3OVk3RVpzM3ZocS1OOXBwT25rQiIsImlkIjoiZmNfYzJ1emF1U0RIYW1ldzhjUG10S3QyQW9fNiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IldoYXQgaXMgSW5kaWEncyByZWFsIEdEUCBncm93dGggcmF0ZT8iLCJsayI6IkdpUjNhR0YwSUdseklHbHVaR2xoSjNNZ2NtVmhiQ0JuWkhBZ1ozSnZkM1JvSUhKaGRHVSIsImJzIjoiYzJYUE1RLUNNQkNHNGJqZTVGd1ZUeU82OXctUUtJbGgwbzI1Y2cxdE5HRGFLdUhmV3hSRDBmbDc4MXdMZTFobEZyT0t0TmhaUEtabnJKX1NXQ2VjSkx5MHlIbWM4QVdiNmE3QWt1N19PNXdnenBWd3FBZklTSEY3YTZXcEc2ZlEtRDdoVzdacC1sQ0hZY2NHSVJ4Zy1mT29maFZGOGZoUXlLSkFDWUJ2QWltc2M5VWlhUnBKUmxSWEpGbjR3OVk3RVpzM3ZocS1OOXBwT25rQiIsImlkIjoiZmNfYzJ1emF1U0RIYW1ldzhjUG10S3QyQW9fNiJ9"
+    },
+    {
+      "question": "Is India's GDP growth accurate?",
+      "type": "ai_overview",
+      "page_token": "H_lWI3icHdDBToMwAADQ-DMeXdlkZksWE8YYoO1sgRZ6MVDcKi2lbjg2bv6LX-XXaDy-6_v61u9G_dycZd_b03IyGYbh7tB1B_12J7p2Up6uRkxEqXVVCrWcP8ydx71YbT4jb_0ReTizlvoEpKGlxSgtM_xc53YtgHbLqfOS5UEBQ-iU26hPQgXEFYzUSK-exjAJLYIaJdR4im0GwAOEeS7nopEBDLnLfNImbKEyH11w27kYxBgqfs2APPP2NKs0nCY6nqYzb5dlaFOxvkBOdCWKyHKkLh9r-xZ2PWTCFUYNdRozPGpe5V6TGfSU-jwuxjgsNG-ICnpK-RNUC8OoJBtZN9DQeZHT9A-yYnS22yJc5eS59mOvunTvOCOjaHRL_YCRMI6IT2wCnGM-ovsUWILUgubAlgIsNMa3e3FezW7_P1ev-7Zf2mN3-AWnQYO6",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=H_lWI3icHdDBToMwAADQ-DMeXdlkZksWE8YYoO1sgRZ6MVDcKi2lbjg2bv6LX-XXaDy-6_v61u9G_dycZd_b03IyGYbh7tB1B_12J7p2Up6uRkxEqXVVCrWcP8ydx71YbT4jb_0ReTizlvoEpKGlxSgtM_xc53YtgHbLqfOS5UEBQ-iU26hPQgXEFYzUSK-exjAJLYIaJdR4im0GwAOEeS7nopEBDLnLfNImbKEyH11w27kYxBgqfs2APPP2NKs0nCY6nqYzb5dlaFOxvkBOdCWKyHKkLh9r-xZ2PWTCFUYNdRozPGpe5V6TGfSU-jwuxjgsNG-ICnpK-RNUC8OoJBtZN9DQeZHT9A-yYnS22yJc5eS59mOvunTvOCOjaHRL_YCRMI6IT2wCnGM-ovsUWILUgubAlgIsNMa3e3FezW7_P1ev-7Zf2mN3-AWnQYO6",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IklzIEluZGlhJ3MgR0RQIGdyb3d0aCBhY2N1cmF0ZT8iLCJsayI6IkdoNXBjeUJwYm1ScFlTZHpJR2RrY0NCbmNtOTNkR2dnWVdOamRYSmhkR1UiLCJicyI6ImMyWFBNUS1DTUJDRzRiamU1RndWVHlPNjl3LVFLSWxoMG8yNWNnMXROR0RhS3VIZld4UkQwZmw3ODF3TGUxaGxGck9LdE5oWlBLWm5ySl9TV0NlY0pMeTB5SG1jOEFXYjZhN0FrdTdfTzV3Z3pwVndxQWZJU0hGN2E2V3BHNmZRLUQ3aFc3WnAtbENIWWNjR0lSeGctZk9vZmhWRjhmaFF5S0pBQ1lCdkFpbXNjOVVpYVJwSlJsUlhKRm40dzlZN0VaczN2aHEtTjlwcE9ua0IiLCJpZCI6ImZjX2MydXphdVNESGFtZXc4Y1BtdEt0MkFvXzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IklzIEluZGlhJ3MgR0RQIGdyb3d0aCBhY2N1cmF0ZT8iLCJsayI6IkdoNXBjeUJwYm1ScFlTZHpJR2RrY0NCbmNtOTNkR2dnWVdOamRYSmhkR1UiLCJicyI6ImMyWFBNUS1DTUJDRzRiamU1RndWVHlPNjl3LVFLSWxoMG8yNWNnMXROR0RhS3VIZld4UkQwZmw3ODF3TGUxaGxGck9LdE5oWlBLWm5ySl9TV0NlY0pMeTB5SG1jOEFXYjZhN0FrdTdfTzV3Z3pwVndxQWZJU0hGN2E2V3BHNmZRLUQ3aFc3WnAtbENIWWNjR0lSeGctZk9vZmhWRjhmaFF5S0pBQ1lCdkFpbXNjOVVpYVJwSlJsUlhKRm40dzlZN0VaczN2aHEtTjlwcE9ua0IiLCJpZCI6ImZjX2MydXphdVNESGFtZXc4Y1BtdEt0MkFvXzYifQ%3D%3D"
+    },
+    {
+      "question": "Why did India's GDP rank decrease?",
+      "type": "ai_overview",
+      "page_token": "ZIT1oXicHdBdboIwAADg7DI-Kj_TTROzjAlOtCUt_QFeFlpUlFaqQ0HedpedaqfZshN8yff1rQ6n6ufhVjaN-ZyNRm3bDvd1vVfboaz1KP-8n-RI5kqJXFazydPEftnJuX9deW_nlYeoMWyBrVhPY-HYHqoUiJjHRZVxfkJurHAJ_UAD3w4Zr-7CwrtCqw4vXh1qw2uUIIfz5zF5L4LUalBGmZ_5XUCWmRYkzLYcdVJbDa7UhajpgvZezAjuE4vauQVjSvFZ2kFMrLQVfZlGXLpYPzY88DZCwQja8AJ0ZollGElnuiZOEQLXRDkryzwxQVylDlcwBgRzEJhNqm28Ycb1y-IITmySJn-aX5aCMzdaQiQSvCkWoSe6-oAo7uVRaUpCByq8EjRk2dIgcPTviIMGHLM1qLpxQUOvaAc7eZu7g__P-cdONzNzqfe_I8iCQQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZIT1oXicHdBdboIwAADg7DI-Kj_TTROzjAlOtCUt_QFeFlpUlFaqQ0HedpedaqfZshN8yff1rQ6n6ufhVjaN-ZyNRm3bDvd1vVfboaz1KP-8n-RI5kqJXFazydPEftnJuX9deW_nlYeoMWyBrVhPY-HYHqoUiJjHRZVxfkJurHAJ_UAD3w4Zr-7CwrtCqw4vXh1qw2uUIIfz5zF5L4LUalBGmZ_5XUCWmRYkzLYcdVJbDa7UhajpgvZezAjuE4vauQVjSvFZ2kFMrLQVfZlGXLpYPzY88DZCwQja8AJ0ZollGElnuiZOEQLXRDkryzwxQVylDlcwBgRzEJhNqm28Ycb1y-IITmySJn-aX5aCMzdaQiQSvCkWoSe6-oAo7uVRaUpCByq8EjRk2dIgcPTviIMGHLM1qLpxQUOvaAc7eZu7g__P-cdONzNzqfe_I8iCQQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IldoeSBkaWQgSW5kaWEncyBHRFAgcmFuayBkZWNyZWFzZT8iLCJsayI6IkdoeDNhSGtnYVc1a2FXRWdaMlJ3SUhKaGJtc2daR1ZqY21WaGMyVmsiLCJicyI6ImMyWFBNUS1DTUJDRzRiamU1RndWVHlPNjl3LVFLSWxoMG8yNWNnMXROR0RhS3VIZld4UkQwZmw3ODF3TGUxaGxGck9LdE5oWlBLWm5ySl9TV0NlY0pMeTB5SG1jOEFXYjZhN0FrdTdfTzV3Z3pwVndxQWZJU0hGN2E2V3BHNmZRLUQ3aFc3WnAtbENIWWNjR0lSeGctZk9vZmhWRjhmaFF5S0pBQ1lCdkFpbXNjOVVpYVJwSlJsUlhKRm40dzlZN0VaczN2aHEtTjlwcE9ua0IiLCJpZCI6ImZjX2MydXphdVNESGFtZXc4Y1BtdEt0MkFvXzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXbFJXRVpVTTFCUVFXbE9XazkxWVZBelRuTXpZUzFuWmw5dVFVZElibEY0WVhGNVZrTk9NMjR4VWtRd1FuQmpTRWgyVXpScWFrZG5NM3BKVGxZd2VtVm9Ta2hyTlVNeFFtVnBVSGxtZWswd1YzQmFVVVp1UVdJd1p4SVhZekoxZW1GMVUwUklZVzFsZHpoalVHMTBTM1F5UVc4YUlrRkVjM0k1WmxGVFluTmtjV0UwZGtsUlR6TXhMVnBaVWw5dGJGSnpTR3M1WVdjIiwiZmN2IjoiMyIsImVpIjoiYzJ1emF1U0RIYW1ldzhjUG10S3QyQW8iLCJxYyI6IkNqbHBibVJwWVNCeklHZGtjQ0JuY205M2RHZ2dhWE1nWVdOMGRXRnNiSGtnYjI1c2VTQXlMallsSUc1dmRDQTNMamdsSUdKbFkyRjFjMlVRQUgwRDloMF8iLCJxdWVzdGlvbiI6IldoeSBkaWQgSW5kaWEncyBHRFAgcmFuayBkZWNyZWFzZT8iLCJsayI6IkdoeDNhSGtnYVc1a2FXRWdaMlJ3SUhKaGJtc2daR1ZqY21WaGMyVmsiLCJicyI6ImMyWFBNUS1DTUJDRzRiamU1RndWVHlPNjl3LVFLSWxoMG8yNWNnMXROR0RhS3VIZld4UkQwZmw3ODF3TGUxaGxGck9LdE5oWlBLWm5ySl9TV0NlY0pMeTB5SG1jOEFXYjZhN0FrdTdfTzV3Z3pwVndxQWZJU0hGN2E2V3BHNmZRLUQ3aFc3WnAtbENIWWNjR0lSeGctZk9vZmhWRjhmaFF5S0pBQ1lCdkFpbXNjOVVpYVJwSlJsUlhKRm40dzlZN0VaczN2aHEtTjlwcE9ua0IiLCJpZCI6ImZjX2MydXphdVNESGFtZXc4Y1BtdEt0MkFvXzYifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "65m8pniczVbblqI4FP2A-Y72xWoBL6XWWqxeIVJWvJSCl7q8sCBgAEVKAoX6Nv8yL_NL8zUdUJGy1eruh16TB0lCsnN2ztls__5n4Szn__31rx2Gb_SO4-I4LhHfJwurhH2P0-lmibmZv6ABtr9RPwqw5ZgitgPfswqbd7FSwFTkC5Yj4nK01aNR60H3rLiBh17YDcvAL6QQombo1HLZCWuXchrHfuZfKi02KNGSHpS87UozWl-bA31eKvNCszTgdI8tAH-uKRDIABAJsb50cRFb8TNgEkNgQPPcFNrvzGG_AJjgISUdwQvIJEVLAJCUbGAP7TWoSqB7wJLii4HA_HlskBwlw5RIytT5GTY5DkmTM0x4dfU5PjsEdrx8mOnn3srgUjuphAlDb4A-AvZ-4iRjsp8fdTIEBGagGstV9f5a4MntTGKp1gWfpvseqEuyJ4VgyHZKnElY5fKcEbCHwDnYxmknoElBw3GT99v1F29yay5r7bnbckfPkbYZ9aVG2bMo4LDB1i183bRMzdb4b-lYKAs1vlmpN25SJWGaSYnmpTR936g977k8eeVLakkSDjqC2c2fpCypBYjOEJPgfum5HBPpOH-8eVnOZ6G7u5PkLmXEspw7RFJud6nOsjpEQCIoXwoZbrLvnI72kWSsyK64k7D8LLo8M8JklAWYZ9U_q_eTOaQ8ZF0k_bAwHxOSEGG0lRyBY4NJlSM7eTlhl9wjewXiPAYCsgIOAPDANGEO2xmonIeX8zpyGFIqDHcEkupfdViOyX0CCHc7DrKfJOErx51AuvTtIyAGnet6v9TQJ9-J_ckHwZzUf1438lhgRMZPeu9pVO5I44qqvMWaKVjGfXxeJ75n_ILn4P-Vkg6O1E3fXVZSUjefKokVP7rqSGl_70idnZIguaik1JJ-cKTBWUf6WFEQqUcldaWrjvTrSoJXlUT2TM8oSUnuNmkflTS_qKQWOFWS3VA-ONIH3kdHypT0O44Ef8-RUmFZu8dHe4pcctGmZFgfK37cEAbj1QQNJuqgOn-tD7fOEMef2tTMC-883VzcaI55J5U74ca80diEf2eZhZWIlqajF2mx3RoWSeDHoV10aFHHYaQvFpuiv2Q_5dLtl3Ltprj0w2K91Ej7hoX1iFoFbxH4Iq9Xp8134XEC19HUmmhVBypqRN2gtl7PW16I5PdNc7vdmrPRcOorrmpFjif3xw-qZY860SN2e81K8-2Bf-o8Ut5srNeth-nIiXjUe31ysTuNt48vcWUxsLurZiQQrWtjMKfq8CvljY7Sliq9cDsznkFE-X6krNKoqOjVDXcaVVyNkIIXYJElrUrAowKeCKtO-MKUTcBE99kzBkr7FiiyVKBY1yzK_lFjXZgZuFGtCTNzZt4WPBJu3sSqUKDLQBS-AzQ9TrA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=65m8pniczVbblqI4FP2A-Y72xWoBL6XWWqxeIVJWvJSCl7q8sCBgAEVKAoX6Nv8yL_NL8zUdUJGy1eruh16TB0lCsnN2ztls__5n4Szn__31rx2Gb_SO4-I4LhHfJwurhH2P0-lmibmZv6ABtr9RPwqw5ZgitgPfswqbd7FSwFTkC5Yj4nK01aNR60H3rLiBh17YDcvAL6QQombo1HLZCWuXchrHfuZfKi02KNGSHpS87UozWl-bA31eKvNCszTgdI8tAH-uKRDIABAJsb50cRFb8TNgEkNgQPPcFNrvzGG_AJjgISUdwQvIJEVLAJCUbGAP7TWoSqB7wJLii4HA_HlskBwlw5RIytT5GTY5DkmTM0x4dfU5PjsEdrx8mOnn3srgUjuphAlDb4A-AvZ-4iRjsp8fdTIEBGagGstV9f5a4MntTGKp1gWfpvseqEuyJ4VgyHZKnElY5fKcEbCHwDnYxmknoElBw3GT99v1F29yay5r7bnbckfPkbYZ9aVG2bMo4LDB1i183bRMzdb4b-lYKAs1vlmpN25SJWGaSYnmpTR936g977k8eeVLakkSDjqC2c2fpCypBYjOEJPgfum5HBPpOH-8eVnOZ6G7u5PkLmXEspw7RFJud6nOsjpEQCIoXwoZbrLvnI72kWSsyK64k7D8LLo8M8JklAWYZ9U_q_eTOaQ8ZF0k_bAwHxOSEGG0lRyBY4NJlSM7eTlhl9wjewXiPAYCsgIOAPDANGEO2xmonIeX8zpyGFIqDHcEkupfdViOyX0CCHc7DrKfJOErx51AuvTtIyAGnet6v9TQJ9-J_ckHwZzUf1438lhgRMZPeu9pVO5I44qqvMWaKVjGfXxeJ75n_ILn4P-Vkg6O1E3fXVZSUjefKokVP7rqSGl_70idnZIguaik1JJ-cKTBWUf6WFEQqUcldaWrjvTrSoJXlUT2TM8oSUnuNmkflTS_qKQWOFWS3VA-ONIH3kdHypT0O44Ef8-RUmFZu8dHe4pcctGmZFgfK37cEAbj1QQNJuqgOn-tD7fOEMef2tTMC-883VzcaI55J5U74ca80diEf2eZhZWIlqajF2mx3RoWSeDHoV10aFHHYaQvFpuiv2Q_5dLtl3Ltprj0w2K91Ej7hoX1iFoFbxH4Iq9Xp8134XEC19HUmmhVBypqRN2gtl7PW16I5PdNc7vdmrPRcOorrmpFjif3xw-qZY860SN2e81K8-2Bf-o8Ut5srNeth-nIiXjUe31ysTuNt48vcWUxsLurZiQQrWtjMKfq8CvljY7Sliq9cDsznkFE-X6krNKoqOjVDXcaVVyNkIIXYJElrUrAowKeCKtO-MKUTcBE99kzBkr7FiiyVKBY1yzK_lFjXZgZuFGtCTNzZt4WPBJu3sSqUKDLQBS-AzQ9TrA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "7.8% GDP growth or 2.6%? Whom should we believe?",
+      "link": "https://www.reddit.com/r/CriticalThinkingIndia/comments/1w4znir/78_gdp_growth_or_26_whom_should_we_believe/",
+      "displayed_link": "أكثر من 280 تعليق · قبل أسبوعين",
+      "thumbnail": "https://serpapi.com/searches/6ab36b731325836b1c354ea3/images/8IL2wIi8185NVOLhyw9LyI5x18bF4squGIOqAvgWODI.jpeg",
+      "snippet": "I came across this video where former Finance Secretary Subhash Chandra Garg questions the recently reported 7.8% GDP growth and says that, ...",
+      "duration": "7:28",
+      "about_this_result": {
+        "source": {
+          "description": "I came across this video where former Finance Secretary Subhash Chandra Garg questions the recently reported 7.8% GDP growth and says that, ...",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZWcGRXX0pjMHNUSEpkQWJ2SVZja2RKMFMtLW0zLXNUY3NraGpIVjJJSUxxSFFXRFhsdXY1SXd6bDlJLXJWSTIzV1lVQWJyS2ZQdXF6TDN0Mm5KZDRVQnEzd0ZCaUM5YXNQSXVJLVh3S3RLSGhQVVZHQ0d3VXhkbFBPWkVVZ3FPZ2N2MFdYWWp0N3RzdVJ6dTdUVlBocHozVjl6Z0VhbHI1TzRDaHZZSHlFWTZBd2tEUVVsSV9yTkswZG1XZE1qbzZGNGMySkZJS3JwZ0t5eExMcUdqEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZWcGRXX0pjMHNUSEpkQWJ2SVZja2RKMFMtLW0zLXNUY3NraGpIVjJJSUxxSFFXRFhsdXY1SXd6bDlJLXJWSTIzV1lVQWJyS2ZQdXF6TDN0Mm5KZDRVQnEzd0ZCaUM5YXNQSXVJLVh3S3RLSGhQVVZHQ0d3VXhkbFBPWkVVZ3FPZ2N2MFdYWWp0N3RzdVJ6dTdUVlBocHozVjl6Z0VhbHI1TzRDaHZZSHlFWTZBd2tEUVVsSV9yTkswZG1XZE1qbzZGNGMySkZJS3JwZ0t5eExMcUdqEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Reddit · r/CriticalThinkingIndia"
+    },
+    {
+      "position": 2,
+      "title": "The Truth About India's 7.8 % GDP Growth Rate I Udit Misra ...",
+      "link": "https://www.youtube.com/watch?v=DpA3fIvToW0",
+      "displayed_link": "أكثر من 97.9 ألف مشاهدة · قبل أسبوعين",
+      "thumbnail": "https://serpapi.com/searches/6ab36b731325836b1c354ea3/images/8IL2wIi8185NVOLhyw9LyCMk744JcTeImZyik5Gaj7E.jpeg",
+      "snippet": "... India's economy really growing at 7.8%? And what is the controversy over the GDP base and revisions? In this video, The Indian Express' Udit ...",
+      "duration": "17:03",
+      "about_this_result": {
+        "source": {
+          "description": "... India's economy really growing at 7.8%? And what is the controversy over the GDP base and revisions? In this video, The Indian Express' Udit ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmZXYzVkVmstdlREbkxhdW9Sbnkwb1VSYUo0Vi1YTFkwNURqQ0ZjX1U1VVNpczJrWDVrbkdMX1BzSlJGOFdXV3ViOWxFT2tNQ19TWEROaXZ2ZFBxdUU5WncxQ1NnU1lGSmxoSmFkVi1sR2FtQnZ6YXhUZ1RLRVU2dERjYzUzZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmZXYzVkVmstdlREbkxhdW9Sbnkwb1VSYUo0Vi1YTFkwNURqQ0ZjX1U1VVNpczJrWDVrbkdMX1BzSlJGOFdXV3ViOWxFT2tNQ19TWEROaXZ2ZFBxdUU5WncxQ1NnU1lGSmxoSmFkVi1sR2FtQnZ6YXhUZ1RLRVU2dERjYzUzZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTxhhkLzsPhqQqys5uSlVmgtcWPwPQ8Yvdydg",
+      "source": "YouTube · The Indian Express"
+    },
+    {
+      "position": 3,
+      "title": "India's GDP growth was reported at 7.8%, but why did some ...",
+      "link": "https://www.facebook.com/ReflectionsIASacademy/posts/indias-gdp-growth-was-reported-at-78-but-why-did-some-people-claim-it-was-only-2/1602521901785439/",
+      "displayed_link": "‫8 تفاعل · قبل أسبوعين",
+      "thumbnail": "https://serpapi.com/searches/6ab36b731325836b1c354ea3/images/8IL2wIi8185NVOLhyw9LyNi9-PPabFJLVn4i76xua6s.jpeg",
+      "snippet": "India's GDP growth was reported at 7.8%, but why did some people claim it was only 2.6%? The answer lies in how GDP numbers are compared.",
+      "duration": "0:45",
+      "about_this_result": {
+        "source": {
+          "description": "India's GDP growth was reported at 7.8%, but why did some people claim it was only 2.6%? The answer lies in how GDP numbers are compared.",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZYZGRmZmlQZHFHYXV1b05RYXJHLTF5aTBucXJSN2lURDdEZEJsb1RhYzJOMGVtRFFfQUhpVTdBcjBkbXVwaG1jQ181SGotc0s2TldEUWRKX2Z6bUFMWE9yenBVb3pBWVdHOW1KUkR2R2tlY2F2akJIMHdFNEpaNzJiZG9rVEdIamVoVEI1aXNoMWdiay1yekJxQlctWnNibnRUN1NFdzZWbTNBWGV4a1l5RzR2UUN2Y0FUOG03ek9sZFFIZEkwVklsazdzT1Ntb0VFWjJjeE5QamtsODg0NU5DTkc1ZFpqMDc1S1VrODhDZ3hNc3N0RnppRHhOZXRHRm5iMTNKcGF1LUxuZzUzaUowOHlfTjJREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZYZGRmZmlQZHFHYXV1b05RYXJHLTF5aTBucXJSN2lURDdEZEJsb1RhYzJOMGVtRFFfQUhpVTdBcjBkbXVwaG1jQ181SGotc0s2TldEUWRKX2Z6bUFMWE9yenBVb3pBWVdHOW1KUkR2R2tlY2F2akJIMHdFNEpaNzJiZG9rVEdIamVoVEI1aXNoMWdiay1yekJxQlctWnNibnRUN1NFdzZWbTNBWGV4a1l5RzR2UUN2Y0FUOG03ek9sZFFIZEkwVklsazdzT1Ntb0VFWjJjeE5QamtsODg0NU5DTkc1ZFpqMDc1S1VrODhDZ3hNc3N0RnppRHhOZXRHRm5iMTNKcGF1LUxuZzUzaUowOHlfTjJREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · ARK Reflections IAS Academy"
+    },
+    {
+      "position": 4,
+      "title": "Is India's GDP growth 7.8%? Or 2.6%?",
+      "link": "https://zerodhavarsity.substack.com/p/is-indias-gdp-growth-78-or-26",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAV0roXMAGwfFdVkdd7P-a5w3X3G3SzYT7XuZBL2fiIxe6bww3GXaq1L30_FvZcCxqNi-Ad01HRv9UHA7MnKmg4UXsiO9YllswFhtB06EvjiGrloWgUttt-z-BWexRRJaMd7kRnzOkfpf0wSFnO8819n29up1_dUQ&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQFnoECCoQAQ&uoh=1",
+      "displayed_link": "أكثر من 130 معجب · قبل أسبوعين",
+      "snippet": "Last week, India reported that the economy grew by 7.8% in the first quarter of FY27 (April-June). Just to be clear, this is when compared to ...",
+      "snippet_highlighted_words": [
+        "India",
+        "economy",
+        "by 7.8",
+        "in",
+        "of",
+        "Just"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Last week, India reported that the economy grew by 7.8% in the first quarter of FY27 (April-June). Just to be clear, this is when compared to ...",
+          "source_info_link": "https://zerodhavarsity.substack.com/p/is-indias-gdp-growth-78-or-26",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAwBQCdASocABwAPtE-tFooIigoFAEAGgllALDvLBOhhf694jxGoKhNE3PdFuHPiconIAD-8qDABp-9uBEeXbnRa2VA3gCi8K-yu7W15I_e9heQcLluRNbjZL9kgHY8A6H1-daM0gA0YcAI3jRuOnMKab2UAoAIwzsZCgTbM6T84LC61VC_N1Di6PZ84hX6UWGANBL_9UuVeP8Kx9ZGv7xVTI9jQpjrW_O-51HAYnAI5ePY00s8nUFhz0uG-_nw2lVfbYVmR2MZ0HsRzrN4fOf9Te_G3biJ53-UVRUk7yc0mKSBVvPQOXMnBvn0sJ79YsmYAAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjByb1hNQUd3ZkZkVmtkZDdQLWE1dzNYM0czU3pZVDdYdVpCTDJmaUl4ZTZid3czR1hhcTFMMzBfRnZaY0N4cU5pLUFkMDFIUnY5VUhBN01uS21nNFVYc2lPOVlsbHN3Rmh0QjA2RXZqaUdybG9XZ1V0dHQtei1CV2V4UlJKYU1kN2tSbnpPa2ZwZjB3U0ZuTzg4MTluMjl1cDFfZFVREgQaAggAGpcLEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQPMKCAAQABgAIAAqaAoFaW5kaWEVIHT8QBoHaW5kaWEncxoGaW5kaWFuGgZpbmRpYXMaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGgtpdjtkO2luZGlhcxoPaXY7ZDvYp9mG2K_ZitinKtIBCgFzFVIB5EAaATMaATYaA2FuZBoCYXMaAmF0GgJieRoDaGFzGgJpbhoHaW5kaWEncxoGaW5kaWFzGgNpdHMaAm9mGgJvbhoCxZsaAsWdGgLFnxoCxaEaAtizGgRzZ2RwGgZpdjtkO3MaCGl2O2Q7YW5kGgdpdjtkO2FzGgdpdjtkO2F0GgdpdjtkO2J5GghpdjtkO2hhcxoHaXY7ZDtpbhoLaXY7ZDtpbmRpYXMaCGl2O2Q7aXRzGgdpdjtkO29mGgdpdjtkO29uGgdpdjtkO9izKmoKA2dkcBU9lQlBGghlY29ub21pYxoHZWNvbm9teRoG2KzYr9ioGgRzZ2RwGglnZHBncm93dGgaCGl2O2Q7Z2RwGg1pdjtkO2Vjb25vbWljGgxpdjtkO2Vjb25vbXkaC2l2O2Q72KzYr9ioKnQKBmdyb3d0aBV-RdtAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UaCNis2LHZiNirGglnZHBncm93dGgaEGl2O2Q7ZGV2ZWxvcG1lbnQaCWl2O2Q7Z3JvdxoNaXY7ZDtpbmNyZWFzZSoJCgJpcxUAAAAAKkwKCGFjdHVhbGx5FdzTuz8aBnJlYWxseRoI2YHYudmE2KcaDWl2O2Q7YWN0dWFsbHkaC2l2O2Q7cmVhbGx5Gg1pdjtkO9mB2LnZhNinKlkKBG9ubHkVQF4PQBoEanVzdBoK2KfZiNmG2YTZihoG2YHZgti3GglpdjtkO29ubHkaCWl2O2Q7anVzdBoPaXY7ZDvYp9mI2YbZhNmKGgtpdjtkO9mB2YLYtyoQCgQyLjYlFRru2T8aAzIuNipTCgNub3QVKxa_PxoGY2Fubm90GgbZhNmK2LMaBtmG2YjYqhoIaXY7ZDtub3QaC2l2O2Q7Y2Fubm90GgtpdjtkO9mE2YrYsxoLaXY7ZDvZhtmI2KoqEAoENy44JRVmHvE_GgM3LjgqPQoHYmVjYXVzZRXjOoA-GgrYqNmK2YPZiNizGgbZhNij2YYaDGl2O2Q7YmVjYXVzZRoLaXY7ZDvZhNin2YYytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWMHJvWE1BR3dmRmRWa2RkN1AtYTV3M1gzRzNTellUN1h1WkJMMmZpSXhlNmJ3dzNHWGFxMUwzMF9GdlpjQ3hxTmktQWQwMUhSdjlVSEE3TW5LbWc0VVhzaU85WWxsc3dGaHRCMDZFdmppR3Jsb1dnVXR0dC16LUJXZXhSUkphTWQ3a1Juek9rZnBmMHdTRm5PODgxOW4yOXVwMV9kVVE6NklzIDxiPkluZGlhJiMzOTtzIEdEUCBncm93dGggNy44PC9iPiU_IE9yIDxiPjIuNjwvYj4lP0LAAUxhc3Qgd2VlaywgPGI-SW5kaWE8L2I-IHJlcG9ydGVkIHRoYXQgdGhlIDxiPmVjb25vbXk8L2I-IGdyZXcgPGI-YnkgNy44PC9iPiUgPGI-aW48L2I-IHRoZSBmaXJzdCBxdWFydGVyIDxiPm9mPC9iPiBGWTI3IChBcHJpbC1KdW5lKS4gPGI-SnVzdDwvYj4gdG8gYmUgY2xlYXIsIHRoaXMgaXMgd2hlbiBjb21wYXJlZCB0byZuYnNwOy4uLkoCaXNSAmluUgJhc1IBNlIBM1IDYW5kUgJhdFICYnlSA2hhc1ICb2ZSAm9uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjByb1hNQUd3ZkZkVmtkZDdQLWE1dzNYM0czU3pZVDdYdVpCTDJmaUl4ZTZid3czR1hhcTFMMzBfRnZaY0N4cU5pLUFkMDFIUnY5VUhBN01uS21nNFVYc2lPOVlsbHN3Rmh0QjA2RXZqaUdybG9XZ1V0dHQtei1CV2V4UlJKYU1kN2tSbnpPa2ZwZjB3U0ZuTzg4MTluMjl1cDFfZFVREgQaAggAGpcLEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQPMKCAAQABgAIAAqaAoFaW5kaWEVIHT8QBoHaW5kaWEncxoGaW5kaWFuGgZpbmRpYXMaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGgtpdjtkO2luZGlhcxoPaXY7ZDvYp9mG2K_ZitinKtIBCgFzFVIB5EAaATMaATYaA2FuZBoCYXMaAmF0GgJieRoDaGFzGgJpbhoHaW5kaWEncxoGaW5kaWFzGgNpdHMaAm9mGgJvbhoCxZsaAsWdGgLFnxoCxaEaAtizGgRzZ2RwGgZpdjtkO3MaCGl2O2Q7YW5kGgdpdjtkO2FzGgdpdjtkO2F0GgdpdjtkO2J5GghpdjtkO2hhcxoHaXY7ZDtpbhoLaXY7ZDtpbmRpYXMaCGl2O2Q7aXRzGgdpdjtkO29mGgdpdjtkO29uGgdpdjtkO9izKmoKA2dkcBU9lQlBGghlY29ub21pYxoHZWNvbm9teRoG2KzYr9ioGgRzZ2RwGglnZHBncm93dGgaCGl2O2Q7Z2RwGg1pdjtkO2Vjb25vbWljGgxpdjtkO2Vjb25vbXkaC2l2O2Q72KzYr9ioKnQKBmdyb3d0aBV-RdtAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UaCNis2LHZiNirGglnZHBncm93dGgaEGl2O2Q7ZGV2ZWxvcG1lbnQaCWl2O2Q7Z3JvdxoNaXY7ZDtpbmNyZWFzZSoJCgJpcxUAAAAAKkwKCGFjdHVhbGx5FdzTuz8aBnJlYWxseRoI2YHYudmE2KcaDWl2O2Q7YWN0dWFsbHkaC2l2O2Q7cmVhbGx5Gg1pdjtkO9mB2LnZhNinKlkKBG9ubHkVQF4PQBoEanVzdBoK2KfZiNmG2YTZihoG2YHZgti3GglpdjtkO29ubHkaCWl2O2Q7anVzdBoPaXY7ZDvYp9mI2YbZhNmKGgtpdjtkO9mB2YLYtyoQCgQyLjYlFRru2T8aAzIuNipTCgNub3QVKxa_PxoGY2Fubm90GgbZhNmK2LMaBtmG2YjYqhoIaXY7ZDtub3QaC2l2O2Q7Y2Fubm90GgtpdjtkO9mE2YrYsxoLaXY7ZDvZhtmI2KoqEAoENy44JRVmHvE_GgM3LjgqPQoHYmVjYXVzZRXjOoA-GgrYqNmK2YPZiNizGgbZhNij2YYaDGl2O2Q7YmVjYXVzZRoLaXY7ZDvZhNin2YYytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWMHJvWE1BR3dmRmRWa2RkN1AtYTV3M1gzRzNTellUN1h1WkJMMmZpSXhlNmJ3dzNHWGFxMUwzMF9GdlpjQ3hxTmktQWQwMUhSdjlVSEE3TW5LbWc0VVhzaU85WWxsc3dGaHRCMDZFdmppR3Jsb1dnVXR0dC16LUJXZXhSUkphTWQ3a1Juek9rZnBmMHdTRm5PODgxOW4yOXVwMV9kVVE6NklzIDxiPkluZGlhJiMzOTtzIEdEUCBncm93dGggNy44PC9iPiU_IE9yIDxiPjIuNjwvYj4lP0LAAUxhc3Qgd2VlaywgPGI-SW5kaWE8L2I-IHJlcG9ydGVkIHRoYXQgdGhlIDxiPmVjb25vbXk8L2I-IGdyZXcgPGI-YnkgNy44PC9iPiUgPGI-aW48L2I-IHRoZSBmaXJzdCBxdWFydGVyIDxiPm9mPC9iPiBGWTI3IChBcHJpbC1KdW5lKS4gPGI-SnVzdDwvYj4gdG8gYmUgY2xlYXIsIHRoaXMgaXMgd2hlbiBjb21wYXJlZCB0byZuYnNwOy4uLkoCaXNSAmluUgJhc1IBNlIBM1IDYW5kUgJhdFICYnlSA2hhc1ICb2ZSAm9uIgIQAUgAWABoAA",
+      "source": "Substack · Mind Over Markets by Zerodha Varsity"
+    },
+    {
+      "position": 5,
+      "title": "GDP growth is 2.6% not 7.8%",
+      "link": "https://www.instagram.com/reel/DcycfP-JY05/",
+      "displayed_link": "أكثر من 9.8 ألف معجب · قبل أسبوعين",
+      "thumbnail": "https://serpapi.com/searches/6ab36b731325836b1c354ea3/images/8IL2wIi8185NVOLhyw9LyCei4_qRNuKXgv7yP8uf8Mc.jpeg",
+      "snippet": "9788 likes, 355 comments - incindia on September 2, 2026: \"GDP growth is 2.6% not 7.8% \".",
+      "duration": "1:10",
+      "about_this_result": {
+        "source": {
+          "description": "9788 likes, 355 comments - incindia on September 2, 2026: \"GDP growth is 2.6% not 7.8% \".",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjFrMkFKc1A5aDg4SGJUVHJrc2wtbTJhWjVjNExJbXh0ZUgzSzBEZzdMd3lHSUJKU2ZZLTdab1RZbUVXOEhPZjMxZVFOem82bEFMWVZncmQ4S0NRX3Y2ZFVVdVkyMTgyYmU2YkN0MTNoUUJlSWRNVHpJLTdOZFNacmJDb0FhQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjFrMkFKc1A5aDg4SGJUVHJrc2wtbTJhWjVjNExJbXh0ZUgzSzBEZzdMd3lHSUJKU2ZZLTdab1RZbUVXOEhPZjMxZVFOem82bEFMWVZncmQ4S0NRX3Y2ZFVVdVkyMTgyYmU2YkN0MTNoUUJlSWRNVHpJLTdOZFNacmJDb0FhQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "Instagram · incindia"
+    },
+    {
+      "position": 6,
+      "title": "India GDP debate: Why 7.8% growth rate isn't final, and 2.6 ...",
+      "link": "https://www.livemint.com/economy/india-gdp-growth-7-8-percent-11788420864849.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFeT2dVsQg5mjlDqT68MzWsBUpur7Axnc27PLKhQaqxuz5AHMoDXSIwkp1EaQRwWnGb2QUx1tUppKFHJA_YScMMlh-Ugcy3ujRpWlRzw1l2XP82BZLk3_uRoeVUCQDOWWyHQeb613zf2C79XYulYHgG_i4PwkHs5YArNfrDznvopz2sOEOw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.livemint.com › economy",
+      "date": "03‏/09‏/2026",
+      "snippet": "Comparable FY26 data shows that while overall GDP expanded by 7.7%, GDP per capita grew roughly a percentage point lower at 6.8%. Because ...",
+      "snippet_highlighted_words": [
+        "GDP",
+        "by",
+        "GDP",
+        "at",
+        "Because"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Comparable FY26 data shows that while overall GDP expanded by 7.7%, GDP per capita grew roughly a percentage point lower at 6.8%. Because ...",
+          "source_info_link": "https://www.livemint.com/economy/india-gdp-growth-7-8-percent-11788420864849.html",
+          "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0vd_nN6GxAt_8B6IEr5Sa3OnZh3gObpTQY9ojIUAD-kqv0KFfJdZC2Z-5KaKLQeVwl0qFmm66U2or_4tCYT2WQHIIm_CMv-G0m-zrnNQQuvrPn68PyAvSiX9BUhBh6eMFt0wPCpHtTtrrr3Y8tYwWsdLOz_By74Fp_uf-Pvr3_g3J6gcEvN9VaQPkp_rnp53JmtE1Cxef4RuhJ1IDkC4MivffCdKl3y1kKmten5wTgtvpuP7pNh87u0Uv4O1c21B-8tb98gUOXFGjg1UBb7rFkuMpYAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZlVDJkVnNRZzVtamxEcVQ2OE16V3NCVXB1cjdBeG5jMjdQTEtoUWFxeHV6NUFITW9EWFNJd2twMUVhUVJ3V25HYjJRVXgxdFVwcEtGSEpBX1lTY01NbGgtVWdjeTN1alJwV2xSencxbDJYUDgyQlpMazNfdVJvZVZVQ1FET1dXeUhRZWI2MTN6ZjJDNzlYWXVsWUhnR19pNFB3a0hzNVlBck5mckR6bnZvcHoyc09FT3cSBBoCCAAaywsSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkClCwgAEAAYACAAKmgKBWluZGlhFfIk10AaB2luZGlhJ3MaBmluZGlhbhoGaW5kaWFzGgrYp9mG2K_ZitinGgppdjtkO2luZGlhGgtpdjtkO2luZGlhbhoLaXY7ZDtpbmRpYXMaD2l2O2Q72KfZhtiv2YrYpyrSAQoBcxUqzFZAGgEzGgE2GgNhbmQaAmFzGgJhdBoCYnkaA2hhcxoCaW4aB2luZGlhJ3MaBmluZGlhcxoDaXRzGgJvZhoCb24aAsWbGgLFnRoCxZ8aAsWhGgLYsxoEc2dkcBoGaXY7ZDtzGghpdjtkO2FuZBoHaXY7ZDthcxoHaXY7ZDthdBoHaXY7ZDtieRoIaXY7ZDtoYXMaB2l2O2Q7aW4aC2l2O2Q7aW5kaWFzGghpdjtkO2l0cxoHaXY7ZDtvZhoHaXY7ZDtvbhoHaXY7ZDvYsypqCgNnZHAVTiPrQBoIZWNvbm9taWMaB2Vjb25vbXkaBtis2K_YqBoEc2dkcBoJZ2RwZ3Jvd3RoGghpdjtkO2dkcBoNaXY7ZDtlY29ub21pYxoMaXY7ZDtlY29ub215GgtpdjtkO9is2K_YqCp0CgZncm93dGgVvmPeQBoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlGgjYrNix2YjYqxoJZ2RwZ3Jvd3RoGhBpdjtkO2RldmVsb3BtZW50GglpdjtkO2dyb3caDWl2O2Q7aW5jcmVhc2UqCQoCaXMVAAAAACpMCghhY3R1YWxseRW9z8s9GgZyZWFsbHkaCNmB2LnZhNinGg1pdjtkO2FjdHVhbGx5GgtpdjtkO3JlYWxseRoNaXY7ZDvZgdi52YTYpypZCgRvbmx5FX8ssT8aBGp1c3QaCtin2YjZhtmE2YoaBtmB2YLYtxoJaXY7ZDtvbmx5GglpdjtkO2p1c3QaD2l2O2Q72KfZiNmG2YTZihoLaXY7ZDvZgdmC2LcqEAoEMi42JRXOBadAGgMyLjYqUwoDbm90Fatx4T8aBmNhbm5vdBoG2YTZitizGgbZhtmI2KoaCGl2O2Q7bm90GgtpdjtkO2Nhbm5vdBoLaXY7ZDvZhNmK2LMaC2l2O2Q72YbZiNiqKhAKBDcuOCUVGnmrQBoDNy44Kj0KB2JlY2F1c2UVZy4jPhoK2KjZitmD2YjYsxoG2YTYo9mGGgxpdjtkO2JlY2F1c2UaC2l2O2Q72YTYp9mGMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZlVDJkVnNRZzVtamxEcVQ2OE16V3NCVXB1cjdBeG5jMjdQTEtoUWFxeHV6NUFITW9EWFNJd2twMUVhUVJ3V25HYjJRVXgxdFVwcEtGSEpBX1lTY01NbGgtVWdjeTN1alJwV2xSencxbDJYUDgyQlpMazNfdVJvZVZVQ1FET1dXeUhRZWI2MTN6ZjJDNzlYWXVsWUhnR19pNFB3a0hzNVlBck5mckR6bnZvcHoyc09FT3c6XzxiPkluZGlhIEdEUDwvYj4gZGViYXRlOiBXaHkgPGI-Ny44PC9iPiUgPGI-Z3Jvd3RoPC9iPiByYXRlIGlzbiYjMzk7dCBmaW5hbCwgPGI-YW5kIDIuNjwvYj4gLi4uQrUBQ29tcGFyYWJsZSBGWTI2IGRhdGEgc2hvd3MgdGhhdCB3aGlsZSBvdmVyYWxsIDxiPkdEUDwvYj4gZXhwYW5kZWQgPGI-Ynk8L2I-IDcuNyUsIDxiPkdEUDwvYj4gcGVyIGNhcGl0YSBncmV3IHJvdWdobHkgYSBwZXJjZW50YWdlIHBvaW50IGxvd2VyIDxiPmF0PC9iPiA2LjglLiA8Yj5CZWNhdXNlPC9iPiZuYnNwOy4uLkoCaXNSAm9mUgJhc1IBNlIBM1IDYW5kUgJhdFICYnlSA2hhc1ICb25SAmluIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZlVDJkVnNRZzVtamxEcVQ2OE16V3NCVXB1cjdBeG5jMjdQTEtoUWFxeHV6NUFITW9EWFNJd2twMUVhUVJ3V25HYjJRVXgxdFVwcEtGSEpBX1lTY01NbGgtVWdjeTN1alJwV2xSencxbDJYUDgyQlpMazNfdVJvZVZVQ1FET1dXeUhRZWI2MTN6ZjJDNzlYWXVsWUhnR19pNFB3a0hzNVlBck5mckR6bnZvcHoyc09FT3cSBBoCCAAaywsSAggAGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkClCwgAEAAYACAAKmgKBWluZGlhFfIk10AaB2luZGlhJ3MaBmluZGlhbhoGaW5kaWFzGgrYp9mG2K_ZitinGgppdjtkO2luZGlhGgtpdjtkO2luZGlhbhoLaXY7ZDtpbmRpYXMaD2l2O2Q72KfZhtiv2YrYpyrSAQoBcxUqzFZAGgEzGgE2GgNhbmQaAmFzGgJhdBoCYnkaA2hhcxoCaW4aB2luZGlhJ3MaBmluZGlhcxoDaXRzGgJvZhoCb24aAsWbGgLFnRoCxZ8aAsWhGgLYsxoEc2dkcBoGaXY7ZDtzGghpdjtkO2FuZBoHaXY7ZDthcxoHaXY7ZDthdBoHaXY7ZDtieRoIaXY7ZDtoYXMaB2l2O2Q7aW4aC2l2O2Q7aW5kaWFzGghpdjtkO2l0cxoHaXY7ZDtvZhoHaXY7ZDtvbhoHaXY7ZDvYsypqCgNnZHAVTiPrQBoIZWNvbm9taWMaB2Vjb25vbXkaBtis2K_YqBoEc2dkcBoJZ2RwZ3Jvd3RoGghpdjtkO2dkcBoNaXY7ZDtlY29ub21pYxoMaXY7ZDtlY29ub215GgtpdjtkO9is2K_YqCp0CgZncm93dGgVvmPeQBoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlGgjYrNix2YjYqxoJZ2RwZ3Jvd3RoGhBpdjtkO2RldmVsb3BtZW50GglpdjtkO2dyb3caDWl2O2Q7aW5jcmVhc2UqCQoCaXMVAAAAACpMCghhY3R1YWxseRW9z8s9GgZyZWFsbHkaCNmB2LnZhNinGg1pdjtkO2FjdHVhbGx5GgtpdjtkO3JlYWxseRoNaXY7ZDvZgdi52YTYpypZCgRvbmx5FX8ssT8aBGp1c3QaCtin2YjZhtmE2YoaBtmB2YLYtxoJaXY7ZDtvbmx5GglpdjtkO2p1c3QaD2l2O2Q72KfZiNmG2YTZihoLaXY7ZDvZgdmC2LcqEAoEMi42JRXOBadAGgMyLjYqUwoDbm90Fatx4T8aBmNhbm5vdBoG2YTZitizGgbZhtmI2KoaCGl2O2Q7bm90GgtpdjtkO2Nhbm5vdBoLaXY7ZDvZhNmK2LMaC2l2O2Q72YbZiNiqKhAKBDcuOCUVGnmrQBoDNy44Kj0KB2JlY2F1c2UVZy4jPhoK2KjZitmD2YjYsxoG2YTYo9mGGgxpdjtkO2JlY2F1c2UaC2l2O2Q72YTYp9mGMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZlVDJkVnNRZzVtamxEcVQ2OE16V3NCVXB1cjdBeG5jMjdQTEtoUWFxeHV6NUFITW9EWFNJd2twMUVhUVJ3V25HYjJRVXgxdFVwcEtGSEpBX1lTY01NbGgtVWdjeTN1alJwV2xSencxbDJYUDgyQlpMazNfdVJvZVZVQ1FET1dXeUhRZWI2MTN6ZjJDNzlYWXVsWUhnR19pNFB3a0hzNVlBck5mckR6bnZvcHoyc09FT3c6XzxiPkluZGlhIEdEUDwvYj4gZGViYXRlOiBXaHkgPGI-Ny44PC9iPiUgPGI-Z3Jvd3RoPC9iPiByYXRlIGlzbiYjMzk7dCBmaW5hbCwgPGI-YW5kIDIuNjwvYj4gLi4uQrUBQ29tcGFyYWJsZSBGWTI2IGRhdGEgc2hvd3MgdGhhdCB3aGlsZSBvdmVyYWxsIDxiPkdEUDwvYj4gZXhwYW5kZWQgPGI-Ynk8L2I-IDcuNyUsIDxiPkdEUDwvYj4gcGVyIGNhcGl0YSBncmV3IHJvdWdobHkgYSBwZXJjZW50YWdlIHBvaW50IGxvd2VyIDxiPmF0PC9iPiA2LjglLiA8Yj5CZWNhdXNlPC9iPiZuYnNwOy4uLkoCaXNSAm9mUgJhc1IBNlIBM1IDYW5kUgJhdFICYnlSA2hhc1ICb25SAmluIgIQAUgAWABoAA",
+      "source": "Livemint"
+    },
+    {
+      "position": 7,
+      "title": "India GDP: 7.8% or 2.6%? Truth Behind the GDP Data | Shyam K",
+      "link": "https://www.youtube.com/watch?v=Eu4YWlq39mo",
+      "displayed_link": "أكثر من 203.1 ألف مشاهدة · قبل أسبوعين",
+      "thumbnail": "https://serpapi.com/searches/6ab36b731325836b1c354ea3/images/8IL2wIi8185NVOLhyw9LyPm23fUH8vnhOQelR2h4fpo.jpeg",
+      "snippet": "India's Q1 FY27 GDP growth is officially 7.8%, but a 2.6% alternative calculation has triggered a debate over GDP revisions, the new base ...",
+      "duration": "10:35",
+      "about_this_result": {
+        "source": {
+          "description": "India's Q1 FY27 GDP growth is officially 7.8%, but a 2.6% alternative calculation has triggered a debate over GDP revisions, the new base ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlprTXpPXzNWNG9JQjVmNWFYZE9UTS1BSEhLNVpvdzFZSWl3OFM5OUlBT3NxZ3FYSUNXWHBQU0I5TWZxZ0NGY2c2WFVvRVBUX3BNMGpFWm1KX3QxVTlEczY5V2RhUzViQVJkWDNnOUZjV1FBWXRFOWNEaGpQbDZ6N3p0TkhtURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlprTXpPXzNWNG9JQjVmNWFYZE9UTS1BSEhLNVpvdzFZSWl3OFM5OUlBT3NxZ3FYSUNXWHBQU0I5TWZxZ0NGY2c2WFVvRVBUX3BNMGpFWm1KX3QxVTlEczY5V2RhUzViQVJkWDNnOUZjV1FBWXRFOWNEaGpQbDZ6N3p0TkhtURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT6dZQU9MVEgABaa7f6He2lqotTjhNJ-VijKg",
+      "source": "YouTube · Unacademy IAS: English"
+    },
+    {
+      "position": 8,
+      "title": "Explained: Why India's 7.8% GDP growth has sparked a ...",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/explained-why-indias-7-8-gdp-growth-has-sparked-a-maths-debate/articleshow/133733370.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFef8JqR-aGjDFvt70bjIjDUzRJoDVXcokwY5mz37GNpMhx5H1pbpWmOqeMojKmHX7moyx0DP49DdbH3PKCnj_P0_2DEmQ2P-vRpapTMyMkehBsugLnMjxjHBUCWE2IXRaK18jmLWN0IJkQ7wmkQNUsMi4yHryaCoHUmNKl-9xaWl52J9KralejzLwkHxkUB96poPvLY93seyG8q4Rf1jMnb3NMBQb3UGqkxcvFWbr3b1l1T7py0KYl33yuL1vjNRzEmnlaPyiEDR&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://timesofindia.indiatimes.com › ...",
+      "date": "03‏/09‏/2026",
+      "snippet": "Some estimates are now ascribing a 2.6% growth in nominal GDP for the latest quarter instead of 10.3%, by calculating yearly growth rate using ...",
+      "snippet_highlighted_words": [
+        "2.6",
+        "growth in",
+        "GDP",
+        "of",
+        "by",
+        "growth"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Some estimates are now ascribing a 2.6% growth in nominal GDP for the latest quarter instead of 10.3%, by calculating yearly growth rate using ...",
+          "source_info_link": "https://timesofindia.indiatimes.com/business/india-business/explained-why-indias-7-8-gdp-growth-has-sparked-a-maths-debate/articleshow/133733370.cms",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZlZjhKcVItYUdqREZ2dDcwYmpJakRVelJKb0RWWGNva3dZNW16MzdHTnBNaHg1SDFwYnBXbU9xZU1vakttSFg3bW95eDBEUDQ5RGRiSDNQS0Nual9QMF8yREVtUTJQLXZScGFwVE15TWtlaEJzdWdMbk1qeGpIQlVDV0UySVhSYUsxOGptTFdOMElKa1E3d21rUU5Vc01pNHlIcnlhQ29IVW1OS2wtOXhhV2w1Mko5S3JhbGVqekx3a0h4a1VCOTZwb1B2TFk5M3NleUc4cTRSZjFqTW5iM05NQlFiM1VHcWt4Y3ZGV2JyM2IxbDFUN3B5MEtZbDMzeXVMMXZqTlJ6RW1ubGFQeWlFRFISBBoCCAAanAwSAggBGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkD2CwgAEAAYACAAKmgKBWluZGlhFRjhwUAaB2luZGlhJ3MaBmluZGlhbhoGaW5kaWFzGgrYp9mG2K_ZitinGgppdjtkO2luZGlhGgtpdjtkO2luZGlhbhoLaXY7ZDtpbmRpYXMaD2l2O2Q72KfZhtiv2YrYpyrSAQoBcxUiT7BAGgEzGgE2GgNhbmQaAmFzGgJhdBoCYnkaA2hhcxoCaW4aB2luZGlhJ3MaBmluZGlhcxoDaXRzGgJvZhoCb24aAsWbGgLFnRoCxZ8aAsWhGgLYsxoEc2dkcBoGaXY7ZDtzGghpdjtkO2FuZBoHaXY7ZDthcxoHaXY7ZDthdBoHaXY7ZDtieRoIaXY7ZDtoYXMaB2l2O2Q7aW4aC2l2O2Q7aW5kaWFzGghpdjtkO2l0cxoHaXY7ZDtvZhoHaXY7ZDtvbhoHaXY7ZDvYsypqCgNnZHAVLADrQBoIZWNvbm9taWMaB2Vjb25vbXkaBtis2K_YqBoEc2dkcBoJZ2RwZ3Jvd3RoGghpdjtkO2dkcBoNaXY7ZDtlY29ub21pYxoMaXY7ZDtlY29ub215GgtpdjtkO9is2K_YqCp0CgZncm93dGgVShjNQBoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlGgjYrNix2YjYqxoJZ2RwZ3Jvd3RoGhBpdjtkO2RldmVsb3BtZW50GglpdjtkO2dyb3caDWl2O2Q7aW5jcmVhc2UqCQoCaXMVAAAAACpMCghhY3R1YWxseRUAAAAAGgZyZWFsbHkaCNmB2LnZhNinGg1pdjtkO2FjdHVhbGx5GgtpdjtkO3JlYWxseRoNaXY7ZDvZgdi52YTYpypZCgRvbmx5FRlnqT8aBGp1c3QaCtin2YjZhtmE2YoaBtmB2YLYtxoJaXY7ZDtvbmx5GglpdjtkO2p1c3QaD2l2O2Q72KfZiNmG2YTZihoLaXY7ZDvZgdmC2LcqEAoEMi42JRVLL4M_GgMyLjYqUwoDbm90FVt_sz8aBmNhbm5vdBoG2YTZitizGgbZhtmI2KoaCGl2O2Q7bm90GgtpdjtkO2Nhbm5vdBoLaXY7ZDvZhNmK2LMaC2l2O2Q72YbZiNiqKhAKBDcuOCUVyvGJQBoDNy44Kj0KB2JlY2F1c2UVTOQcPhoK2KjZitmD2YjYsxoG2YTYo9mGGgxpdjtkO2JlY2F1c2UaC2l2O2Q72YTYp9mGMqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZlZjhKcVItYUdqREZ2dDcwYmpJakRVelJKb0RWWGNva3dZNW16MzdHTnBNaHg1SDFwYnBXbU9xZU1vakttSFg3bW95eDBEUDQ5RGRiSDNQS0Nual9QMF8yREVtUTJQLXZScGFwVE15TWtlaEJzdWdMbk1qeGpIQlVDV0UySVhSYUsxOGptTFdOMElKa1E3d21rUU5Vc01pNHlIcnlhQ29IVW1OS2wtOXhhV2w1Mko5S3JhbGVqekx3a0h4a1VCOTZwb1B2TFk5M3NleUc4cTRSZjFqTW5iM05NQlFiM1VHcWt4Y3ZGV2JyM2IxbDFUN3B5MEtZbDMzeXVMMXZqTlJ6RW1ubGFQeWlFRFI6SkV4cGxhaW5lZDogV2h5IDxiPkluZGlhJiMzOTtzIDcuODwvYj4lIDxiPkdEUCBncm93dGggaGFzPC9iPiBzcGFya2VkIGEgLi4uQsEBU29tZSBlc3RpbWF0ZXMgYXJlIG5vdyBhc2NyaWJpbmcgYSA8Yj4yLjY8L2I-JSA8Yj5ncm93dGggaW48L2I-IG5vbWluYWwgPGI-R0RQPC9iPiBmb3IgdGhlIGxhdGVzdCBxdWFydGVyIGluc3RlYWQgPGI-b2Y8L2I-IDEwLjMlLCA8Yj5ieTwvYj4gY2FsY3VsYXRpbmcgeWVhcmx5IDxiPmdyb3d0aDwvYj4gcmF0ZSB1c2luZyZuYnNwOy4uLkoCaXNSAmluUgJhdFIBNlIBM1IDYW5kUgJieVIDaGFzUgJhc1ICb2ZSAm9uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZlZjhKcVItYUdqREZ2dDcwYmpJakRVelJKb0RWWGNva3dZNW16MzdHTnBNaHg1SDFwYnBXbU9xZU1vakttSFg3bW95eDBEUDQ5RGRiSDNQS0Nual9QMF8yREVtUTJQLXZScGFwVE15TWtlaEJzdWdMbk1qeGpIQlVDV0UySVhSYUsxOGptTFdOMElKa1E3d21rUU5Vc01pNHlIcnlhQ29IVW1OS2wtOXhhV2w1Mko5S3JhbGVqekx3a0h4a1VCOTZwb1B2TFk5M3NleUc4cTRSZjFqTW5iM05NQlFiM1VHcWt4Y3ZGV2JyM2IxbDFUN3B5MEtZbDMzeXVMMXZqTlJ6RW1ubGFQeWlFRFISBBoCCAAanAwSAggBGgAiACoAMgYIAhICYWU6AEIECAIQNkoAWgByAHoAgkD2CwgAEAAYACAAKmgKBWluZGlhFRjhwUAaB2luZGlhJ3MaBmluZGlhbhoGaW5kaWFzGgrYp9mG2K_ZitinGgppdjtkO2luZGlhGgtpdjtkO2luZGlhbhoLaXY7ZDtpbmRpYXMaD2l2O2Q72KfZhtiv2YrYpyrSAQoBcxUiT7BAGgEzGgE2GgNhbmQaAmFzGgJhdBoCYnkaA2hhcxoCaW4aB2luZGlhJ3MaBmluZGlhcxoDaXRzGgJvZhoCb24aAsWbGgLFnRoCxZ8aAsWhGgLYsxoEc2dkcBoGaXY7ZDtzGghpdjtkO2FuZBoHaXY7ZDthcxoHaXY7ZDthdBoHaXY7ZDtieRoIaXY7ZDtoYXMaB2l2O2Q7aW4aC2l2O2Q7aW5kaWFzGghpdjtkO2l0cxoHaXY7ZDtvZhoHaXY7ZDtvbhoHaXY7ZDvYsypqCgNnZHAVLADrQBoIZWNvbm9taWMaB2Vjb25vbXkaBtis2K_YqBoEc2dkcBoJZ2RwZ3Jvd3RoGghpdjtkO2dkcBoNaXY7ZDtlY29ub21pYxoMaXY7ZDtlY29ub215GgtpdjtkO9is2K_YqCp0CgZncm93dGgVShjNQBoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlGgjYrNix2YjYqxoJZ2RwZ3Jvd3RoGhBpdjtkO2RldmVsb3BtZW50GglpdjtkO2dyb3caDWl2O2Q7aW5jcmVhc2UqCQoCaXMVAAAAACpMCghhY3R1YWxseRUAAAAAGgZyZWFsbHkaCNmB2LnZhNinGg1pdjtkO2FjdHVhbGx5GgtpdjtkO3JlYWxseRoNaXY7ZDvZgdi52YTYpypZCgRvbmx5FRlnqT8aBGp1c3QaCtin2YjZhtmE2YoaBtmB2YLYtxoJaXY7ZDtvbmx5GglpdjtkO2p1c3QaD2l2O2Q72KfZiNmG2YTZihoLaXY7ZDvZgdmC2LcqEAoEMi42JRVLL4M_GgMyLjYqUwoDbm90FVt_sz8aBmNhbm5vdBoG2YTZitizGgbZhtmI2KoaCGl2O2Q7bm90GgtpdjtkO2Nhbm5vdBoLaXY7ZDvZhNmK2LMaC2l2O2Q72YbZiNiqKhAKBDcuOCUVyvGJQBoDNy44Kj0KB2JlY2F1c2UVTOQcPhoK2KjZitmD2YjYsxoG2YTYo9mGGgxpdjtkO2JlY2F1c2UaC2l2O2Q72YTYp9mGMqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZlZjhKcVItYUdqREZ2dDcwYmpJakRVelJKb0RWWGNva3dZNW16MzdHTnBNaHg1SDFwYnBXbU9xZU1vakttSFg3bW95eDBEUDQ5RGRiSDNQS0Nual9QMF8yREVtUTJQLXZScGFwVE15TWtlaEJzdWdMbk1qeGpIQlVDV0UySVhSYUsxOGptTFdOMElKa1E3d21rUU5Vc01pNHlIcnlhQ29IVW1OS2wtOXhhV2w1Mko5S3JhbGVqekx3a0h4a1VCOTZwb1B2TFk5M3NleUc4cTRSZjFqTW5iM05NQlFiM1VHcWt4Y3ZGV2JyM2IxbDFUN3B5MEtZbDMzeXVMMXZqTlJ6RW1ubGFQeWlFRFI6SkV4cGxhaW5lZDogV2h5IDxiPkluZGlhJiMzOTtzIDcuODwvYj4lIDxiPkdEUCBncm93dGggaGFzPC9iPiBzcGFya2VkIGEgLi4uQsEBU29tZSBlc3RpbWF0ZXMgYXJlIG5vdyBhc2NyaWJpbmcgYSA8Yj4yLjY8L2I-JSA8Yj5ncm93dGggaW48L2I-IG5vbWluYWwgPGI-R0RQPC9iPiBmb3IgdGhlIGxhdGVzdCBxdWFydGVyIGluc3RlYWQgPGI-b2Y8L2I-IDEwLjMlLCA8Yj5ieTwvYj4gY2FsY3VsYXRpbmcgeWVhcmx5IDxiPmdyb3d0aDwvYj4gcmF0ZSB1c2luZyZuYnNwOy4uLkoCaXNSAmluUgJhdFIBNlIBM1IDYW5kUgJieVIDaGFzUgJhc1ICb2ZSAm9uIgIQAUgAWABoAA",
+      "source": "The Times of India"
+    },
+    {
+      "position": 9,
+      "title": "“Real GDP growth is 2.6%, not 7.8%. The government is ...",
+      "link": "https://www.facebook.com/IndianCitizenOfficial/posts/real-gdp-growth-is-26-not-78-the-government-is-good-at-revising-the-base-year-da/1491647432994339/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0AEB6zswFS8xpbdfetkiQiUhZ_a0c-4va0lNYOfJAeDpf5S-qp3S11CRsQkIl1O5K8biFt2r71fCF270dDqiPg-yNSbubvKmxF1o8hvmALsPsY_8vf4vdJj37aGTfnnLPX2Ml1h9Q2uug8fuxFYIVQGdEOI9Oe4cfv-o3b3OgWci0nF3yoH623Kv9lpzyxrjbBgVgvMvh4RLFLy53gq4rDvjMKgobA80IWL-h2LxiJaJvGWDhgVoaxMpzvgm4ihiZYxM3O31c5wwdJ7KkebEwog-&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQFnoECDoQAQ&uoh=1",
+      "displayed_link": "أكثر من 690 تفاعل · قبل أسبوعين",
+      "snippet": "“Real GDP growth is 2.6%, not 7.8%. The government is good at revising the base-year data to project GDP growth as high as 7.8%.” — Subash ...",
+      "snippet_highlighted_words": [
+        "GDP growth",
+        "2.6",
+        "not 7.8",
+        "at",
+        "GDP growth as",
+        "as 7.8"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "“Real GDP growth is 2.6%, not 7.8%. The government is good at revising the base-year data to project GDP growth as high as 7.8%.” — Subash ...",
+          "source_info_link": "https://www.facebook.com/IndianCitizenOfficial/posts/real-gdp-growth-is-26-not-78-the-government-is-good-at-revising-the-base-year-da/1491647432994339/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "ar"
+        ],
+        "regions": [
+          "AE"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZTOHhwYmRmZXRraVFpVWhaX2EwYy00dmEwbE5ZT2ZKQWVEcGY1Uy1xcDNTMTFDUnNRa0lsMU81SzhiaUZ0MnI3MWZDRjI3MGREcWlQZy15TlNidWJ2S214RjFvOGh2bUFMc1BzWV84dmY0dmRKajM3YUdUZm5uTFBYMk1sMWg5UTJ1dWc4ZnV4RllJVlFHZEVPSTlPZTRjZnYtbzNiM09nV2NpMG5GM3lvSDYyM0t2OWxwenl4cmpiQmdWZ3ZNdmg0UkxGTHk1M2dxNHJEdmpNS2dvYkE4MElXTC1oMkx4aUphSnZHV0RoZ1ZvYXhNcHp2Z200aWhpWll4TTNPMzFjNXd3ZEo3S2tlYkV3b2ctEgQaAggAGqsMEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQIcMCAAQABgAIAAqaAoFaW5kaWEV5EmwPxoHaW5kaWEncxoGaW5kaWFuGgZpbmRpYXMaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGgtpdjtkO2luZGlhcxoPaXY7ZDvYp9mG2K_ZitinKtIBCgFzFWWD7j8aATMaATYaA2FuZBoCYXMaAmF0GgJieRoDaGFzGgJpbhoHaW5kaWEncxoGaW5kaWFzGgNpdHMaAm9mGgJvbhoCxZsaAsWdGgLFnxoCxaEaAtizGgRzZ2RwGgZpdjtkO3MaCGl2O2Q7YW5kGgdpdjtkO2FzGgdpdjtkO2F0GgdpdjtkO2J5GghpdjtkO2hhcxoHaXY7ZDtpbhoLaXY7ZDtpbmRpYXMaCGl2O2Q7aXRzGgdpdjtkO29mGgdpdjtkO29uGgdpdjtkO9izKmoKA2dkcBWmCvxAGghlY29ub21pYxoHZWNvbm9teRoG2KzYr9ioGgRzZ2RwGglnZHBncm93dGgaCGl2O2Q7Z2RwGg1pdjtkO2Vjb25vbWljGgxpdjtkO2Vjb25vbXkaC2l2O2Q72KzYr9ioKnQKBmdyb3d0aBWmWe1AGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UaCNis2LHZiNirGglnZHBncm93dGgaEGl2O2Q7ZGV2ZWxvcG1lbnQaCWl2O2Q7Z3JvdxoNaXY7ZDtpbmNyZWFzZSoJCgJpcxUAAAAAKkwKCGFjdHVhbGx5FYeGsj8aBnJlYWxseRoI2YHYudmE2KcaDWl2O2Q7YWN0dWFsbHkaC2l2O2Q7cmVhbGx5Gg1pdjtkO9mB2LnZhNinKlkKBG9ubHkVAAAAABoEanVzdBoK2KfZiNmG2YTZihoG2YHZgti3GglpdjtkO29ubHkaCWl2O2Q7anVzdBoPaXY7ZDvYp9mI2YbZhNmKGgtpdjtkO9mB2YLYtyoQCgQyLjYlFS1UgkAaAzIuNipTCgNub3QV1aC9QBoGY2Fubm90GgbZhNmK2LMaBtmG2YjYqhoIaXY7ZDtub3QaC2l2O2Q7Y2Fubm90GgtpdjtkO9mE2YrYsxoLaXY7ZDvZhtmI2KoqEAoENy44JRUZx5NAGgM3LjgqPQoHYmVjYXVzZRWwFZw-GgrYqNmK2YPZiNizGgbZhNij2YYaDGl2O2Q7YmVjYXVzZRoLaXY7ZDvZhNin2YYypgIvZ290bz91cmw9Q0FFUzBBRUI2enN3RlM4eHBiZGZldGtpUWlVaFpfYTBjLTR2YTBsTllPZkpBZURwZjVTLXFwM1MxMUNSc1FrSWwxTzVLOGJpRnQycjcxZkNGMjcwZERxaVBnLXlOU2J1YnZLbXhGMW84aHZtQUxzUHNZXzh2ZjR2ZEpqMzdhR1Rmbm5MUFgyTWwxaDlRMnV1ZzhmdXhGWUlWUUdkRU9JOU9lNGNmdi1vM2IzT2dXY2kwbkYzeW9INjIzS3Y5bHB6eXhyamJCZ1Zndk12aDRSTEZMeTUzZ3E0ckR2ak1LZ29iQTgwSVdMLWgyTHhpSmFKdkdXRGhnVm9heE1wenZnbTRpaGlaWXhNM08zMWM1d3dkSjdLa2ViRXdvZy06VeKAnFJlYWwgPGI-R0RQIGdyb3d0aDwvYj4gaXMgPGI-Mi42PC9iPiUsIDxiPm5vdCA3Ljg8L2I-JS4gVGhlIGdvdmVybm1lbnQgaXMgZ29vZCAuLi5CwwHigJxSZWFsIDxiPkdEUCBncm93dGg8L2I-IGlzIDxiPjIuNjwvYj4lLCA8Yj5ub3QgNy44PC9iPiUuIFRoZSBnb3Zlcm5tZW50IGlzIGdvb2QgPGI-YXQ8L2I-IHJldmlzaW5nIHRoZSBiYXNlLXllYXIgZGF0YSB0byBwcm9qZWN0IDxiPkdEUCBncm93dGggYXM8L2I-IGhpZ2ggPGI-YXMgNy44PC9iPiUu4oCdIOKAlCBTdWJhc2gmbmJzcDsuLi5KAmlzUgJhc1IBNlIBM1IDYW5kUgJhdFICYnlSA2hhc1ICb2ZSAm9uUgJpbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYCL2dvdG8_dXJsPUNBRVMwQUVCNnpzd0ZTOHhwYmRmZXRraVFpVWhaX2EwYy00dmEwbE5ZT2ZKQWVEcGY1Uy1xcDNTMTFDUnNRa0lsMU81SzhiaUZ0MnI3MWZDRjI3MGREcWlQZy15TlNidWJ2S214RjFvOGh2bUFMc1BzWV84dmY0dmRKajM3YUdUZm5uTFBYMk1sMWg5UTJ1dWc4ZnV4RllJVlFHZEVPSTlPZTRjZnYtbzNiM09nV2NpMG5GM3lvSDYyM0t2OWxwenl4cmpiQmdWZ3ZNdmg0UkxGTHk1M2dxNHJEdmpNS2dvYkE4MElXTC1oMkx4aUphSnZHV0RoZ1ZvYXhNcHp2Z200aWhpWll4TTNPMzFjNXd3ZEo3S2tlYkV3b2ctEgQaAggAGqsMEgAaACIAKgAyBggCEgJhZToAQgQIAhA2SgBaAHIAegCCQIcMCAAQABgAIAAqaAoFaW5kaWEV5EmwPxoHaW5kaWEncxoGaW5kaWFuGgZpbmRpYXMaCtin2YbYr9mK2KcaCml2O2Q7aW5kaWEaC2l2O2Q7aW5kaWFuGgtpdjtkO2luZGlhcxoPaXY7ZDvYp9mG2K_ZitinKtIBCgFzFWWD7j8aATMaATYaA2FuZBoCYXMaAmF0GgJieRoDaGFzGgJpbhoHaW5kaWEncxoGaW5kaWFzGgNpdHMaAm9mGgJvbhoCxZsaAsWdGgLFnxoCxaEaAtizGgRzZ2RwGgZpdjtkO3MaCGl2O2Q7YW5kGgdpdjtkO2FzGgdpdjtkO2F0GgdpdjtkO2J5GghpdjtkO2hhcxoHaXY7ZDtpbhoLaXY7ZDtpbmRpYXMaCGl2O2Q7aXRzGgdpdjtkO29mGgdpdjtkO29uGgdpdjtkO9izKmoKA2dkcBWmCvxAGghlY29ub21pYxoHZWNvbm9teRoG2KzYr9ioGgRzZ2RwGglnZHBncm93dGgaCGl2O2Q7Z2RwGg1pdjtkO2Vjb25vbWljGgxpdjtkO2Vjb25vbXkaC2l2O2Q72KzYr9ioKnQKBmdyb3d0aBWmWe1AGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UaCNis2LHZiNirGglnZHBncm93dGgaEGl2O2Q7ZGV2ZWxvcG1lbnQaCWl2O2Q7Z3JvdxoNaXY7ZDtpbmNyZWFzZSoJCgJpcxUAAAAAKkwKCGFjdHVhbGx5FYeGsj8aBnJlYWxseRoI2YHYudmE2KcaDWl2O2Q7YWN0dWFsbHkaC2l2O2Q7cmVhbGx5Gg1pdjtkO9mB2LnZhNinKlkKBG9ubHkVAAAAABoEanVzdBoK2KfZiNmG2YTZihoG2YHZgti3GglpdjtkO29ubHkaCWl2O2Q7anVzdBoPaXY7ZDvYp9mI2YbZhNmKGgtpdjtkO9mB2YLYtyoQCgQyLjYlFS1UgkAaAzIuNipTCgNub3QV1aC9QBoGY2Fubm90GgbZhNmK2LMaBtmG2YjYqhoIaXY7ZDtub3QaC2l2O2Q7Y2Fubm90GgtpdjtkO9mE2YrYsxoLaXY7ZDvZhtmI2KoqEAoENy44JRUZx5NAGgM3LjgqPQoHYmVjYXVzZRWwFZw-GgrYqNmK2YPZiNizGgbZhNij2YYaDGl2O2Q7YmVjYXVzZRoLaXY7ZDvZhNin2YYypgIvZ290bz91cmw9Q0FFUzBBRUI2enN3RlM4eHBiZGZldGtpUWlVaFpfYTBjLTR2YTBsTllPZkpBZURwZjVTLXFwM1MxMUNSc1FrSWwxTzVLOGJpRnQycjcxZkNGMjcwZERxaVBnLXlOU2J1YnZLbXhGMW84aHZtQUxzUHNZXzh2ZjR2ZEpqMzdhR1Rmbm5MUFgyTWwxaDlRMnV1ZzhmdXhGWUlWUUdkRU9JOU9lNGNmdi1vM2IzT2dXY2kwbkYzeW9INjIzS3Y5bHB6eXhyamJCZ1Zndk12aDRSTEZMeTUzZ3E0ckR2ak1LZ29iQTgwSVdMLWgyTHhpSmFKdkdXRGhnVm9heE1wenZnbTRpaGlaWXhNM08zMWM1d3dkSjdLa2ViRXdvZy06VeKAnFJlYWwgPGI-R0RQIGdyb3d0aDwvYj4gaXMgPGI-Mi42PC9iPiUsIDxiPm5vdCA3Ljg8L2I-JS4gVGhlIGdvdmVybm1lbnQgaXMgZ29vZCAuLi5CwwHigJxSZWFsIDxiPkdEUCBncm93dGg8L2I-IGlzIDxiPjIuNjwvYj4lLCA8Yj5ub3QgNy44PC9iPiUuIFRoZSBnb3Zlcm5tZW50IGlzIGdvb2QgPGI-YXQ8L2I-IHJldmlzaW5nIHRoZSBiYXNlLXllYXIgZGF0YSB0byBwcm9qZWN0IDxiPkdEUCBncm93dGggYXM8L2I-IGhpZ2ggPGI-YXMgNy44PC9iPiUu4oCdIOKAlCBTdWJhc2gmbmJzcDsuLi5KAmlzUgJhc1IBNlIBM1IDYW5kUgJhdFICYnlSA2hhc1ICb2ZSAm9uUgJpbiICEAFIAFgAaAA",
+      "source": "Facebook · Indian Citizen"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "India GDP growth rate last 10 years",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&q=India+GDP+growth+rate+last+10+years&sa=X&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+GDP+growth+rate+last+10+years"
+    },
+    {
+      "block_position": 1,
+      "query": "India GDP growth rate last 20 years",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&q=India+GDP+growth+rate+last+20+years&sa=X&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+GDP+growth+rate+last+20+years"
+    },
+    {
+      "block_position": 1,
+      "query": "China GDP growth rate",
+      "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&q=China+GDP+growth+rate&sa=X&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=China+GDP+growth+rate"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=10&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8NMDegQILRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=10&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAE",
+      "3": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=20&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAG",
+      "4": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=30&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAI",
+      "5": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=40&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAK",
+      "6": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=50&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAM",
+      "7": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=60&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAO",
+      "8": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=70&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAQ",
+      "9": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=80&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAS",
+      "10": "https://www.google.com/search?q=India+s+GDP+growth+is+actually+only+2.6%25,+not+7.8%25,+because&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntOOchA--D5NHVaJP8j4EaE8JNxZw:1790143347481&ei=c2uzauSDHamew8cPmtKt2Ao&start=90&sa=N&sstk=AS6-VmIXyqDWNPWury7vfWKJF3aw6NQUBZn_jaQetEwnYm8gYpxKMJXcC3EOqrdtZtRt-jbVrPmAKV6UDQPbUm4BIyGzD0iPcRlEaw&ved=2ahUKEwikicvSg4SXAxUpz_ACHRppC6sQ8tMDegQILRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India+s+GDP+growth+is+actually+only+2.6%25%2C+not+7.8%25%2C+because&start=90"
+    }
+  }
+}

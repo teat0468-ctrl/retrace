@@ -1,0 +1,285 @@
+{
+  "search_metadata": {
+    "id": "6ab367b0d10c6a85b602f5a5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qsAylsAociwG8MdjiuhHzCAmAV73rJrNN0TUp-db5-Y/6ab367b0d10c6a85b602f5a5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/qsAylsAociwG8MdjiuhHzCAmAV73rJrNN0TUp-db5-Y/6ab367b0d10c6a85b602f5a5.md",
+    "created_at": "2026-09-23 05:46:24 UTC",
+    "processed_at": "2026-09-23 05:46:24 UTC",
+    "google_news_url": "https://news.google.com/search?q=government+approved+massive+merger+nine+public+new+update",
+    "raw_html_file": "https://serpapi.com/searches/qsAylsAociwG8MdjiuhHzCAmAV73rJrNN0TUp-db5-Y/6ab367b0d10c6a85b602f5a5.html",
+    "total_time_taken": 5.55
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "government approved massive merger nine public new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "PIB debunks viral fake gazette claiming govt merger of 9 public sector banks",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stacy Pereira"
+        ]
+      },
+      "link": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
+      "thumbnail": "https://media.assettype.com/gulfnews%2Fimport%2F2021%2F11%2F03%2FStock---SBI-Bank---State-Bank-of-India_17ce506c977_large.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNXRmxOYldaQmQwaG9aMDk0VFJEb0FoamdBeWdLTWdhbEFhYnJrQXM",
+      "date": "09/17/2026, 08:43 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:43:21Z"
+    },
+    {
+      "position": 2,
+      "title": "Benedict Cumberbatch, Alan Cumming and Benedict Wong Urge U.K. Government to Block Paramount-Warner Bros. Merger in Op-Ed: ‘It Threatens to Inflict Immense Harm’",
+      "source": {
+        "name": "Variety",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://variety.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "K.J. Yossman"
+        ]
+      },
+      "link": "https://variety.com/2026/biz/global/benedict-cumberbatch-paramount-warner-bros-merger-1236821639/",
+      "thumbnail": "https://variety.com/wp-content/uploads/2026/07/cumberbatch-cumming-wong.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJZWGh5WlZFM01GRXpiVEpYVFJERUF4aW5CU2dLTWdZQlVKWmtxQWc",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Trump floated the idea of a 15% government stake in a massive railroad merger",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jordan Blum",
+          "Alyson Shontell"
+        ]
+      },
+      "link": "https://fortune.com/2026/05/29/trump-government-stake-union-pacific-norfolk-southern-railroad-merger/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2227595133-e1780020783679.jpg?format=webp&w=1440&quality=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtWblpJWDFScU0zVnRPV2hRVFJERUF4aW1CU2dLTWdhQlVaRG5LUWM",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Lockheed, Palantir, Amazon and the $50 billion question hanging over the White House ballroom",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Catherina Gioino"
+        ]
+      },
+      "link": "https://fortune.com/2026/06/09/white-house-ballroom-contracts-donors-lockheed-martin-amazon-palantir-booz-allen/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2278324375-e1780934163995.jpg?format=webp&w=1440&quality=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRhVk5WTkdRdE9EQXliSEpGVFJERUF4aW5CU2dLTWdtQllZckZyYVZjRVFF",
+      "date": "06/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-09T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Max Zahn"
+        ]
+      },
+      "link": "https://abcnews.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415",
+      "thumbnail": "https://s.abcnews.com/images/Business/netflix-gty-er-251209_1765312973397_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFjV3hYTkhsblltOTZkVFpoVFJDZkF4ampCU2dLTWdtQnhJYkh3YVRJTXdF",
+      "date": "12/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-11T08:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Ottawa approves merger of Teck and Anglo American",
+      "source": {
+        "name": "CBC",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cbc.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cbc.ca/news/canada/british-columbia/teck-anglo-american-merger-9.7017343",
+      "thumbnail": "https://i.cbc.ca/ais/1.7635241,1758044579000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNVVlZqVFZKVGVVVjVWMUJ2VFJDZkF4ampCU2dLTWdZRllaamxKZ2c",
+      "date": "12/15/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-15T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Why Washington faces huge fallout from the Medicaid cuts in Trump’s megabill",
+      "source": {
+        "name": "Washington State Standard",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://washingtonstatestandard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jake Goldstein-Street"
+        ]
+      },
+      "link": "https://washingtonstatestandard.com/2025/07/09/why-washington-faces-huge-fallout-from-the-medicaid-cuts-in-trumps-megabill/",
+      "thumbnail": "https://washingtonstatestandard.com/wp-content/uploads/2025/05/medicaidhealthinsuranceform-1536x912.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVVXa2d3VlY4MWRVSTBaRUpMVFJDckF4alBCU2dLTWdPbEFnZw",
+      "date": "07/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-09T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Ontario’s $20-million plan to merge 36 conservation authorities into nine",
+      "source": {
+        "name": "The Narwhal",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thenarwhal.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Fatima Syed"
+        ]
+      },
+      "link": "https://thenarwhal.ca/ontario-conservation-authorities-final-plan/",
+      "thumbnail": "https://thenarwhal.ca/wp-content/uploads/2026/03/ON-Thunder-Bay-Waterfront-Jackson-WEB-450x300.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHdNMFZWVWxKTlRFSllYMUZSVFJDc0FoakNBeWdLTWdNQmtCbw",
+      "date": "03/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-10T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "What a recent Supreme Court decision could mean for Trump FCC pressure on broadcasters",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Devin Dwyer"
+        ]
+      },
+      "link": "https://abcnews.com/Politics/recent-supreme-court-decision-trump-fcc-pressure-broadcasters/story?id=125735179",
+      "thumbnail": "https://s.abcnews.com/images/US/scotus-2-rt-gmh-250909_1757450302833_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXFTa1pYWDFKYWVTMDVieko0VFJDZkF4ampCU2dLTWdNTlFnZw",
+      "date": "02/11/2026, 04:27 AM, +0000 UTC",
+      "iso_date": "2026-02-11T04:27:05Z"
+    },
+    {
+      "position": 10,
+      "title": "Approving China 'mega' embassy would be unlawful, UK government told",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Damian Grammaticas"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/c864w2942vdo",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/45a8/live/c31127f0-8dd4-11f0-84c8-99de564f0440.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZZbTB6TUVsb1VURk5WRGRmVFJDT0FoamdBeWdLTWdZQnNJQnQwUUk",
+      "date": "09/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-09T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Nine state banks to be merged into two large entities: Governor",
+      "source": {
+        "name": "The Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tbsnews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jebunnesa Alo"
+        ]
+      },
+      "link": "https://www.tbsnews.net/economy/banking/govt-plans-merger-state-owned-banks-two-strengthen-governance-bb-governor-1340061",
+      "thumbnail": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/01/22/nine-states.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpOWGhSYVd0YVVYQnJSblZDVFJELUFSakRBeWdLTWdrWkk0WnBsbWhNTXdF",
+      "date": "01/21/2026, 09:21 AM, +0000 UTC",
+      "iso_date": "2026-01-21T09:21:03Z"
+    },
+    {
+      "position": 12,
+      "title": "'Extreme consolidation': Newmarket mayor questions conservation authority merger",
+      "source": {
+        "name": "NewmarketToday.ca",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.newmarkettoday.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joseph Quigley"
+        ]
+      },
+      "link": "https://www.newmarkettoday.ca/local-news/extreme-consolidation-newmarket-mayor-questions-conservation-authority-merger-11596259",
+      "thumbnail": "https://www.vmcdn.ca/f/files/newmarkettoday/images/politics/20251208-newmarket-mayor-john-taylor-jq.JPG;w=960",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJPVTAwTUVOWllsOVJUbmhIVFJENUF4amZCQ2dLTWdZeEZJNlFsUW8",
+      "date": "12/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-09T08:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Updates",
+      "source": {
+        "name": "SpaceX",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.spacex.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.spacex.com/updates",
+      "thumbnail": "https://www.spacex.com/assets/images/updates/UPDATES_Mobile.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVMWEJZZFhWUllXOVVUR3RsVFJDOEFSaU1BaWdCTWdaSkFKaVdnQXc",
+      "date": "06/09/2020, 04:49 AM, +0000 UTC",
+      "iso_date": "2020-06-09T04:49:32Z"
+    },
+    {
+      "position": 14,
+      "title": "Big Update on PFC-REC Merger! Government-led NBFCs to merge following Union Budget 2026-27 plan - Details",
+      "source": {
+        "name": "Zee Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anubhav Maurya"
+        ]
+      },
+      "link": "https://www.zeebiz.com/companies/news-big-update-on-pfc-rec-merger-government-led-nbfcs-to-merge-following-union-budget-2026-27-plan-details-389985",
+      "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/02/06/400159-rec-pfc-merger.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1MWGN3VGxGU1NEVjNhalZzVFJEOEFSakFBeWdLTWdrRmtJNldOQ2V4amdF",
+      "date": "02/06/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-06T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

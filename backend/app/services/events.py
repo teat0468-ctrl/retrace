@@ -234,6 +234,20 @@ EVENT_MARKER_PATTERNS = {
         r"\byears? later\b",
         r"\bdecades? later\b",
     ],
+    # --- Conflict / Disputes ---
+    "conflict_signal": [
+        r"\bdenies\b",
+        r"\bdenied\b",
+        r"\brejects?\b",
+        r"\brejected\b",
+        r"\bdisputes?\b",
+        r"\bdisputed\b",
+        r"\bblames?\b",
+        r"\baccuses?\b",
+        r"\bclash(?:es|ed)?\b",
+        r"\bdifferent accounts\b",
+        r"\bcontradicts?\b",
+    ],
     # --- Recycled / re-shared signals ---
     "reshared_old": [
         r"\bold (?:video|photo|image|story|article|clip)\b",
@@ -381,16 +395,16 @@ def extract_event_markers(text: str) -> list[str]:
 
 
 def looks_like_event(title: str) -> bool:
-
-    text = normalize_text(title)
-
-    return any(
-        re.search(
-            rf"\b{re.escape(word)}\b",
-            text,
-        )
-        for word in EVENT_WORDS
-    )
+    """
+    Accept any headline that has at least 3 meaningful tokens.
+    We no longer require action verbs — passive voice, noun-heavy, and
+    descriptive headlines all carry signal for entity drift detection.
+    """
+    if not title or len(title.strip()) < 10:
+        return False
+    # Accept everything with 3+ meaningful words
+    words = [w for w in title.split() if len(w) > 2]
+    return len(words) >= 3
 
 
 def extract_event_from_source(

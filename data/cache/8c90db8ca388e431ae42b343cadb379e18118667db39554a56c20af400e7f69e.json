@@ -1,0 +1,307 @@
+{
+  "search_metadata": {
+    "id": "6ab36f6c8ffd7b13d753d296",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zDZq6mHuYGGk4BEO3TxSdZi36TUtZ2w0XaLfDY96Ifk/6ab36f6c8ffd7b13d753d296.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zDZq6mHuYGGk4BEO3TxSdZi36TUtZ2w0XaLfDY96Ifk/6ab36f6c8ffd7b13d753d296.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zDZq6mHuYGGk4BEO3TxSdZi36TUtZ2w0XaLfDY96Ifk/6ab36f6c8ffd7b13d753d296.json_with_pixel_position",
+    "created_at": "2026-09-23 06:19:24 UTC",
+    "processed_at": "2026-09-23 06:19:24 UTC",
+    "google_url": "https://www.google.com/search?q=Tata+Sons+Trusts+before%3A2026-01-01&oq=Tata+Sons+Trusts+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/zDZq6mHuYGGk4BEO3TxSdZi36TUtZ2w0XaLfDY96Ifk/6ab36f6c8ffd7b13d753d296.html",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Tata Sons Trusts before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Tata Sons Trusts before:2026-01-01",
+    "total_results": 4630000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "Z4sxrHiczVbbcqpIFP2A-Y7xJUHAoKJV1qnuDjGI0bSXOPpCcRNRgUijaN7Ov8xXzddMA0rQI-ac8zA1XXLb9F67d--9WH7_e-14q3_-CBdh-E6aLBtFUdn2fXttlQ3fZTVy8Ax27q9JYCy-HXath5JBWlzJclp6m_nQ_M28yzDue4hf-dnEt_GqlLi0VF0j1pIi7peEVVl6Wv358EgfyqRseeUtnHIoeOtpmJQrHN8o91nNpRPAfzgQkACwoUxvYdEcTGf8DBakCBRolTPJR88c9pTGpFYZp_ELkO0ELQaQYexAL-osECBQTlgwKlwIysejD3EoCSWJJJk6P5NNLod4SBkmujn7Wj4pAg0vnSwvubcSKBjoohPGFF0ELzJYHA0XFZPk_FMnPj2m4edAiCRh8HRz5XR3xhGsKuDLcj-BgWcfg8kopJ6QNW3auRyrB_TCs46xMJKbgMQNjUYNzn-KGKnrCWAqrmCd2e2j_UIXjD4SF0-YNXQ6b-1rpmWqC5X7ljzzFb7KNR7q4n3CJINkVCJ5KgGl_dDgtE298lLuliF_4hHKdv6iZHEvIBn8OCA6Tj1zOO7GI_y0f-68JOWroKR7Eu9lRQZZ_MQF19JSZ1V9lQG05XwrZLix3zUenS0o4VHS3PGy_Gx1-cxsSiN4rXNfrvL90oafsxXI8IeJ-TXJULZp2jiDzw8Ud7m8iF-O6SZ37SMDjTxGD0oYnADQKdM4c9TOEpPyKUr5MA5FSoixHIK4-zeduMYwBkSpx4n2Y5Cac8kUfPsIiEDnNt-LhvzFd-IY-USYi_7P8-Z5uNrT3vbEQyBV9fZgzEWe5pN2d93F13niu_ovaI7x_2LSUZGU5F0xk2KoL5lEO1--qUjJ_VGROimTkF3IJJgq3IUi9a8q0nlHITD4ZJICbyrSrzMJ3WSSfcz0CpPwSTPOmbQqYlKiSOdMWoj4TJHO8v5UpIxJv6NI6PcUKSGWlV7O5Wm7tAtlqr2Hk9eZrWvCtDZZi8aAeOba2MLevh99KVNzN2y6mrm-Vx2zCSud8GDeq9TgNy2ztGmNtFC7G_oeuRsFWxKSO92a-4HVrHCVGsPx9Fdy14Hf4rR6iKpjmcGSCQah8iwajtYRucMbbdPloedKzxi9j2fLNl7uQf-vlaDA7Ueb0Uyg69WK2LAjp--E-xqJDNnZcUJVc43asN7YTef8SqmGk95Ho_66qSuMpZr9hSDs8WzU9kf9KrfDTKgE-uigDvrJakhrBWeM-saNnCEuuYHRovUQvJgvE5s2HpoCTJsMI58eET1qAEuwRAxNtQj9s2xo_Fw3RKHKz825WSu5dnh4bwl8iXhBi_8XE7k2rA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Z4sxrHiczVbbcqpIFP2A-Y7xJUHAoKJV1qnuDjGI0bSXOPpCcRNRgUijaN7Ov8xXzddMA0rQI-ac8zA1XXLb9F67d--9WH7_e-14q3_-CBdh-E6aLBtFUdn2fXttlQ3fZTVy8Ax27q9JYCy-HXath5JBWlzJclp6m_nQ_M28yzDue4hf-dnEt_GqlLi0VF0j1pIi7peEVVl6Wv358EgfyqRseeUtnHIoeOtpmJQrHN8o91nNpRPAfzgQkACwoUxvYdEcTGf8DBakCBRolTPJR88c9pTGpFYZp_ELkO0ELQaQYexAL-osECBQTlgwKlwIysejD3EoCSWJJJk6P5NNLod4SBkmujn7Wj4pAg0vnSwvubcSKBjoohPGFF0ELzJYHA0XFZPk_FMnPj2m4edAiCRh8HRz5XR3xhGsKuDLcj-BgWcfg8kopJ6QNW3auRyrB_TCs46xMJKbgMQNjUYNzn-KGKnrCWAqrmCd2e2j_UIXjD4SF0-YNXQ6b-1rpmWqC5X7ljzzFb7KNR7q4n3CJINkVCJ5KgGl_dDgtE298lLuliF_4hHKdv6iZHEvIBn8OCA6Tj1zOO7GI_y0f-68JOWroKR7Eu9lRQZZ_MQF19JSZ1V9lQG05XwrZLix3zUenS0o4VHS3PGy_Gx1-cxsSiN4rXNfrvL90oafsxXI8IeJ-TXJULZp2jiDzw8Ud7m8iF-O6SZ37SMDjTxGD0oYnADQKdM4c9TOEpPyKUr5MA5FSoixHIK4-zeduMYwBkSpx4n2Y5Cac8kUfPsIiEDnNt-LhvzFd-IY-USYi_7P8-Z5uNrT3vbEQyBV9fZgzEWe5pN2d93F13niu_ovaI7x_2LSUZGU5F0xk2KoL5lEO1--qUjJ_VGROimTkF3IJJgq3IUi9a8q0nlHITD4ZJICbyrSrzMJ3WSSfcz0CpPwSTPOmbQqYlKiSOdMWoj4TJHO8v5UpIxJv6NI6PcUKSGWlV7O5Wm7tAtlqr2Hk9eZrWvCtDZZi8aAeOba2MLevh99KVNzN2y6mrm-Vx2zCSud8GDeq9TgNy2ztGmNtFC7G_oeuRsFWxKSO92a-4HVrHCVGsPx9Fdy14Hf4rR6iKpjmcGSCQah8iwajtYRucMbbdPloedKzxi9j2fLNl7uQf-vlaDA7Ueb0Uyg69WK2LAjp--E-xqJDNnZcUJVc43asN7YTef8SqmGk95Ho_66qSuMpZr9hSDs8WzU9kf9KrfDTKgE-uigDvrJakhrBWeM-saNnCEuuYHRovUQvJgvE5s2HpoCTJsMI58eET1qAEuwRAxNtQj9s2xo_Fw3RKHKz825WSu5dnh4bwl8iXhBi_8XE7k2rA"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Tata Sons",
+      "link": "https://www.tata.com/business/tata-sons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVM3eOEGEzCWf6C370uMA-NmAn9j4siFvy_XNZZ5IvSJjcZqMezkJ-bMhdc53pd6u3JWUwrbjjDKueAJb4zt8Vfy6zxRYXDD4paKLaYKvmLCokUIV7j3wvw1Ba&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.tata.com › business › tata-sons",
+      "date": "Mar 31, 2018",
+      "snippet": "66% of the equity share capital of Tata Sons is held by philanthropic trusts, which support education, health, livelihood generation, and art and culture.",
+      "snippet_highlighted_words": [
+        "philanthropic trusts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "66% of the equity share capital of Tata Sons is held by philanthropic trusts, which support education, health, livelihood generation, and art and culture.",
+          "source_info_link": "https://www.tata.com/business/tata-sons",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcExIaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq5Iaq7mEQnjAAAADHRSTlMAhiDWYzJ48U4Onb4iW1GjAAAA2klEQVQokbVRSRLDMAgzZvP2__cWMO1kO_TQMpOYIAySUsovgkmE-Alpc2XMdoEqrkNoPQ3cNetAjfQ4HKFFs0CMaYD9MLXBmIidpCDOka15MXcZ3Zop3sAiUm7gSJK-cxNa4wP2FOhgyj0spSiIgxIpnfzZ4gwMyVePwPgUsFVrwYO75gpRHP-O1Mju2yZtJ6VFfZknuiq4Alb_0PBz21BDs3dg2FF9mqaB7KANbF4n9wKWkst-g9OuufwA1ZK0KUB_xqZS2RswKYEwC_RS7eVJs99aWJ5c_DZe-lgLszsiLpQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVk0zZU9FR0V6Q1dmNkMzNzB1TUEtTm1BbjlqNHNpRnZ5X1hOWlo1SXZTSmpjWnFNZXprSi1iTWhkYzUzcGQ2dTNKV1V3cmJqakRLdWVBSmI0enQ4VmZ5Nnp4UllYREQ0cGFLTGFZS3ZtTENva1VJVjdqM3d2dzFCYRIEGgIIABroAxICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMIDCAAQABgAIAAqIAoEdGF0YRUJychAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiwKBHNvbnMVhjSUQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMVoCr6PhoFdHJ1c3QaC2l2O3A7dHJ1c3RzMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVk0zZU9FR0V6Q1dmNkMzNzB1TUEtTm1BbjlqNHNpRnZ5X1hOWlo1SXZTSmpjWnFNZXprSi1iTWhkYzUzcGQ2dTNKV1V3cmJqakRLdWVBSmI0enQ4VmZ5Nnp4UllYREQ0cGFLTGFZS3ZtTENva1VJVjdqM3d2dzFCYToQPGI-VGF0YSBTb25zPC9iPkKhATY2JSBvZiB0aGUgZXF1aXR5IHNoYXJlIGNhcGl0YWwgb2YgVGF0YSBTb25zIGlzIGhlbGQgYnkgPGI-cGhpbGFudGhyb3BpYyB0cnVzdHM8L2I-LCB3aGljaCBzdXBwb3J0IGVkdWNhdGlvbiwgaGVhbHRoLCBsaXZlbGlob29kIGdlbmVyYXRpb24sIGFuZCBhcnQgYW5kIGN1bHR1cmUuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVk0zZU9FR0V6Q1dmNkMzNzB1TUEtTm1BbjlqNHNpRnZ5X1hOWlo1SXZTSmpjWnFNZXprSi1iTWhkYzUzcGQ2dTNKV1V3cmJqakRLdWVBSmI0enQ4VmZ5Nnp4UllYREQ0cGFLTGFZS3ZtTENva1VJVjdqM3d2dzFCYRIEGgIIABroAxICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMIDCAAQABgAIAAqIAoEdGF0YRUJychAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiwKBHNvbnMVhjSUQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMVoCr6PhoFdHJ1c3QaC2l2O3A7dHJ1c3RzMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVk0zZU9FR0V6Q1dmNkMzNzB1TUEtTm1BbjlqNHNpRnZ5X1hOWlo1SXZTSmpjWnFNZXprSi1iTWhkYzUzcGQ2dTNKV1V3cmJqakRLdWVBSmI0enQ4VmZ5Nnp4UllYREQ0cGFLTGFZS3ZtTENva1VJVjdqM3d2dzFCYToQPGI-VGF0YSBTb25zPC9iPkKhATY2JSBvZiB0aGUgZXF1aXR5IHNoYXJlIGNhcGl0YWwgb2YgVGF0YSBTb25zIGlzIGhlbGQgYnkgPGI-cGhpbGFudGhyb3BpYyB0cnVzdHM8L2I-LCB3aGljaCBzdXBwb3J0IGVkdWNhdGlvbiwgaGVhbHRoLCBsaXZlbGlob29kIGdlbmVyYXRpb24sIGFuZCBhcnQgYW5kIGN1bHR1cmUuIgIQAUgAWABoAA",
+      "source": "The Tata group. Leadership with Trust.",
+      "read_more_link": "https://www.tata.com/business/tata-sons#:~:text=66%25%20of%20the%20equity%20share,generation%2C%20and%20art%20and%20culture."
+    },
+    {
+      "position": 2,
+      "title": "Tata Trusts: Transforming Lives Through Philanthropy",
+      "link": "https://www.tatatrusts.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVnY9qRYk4tKXtIwgHheqdkh7qp7gN6YAZKrDeG9WhWuGud5-00vyzd1qM4DVQPr1UL9tzM0c_LSKpzx_pXYsxBJpT9pb4_zq0z7AwSir9&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.tatatrusts.org",
+      "date": "Sep 10, 2019",
+      "snippet": "Tata Trusts drives sustainable social impact across India through initiatives in healthcare, education, livelihoods, inclusion, environment and more.",
+      "snippet_highlighted_words": [
+        "Tata Trusts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Trusts drives sustainable social impact across India through initiatives in healthcare, education, livelihoods, inclusion, environment and more.",
+          "source_info_link": "https://www.tatatrusts.org/",
+          "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAAAwBQCdASocABwAPtEutFooIagoGAEAGglsALEega-2A-xTtqw7bySlHbZHPBd7TFY5AAD-g2n1dhEBwMFOp6EAd-LUWh2jTRKS9ffvp5dfgVcBz_pQp2tHjNcm5EDZv6G0Vx74-wxn4f_NpYzsAKQ36PzlVvN9GFHMYfsSvMjbn9mfvZK92D7ky4PCoazR8PsTw8Z8uk_bKO92VNHCHPudH_KuvX_DdYQGr0OuDEASfj9OMAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWblk5cVJZazR0S1h0SXdnSGhlcWRraDdxcDdnTjZZQVpLckRlRzlXaFd1R3VkNS0wMHZ5emQxcU00RFZRUHIxVUw5dHpNMGNfTFNLcHp4X3BYWXN4QkpwVDlwYjRfenEwejdBd1NpcjkSBBoCCAAa_QMSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDXAwgAEAAYACAAKiAKBHRhdGEVqPDGQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFQAAAAAaBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFW8Qq0AaBXRydXN0GgtpdjtwO3RydXN0czJ-L2dvdG8_dXJsPUNBRVNVd0hyT3pBVm5ZOXFSWWs0dEtYdEl3Z0hoZXFka2g3cXA3Z042WUFaS3JEZUc5V2hXdUd1ZDUtMDB2eXpkMXFNNERWUVByMVVMOXR6TTBjX0xTS3B6eF9wWFlzeEJKcFQ5cGI0X3pxMHo3QXdTaXI5Ojs8Yj5UYXRhIFRydXN0czwvYj46IFRyYW5zZm9ybWluZyBMaXZlcyBUaHJvdWdoIFBoaWxhbnRocm9weUKcATxiPlRhdGEgVHJ1c3RzPC9iPiBkcml2ZXMgc3VzdGFpbmFibGUgc29jaWFsIGltcGFjdCBhY3Jvc3MgSW5kaWEgdGhyb3VnaCBpbml0aWF0aXZlcyBpbiBoZWFsdGhjYXJlLCBlZHVjYXRpb24sIGxpdmVsaWhvb2RzLCBpbmNsdXNpb24sIGVudmlyb25tZW50IGFuZCBtb3JlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWblk5cVJZazR0S1h0SXdnSGhlcWRraDdxcDdnTjZZQVpLckRlRzlXaFd1R3VkNS0wMHZ5emQxcU00RFZRUHIxVUw5dHpNMGNfTFNLcHp4X3BYWXN4QkpwVDlwYjRfenEwejdBd1NpcjkSBBoCCAAa_QMSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDXAwgAEAAYACAAKiAKBHRhdGEVqPDGQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFQAAAAAaBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFW8Qq0AaBXRydXN0GgtpdjtwO3RydXN0czJ-L2dvdG8_dXJsPUNBRVNVd0hyT3pBVm5ZOXFSWWs0dEtYdEl3Z0hoZXFka2g3cXA3Z042WUFaS3JEZUc5V2hXdUd1ZDUtMDB2eXpkMXFNNERWUVByMVVMOXR6TTBjX0xTS3B6eF9wWFlzeEJKcFQ5cGI0X3pxMHo3QXdTaXI5Ojs8Yj5UYXRhIFRydXN0czwvYj46IFRyYW5zZm9ybWluZyBMaXZlcyBUaHJvdWdoIFBoaWxhbnRocm9weUKcATxiPlRhdGEgVHJ1c3RzPC9iPiBkcml2ZXMgc3VzdGFpbmFibGUgc29jaWFsIGltcGFjdCBhY3Jvc3MgSW5kaWEgdGhyb3VnaCBpbml0aWF0aXZlcyBpbiBoZWFsdGhjYXJlLCBlZHVjYXRpb24sIGxpdmVsaWhvb2RzLCBpbmNsdXNpb24sIGVudmlyb25tZW50IGFuZCBtb3JlLiICEAFIAFgAaAA",
+      "source": "Tata Trusts"
+    },
+    {
+      "position": 3,
+      "title": "List of entities associated with Tata Group",
+      "link": "https://en.wikipedia.org/wiki/List_of_entities_associated_with_Tata_Group",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFej1Si6mmAhvI32spjrqPKJ_RSwQmUbfMATlsmoY_xGWyRON1XTf48WbVVRxKVrr2BvqoM0F28swczJCOIoJOkSGlE4wSX5m9byiFYUyuitqKjbB9UhoyXbhyKtu_WUfFJ2dy_kv1UEkFmnO1LycD619coqaRJhFYtzjEp4&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › List_of_entities_associ...",
+      "date": "May 4, 2006",
+      "snippet": "About 66% of the equity capital of Tata Sons is held by philanthropic trusts endowed. The biggest two of these trusts are the Sir Dorabji Tata Trust and Sir ...",
+      "snippet_highlighted_words": [
+        "philanthropic trusts endowed"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "About 66% of the equity capital of Tata Sons is held by philanthropic trusts endowed. The biggest two of these trusts are the Sir Dorabji Tata Trust and Sir ...",
+          "source_info_link": "https://en.wikipedia.org/wiki/List_of_entities_associated_with_Tata_Group",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZlajFTaTZtbUFodkkzMnNwanJxUEtKX1JTd1FtVWJmTUFUbHNtb1lfeEdXeVJPTjFYVGY0OFdiVlZSeEtWcnIyQnZxb00wRjI4c3djekpDT0lvSk9rU0dsRTR3U1g1bTlieWlGWVV5dWl0cUtqYkI5VWhveVhiaHlLdHVfV1VmRkoyZHlfa3YxVUVrRm1uTzFMeWNENjE5Y29xYVJKaEZZdHpqRXA0EgQaAggAGtAEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqgQIABAAGAAgACogCgR0YXRhFVY6tkAaCHRhdGFzb25zGglpdjtwO3RhdGEqLAoEc29ucxV99cA_GgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxU0gmw_GgV0cnVzdBoLaXY7cDt0cnVzdHMyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RmVqMVNpNm1tQWh2STMyc3BqcnFQS0pfUlN3UW1VYmZNQVRsc21vWV94R1d5Uk9OMVhUZjQ4V2JWVlJ4S1ZycjJCdnFvTTBGMjhzd2N6SkNPSW9KT2tTR2xFNHdTWDVtOWJ5aUZZVXl1aXRxS2piQjlVaG95WGJoeUt0dV9XVWZGSjJkeV9rdjFVRWtGbW5PMUx5Y0Q2MTljb3FhUkpoRll0empFcDQ6Pkxpc3Qgb2YgZW50aXRpZXMgYXNzb2NpYXRlZCB3aXRoIDxiPlRhdGEgR3JvdXA8L2I-IC0gV2lraXBlZGlhQqwBQWJvdXQgNjYlIG9mIHRoZSBlcXVpdHkgY2FwaXRhbCBvZiBUYXRhIFNvbnMgaXMgaGVsZCBieSA8Yj5waGlsYW50aHJvcGljIHRydXN0cyBlbmRvd2VkPC9iPi4gVGhlIGJpZ2dlc3QgdHdvIG9mIHRoZXNlIHRydXN0cyBhcmUgdGhlIFNpciBEb3JhYmppIFRhdGEgVHJ1c3QgYW5kIFNpciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZlajFTaTZtbUFodkkzMnNwanJxUEtKX1JTd1FtVWJmTUFUbHNtb1lfeEdXeVJPTjFYVGY0OFdiVlZSeEtWcnIyQnZxb00wRjI4c3djekpDT0lvSk9rU0dsRTR3U1g1bTlieWlGWVV5dWl0cUtqYkI5VWhveVhiaHlLdHVfV1VmRkoyZHlfa3YxVUVrRm1uTzFMeWNENjE5Y29xYVJKaEZZdHpqRXA0EgQaAggAGtAEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqgQIABAAGAAgACogCgR0YXRhFVY6tkAaCHRhdGFzb25zGglpdjtwO3RhdGEqLAoEc29ucxV99cA_GgVncm91cBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxU0gmw_GgV0cnVzdBoLaXY7cDt0cnVzdHMyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RmVqMVNpNm1tQWh2STMyc3BqcnFQS0pfUlN3UW1VYmZNQVRsc21vWV94R1d5Uk9OMVhUZjQ4V2JWVlJ4S1ZycjJCdnFvTTBGMjhzd2N6SkNPSW9KT2tTR2xFNHdTWDVtOWJ5aUZZVXl1aXRxS2piQjlVaG95WGJoeUt0dV9XVWZGSjJkeV9rdjFVRWtGbW5PMUx5Y0Q2MTljb3FhUkpoRll0empFcDQ6Pkxpc3Qgb2YgZW50aXRpZXMgYXNzb2NpYXRlZCB3aXRoIDxiPlRhdGEgR3JvdXA8L2I-IC0gV2lraXBlZGlhQqwBQWJvdXQgNjYlIG9mIHRoZSBlcXVpdHkgY2FwaXRhbCBvZiBUYXRhIFNvbnMgaXMgaGVsZCBieSA8Yj5waGlsYW50aHJvcGljIHRydXN0cyBlbmRvd2VkPC9iPi4gVGhlIGJpZ2dlc3QgdHdvIG9mIHRoZXNlIHRydXN0cyBhcmUgdGhlIFNpciBEb3JhYmppIFRhdGEgVHJ1c3QgYW5kIFNpciZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Trust Ownership of the Tata Group",
+      "link": "https://research.cbs.dk/en/publications/trust-ownership-of-the-tata-group/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFcBmmv-Iwbxokd3WvVXqp7na-zbo4ZfrFrF9ZCuENSKNHsznwws4PYqLkK4sNEd6ZXR6oM71InFFQFBcPNpg7zgri-bXOfiPSxQ5cJratTNS5S7bSVG055d_ul3lmXIFV1LFJ44DkW9R-qrlEe3TFVa60KehYvzd31b53Km1&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://research.cbs.dk › publications › trust-ownership-of...",
+      "author": "by S Thomsen",
+      "snippet": "The Trusts own 66% of Tata Sons, the main holding company of the Group, while members of the founding Tata family are very small minority shareholders.",
+      "snippet_highlighted_words": [
+        "The Trusts own 66% of Tata Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Trusts own 66% of Tata Sons, the main holding company of the Group, while members of the founding Tata family are very small minority shareholders.",
+          "source_info_link": "https://research.cbs.dk/en/publications/trust-ownership-of-the-tata-group/",
+          "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAAAwBwCdASogACAAPtEutFooIagoGAEAGglsALEehHZ_kHLcUZnYDWBi-meGtPW91bRGNHEfhxmA0crR1hAzjI8a-wAA_nG-G9hAzfgDhuM27qCrvcTBTcRq1LJpQ5BrcofRmBH5RaR3-kTTftyw2W7Pyk2UpcnttWCLxIt6mAD-JT7kY22z5Nu_2FmmlQHDM_nj7_V_6vkrteede_r3sZwVz_9sOXPuKYed-yYPxM1gAWIPUsvEsA6EujyBV2gwJqZklqUCi9A5gDiBBNQMbZ7Tn-uxbm-cRlFEF49nzA3kBQUYz05m5RFWc2D_1GumXyXr_ecX2s9_mKRTMAFd-T03gf_MyG254WyIl9FiWRAvOKNxV4xezGEq88aGLob3yM2spl9Sj5FcwPpFw6G2YJ9aIDOr5B5bJFWDlqnAnmUQOMWKVJ9OGbBK2_E02aZowAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZjQm1tdi1Jd2J4b2tkM1d2VlhxcDduYS16Ym80WmZyRnJGOVpDdUVOU0tOSHN6bnd3czRQWXFMa0s0c05FZDZaWFI2b003MUluRkZRRkJjUE5wZzd6Z3JpLWJYT2ZpUFN4UTVjSnJhdFROUzVTN2JTVkcwNTVkX3VsM2xtWElGVjFMRko0NERrVzlSLXFybEVlM1RGVmE2MEtlaFl2emQzMWI1M0ttMRIEGgIIABrKBBICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKQECAAQABgAIAAqIAoEdGF0YRX1XMNAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiwKBHNvbnMVc74aQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMVpgUpQBoFdHJ1c3QaC2l2O3A7dHJ1c3RzMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZjQm1tdi1Jd2J4b2tkM1d2VlhxcDduYS16Ym80WmZyRnJGOVpDdUVOU0tOSHN6bnd3czRQWXFMa0s0c05FZDZaWFI2b003MUluRkZRRkJjUE5wZzd6Z3JpLWJYT2ZpUFN4UTVjSnJhdFROUzVTN2JTVkcwNTVkX3VsM2xtWElGVjFMRko0NERrVzlSLXFybEVlM1RGVmE2MEtlaFl2emQzMWI1M0ttMTpFPGI-VHJ1c3Q8L2I-IE93bmVyc2hpcCBvZiB0aGUgPGI-VGF0YSBHcm91cDwvYj4gLSBDQlMgUmVzZWFyY2ggUG9ydGFsQp4BPGI-VGhlIFRydXN0cyBvd24gNjYlIG9mIFRhdGEgU29uczwvYj4sIHRoZSBtYWluIGhvbGRpbmcgY29tcGFueSBvZiB0aGUgR3JvdXAsIHdoaWxlIG1lbWJlcnMgb2YgdGhlIGZvdW5kaW5nIFRhdGEgZmFtaWx5IGFyZSB2ZXJ5IHNtYWxsIG1pbm9yaXR5IHNoYXJlaG9sZGVycy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZjQm1tdi1Jd2J4b2tkM1d2VlhxcDduYS16Ym80WmZyRnJGOVpDdUVOU0tOSHN6bnd3czRQWXFMa0s0c05FZDZaWFI2b003MUluRkZRRkJjUE5wZzd6Z3JpLWJYT2ZpUFN4UTVjSnJhdFROUzVTN2JTVkcwNTVkX3VsM2xtWElGVjFMRko0NERrVzlSLXFybEVlM1RGVmE2MEtlaFl2emQzMWI1M0ttMRIEGgIIABrKBBICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKQECAAQABgAIAAqIAoEdGF0YRX1XMNAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiwKBHNvbnMVc74aQBoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMVpgUpQBoFdHJ1c3QaC2l2O3A7dHJ1c3RzMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZjQm1tdi1Jd2J4b2tkM1d2VlhxcDduYS16Ym80WmZyRnJGOVpDdUVOU0tOSHN6bnd3czRQWXFMa0s0c05FZDZaWFI2b003MUluRkZRRkJjUE5wZzd6Z3JpLWJYT2ZpUFN4UTVjSnJhdFROUzVTN2JTVkcwNTVkX3VsM2xtWElGVjFMRko0NERrVzlSLXFybEVlM1RGVmE2MEtlaFl2emQzMWI1M0ttMTpFPGI-VHJ1c3Q8L2I-IE93bmVyc2hpcCBvZiB0aGUgPGI-VGF0YSBHcm91cDwvYj4gLSBDQlMgUmVzZWFyY2ggUG9ydGFsQp4BPGI-VGhlIFRydXN0cyBvd24gNjYlIG9mIFRhdGEgU29uczwvYj4sIHRoZSBtYWluIGhvbGRpbmcgY29tcGFueSBvZiB0aGUgR3JvdXAsIHdoaWxlIG1lbWJlcnMgb2YgdGhlIGZvdW5kaW5nIFRhdGEgZmFtaWx5IGFyZSB2ZXJ5IHNtYWxsIG1pbm9yaXR5IHNoYXJlaG9sZGVycy4iAhABSABYAGgA",
+      "source": "CBS Research Portal"
+    },
+    {
+      "position": 5,
+      "title": "Tata Trusts",
+      "link": "https://www.weforum.org/organizations/tata-trusts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVMR7HF4hhMCPQrhPRc_hCUXMdvErTA8r4txMJzyIvtt6ONxDuVqAlnY6EHD92ZZwgtG0dJUnLLEYIlRU6tJf9UhHA6K0fToOtToYoz--nVeThdfAih_Cnvr3vyR9LolbcD8MBmn0&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.weforum.org › organizations › tata-trusts",
+      "date": "Jul 24, 2024",
+      "snippet": "Tata Sons is the investment holding company of the Tata group. Total revenue was $107 billion in 2014-15, employ over 600,000 people worldwide.",
+      "snippet_highlighted_words": [
+        "Tata Sons is the investment holding company of the Tata group"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Sons is the investment holding company of the Tata group. Total revenue was $107 billion in 2014-15, employ over 600,000 people worldwide.",
+          "source_info_link": "https://www.weforum.org/organizations/tata-trusts/",
+          "icon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAADQBACdASocABwAPtE-tFooIigoFAEAGglpAAPiuQr9qrGeSGJEUTKXDGKpdTJAAAD-9gFndBn1Y_x1Lx8-D_5S5QRTInROtHsawjWhwoXK7Jyb_uXgcJ4zmcXm8afiLb4qKNYO3XNOhhdkqAi0kbuMX_RLEPb_YVkFxuWBDtVGSSU5cPoc4nkrffhayx4tqQK-YKOibSZeBah7oi-4PW65VHpNzDW_rGkRe207unAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVk1SN0hGNGhoTUNQUXJoUFJjX2hDVVhNZHZFclRBOHI0dHhNSnp5SXZ0dDZPTnhEdVZxQWxuWTZFSEQ5Mlpad2d0RzBkSlVuTExFWUlsUlU2dEpmOVVoSEE2SzBmVG9PdFRvWW96LS1uVmVUaGRmQWloX0NudnIzdnlSOUxvbGJjRDhNQm1uMBIEGgIIABqHBBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDjAwgAEAAYACAAKiAKBHRhdGEVFZ-iQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFZJ_bT8aBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFSz7hUAaBXRydXN0GgtpdjtwO3RydXN0czKdAS9nb3RvP3VybD1DQUVTYWdIck96QVZNUjdIRjRoaE1DUFFyaFBSY19oQ1VYTWR2RXJUQThyNHR4TUp6eUl2dHQ2T054RHVWcUFsblk2RUhEOTJaWndndEcwZEpVbkxMRVlJbFJVNnRKZjlVaEhBNkswZlRvT3RUb1lvei0tblZlVGhkZkFpaF9DbnZyM3Z5UjlMb2xiY0Q4TUJtbjA6LTxiPlRhdGEgVHJ1c3RzPC9iPiAtIFRoZSBXb3JsZCBFY29ub21pYyBGb3J1bUKWATxiPlRhdGEgU29ucyBpcyB0aGUgaW52ZXN0bWVudCBob2xkaW5nIGNvbXBhbnkgb2YgdGhlIFRhdGEgZ3JvdXA8L2I-LiBUb3RhbCByZXZlbnVlIHdhcyAkMTA3IGJpbGxpb24gaW4gMjAxNC0xNSwgZW1wbG95IG92ZXIgNjAwLDAwMCBwZW9wbGUgd29ybGR3aWRlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVk1SN0hGNGhoTUNQUXJoUFJjX2hDVVhNZHZFclRBOHI0dHhNSnp5SXZ0dDZPTnhEdVZxQWxuWTZFSEQ5Mlpad2d0RzBkSlVuTExFWUlsUlU2dEpmOVVoSEE2SzBmVG9PdFRvWW96LS1uVmVUaGRmQWloX0NudnIzdnlSOUxvbGJjRDhNQm1uMBIEGgIIABqHBBIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDjAwgAEAAYACAAKiAKBHRhdGEVFZ-iQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFZJ_bT8aBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFSz7hUAaBXRydXN0GgtpdjtwO3RydXN0czKdAS9nb3RvP3VybD1DQUVTYWdIck96QVZNUjdIRjRoaE1DUFFyaFBSY19oQ1VYTWR2RXJUQThyNHR4TUp6eUl2dHQ2T054RHVWcUFsblk2RUhEOTJaWndndEcwZEpVbkxMRVlJbFJVNnRKZjlVaEhBNkswZlRvT3RUb1lvei0tblZlVGhkZkFpaF9DbnZyM3Z5UjlMb2xiY0Q4TUJtbjA6LTxiPlRhdGEgVHJ1c3RzPC9iPiAtIFRoZSBXb3JsZCBFY29ub21pYyBGb3J1bUKWATxiPlRhdGEgU29ucyBpcyB0aGUgaW52ZXN0bWVudCBob2xkaW5nIGNvbXBhbnkgb2YgdGhlIFRhdGEgZ3JvdXA8L2I-LiBUb3RhbCByZXZlbnVlIHdhcyAkMTA3IGJpbGxpb24gaW4gMjAxNC0xNSwgZW1wbG95IG92ZXIgNjAwLDAwMCBwZW9wbGUgd29ybGR3aWRlLiICEAFIAFgAaAA",
+      "source": "The World Economic Forum"
+    },
+    {
+      "position": 6,
+      "title": "Trustee of India's Tata charity arm calls internal ...",
+      "link": "https://www.reuters.com/sustainability/society-equity/trustee-indias-tata-charity-arm-calls-internal-disagreements-unprecedented-2025-10-10/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFfyUjHwOuHNpQOKrhfGTssxuayeNQ44Kwkqo7RZayhuxXQ33eUnLC2hGzGqzjB99UZ0CTw2y2Vy0E4rKM1pPT4s_1aXTdYJgZlYvOumxLXqwC5oXhCieA0CEUWVPOyfmk5aXJ7-gH7c7egTtW8pmyutAnHuRlwEp-TZcyA9J6HkONwQYiNXR4FOXBl8QKrev-INm0PhmLW_QlX9myl1acJgg6tirvJPjHFeJBrG1vXP6uG7HzSSSgAiOUlvxv2d2Pw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://www.reuters.com › sustainability › society-equity",
+      "date": "Oct 10, 2025",
+      "snippet": "Tata Trusts has a stake of 66% stake in Tata Sons, which in turn, oversees 30 firms in areas ranging from consumer goods to airlines,",
+      "snippet_highlighted_words": [
+        "Tata Trusts has a stake of 66% stake in Tata Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Trusts has a stake of 66% stake in Tata Sons, which in turn, oversees 30 firms in areas ranging from consumer goods to airlines,",
+          "source_info_link": "https://www.reuters.com/sustainability/society-equity/trustee-indias-tata-charity-arm-calls-internal-disagreements-unprecedented-2025-10-10/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcBAMAAABi_9neAAAAMFBMVEVHcEzWQADWQADWQADWQADWQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQAAMYMgbAAAAEHRSTlMAcv8VN8ac8yFO6Aey2oVbn-X8aAAAAOtJREFUeAE1ziFMAgEAQNEHAJ4Dxg2LNrzhmEwRbbabwWJhBEa82QNj2hnRZNbi3OxnMEhiBHuxOoJ9FIMmrxD_fnmARliIAQxNxrN9gGLk4b5xAGAP89bbCAwBy2NwCxh0AObhJXc3gMdZvwHflFty7YAgUYp6aidZIljZimKVmCug-AU-QW4Fp7RBte-1Z7KQAizHnhNAYer6yTsvIN-0ncIvKC-geggEIbtctBkh31XvcHbETsV5pgu6BGvkV4N4CtSjWG76gxQZvA_UmlCLkhTkEqh81KPeJqAUhY0w3wLI7mS8uUj9rYF_OuYuZknO4GoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZmeVVqSHdPdUhOcFFPS3JoZkdUc3N4dWF5ZU5RNDRLd2txbzdSWmF5aHV4WFEzM2VVbkxDMmhHekdxempCOTlVWjBDVHcyeTJWeTBFNHJLTTFwUFQ0c18xYVhUZFlKZ1psWXZPdW14TFhxd0M1b1hoQ2llQTBDRVVXVlBPeWZtazVhWEo3LWdIN2M3ZWdUdFc4cG15dXRBbkh1Umx3RXAtVFpjeUE5SjZIa09Od1FZaU5YUjRGT1hCbDhRS3Jldi1JTm0wUGhtTFdfUWxYOW15bDFhY0pnZzZ0aXJ2SlBqSEZlSkJyRzF2WFA2dUc3SHpTU1NnQWlPVWx2eHYyZDJQdxIEGgIIABqcBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPYECAAQABgAIAAqIAoEdGF0YRVhhqhAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiwKBHNvbnMVqMbePxoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMV4cqZPxoFdHJ1c3QaC2l2O3A7dHJ1c3RzMpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZmeVVqSHdPdUhOcFFPS3JoZkdUc3N4dWF5ZU5RNDRLd2txbzdSWmF5aHV4WFEzM2VVbkxDMmhHekdxempCOTlVWjBDVHcyeTJWeTBFNHJLTTFwUFQ0c18xYVhUZFlKZ1psWXZPdW14TFhxd0M1b1hoQ2llQTBDRVVXVlBPeWZtazVhWEo3LWdIN2M3ZWdUdFc4cG15dXRBbkh1Umx3RXAtVFpjeUE5SjZIa09Od1FZaU5YUjRGT1hCbDhRS3Jldi1JTm0wUGhtTFdfUWxYOW15bDFhY0pnZzZ0aXJ2SlBqSEZlSkJyRzF2WFA2dUc3SHpTU1NnQWlPVWx2eHYyZDJQdzpPVHJ1c3RlZSBvZiBJbmRpYSYjMzk7cyA8Yj5UYXRhPC9iPiBjaGFyaXR5IGFybSBjYWxscyBpbnRlcm5hbCBkaXNhZ3JlZW1lbnRzIC4uLkKMATxiPlRhdGEgVHJ1c3RzIGhhcyBhIHN0YWtlIG9mIDY2JSBzdGFrZSBpbiBUYXRhIFNvbnM8L2I-LCB3aGljaCBpbiB0dXJuLCBvdmVyc2VlcyAzMCBmaXJtcyBpbiBhcmVhcyByYW5naW5nIGZyb20gY29uc3VtZXIgZ29vZHMgdG8gYWlybGluZXMsIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZmeVVqSHdPdUhOcFFPS3JoZkdUc3N4dWF5ZU5RNDRLd2txbzdSWmF5aHV4WFEzM2VVbkxDMmhHekdxempCOTlVWjBDVHcyeTJWeTBFNHJLTTFwUFQ0c18xYVhUZFlKZ1psWXZPdW14TFhxd0M1b1hoQ2llQTBDRVVXVlBPeWZtazVhWEo3LWdIN2M3ZWdUdFc4cG15dXRBbkh1Umx3RXAtVFpjeUE5SjZIa09Od1FZaU5YUjRGT1hCbDhRS3Jldi1JTm0wUGhtTFdfUWxYOW15bDFhY0pnZzZ0aXJ2SlBqSEZlSkJyRzF2WFA2dUc3SHpTU1NnQWlPVWx2eHYyZDJQdxIEGgIIABqcBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPYECAAQABgAIAAqIAoEdGF0YRVhhqhAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiwKBHNvbnMVqMbePxoFZ3JvdXAaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMV4cqZPxoFdHJ1c3QaC2l2O3A7dHJ1c3RzMpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZmeVVqSHdPdUhOcFFPS3JoZkdUc3N4dWF5ZU5RNDRLd2txbzdSWmF5aHV4WFEzM2VVbkxDMmhHekdxempCOTlVWjBDVHcyeTJWeTBFNHJLTTFwUFQ0c18xYVhUZFlKZ1psWXZPdW14TFhxd0M1b1hoQ2llQTBDRVVXVlBPeWZtazVhWEo3LWdIN2M3ZWdUdFc4cG15dXRBbkh1Umx3RXAtVFpjeUE5SjZIa09Od1FZaU5YUjRGT1hCbDhRS3Jldi1JTm0wUGhtTFdfUWxYOW15bDFhY0pnZzZ0aXJ2SlBqSEZlSkJyRzF2WFA2dUc3SHpTU1NnQWlPVWx2eHYyZDJQdzpPVHJ1c3RlZSBvZiBJbmRpYSYjMzk7cyA8Yj5UYXRhPC9iPiBjaGFyaXR5IGFybSBjYWxscyBpbnRlcm5hbCBkaXNhZ3JlZW1lbnRzIC4uLkKMATxiPlRhdGEgVHJ1c3RzIGhhcyBhIHN0YWtlIG9mIDY2JSBzdGFrZSBpbiBUYXRhIFNvbnM8L2I-LCB3aGljaCBpbiB0dXJuLCBvdmVyc2VlcyAzMCBmaXJtcyBpbiBhcmVhcyByYW5naW5nIGZyb20gY29uc3VtZXIgZ29vZHMgdG8gYWlybGluZXMsIgIQAUgAWABoAA",
+      "source": "Reuters"
+    },
+    {
+      "position": 7,
+      "title": "Tata Group - the divided empire facing boardroom drama",
+      "link": "https://www.bbc.com/news/articles/c4gwejdzgzwo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVR_qHmcu0IsGdRBZRmXOjBSM8kh4ycH4clWhih9GkUumv2qH1YA60TPtNLT5UdZ-m4lclndfSbfqL1lqasM3uypAaPTcH_MZAbG_xzcttobOULM6d5O-dkLlXML0s_pUQ0g&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://www.bbc.com › news › articles",
+      "date": "Oct 29, 2025",
+      "snippet": "Tata Trusts which owns 66% of the parent company, Tata Sons) can wield in making business decisions. of 29 publicly listed Tata firms a market capitalisation ...",
+      "snippet_highlighted_words": [
+        "Tata Trusts which owns 66% of the parent company, Tata Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Trusts which owns 66% of the parent company, Tata Sons) can wield in making business decisions. of 29 publicly listed Tata firms a market capitalisation ...",
+          "source_info_link": "https://www.bbc.com/news/articles/c4gwejdzgzwo",
+          "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlJfcUhtY3UwSXNHZFJCWlJtWE9qQlNNOGtoNHljSDRjbFdoaWg5R2tVdW12MnFIMVlBNjBUUHROTFQ1VWRaLW00bGNsbmRmU2JmcUwxbHFhc00zdXlwQWFQVGNIX01aQWJHX3h6Y3R0b2JPVUxNNmQ1Ty1ka0xsWE1MMHNfcFVRMGcSBBoCCAAasQQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCLBAgAEAAYACAAKiAKBHRhdGEVrCioQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFUdpAEAaBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFTQpqj8aBXRydXN0GgtpdjtwO3RydXN0czKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZSX3FIbWN1MElzR2RSQlpSbVhPakJTTThraDR5Y0g0Y2xXaGloOUdrVXVtdjJxSDFZQTYwVFB0TkxUNVVkWi1tNGxjbG5kZlNiZnFMMWxxYXNNM3V5cEFhUFRjSF9NWkFiR194emN0dG9iT1VMTTZkNU8tZGtMbFhNTDBzX3BVUTBnOkM8Yj5UYXRhIEdyb3VwPC9iPiAtIHRoZSBkaXZpZGVkIGVtcGlyZSBmYWNpbmcgYm9hcmRyb29tIGRyYW1hIC0gQkJDQq0BPGI-VGF0YSBUcnVzdHMgd2hpY2ggb3ducyA2NiUgb2YgdGhlIHBhcmVudCBjb21wYW55LCBUYXRhIFNvbnM8L2I-KSBjYW4gd2llbGQgaW4gbWFraW5nIGJ1c2luZXNzIGRlY2lzaW9ucy4gb2YgMjkgcHVibGljbHkgbGlzdGVkIFRhdGEgZmlybXMgYSBtYXJrZXQgY2FwaXRhbGlzYXRpb24mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlJfcUhtY3UwSXNHZFJCWlJtWE9qQlNNOGtoNHljSDRjbFdoaWg5R2tVdW12MnFIMVlBNjBUUHROTFQ1VWRaLW00bGNsbmRmU2JmcUwxbHFhc00zdXlwQWFQVGNIX01aQWJHX3h6Y3R0b2JPVUxNNmQ1Ty1ka0xsWE1MMHNfcFVRMGcSBBoCCAAasQQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCLBAgAEAAYACAAKiAKBHRhdGEVrCioQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFUdpAEAaBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFTQpqj8aBXRydXN0GgtpdjtwO3RydXN0czKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZSX3FIbWN1MElzR2RSQlpSbVhPakJTTThraDR5Y0g0Y2xXaGloOUdrVXVtdjJxSDFZQTYwVFB0TkxUNVVkWi1tNGxjbG5kZlNiZnFMMWxxYXNNM3V5cEFhUFRjSF9NWkFiR194emN0dG9iT1VMTTZkNU8tZGtMbFhNTDBzX3BVUTBnOkM8Yj5UYXRhIEdyb3VwPC9iPiAtIHRoZSBkaXZpZGVkIGVtcGlyZSBmYWNpbmcgYm9hcmRyb29tIGRyYW1hIC0gQkJDQq0BPGI-VGF0YSBUcnVzdHMgd2hpY2ggb3ducyA2NiUgb2YgdGhlIHBhcmVudCBjb21wYW55LCBUYXRhIFNvbnM8L2I-KSBjYW4gd2llbGQgaW4gbWFraW5nIGJ1c2luZXNzIGRlY2lzaW9ucy4gb2YgMjkgcHVibGljbHkgbGlzdGVkIFRhdGEgZmlybXMgYSBtYXJrZXQgY2FwaXRhbGlzYXRpb24mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "BBC"
+    },
+    {
+      "position": 8,
+      "title": "There is a conflict brewing in the Tata Group Leadership... What ...",
+      "link": "https://www.instagram.com/reel/DPvo9rcDzOm/?hl=en",
+      "displayed_link": "16K+ likes · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab36f6c8ffd7b13d753d296/images/kh70RqOQaxNHZcWdzFpCVcdm8WQJsoOCjbWMA5-VKL8.jpeg",
+      "snippet": "Tata Trust owns 66% of Tata Sons, Shapoorji Pallonji group owns another 18%... and then there are some smaller shareholders... The Tata Trust has a Board of ...",
+      "duration": "2:02",
+      "about_this_result": {
+        "source": {
+          "description": "Tata Trust owns 66% of Tata Sons, Shapoorji Pallonji group owns another 18%... and then there are some smaller shareholders... The Tata Trust has a Board of ...",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjlTdWEwb3liUFVzUWh4UThfNFh6ekVOQ0FMQnBiZjY3SllxYWxZVmpuRnl0VzNGSTkweFhhRW80WHpYeWNISEFlVFJvdXVZYTRlQjMwVVlzLUJqaW82cF9Ma2xaTG9sckRUb1d3Wlh6QjhRS1VSSU1KV1otM1ZhX2VzanNBWU5BdGlKU1V3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVjlTdWEwb3liUFVzUWh4UThfNFh6ekVOQ0FMQnBiZjY3SllxYWxZVmpuRnl0VzNGSTkweFhhRW80WHpYeWNISEFlVFJvdXVZYTRlQjMwVVlzLUJqaW82cF9Ma2xaTG9sckRUb1d3Wlh6QjhRS1VSSU1KV1otM1ZhX2VzanNBWU5BdGlKU1V3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Instagram · casarthakahuja"
+    },
+    {
+      "position": 9,
+      "title": "Tata Trusts Infighting Over Board Seats. ...",
+      "link": "https://www.ndtv.com/india-news/tata-trust-news-tata-trusts-infighting-tata-trusts-chairman-noel-tata-mehli-mistry-trustee-tata-trusts-power-struggle-9416419",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1gEB6zswFSGvtViuM5EXtf1OyIrcupVcuH8dJqR42YZCkVK4gsJqkb0DrK6OlCIDXV_qCDRrJPkd_izS44SmzWjqtbd2ewvK4shOv65ZtC1IyWbPtur0AIGCa-JSES3prRzHltDNpnE02e0EVgw5XYPZ8wq9hROx4HSmBQfezym_oVwxOYspePNNZLzIVwhrlkyupn2rQ85yumpzHBU5w87k2RwLn-dWX0p2fOPTkpfOdWYRFgWGTwo9M8Z-2TbXNeb3oXe5u2YdQl3_JHfEGVfY2twNe8R0&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQFnoECDoQAQ&uoh=1",
+      "displayed_link": "https://www.ndtv.com › india-news › tata-trust-news-tat...",
+      "date": "Oct 8, 2025",
+      "snippet": "Tata Trusts owns around 66 per cent of Tata Sons, which is the Tata Group's investments holding company. Tata Trusts Infighting Over Board Seats.",
+      "snippet_highlighted_words": [
+        "Tata Trusts owns around 66 per cent of Tata Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Trusts owns around 66 per cent of Tata Sons, which is the Tata Group's investments holding company. Tata Trusts Infighting Over Board Seats.",
+          "source_info_link": "https://www.ndtv.com/india-news/tata-trust-news-tata-trusts-infighting-tata-trusts-chairman-noel-tata-mehli-mistry-trustee-tata-trusts-power-struggle-9416419",
+          "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPrUurVanIacnG_DgFolsAKwvonqp-DREZEbzNa160cy3odLRXX6A2KAA_tiylXPEc6YXkqB1JqdbJ_0wt_luIZj3g6ya3_m_3_ZtVAb4lHQbesRN54jZ_QjvwVwf_6tD_VodrlOPhLwr_rr2AOfVSn0mqQ08VZiS9zfOJBvU5OJrc0lbLAl4yuEcMieU7vq3eGLWDIcL5UefFA0orIWj5oC58sZUkWqA47wg7fu4r0jPPKk5oAWxpM817ciBIroVQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZTR3Z0Vml1TTVFWHRmMU95SXJjdXBWY3VIOGRKcVI0MllaQ2tWSzRnc0pxa2IwRHJLNk9sQ0lEWFZfcUNEUnJKUGtkX2l6UzQ0U216V2pxdGJkMmV3dks0c2hPdjY1WnRDMUl5V2JQdHVyMEFJR0NhLUpTRVMzcHJSekhsdEROcG5FMDJlMEVWZ3c1WFlQWjh3cTloUk94NEhTbUJRZmV6eW1fb1Z3eE9Zc3BlUE5OWkx6SVZ3aHJsa3l1cG4yclE4NXl1bXB6SEJVNXc4N2syUndMbi1kV1gwcDJmT1BUa3BmT2RXWVJGZ1dHVHdvOU04Wi0yVGJYTmViM29YZTV1MllkUWwzX0pIZkVHVmZZMnR3TmU4UjASBBoCCAAauQUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCTBQgAEAAYACAAKiAKBHRhdGEVEJLNQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFecGJkAaBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFbbGpkAaBXRydXN0GgtpdjtwO3RydXN0czKuAi9nb3RvP3VybD1DQUVTMWdFQjZ6c3dGU0d2dFZpdU01RVh0ZjFPeUlyY3VwVmN1SDhkSnFSNDJZWkNrVks0Z3NKcWtiMERySzZPbENJRFhWX3FDRFJySlBrZF9pelM0NFNteldqcXRiZDJld3ZLNHNoT3Y2NVp0QzFJeVdiUHR1cjBBSUdDYS1KU0VTM3ByUnpIbHRETnBuRTAyZTBFVmd3NVhZUFo4d3E5aFJPeDRIU21CUWZlenltX29Wd3hPWXNwZVBOTlpMeklWd2hybGt5dXBuMnJRODV5dW1wekhCVTV3ODdrMlJ3TG4tZFdYMHAyZk9QVGtwZk9kV1lSRmdXR1R3bzlNOFotMlRiWE5lYjNvWGU1dTJZZFFsM19KSGZFR1ZmWTJ0d05lOFIwOkY8Yj5UYXRhIFRydXN0czwvYj4gSW5maWdodGluZyBPdmVyIEJvYXJkIFNlYXRzLiBORFRWIEV4cGxhaW5zIFdoYXQgLi4uQpwBPGI-VGF0YSBUcnVzdHMgb3ducyBhcm91bmQgNjYgcGVyIGNlbnQgb2YgVGF0YSBTb25zPC9iPiwgd2hpY2ggaXMgdGhlIFRhdGEgR3JvdXAmIzM5O3MgaW52ZXN0bWVudHMgaG9sZGluZyBjb21wYW55LiBUYXRhIFRydXN0cyBJbmZpZ2h0aW5nIE92ZXIgQm9hcmQgU2VhdHMuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCNnpzd0ZTR3Z0Vml1TTVFWHRmMU95SXJjdXBWY3VIOGRKcVI0MllaQ2tWSzRnc0pxa2IwRHJLNk9sQ0lEWFZfcUNEUnJKUGtkX2l6UzQ0U216V2pxdGJkMmV3dks0c2hPdjY1WnRDMUl5V2JQdHVyMEFJR0NhLUpTRVMzcHJSekhsdEROcG5FMDJlMEVWZ3c1WFlQWjh3cTloUk94NEhTbUJRZmV6eW1fb1Z3eE9Zc3BlUE5OWkx6SVZ3aHJsa3l1cG4yclE4NXl1bXB6SEJVNXc4N2syUndMbi1kV1gwcDJmT1BUa3BmT2RXWVJGZ1dHVHdvOU04Wi0yVGJYTmViM29YZTV1MllkUWwzX0pIZkVHVmZZMnR3TmU4UjASBBoCCAAauQUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCTBQgAEAAYACAAKiAKBHRhdGEVEJLNQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSosCgRzb25zFecGJkAaBWdyb3VwGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFbbGpkAaBXRydXN0GgtpdjtwO3RydXN0czKuAi9nb3RvP3VybD1DQUVTMWdFQjZ6c3dGU0d2dFZpdU01RVh0ZjFPeUlyY3VwVmN1SDhkSnFSNDJZWkNrVks0Z3NKcWtiMERySzZPbENJRFhWX3FDRFJySlBrZF9pelM0NFNteldqcXRiZDJld3ZLNHNoT3Y2NVp0QzFJeVdiUHR1cjBBSUdDYS1KU0VTM3ByUnpIbHRETnBuRTAyZTBFVmd3NVhZUFo4d3E5aFJPeDRIU21CUWZlenltX29Wd3hPWXNwZVBOTlpMeklWd2hybGt5dXBuMnJRODV5dW1wekhCVTV3ODdrMlJ3TG4tZFdYMHAyZk9QVGtwZk9kV1lSRmdXR1R3bzlNOFotMlRiWE5lYjNvWGU1dTJZZFFsM19KSGZFR1ZmWTJ0d05lOFIwOkY8Yj5UYXRhIFRydXN0czwvYj4gSW5maWdodGluZyBPdmVyIEJvYXJkIFNlYXRzLiBORFRWIEV4cGxhaW5zIFdoYXQgLi4uQpwBPGI-VGF0YSBUcnVzdHMgb3ducyBhcm91bmQgNjYgcGVyIGNlbnQgb2YgVGF0YSBTb25zPC9iPiwgd2hpY2ggaXMgdGhlIFRhdGEgR3JvdXAmIzM5O3MgaW52ZXN0bWVudHMgaG9sZGluZyBjb21wYW55LiBUYXRhIFRydXN0cyBJbmZpZ2h0aW5nIE92ZXIgQm9hcmQgU2VhdHMuIgIQAUgAWABoAA",
+      "source": "NDTV",
+      "read_more_link": "https://www.ndtv.com/india-news/tata-trust-news-tata-trusts-infighting-tata-trusts-chairman-noel-tata-mehli-mistry-trustee-tata-trusts-power-struggle-9416419#:~:text=Tata%20Trusts%20owns%20around%2066,Tata%20Group's%20investments%20holding%20company."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=10&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8NMDegQIORAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=10&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=20&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=30&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=40&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAK",
+      "6": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=50&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAM",
+      "7": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=60&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAO",
+      "8": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=70&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAQ",
+      "9": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=80&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAS",
+      "10": "https://www.google.com/search?q=Tata+Sons+Trusts+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&ei=bG-zaoqfL--mptQP1ZWogQk&start=90&sa=N&sstk=AS6-VmJy9axukFRmmd7PdQ8F8fyBiUyCWT-2yXMEwikRT1fQEihGmSXVpLsUaiVnSgy-0p2iJUL5V8_wSfgJw2zkGPxK64QsRb6whw&ved=2ahUKEwiKhda3h4SXAxVvk4kEHdUKKpAQ8tMDegQIORAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tata+Sons+Trusts+before%3A2026-01-01&start=90"
+    }
+  }
+}

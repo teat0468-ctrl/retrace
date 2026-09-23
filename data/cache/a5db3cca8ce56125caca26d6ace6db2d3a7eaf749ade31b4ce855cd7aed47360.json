@@ -1,0 +1,327 @@
+{
+  "search_metadata": {
+    "id": "6ab2bf402713322795d01c26",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eCFFH_64_xp78yKXvalbbXQvmpWSXPxDgTJ0IZjKvl8/6ab2bf402713322795d01c26.json",
+    "markdown_endpoint": "https://serpapi.com/searches/eCFFH_64_xp78yKXvalbbXQvmpWSXPxDgTJ0IZjKvl8/6ab2bf402713322795d01c26.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/eCFFH_64_xp78yKXvalbbXQvmpWSXPxDgTJ0IZjKvl8/6ab2bf402713322795d01c26.json_with_pixel_position",
+    "created_at": "2026-09-22 17:47:44 UTC",
+    "processed_at": "2026-09-22 17:47:44 UTC",
+    "google_url": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before%3A2026-01-01&oq=government+approved+merger+nine+public+sector+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/eCFFH_64_xp78yKXvalbbXQvmpWSXPxDgTJ0IZjKvl8/6ab2bf402713322795d01c26.html",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "government approved merger nine public sector before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "government approved merger nine public sector before:2026-01-01",
+    "total_results": 40700000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "wwNdRniczZXbcqpIFIYfYJ5jvDFRQDQxVdSupm2RxBhb43abG4pD2xBOCogxd_tdpuah5mmmATFq1H24mJpVln1g9WJ19_r4v__lOYH7zx9_20myiO_q9fV6XaNhSD1SM0O_rsebwKzPQy-OTPtLHK4ikziWZNpR6JPKJpUaFTOWuApxJNy_3uix1niaabY7VIfNFPoccCt5CEkz9Ji8sje8vcZ1rc7-3D8bHTaoxTUS1Ebu4sZfJt67hWsCx7drT3XdZw7gvzOEKczaMUAXnABQfyoaxoBFu_-YgLAMUBrNBpTFg9kkzPonTUUAZ62DilXgCc796S0Aym6BeT7h_aAyzSPJcjE5huDsS09bsYdumdglV_ni9EM5VvccL8XDs8NE2OHNqSx_LNpfzKbtvaXZQ6XoN4EsDgHsQRBeSh6GoONjWcXgUjHknhGcrLf9PuDZCdUtygqXqxsRa_i6Y9pm3onirJ7hc5sLFQG27EctTt8mvAxbCuo7Jr7xb5vtNqibBvPzQt0ilmZr3Jd8zAt8k2s3bm6vcpDMeEdSvE9SB752UtQMppFb69dkvsQI7s4HHqaP2BieOncZbl3hp0ePLFZ5G3ung7t7PupuNcLg0TmKMyE0j7OzjgCACIsyP4qbrfuM0XFqGUZgkvfy7ras91-qZkzijwU7633a4albR_L2mqlSRtg64aMjgmCssmdliKNvGGX4QRXLBUZLMT_8dVmfhd3TbBul4W1GMkD5HjL7gKboqXSPN8QOAmUljyDLbQSRjNlXjZbB5Oxbt03VOeL_ZC0Adt0ITNFPfvqOrftjlwybLS9H5X-AjaolI8cGcyNcXnNps0ejFrI5cTBwwWlMQt_4BcUx_1cgFXqkbvXoPEjqT4GEMTyvR0X3Q48ykCCl9AxIqADpkx71TujRMUiI7oFU6BGVu6f16FdBUi-BJF8E6eEUSOoFkDI9OgTJPdAjeFqPdiD9jh51f1OPcq5I0RyK0-qVnhepUXvQMJQX71vYn788AG667ncMf-AGLv2hSM395M7XLe9Kc6w7WbhPNtaVxibCO2JVlhINUxIFPgmSqr5YRGxkVX0SURJVAycg1cXK8ByzyghOwqhqkHkYkTuBE1rXHM9-Fd-LQonTb_q6-56S59s5HTsb8eV5LC7fTPymEB2taE8fDkUZbwROsT2E0w6XPDmPvdG9bY1eJwLpvd8sZ-HQNtGyM3G-6onnkndlYHZ9Q_G-rWYPbj_sjqfBw5MWXYePt8uxkTpuxAsTnhipx_Mz2w7Wz_M8m1iaT_W3r2t5RVqownYaE4nlGZkSK2qRggEGU8q4gDOmFxRM9JC1a4CVFsBIrsSmrpE4lXSj0W6JnNjQeYMTGlbFp8lmIYl8JQ4iif8XeSROdg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wwNdRniczZXbcqpIFIYfYJ5jvDFRQDQxVdSupm2RxBhb43abG4pD2xBOCogxd_tdpuah5mmmATFq1H24mJpVln1g9WJ19_r4v__lOYH7zx9_20myiO_q9fV6XaNhSD1SM0O_rsebwKzPQy-OTPtLHK4ikziWZNpR6JPKJpUaFTOWuApxJNy_3uix1niaabY7VIfNFPoccCt5CEkz9Ji8sje8vcZ1rc7-3D8bHTaoxTUS1Ebu4sZfJt67hWsCx7drT3XdZw7gvzOEKczaMUAXnABQfyoaxoBFu_-YgLAMUBrNBpTFg9kkzPonTUUAZ62DilXgCc796S0Aym6BeT7h_aAyzSPJcjE5huDsS09bsYdumdglV_ni9EM5VvccL8XDs8NE2OHNqSx_LNpfzKbtvaXZQ6XoN4EsDgHsQRBeSh6GoONjWcXgUjHknhGcrLf9PuDZCdUtygqXqxsRa_i6Y9pm3onirJ7hc5sLFQG27EctTt8mvAxbCuo7Jr7xb5vtNqibBvPzQt0ilmZr3Jd8zAt8k2s3bm6vcpDMeEdSvE9SB752UtQMppFb69dkvsQI7s4HHqaP2BieOncZbl3hp0ePLFZ5G3ung7t7PupuNcLg0TmKMyE0j7OzjgCACIsyP4qbrfuM0XFqGUZgkvfy7ras91-qZkzijwU7633a4albR_L2mqlSRtg64aMjgmCssmdliKNvGGX4QRXLBUZLMT_8dVmfhd3TbBul4W1GMkD5HjL7gKboqXSPN8QOAmUljyDLbQSRjNlXjZbB5Oxbt03VOeL_ZC0Adt0ITNFPfvqOrftjlwybLS9H5X-AjaolI8cGcyNcXnNps0ejFrI5cTBwwWlMQt_4BcUx_1cgFXqkbvXoPEjqT4GEMTyvR0X3Q48ykCCl9AxIqADpkx71TujRMUiI7oFU6BGVu6f16FdBUi-BJF8E6eEUSOoFkDI9OgTJPdAjeFqPdiD9jh51f1OPcq5I0RyK0-qVnhepUXvQMJQX71vYn788AG667ncMf-AGLv2hSM395M7XLe9Kc6w7WbhPNtaVxibCO2JVlhINUxIFPgmSqr5YRGxkVX0SURJVAycg1cXK8ByzyghOwqhqkHkYkTuBE1rXHM9-Fd-LQonTb_q6-56S59s5HTsb8eV5LC7fTPymEB2taE8fDkUZbwROsT2E0w6XPDmPvdG9bY1eJwLpvd8sZ-HQNtGyM3G-6onnkndlYHZ9Q_G-rWYPbj_sjqfBw5MWXYePt8uxkTpuxAsTnhipx_Mz2w7Wz_M8m1iaT_W3r2t5RVqownYaE4nlGZkSK2qRggEGU8q4gDOmFxRM9JC1a4CVFsBIrsSmrpE4lXSj0W6JnNjQeYMTGlbFp8lmIYl8JQ4iif8XeSROdg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Guide to Mergers and Consolidations of Not-for-Profit ...",
+      "link": "https://ag.ny.gov/sites/default/files/publications/mergers_and_consolidations.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFdliwNmYH__-ukGCZIGHzYlrWERRaT346z58fga6J-XS_h_dwd7o6l2xL0TufjWduKn-vXeNfA8E8sWBa1XQkQtiVsJETBGfIboW9-uUFpiCOmRmI0PD9WGT4d5M5ZzOMX2OG-9IuK1kkDKOrwLlr6fBu96x0iqKgGgGV0bujmlmVYc4eA&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://ag.ny.gov › default › files › publications",
+      "date": "Jun 15, 2021",
+      "snippet": "This booklet has been prepared to assist not-for-profit corporations and their attorneys who plan to seek approval of the Attorney General or the Court to merge ...",
+      "snippet_highlighted_words": [
+        "approval",
+        "merge"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 34
+          },
+          "extensions": [
+            "34 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This booklet has been prepared to assist not-for-profit corporations and their attorneys who plan to seek approval of the Attorney General or the Court to merge ...",
+          "source_info_link": "https://ag.ny.gov/sites/default/files/publications/mergers_and_consolidations.pdf",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEAVIEXSEjQAAAAEXRSTlMADGit1OcbOMH_l_WFdEYrWkGHDtoAAAFcSURBVHgBXVEHEsQgCDRgYRUI_3_t4Xh907PNUt64iGtrlamXfwwBwJgLQB2_HGOB1KyrgwH5oq4FuTOyAk3WzRPobw6Y0xbaNFLBmmIfdoFHBb8-DaKx8OqbyflXS2tCp_cGUHHnm0e_6CqJJrqwxyxIRNkQBh0zEnWPJiFpK9lp1su1vYFEP49MsNBSqN3FdFcsAFQmElsb2qcIdyVL7_7NRU5qGcqTI5i5UpzcWirKmkn6TUTuZOSjpxY3tySBTeoISYIkupZNAu0dS-Gscxqnu7xid_Paa-FJenbenqM9A3pNpXeK0MlqEb2fqdhrEQZdQe7DLV88LashNYJ1lv0aQdl8lQSWSd1lmGOl6huptrNPDBmAf3ENg5ecdzRE-97sNvP7Ol8dTYiBqhQmgKi3vcEvFqZDsLFqmCG5DwQt9DamFZMa6lW-4RVLZlXUiublH92krWzXT-IDsPwRUreiWZUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZkbGl3Tm1ZSF9fLXVrR0NaSUdIellscldFUlJhVDM0Nno1OGZnYTZKLVhTX2hfZHdkN282bDJ4TDBUdWZqV2R1S24tdlhlTmZBOEU4c1dCYTFYUWtRdGlWc0pFVEJHZklib1c5LXVVRnBpQ09tUm1JMFBEOVdHVDRkNU01WnpPTVgyT0ctOUl1SzFra0RLT3J3TGxyNmZCdTk2eDBpcUtnR2dHVjBidWptbG1WWWM0ZUESBBoCCAAaggcSAggAGgAiACoAOgBCBAgBEABKGggBEhJOZXcgWW9yaywgTmV3IFlvcmsaAggCWgByAHoAgkDKBggAEAAYACAAKlkKCmdvdmVybm1lbnQVA_uyPhoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaEmdvdmVybm1lbnRhcHByb3ZlZCp6CghhcHByb3ZlZBUrmfM-GghhY2NlcHRlZBoKYWNjcmVkaXRlZBoIYXBwcm92YWwaB2FwcHJvdmUaCmF1dGhvcmlzZWQaCmF1dGhvcml6ZWQaCGVuZG9yc2VkGgpyZWNvZ25pc2VkGhJnb3Zlcm5tZW50YXBwcm92ZWQqMwoGbWVyZ2VyFU2r8z8aBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgtpdjtwO21lcmdlcioeCgRuaW5lFQAAAAAaATkaAzl0aBoCaXgaBW5pbnRoKhsKBnB1YmxpYxUzrBs-GgxwdWJsaWNzZWN0b3IqLQoGc2VjdG9yFQAAAAAaB3NlY3RvcnMaB3NlcnZpY2UaDHB1YmxpY3NlY3RvcjLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGZGxpd05tWUhfXy11a0dDWklHSHpZbHJXRVJSYVQzNDZ6NThmZ2E2Si1YU19oX2R3ZDdvNmwyeEwwVHVmaldkdUtuLXZYZU5mQThFOHNXQmExWFFrUXRpVnNKRVRCR2ZJYm9XOS11VUZwaUNPbVJtSTBQRDlXR1Q0ZDVNNVp6T01YMk9HLTlJdUsxa2tES09yd0xscjZmQnU5NngwaXFLZ0dnR1YwYnVqbWxtVlljNGVBOkBHdWlkZSB0byA8Yj5NZXJnZXJzPC9iPiBhbmQgQ29uc29saWRhdGlvbnMgb2YgTm90LWZvci1Qcm9maXQgLi4uQrcBVGhpcyBib29rbGV0IGhhcyBiZWVuIHByZXBhcmVkIHRvIGFzc2lzdCBub3QtZm9yLXByb2ZpdCBjb3Jwb3JhdGlvbnMgYW5kIHRoZWlyIGF0dG9ybmV5cyB3aG8gcGxhbiB0byBzZWVrIDxiPmFwcHJvdmFsPC9iPiBvZiB0aGUgQXR0b3JuZXkgR2VuZXJhbCBvciB0aGUgQ291cnQgdG8gPGI-bWVyZ2U8L2I-Jm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZkbGl3Tm1ZSF9fLXVrR0NaSUdIellscldFUlJhVDM0Nno1OGZnYTZKLVhTX2hfZHdkN282bDJ4TDBUdWZqV2R1S24tdlhlTmZBOEU4c1dCYTFYUWtRdGlWc0pFVEJHZklib1c5LXVVRnBpQ09tUm1JMFBEOVdHVDRkNU01WnpPTVgyT0ctOUl1SzFra0RLT3J3TGxyNmZCdTk2eDBpcUtnR2dHVjBidWptbG1WWWM0ZUESBBoCCAAaggcSAggAGgAiACoAOgBCBAgBEABKGggBEhJOZXcgWW9yaywgTmV3IFlvcmsaAggCWgByAHoAgkDKBggAEAAYACAAKlkKCmdvdmVybm1lbnQVA_uyPhoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaEmdvdmVybm1lbnRhcHByb3ZlZCp6CghhcHByb3ZlZBUrmfM-GghhY2NlcHRlZBoKYWNjcmVkaXRlZBoIYXBwcm92YWwaB2FwcHJvdmUaCmF1dGhvcmlzZWQaCmF1dGhvcml6ZWQaCGVuZG9yc2VkGgpyZWNvZ25pc2VkGhJnb3Zlcm5tZW50YXBwcm92ZWQqMwoGbWVyZ2VyFU2r8z8aBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgtpdjtwO21lcmdlcioeCgRuaW5lFQAAAAAaATkaAzl0aBoCaXgaBW5pbnRoKhsKBnB1YmxpYxUzrBs-GgxwdWJsaWNzZWN0b3IqLQoGc2VjdG9yFQAAAAAaB3NlY3RvcnMaB3NlcnZpY2UaDHB1YmxpY3NlY3RvcjLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGZGxpd05tWUhfXy11a0dDWklHSHpZbHJXRVJSYVQzNDZ6NThmZ2E2Si1YU19oX2R3ZDdvNmwyeEwwVHVmaldkdUtuLXZYZU5mQThFOHNXQmExWFFrUXRpVnNKRVRCR2ZJYm9XOS11VUZwaUNPbVJtSTBQRDlXR1Q0ZDVNNVp6T01YMk9HLTlJdUsxa2tES09yd0xscjZmQnU5NngwaXFLZ0dnR1YwYnVqbWxtVlljNGVBOkBHdWlkZSB0byA8Yj5NZXJnZXJzPC9iPiBhbmQgQ29uc29saWRhdGlvbnMgb2YgTm90LWZvci1Qcm9maXQgLi4uQrcBVGhpcyBib29rbGV0IGhhcyBiZWVuIHByZXBhcmVkIHRvIGFzc2lzdCBub3QtZm9yLXByb2ZpdCBjb3Jwb3JhdGlvbnMgYW5kIHRoZWlyIGF0dG9ybmV5cyB3aG8gcGxhbiB0byBzZWVrIDxiPmFwcHJvdmFsPC9iPiBvZiB0aGUgQXR0b3JuZXkgR2VuZXJhbCBvciB0aGUgQ291cnQgdG8gPGI-bWVyZ2U8L2I-Jm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "source": "New York Attorney General (.gov)",
+      "read_more_link": "https://ag.ny.gov/sites/default/files/publications/mergers_and_consolidations.pdf#:~:text=This%20booklet%20has%20been%20prepared,pursuant%20to%20Article%209%20of"
+    },
+    {
+      "position": 2,
+      "title": "Request for Public Comment on the Bank Merger Act",
+      "link": "https://www.fdic.gov/news/speeches/2021/spdec0921.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVBUTU4xXxVTmg6Qdpp1HkOW7eC0GU0dxN2PwuyE7Neo-7DJaFt12Kr8j5EDj9GovLhZlapb2xpRgbVtZ3nNp97X4xdWdZiaUiEUyvvdPBc1bQXTh18rAImFGiQ1SSguR6KhVdB4bGrSU_&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.fdic.gov › ... › 2021",
+      "date": "Dec 9, 2021",
+      "snippet": "The Bank Merger Act of 1960 established a framework that requires, in general, approval by the Board of Governors of the Federal Reserve System, the Office of ...",
+      "snippet_highlighted_words": [
+        "Merger",
+        "approval"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Bank Merger Act of 1960 established a framework that requires, in general, approval by the Board of Governors of the Federal Reserve System, the Office of ...",
+          "source_info_link": "https://www.fdic.gov/news/speeches/2021/spdec0921.html",
+          "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAAAwBQCdASocABwAPtEutFooIagoGAEAGglAAnABsQfoAYGthsWBEHrJb1sbc_YQNtXwAAD-9gFvrxPJg95VdSPB_-oC2yG52uaBkJVeUpQzfiFVePTX_4jlMvCBKh4F7fzhpx6CzUG3H-dcih48s8eetIQGCPANC485-vxChrf4NZR54GUjD8P1j-Cu-K-q7Sf4ty53fT-yn2z49_lqfwKZ2gZlnYjS0Krr7Wwx0ZfOQbrTN6AIDROKHxmGg4KUIbger02agkAK_A9Fhv3ku-KjdpklS5PewzX-ci1Fn9wdnogRmPXkNffEr5WhXnCWIac-bbuEsm5RZI2pb-Sb_jEROMa6zUuPeTz3W04mFUU--PwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkJVVFU0eFh4VlRtZzZRZHBwMUhrT1c3ZUMwR1UwZHhOMlB3dXlFN05lby03REphRnQxMktyOGo1RURqOUdvdkxoWmxhcGIyeHBSZ2JWdFozbk5wOTdYNHhkV2RaaWFVaUVVeXZ2ZFBCYzFiUVhUaDE4ckFJbUZHaVExU1NndVI2S2hWZEI0YkdyU1VfEgQaAggAGtcGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLMGCAAQABgAIAAqWQoKZ292ZXJubWVudBUkvSU_GgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoSZ292ZXJubWVudGFwcHJvdmVkKnoKCGFwcHJvdmVkFadfmz4aCGFjY2VwdGVkGgphY2NyZWRpdGVkGghhcHByb3ZhbBoHYXBwcm92ZRoKYXV0aG9yaXNlZBoKYXV0aG9yaXplZBoIZW5kb3JzZWQaCnJlY29nbmlzZWQaEmdvdmVybm1lbnRhcHByb3ZlZCozCgZtZXJnZXIVFCJQQBoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaC2l2O3A7bWVyZ2VyKh4KBG5pbmUVAAAAABoBORoDOXRoGgJpeBoFbmludGgqGwoGcHVibGljFUEbLkAaDHB1YmxpY3NlY3RvciotCgZzZWN0b3IV_7FHPRoHc2VjdG9ycxoHc2VydmljZRoMcHVibGljc2VjdG9yMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkJVVFU0eFh4VlRtZzZRZHBwMUhrT1c3ZUMwR1UwZHhOMlB3dXlFN05lby03REphRnQxMktyOGo1RURqOUdvdkxoWmxhcGIyeHBSZ2JWdFozbk5wOTdYNHhkV2RaaWFVaUVVeXZ2ZFBCYzFiUVhUaDE4ckFJbUZHaVExU1NndVI2S2hWZEI0YkdyU1VfOlFSZXF1ZXN0IGZvciA8Yj5QdWJsaWM8L2I-IENvbW1lbnQgb24gdGhlIEJhbmsgPGI-TWVyZ2VyPC9iPiBBY3QgfCBGRElDLjxiPmdvdjwvYj5CtQFUaGUgQmFuayA8Yj5NZXJnZXI8L2I-IEFjdCBvZiAxOTYwIGVzdGFibGlzaGVkIGEgZnJhbWV3b3JrIHRoYXQgcmVxdWlyZXMsIGluIGdlbmVyYWwsIDxiPmFwcHJvdmFsPC9iPiBieSB0aGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSBGZWRlcmFsIFJlc2VydmUgU3lzdGVtLCB0aGUgT2ZmaWNlIG9mJm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkJVVFU0eFh4VlRtZzZRZHBwMUhrT1c3ZUMwR1UwZHhOMlB3dXlFN05lby03REphRnQxMktyOGo1RURqOUdvdkxoWmxhcGIyeHBSZ2JWdFozbk5wOTdYNHhkV2RaaWFVaUVVeXZ2ZFBCYzFiUVhUaDE4ckFJbUZHaVExU1NndVI2S2hWZEI0YkdyU1VfEgQaAggAGtcGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLMGCAAQABgAIAAqWQoKZ292ZXJubWVudBUkvSU_GgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoSZ292ZXJubWVudGFwcHJvdmVkKnoKCGFwcHJvdmVkFadfmz4aCGFjY2VwdGVkGgphY2NyZWRpdGVkGghhcHByb3ZhbBoHYXBwcm92ZRoKYXV0aG9yaXNlZBoKYXV0aG9yaXplZBoIZW5kb3JzZWQaCnJlY29nbmlzZWQaEmdvdmVybm1lbnRhcHByb3ZlZCozCgZtZXJnZXIVFCJQQBoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaC2l2O3A7bWVyZ2VyKh4KBG5pbmUVAAAAABoBORoDOXRoGgJpeBoFbmludGgqGwoGcHVibGljFUEbLkAaDHB1YmxpY3NlY3RvciotCgZzZWN0b3IV_7FHPRoHc2VjdG9ycxoHc2VydmljZRoMcHVibGljc2VjdG9yMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkJVVFU0eFh4VlRtZzZRZHBwMUhrT1c3ZUMwR1UwZHhOMlB3dXlFN05lby03REphRnQxMktyOGo1RURqOUdvdkxoWmxhcGIyeHBSZ2JWdFozbk5wOTdYNHhkV2RaaWFVaUVVeXZ2ZFBCYzFiUVhUaDE4ckFJbUZHaVExU1NndVI2S2hWZEI0YkdyU1VfOlFSZXF1ZXN0IGZvciA8Yj5QdWJsaWM8L2I-IENvbW1lbnQgb24gdGhlIEJhbmsgPGI-TWVyZ2VyPC9iPiBBY3QgfCBGRElDLjxiPmdvdjwvYj5CtQFUaGUgQmFuayA8Yj5NZXJnZXI8L2I-IEFjdCBvZiAxOTYwIGVzdGFibGlzaGVkIGEgZnJhbWV3b3JrIHRoYXQgcmVxdWlyZXMsIGluIGdlbmVyYWwsIDxiPmFwcHJvdmFsPC9iPiBieSB0aGUgQm9hcmQgb2YgR292ZXJub3JzIG9mIHRoZSBGZWRlcmFsIFJlc2VydmUgU3lzdGVtLCB0aGUgT2ZmaWNlIG9mJm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "source": "Federal Deposit Insurance Corporation (FDIC) (.gov)",
+      "read_more_link": "https://www.fdic.gov/news/speeches/2021/spdec0921.html#:~:text=The%20Bank%20Merger%20Act%20of,as%20appropriate%2C%20of%20bank%20mergers."
+    },
+    {
+      "position": 3,
+      "title": "Indian Government Plans Mega Merger of Public Sector ...",
+      "link": "https://www.linkedin.com/posts/aashishchopraa_mega-merger-planning-in-indian-banking-sector-activity-7376567737587998720-64ez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStQEB6zswFQVBAGEbTdp46X7AtEzMhU-f9WmTOHQmt-co1DN8LJiTzobEjD89jAQ5aE-6FSLR4GTc29nLueTb5yyHSeqWkn1HoVZWcEtmDsSM39g3tuIWiN_n_9XlF1g0GKYN68arcVcjynUhzvTha8TDz0D3s-VG1YLtIwMoP_LfV4W44JaSCY1sa9aIJWRmL8XXzo2UFbZ12TWOzppSycxhKcvjwE6zjrQjPSlIiUz9B9ui6i90&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQFnoECB8QAQ&uoh=1",
+      "displayed_link": "130+ reactions",
+      "snippet": "SBI-led Group: Combining State Bank of India with Bank of Maharashtra, UCO Bank, and Punjab & Sind Bank. 2. PNB-led Group: Merging Punjab National Bank with ...",
+      "snippet_highlighted_words": [
+        "Merging"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "SBI-led Group: Combining State Bank of India with Bank of Maharashtra, UCO Bank, and Punjab & Sind Bank. 2. PNB-led Group: Merging Punjab National Bank with ...",
+          "source_info_link": "https://www.linkedin.com/posts/aashishchopraa_mega-merger-planning-in-indian-banking-sector-activity-7376567737587998720-64ez",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZRVkJBR0ViVGRwNDZYN0F0RXpNaFUtZjlXbVRPSFFtdC1jbzFETjhMSmlUem9iRWpEODlqQVE1YUUtNkZTTFI0R1RjMjluTHVlVGI1eXlIU2VxV2tuMUhvVlpXY0V0bURzU00zOWczdHVJV2lOX25fOVhsRjFnMEdLWU42OGFyY1ZjanluVWh6dlRoYThURHowRDNzLVZHMVlMdEl3TW9QX0xmVjRXNDRKYVNDWTFzYTlhSUpXUm1MOFhYem8yVUZiWjEyVFdPenBwU3ljeGhLY3Zqd0U2empyUWpQU2xJaVV6OUI5dWk2aTkwEgQaAggAGrIHEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAjAcIABAAGAAgACpZCgpnb3Zlcm5tZW50FTjvX0AaA2dvdhoMZ292ZXJubWVudCdzGgxnb3Zlcm5tZW50YWwaC2dvdmVybm1lbnRzGgRnb3Z0GhJnb3Zlcm5tZW50YXBwcm92ZWQqegoIYXBwcm92ZWQV3NFWPRoIYWNjZXB0ZWQaCmFjY3JlZGl0ZWQaCGFwcHJvdmFsGgdhcHByb3ZlGgphdXRob3Jpc2VkGgphdXRob3JpemVkGghlbmRvcnNlZBoKcmVjb2duaXNlZBoSZ292ZXJubWVudGFwcHJvdmVkKjMKBm1lcmdlchX29ZJAGgVtZXJnZRoHbWVyZ2VycxoHbWVyZ2luZxoLaXY7cDttZXJnZXIqHgoEbmluZRUAAAAAGgE5GgM5dGgaAml4GgVuaW50aCobCgZwdWJsaWMVXTeLQBoMcHVibGljc2VjdG9yKi0KBnNlY3RvchU4u51AGgdzZWN0b3JzGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IyggIvZ290bz91cmw9Q0FFU3RRRUI2enN3RlFWQkFHRWJUZHA0Nlg3QXRFek1oVS1mOVdtVE9IUW10LWNvMUROOExKaVR6b2JFakQ4OWpBUTVhRS02RlNMUjRHVGMyOW5MdWVUYjV5eUhTZXFXa24xSG9WWldjRXRtRHNTTTM5ZzN0dUlXaU5fbl85WGxGMWcwR0tZTjY4YXJjVmNqeW5VaHp2VGhhOFREejBEM3MtVkcxWUx0SXdNb1BfTGZWNFc0NEphU0NZMXNhOWFJSldSbUw4WFh6bzJVRmJaMTJUV096cHBTeWN4aEtjdmp3RTZ6anJRalBTbElpVXo5Qjl1aTZpOTA6T0luZGlhbiA8Yj5Hb3Zlcm5tZW50PC9iPiBQbGFucyBNZWdhIDxiPk1lcmdlcjwvYj4gb2YgPGI-UHVibGljIFNlY3RvcjwvYj4gQmFua3NCsAFTQkktbGVkIEdyb3VwOiBDb21iaW5pbmcgU3RhdGUgQmFuayBvZiBJbmRpYSB3aXRoIEJhbmsgb2YgTWFoYXJhc2h0cmEsIFVDTyBCYW5rLCBhbmQgUHVuamFiICZhbXA7IFNpbmQgQmFuay4gMi4gUE5CLWxlZCBHcm91cDogPGI-TWVyZ2luZzwvYj4gUHVuamFiIE5hdGlvbmFsIEJhbmsgd2l0aCZuYnNwOy4uLlIBOSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZRVkJBR0ViVGRwNDZYN0F0RXpNaFUtZjlXbVRPSFFtdC1jbzFETjhMSmlUem9iRWpEODlqQVE1YUUtNkZTTFI0R1RjMjluTHVlVGI1eXlIU2VxV2tuMUhvVlpXY0V0bURzU00zOWczdHVJV2lOX25fOVhsRjFnMEdLWU42OGFyY1ZjanluVWh6dlRoYThURHowRDNzLVZHMVlMdEl3TW9QX0xmVjRXNDRKYVNDWTFzYTlhSUpXUm1MOFhYem8yVUZiWjEyVFdPenBwU3ljeGhLY3Zqd0U2empyUWpQU2xJaVV6OUI5dWk2aTkwEgQaAggAGrIHEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAjAcIABAAGAAgACpZCgpnb3Zlcm5tZW50FTjvX0AaA2dvdhoMZ292ZXJubWVudCdzGgxnb3Zlcm5tZW50YWwaC2dvdmVybm1lbnRzGgRnb3Z0GhJnb3Zlcm5tZW50YXBwcm92ZWQqegoIYXBwcm92ZWQV3NFWPRoIYWNjZXB0ZWQaCmFjY3JlZGl0ZWQaCGFwcHJvdmFsGgdhcHByb3ZlGgphdXRob3Jpc2VkGgphdXRob3JpemVkGghlbmRvcnNlZBoKcmVjb2duaXNlZBoSZ292ZXJubWVudGFwcHJvdmVkKjMKBm1lcmdlchX29ZJAGgVtZXJnZRoHbWVyZ2VycxoHbWVyZ2luZxoLaXY7cDttZXJnZXIqHgoEbmluZRUAAAAAGgE5GgM5dGgaAml4GgVuaW50aCobCgZwdWJsaWMVXTeLQBoMcHVibGljc2VjdG9yKi0KBnNlY3RvchU4u51AGgdzZWN0b3JzGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3IyggIvZ290bz91cmw9Q0FFU3RRRUI2enN3RlFWQkFHRWJUZHA0Nlg3QXRFek1oVS1mOVdtVE9IUW10LWNvMUROOExKaVR6b2JFakQ4OWpBUTVhRS02RlNMUjRHVGMyOW5MdWVUYjV5eUhTZXFXa24xSG9WWldjRXRtRHNTTTM5ZzN0dUlXaU5fbl85WGxGMWcwR0tZTjY4YXJjVmNqeW5VaHp2VGhhOFREejBEM3MtVkcxWUx0SXdNb1BfTGZWNFc0NEphU0NZMXNhOWFJSldSbUw4WFh6bzJVRmJaMTJUV096cHBTeWN4aEtjdmp3RTZ6anJRalBTbElpVXo5Qjl1aTZpOTA6T0luZGlhbiA8Yj5Hb3Zlcm5tZW50PC9iPiBQbGFucyBNZWdhIDxiPk1lcmdlcjwvYj4gb2YgPGI-UHVibGljIFNlY3RvcjwvYj4gQmFua3NCsAFTQkktbGVkIEdyb3VwOiBDb21iaW5pbmcgU3RhdGUgQmFuayBvZiBJbmRpYSB3aXRoIEJhbmsgb2YgTWFoYXJhc2h0cmEsIFVDTyBCYW5rLCBhbmQgUHVuamFiICZhbXA7IFNpbmQgQmFuay4gMi4gUE5CLWxlZCBHcm91cDogPGI-TWVyZ2luZzwvYj4gUHVuamFiIE5hdGlvbmFsIEJhbmsgd2l0aCZuYnNwOy4uLlIBOSICEAFIAFgAaAA",
+      "source": "LinkedIn · Aashish Chopra",
+      "read_more_link": "https://www.linkedin.com/posts/aashishchopraa_mega-merger-planning-in-indian-banking-sector-activity-7376567737587998720-64ez#:~:text=SBI%2Dled%20Group%3A%20Combining%20State%20Bank,India%2C%20and%20Indian%20Overseas%20Bank."
+    },
+    {
+      "position": 4,
+      "title": "Govt announces merger of ten PSBs into four",
+      "link": "https://www.youtube.com/watch?v=SM2XMosDAHk",
+      "displayed_link": "1.2K+ views · 7 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab2bf402713322795d01c26/images/T_tlkssX3im8JqlJwnj4-aWHU5pjySpRMGJMe8347Iw.jpeg",
+      "snippet": "Government announces merger of ten public sector banks into four to ensure strong national presence and global reach. Centre to set up 12,500 AYUSH centres ...",
+      "duration": "14:54",
+      "about_this_result": {
+        "source": {
+          "description": "Government announces merger of ten public sector banks into four to ensure strong national presence and global reach. Centre to set up 12,500 AYUSH centres ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkNKTmVtUGFpUFB1Vk1UT0VnR2JRZnNORDBGei1BUzJBSGdITV9ZS1oyb1RLb1d5RDltN25lX3AzVG1Eak1Qc0kySW9PX3pmbmdKQnRBTnlydnIzLUlQY2NvS2dSalJTa3dpX1VQTHBIVjJ2OHJzYlJGeURseUc2Y3F6dDZSQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkNKTmVtUGFpUFB1Vk1UT0VnR2JRZnNORDBGei1BUzJBSGdITV9ZS1oyb1RLb1d5RDltN25lX3AzVG1Eak1Qc0kySW9PX3pmbmdKQnRBTnlydnIzLUlQY2NvS2dSalJTa3dpX1VQTHBIVjJ2OHJzYlJGeURseUc2Y3F6dDZSQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · NEWS ON AIR OFFICIAL"
+    },
+    {
+      "position": 5,
+      "title": "Reports suggest that the Indian government is evaluating ...",
+      "link": "https://www.facebook.com/suhailibnifarooq/posts/reports-suggest-that-the-indian-government-is-evaluating-a-proposal-to-merge-uni/851538624486181/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFUuZ4H1r4EPn6iPDOptN5HEKAQkR4I09F3WE7-C3Gw6SHJZ1pgKtVV9z6aGlfGhqlxOmLb74ZUTYjP11e8K6UO_D6619brrz4C-yetth2BSYESFlszDVTB4MdFINzHtQ-pGOPQVviqzn5I7n0KZ2HY1UIvZv1B18wp0rq2xCtx-XEbvu3q9MIc6v2tXd9rQIl6BRspQot_FREEngrMlX3_T-kYa6qoL_65kxVrKdGDBELbgYl-oH1ViE15brFUD6o-aDJVBM&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQFnoECBUQAQ&uoh=1",
+      "displayed_link": "10+ reactions",
+      "snippet": "Reports suggest that the Indian government is evaluating a proposal to merge Union Bank of India (UBI) and Bank of India (Bol) - a move that could create the ...",
+      "snippet_highlighted_words": [
+        "and"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Reports suggest that the Indian government is evaluating a proposal to merge Union Bank of India (UBI) and Bank of India (Bol) - a move that could create the ...",
+          "source_info_link": "https://www.facebook.com/suhailibnifarooq/posts/reports-suggest-that-the-indian-government-is-evaluating-a-proposal-to-merge-uni/851538624486181/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZVdVo0SDFyNEVQbjZpUERPcHRONUhFS0FRa1I0STA5RjNXRTctQzNHdzZTSEpaMXBnS3RWVjl6NmFHbGZHaHFseE9tTGI3NFpVVFlqUDExZThLNlVPX0Q2NjE5YnJyejRDLXlldHRoMkJTWUVTRmxzekRWVEI0TWRGSU56SHRRLXBHT1BRVnZpcXpuNUk3bjBLWjJIWTFVSXZadjFCMTh3cDBycTJ4Q3R4LVhFYnZ1M3E5TUljNnYydFhkOXJRSWw2QlJzcFFvdF9GUkVFbmdyTWxYM19ULWtZYTZxb0xfNjVreFZyS2RHREJFTGJnWWwtb0gxVmlFMTVickZVRDZvLWFESlZCTRIEGgIIABrFBxIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkChBwgAEAAYACAAKlkKCmdvdmVybm1lbnQVfxObQBoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaEmdvdmVybm1lbnRhcHByb3ZlZCp6CghhcHByb3ZlZBWO-fU_GghhY2NlcHRlZBoKYWNjcmVkaXRlZBoIYXBwcm92YWwaB2FwcHJvdmUaCmF1dGhvcmlzZWQaCmF1dGhvcml6ZWQaCGVuZG9yc2VkGgpyZWNvZ25pc2VkGhJnb3Zlcm5tZW50YXBwcm92ZWQqMwoGbWVyZ2VyFVrpdUAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgtpdjtwO21lcmdlcioeCgRuaW5lFQAAAAAaATkaAzl0aBoCaXgaBW5pbnRoKhsKBnB1YmxpYxVdtlhAGgxwdWJsaWNzZWN0b3IqLQoGc2VjdG9yFZuCYEAaB3NlY3RvcnMaB3NlcnZpY2UaDHB1YmxpY3NlY3RvcjKeAi9nb3RvP3VybD1DQUVTeWdFQjZ6c3dGVXVaNEgxcjRFUG42aVBET3B0TjVIRUtBUWtSNEkwOUYzV0U3LUMzR3c2U0hKWjFwZ0t0VlY5ejZhR2xmR2hxbHhPbUxiNzRaVVRZalAxMWU4SzZVT19ENjYxOWJycno0Qy15ZXR0aDJCU1lFU0Zsc3pEVlRCNE1kRklOekh0US1wR09QUVZ2aXF6bjVJN24wS1oySFkxVUl2WnYxQjE4d3AwcnEyeEN0eC1YRWJ2dTNxOU1JYzZ2MnRYZDlyUUlsNkJSc3BRb3RfRlJFRW5nck1sWDNfVC1rWWE2cW9MXzY1a3hWcktkR0RCRUxiZ1lsLW9IMVZpRTE1YnJGVUQ2by1hREpWQk06S2EgbW92ZSB0aGF0IGNvdWxkIGNyZWF0ZSB0aGUgY291bnRyeSYjMzk7cyBzZWNvbmQtbGFyZ2VzdCA8Yj5wdWJsaWM8L2I-IC4uLkKtAVJlcG9ydHMgc3VnZ2VzdCB0aGF0IHRoZSBJbmRpYW4gZ292ZXJubWVudCBpcyBldmFsdWF0aW5nIGEgcHJvcG9zYWwgdG8gbWVyZ2UgVW5pb24gQmFuayBvZiBJbmRpYSAoVUJJKSA8Yj5hbmQ8L2I-IEJhbmsgb2YgSW5kaWEgKEJvbCkgLSBhIG1vdmUgdGhhdCBjb3VsZCBjcmVhdGUgdGhlJm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZVdVo0SDFyNEVQbjZpUERPcHRONUhFS0FRa1I0STA5RjNXRTctQzNHdzZTSEpaMXBnS3RWVjl6NmFHbGZHaHFseE9tTGI3NFpVVFlqUDExZThLNlVPX0Q2NjE5YnJyejRDLXlldHRoMkJTWUVTRmxzekRWVEI0TWRGSU56SHRRLXBHT1BRVnZpcXpuNUk3bjBLWjJIWTFVSXZadjFCMTh3cDBycTJ4Q3R4LVhFYnZ1M3E5TUljNnYydFhkOXJRSWw2QlJzcFFvdF9GUkVFbmdyTWxYM19ULWtZYTZxb0xfNjVreFZyS2RHREJFTGJnWWwtb0gxVmlFMTVickZVRDZvLWFESlZCTRIEGgIIABrFBxIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkChBwgAEAAYACAAKlkKCmdvdmVybm1lbnQVfxObQBoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaEmdvdmVybm1lbnRhcHByb3ZlZCp6CghhcHByb3ZlZBWO-fU_GghhY2NlcHRlZBoKYWNjcmVkaXRlZBoIYXBwcm92YWwaB2FwcHJvdmUaCmF1dGhvcmlzZWQaCmF1dGhvcml6ZWQaCGVuZG9yc2VkGgpyZWNvZ25pc2VkGhJnb3Zlcm5tZW50YXBwcm92ZWQqMwoGbWVyZ2VyFVrpdUAaBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgtpdjtwO21lcmdlcioeCgRuaW5lFQAAAAAaATkaAzl0aBoCaXgaBW5pbnRoKhsKBnB1YmxpYxVdtlhAGgxwdWJsaWNzZWN0b3IqLQoGc2VjdG9yFZuCYEAaB3NlY3RvcnMaB3NlcnZpY2UaDHB1YmxpY3NlY3RvcjKeAi9nb3RvP3VybD1DQUVTeWdFQjZ6c3dGVXVaNEgxcjRFUG42aVBET3B0TjVIRUtBUWtSNEkwOUYzV0U3LUMzR3c2U0hKWjFwZ0t0VlY5ejZhR2xmR2hxbHhPbUxiNzRaVVRZalAxMWU4SzZVT19ENjYxOWJycno0Qy15ZXR0aDJCU1lFU0Zsc3pEVlRCNE1kRklOekh0US1wR09QUVZ2aXF6bjVJN24wS1oySFkxVUl2WnYxQjE4d3AwcnEyeEN0eC1YRWJ2dTNxOU1JYzZ2MnRYZDlyUUlsNkJSc3BRb3RfRlJFRW5nck1sWDNfVC1rWWE2cW9MXzY1a3hWcktkR0RCRUxiZ1lsLW9IMVZpRTE1YnJGVUQ2by1hREpWQk06S2EgbW92ZSB0aGF0IGNvdWxkIGNyZWF0ZSB0aGUgY291bnRyeSYjMzk7cyBzZWNvbmQtbGFyZ2VzdCA8Yj5wdWJsaWM8L2I-IC4uLkKtAVJlcG9ydHMgc3VnZ2VzdCB0aGF0IHRoZSBJbmRpYW4gZ292ZXJubWVudCBpcyBldmFsdWF0aW5nIGEgcHJvcG9zYWwgdG8gbWVyZ2UgVW5pb24gQmFuayBvZiBJbmRpYSAoVUJJKSA8Yj5hbmQ8L2I-IEJhbmsgb2YgSW5kaWEgKEJvbCkgLSBhIG1vdmUgdGhhdCBjb3VsZCBjcmVhdGUgdGhlJm5ic3A7Li4uUgE5IgIQAUgAWABoAA",
+      "source": "Facebook · Suhail Farooq",
+      "read_more_link": "https://www.facebook.com/suhailibnifarooq/posts/reports-suggest-that-the-indian-government-is-evaluating-a-proposal-to-merge-uni/851538624486181/#:~:text=Reports%20suggest%20that%20the%20Indian,of%20India%20(SBI)%20in%20size."
+    },
+    {
+      "position": 6,
+      "title": "Mergers of public sector banks: Best partner selection ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1544612324003271",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVN2AIo8OzAf-vJF_WYT3YL-vrfgyp2MaWbvqUC6uXNjsYxUYArVGSGEJuWU81mPKvV7ZozpvywiJAi_t8R37tDLP1Znpa0MLdD-4cqyKdweC_PVn2ZQxyQAZDFTRW5-hk6wbKqEaoELYpxsKvDNVmubvesoqf7A&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "author": "by MLB Aranha",
+      "snippet": "On August 2019, the merger of 10 of the 16 PSBs (excluding SBI and Bank of Baroda) was announced by the government, which is considered a mega-merger in the ...",
+      "snippet_highlighted_words": [
+        "merger",
+        "government",
+        "merger"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On August 2019, the merger of 10 of the 16 PSBs (excluding SBI and Bank of Baroda) was announced by the government, which is considered a mega-merger in the ...",
+          "source_info_link": "https://www.sciencedirect.com/science/article/pii/S1544612324003271",
+          "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVk4yQUlvOE96QWYtdkpGX1dZVDNZTC12cmZneXAyTWFXYnZxVUM2dVhOanNZeFVZQXJWR1NHRUp1V1U4MW1QS3ZWN1pvenB2eXdpSkFpX3Q4UjM3dERMUDFabnBhME1MZEQtNGNxeUtkd2VDX1BWbjJaUXh5UUFaREZUUlc1LWhrNndiS3FFYW9FTFlweHNLdkROVm11YnZlc29xZjdBEgQaAggAGu0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMkGCAAQABgAIAAqWQoKZ292ZXJubWVudBU24C8-GgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoSZ292ZXJubWVudGFwcHJvdmVkKnoKCGFwcHJvdmVkFQAAAAAaCGFjY2VwdGVkGgphY2NyZWRpdGVkGghhcHByb3ZhbBoHYXBwcm92ZRoKYXV0aG9yaXNlZBoKYXV0aG9yaXplZBoIZW5kb3JzZWQaCnJlY29nbmlzZWQaEmdvdmVybm1lbnRhcHByb3ZlZCozCgZtZXJnZXIVCZkEQBoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaC2l2O3A7bWVyZ2VyKh4KBG5pbmUVAAAAABoBORoDOXRoGgJpeBoFbmludGgqGwoGcHVibGljFUzWXkAaDHB1YmxpY3NlY3RvciotCgZzZWN0b3IVZE5ZQBoHc2VjdG9ycxoHc2VydmljZRoMcHVibGljc2VjdG9yMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVk4yQUlvOE96QWYtdkpGX1dZVDNZTC12cmZneXAyTWFXYnZxVUM2dVhOanNZeFVZQXJWR1NHRUp1V1U4MW1QS3ZWN1pvenB2eXdpSkFpX3Q4UjM3dERMUDFabnBhME1MZEQtNGNxeUtkd2VDX1BWbjJaUXh5UUFaREZUUlc1LWhrNndiS3FFYW9FTFlweHNLdkROVm11YnZlc29xZjdBOlA8Yj5NZXJnZXJzPC9iPiBvZiA8Yj5wdWJsaWMgc2VjdG9yPC9iPiBiYW5rczogQmVzdCBwYXJ0bmVyIHNlbGVjdGlvbiB1c2luZyBhIC4uLkK6AU9uIEF1Z3VzdCAyMDE5LCB0aGUgPGI-bWVyZ2VyPC9iPiBvZiAxMCBvZiB0aGUgMTYgUFNCcyAoZXhjbHVkaW5nIFNCSSBhbmQgQmFuayBvZiBCYXJvZGEpIHdhcyBhbm5vdW5jZWQgYnkgdGhlIDxiPmdvdmVybm1lbnQ8L2I-LCB3aGljaCBpcyBjb25zaWRlcmVkIGEgbWVnYS08Yj5tZXJnZXI8L2I-IGluIHRoZSZuYnNwOy4uLlIBOSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVk4yQUlvOE96QWYtdkpGX1dZVDNZTC12cmZneXAyTWFXYnZxVUM2dVhOanNZeFVZQXJWR1NHRUp1V1U4MW1QS3ZWN1pvenB2eXdpSkFpX3Q4UjM3dERMUDFabnBhME1MZEQtNGNxeUtkd2VDX1BWbjJaUXh5UUFaREZUUlc1LWhrNndiS3FFYW9FTFlweHNLdkROVm11YnZlc29xZjdBEgQaAggAGu0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMkGCAAQABgAIAAqWQoKZ292ZXJubWVudBU24C8-GgNnb3YaDGdvdmVybm1lbnQncxoMZ292ZXJubWVudGFsGgtnb3Zlcm5tZW50cxoEZ292dBoSZ292ZXJubWVudGFwcHJvdmVkKnoKCGFwcHJvdmVkFQAAAAAaCGFjY2VwdGVkGgphY2NyZWRpdGVkGghhcHByb3ZhbBoHYXBwcm92ZRoKYXV0aG9yaXNlZBoKYXV0aG9yaXplZBoIZW5kb3JzZWQaCnJlY29nbmlzZWQaEmdvdmVybm1lbnRhcHByb3ZlZCozCgZtZXJnZXIVCZkEQBoFbWVyZ2UaB21lcmdlcnMaB21lcmdpbmcaC2l2O3A7bWVyZ2VyKh4KBG5pbmUVAAAAABoBORoDOXRoGgJpeBoFbmludGgqGwoGcHVibGljFUzWXkAaDHB1YmxpY3NlY3RvciotCgZzZWN0b3IVZE5ZQBoHc2VjdG9ycxoHc2VydmljZRoMcHVibGljc2VjdG9yMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVk4yQUlvOE96QWYtdkpGX1dZVDNZTC12cmZneXAyTWFXYnZxVUM2dVhOanNZeFVZQXJWR1NHRUp1V1U4MW1QS3ZWN1pvenB2eXdpSkFpX3Q4UjM3dERMUDFabnBhME1MZEQtNGNxeUtkd2VDX1BWbjJaUXh5UUFaREZUUlc1LWhrNndiS3FFYW9FTFlweHNLdkROVm11YnZlc29xZjdBOlA8Yj5NZXJnZXJzPC9iPiBvZiA8Yj5wdWJsaWMgc2VjdG9yPC9iPiBiYW5rczogQmVzdCBwYXJ0bmVyIHNlbGVjdGlvbiB1c2luZyBhIC4uLkK6AU9uIEF1Z3VzdCAyMDE5LCB0aGUgPGI-bWVyZ2VyPC9iPiBvZiAxMCBvZiB0aGUgMTYgUFNCcyAoZXhjbHVkaW5nIFNCSSBhbmQgQmFuayBvZiBCYXJvZGEpIHdhcyBhbm5vdW5jZWQgYnkgdGhlIDxiPmdvdmVybm1lbnQ8L2I-LCB3aGljaCBpcyBjb25zaWRlcmVkIGEgbWVnYS08Yj5tZXJnZXI8L2I-IGluIHRoZSZuYnNwOy4uLlIBOSICEAFIAFgAaAA",
+      "source": "ScienceDirect.com",
+      "read_more_link": "https://www.sciencedirect.com/science/article/pii/S1544612324003271#:~:text=On%20August%202019%2C%20the%20merger,mega%2Dmerger%20in%20the%20banking%20industry."
+    },
+    {
+      "position": 7,
+      "title": "The Cabinet has approved the merging of some 42 state- ...",
+      "link": "https://www.facebook.com/TheStarKenya/posts/the-cabinet-has-approved-the-merging-of-some-42-state-owned-enterprises-cutting-/1054229266746282/",
+      "displayed_link": "10+ reactions · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab2bf402713322795d01c26/images/T_tlkssX3im8JqlJwnj4-dtIfiUVsu98L_o5DrCSOwo.jpeg",
+      "snippet": "The Cabinet has approved the merging of some 42 state-owned enterprises, cutting the number to 20 in a move meant to cut costs and boost efficiency.",
+      "duration": "1:58",
+      "about_this_result": {
+        "source": {
+          "description": "The Cabinet has approved the merging of some 42 state-owned enterprises, cutting the number to 20 in a move meant to cut costs and boost efficiency.",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZYQ3QzSU9YYXNLUXlHdVZBcVRYQTIxUmRlNXNEWlQ1QTJ5MHp6bmQyQUluUGQ2cWw0NVdxOG56cmVwR2o2OWRGNGxzMDJsWmJjdzBLQnl6WnNFa25SUTYxOVRxUENDdzRzRlFRNU0xWmYyR2VSRWE0eHlGSGVzN1k3UHNPR1pvb3piTjJTa2N1TkJBRU9TYVV3UU1XNGE1U19zUGJaREZYRFpyZGlDZllRRG84Tmc5SG02VzREQ0I5dzFObGZGUXBBUmFtN1lya0RGeHYyS3RsekYxLTlSY3J1RWN1T2dnQVd3U3FEdWRfVGoyWHViSW5na25hXy1FTVFlcWpnQlI4eklzEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZYQ3QzSU9YYXNLUXlHdVZBcVRYQTIxUmRlNXNEWlQ1QTJ5MHp6bmQyQUluUGQ2cWw0NVdxOG56cmVwR2o2OWRGNGxzMDJsWmJjdzBLQnl6WnNFa25SUTYxOVRxUENDdzRzRlFRNU0xWmYyR2VSRWE0eHlGSGVzN1k3UHNPR1pvb3piTjJTa2N1TkJBRU9TYVV3UU1XNGE1U19zUGJaREZYRFpyZGlDZllRRG84Tmc5SG02VzREQ0I5dzFObGZGUXBBUmFtN1lya0RGeHYyS3RsekYxLTlSY3J1RWN1T2dnQVd3U3FEdWRfVGoyWHViSW5na25hXy1FTVFlcWpnQlI4eklzEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQd4-gEIIoecoBiLbSKKv--nn5QOcEICrF19g",
+      "source": "Facebook · The Star, Kenya"
+    },
+    {
+      "position": 8,
+      "title": "pub-speech-2022-49.pdf",
+      "link": "https://www.occ.gov/news-issuances/speeches/2022/pub-speech-2022-49.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAV3D5wk1EZB9Tg1x7G0tyGwJGZgqYgC4dwuues72th6ebh531QwfTX4giLPQaNI8sqnM81SiIEp0j4-aRhadWofqKn8UxaO8ArdnfBrevtQNkI3DM97bl2DM0jjbNC347J2nN86SzEOa73tB_XYl4gSUNWiHtLzXWguX4&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.occ.gov › news-issuances › speeches",
+      "date": "May 9, 2022",
+      "snippet": "Under the Bank Merger Act, the DOJ and the appropriate federal banking agency have shared responsibility for assessing the competitiveness impact of a proposed ...",
+      "snippet_highlighted_words": [
+        "Merger"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "pages": 11
+          },
+          "extensions": [
+            "11 pages"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Under the Bank Merger Act, the DOJ and the appropriate federal banking agency have shared responsibility for assessing the competitiveness impact of a proposed ...",
+          "source_info_link": "https://www.occ.gov/news-issuances/speeches/2022/pub-speech-2022-49.pdf",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAADwAwCdASoQABAAAsBMJbACdLoBJgIsA3G79AHMAx6DG1HmVHPqbdYAAP7ws7kbc3Y8f15388GZ53fi0mLnUivg_cgdf9GLSBNDvQan-5ydf7--PDq1tzMUryanQeNQfiXwg_yaQla0GH1mFYwsdI4r0fUpysfqHMqnDM8IeV-g0cHjPO-rx3rAu3modyO36wyRaWa7-cianYDn-43xemq5lF5YsX3SZst1LKYnJLUWDxNWq77vzyvUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVjNENXdrMUVaQjlUZzF4N0cwdHlHd0pHWmdxWWdDNGR3dXVlczcydGg2ZWJoNTMxUXdmVFg0Z2lMUFFhTkk4c3FuTTgxU2lJRXAwajQtYVJoYWRXb2ZxS244VXhhTzhBcmRuZkJyZXZ0UU5rSTNETTk3YmwyRE0wampiTkMzNDdKMm5OODZTekVPYTczdEJfWFlsNGdTVU5XaUh0THpYV2d1WDQSBBoCCAAa1AYSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKlkKCmdvdmVybm1lbnQVAAAAABoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaEmdvdmVybm1lbnRhcHByb3ZlZCp6CghhcHByb3ZlZBUAAAAAGghhY2NlcHRlZBoKYWNjcmVkaXRlZBoIYXBwcm92YWwaB2FwcHJvdmUaCmF1dGhvcmlzZWQaCmF1dGhvcml6ZWQaCGVuZG9yc2VkGgpyZWNvZ25pc2VkGhJnb3Zlcm5tZW50YXBwcm92ZWQqMwoGbWVyZ2VyFdPOqz8aBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgtpdjtwO21lcmdlcioeCgRuaW5lFUraBj0aATkaAzl0aBoCaXgaBW5pbnRoKhsKBnB1YmxpYxVlsb0-GgxwdWJsaWNzZWN0b3IqLQoGc2VjdG9yFXMe7jwaB3NlY3RvcnMaB3NlcnZpY2UaDHB1YmxpY3NlY3RvcjK5AS9nb3RvP3VybD1DQUVTZndIck96QVYzRDV3azFFWkI5VGcxeDdHMHR5R3dKR1pncVlnQzRkd3V1ZXM3MnRoNmViaDUzMVF3ZlRYNGdpTFBRYU5JOHNxbk04MVNpSUVwMGo0LWFSaGFkV29mcUtuOFV4YU84QXJkbmZCcmV2dFFOa0kzRE05N2JsMkRNMGpqYk5DMzQ3SjJuTjg2U3pFT2E3M3RCX1hZbDRnU1VOV2lIdEx6WFdndVg0OjtBY3RpbmcgQ29tcHRyb2xsZXIgb2YgdGhlIEN1cnJlbmN5IE1pY2hhZWwgSi4gSHN1IC0gT0NDLmdvdkKvAVVuZGVyIHRoZSBCYW5rIDxiPk1lcmdlcjwvYj4gQWN0LCB0aGUgRE9KIGFuZCB0aGUgYXBwcm9wcmlhdGUgZmVkZXJhbCBiYW5raW5nIGFnZW5jeSBoYXZlIHNoYXJlZCByZXNwb25zaWJpbGl0eSBmb3IgYXNzZXNzaW5nIHRoZSBjb21wZXRpdGl2ZW5lc3MgaW1wYWN0IG9mIGEgcHJvcG9zZWQmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVjNENXdrMUVaQjlUZzF4N0cwdHlHd0pHWmdxWWdDNGR3dXVlczcydGg2ZWJoNTMxUXdmVFg0Z2lMUFFhTkk4c3FuTTgxU2lJRXAwajQtYVJoYWRXb2ZxS244VXhhTzhBcmRuZkJyZXZ0UU5rSTNETTk3YmwyRE0wampiTkMzNDdKMm5OODZTekVPYTczdEJfWFlsNGdTVU5XaUh0THpYV2d1WDQSBBoCCAAa1AYSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKlkKCmdvdmVybm1lbnQVAAAAABoDZ292Ggxnb3Zlcm5tZW50J3MaDGdvdmVybm1lbnRhbBoLZ292ZXJubWVudHMaBGdvdnQaEmdvdmVybm1lbnRhcHByb3ZlZCp6CghhcHByb3ZlZBUAAAAAGghhY2NlcHRlZBoKYWNjcmVkaXRlZBoIYXBwcm92YWwaB2FwcHJvdmUaCmF1dGhvcmlzZWQaCmF1dGhvcml6ZWQaCGVuZG9yc2VkGgpyZWNvZ25pc2VkGhJnb3Zlcm5tZW50YXBwcm92ZWQqMwoGbWVyZ2VyFdPOqz8aBW1lcmdlGgdtZXJnZXJzGgdtZXJnaW5nGgtpdjtwO21lcmdlcioeCgRuaW5lFUraBj0aATkaAzl0aBoCaXgaBW5pbnRoKhsKBnB1YmxpYxVlsb0-GgxwdWJsaWNzZWN0b3IqLQoGc2VjdG9yFXMe7jwaB3NlY3RvcnMaB3NlcnZpY2UaDHB1YmxpY3NlY3RvcjK5AS9nb3RvP3VybD1DQUVTZndIck96QVYzRDV3azFFWkI5VGcxeDdHMHR5R3dKR1pncVlnQzRkd3V1ZXM3MnRoNmViaDUzMVF3ZlRYNGdpTFBRYU5JOHNxbk04MVNpSUVwMGo0LWFSaGFkV29mcUtuOFV4YU84QXJkbmZCcmV2dFFOa0kzRE05N2JsMkRNMGpqYk5DMzQ3SjJuTjg2U3pFT2E3M3RCX1hZbDRnU1VOV2lIdEx6WFdndVg0OjtBY3RpbmcgQ29tcHRyb2xsZXIgb2YgdGhlIEN1cnJlbmN5IE1pY2hhZWwgSi4gSHN1IC0gT0NDLmdvdkKvAVVuZGVyIHRoZSBCYW5rIDxiPk1lcmdlcjwvYj4gQWN0LCB0aGUgRE9KIGFuZCB0aGUgYXBwcm9wcmlhdGUgZmVkZXJhbCBiYW5raW5nIGFnZW5jeSBoYXZlIHNoYXJlZCByZXNwb25zaWJpbGl0eSBmb3IgYXNzZXNzaW5nIHRoZSBjb21wZXRpdGl2ZW5lc3MgaW1wYWN0IG9mIGEgcHJvcG9zZWQmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "source": "Office of the Comptroller of the Currency (OCC) (.gov)",
+      "read_more_link": "https://www.occ.gov/news-issuances/speeches/2022/pub-speech-2022-49.pdf#:~:text=Under%20the%20Bank%20Merger%20Act%2C,impact%20of%20a%20proposed%20merger."
+    },
+    {
+      "position": 9,
+      "title": "Improving Public Sector Performance through Innovation and …",
+      "link": "https://openknowledge.worldbank.org/server/api/core/bitstreams/aea43954-078e-5aa5-a712-94b1fc7a178a/content",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFdpArUL3nqKzpIbsuYTVnXHzg_a3h7hWVvXaV70b2u23i2Hr3d7riuvbkRVbsJVCTeREKF6xxkUTCQRP26SeID50WGR-2xcP_JL7P2T3JAdBXs9Af3bMDcVCz-6bcwxGZ0bWZDCsb-sAnnAQoxXcvMzcY4sY1ggVvT1nn_GK2hZ30E0rmHtKkEnSkpwM5DGJDe1ECSUyiCRYpHH6rOKl&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQFnoECD4QAQ&uoh=1",
+      "displayed_link": "https://openknowledge.worldbank.org › content",
+      "date": "Oct 18, 2018",
+      "snippet": "Level 9: Overall government strategy. A comprehensive government strategy is adopted, with clearly defined roles and responsibilities for individual ...",
+      "snippet_highlighted_words": [
+        "9",
+        "government",
+        "government"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Level 9: Overall government strategy. A comprehensive government strategy is adopted, with clearly defined roles and responsibilities for individual ...",
+          "source_info_link": "https://openknowledge.worldbank.org/server/api/core/bitstreams/aea43954-078e-5aa5-a712-94b1fc7a178a/content",
+          "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAABQBwCdASocABwAPtEutFooIagoGAEAGgloALsgwcgEsZ7xt_yihZvSCzdvgHogfqqOzWs8n0FORmvPknhNR6hRh44AAP72ASysI9u3IzQirqbk1MZOzqKDx4BVtlDLC-fYqzx53wbLCNR6Pr05xkR9XBqlBBGCJSJiGcfjonskTZFRtfs439nb-EEVYlrlio2jimwicBB8hcfdsYtEBP-R8kG71__2S18vAg0geEUODbQOdpm-z4qv8HfhoVf1wqseDFs22ypvRK6fZkK3rZKfKXf1Uv5x9YQh_bNU7AOm1LCL6rwC2SpOniaK-TF3tGNvu8YsWLuZWeLmHghOEu6p2n42fUgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZkcEFyVUwzbnFLenBJYnN1WVRWblhIemdfYTNoN2hXVnZYYVY3MGIydTIzaTJIcjNkN3JpdXZia1JWYnNKVkNUZVJFS0Y2eHhrVVRDUVJQMjZTZUlENTBXR1ItMnhjUF9KTDdQMlQzSkFkQlhzOUFmM2JNRGNWQ3otNmJjd3hHWjBiV1pEQ3NiLXNBbm5BUW94WGN2TXpjWTRzWTFnZ1Z2VDFubl9HSzJoWjMwRTBybUh0S2tFblNrcHdNNURHSkRlMUVDU1V5aUNSWXBISDZyT0tsEgQaAggAGpIHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AYIABAAGAAgACpZCgpnb3Zlcm5tZW50FRI42z4aA2dvdhoMZ292ZXJubWVudCdzGgxnb3Zlcm5tZW50YWwaC2dvdmVybm1lbnRzGgRnb3Z0GhJnb3Zlcm5tZW50YXBwcm92ZWQqegoIYXBwcm92ZWQVoF5NPBoIYWNjZXB0ZWQaCmFjY3JlZGl0ZWQaCGFwcHJvdmFsGgdhcHByb3ZlGgphdXRob3Jpc2VkGgphdXRob3JpemVkGghlbmRvcnNlZBoKcmVjb2duaXNlZBoSZ292ZXJubWVudGFwcHJvdmVkKjMKBm1lcmdlchW_RYk6GgVtZXJnZRoHbWVyZ2VycxoHbWVyZ2luZxoLaXY7cDttZXJnZXIqHgoEbmluZRUxb9Q7GgE5GgM5dGgaAml4GgVuaW50aCobCgZwdWJsaWMVeS7fPxoMcHVibGljc2VjdG9yKi0KBnNlY3RvchUTE7o_GgdzZWN0b3JzGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3Iy6gEvZ290bz91cmw9Q0FFU293RUI2enN3RmRwQXJVTDNucUt6cElic3VZVFZuWEh6Z19hM2g3aFdWdlhhVjcwYjJ1MjNpMkhyM2Q3cml1dmJrUlZic0pWQ1RlUkVLRjZ4eGtVVENRUlAyNlNlSUQ1MFdHUi0yeGNQX0pMN1AyVDNKQWRCWHM5QWYzYk1EY1ZDei02YmN3eEdaMGJXWkRDc2Itc0FubkFRb3hYY3ZNemNZNHNZMWdnVnZUMW5uX0dLMmhaMzBFMHJtSHRLa0VuU2twd001REdKRGUxRUNTVXlpQ1JZcEhINnJPS2w6RUltcHJvdmluZyA8Yj5QdWJsaWMgU2VjdG9yPC9iPiBQZXJmb3JtYW5jZSB0aHJvdWdoIElubm92YXRpb24gYW5kIOKApkKyAUxldmVsIDxiPjk8L2I-OiBPdmVyYWxsIDxiPmdvdmVybm1lbnQ8L2I-IHN0cmF0ZWd5LiBBIGNvbXByZWhlbnNpdmUgPGI-Z292ZXJubWVudDwvYj4gc3RyYXRlZ3kgaXMgYWRvcHRlZCwgd2l0aCBjbGVhcmx5IGRlZmluZWQgcm9sZXMgYW5kIHJlc3BvbnNpYmlsaXRpZXMgZm9yIGluZGl2aWR1YWwmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZkcEFyVUwzbnFLenBJYnN1WVRWblhIemdfYTNoN2hXVnZYYVY3MGIydTIzaTJIcjNkN3JpdXZia1JWYnNKVkNUZVJFS0Y2eHhrVVRDUVJQMjZTZUlENTBXR1ItMnhjUF9KTDdQMlQzSkFkQlhzOUFmM2JNRGNWQ3otNmJjd3hHWjBiV1pEQ3NiLXNBbm5BUW94WGN2TXpjWTRzWTFnZ1Z2VDFubl9HSzJoWjMwRTBybUh0S2tFblNrcHdNNURHSkRlMUVDU1V5aUNSWXBISDZyT0tsEgQaAggAGpIHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AYIABAAGAAgACpZCgpnb3Zlcm5tZW50FRI42z4aA2dvdhoMZ292ZXJubWVudCdzGgxnb3Zlcm5tZW50YWwaC2dvdmVybm1lbnRzGgRnb3Z0GhJnb3Zlcm5tZW50YXBwcm92ZWQqegoIYXBwcm92ZWQVoF5NPBoIYWNjZXB0ZWQaCmFjY3JlZGl0ZWQaCGFwcHJvdmFsGgdhcHByb3ZlGgphdXRob3Jpc2VkGgphdXRob3JpemVkGghlbmRvcnNlZBoKcmVjb2duaXNlZBoSZ292ZXJubWVudGFwcHJvdmVkKjMKBm1lcmdlchW_RYk6GgVtZXJnZRoHbWVyZ2VycxoHbWVyZ2luZxoLaXY7cDttZXJnZXIqHgoEbmluZRUxb9Q7GgE5GgM5dGgaAml4GgVuaW50aCobCgZwdWJsaWMVeS7fPxoMcHVibGljc2VjdG9yKi0KBnNlY3RvchUTE7o_GgdzZWN0b3JzGgdzZXJ2aWNlGgxwdWJsaWNzZWN0b3Iy6gEvZ290bz91cmw9Q0FFU293RUI2enN3RmRwQXJVTDNucUt6cElic3VZVFZuWEh6Z19hM2g3aFdWdlhhVjcwYjJ1MjNpMkhyM2Q3cml1dmJrUlZic0pWQ1RlUkVLRjZ4eGtVVENRUlAyNlNlSUQ1MFdHUi0yeGNQX0pMN1AyVDNKQWRCWHM5QWYzYk1EY1ZDei02YmN3eEdaMGJXWkRDc2Itc0FubkFRb3hYY3ZNemNZNHNZMWdnVnZUMW5uX0dLMmhaMzBFMHJtSHRLa0VuU2twd001REdKRGUxRUNTVXlpQ1JZcEhINnJPS2w6RUltcHJvdmluZyA8Yj5QdWJsaWMgU2VjdG9yPC9iPiBQZXJmb3JtYW5jZSB0aHJvdWdoIElubm92YXRpb24gYW5kIOKApkKyAUxldmVsIDxiPjk8L2I-OiBPdmVyYWxsIDxiPmdvdmVybm1lbnQ8L2I-IHN0cmF0ZWd5LiBBIGNvbXByZWhlbnNpdmUgPGI-Z292ZXJubWVudDwvYj4gc3RyYXRlZ3kgaXMgYWRvcHRlZCwgd2l0aCBjbGVhcmx5IGRlZmluZWQgcm9sZXMgYW5kIHJlc3BvbnNpYmlsaXRpZXMgZm9yIGluZGl2aWR1YWwmbmJzcDsuLi5SATkiAhABSABYAGgA",
+      "source": "World Bank Group",
+      "read_more_link": "https://openknowledge.worldbank.org/server/api/core/bitstreams/aea43954-078e-5aa5-a712-94b1fc7a178a/content#:~:text=Level%209%3A%20Overall%20government,for%20individual%20ministries%20and%20line"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=10&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8NMDegQIPBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=10&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAE",
+      "3": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=20&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAG",
+      "4": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=30&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAI",
+      "5": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=40&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAK",
+      "6": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=50&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAM",
+      "7": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=60&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAO",
+      "8": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=70&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAQ",
+      "9": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=80&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAS",
+      "10": "https://www.google.com/search?q=government+approved+merger+nine+public+sector+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=QL-yas_3OY_hkPIP5vCm0Ak&start=90&sa=N&sstk=AS6-VmIZXWEjTcF8ZpMnsvVDWxoz10Q5HO_VtDFH2v7ez3TfvpJWwHZYWB6BwlFq7wU_lbUJHw8SURvmJcKnAdmDBmazoLgtG-LMng&ved=2ahUKEwjPl7O234KXAxWPMEQIHWa4CZoQ8tMDegQIPBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=government+approved+merger+nine+public+sector+before%3A2026-01-01&start=90"
+    }
+  }
+}

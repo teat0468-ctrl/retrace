@@ -1,0 +1,580 @@
+{
+  "search_metadata": {
+    "id": "6ab36f4f526c4869a564c874",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QVslHjCUrJZ2-_UUcBbQkKEkZx1zbUbsyMCMu0CK038/6ab36f4f526c4869a564c874.json",
+    "markdown_endpoint": "https://serpapi.com/searches/QVslHjCUrJZ2-_UUcBbQkKEkZx1zbUbsyMCMu0CK038/6ab36f4f526c4869a564c874.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/QVslHjCUrJZ2-_UUcBbQkKEkZx1zbUbsyMCMu0CK038/6ab36f4f526c4869a564c874.json_with_pixel_position",
+    "created_at": "2026-09-23 06:18:55 UTC",
+    "processed_at": "2026-09-23 06:18:55 UTC",
+    "google_url": "https://www.google.com/search?q=Apple+Vision+before%3A2026-01-01&oq=Apple+Vision+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/QVslHjCUrJZ2-_UUcBbQkKEkZx1zbUbsyMCMu0CK038/6ab36f4f526c4869a564c874.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Apple Vision before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Apple Vision before:2026-01-01",
+    "total_results": 701000000,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Is the Apple Vision Pro Really Worth the $3499 Price Tag?",
+      "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab36f4f526c4869a564c874/images/JR5XkPlieFTH9iuFGS8EUVKh3VpRqth3jpDSmZHfMGE.jpeg",
+      "channel": "Mashable",
+      "duration": "12:21",
+      "platform": "YouTube",
+      "date": "Dec 30, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQMn6o7ni01gDzFDPYWI86rmqgKPYR09s303w",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Initial reactions",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=0"
+        },
+        {
+          "time": "00:30",
+          "title": "Specs",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=30"
+        },
+        {
+          "time": "02:02",
+          "title": "The fit",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=122"
+        },
+        {
+          "time": "03:14",
+          "title": "Immersive experiences",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=194"
+        },
+        {
+          "time": "05:36",
+          "title": "Spatial photos",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=336"
+        },
+        {
+          "time": "06:08",
+          "title": "Entertainment experiences vs. work experiences",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=368"
+        },
+        {
+          "time": "08:00",
+          "title": "Gaming on the Vision Pro",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=480"
+        },
+        {
+          "time": "08:43",
+          "title": "What's different?",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=523"
+        },
+        {
+          "time": "09:24",
+          "title": "Samsung XR vs. Apple Vision Pro?",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=564"
+        },
+        {
+          "time": "09:53",
+          "title": "Who should buy this?",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=593"
+        },
+        {
+          "time": "10:24",
+          "title": "Where does the Apple Vision Pro fall short?",
+          "link": "https://www.youtube.com/watch?v=Rjvgq5cXMbA&vl=en&t=624"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "What's Going on with Apple Vision Pro?",
+      "link": "https://www.youtube.com/watch?v=rU9aqBv0YdY&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab36f4f526c4869a564c874/images/_Bbbyk1BctxDSmxpT9YrrCA85nKP6LbSJShFGtsr6js.jpeg",
+      "channel": "Marques Brownlee",
+      "duration": "10:38",
+      "platform": "YouTube",
+      "date": "Oct 21, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSeVBS8-pt47mJrv5sOh2OFnMThh9K2Iet8Tw"
+    },
+    {
+      "position": 3,
+      "title": "Apple Vision Pro M5 Review!",
+      "link": "https://www.youtube.com/watch?v=LzZ2j9CAcww",
+      "thumbnail": "https://serpapi.com/searches/6ab36f4f526c4869a564c874/images/lW5f2XJeLQxy11rpw2eaDsYzv-D-8LOrNbZTW1uarLc.jpeg",
+      "channel": "Adam Savage’s Tested",
+      "duration": "32:21",
+      "platform": "YouTube",
+      "date": "Oct 21, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQWlEGv18_t4Z0kOWFCrmBaK_j07cGqmxHWSg"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "You can buy the Apple Vision ProGo to product viewer dialog for this item. starting at $3,401 directly from the Apple Store.",
+        "snippet_links": [
+          {
+            "text": "Apple Vision ProGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:13027485509560139529,gpcid:8459870798037846911,headlineOfferDocid:14571510363977647377,catalogid:9467328667748378494,productDocid:3018952622383628385&q=product&sa=X&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQxa4PegoIAggACAAIDBAG"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "starting at $3,401"
+        ],
+        "reference_indexes": [
+          6
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Overview & Key Features"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Spatial Computing: Blends digital content seamlessly with your physical environment.",
+            "reference_indexes": [
+              8
+            ]
+          },
+          {
+            "snippet": "Control: Navigate entirely using your eyes, hand gestures, and voice without needing physical controllers."
+          },
+          {
+            "snippet": "Displays: Custom micro-OLED displays feature over 23 million pixels, delivering a resolution higher than 4K for each eye.",
+            "reference_indexes": [
+              9
+            ]
+          },
+          {
+            "snippet": "Performance: Powered by the M5 chip (and companion R1 sensor processor) for real-time tracking and low-latency image streaming.",
+            "reference_indexes": [
+              6
+            ]
+          },
+          {
+            "snippet": "Battery Life: External pocket-sized battery provides up to 2.5 hours of general use or 3 hours of video playback."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you are planning to purchase or use the Apple Vision Pro, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What is your primary intended use (entertainment, professional productivity, or development)?"
+          },
+          {
+            "snippet": "Do you need assistance checking for vision prescription inserts (like ZEISS)?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.apple.com/shop/buy-vision",
+        "source": "apple.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 1
+      },
+      {
+        "link": "https://www.macrumors.com/roundup/apple-vision-pro/",
+        "source": "macrumors.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+        "source": "apple.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.apple.com/apple-vision-pro/",
+        "source": "apple.com",
+        "index": 4
+      },
+      {
+        "title": "Buy Apple Vision Pro",
+        "link": "https://www.apple.com/shop/buy-vision",
+        "snippet": "APPLE VISION PRO. Enjoy truly immersive experiences. Watch, work, and connect in ways never before possible. APP STORE. Explore the App Store for Apple Vision Pro.",
+        "source": "Apple",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfkotogtwg45k_yxTEG3I7biry1yFlhgFBx_3X_DqO0UubldGiwJzybn9A3Xv0Vw5ocEt4o_a37l8LcMPzJNWk25T-l3kFxpeyJJPP",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Apple Vision Pro",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12807498846976116745,catalogid:5338878636009671656,gpcid:16383503307655682542,mid:576462567000559141&ibp=oshop",
+        "snippet": "Welcome to the era of spatial computing. Apple Vision Pro seamlessly blends digital content with your physical space. You navigate simply by using your eyes, hands, and voice. Apple Vision Pro can transform any room into your own personal theater. Expand your movies, shows, and games up to the perfect size while feeling like you’re part of the action with Spatial Audio. Featuring Apple’s first 3D camera you can capture magical spatial photos and spatial videos in 3D, then relive those cherished moments like never before with immersive Spatial Audio. Collaborate and connect wherever you are. FaceTime video tiles are life-size, and as new people join, the call simply expands in your room.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjD-Pmr4PVGaaBpCGTxa1jXq4ZcqaTGFSwbzqCJ4IISBqh_tkshTHoQ0XdDoFbvkqb64B3mr2ilwGass",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Apple Vision Pro: Now Available! Reviews, Features, and Price",
+        "link": "https://www.macrumors.com/roundup/apple-vision-pro/",
+        "snippet": "Apple Vision Pro is Apple's augmented and virtual reality headset, a major new Apple product category. The first version of the Vision Pro launched in February 202...",
+        "source": "MacRumors",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq7qNVPfNmirrpiym2n3nb2mf8EK20x__iok2P0rWcn65dTrqDsVxs0If7jmirZQWDO1RPhULVvfzLOJngrkeOXWfGhesYLR1dEq8N",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Apple Vision Pro",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:9096749691855354380,catalogid:11035504884468900315,gpcid:3934077110719553866,mid:576462768521274108&ibp=oshop",
+        "snippet": "Discover the Apple Vision Pro (256 GB), a virtual reality headset designed to transport you into another world. With its Micro OLED technology, the headset delivers a visual experience, boasting 23 million pixels and a 92% DCI-P3 color gamut for vivid, lifelike images. The immersive 3D display system, complemented by a three‐element lens, ensures every detail is crisp and engaging. Audio is just as impressive, thanks to the 6-microphone array and stereo speakers that create a beamforming audio landscape, enveloping you in the sounds of your virtual environment. Connectivity is a breeze with Wi-Fi 6 technology and Bluetooth 5.3, allowing for high-definition content streaming without interruptions. The headset also supports HDR10, ensuring high visual quality for your content. Apple Vision Pro is not just about entertainment; it's also a step forward in interactive technology and security. With features like eye tracking, hand gestures, and voice control, you have complete control over your virtual experience. Iris‐based biometric authentication adds a layer of personal security, making your virtual journey both safe and personalized. Moreover, its eco-conscious design, including being BFR/PVC-free and CarbonNeutral certified, demonstrates Apple's commitment to sustainability. Step into the future with Apple Vision Pro and experience virtual reality like never before.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoz0CQe06jQSm4YsNx4VUhjkoVI1YHtvq_WYF15o8Nb2j3xKKO4RITWDQEny9b80wQzbXUgmF8dvrudE",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "apple vision pro",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:3018952622383628385,catalogid:9467328667748378494,gpcid:8459870798037846911&ibp=oshop",
+        "snippet": "Apple Vision Pro Overview Immersive Entertainment Apple describes this feature as having “your own personal cinema.” Wherever you are, you can have an adjustable virtual screen to enjoy different content. Apple-Vision-Pro-cinema - Apple Additionally, Apple Vision Pro can function as a computer or i - Pad and will have an extensive app store. 3D Photos and Videos Apple Vision Pro can record videos and take spatial photos thanks to its 12 cameras and 6 microphones. This allows capturing memories and reliving them later in three dimensions. Virtual Avatars With the help of a camera, Apple Vision Pro can create a virtual avatar for making calls or other applications. The avatar can detect the user’s facial and eye movements to replicate them and provide greater realism. 3D Meetings with Apple Vision Pro Facetime meetings will also have their own augmented reality version, where avatars can be used. The user can have a meeting, viewing the call participants in separate windows in front of them. 3D Meetings with Apple Vision Pro - Apple ‘Eye - Sight’ to Display the User’s Eyes When the user puts on the glasses, an external display can show their eyes to the outside world. This facilitates communication between users of Apple Vision Pro. When the user is fully immersed in virtual reality, the system displays the lenses as black. When in mixed reality, and therefore seeing the real environment, a representation of the eyes appears. This way, people in the surroundings know that the user can interact with them. ‘Eye - Sight’ to Display the User’s Eyes - Fuente: Apple These are some of the functionalities that the new Apple Vision Pro brings. Now, let’s talk about the glasses’ features and specifications. Features and specifications of Apple Vision Pro Design The front of the Apple Vision Pro is made of glass, with an aluminium body connecting it to the ‘Light Seal.’ This is the part that fits the user’s face, blocking out external light. The strap is made of elastic fabric, and the glasses can be adjusted by rotating a small wheel. Design of Apple Vision Pro - Apple Dual-Chip Processor The Apple Vision Pro features two processors to allow for complex 3D experiences. - OS system, and visual algorithms. On the other hand, the new Apple R1 chip is designed to process information from cameras, sensors, and microphones. It can transmit captured images in 12 milliseconds. More than 4K Displays per Eye The micro-OLED displays of the Apple Vision Pro have 23 million pixels. This provides a resolution superior to 4K for each eye, surpassing that of other headsets. Precise Eye Tracking to Eliminate the Need for Controllers The tracking system of the Apple Vision Pro consists of LEDs and infrared cameras that project invisible light patterns onto the eyes. This provides precise information about eye movement, eliminating the need for a controller. The user can select elements simply by looking at them and making a gesture with their hand. Hand tracking combines with eye tracking to anticipate the user’s movements. This allows for more accurate detection of their intentions. Spatial Audio System of the Apple Vision Pro Two audio pods, located next to the ears, provide personalized audio and allow the user to hear what’s happening around them. The spatial audio system analyses the environment using sensors to adapt to it. Spatial Audio System of the Apple Vision Pro Apple External Battery with 2 Hours of Battery Life The battery of Apple Vision Pro is external, not integrated into the body of the headset to reduce its weight. It has a battery life of 2 hours. However, the glasses can be connected to power for all-day use. Security System of the Apple Vision Pro The Apple Vision Pro features a security system known as Optic ID. It analyzes and recognizes the unique iris information of the user.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTs7oJXtQFz2UGDxW7ngcVEigaAz9iAW8spdP-e3K0yY14bOY86XaNE4gNFZS3gpl2CTxDv2BdWnPjpeFY",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Apple Vision Pro upgraded with the M5 chip and Dual Knit Band",
+        "link": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+        "snippet": "With M5, Apple Vision Pro renders 10 percent more pixels on the custom micro-OLED displays compared to the previous generation, resulting in a sharper image with c...",
+        "source": "Apple",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxZUR9nbmr-tEvkNbmxukUB_NlJXn0ZaAbulBt58fC5MnosQR-j4TuYXT1EnIUYAOExG1bq2mIbNjUcWt8Tut4MV_SbaX3NE2GnHKi",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Apple Vision Pro",
+        "link": "https://www.apple.com/apple-vision-pro/",
+        "snippet": "Apple Vision Pro is powered by an external, aluminum‑encased battery that you can slip into your pocket. It supports up to 2.5 hours of general use and up to 3 hou...",
+        "source": "Apple",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTs3P9R7arTPYuityU9sTxnrAgeXstRlWD-VGKV0dN2WsYIMCzLj0mWHjlJT7BkBysNL5lIpad6MUbbG71ytRip3mY1gViQtIHfK87o",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Buy Apple Vision Pro",
+      "link": "https://www.apple.com/shop/buy-vision",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVBnDOq_LJfDE7HO442g3rrJ1eKhIpoEUnUG5U4an55JuCgfrYrgB8fIpqeBGbLJyfUJCKv1RoS8h7rUL_fLpV1C9Ib7PzoanZWQQHTuzIFPQqokFSMNnskg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › shop › buy-vision",
+      "date": "Jan 19, 2024",
+      "snippet": "ZEISS Optical Inserts, round lenses, black frames From $99 or $8.25/mo. for 12 mo. guided, one-way video session. Apple $199.00 Only at. Watch, work, and ...",
+      "snippet_highlighted_words": [
+        "ZEISS Optical Inserts, round lenses, black frames"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "free_day_returns": 14
+          },
+          "extensions": [
+            "4.6",
+            "store rating (13K)",
+            "Free delivery",
+            "Free 14-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "ZEISS Optical Inserts, round lenses, black frames From $99 or $8.25/mo. for 12 mo. guided, one-way video session. Apple $199.00 Only at. Watch, work, and ...",
+          "source_info_link": "https://www.apple.com/shop/buy-vision",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkJuRE9xX0xKZkRFN0hPNDQyZzNyckoxZUtoSXBvRVVuVUc1VTRhbjU1SnVDZ2ZyWXJnQjhmSXBxZUJHYkxKeWZVSkNLdjFSb1M4aDdyVUxfZkxwVjFDOUliN1B6b2FuWldRUUhUdXpJRlBRcW9rRlNNTm5za2cSBBoCCAAa5QMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJAsgMIABAAGAAgACoiCgVhcHBsZRXxpRdBGgdhcHBsZSdzGgthcHBsZXZpc2lvbiosCgZ2aXNpb24V0V6bQBoHbWlzc2lvbhoHdmlzaW9ucxoLYXBwbGV2aXNpb24yjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWQm5ET3FfTEpmREU3SE80NDJnM3JySjFlS2hJcG9FVW5VRzVVNGFuNTVKdUNnZnJZcmdCOGZJcHFlQkdiTEp5ZlVKQ0t2MVJvUzhoN3JVTF9mTHBWMUM5SWI3UHpvYW5aV1FRSFR1eklGUFFxb2tGU01ObnNrZzobQnV5IDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvQqkBPGI-WkVJU1MgT3B0aWNhbCBJbnNlcnRzLCByb3VuZCBsZW5zZXMsIGJsYWNrIGZyYW1lczwvYj4gRnJvbSAkOTkgb3IgJDguMjUvbW8uIGZvciAxMiBtby4gZ3VpZGVkLCBvbmUtd2F5IHZpZGVvIHNlc3Npb24uIEFwcGxlICQxOTkuMDAgT25seSBhdC4gV2F0Y2gsIHdvcmssIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkJuRE9xX0xKZkRFN0hPNDQyZzNyckoxZUtoSXBvRVVuVUc1VTRhbjU1SnVDZ2ZyWXJnQjhmSXBxZUJHYkxKeWZVSkNLdjFSb1M4aDdyVUxfZkxwVjFDOUliN1B6b2FuWldRUUhUdXpJRlBRcW9rRlNNTm5za2cSBBoCCAAa5QMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJAsgMIABAAGAAgACoiCgVhcHBsZRXxpRdBGgdhcHBsZSdzGgthcHBsZXZpc2lvbiosCgZ2aXNpb24V0V6bQBoHbWlzc2lvbhoHdmlzaW9ucxoLYXBwbGV2aXNpb24yjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWQm5ET3FfTEpmREU3SE80NDJnM3JySjFlS2hJcG9FVW5VRzVVNGFuNTVKdUNnZnJZcmdCOGZJcHFlQkdiTEp5ZlVKQ0t2MVJvUzhoN3JVTF9mTHBWMUM5SWI3UHpvYW5aV1FRSFR1eklGUFFxb2tGU01ObnNrZzobQnV5IDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvQqkBPGI-WkVJU1MgT3B0aWNhbCBJbnNlcnRzLCByb3VuZCBsZW5zZXMsIGJsYWNrIGZyYW1lczwvYj4gRnJvbSAkOTkgb3IgJDguMjUvbW8uIGZvciAxMiBtby4gZ3VpZGVkLCBvbmUtd2F5IHZpZGVvIHNlc3Npb24uIEFwcGxlICQxOTkuMDAgT25seSBhdC4gV2F0Y2gsIHdvcmssIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Apple"
+    },
+    {
+      "position": 2,
+      "title": "Buy Apple Vision Pro",
+      "link": "https://www.apple.com/shop/buy-vision/apple-vision-pro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVyapGyj4IhlFBbdUMwZY-w2Fy3GWdeVTkJ8XC4ovtUY4-S40D8teFKfonoZ2ebB_SAF0ja8Bh8ISmwQG8GSVqcNUJuGHuoOpLEFHYAZDqutlc8SAEHE_jMiH-2LIFqhFZnHkTP8PsC3V9&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › shop › apple-vision-pro",
+      "date": "Jan 19, 2024",
+      "snippet": "Shop Apple Vision Pro with the new powerful M5 chip and comfortable Dual Knit Band. From $3699 or $308.25/mo. per month. Apple Vision Pro is designed to be ...",
+      "snippet_highlighted_words": [
+        "Apple Vision Pro"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.4,
+            "price_from": 3401.0,
+            "price_to": 3901.0,
+            "currency": "$",
+            "day_returns": 14
+          },
+          "extensions": [
+            "4.4",
+            "$3,401.00 to $3,901.00",
+            "In stock",
+            "(9)",
+            "Free delivery",
+            "14-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Shop Apple Vision Pro with the new powerful M5 chip and comfortable Dual Knit Band. From $3699 or $308.25/mo. per month. Apple Vision Pro is designed to be ...",
+          "source_info_link": "https://www.apple.com/shop/buy-vision/apple-vision-pro",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnlhcEd5ajRJaGxGQmJkVU13WlktdzJGeTNHV2RlVlRrSjhYQzRvdnRVWTQtUzQwRDh0ZUZLZm9ub1oyZWJCX1NBRjBqYThCaDhJU213UUc4R1NWcWNOVUp1R0h1b09wTEVGSFlBWkRxdXRsYzhTQUVIRV9qTWlILTJMSUZxaEZabkhrVFA4UHNDM1Y5EgQaAggAGv0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoNCAESCWFwcGxlLmNvbXIAegCCQMoDCAAQABgAIAAqIgoFYXBwbGUVhbITQRoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFYI2lkAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnlhcEd5ajRJaGxGQmJkVU13WlktdzJGeTNHV2RlVlRrSjhYQzRvdnRVWTQtUzQwRDh0ZUZLZm9ub1oyZWJCX1NBRjBqYThCaDhJU213UUc4R1NWcWNOVUp1R0h1b09wTEVGSFlBWkRxdXRsYzhTQUVIRV9qTWlILTJMSUZxaEZabkhrVFA4UHNDM1Y5OhtCdXkgPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm9CqwFTaG9wIDxiPkFwcGxlIFZpc2lvbiBQcm88L2I-IHdpdGggdGhlIG5ldyBwb3dlcmZ1bCBNNSBjaGlwIGFuZCBjb21mb3J0YWJsZSBEdWFsIEtuaXQgQmFuZC4gRnJvbSAkMzY5OSBvciAkMzA4LjI1L21vLiBwZXIgbW9udGguIEFwcGxlIFZpc2lvbiBQcm8gaXMgZGVzaWduZWQgdG8gYmUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnlhcEd5ajRJaGxGQmJkVU13WlktdzJGeTNHV2RlVlRrSjhYQzRvdnRVWTQtUzQwRDh0ZUZLZm9ub1oyZWJCX1NBRjBqYThCaDhJU213UUc4R1NWcWNOVUp1R0h1b09wTEVGSFlBWkRxdXRsYzhTQUVIRV9qTWlILTJMSUZxaEZabkhrVFA4UHNDM1Y5EgQaAggAGv0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoNCAESCWFwcGxlLmNvbXIAegCCQMoDCAAQABgAIAAqIgoFYXBwbGUVhbITQRoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFYI2lkAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnlhcEd5ajRJaGxGQmJkVU13WlktdzJGeTNHV2RlVlRrSjhYQzRvdnRVWTQtUzQwRDh0ZUZLZm9ub1oyZWJCX1NBRjBqYThCaDhJU213UUc4R1NWcWNOVUp1R0h1b09wTEVGSFlBWkRxdXRsYzhTQUVIRV9qTWlILTJMSUZxaEZabkhrVFA4UHNDM1Y5OhtCdXkgPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm9CqwFTaG9wIDxiPkFwcGxlIFZpc2lvbiBQcm88L2I-IHdpdGggdGhlIG5ldyBwb3dlcmZ1bCBNNSBjaGlwIGFuZCBjb21mb3J0YWJsZSBEdWFsIEtuaXQgQmFuZC4gRnJvbSAkMzY5OSBvciAkMzA4LjI1L21vLiBwZXIgbW9udGguIEFwcGxlIFZpc2lvbiBQcm8gaXMgZGVzaWduZWQgdG8gYmUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Apple"
+    },
+    {
+      "position": 3,
+      "title": "Apple Vision Pro owners, how many of you still actually use ...",
+      "link": "https://www.reddit.com/r/apple/comments/1fr3syw/apple_vision_pro_owners_how_many_of_you_still/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFSEtFvbClDfh84_J7YQSAEy-bJJ5JxMWvw-qMyQLAcIyGA6oA3sIhmDbEmhijXoFuiWCK2mEwZYGj11lTvrHeNi-2JTaRC2aL3qr1GPFP7kyFmRCLg5zYthwVpZc3VZ4COjYgRZO_VEHx2FRp3SEyZmSdc1dsrZ22Ru6blwUrbhAVbCM2yjr6-Gzdd-ppEr6-v8&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECCsQAQ&uoh=1",
+      "displayed_link": "710+ comments · 1 year ago",
+      "snippet": "The Apple Vision Pro came out over 6 months ago now, and as you know, the buzz has completely died down. No more press, no more YouTube videos, ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Apple Vision Pro: The Loneliest Table in the Apple ...",
+            "link": "https://www.reddit.com/r/apple/comments/1mbrnid/apple_vision_pro_the_loneliest_table_in_the_apple/",
+            "answer_count": 257,
+            "date": "Jul 28, 2025"
+          },
+          {
+            "title": "Over 60 Days with Apple Vision Pro - No more ...",
+            "link": "https://www.reddit.com/r/VisionPro/comments/1cq670r/over_60_days_with_apple_vision_pro_reflections/",
+            "answer_count": 141,
+            "date": "May 12, 2024"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Still use it about 4 times a week for like 3-4 hours each. It's great for streaming my PC into via Moonlight, and it's my main movie/youtube/music video ...",
+          "source_info_link": "https://www.reddit.com/r/apple/comments/1fr3syw/apple_vision_pro_owners_how_many_of_you_still/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZTRXRGdmJDbERmaDg0X0o3WVFTQUV5LWJKSjVKeE1XdnctcU15UUxBY0l5R0E2b0Ezc0lobURiRW1oaWpYb0Z1aVdDSzJtRXdaWUdqMTFsVHZySGVOaS0ySlRhUkMyYUwzcXIxR1BGUDdreUZtUkNMZzV6WXRod1ZwWmMzVlo0Q09qWWdSWk9fVkVIeDJGUnAzU0V5Wm1TZGMxZHNyWjIyUnU2Ymx3VXJiaEFWYkNNMnlqcjYtR3pkZC1wcEVyNi12OBIEGgIIABrXBBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLEECAAQABgAIAAqIgoFYXBwbGUVqJqiQBoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFfcMhUAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZTRXRGdmJDbERmaDg0X0o3WVFTQUV5LWJKSjVKeE1XdnctcU15UUxBY0l5R0E2b0Ezc0lobURiRW1oaWpYb0Z1aVdDSzJtRXdaWUdqMTFsVHZySGVOaS0ySlRhUkMyYUwzcXIxR1BGUDdreUZtUkNMZzV6WXRod1ZwWmMzVlo0Q09qWWdSWk9fVkVIeDJGUnAzU0V5Wm1TZGMxZHNyWjIyUnU2Ymx3VXJiaEFWYkNNMnlqcjYtR3pkZC1wcEVyNi12ODpGPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gb3duZXJzLCBob3cgbWFueSBvZiB5b3Ugc3RpbGwgYWN0dWFsbHkgdXNlIC4uLkKwATxiPlN0aWxsIHVzZSBpdCBhYm91dCA0IHRpbWVzIGEgd2VlayBmb3IgbGlrZSAzLTQgaG91cnMgZWFjaDwvYj4uIEl0JiMzOTtzIGdyZWF0IGZvciBzdHJlYW1pbmcgbXkgUEMgaW50byB2aWEgTW9vbmxpZ2h0LCBhbmQgaXQmIzM5O3MgbXkgbWFpbiBtb3ZpZS95b3V0dWJlL211c2ljIHZpZGVvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZTRXRGdmJDbERmaDg0X0o3WVFTQUV5LWJKSjVKeE1XdnctcU15UUxBY0l5R0E2b0Ezc0lobURiRW1oaWpYb0Z1aVdDSzJtRXdaWUdqMTFsVHZySGVOaS0ySlRhUkMyYUwzcXIxR1BGUDdreUZtUkNMZzV6WXRod1ZwWmMzVlo0Q09qWWdSWk9fVkVIeDJGUnAzU0V5Wm1TZGMxZHNyWjIyUnU2Ymx3VXJiaEFWYkNNMnlqcjYtR3pkZC1wcEVyNi12OBIEGgIIABrXBBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLEECAAQABgAIAAqIgoFYXBwbGUVqJqiQBoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFfcMhUAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZTRXRGdmJDbERmaDg0X0o3WVFTQUV5LWJKSjVKeE1XdnctcU15UUxBY0l5R0E2b0Ezc0lobURiRW1oaWpYb0Z1aVdDSzJtRXdaWUdqMTFsVHZySGVOaS0ySlRhUkMyYUwzcXIxR1BGUDdreUZtUkNMZzV6WXRod1ZwWmMzVlo0Q09qWWdSWk9fVkVIeDJGUnAzU0V5Wm1TZGMxZHNyWjIyUnU2Ymx3VXJiaEFWYkNNMnlqcjYtR3pkZC1wcEVyNi12ODpGPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gb3duZXJzLCBob3cgbWFueSBvZiB5b3Ugc3RpbGwgYWN0dWFsbHkgdXNlIC4uLkKwATxiPlN0aWxsIHVzZSBpdCBhYm91dCA0IHRpbWVzIGEgd2VlayBmb3IgbGlrZSAzLTQgaG91cnMgZWFjaDwvYj4uIEl0JiMzOTtzIGdyZWF0IGZvciBzdHJlYW1pbmcgbXkgUEMgaW50byB2aWEgTW9vbmxpZ2h0LCBhbmQgaXQmIzM5O3MgbXkgbWFpbiBtb3ZpZS95b3V0dWJlL211c2ljIHZpZGVvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Reddit · r/apple"
+    },
+    {
+      "position": 4,
+      "title": "Apple Vision Pro upgraded with the M5 chip and Dual Knit ...",
+      "link": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFY-3H-_Uzh2Ydx3ocKJVBhH1-syjgHmuW-kDOztpaVu-mCJNrd_KZEQ9zQNvYIdk4xPacBCTBnzZVujyqOV7v7ka-HC91BL5UJ52QMM9870-rjyLZwc1Ul6L50YApy_hKbzGAmD2crF5pwPrvbdbpIT0IVBfNrJZwZ78ZAy9VJpJiRQ4VkY5jHQrMlfDW8qq68jTisZ30XZ8&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › newsroom › 2025/10 › apple-v...",
+      "date": "Oct 15, 2025",
+      "snippet": "Apple Vision Pro with the M5 chip and Dual Knit Band starts at $3,499 (U.S.), and is available in 256GB, 512GB, and 1TB storage capacities.",
+      "snippet_highlighted_words": [
+        "Apple Vision Pro with the M5 chip and Dual Knit Band"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple Vision Pro with the M5 chip and Dual Knit Band starts at $3,499 (U.S.), and is available in 256GB, 512GB, and 1TB storage capacities.",
+          "source_info_link": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZZLTNILV9VemgyWWR4M29jS0pWQmhIMS1zeWpnSG11Vy1rRE96dHBhVnUtbUNKTnJkX0taRVE5elFOdllJZGs0eFBhY0JDVEJuelpWdWp5cU9WN3Y3a2EtSEM5MUJMNVVKNTJRTU05ODcwLXJqeUxad2MxVWw2TDUwWUFweV9oS2J6R0FtRDJjckY1cHdQcnZiZGJwSVQwSVZCZk5ySlp3Wjc4WkF5OVZKcEppUlE0VmtZNWpIUXJNbGZEVzhxcTY4alRpc1ozMFhaOBIEGgIIABrNBBICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaDQgBEglhcHBsZS5jb21yAHoAgkCaBAgAEAAYACAAKiIKBWFwcGxlFcPZEUEaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiwKBnZpc2lvbhWD-IxAGgdtaXNzaW9uGgd2aXNpb25zGgthcHBsZXZpc2lvbjLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGWS0zSC1fVXpoMllkeDNvY0tKVkJoSDEtc3lqZ0htdVcta0RPenRwYVZ1LW1DSk5yZF9LWkVROXpRTnZZSWRrNHhQYWNCQ1RCbnpaVnVqeXFPVjd2N2thLUhDOTFCTDVVSjUyUU1NOTg3MC1yanlMWndjMVVsNkw1MFlBcHlfaEtiekdBbUQyY3JGNXB3UHJ2YmRicElUMElWQmZOckpad1o3OFpBeTlWSnBKaVJRNFZrWTVqSFFyTWxmRFc4cXE2OGpUaXNaMzBYWjg6RDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvIHVwZ3JhZGVkIHdpdGggdGhlIE01IGNoaXAgYW5kIER1YWwgS25pdCBCYW5kQpIBPGI-QXBwbGUgVmlzaW9uIFBybyB3aXRoIHRoZSBNNSBjaGlwIGFuZCBEdWFsIEtuaXQgQmFuZDwvYj4gc3RhcnRzIGF0ICQzLDQ5OSAoVS5TLiksIGFuZCBpcyBhdmFpbGFibGUgaW4gMjU2R0IsIDUxMkdCLCBhbmQgMVRCIHN0b3JhZ2UgY2FwYWNpdGllcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZZLTNILV9VemgyWWR4M29jS0pWQmhIMS1zeWpnSG11Vy1rRE96dHBhVnUtbUNKTnJkX0taRVE5elFOdllJZGs0eFBhY0JDVEJuelpWdWp5cU9WN3Y3a2EtSEM5MUJMNVVKNTJRTU05ODcwLXJqeUxad2MxVWw2TDUwWUFweV9oS2J6R0FtRDJjckY1cHdQcnZiZGJwSVQwSVZCZk5ySlp3Wjc4WkF5OVZKcEppUlE0VmtZNWpIUXJNbGZEVzhxcTY4alRpc1ozMFhaOBIEGgIIABrNBBICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaDQgBEglhcHBsZS5jb21yAHoAgkCaBAgAEAAYACAAKiIKBWFwcGxlFcPZEUEaB2FwcGxlJ3MaC2FwcGxldmlzaW9uKiwKBnZpc2lvbhWD-IxAGgdtaXNzaW9uGgd2aXNpb25zGgthcHBsZXZpc2lvbjLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGWS0zSC1fVXpoMllkeDNvY0tKVkJoSDEtc3lqZ0htdVcta0RPenRwYVZ1LW1DSk5yZF9LWkVROXpRTnZZSWRrNHhQYWNCQ1RCbnpaVnVqeXFPVjd2N2thLUhDOTFCTDVVSjUyUU1NOTg3MC1yanlMWndjMVVsNkw1MFlBcHlfaEtiekdBbUQyY3JGNXB3UHJ2YmRicElUMElWQmZOckpad1o3OFpBeTlWSnBKaVJRNFZrWTVqSFFyTWxmRFc4cXE2OGpUaXNaMzBYWjg6RDxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvIHVwZ3JhZGVkIHdpdGggdGhlIE01IGNoaXAgYW5kIER1YWwgS25pdCBCYW5kQpIBPGI-QXBwbGUgVmlzaW9uIFBybyB3aXRoIHRoZSBNNSBjaGlwIGFuZCBEdWFsIEtuaXQgQmFuZDwvYj4gc3RhcnRzIGF0ICQzLDQ5OSAoVS5TLiksIGFuZCBpcyBhdmFpbGFibGUgaW4gMjU2R0IsIDUxMkdCLCBhbmQgMVRCIHN0b3JhZ2UgY2FwYWNpdGllcy4iAhABSABYAGgA",
+      "source": "Apple"
+    },
+    {
+      "position": 5,
+      "title": "Vision | Apple Developer Documentation",
+      "link": "https://developer.apple.com/documentation/vision",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVCI41TOPefjKaJMvF0LRW0SgTrnvLzoEUpg27Napsumv_xoDJkasD3qHPm56ZLnxvkMD96gcRg6RFAw_cMDRnBiL7FhMpNDUIbKzuRIoruzk2IIVwab6SPRZrX2xj--CMt9pN&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://developer.apple.com › documentation › vision",
+      "date": "Dec 3, 2025",
+      "snippet": "Analyze image and video content in your app using computer vision algorithms for object detection, text recognition, and image segmentation.",
+      "snippet_highlighted_words": [
+        "Analyze image and video content in your app"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Analyze image and video content in your app using computer vision algorithms for object detection, text recognition, and image segmentation.",
+          "source_info_link": "https://developer.apple.com/documentation/vision",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEzZ6__Z6__Z6__Z6__Z6__Z6__Z6__Z6__c7f-_3v91r__i8f-cyP8Abv8Adf9Imv8Yhv-v1f8Aev8TGYZ5AAAACXRSTlMATpXL6_8SpJAta5EaAAAA7ElEQVR4AYVTB5LAIAjEgrFiyv_feh0lnDNueqhLAQFjnUf0zhpYIBwocAQtj6gQ3-Ye_8EHIcclwlqeUtIa_iXPJbOGX-RXG5HKVCVA_azvNA4ZHhtdMwfEAwCmd2x3zTe2htMHgBnmhTo95aTeqQwNA5btz_584-dON4ex4P7sb3oYQo4OPAfoU0Hw8CAiMHoRPLYKyxCXDMFJNqHQJ003aCI9E7PcFoxKQmVhAEabSSggQzSrFvoWffuhlkSzAruoJ9FVykOiFUEOTKo511TrnYc86pH78Tznweuh3Y-1lu8XZ796--Xdrv8nyrEaFigCoBoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVkNJNDFUT1BlZmpLYUpNdkYwTFJXMFNnVHJudkx6b0VVcGcyN05hcHN1bXZfeG9ESmthc0QzcUhQbTU2WkxueHZrTUQ5NmdjUmc2UkZBd19jTURSbkJpTDdGaE1wTkRVSWJLenVSSW9ydXprMklJVndhYjZTUFJaclgyeGotLUNNdDlwThIEGgIIABrpAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMDCAAQABgAIAAqIgoFYXBwbGUVbhX7QBoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFXFahUAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVkNJNDFUT1BlZmpLYUpNdkYwTFJXMFNnVHJudkx6b0VVcGcyN05hcHN1bXZfeG9ESmthc0QzcUhQbTU2WkxueHZrTUQ5NmdjUmc2UkZBd19jTURSbkJpTDdGaE1wTkRVSWJLenVSSW9ydXprMklJVndhYjZTUFJaclgyeGotLUNNdDlwTjo0PGI-VmlzaW9uPC9iPiB8IDxiPkFwcGxlPC9iPiBEZXZlbG9wZXIgRG9jdW1lbnRhdGlvbkKTATxiPkFuYWx5emUgaW1hZ2UgYW5kIHZpZGVvIGNvbnRlbnQgaW4geW91ciBhcHA8L2I-IHVzaW5nIGNvbXB1dGVyIHZpc2lvbiBhbGdvcml0aG1zIGZvciBvYmplY3QgZGV0ZWN0aW9uLCB0ZXh0IHJlY29nbml0aW9uLCBhbmQgaW1hZ2Ugc2VnbWVudGF0aW9uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVkNJNDFUT1BlZmpLYUpNdkYwTFJXMFNnVHJudkx6b0VVcGcyN05hcHN1bXZfeG9ESmthc0QzcUhQbTU2WkxueHZrTUQ5NmdjUmc2UkZBd19jTURSbkJpTDdGaE1wTkRVSWJLenVSSW9ydXprMklJVndhYjZTUFJaclgyeGotLUNNdDlwThIEGgIIABrpAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMDCAAQABgAIAAqIgoFYXBwbGUVbhX7QBoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFXFahUAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVkNJNDFUT1BlZmpLYUpNdkYwTFJXMFNnVHJudkx6b0VVcGcyN05hcHN1bXZfeG9ESmthc0QzcUhQbTU2WkxueHZrTUQ5NmdjUmc2UkZBd19jTURSbkJpTDdGaE1wTkRVSWJLenVSSW9ydXprMklJVndhYjZTUFJaclgyeGotLUNNdDlwTjo0PGI-VmlzaW9uPC9iPiB8IDxiPkFwcGxlPC9iPiBEZXZlbG9wZXIgRG9jdW1lbnRhdGlvbkKTATxiPkFuYWx5emUgaW1hZ2UgYW5kIHZpZGVvIGNvbnRlbnQgaW4geW91ciBhcHA8L2I-IHVzaW5nIGNvbXB1dGVyIHZpc2lvbiBhbGdvcml0aG1zIGZvciBvYmplY3QgZGV0ZWN0aW9uLCB0ZXh0IHJlY29nbml0aW9uLCBhbmQgaW1hZ2Ugc2VnbWVudGF0aW9uLiICEAFIAFgAaAA",
+      "source": "Apple Developer"
+    },
+    {
+      "position": 6,
+      "title": "Apple Vision Pro available in the U.S. on February 2",
+      "link": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFd91PAeuWHAiq63avp8faO7YkR6uc3VRJS7JtxhdVq3Z9xnpJmFAJCaRWK9qd9qyGqRmcXiVqmOvioT0RdiTaZ1lgFaRDNn_6qNN9TvKKpAwuvKLXKjrO1ig5TPtHHdgO25-q8gfiohovvo-7E3ECTlve9pjqyZXP1UbkTFnB0mtEjreBHbuijftuPCQeg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECEAQAQ&uoh=1",
+      "displayed_link": "https://www.apple.com › newsroom › 2024/01 › apple-v...",
+      "date": "Jan 8, 2024",
+      "snippet": "Apple Vision Pro will be available starting at $3,499 (U.S.) with 256GB of storage. Pre-orders for Apple Vision Pro will begin on Friday, January 19, at 5 a.m. ...",
+      "snippet_highlighted_words": [
+        "Apple Vision Pro will be available starting at $3,499 (U.S"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple Vision Pro will be available starting at $3,499 (U.S.) with 256GB of storage. Pre-orders for Apple Vision Pro will begin on Friday, January 19, at 5 a.m. ...",
+          "source_info_link": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBQCdASogACAAPtE-tFooIigoFAEAGglpAAPlFT9_bbc2Xj-IdvpEh0_8Hf2CQcthS1g-EIAA_v0tQTP_K4x1UxhwCmSnNChKWXQCiftLema49r69FnfuPiH-tMuCdxuOPksS-SMnQQ42HgG34VeddYM9FLfUoPKJ-Clh_9s77zmoCUktWpqoxkO9hybJ6PlFZNMGz8K3xh_Msm2DyBjMk0VDyblQ2X2ndfjyTcFscGGdAN77uf1xDtUHwxabN5NDklxQXcKv5-VfuvWTGqd-kDzobNf52WPLbfWCZvT83z_6Z9hQ-4NpAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkOTFQQWV1V0hBaXE2M2F2cDhmYU83WWtSNnVjM1ZSSlM3SnR4aGRWcTNaOXhucEptRkFKQ2FSV0s5cWQ5cXlHcVJtY1hpVnFtT3Zpb1QwUmRpVGFaMWxnRmFSRE5uXzZxTk45VHZLS3BBd3V2S0xYS2pyTzFpZzVUUHRISGRnTzI1LXE4Z2Zpb2hvdnZvLTdFM0VDVGx2ZTlwanF5WlhQMVVia1RGbkIwbXRFanJlQkhidWlqZnR1UENRZWcSBBoCCAAa0wQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJAoAQIABAAGAAgACoiCgVhcHBsZRUvTBJBGgdhcHBsZSdzGgthcHBsZXZpc2lvbiosCgZ2aXNpb24VejuRQBoHbWlzc2lvbhoHdmlzaW9ucxoLYXBwbGV2aXNpb24y1AEvZ290bz91cmw9Q0FFU2tnRUI2enN3RmQ5MVBBZXVXSEFpcTYzYXZwOGZhTzdZa1I2dWMzVlJKUzdKdHhoZFZxM1o5eG5wSm1GQUpDYVJXSzlxZDlxeUdxUm1jWGlWcW1PdmlvVDBSZGlUYVoxbGdGYVJETm5fNnFOTjlUdktLcEF3dXZLTFhLanJPMWlnNVRQdEhIZGdPMjUtcThnZmlvaG92dm8tN0UzRUNUbHZlOXBqcXlaWFAxVWJrVEZuQjBtdEVqcmVCSGJ1aWpmdHVQQ1FlZzo7PGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gYXZhaWxhYmxlIGluIHRoZSBVLlMuIG9uIEZlYnJ1YXJ5IDJCrwE8Yj5BcHBsZSBWaXNpb24gUHJvIHdpbGwgYmUgYXZhaWxhYmxlIHN0YXJ0aW5nIGF0ICQzLDQ5OSAoVS5TPC9iPi4pIHdpdGggMjU2R0Igb2Ygc3RvcmFnZS4gUHJlLW9yZGVycyBmb3IgQXBwbGUgVmlzaW9uIFBybyB3aWxsIGJlZ2luIG9uIEZyaWRheSwgSmFudWFyeSAxOSwgYXQgNSBhLm0uJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZkOTFQQWV1V0hBaXE2M2F2cDhmYU83WWtSNnVjM1ZSSlM3SnR4aGRWcTNaOXhucEptRkFKQ2FSV0s5cWQ5cXlHcVJtY1hpVnFtT3Zpb1QwUmRpVGFaMWxnRmFSRE5uXzZxTk45VHZLS3BBd3V2S0xYS2pyTzFpZzVUUHRISGRnTzI1LXE4Z2Zpb2hvdnZvLTdFM0VDVGx2ZTlwanF5WlhQMVVia1RGbkIwbXRFanJlQkhidWlqZnR1UENRZWcSBBoCCAAa0wQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWg0IARIJYXBwbGUuY29tcgB6AIJAoAQIABAAGAAgACoiCgVhcHBsZRUvTBJBGgdhcHBsZSdzGgthcHBsZXZpc2lvbiosCgZ2aXNpb24VejuRQBoHbWlzc2lvbhoHdmlzaW9ucxoLYXBwbGV2aXNpb24y1AEvZ290bz91cmw9Q0FFU2tnRUI2enN3RmQ5MVBBZXVXSEFpcTYzYXZwOGZhTzdZa1I2dWMzVlJKUzdKdHhoZFZxM1o5eG5wSm1GQUpDYVJXSzlxZDlxeUdxUm1jWGlWcW1PdmlvVDBSZGlUYVoxbGdGYVJETm5fNnFOTjlUdktLcEF3dXZLTFhLanJPMWlnNVRQdEhIZGdPMjUtcThnZmlvaG92dm8tN0UzRUNUbHZlOXBqcXlaWFAxVWJrVEZuQjBtdEVqcmVCSGJ1aWpmdHVQQ1FlZzo7PGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gYXZhaWxhYmxlIGluIHRoZSBVLlMuIG9uIEZlYnJ1YXJ5IDJCrwE8Yj5BcHBsZSBWaXNpb24gUHJvIHdpbGwgYmUgYXZhaWxhYmxlIHN0YXJ0aW5nIGF0ICQzLDQ5OSAoVS5TPC9iPi4pIHdpdGggMjU2R0Igb2Ygc3RvcmFnZS4gUHJlLW9yZGVycyBmb3IgQXBwbGUgVmlzaW9uIFBybyB3aWxsIGJlZ2luIG9uIEZyaWRheSwgSmFudWFyeSAxOSwgYXQgNSBhLm0uJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Apple",
+      "read_more_link": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/#:~:text=Copy%20text"
+    },
+    {
+      "position": 7,
+      "title": "Apple Vision Pro: Full Specification",
+      "link": "https://vr-compare.com/headset/applevisionpro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVTqRu8oUKklejJKFmQwmPWiEShSnCa7v50P5IPgRMOHF2F6zehBehf0pceGRe8feW5bVJ4XWT4nHh2CAdNJq2-nnUHSOg8E1U8r8qd0Yhgxjd8YlkGMQraRZ7jTUD1jyU&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://vr-compare.com › headset › applevisionpro",
+      "date": "Jun 5, 2023",
+      "snippet": "Apple Vision Pro: Full Specification. VR Headsets AR Glasses Accessories. VR PC-Powered VR AR Glasses XR Accessories. Email us at contact@vr-compare.com",
+      "snippet_highlighted_words": [
+        "Apple Vision Pro"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple Vision Pro: Full Specification. VR Headsets AR Glasses Accessories. VR PC-Powered VR AR Glasses XR Accessories. Email us at contact@vr-compare.com",
+          "source_info_link": "https://vr-compare.com/headset/applevisionpro",
+          "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglnAMTc87MGZtF49PoMMJDfPdMmaQvTzh5jfXI4EDdfN4lAAP72AvtpxR2SKuXbLP6ng6JJasirje4r0P4XhFVAhx7URUl5InWeB_dIcLJWngrmPUm92n6HTV4cLBsLPCd6wdtj-PSarZ9zZVHOzN7wzDn165cIFrGataJJ_9XSeCwWnYwnWJ6FLruU9Sn3Tbu4m6yXAtl2wnrJ1Srvwk-Yz1eCQdrmt1D6Y_PuphxVHMN7eayFvz5ij_jTpmCih3g7-OQBet4xetfiNZNpqr5sg_hpUe4qGbZP_CQPRi3LBO-9AbfB0tPBG0yjTUwXW-zH-Ul-gVOgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVlRxUnU4b1VLa2xlakpLRm1Rd21QV2lFU2hTbkNhN3Y1MFA1SVBnUk1PSEYyRjZ6ZWhCZWhmMHBjZUdSZThmZVc1YlZKNFhXVDRuSGgyQ0FkTkpxMi1ublVIU09nOEUxVThyOHFkMFloZ3hqZDhZbGtHTVFyYVJaN2pUVUQxanlVEgQaAggAGvQDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoiCgVhcHBsZRWrqgJAGgdhcHBsZSdzGgthcHBsZXZpc2lvbiosCgZ2aXNpb24Vq6oCQBoHbWlzc2lvbhoHdmlzaW9ucxoLYXBwbGV2aXNpb24ylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWVHFSdThvVUtrbGVqSktGbVF3bVBXaUVTaFNuQ2E3djUwUDVJUGdSTU9IRjJGNnplaEJlaGYwcGNlR1JlOGZlVzViVko0WFdUNG5IaDJDQWROSnEyLW5uVUhTT2c4RTFVOHI4cWQwWWhneGpkOFlsa0dNUXJhUlo3alRVRDFqeVU6NzxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvOiBGdWxsIFNwZWNpZmljYXRpb24gLSBWUmNvbXBhcmVCnwE8Yj5BcHBsZSBWaXNpb24gUHJvPC9iPjogRnVsbCBTcGVjaWZpY2F0aW9uLiBWUiBIZWFkc2V0cyBBUiBHbGFzc2VzIEFjY2Vzc29yaWVzLiBWUiBQQy1Qb3dlcmVkIFZSIEFSIEdsYXNzZXMgWFIgQWNjZXNzb3JpZXMuIEVtYWlsIHVzIGF0IGNvbnRhY3RAdnItY29tcGFyZS5jb20iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVlRxUnU4b1VLa2xlakpLRm1Rd21QV2lFU2hTbkNhN3Y1MFA1SVBnUk1PSEYyRjZ6ZWhCZWhmMHBjZUdSZThmZVc1YlZKNFhXVDRuSGgyQ0FkTkpxMi1ublVIU09nOEUxVThyOHFkMFloZ3hqZDhZbGtHTVFyYVJaN2pUVUQxanlVEgQaAggAGvQDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoiCgVhcHBsZRWrqgJAGgdhcHBsZSdzGgthcHBsZXZpc2lvbiosCgZ2aXNpb24Vq6oCQBoHbWlzc2lvbhoHdmlzaW9ucxoLYXBwbGV2aXNpb24ylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWVHFSdThvVUtrbGVqSktGbVF3bVBXaUVTaFNuQ2E3djUwUDVJUGdSTU9IRjJGNnplaEJlaGYwcGNlR1JlOGZlVzViVko0WFdUNG5IaDJDQWROSnEyLW5uVUhTT2c4RTFVOHI4cWQwWWhneGpkOFlsa0dNUXJhUlo3alRVRDFqeVU6NzxiPkFwcGxlIFZpc2lvbjwvYj4gUHJvOiBGdWxsIFNwZWNpZmljYXRpb24gLSBWUmNvbXBhcmVCnwE8Yj5BcHBsZSBWaXNpb24gUHJvPC9iPjogRnVsbCBTcGVjaWZpY2F0aW9uLiBWUiBIZWFkc2V0cyBBUiBHbGFzc2VzIEFjY2Vzc29yaWVzLiBWUiBQQy1Qb3dlcmVkIFZSIEFSIEdsYXNzZXMgWFIgQWNjZXNzb3JpZXMuIEVtYWlsIHVzIGF0IGNvbnRhY3RAdnItY29tcGFyZS5jb20iAhABSABYAGgA",
+      "source": "VRcompare"
+    },
+    {
+      "position": 8,
+      "title": "Apple Vision Pro as an augmentative tool in surgery - PMC - NIH",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11543186/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVthKmAFYl73nvOwmjNY76w3wg5NKrwTfUvGsSQgxMdqlgqZdXgn-L7W7B8BDECNesJOqigyliU6PQxpxzmTdDVVm-BY8XekUSAX1qBv1tQYcpVvj3QUH9KrBnFEEgoaW0i-zgI44&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQFnoECD4QAQ&uoh=1",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC11543186",
+      "author": "by C Li",
+      "snippet": "The Apple Vision Pro allows for the first-person perspective recording and streaming of surgical procedures. This capability is invaluable for documenting ...",
+      "snippet_highlighted_words": [
+        "first-person perspective recording and streaming of surgical procedures"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Apple Vision Pro allows for the first-person perspective recording and streaming of surgical procedures. This capability is invaluable for documenting ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11543186/",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnRoS21BRllsNzNudk93bWpOWTc2dzN3ZzVOS3J3VGZVdkdzU1FneE1kcWxncVpkWGduLUw3VzdCOEJERUNOZXNKT3FpZ3lsaVU2UFF4cHh6bVRkRFZWbS1CWThYZWtVU0FYMXFCdjF0UVljcFZ2ajNRVUg5S3JCbkZFRWdvYVcwaS16Z0k0NBIEGgIIABqVBBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQO8DCAAQABgAIAAqIgoFYXBwbGUVrCyHQBoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFYa6hkAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnRoS21BRllsNzNudk93bWpOWTc2dzN3ZzVOS3J3VGZVdkdzU1FneE1kcWxncVpkWGduLUw3VzdCOEJERUNOZXNKT3FpZ3lsaVU2UFF4cHh6bVRkRFZWbS1CWThYZWtVU0FYMXFCdjF0UVljcFZ2ajNRVUg5S3JCbkZFRWdvYVcwaS16Z0k0NDpGPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gYXMgYW4gYXVnbWVudGF0aXZlIHRvb2wgaW4gc3VyZ2VyeSAtIFBNQyAtIE5JSEKqAVRoZSBBcHBsZSBWaXNpb24gUHJvIGFsbG93cyBmb3IgdGhlIDxiPmZpcnN0LXBlcnNvbiBwZXJzcGVjdGl2ZSByZWNvcmRpbmcgYW5kIHN0cmVhbWluZyBvZiBzdXJnaWNhbCBwcm9jZWR1cmVzPC9iPi4gVGhpcyBjYXBhYmlsaXR5IGlzIGludmFsdWFibGUgZm9yIGRvY3VtZW50aW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnRoS21BRllsNzNudk93bWpOWTc2dzN3ZzVOS3J3VGZVdkdzU1FneE1kcWxncVpkWGduLUw3VzdCOEJERUNOZXNKT3FpZ3lsaVU2UFF4cHh6bVRkRFZWbS1CWThYZWtVU0FYMXFCdjF0UVljcFZ2ajNRVUg5S3JCbkZFRWdvYVcwaS16Z0k0NBIEGgIIABqVBBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQO8DCAAQABgAIAAqIgoFYXBwbGUVrCyHQBoHYXBwbGUncxoLYXBwbGV2aXNpb24qLAoGdmlzaW9uFYa6hkAaB21pc3Npb24aB3Zpc2lvbnMaC2FwcGxldmlzaW9uMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnRoS21BRllsNzNudk93bWpOWTc2dzN3ZzVOS3J3VGZVdkdzU1FneE1kcWxncVpkWGduLUw3VzdCOEJERUNOZXNKT3FpZ3lsaVU2UFF4cHh6bVRkRFZWbS1CWThYZWtVU0FYMXFCdjF0UVljcFZ2ajNRVUg5S3JCbkZFRWdvYVcwaS16Z0k0NDpGPGI-QXBwbGUgVmlzaW9uPC9iPiBQcm8gYXMgYW4gYXVnbWVudGF0aXZlIHRvb2wgaW4gc3VyZ2VyeSAtIFBNQyAtIE5JSEKqAVRoZSBBcHBsZSBWaXNpb24gUHJvIGFsbG93cyBmb3IgdGhlIDxiPmZpcnN0LXBlcnNvbiBwZXJzcGVjdGl2ZSByZWNvcmRpbmcgYW5kIHN0cmVhbWluZyBvZiBzdXJnaWNhbCBwcm9jZWR1cmVzPC9iPi4gVGhpcyBjYXBhYmlsaXR5IGlzIGludmFsdWFibGUgZm9yIGRvY3VtZW50aW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11543186/#:~:text=The%20Apple%20Vision%20Pro%20allows,and%20maintaining%20comprehensive%20medical%20records."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=10&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8NMDegQIORAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=10&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=20&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=30&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=40&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAK",
+      "6": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=50&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAM",
+      "7": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=60&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAO",
+      "8": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=70&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAQ",
+      "9": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=80&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAS",
+      "10": "https://www.google.com/search?q=Apple+Vision+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQnvmOG6MG0TOa2UmTwENhBWcSuUsLg:1790144335253&ei=T2-zaoD8DtmawbkPx9_h2Q4&start=90&sa=N&sstk=AS6-VmLhyl62hGr7cPX8038DuRn44mkTBrBJIf0BvmFpbynWv3NP_VJtVcuapFosrM5TnRf-s3gajWCg0kLE6UbEZ3U__CSbrhF-Vg&ved=2ahUKEwjA38uph4SXAxVZTTABHcdvOOsQ8tMDegQIORAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Apple+Vision+before%3A2026-01-01&start=90"
+    }
+  }
+}

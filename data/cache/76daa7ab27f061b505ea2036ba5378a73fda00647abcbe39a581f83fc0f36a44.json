@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab2bf00122bd18da3be1633",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0kcuD1zr8dxZk6RlZ-aEgplwzGj05J3h63Fyo1mJIpM/6ab2bf00122bd18da3be1633.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0kcuD1zr8dxZk6RlZ-aEgplwzGj05J3h63Fyo1mJIpM/6ab2bf00122bd18da3be1633.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0kcuD1zr8dxZk6RlZ-aEgplwzGj05J3h63Fyo1mJIpM/6ab2bf00122bd18da3be1633.json_with_pixel_position",
+    "created_at": "2026-09-22 17:46:40 UTC",
+    "processed_at": "2026-09-22 17:46:40 UTC",
+    "google_url": "https://www.google.com/search?q=%22India+may+introduce+plastic+currency+notes.+Is+the+current+a%22&oq=%22India+may+introduce+plastic+currency+notes.+Is+the+current+a%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0kcuD1zr8dxZk6RlZ-aEgplwzGj05J3h63Fyo1mJIpM/6ab2bf00122bd18da3be1633.html",
+    "total_time_taken": 0.35
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"India may introduce plastic currency notes. Is the current a\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"India may introduce plastic currency notes. Is the current a\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "14Lz6niczZVblqJIEIYXMOtoXyxFFC2pczh9MtNUaS3bLIvS8sWDQKUoFwW8UG-zhNnDrGpW0wl4QQvt6n7oM_lgXogIgyC-_P_-1zKdxX9__TMLgqX_wHHb7bZIXZdaRlFzbU71Q0fj3lzL97TZ13AjVXKaL5VyhimBbiFU_Um7tzLFZUD6gfq-LoF6LnaRJlPVN-Ys4m7ucxOO_Sy-VBpsU_SLhlN8Wizv7VVgveukWC7xYvE7p9rMAPy5gQlF0TwA-IYRAPKnohECWLRvpwOEDgEOg0YbyuKh6BBF68whY0Ci2cSJF_iO3uxhHYDW0UG7nnA6KKRxJAiTwwECV_80eyTv0DwkdssU3jzuHPZyyvBWPPJ6nggr3huF8OSUdmbHs5Rr9LCVrKsACn2A2gi4t5JHLmjYBMoE3GqG2NJDyna_7gKeVYjTKWvcEjf12MRzpjbT4oXnR_2MnsWS2yqj2uxx4m92Cg9RrYW7pkbu7XpVFAGnTZmd5aq6oU9mk9LXeM-X-WpJrNzX72KQNP9Ikp8mqYHmjQ2uOkNvUewWIX_ACB3rg87Tx2yPsuoO0d4UZTwD4PA1jtVBgDRTJvLRGxPwaF7EUYyo6x5PvdcoAyCkLU5Vj04_YnSZWoQRUOJVvNyHToeUIybJyeE42h_fMOOrY7j_zLR1iLA3IhclQmAgs2eHEBd3GGX4IZnABKOVEBd_e-jPk9kpQbLPCAIcv0M04PEVEnxkmuINs0LgqOUxYrk9ITwj7Fajh2Awuuv2qZoX_Gf2QvS5MRjiT159l6P5c5MImz0vF-2fxgarmt3gK-Nm-DzujOrVwqigytOeCl98mo2Ja09_QXG0_xVIiR7Jez26DpL8KZAIQdf1KFme9CgCCVFKr4CEE5A-6FE7Q48uQcI0BVKiRxQ2s_XoV0GSb4EEb4LUyQJJvgFSpEfnIC3O9Ahl69ERpN_Ro-Zv6lHMlZFM5-K0ntOrIoWfynPEa1tgPdVs0uoI3eF8F5qugHb0pyL1ZgcPtqpbdxNTf4Dlb0Go303Ygftg6LmV9KVclh3dVPO2GuZNJ_Bcfa0Z-aWl-oGp5bW15xmOFuYdNzD8Yl7288HM2B8HeZW552zLc6WSWlP5-kvt_XnQV-o7X6krliA8jtuO2KCD7uB1tXxpB_drpbfoTofKs9xYr5Sx2Nxpk16_EhgVZx2OFF1cQF0Z2aC56czXoSeg_txatkaPgjJEzQKvwN79HJi9jSm0AZ2t6t50txoUbCz3ZvOxiPowzsaXQHVEsDvuvIy1nO1pEutngYIeAUPKkECvTCooUFSXzVtAWjVAMMz5mjox_I2kTitiTSgJFZWflsoVPWfTIFxKgpDzHU_ifwAQDURG",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=14Lz6niczZVblqJIEIYXMOtoXyxFFC2pczh9MtNUaS3bLIvS8sWDQKUoFwW8UG-zhNnDrGpW0wl4QQvt6n7oM_lgXogIgyC-_P_-1zKdxX9__TMLgqX_wHHb7bZIXZdaRlFzbU71Q0fj3lzL97TZ13AjVXKaL5VyhimBbiFU_Um7tzLFZUD6gfq-LoF6LnaRJlPVN-Ys4m7ucxOO_Sy-VBpsU_SLhlN8Wizv7VVgveukWC7xYvE7p9rMAPy5gQlF0TwA-IYRAPKnohECWLRvpwOEDgEOg0YbyuKh6BBF68whY0Ci2cSJF_iO3uxhHYDW0UG7nnA6KKRxJAiTwwECV_80eyTv0DwkdssU3jzuHPZyyvBWPPJ6nggr3huF8OSUdmbHs5Rr9LCVrKsACn2A2gi4t5JHLmjYBMoE3GqG2NJDyna_7gKeVYjTKWvcEjf12MRzpjbT4oXnR_2MnsWS2yqj2uxx4m92Cg9RrYW7pkbu7XpVFAGnTZmd5aq6oU9mk9LXeM-X-WpJrNzX72KQNP9Ikp8mqYHmjQ2uOkNvUewWIX_ACB3rg87Tx2yPsuoO0d4UZTwD4PA1jtVBgDRTJvLRGxPwaF7EUYyo6x5PvdcoAyCkLU5Vj04_YnSZWoQRUOJVvNyHToeUIybJyeE42h_fMOOrY7j_zLR1iLA3IhclQmAgs2eHEBd3GGX4IZnABKOVEBd_e-jPk9kpQbLPCAIcv0M04PEVEnxkmuINs0LgqOUxYrk9ITwj7Fajh2Awuuv2qZoX_Gf2QvS5MRjiT159l6P5c5MImz0vF-2fxgarmt3gK-Nm-DzujOrVwqigytOeCl98mo2Ja09_QXG0_xVIiR7Jez26DpL8KZAIQdf1KFme9CgCCVFKr4CEE5A-6FE7Q48uQcI0BVKiRxQ2s_XoV0GSb4EEb4LUyQJJvgFSpEfnIC3O9Ahl69ERpN_Ro-Zv6lHMlZFM5-K0ntOrIoWfynPEa1tgPdVs0uoI3eF8F5qugHb0pyL1ZgcPtqpbdxNTf4Dlb0Go303Ygftg6LmV9KVclh3dVPO2GuZNJ_Bcfa0Z-aWl-oGp5bW15xmOFuYdNzD8Yl7288HM2B8HeZW552zLc6WSWlP5-kvt_XnQV-o7X6krliA8jtuO2KCD7uB1tXxpB_drpbfoTofKs9xYr5Sx2Nxpk16_EhgVZx2OFF1cQF0Z2aC56czXoSeg_txatkaPgjJEzQKvwN79HJi9jSm0AZ2t6t50txoUbCz3ZvOxiPowzsaXQHVEsDvuvIy1nO1pEutngYIeAUPKkECvTCooUFSXzVtAWjVAMMz5mjox_I2kTitiTSgJFZWflsoVPWfTIFxKgpDzHU_ifwAQDURG"
+  }
+}

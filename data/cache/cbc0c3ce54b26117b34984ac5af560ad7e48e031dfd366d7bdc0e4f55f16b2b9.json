@@ -1,0 +1,333 @@
+{
+  "search_metadata": {
+    "id": "6ab2bf0166bc7822435dce30",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YGIVjw-P6i8FTKxnMuX5z_Q815zG1Ay3cmtHsdOmukQ/6ab2bf0166bc7822435dce30.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YGIVjw-P6i8FTKxnMuX5z_Q815zG1Ay3cmtHsdOmukQ/6ab2bf0166bc7822435dce30.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/YGIVjw-P6i8FTKxnMuX5z_Q815zG1Ay3cmtHsdOmukQ/6ab2bf0166bc7822435dce30.json_with_pixel_position",
+    "created_at": "2026-09-22 17:46:41 UTC",
+    "processed_at": "2026-09-22 17:46:41 UTC",
+    "google_url": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&oq=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/YGIVjw-P6i8FTKxnMuX5z_Q815zG1Ay3cmtHsdOmukQ/6ab2bf0166bc7822435dce30.html",
+    "total_time_taken": 0.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "india may introduce plastic currency notes before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "india may introduce plastic currency notes before:2026-01-01",
+    "total_results": 11500000,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "04o71XiczZXbcqpIFIYfYJ5jvDFRQDylitrVtB0k0cQ2MYlXFDTYIAIKiOLdfpepmneap5nGIxo12ftiaros-7R6sVi9Pv6ff00c3_3nj7_tOJ5Gd-XyYrEo0SCgE6tEAq-sR6lPyqNgEoXE_hEF85BYjikROww8q5AmUqVAIokrWI4EjNtUjz74x9GYLJ7E3iyxXBe7hbULSTP0yBqzJyzHUVkrsz_3z0qLTUpRyfJLfXda92bxZGXiksDxzdJzWfeYAfjvGsIUZv0LQFeMAFC_5Q1jwLw9HBYg3DnYNZpNKPMHs0WYjc82FQGc9Q7anALPcOS9NwBQ9gfI5YDzTmW69iTLm8UXCC4-9HzbvMP9LrBrpvLV5cfdXM0ZXvOHh8eBsOSNqCwfDuUPs2U7dzTbVDbjKpDFHoBtCIJrwcMAtDwsqxhcK4a1ZQgHi-24A3iWobJJWeFyZSNkHV92iE3WgzDK6hm-NrlAEWDN7mpRshzwMqwpqOMQXPca1WYTlInB7CaBblqmZmvcj_WcF_gq16zUGzdrkEi0JynKk9SC41aCqv576JY6JZnfYQT3-YHH4SM2h-fyLsOtKTyzCcDuNnLZwfe5fXV_GmHQdU78DKys6rqHhZYAgJi3OPjNVj9jdBpahhEYrEfr4bas8y7VjEmM9wf2rf3p7c7dOpK310yVkx18kiIIXlTmYOfi5BtGGX5QxfIGo5m4Tv4CHDllfNJDgHgbkQyQunuBAzSbkUpzvCGWCJSVPIIstj5EMmZfNbpzJmffum2ozgn_Z2shu24E3tE3P32n7f5rkwybLS8n5X-ETT-ZJ2NVo800XnJTlr1VkxhGIloKOI9J4Bm_oDjkfwXSRo_UrR5dBkn9FkgYw8t6tBke9CgDCVJKL4CENiB90qP2GT06BQnRHEhf6NGvgqReA0m-CtLjOZDUKyBlenQMknukR_C8Hu1B-h09uv9NPVpzZW26Y3Gaj-llkZp9DJbLtNOueoIKGx9IcZ_6t-it2gSLL0Vq5MV3nm5ObjTHvJOFhzg1bzS2ENxZZmEmOb7p6EVPT4uOH4eBOSdWcTrRo9ghRTIPQ8snadEPYisqGtYoCK07gRNqtxzPfgVvEgYSp1dTQx36rRacD-0JeLZdfWRpPU57S2bWq72KB4_Th0ry0tcDRMKB__qmDec9UV-RnibWTb0-HnbN1OzT515v1knEseg2Zm7tAdfdBnxfjDis8GrUXo0qMKgZ8WyJl64hCMMnYkRI7L7dJ9S2YP2FKlPLtpWk3Q3XkUXSw7iyaONbrqOighcSiVW1SMETBu-UgQGHTDAoGOgB6xcAKzWAkVyIiK5ZUSLpRqVZEzmxovMGJ1TMgkfjdCqJfCHyQ4n_F4-GTgI",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=04o71XiczZXbcqpIFIYfYJ5jvDFRQDylitrVtB0k0cQ2MYlXFDTYIAIKiOLdfpepmneap5nGIxo12ftiaros-7R6sVi9Pv6ff00c3_3nj7_tOJ5Gd-XyYrEo0SCgE6tEAq-sR6lPyqNgEoXE_hEF85BYjikROww8q5AmUqVAIokrWI4EjNtUjz74x9GYLJ7E3iyxXBe7hbULSTP0yBqzJyzHUVkrsz_3z0qLTUpRyfJLfXda92bxZGXiksDxzdJzWfeYAfjvGsIUZv0LQFeMAFC_5Q1jwLw9HBYg3DnYNZpNKPMHs0WYjc82FQGc9Q7anALPcOS9NwBQ9gfI5YDzTmW69iTLm8UXCC4-9HzbvMP9LrBrpvLV5cfdXM0ZXvOHh8eBsOSNqCwfDuUPs2U7dzTbVDbjKpDFHoBtCIJrwcMAtDwsqxhcK4a1ZQgHi-24A3iWobJJWeFyZSNkHV92iE3WgzDK6hm-NrlAEWDN7mpRshzwMqwpqOMQXPca1WYTlInB7CaBblqmZmvcj_WcF_gq16zUGzdrkEi0JynKk9SC41aCqv576JY6JZnfYQT3-YHH4SM2h-fyLsOtKTyzCcDuNnLZwfe5fXV_GmHQdU78DKys6rqHhZYAgJi3OPjNVj9jdBpahhEYrEfr4bas8y7VjEmM9wf2rf3p7c7dOpK310yVkx18kiIIXlTmYOfi5BtGGX5QxfIGo5m4Tv4CHDllfNJDgHgbkQyQunuBAzSbkUpzvCGWCJSVPIIstj5EMmZfNbpzJmffum2ozgn_Z2shu24E3tE3P32n7f5rkwybLS8n5X-ETT-ZJ2NVo800XnJTlr1VkxhGIloKOI9J4Bm_oDjkfwXSRo_UrR5dBkn9FkgYw8t6tBke9CgDCVJKL4CENiB90qP2GT06BQnRHEhf6NGvgqReA0m-CtLjOZDUKyBlenQMknukR_C8Hu1B-h09uv9NPVpzZW26Y3Gaj-llkZp9DJbLtNOueoIKGx9IcZ_6t-it2gSLL0Vq5MV3nm5ObjTHvJOFhzg1bzS2ENxZZmEmOb7p6EVPT4uOH4eBOSdWcTrRo9ghRTIPQ8snadEPYisqGtYoCK07gRNqtxzPfgVvEgYSp1dTQx36rRacD-0JeLZdfWRpPU57S2bWq72KB4_Th0ry0tcDRMKB__qmDec9UV-RnibWTb0-HnbN1OzT515v1knEseg2Zm7tAdfdBnxfjDis8GrUXo0qMKgZ8WyJl64hCMMnYkRI7L7dJ9S2YP2FKlPLtpWk3Q3XkUXSw7iyaONbrqOighcSiVW1SMETBu-UgQGHTDAoGOgB6xcAKzWAkVyIiK5ZUSLpRqVZEzmxovMGJ1TMgkfjdCqJfCHyQ4n_F4-GTgI"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Why doesn't the government use plastic notes instead of ...",
+      "link": "https://www.reddit.com/r/india/comments/11g1d28/why_doesnt_the_government_use_plastic_notes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFQBKJEuqqDZK-hXVeBnjtWahlDjn35UK1VdFWhpvoyGBQT7Vpifjb4DyoRQvpzqbZcjOow3MC-LawA5QlgX_R_G4t1_Q6SOMt0DkDoTNkS8h5ZLVMtHWz3U8doVNZjaSoMR4vfYnEPCs1T6M3Li4Pgc0TppJDTPnXswDEUZ2Y7106EwlyNnTMog6IK6xRUw0&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECBwQAQ&uoh=1",
+      "displayed_link": "10+ comments · 3 years ago",
+      "snippet": "Everybody knows how common plastic is in roadside garbage, there is so much pollution because of it, it is so evident that the moment you step out there ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Introduction Of Plastic Notes : r/india - Reddit",
+            "link": "https://www.reddit.com/r/india/comments/2nxdb5/introduction_of_plastic_notes/",
+            "answer_count": 90,
+            "date": "Sep 9, 2015"
+          },
+          {
+            "title": "Do you guys actually like using polymer notes? : r ...",
+            "link": "https://www.reddit.com/r/AskUK/comments/1ogo5l3/do_you_guys_actually_like_using_polymer_notes/",
+            "answer_count": 25,
+            "date": "Oct 26, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "India may soon introduce plastic polymer currency notes to improve durability, security, and reduce printing costs. What do collectors and currency enthusiasts ...",
+          "source_info_link": "https://www.reddit.com/r/india/comments/11g1d28/why_doesnt_the_government_use_plastic_notes/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZRQktKRXVxcURaSy1oWFZlQm5qdFdhaGxEam4zNVVLMVZkRldocHZveUdCUVQ3VnBpZmpiNER5b1JRdnB6cWJaY2pPb3czTUMtTGF3QTVRbGdYX1JfRzR0MV9RNlNPTXQwRGtEb1ROa1M4aDVaTFZNdEhXejNVOGRvVk5aamFTb01SNHZmWW5FUENzMVQ2TTNMaTRQZ2MwVHBwSkRUUG5Yc3dERVVaMlk3MTA2RXdseU5uVE1vZzZJSzZ4UlV3MBIEGgIIABqhBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD9BQgAEAAYACAAKhUKBWluZGlhFepMpEAaB2luZGlhJ3MqDwoDbWF5FUwQsz8aA2NhbipPCglpbnRyb2R1Y2UV4V64PxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZSoXCgdwbGFzdGljFUd9vEAaB3BvbHltZXIqRAoIY3VycmVuY3kV6YMkQBoEYmFuaxoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGg1jdXJyZW5jeW5vdGVzKkEKBW5vdGVzFf-i00AaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoEbm90ZRoNY3VycmVuY3lub3RlczLWAS9nb3RvP3VybD1DQUVTbEFFQjZ6c3dGUUJLSkV1cXFEWkstaFhWZUJuanRXYWhsRGpuMzVVSzFWZEZXaHB2b3lHQlFUN1ZwaWZqYjREeW9SUXZwenFiWmNqT293M01DLUxhd0E1UWxnWF9SX0c0dDFfUTZTT010MERrRG9UTmtTOGg1WkxWTXRIV3ozVThkb1ZOWmphU29NUjR2ZlluRVBDczFUNk0zTGk0UGdjMFRwcEpEVFBuWHN3REVVWjJZNzEwNkV3bHlOblRNb2c2SUs2eFJVdzA6SFdoeSBkb2VzbiYjMzk7dCB0aGUgZ292ZXJubWVudCB1c2UgPGI-cGxhc3RpYyBub3RlczwvYj4gaW5zdGVhZCBvZiBwYXBlckKvATxiPkluZGlhIG1heSBzb29uIGludHJvZHVjZSBwbGFzdGljIHBvbHltZXIgY3VycmVuY3kgbm90ZXM8L2I-IHRvIGltcHJvdmUgZHVyYWJpbGl0eSwgc2VjdXJpdHksIGFuZCByZWR1Y2UgcHJpbnRpbmcgY29zdHMuIFdoYXQgZG8gY29sbGVjdG9ycyBhbmQgY3VycmVuY3kgZW50aHVzaWFzdHMmbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZRQktKRXVxcURaSy1oWFZlQm5qdFdhaGxEam4zNVVLMVZkRldocHZveUdCUVQ3VnBpZmpiNER5b1JRdnB6cWJaY2pPb3czTUMtTGF3QTVRbGdYX1JfRzR0MV9RNlNPTXQwRGtEb1ROa1M4aDVaTFZNdEhXejNVOGRvVk5aamFTb01SNHZmWW5FUENzMVQ2TTNMaTRQZ2MwVHBwSkRUUG5Yc3dERVVaMlk3MTA2RXdseU5uVE1vZzZJSzZ4UlV3MBIEGgIIABqhBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD9BQgAEAAYACAAKhUKBWluZGlhFepMpEAaB2luZGlhJ3MqDwoDbWF5FUwQsz8aA2NhbipPCglpbnRyb2R1Y2UV4V64PxoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZSoXCgdwbGFzdGljFUd9vEAaB3BvbHltZXIqRAoIY3VycmVuY3kV6YMkQBoEYmFuaxoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGg1jdXJyZW5jeW5vdGVzKkEKBW5vdGVzFf-i00AaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoEbm90ZRoNY3VycmVuY3lub3RlczLWAS9nb3RvP3VybD1DQUVTbEFFQjZ6c3dGUUJLSkV1cXFEWkstaFhWZUJuanRXYWhsRGpuMzVVSzFWZEZXaHB2b3lHQlFUN1ZwaWZqYjREeW9SUXZwenFiWmNqT293M01DLUxhd0E1UWxnWF9SX0c0dDFfUTZTT010MERrRG9UTmtTOGg1WkxWTXRIV3ozVThkb1ZOWmphU29NUjR2ZlluRVBDczFUNk0zTGk0UGdjMFRwcEpEVFBuWHN3REVVWjJZNzEwNkV3bHlOblRNb2c2SUs2eFJVdzA6SFdoeSBkb2VzbiYjMzk7dCB0aGUgZ292ZXJubWVudCB1c2UgPGI-cGxhc3RpYyBub3RlczwvYj4gaW5zdGVhZCBvZiBwYXBlckKvATxiPkluZGlhIG1heSBzb29uIGludHJvZHVjZSBwbGFzdGljIHBvbHltZXIgY3VycmVuY3kgbm90ZXM8L2I-IHRvIGltcHJvdmUgZHVyYWJpbGl0eSwgc2VjdXJpdHksIGFuZCByZWR1Y2UgcHJpbnRpbmcgY29zdHMuIFdoYXQgZG8gY29sbGVjdG9ycyBhbmQgY3VycmVuY3kgZW50aHVzaWFzdHMmbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "source": "Reddit · r/india"
+    },
+    {
+      "position": 2,
+      "title": "Several media reports claim that RBI is planning to ...",
+      "link": "https://www.facebook.com/pibfactcheck/posts/several-media-reports-claim-that-rbi-is-planning-to-introduce-new-currency-notes/328978032752327/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFTfynMmRS7lsZAZlhu_n_oEuc5Fh8PeyfC4GUNDwTzltNxQLKGsrtdQURv5sDOroVuvjHIsJaaBrj0_J8irnx15bAzPPpO9cJ4E0kFSvnuln-HXNP9YGdCzb3nOoXZooLRRbLU67k7hTRqP8QizazURY2Nm5yMy5j5KTuCbuoDelAsrdMiLDbe5PGXhgTGH2vBqTEGsPofjwlaSewCpoZL9SDIO6qe5boor0rhNumJspYfOLDQazeqndogWcUdsmUFg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECBUQAQ&uoh=1",
+      "displayed_link": "30+ reactions",
+      "snippet": "The Reserve Bank of India is reportedly revisiting plans to introduce polymer (plastic) currency notes. These notes are known for lasting longer and offering ...",
+      "snippet_highlighted_words": [
+        "reportedly revisiting plans to introduce polymer (plastic) currency notes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Reserve Bank of India is reportedly revisiting plans to introduce polymer (plastic) currency notes. These notes are known for lasting longer and offering ...",
+          "source_info_link": "https://www.facebook.com/pibfactcheck/posts/several-media-reports-claim-that-rbi-is-planning-to-introduce-new-currency-notes/328978032752327/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZUZnluTW1SUzdsc1pBWmxodV9uX29FdWM1Rmg4UGV5ZkM0R1VORHdUemx0TnhRTEtHc3J0ZFFVUnY1c0RPcm9WdXZqSElzSmFhQnJqMF9KOGlybngxNWJBelBQcE85Y0o0RTBrRlN2bnVsbi1IWE5QOVlHZEN6YjNuT29YWm9vTFJSYkxVNjdrN2hUUnFQOFFpemF6VVJZMk5tNXlNeTVqNUtUdUNidW9EZWxBc3JkTWlMRGJlNVBHWGhnVEdIMnZCcVRFR3NQb2Zqd2xhU2V3Q3BvWkw5U0RJTzZxZTVib29yMHJoTnVtSnNwWWZPTERRYXplcW5kb2dXY1Vkc21VRmcSBBoCCAAa4gYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAvgYIABAAGAAgACoVCgVpbmRpYRUx7V5AGgdpbmRpYSdzKg8KA21heRV2lpc_GgNjYW4qTwoJaW50cm9kdWNlFXLmj0AaCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxVXokpAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FTgByEAaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxU0pb5AGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMymQIvZ290bz91cmw9Q0FFU3hnRUI2enN3RlRmeW5NbVJTN2xzWkFabGh1X25fb0V1YzVGaDhQZXlmQzRHVU5Ed1R6bHROeFFMS0dzcnRkUVVSdjVzRE9yb1Z1dmpISXNKYWFCcmowX0o4aXJueDE1YkF6UFBwTzljSjRFMGtGU3ZudWxuLUhYTlA5WUdkQ3piM25Pb1hab29MUlJiTFU2N2s3aFRScVA4UWl6YXpVUlkyTm01eU15NWo1S1R1Q2J1b0RlbEFzcmRNaUxEYmU1UEdYaGdUR0gydkJxVEVHc1BvZmp3bGFTZXdDcG9aTDlTRElPNnFlNWJvb3IwcmhOdW1Kc3BZZk9MRFFhemVxbmRvZ1djVWRzbVVGZzpIU2V2ZXJhbCBtZWRpYSByZXBvcnRzIGNsYWltIHRoYXQgUkJJIGlzIHBsYW5uaW5nIHRvIDxiPmludHJvZHVjZTwvYj4gLi4uQq0BVGhlIFJlc2VydmUgQmFuayBvZiBJbmRpYSBpcyA8Yj5yZXBvcnRlZGx5IHJldmlzaXRpbmcgcGxhbnMgdG8gaW50cm9kdWNlIHBvbHltZXIgKHBsYXN0aWMpIGN1cnJlbmN5IG5vdGVzPC9iPi4gVGhlc2Ugbm90ZXMgYXJlIGtub3duIGZvciBsYXN0aW5nIGxvbmdlciBhbmQgb2ZmZXJpbmcmbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZUZnluTW1SUzdsc1pBWmxodV9uX29FdWM1Rmg4UGV5ZkM0R1VORHdUemx0TnhRTEtHc3J0ZFFVUnY1c0RPcm9WdXZqSElzSmFhQnJqMF9KOGlybngxNWJBelBQcE85Y0o0RTBrRlN2bnVsbi1IWE5QOVlHZEN6YjNuT29YWm9vTFJSYkxVNjdrN2hUUnFQOFFpemF6VVJZMk5tNXlNeTVqNUtUdUNidW9EZWxBc3JkTWlMRGJlNVBHWGhnVEdIMnZCcVRFR3NQb2Zqd2xhU2V3Q3BvWkw5U0RJTzZxZTVib29yMHJoTnVtSnNwWWZPTERRYXplcW5kb2dXY1Vkc21VRmcSBBoCCAAa4gYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAvgYIABAAGAAgACoVCgVpbmRpYRUx7V5AGgdpbmRpYSdzKg8KA21heRV2lpc_GgNjYW4qTwoJaW50cm9kdWNlFXLmj0AaCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxVXokpAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FTgByEAaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxU0pb5AGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMymQIvZ290bz91cmw9Q0FFU3hnRUI2enN3RlRmeW5NbVJTN2xzWkFabGh1X25fb0V1YzVGaDhQZXlmQzRHVU5Ed1R6bHROeFFMS0dzcnRkUVVSdjVzRE9yb1Z1dmpISXNKYWFCcmowX0o4aXJueDE1YkF6UFBwTzljSjRFMGtGU3ZudWxuLUhYTlA5WUdkQ3piM25Pb1hab29MUlJiTFU2N2s3aFRScVA4UWl6YXpVUlkyTm01eU15NWo1S1R1Q2J1b0RlbEFzcmRNaUxEYmU1UEdYaGdUR0gydkJxVEVHc1BvZmp3bGFTZXdDcG9aTDlTRElPNnFlNWJvb3IwcmhOdW1Kc3BZZk9MRFFhemVxbmRvZ1djVWRzbVVGZzpIU2V2ZXJhbCBtZWRpYSByZXBvcnRzIGNsYWltIHRoYXQgUkJJIGlzIHBsYW5uaW5nIHRvIDxiPmludHJvZHVjZTwvYj4gLi4uQq0BVGhlIFJlc2VydmUgQmFuayBvZiBJbmRpYSBpcyA8Yj5yZXBvcnRlZGx5IHJldmlzaXRpbmcgcGxhbnMgdG8gaW50cm9kdWNlIHBvbHltZXIgKHBsYXN0aWMpIGN1cnJlbmN5IG5vdGVzPC9iPi4gVGhlc2Ugbm90ZXMgYXJlIGtub3duIGZvciBsYXN0aW5nIGxvbmdlciBhbmQgb2ZmZXJpbmcmbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "source": "Facebook · PIB Fact Check"
+    },
+    {
+      "position": 3,
+      "title": "What are the Benefits of Plastic Notes in the Indian ...",
+      "link": "https://unacademy.com/content/bank-exam/study-material/general-awareness/what-are-the-benefits-of-plastic-notes-in-the-indian-economy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEB6zswFQUGiD9ZXHsWHjVJ3qLwVWSTL7m1yRUN2laPxtJUi0xFwrS5XeqIdSAtqHrhnVWnHgPajrFuh9pw3PmSMgxzUn_Y-Lua40Dbx20-Tk9e63IEi7iN5K-uhcI1rVpyASrqWfjpxOw4mZCEsPbvwmcvTRjqZk10fwXJDAH5NTUkmQs2FAHYf32k_5oo8TaqaHoYe-hjpmy4GoEIKCUCZbUEwPwkvzbbbLFq0p3ySNN5S7TdPBNPs6vxZZ-RmA&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://unacademy.com › ... › General Awareness",
+      "date": "Apr 29, 2022",
+      "snippet": "Reserve Bank of India, the country's central bank, has chosen to test the circulation of plastic notes of Rs. 10 denomination in five cities: Mysore, Kochi, ...",
+      "snippet_highlighted_words": [
+        "Bank",
+        "India",
+        "bank",
+        "plastic notes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Reserve Bank of India, the country's central bank, has chosen to test the circulation of plastic notes of Rs. 10 denomination in five cities: Mysore, Kochi, ...",
+          "source_info_link": "https://unacademy.com/content/bank-exam/study-material/general-awareness/what-are-the-benefits-of-plastic-notes-in-the-indian-economy/",
+          "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAABwBwCdASocABwAPtEwtFooIigoGAEAGglsAMN8EwrKtcBmAHPy6GnyX9VRs_5bKYG4kAKRVy79gNEHMFtTTdcBlcWJwAD-94DijcVvLt5KlfEWqFSMkH-DSMlT9BsFWhK_9f6T960Sd-v3FBmVdXnsvg4pAKN8yNBylHOI_3-lNgs-fp46MW_7zZh6CrKZqwD3mf3REm8g0bAvTzOkimE4T85ebKC-X81JA95TMwP82O3vz0rOh12shPZ8N92kT7L__E-DXggDTN6sWKyXjdf1ZCd6Kq9Mf8WH1S1pc5vjDfo1-jq0Y1OoLqTvD-5wA1N_mMeSXM-lq9NdjIxh4TnPCnlVWWHfDZP_f9_0xnM9nV1ZkVirPdcThiUf3-CXqhPfx6vZfLtGtIjp_qfRrD2ATCQIG5rwfOmH67PkgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZRVUdpRDlaWEhzV0hqVkozcUx3VldTVEw3bTF5UlVOMmxhUHh0SlVpMHhGd3JTNVhlcUlkU0F0cUhyaG5WV25IZ1BhanJGdWg5cHczUG1TTWd4elVuX1ktTHVhNDBEYngyMC1UazllNjNJRWk3aU41Sy11aGNJMXJWcHlBU3JxV2ZqcHhPdzRtWkNFc1BidndtY3ZUUmpxWmsxMGZ3WEpEQUg1TlRVa21RczJGQUhZZjMya181b284VGFxYUhvWWUtaGpwbXk0R29FSUtDVUNaYlVFd1B3a3Z6YmJiTEZxMHAzeVNOTjVTN1RkUEJOUHM2dnhaWi1SbUESBBoCCAAa7QYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoVCgVpbmRpYRXzYMI_GgdpbmRpYSdzKg8KA21heRX8TeI-GgNjYW4qTwoJaW50cm9kdWNlFQAAAAAaCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxWiyctAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FaHvOkAaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxUUuMxAGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMykAIvZ290bz91cmw9Q0FFU3Z3RUI2enN3RlFVR2lEOVpYSHNXSGpWSjNxTHdWV1NUTDdtMXlSVU4ybGFQeHRKVWkweEZ3clM1WGVxSWRTQXRxSHJoblZXbkhnUGFqckZ1aDlwdzNQbVNNZ3h6VW5fWS1MdWE0MERieDIwLVRrOWU2M0lFaTdpTjVLLXVoY0kxclZweUFTcnFXZmpweE93NG1aQ0VzUGJ2d21jdlRSanFaazEwZndYSkRBSDVOVFVrbVFzMkZBSFlmMzJrXzVvbzhUYXFhSG9ZZS1oanBteTRHb0VJS0NVQ1piVUV3UHdrdnpiYmJMRnEwcDN5U05ONVM3VGRQQk5QczZ2eFpaLVJtQTpEV2hhdCBhcmUgdGhlIEJlbmVmaXRzIG9mIDxiPlBsYXN0aWMgTm90ZXM8L2I-IGluIHRoZSBJbmRpYW4gRWNvbm9teT9CxQFSZXNlcnZlIDxiPkJhbms8L2I-IG9mIDxiPkluZGlhPC9iPiwgdGhlIGNvdW50cnkmIzM5O3MgY2VudHJhbCA8Yj5iYW5rPC9iPiwgaGFzIGNob3NlbiB0byB0ZXN0IHRoZSBjaXJjdWxhdGlvbiBvZiA8Yj5wbGFzdGljIG5vdGVzPC9iPiBvZiBScy4gMTAgZGVub21pbmF0aW9uIGluIGZpdmUgY2l0aWVzOiBNeXNvcmUsIEtvY2hpLCZuYnNwOy4uLlIDY2FuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZRVUdpRDlaWEhzV0hqVkozcUx3VldTVEw3bTF5UlVOMmxhUHh0SlVpMHhGd3JTNVhlcUlkU0F0cUhyaG5WV25IZ1BhanJGdWg5cHczUG1TTWd4elVuX1ktTHVhNDBEYngyMC1UazllNjNJRWk3aU41Sy11aGNJMXJWcHlBU3JxV2ZqcHhPdzRtWkNFc1BidndtY3ZUUmpxWmsxMGZ3WEpEQUg1TlRVa21RczJGQUhZZjMya181b284VGFxYUhvWWUtaGpwbXk0R29FSUtDVUNaYlVFd1B3a3Z6YmJiTEZxMHAzeVNOTjVTN1RkUEJOUHM2dnhaWi1SbUESBBoCCAAa7QYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoVCgVpbmRpYRXzYMI_GgdpbmRpYSdzKg8KA21heRX8TeI-GgNjYW4qTwoJaW50cm9kdWNlFQAAAAAaCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxWiyctAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FaHvOkAaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxUUuMxAGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMykAIvZ290bz91cmw9Q0FFU3Z3RUI2enN3RlFVR2lEOVpYSHNXSGpWSjNxTHdWV1NUTDdtMXlSVU4ybGFQeHRKVWkweEZ3clM1WGVxSWRTQXRxSHJoblZXbkhnUGFqckZ1aDlwdzNQbVNNZ3h6VW5fWS1MdWE0MERieDIwLVRrOWU2M0lFaTdpTjVLLXVoY0kxclZweUFTcnFXZmpweE93NG1aQ0VzUGJ2d21jdlRSanFaazEwZndYSkRBSDVOVFVrbVFzMkZBSFlmMzJrXzVvbzhUYXFhSG9ZZS1oanBteTRHb0VJS0NVQ1piVUV3UHdrdnpiYmJMRnEwcDN5U05ONVM3VGRQQk5QczZ2eFpaLVJtQTpEV2hhdCBhcmUgdGhlIEJlbmVmaXRzIG9mIDxiPlBsYXN0aWMgTm90ZXM8L2I-IGluIHRoZSBJbmRpYW4gRWNvbm9teT9CxQFSZXNlcnZlIDxiPkJhbms8L2I-IG9mIDxiPkluZGlhPC9iPiwgdGhlIGNvdW50cnkmIzM5O3MgY2VudHJhbCA8Yj5iYW5rPC9iPiwgaGFzIGNob3NlbiB0byB0ZXN0IHRoZSBjaXJjdWxhdGlvbiBvZiA8Yj5wbGFzdGljIG5vdGVzPC9iPiBvZiBScy4gMTAgZGVub21pbmF0aW9uIGluIGZpdmUgY2l0aWVzOiBNeXNvcmUsIEtvY2hpLCZuYnNwOy4uLlIDY2FuIgIQAUgAWABoAA",
+      "source": "Unacademy"
+    },
+    {
+      "position": 4,
+      "title": "Reserve Bank of India - Homepage",
+      "link": "https://paisaboltahai.rbi.org.in/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVyKRJtjb3t8ngY2rrRS-ufasu3IHAa9juXnMUTesFVxP6B1VxamnC7_ygC8y7UK8U9KyOMydTjTeqOhCUg_wIRpxfdht_yPAfRJD4mBCQPHWCMTVZ&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://paisaboltahai.rbi.org.in",
+      "date": "Nov 12, 2016",
+      "snippet": "The new design bank notes are distinctly different from the current Mahatma Gandhi Series of bank notes in colour, size and theme. The theme of the new series ...",
+      "snippet_highlighted_words": [
+        "bank notes",
+        "bank notes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The new design bank notes are distinctly different from the current Mahatma Gandhi Series of bank notes in colour, size and theme. The theme of the new series ...",
+          "source_info_link": "https://paisaboltahai.rbi.org.in/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnlLUkp0amIzdDhuZ1kycnJSUy11ZmFzdTNJSEFhOWp1WG5NVVRlc0ZWeFA2QjFWeGFtbkM3X3lnQzh5N1VLOFU5S3lPTXlkVGpUZXFPaENVZ193SVJweGZkaHRfeVBBZlJKRDRtQkNRUEhXQ01UVloSBBoCCAAavwUSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCZBQgAEAAYACAAKhUKBWluZGlhFRN1SkAaB2luZGlhJ3MqDwoDbWF5FX3y8z4aA2NhbipPCglpbnRyb2R1Y2UVAAAAABoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZSoXCgdwbGFzdGljFQAAAAAaB3BvbHltZXIqRAoIY3VycmVuY3kVKUFfPxoEYmFuaxoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGg1jdXJyZW5jeW5vdGVzKkEKBW5vdGVzFdUtOUAaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoEbm90ZRoNY3VycmVuY3lub3RlczKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZ5S1JKdGpiM3Q4bmdZMnJyUlMtdWZhc3UzSUhBYTlqdVhuTVVUZXNGVnhQNkIxVnhhbW5DN195Z0M4eTdVSzhVOUt5T015ZFRqVGVxT2hDVWdfd0lScHhmZGh0X3lQQWZSSkQ0bUJDUVBIV0NNVFZaOi5SZXNlcnZlIDxiPkJhbms8L2I-IG9mIDxiPkluZGlhPC9iPiAtIEhvbWVwYWdlQrUBVGhlIG5ldyBkZXNpZ24gPGI-YmFuayBub3RlczwvYj4gYXJlIGRpc3RpbmN0bHkgZGlmZmVyZW50IGZyb20gdGhlIGN1cnJlbnQgTWFoYXRtYSBHYW5kaGkgU2VyaWVzIG9mIDxiPmJhbmsgbm90ZXM8L2I-IGluIGNvbG91ciwgc2l6ZSBhbmQgdGhlbWUuIFRoZSB0aGVtZSBvZiB0aGUgbmV3IHNlcmllcyZuYnNwOy4uLlIDY2FuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVnlLUkp0amIzdDhuZ1kycnJSUy11ZmFzdTNJSEFhOWp1WG5NVVRlc0ZWeFA2QjFWeGFtbkM3X3lnQzh5N1VLOFU5S3lPTXlkVGpUZXFPaENVZ193SVJweGZkaHRfeVBBZlJKRDRtQkNRUEhXQ01UVloSBBoCCAAavwUSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCZBQgAEAAYACAAKhUKBWluZGlhFRN1SkAaB2luZGlhJ3MqDwoDbWF5FX3y8z4aA2NhbipPCglpbnRyb2R1Y2UVAAAAABoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZSoXCgdwbGFzdGljFQAAAAAaB3BvbHltZXIqRAoIY3VycmVuY3kVKUFfPxoEYmFuaxoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGg1jdXJyZW5jeW5vdGVzKkEKBW5vdGVzFdUtOUAaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoEbm90ZRoNY3VycmVuY3lub3RlczKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZ5S1JKdGpiM3Q4bmdZMnJyUlMtdWZhc3UzSUhBYTlqdVhuTVVUZXNGVnhQNkIxVnhhbW5DN195Z0M4eTdVSzhVOUt5T015ZFRqVGVxT2hDVWdfd0lScHhmZGh0X3lQQWZSSkQ0bUJDUVBIV0NNVFZaOi5SZXNlcnZlIDxiPkJhbms8L2I-IG9mIDxiPkluZGlhPC9iPiAtIEhvbWVwYWdlQrUBVGhlIG5ldyBkZXNpZ24gPGI-YmFuayBub3RlczwvYj4gYXJlIGRpc3RpbmN0bHkgZGlmZmVyZW50IGZyb20gdGhlIGN1cnJlbnQgTWFoYXRtYSBHYW5kaGkgU2VyaWVzIG9mIDxiPmJhbmsgbm90ZXM8L2I-IGluIGNvbG91ciwgc2l6ZSBhbmQgdGhlbWUuIFRoZSB0aGVtZSBvZiB0aGUgbmV3IHNlcmllcyZuYnNwOy4uLlIDY2FuIgIQAUgAWABoAA",
+      "source": "Reserve Bank of India",
+      "read_more_link": "https://paisaboltahai.rbi.org.in/#:~:text=The%20new%20design%20bank%20notes,notes%20is%20India's%20heritage%20sites."
+    },
+    {
+      "position": 5,
+      "title": "Is Polymer Banknotes Better than Paper Banknotes?",
+      "link": "https://www.extravelmoney.com/blog/polymer-banknotes-analysis/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV6DUWLFns1IiN94NZD5oJiTNVPGOoofJg4_dFA_6vak60NW-mNM775PZ4T_zGbniXkZkWbHG3pGMJMqmZhH8oKPypXjRd7qlTW37ULscU0cTrkL6px5EpLc06JAOwJhgLDxqE6SmYzQJ6PrN2Jqn7d3M&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.extravelmoney.com › blog › polymer-bank...",
+      "date": "Jul 23, 2025",
+      "snippet": "India shall introduce plastic notes, at least for lower and frequently used denominations like ₹10 and ₹20 and adopt a sustainable path of currency production.",
+      "snippet_highlighted_words": [
+        "India shall introduce plastic notes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "India shall introduce plastic notes, at least for lower and frequently used denominations like ₹10 and ₹20 and adopt a sustainable path of currency production.",
+          "source_info_link": "https://www.extravelmoney.com/blog/polymer-banknotes-analysis/",
+          "icon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAACwBwCdASogACAAPrUurVanIacnG_DgFolsALEUgWQCWM948K8EMw8bjzv9gCx_9WAJq2N1qAoC72QHtk4TcU8F1LDbz5iAAP7Cuv6n6rz-1j4u4TjQTv2t2VWpz2XBOjOXey9M7Uk7-S4VbBeeXyrtXTHSTkem01L2CpOfBSqIJGosG1o-4f7nsVSn70_9jMt_d5A3XnD8s-o8srMgH_tL9AvVMNuncyAJ_6gbXsuYtyJoIzHqm-4pmEQsFREZUxemPf9f-PscWLSgJWfIkB61QPZmyV3WADeuiGyOA5q9BLOpOzsj0ySLG1z96eExR-hp0bHiyWDacDA8tcqi6TT5fBbmL_8cUzz0lZiCpDDImS4iC2xUQ3hufGkAq0E1v24t_g7EbGOmIFI17LMlEd-1n8SEZlH-vBc_Pp1o-vnNN__b4-Hc9KCQucVYc3yK7nqI5YsX9ESziBnk1cYAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjZEVVdMRm5zMUlpTjk0TlpENW9KaVROVlBHT29vZkpnNF9kRkFfNnZhazYwTlctbU5NNzc1UFo0VF96R2JuaVhrWmtXYkhHM3BHTUpNcW1aaEg4b0tQeXBYalJkN3FsVFczN1VMc2NVMGNUcmtMNnB4NUVwTGMwNkpBT3dKaGdMRHhxRTZTbVl6UUo2UHJOMkpxbjdkM00SBBoCCAAa7AUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDGBQgAEAAYACAAKhUKBWluZGlhFWdrcEAaB2luZGlhJ3MqDwoDbWF5FT73PD8aA2NhbipPCglpbnRyb2R1Y2UVvs09QBoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZSoXCgdwbGFzdGljFUDgP0AaB3BvbHltZXIqRAoIY3VycmVuY3kViAGxQBoEYmFuaxoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGg1jdXJyZW5jeW5vdGVzKkEKBW5vdGVzFcNojEAaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoEbm90ZRoNY3VycmVuY3lub3RlczKtAS9nb3RvP3VybD1DQUVTZGdIck96QVY2RFVXTEZuczFJaU45NE5aRDVvSmlUTlZQR09vb2ZKZzRfZEZBXzZ2YWs2ME5XLW1OTTc3NVBaNFRfekdibmlYa1prV2JIRzNwR01KTXFtWmhIOG9LUHlwWGpSZDdxbFRXMzdVTHNjVTBjVHJrTDZweDVFcExjMDZKQU93SmhnTER4cUU2U21ZelFKNlByTjJKcW43ZDNNOj9JcyA8Yj5Qb2x5bWVyIEJhbmtub3RlczwvYj4gQmV0dGVyIHRoYW4gUGFwZXIgPGI-QmFua25vdGVzPC9iPj9CqgE8Yj5JbmRpYSBzaGFsbCBpbnRyb2R1Y2UgcGxhc3RpYyBub3RlczwvYj4sIGF0IGxlYXN0IGZvciBsb3dlciBhbmQgZnJlcXVlbnRseSB1c2VkIGRlbm9taW5hdGlvbnMgbGlrZSDigrkxMCBhbmQg4oK5MjAgYW5kIGFkb3B0IGEgc3VzdGFpbmFibGUgcGF0aCBvZiBjdXJyZW5jeSBwcm9kdWN0aW9uLlIDY2FuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjZEVVdMRm5zMUlpTjk0TlpENW9KaVROVlBHT29vZkpnNF9kRkFfNnZhazYwTlctbU5NNzc1UFo0VF96R2JuaVhrWmtXYkhHM3BHTUpNcW1aaEg4b0tQeXBYalJkN3FsVFczN1VMc2NVMGNUcmtMNnB4NUVwTGMwNkpBT3dKaGdMRHhxRTZTbVl6UUo2UHJOMkpxbjdkM00SBBoCCAAa7AUSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDGBQgAEAAYACAAKhUKBWluZGlhFWdrcEAaB2luZGlhJ3MqDwoDbWF5FT73PD8aA2NhbipPCglpbnRyb2R1Y2UVvs09QBoKaW50cm9kdWNlZBoLaW50cm9kdWNpbmcaDGludHJvZHVjdGlvbhoGbGF1bmNoGg5pdjtwO2ludHJvZHVjZSoXCgdwbGFzdGljFUDgP0AaB3BvbHltZXIqRAoIY3VycmVuY3kViAGxQBoEYmFuaxoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGg1jdXJyZW5jeW5vdGVzKkEKBW5vdGVzFcNojEAaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoEbm90ZRoNY3VycmVuY3lub3RlczKtAS9nb3RvP3VybD1DQUVTZGdIck96QVY2RFVXTEZuczFJaU45NE5aRDVvSmlUTlZQR09vb2ZKZzRfZEZBXzZ2YWs2ME5XLW1OTTc3NVBaNFRfekdibmlYa1prV2JIRzNwR01KTXFtWmhIOG9LUHlwWGpSZDdxbFRXMzdVTHNjVTBjVHJrTDZweDVFcExjMDZKQU93SmhnTER4cUU2U21ZelFKNlByTjJKcW43ZDNNOj9JcyA8Yj5Qb2x5bWVyIEJhbmtub3RlczwvYj4gQmV0dGVyIHRoYW4gUGFwZXIgPGI-QmFua25vdGVzPC9iPj9CqgE8Yj5JbmRpYSBzaGFsbCBpbnRyb2R1Y2UgcGxhc3RpYyBub3RlczwvYj4sIGF0IGxlYXN0IGZvciBsb3dlciBhbmQgZnJlcXVlbnRseSB1c2VkIGRlbm9taW5hdGlvbnMgbGlrZSDigrkxMCBhbmQg4oK5MjAgYW5kIGFkb3B0IGEgc3VzdGFpbmFibGUgcGF0aCBvZiBjdXJyZW5jeSBwcm9kdWN0aW9uLlIDY2FuIgIQAUgAWABoAA",
+      "source": "ExTravelMoney"
+    },
+    {
+      "position": 6,
+      "title": "Is the RBI going to launch new ₹5000 notes soon? Find out ...",
+      "link": "https://www.facebook.com/factlyindia/videos/is-the-rbi-going-to-launch-new-5000-notes-soon-find-out-here-link-in-bio-for-det/1428462198131959/",
+      "displayed_link": "2 reactions · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab2bf0166bc7822435dce30/images/wfTcGKfjs0D0lcmg4VxiZEnbKj6luQSZzFQijorcWHY.jpeg",
+      "snippet": "This post reports on the Indian government's Central Bank of India (RBI) approval of trials for new plastic currency notes, valued at ₹10 and ₹20.",
+      "duration": "0:58",
+      "about_this_result": {
+        "source": {
+          "description": "This post reports on the Indian government's Central Bank of India (RBI) approval of trials for new plastic currency notes, valued at ₹10 and ₹20.",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZWMHB5MHY3ekRiOEpKaUtnUlNZWF82cU1QWUZ6aUhCMUVna3A3cWpXaS1ua2Z3ZGFBNWl6bXFMSWptSlI4V3VWWTZMTjN3alVObENRdndfN1dZck5lUUtwVGtBWngxUzVXRkhPUmNIc0gzanJOVF9wUVJ4bVo5a0V1LW5rM08yTWFpeEQ3RDFwV2dHaXp5cDdSSmcydGdUZWVhZGlqaWs2TWpYOUZXQWdSZE9BOHlTZEhjTWdmSDZFMjJUNXJLRndxdl9XdVJxS0xfZ19nNS1nV1V0cHhPelRCYUc2V1RETmZZM3JpLTUwYzk0OTBtRXFoOGo4RldPVFdkYVNnREtTZm1iEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZWMHB5MHY3ekRiOEpKaUtnUlNZWF82cU1QWUZ6aUhCMUVna3A3cWpXaS1ua2Z3ZGFBNWl6bXFMSWptSlI4V3VWWTZMTjN3alVObENRdndfN1dZck5lUUtwVGtBWngxUzVXRkhPUmNIc0gzanJOVF9wUVJ4bVo5a0V1LW5rM08yTWFpeEQ3RDFwV2dHaXp5cDdSSmcydGdUZWVhZGlqaWs2TWpYOUZXQWdSZE9BOHlTZEhjTWdmSDZFMjJUNXJLRndxdl9XdVJxS0xfZ19nNS1nV1V0cHhPelRCYUc2V1RETmZZM3JpLTUwYzk0OTBtRXFoOGo4RldPVFdkYVNnREtTZm1iEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · Factly"
+    },
+    {
+      "position": 7,
+      "title": "Govt may soon introduce plastic currency notes, ...",
+      "link": "https://www.hindustantimes.com/india-news/govt-may-soon-introduce-plastic-currency-notes-procurement-initiated/story-DFMt9iPbuiSqN1C3KBhGcJ.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFaswQ0LstBkSyd9IZKosmhECs-3FKAr5cGI3JjrQKo0bE3llOqv2DnhEn1_3SVxKatdZ4r5cPH9z6lsORWj24uylBY-Q8KuzN9AYkqmbtnPD25fTMe6Ewk5nzkSGzxTBGgWOwcFFAUGYpOe1eDPv_xm8rO2W7iSbSsd1uSOntU0vP8eaEEdzQhHLfwjDAUdRZ7_LEcawrfSyNHv67_YQiT6ic6A_asxnRF43uyJc0b6_DP5qtQEVhu0i-hVowOOImh1BKcA&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://www.hindustantimes.com › India news",
+      "date": "Dec 9, 2016",
+      "snippet": "Government may soon introduce plastic currency notes, Parliament was informed on Friday. ... “It has been decided to print banknotes based on plastic or polymer ...",
+      "snippet_highlighted_words": [
+        "Government may soon introduce plastic currency notes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Government may soon introduce plastic currency notes, Parliament was informed on Friday. ... “It has been decided to print banknotes based on plastic or polymer ...",
+          "source_info_link": "https://www.hindustantimes.com/india-news/govt-may-soon-introduce-plastic-currency-notes-procurement-initiated/story-DFMt9iPbuiSqN1C3KBhGcJ.html",
+          "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_qvFBuG9hDZ24DeQN59NoCqMWrBZU2l1T0JSgzBK5INpXj2m-YF04Id0IHlM_AAD-9N3XWvfwHuVSLn-ID0PuUhrTD-n1iXJ9g2wy1ZPjHqkNBecHaXbDEYrsV-_Mw_Miq2lzmIKiFZDAa_OnpHwKBo_cC3lBrEzbnzUeP8-uRz7aCcFn231otOZ0tAlCbe5NgqlaZeLjwRl_OuMUdcKDJ4wHaPqI3ZZF5-y5z9NxPd8_yxYyUd1tys_YnoCBL9lcFVd6s3SlF2-Lp1r3AfWItqwOdfBHfR_X_WUB2P4M2vYZoJm9-f7Vw1eEVdNpMHPlkQTkHl-IgbqybGR_-T-aWAYR-9vcuBwcqa8Q-m4G03_LeH_JYStrbl_hon2QzvGKidmYorS4KtODzOllom_-0CvnrykfC9zvG3l_VLmHcdYSCdh4uhe2qWnQC-HdpP2XU5VpKK0u5MFONpELjHflH3B-nq0T4na6T-W1t_ywKCgTomr_V2wduH9kgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0Zhc3dRMExzdEJrU3lkOUlaS29zbWhFQ3MtM0ZLQXI1Y0dJM0pqclFLbzBiRTNsbE9xdjJEbmhFbjFfM1NWeEthdGRaNHI1Y1BIOXo2bHNPUldqMjR1eWxCWS1ROEt1ek45QVlrcW1idG5QRDI1ZlRNZTZFd2s1bnprU0d6eFRCR2dXT3djRkZBVUdZcE9lMWVEUHZfeG04ck8yVzdpU2JTc2QxdVNPbnRVMHZQOGVhRUVkelFoSExmd2pEQVVkUlo3X0xFY2F3cmZTeU5IdjY3X1lRaVQ2aWM2QV9hc3huUkY0M3V5SmMwYjZfRFA1cXRRRVZodTBpLWhWb3dPT0ltaDFCS2NBEgQaAggAGvAGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqFQoFaW5kaWEV7IvTQBoHaW5kaWEncyoPCgNtYXkVq5WGQBoDY2FuKk8KCWludHJvZHVjZRW3P49AGgppbnRyb2R1Y2VkGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGgZsYXVuY2gaDml2O3A7aW50cm9kdWNlKhcKB3BsYXN0aWMVDO-yQBoHcG9seW1lcipECghjdXJyZW5jeRXqXaVAGgRiYW5rGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaDWN1cnJlbmN5bm90ZXMqQQoFbm90ZXMVe2KsQBoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGgRub3RlGg1jdXJyZW5jeW5vdGVzMp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0Zhc3dRMExzdEJrU3lkOUlaS29zbWhFQ3MtM0ZLQXI1Y0dJM0pqclFLbzBiRTNsbE9xdjJEbmhFbjFfM1NWeEthdGRaNHI1Y1BIOXo2bHNPUldqMjR1eWxCWS1ROEt1ek45QVlrcW1idG5QRDI1ZlRNZTZFd2s1bnprU0d6eFRCR2dXT3djRkZBVUdZcE9lMWVEUHZfeG04ck8yVzdpU2JTc2QxdVNPbnRVMHZQOGVhRUVkelFoSExmd2pEQVVkUlo3X0xFY2F3cmZTeU5IdjY3X1lRaVQ2aWM2QV9hc3huUkY0M3V5SmMwYjZfRFA1cXRRRVZodTBpLWhWb3dPT0ltaDFCS2NBOk1Hb3Z0IDxiPm1heTwvYj4gc29vbiA8Yj5pbnRyb2R1Y2UgcGxhc3RpYyBjdXJyZW5jeSBub3RlczwvYj4sIHByb2N1cmVtZW50IC4uLkKyATxiPkdvdmVybm1lbnQgbWF5IHNvb24gaW50cm9kdWNlIHBsYXN0aWMgY3VycmVuY3kgbm90ZXM8L2I-LCBQYXJsaWFtZW50IHdhcyBpbmZvcm1lZCBvbiBGcmlkYXkuIC4uLiDigJxJdCBoYXMgYmVlbiBkZWNpZGVkIHRvIHByaW50IGJhbmtub3RlcyBiYXNlZCBvbiBwbGFzdGljIG9yIHBvbHltZXImbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0Zhc3dRMExzdEJrU3lkOUlaS29zbWhFQ3MtM0ZLQXI1Y0dJM0pqclFLbzBiRTNsbE9xdjJEbmhFbjFfM1NWeEthdGRaNHI1Y1BIOXo2bHNPUldqMjR1eWxCWS1ROEt1ek45QVlrcW1idG5QRDI1ZlRNZTZFd2s1bnprU0d6eFRCR2dXT3djRkZBVUdZcE9lMWVEUHZfeG04ck8yVzdpU2JTc2QxdVNPbnRVMHZQOGVhRUVkelFoSExmd2pEQVVkUlo3X0xFY2F3cmZTeU5IdjY3X1lRaVQ2aWM2QV9hc3huUkY0M3V5SmMwYjZfRFA1cXRRRVZodTBpLWhWb3dPT0ltaDFCS2NBEgQaAggAGvAGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqFQoFaW5kaWEV7IvTQBoHaW5kaWEncyoPCgNtYXkVq5WGQBoDY2FuKk8KCWludHJvZHVjZRW3P49AGgppbnRyb2R1Y2VkGgtpbnRyb2R1Y2luZxoMaW50cm9kdWN0aW9uGgZsYXVuY2gaDml2O3A7aW50cm9kdWNlKhcKB3BsYXN0aWMVDO-yQBoHcG9seW1lcipECghjdXJyZW5jeRXqXaVAGgRiYW5rGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaDWN1cnJlbmN5bm90ZXMqQQoFbm90ZXMVe2KsQBoJYmFuayBub3RlGghiYW5rbm90ZRoJYmFua25vdGVzGgRub3RlGg1jdXJyZW5jeW5vdGVzMp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0Zhc3dRMExzdEJrU3lkOUlaS29zbWhFQ3MtM0ZLQXI1Y0dJM0pqclFLbzBiRTNsbE9xdjJEbmhFbjFfM1NWeEthdGRaNHI1Y1BIOXo2bHNPUldqMjR1eWxCWS1ROEt1ek45QVlrcW1idG5QRDI1ZlRNZTZFd2s1bnprU0d6eFRCR2dXT3djRkZBVUdZcE9lMWVEUHZfeG04ck8yVzdpU2JTc2QxdVNPbnRVMHZQOGVhRUVkelFoSExmd2pEQVVkUlo3X0xFY2F3cmZTeU5IdjY3X1lRaVQ2aWM2QV9hc3huUkY0M3V5SmMwYjZfRFA1cXRRRVZodTBpLWhWb3dPT0ltaDFCS2NBOk1Hb3Z0IDxiPm1heTwvYj4gc29vbiA8Yj5pbnRyb2R1Y2UgcGxhc3RpYyBjdXJyZW5jeSBub3RlczwvYj4sIHByb2N1cmVtZW50IC4uLkKyATxiPkdvdmVybm1lbnQgbWF5IHNvb24gaW50cm9kdWNlIHBsYXN0aWMgY3VycmVuY3kgbm90ZXM8L2I-LCBQYXJsaWFtZW50IHdhcyBpbmZvcm1lZCBvbiBGcmlkYXkuIC4uLiDigJxJdCBoYXMgYmVlbiBkZWNpZGVkIHRvIHByaW50IGJhbmtub3RlcyBiYXNlZCBvbiBwbGFzdGljIG9yIHBvbHltZXImbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "source": "Hindustan Times",
+      "read_more_link": "https://www.hindustantimes.com/india-news/govt-may-soon-introduce-plastic-currency-notes-procurement-initiated/story-DFMt9iPbuiSqN1C3KBhGcJ.html#:~:text=Government%20may%20soon%20introduce%20plastic,Parliament%20was%20informed%20on%20Friday.&text=%E2%80%9CIt%20has%20been%20decided%20to,on%20plastic%20or%20polymer%20substrate."
+    },
+    {
+      "position": 8,
+      "title": "Plastic Currency Notes",
+      "link": "https://www.iilsindia.com/blogs/plastic-currency-notes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVeWpR7YYWtNVoKCSVsKI5ejkjLQxSxWthP7IEimBZz69e6Pt-wC7FhsbG4N7ByeMnZcoY82DVyI3a5dOkMcDF2xCsniDwqho3-W1p4xom41xklCFkGtO45ISbfI826hMoyJL9M2CArT_7Bw&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://www.iilsindia.com › Home › Plastic Currency Notes",
+      "date": "Jul 25, 2017",
+      "snippet": "After Demonetisation aftermath India is set to introduce Plastic Currency. Plastic notes will be generally made from plastics or polymer substrate.",
+      "snippet_highlighted_words": [
+        "India is set to introduce Plastic Currency"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "After Demonetisation aftermath India is set to introduce Plastic Currency. Plastic notes will be generally made from plastics or polymer substrate.",
+          "source_info_link": "https://www.iilsindia.com/blogs/plastic-currency-notes/",
+          "icon": "https://serpapi.com/images/i/UklGRvoBAABXRUJQVlA4IO4BAACwCACdASogACAAAsBMJbACdMoRwN0A449yeAftkPFg3wD-yf0bgAOky8mZPAoAPa--HNWDDfYwSsEeJ2JIs0AqYodhBBlumKGa290YEaAA_vqt-GZvdJEX92Z8C_-ABO7Mp2FSk_jT1rYT0z3Iyoh9JS5pn7K5FtzsZtxLqz7fbEY9PhNsjn8F2TBYzSkpI_yKmnzNxndSEexPzm7lcJOjBP8283jmj8jX7UpJbmZDhlEOLlWkvSIbREbHRcCDfNz6RCwidCtZD9kduFiGHaXhsr_j6Xx0ETDP-U_2Hw-EljNjpkGz5bcwOLsDvmKQGfzoJRxvyGpucYIAMJaE-nyIUaf5yF9IYM7KflJ-ZiepEouiS_i5_MZ2OEjpGpn5tNEnld9BR5Uiw4wIl4ajyz6H_i-OIuY8rbMQtk4Pxr_3q0zeuU_2RtXZm58OFnLn7CnMb0pI7z4vTJ-ZCmX-bgGRAgsYTYeC5rTMcx7_Mq7XPf2eZ1WM48zQXWJUV8qqfgaxM7vDdKF5PfCNPC-P_BmGkBYkbFiNVf9WeFKig9mdXzH7JKX-g1xZeyFwKvZcPHR81DXG7rFC3tbzqFS3D7cZGU0Xt2ZZj-h2oR_S8z9OS3HGYAqyNlRUDoXYp10lpy9Esm_9RW2GZ-O9mRwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmVXcFI3WVlXdE5Wb0tDU1ZzS0k1ZWprakxReFN4V3RoUDdJRWltQlp6NjllNlB0LXdDN0Zoc2JHNE43QnllTW5aY29ZODJEVnlJM2E1ZE9rTWNERjJ4Q3NuaUR3cWhvMy1XMXA0eG9tNDF4a2xDRmtHdE80NUlTYmZJODI2aE1veUpMOU0yQ0FyVF83QncSBBoCCAAa0wUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJArwUIABAAGAAgACoVCgVpbmRpYRWz_X9AGgdpbmRpYSdzKg8KA21heRV-NWQ_GgNjYW4qTwoJaW50cm9kdWNlFXoJ0j8aCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxVKOfdAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FYiO6kAaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxXdFwtBGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWZVdwUjdZWVd0TlZvS0NTVnNLSTVlamtqTFF4U3hXdGhQN0lFaW1CWno2OWU2UHQtd0M3RmhzYkc0TjdCeWVNblpjb1k4MkRWeUkzYTVkT2tNY0RGMnhDc25pRHdxaG8zLVcxcDR4b200MXhrbENGa0d0TzQ1SVNiZkk4MjZoTW95Skw5TTJDQXJUXzdCdzpBPGI-UGxhc3RpYyBDdXJyZW5jeSBOb3RlczwvYj4gLSBJbmRpYW4gSW5zdGl0dXRlIG9mIExlZ2FsIFN0dWRpZXNCmgFBZnRlciBEZW1vbmV0aXNhdGlvbiBhZnRlcm1hdGggPGI-SW5kaWEgaXMgc2V0IHRvIGludHJvZHVjZSBQbGFzdGljIEN1cnJlbmN5PC9iPi4gUGxhc3RpYyBub3RlcyB3aWxsIGJlIGdlbmVyYWxseSBtYWRlIGZyb20gcGxhc3RpY3Mgb3IgcG9seW1lciBzdWJzdHJhdGUuUgNjYW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmVXcFI3WVlXdE5Wb0tDU1ZzS0k1ZWprakxReFN4V3RoUDdJRWltQlp6NjllNlB0LXdDN0Zoc2JHNE43QnllTW5aY29ZODJEVnlJM2E1ZE9rTWNERjJ4Q3NuaUR3cWhvMy1XMXA0eG9tNDF4a2xDRmtHdE80NUlTYmZJODI2aE1veUpMOU0yQ0FyVF83QncSBBoCCAAa0wUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJArwUIABAAGAAgACoVCgVpbmRpYRWz_X9AGgdpbmRpYSdzKg8KA21heRV-NWQ_GgNjYW4qTwoJaW50cm9kdWNlFXoJ0j8aCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxVKOfdAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FYiO6kAaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxXdFwtBGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWZVdwUjdZWVd0TlZvS0NTVnNLSTVlamtqTFF4U3hXdGhQN0lFaW1CWno2OWU2UHQtd0M3RmhzYkc0TjdCeWVNblpjb1k4MkRWeUkzYTVkT2tNY0RGMnhDc25pRHdxaG8zLVcxcDR4b200MXhrbENGa0d0TzQ1SVNiZkk4MjZoTW95Skw5TTJDQXJUXzdCdzpBPGI-UGxhc3RpYyBDdXJyZW5jeSBOb3RlczwvYj4gLSBJbmRpYW4gSW5zdGl0dXRlIG9mIExlZ2FsIFN0dWRpZXNCmgFBZnRlciBEZW1vbmV0aXNhdGlvbiBhZnRlcm1hdGggPGI-SW5kaWEgaXMgc2V0IHRvIGludHJvZHVjZSBQbGFzdGljIEN1cnJlbmN5PC9iPi4gUGxhc3RpYyBub3RlcyB3aWxsIGJlIGdlbmVyYWxseSBtYWRlIGZyb20gcGxhc3RpY3Mgb3IgcG9seW1lciBzdWJzdHJhdGUuUgNjYW4iAhABSABYAGgA",
+      "source": "Indian Institute of Legal Studies"
+    },
+    {
+      "position": 9,
+      "title": "When is India going to have plastic currency notes?",
+      "link": "https://www.quora.com/When-is-India-going-to-have-plastic-currency-notes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFW_Bs1oCbqgbG0qi6CyEnOuvw0ciKqMgQ_hjbXTw0Lfh_Ja9Jtygeg4v1M9PURT_0JOFqVbRVG8hSvlUUXLJ9Rl5LHIS6PrpWo-3AaqGnodf4BxeMuF26xkGpWc4H8saImTVT70bfuMyIaahw5N7o_MiiykiTQgUlmW5Vg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQFnoECD4QAQ&uoh=1",
+      "displayed_link": "40+ answers · 11 years ago",
+      "snippet": "When is India going to have plastic currency notes?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Why isn't India using polymer currency notes? - Quora",
+            "link": "https://www.quora.com/Why-isnt-India-using-polymer-currency-notes",
+            "answer_count": 42,
+            "date": "Jul 19, 2015"
+          },
+          {
+            "title": "Why is India not using plastic notes or something ...",
+            "link": "https://www.quora.com/Why-is-India-not-using-plastic-notes-or-something-durable-considering-how-Indians-use-it-in-a-very-rough-manner-and-more-often-than-not-they-are-torn",
+            "answer_count": 40,
+            "date": "Dec 7, 2022"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "In April 2013, the Reserve Bank of India introduce plastic/polymer currency note of Rs 10 on a field trial basis in five cities in India. RBI proposed to ...",
+          "source_info_link": "https://www.quora.com/When-is-India-going-to-have-plastic-currency-notes",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZXX0JzMW9DYnFnYkcwcWk2Q3lFbk91dncwY2lLcU1nUV9oamJYVHcwTGZoX0phOUp0eWdlZzR2MU05UFVSVF8wSk9GcVZiUlZHOGhTdmxVVVhMSjlSbDVMSElTNlBycFdvLTNBYXFHbm9kZjRCeGVNdUYyNnhrR3BXYzRIOHNhSW1UVlQ3MGJmdU15SWFhaHc1TjdvX01paXlraVRRZ1VsbVc1VmcSBBoCCAAaggYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA3gUIABAAGAAgACoVCgVpbmRpYRVwBqVAGgdpbmRpYSdzKg8KA21heRVPyl8_GgNjYW4qTwoJaW50cm9kdWNlFeLO1D8aCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxXm58VAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FeELv0AaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxU5v9FAGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RldfQnMxb0NicWdiRzBxaTZDeUVuT3V2dzBjaUtxTWdRX2hqYlhUdzBMZmhfSmE5SnR5Z2VnNHYxTTlQVVJUXzBKT0ZxVmJSVkc4aFN2bFVVWExKOVJsNUxISVM2UHJwV28tM0FhcUdub2RmNEJ4ZU11RjI2eGtHcFdjNEg4c2FJbVRWVDcwYmZ1TXlJYWFodzVON29fTWlpeWtpVFFnVWxtVzVWZzpJV2hlbiBpcyA8Yj5JbmRpYTwvYj4gZ29pbmcgdG8gaGF2ZSA8Yj5wbGFzdGljIGN1cnJlbmN5IG5vdGVzPC9iPj8gLSBRdW9yYUKpAUluIEFwcmlsIDIwMTMsIHRoZSBSZXNlcnZlIEJhbmsgb2YgSW5kaWEgaW50cm9kdWNlIDxiPnBsYXN0aWMvcG9seW1lciBjdXJyZW5jeSBub3RlIG9mIFJzIDEwPC9iPiBvbiBhIGZpZWxkIHRyaWFsIGJhc2lzIGluIGZpdmUgY2l0aWVzIGluIEluZGlhLiBSQkkgcHJvcG9zZWQgdG8mbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZXX0JzMW9DYnFnYkcwcWk2Q3lFbk91dncwY2lLcU1nUV9oamJYVHcwTGZoX0phOUp0eWdlZzR2MU05UFVSVF8wSk9GcVZiUlZHOGhTdmxVVVhMSjlSbDVMSElTNlBycFdvLTNBYXFHbm9kZjRCeGVNdUYyNnhrR3BXYzRIOHNhSW1UVlQ3MGJmdU15SWFhaHc1TjdvX01paXlraVRRZ1VsbVc1VmcSBBoCCAAaggYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA3gUIABAAGAAgACoVCgVpbmRpYRVwBqVAGgdpbmRpYSdzKg8KA21heRVPyl8_GgNjYW4qTwoJaW50cm9kdWNlFeLO1D8aCmludHJvZHVjZWQaC2ludHJvZHVjaW5nGgxpbnRyb2R1Y3Rpb24aBmxhdW5jaBoOaXY7cDtpbnRyb2R1Y2UqFwoHcGxhc3RpYxXm58VAGgdwb2x5bWVyKkQKCGN1cnJlbmN5FeELv0AaBGJhbmsaCWJhbmsgbm90ZRoIYmFua25vdGUaCWJhbmtub3RlcxoNY3VycmVuY3lub3RlcypBCgVub3RlcxU5v9FAGgliYW5rIG5vdGUaCGJhbmtub3RlGgliYW5rbm90ZXMaBG5vdGUaDWN1cnJlbmN5bm90ZXMyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RldfQnMxb0NicWdiRzBxaTZDeUVuT3V2dzBjaUtxTWdRX2hqYlhUdzBMZmhfSmE5SnR5Z2VnNHYxTTlQVVJUXzBKT0ZxVmJSVkc4aFN2bFVVWExKOVJsNUxISVM2UHJwV28tM0FhcUdub2RmNEJ4ZU11RjI2eGtHcFdjNEg4c2FJbVRWVDcwYmZ1TXlJYWFodzVON29fTWlpeWtpVFFnVWxtVzVWZzpJV2hlbiBpcyA8Yj5JbmRpYTwvYj4gZ29pbmcgdG8gaGF2ZSA8Yj5wbGFzdGljIGN1cnJlbmN5IG5vdGVzPC9iPj8gLSBRdW9yYUKpAUluIEFwcmlsIDIwMTMsIHRoZSBSZXNlcnZlIEJhbmsgb2YgSW5kaWEgaW50cm9kdWNlIDxiPnBsYXN0aWMvcG9seW1lciBjdXJyZW5jeSBub3RlIG9mIFJzIDEwPC9iPiBvbiBhIGZpZWxkIHRyaWFsIGJhc2lzIGluIGZpdmUgY2l0aWVzIGluIEluZGlhLiBSQkkgcHJvcG9zZWQgdG8mbmJzcDsuLi5SA2NhbiICEAFIAFgAaAA",
+      "source": "Quora"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=10&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8NMDegQIORAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=10&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=20&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=30&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=40&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAK",
+      "6": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=50&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAM",
+      "7": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=60&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAO",
+      "8": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=70&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAQ",
+      "9": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=80&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAS",
+      "10": "https://www.google.com/search?q=india+may+introduce+plastic+currency+notes+before:2026-01-01&sca_esv=ab3964043a1b023d&ei=Ab-yasX1KfjcwN4PqvekkQk&start=90&sa=N&sstk=AS6-VmJEwwwPM06Wv5IEGLuPWxXbOP_UD674RJVLq5q133P8P1Y5MNMq7g9nh9I_S0UD5UyRtU1riditte1zefVLgVlNSQu7_ZunDg&ved=2ahUKEwiF-p2Y34KXAxV4LtAFHao7KZIQ8tMDegQIORAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=india+may+introduce+plastic+currency+notes+before%3A2026-01-01&start=90"
+    }
+  }
+}

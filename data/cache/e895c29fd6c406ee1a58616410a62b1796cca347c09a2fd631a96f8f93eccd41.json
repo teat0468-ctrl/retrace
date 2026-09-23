@@ -1,0 +1,30 @@
+{
+  "search_metadata": {
+    "id": "6ab2bfed9f0700f92dcbed39",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uADoZUD-3BiKUb-ii0R5KxIHFQP3QhA5ic9TTOf0WAU/6ab2bfed9f0700f92dcbed39.json",
+    "markdown_endpoint": "https://serpapi.com/searches/uADoZUD-3BiKUb-ii0R5KxIHFQP3QhA5ic9TTOf0WAU/6ab2bfed9f0700f92dcbed39.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/uADoZUD-3BiKUb-ii0R5KxIHFQP3QhA5ic9TTOf0WAU/6ab2bfed9f0700f92dcbed39.json_with_pixel_position",
+    "created_at": "2026-09-22 17:50:37 UTC",
+    "processed_at": "2026-09-22 17:50:37 UTC",
+    "google_url": "https://www.google.com/search?q=%22The+Tata+Sons-Tata+Trusts+dispute+is+escalating%2C+with+the+tw%22&oq=%22The+Tata+Sons-Tata+Trusts+dispute+is+escalating%2C+with+the+tw%22&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/uADoZUD-3BiKUb-ii0R5KxIHFQP3QhA5ic9TTOf0WAU/6ab2bfed9f0700f92dcbed39.html",
+    "total_time_taken": 0.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"The Tata Sons-Tata Trusts dispute is escalating, with the tw\"",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"The Tata Sons-Tata Trusts dispute is escalating, with the tw\"",
+    "total_results": 0,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Fully empty"
+  },
+  "ai_overview": {
+    "page_token": "oUSwgXiczZXddqJIEIAfYJ9jvDHKj0RjzuHM6W4hEmOSjhpHbzwI2KD8KI0SvNv32Mt9qn2aafAnStRk5mLO1gX9Q1VRXdTX9fe_ruPP_vvrHzuK5vSW4-I4LpMgIK5VNgKP02niG9wkcGlo2N-TlVwpGFTmC5Yj18alRF8shpqRWIuIPos3FXWG40JmIo_GOrWmzOPblHIjjj1m3yoNtijTsuWXR61En4ZvcX1slEVerJSfON1jCuDPiYIJSscOUC4oAaB9yRvGgHm7f99AaOdgJyRdEOYPpZsonZ8UTQE4HR1lYwWe0MTr3wBwtzcwzgd86BSSzBOEm80OAmc_elo2Z1B3gV1ShRe3W7u1dqB4yR8eHAfCkjchEL4bHRqzbfvANH15t5lfAyg9A9REILgUPApAw8NQw-BSMWSaIerF2_kDEFiGOJOwwuW5ccgGgXMM28gmIU3rGXXrfKAEY3fxCqd34qwarakTVV-0NV2oa1XFnDFmem6gm5Y5skf892wtiMI1X6_Ubq4ykAy6J4kektRA08ZKufb74az8UIbCDiO0zw_aB549FTagXN6zJexsNRD4KBrY_Y19dhDA6pHGzlrBoO3k_PSstOra7xsNEQDpUOM96-nuR4zyoZGUkl42I9kByIfgtZRJ_G6wl-bHA5746wrc_mZyl3uDcylCoKMxBzsXuTuMMPyQhuEGo4WUZTsGR0617Bh7_9uIIFCyM6QC90fY4KORA94UlgglLXkFsdhekAIxu9XIzhlM77ptqE6O_3wtbGXAPt9Xvnj15UX9XCXFZstLrvwPsWmSNpCenh6x0NO8e7Kcz4XuD9dcPmAJn8Yk8Ma_0HGM_xVIm36kbfvReZC0L4GEMTrfjzbTXT9SUAoSIoScAUnZgPShHzVP9KM8SAo5AOmTfvSrIGmXQIIXQWqdAkm7AFLaj45Bmh31I3S6H-1B-p1-pP5mP8q4sjbDcXNaTsn5JhV1l63XjslX9JegtMKmrTfajk7qbePzJjXxoltPN92rkWPeQvE-SsyrEdsIbi2zsJC_iWLXtopdPdKLncCnpWzWDZc0okXTofNlZBUdWrSoobt65Pjkqhg7kV2MmFUUM_OC54aBzOvXDbTs-K2lzksPTjPRasIkqQf-rFItddbXAtXF5jTW3SZ5HHTW_Pix5tfIZNALHW8IJWnev2k8_Vi_YVFTht21SdV24otUQ8OXe0F7A71laA0eFra5qjQt3u7Xhzjhh48uNb1wWF3BtfC69ntIEl-rpSV5VrtTkAVG5dp95JWqs4Gt9gpeaMistCUCHjHoE0YHGrCuQUBPD9gYA3xXBViBBXbakUVXsj6u1KsSL1V0YcyuJrPgkSiZy5JUoH4oCz8B3VJJeA",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oUSwgXiczZXddqJIEIAfYJ9jvDHKj0RjzuHM6W4hEmOSjhpHbzwI2KD8KI0SvNv32Mt9qn2aafAnStRk5mLO1gX9Q1VRXdTX9fe_ruPP_vvrHzuK5vSW4-I4LpMgIK5VNgKP02niG9wkcGlo2N-TlVwpGFTmC5Yj18alRF8shpqRWIuIPos3FXWG40JmIo_GOrWmzOPblHIjjj1m3yoNtijTsuWXR61En4ZvcX1slEVerJSfON1jCuDPiYIJSscOUC4oAaB9yRvGgHm7f99AaOdgJyRdEOYPpZsonZ8UTQE4HR1lYwWe0MTr3wBwtzcwzgd86BSSzBOEm80OAmc_elo2Z1B3gV1ShRe3W7u1dqB4yR8eHAfCkjchEL4bHRqzbfvANH15t5lfAyg9A9REILgUPApAw8NQw-BSMWSaIerF2_kDEFiGOJOwwuW5ccgGgXMM28gmIU3rGXXrfKAEY3fxCqd34qwarakTVV-0NV2oa1XFnDFmem6gm5Y5skf892wtiMI1X6_Ubq4ykAy6J4kektRA08ZKufb74az8UIbCDiO0zw_aB549FTagXN6zJexsNRD4KBrY_Y19dhDA6pHGzlrBoO3k_PSstOra7xsNEQDpUOM96-nuR4zyoZGUkl42I9kByIfgtZRJ_G6wl-bHA5746wrc_mZyl3uDcylCoKMxBzsXuTuMMPyQhuEGo4WUZTsGR0617Bh7_9uIIFCyM6QC90fY4KORA94UlgglLXkFsdhekAIxu9XIzhlM77ptqE6O_3wtbGXAPt9Xvnj15UX9XCXFZstLrvwPsWmSNpCenh6x0NO8e7Kcz4XuD9dcPmAJn8Yk8Ma_0HGM_xVIm36kbfvReZC0L4GEMTrfjzbTXT9SUAoSIoScAUnZgPShHzVP9KM8SAo5AOmTfvSrIGmXQIIXQWqdAkm7AFLaj45Bmh31I3S6H-1B-p1-pP5mP8q4sjbDcXNaTsn5JhV1l63XjslX9JegtMKmrTfajk7qbePzJjXxoltPN92rkWPeQvE-SsyrEdsIbi2zsJC_iWLXtopdPdKLncCnpWzWDZc0okXTofNlZBUdWrSoobt65Pjkqhg7kV2MmFUUM_OC54aBzOvXDbTs-K2lzksPTjPRasIkqQf-rFItddbXAtXF5jTW3SZ5HHTW_Pix5tfIZNALHW8IJWnev2k8_Vi_YVFTht21SdV24otUQ8OXe0F7A71laA0eFra5qjQt3u7Xhzjhh48uNb1wWF3BtfC69ntIEl-rpSV5VrtTkAVG5dp95JWqs4Gt9gpeaMistCUCHjHoE0YHGrCuQUBPD9gYA3xXBViBBXbakUVXsj6u1KsSL1V0YcyuJrPgkSiZy5JUoH4oCz8B3VJJeA"
+  }
+}

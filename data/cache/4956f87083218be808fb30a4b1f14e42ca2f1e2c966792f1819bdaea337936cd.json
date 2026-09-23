@@ -1,0 +1,1198 @@
+{
+  "search_metadata": {
+    "id": "6ab36b1200a19749c9a5e224",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/s9JFZxy_zJ-ZIfIi3OfhcFp_ctLYaiArwJQGnXgyKrA/6ab36b1200a19749c9a5e224.json",
+    "markdown_endpoint": "https://serpapi.com/searches/s9JFZxy_zJ-ZIfIi3OfhcFp_ctLYaiArwJQGnXgyKrA/6ab36b1200a19749c9a5e224.md",
+    "created_at": "2026-09-23 06:00:50 UTC",
+    "processed_at": "2026-09-23 06:00:50 UTC",
+    "google_news_url": "https://news.google.com/search?q=launch+apple+duo+new+update",
+    "raw_html_file": "https://serpapi.com/searches/s9JFZxy_zJ-ZIfIi3OfhcFp_ctLYaiArwJQGnXgyKrA/6ab36b1200a19749c9a5e224.html",
+    "total_time_taken": 1.54
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "launch apple duo new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Apple unveils iPhone Duo",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "thumbnail": "https://www.apple.com/newsroom/videos/2026/autoplay/09/apple-unveils-iphone-duo/apple-iphone-duo-opening/posters/Apple-iPhone-Duo-opening-iPhone-Duo-260909.jpg.large_2x.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXbEF4Y1VoS1NYbzRXR04wVFJDZkF4ampCU2dLTWdZdFZZek9xUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "The iPhone Duo Will Run iOS 27.1 at Launch in October",
+      "source": {
+        "name": "CNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zachary McAuliffe"
+        ]
+      },
+      "link": "https://www.cnet.com/tech/services-and-software/apple-says-iphone-duo-will-run-ios-27-1-at-october-launch/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo.png?w=864",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBiRmxyV1UxbVRWSkxkV05WVFJDZkF4ampCU2dLTWdhUllvNHh2UVk",
+      "date": "09/20/2026, 10:00 AM, +0000 UTC",
+      "iso_date": "2026-09-20T10:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
+      "source": {
+        "name": "macrumors.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Rossignol"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
+      "thumbnail": "https://images.macrumors.com/t/KQoVoHl3QkhGqVXfNF86F9Iy_SI=/400x0/article-new/2026/02/macOS-26-Xcode.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVRVFJpVEUxVE5scE5lRTlXVFJEaEFSaVFBeWdLTWdhbFZJNlFwUWc",
+      "date": "09/18/2026, 06:06 PM, +0000 UTC",
+      "iso_date": "2026-09-18T18:06:18Z"
+    },
+    {
+      "position": 4,
+      "title": "Give developers time to update apps for iPhone Duo",
+      "source": {
+        "name": "AppleInsider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://appleinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "William Gallagher"
+        ]
+      },
+      "link": "https://appleinsider.com/articles/26/09/17/give-developers-time-to-update-apps-for-iphone-duo",
+      "thumbnail": "https://media.appleinsider.com/gallery/69024-145531-000-lede-bad-apps-xl.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdYekphTnkxZllrWmlTRVpsVFJDZkF4ampCU2dLTWdZSmRKQ1BzUVk",
+      "date": "09/17/2026, 02:17 PM, +0000 UTC",
+      "iso_date": "2026-09-17T14:17:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Apple releases second iOS 27.2 developer beta for iPhone",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zac Hall"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/21/apple-releases-second-ios-27-2-developer-beta-for-iphone/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b2.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZkemhMUzFWb1NWZDJYMWRyVFJDSEF4aVBCaWdLTWdZTk00cExHUWc",
+      "date": "09/21/2026, 05:20 PM, +0000 UTC",
+      "iso_date": "2026-09-21T17:20:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Buying iPhone Duo? Avoid This iOS 27.2 Beta Backup Problem",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/tr/blogs/news/buying-iphone-duo-ios-27-2-beta-backup-problem",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/Buying_iPhone_Duo_Avoid_This_iOS_27.2_Beta_Backup_Problem1.webp?v=1789948210",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRXRVp2V1cxZlV6TmtSV1ZGVFJEaUJSaWZBeWdLTWdhSkVaVEZGQW8",
+      "date": "09/20/2026, 11:50 PM, +0000 UTC",
+      "iso_date": "2026-09-20T23:50:10Z"
+    },
+    {
+      "position": 7,
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-2up-260909_inline.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtjVEpxTTJoRlQwWlNkbEZhVFJDUUJSalVBeWdLTWdNUk13dw",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
+      "source": {
+        "name": "NPR",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "John Ruwitch"
+        ]
+      },
+      "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
+      "thumbnail": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Fcd%2F6e994550499194d7a2ce7c6f094a%2Fgettyimages-2294367943.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNWMlZ5YWxKQlQxZExNVE5UVFJERUF4aW1CU2dLTWdZTlVvcjBuQWs",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Apple Event 2026 recap: Everything announced, including foldable iPhone Duo",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chance Townsend"
+        ]
+      },
+      "link": "https://mashable.com/tech/apple-event-2026-everything-announced-iphone-18-duo",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/03koa4UoytHxFERwobJWrYX/hero-image.fill.size_1248x702.v1788971581.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFXVWRNVG1OWlQzaHBhSFpyVFJDZkF4ampCU2dLTWdZbEpJek5IUWs",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Apple Event 2026: New CEO John Ternus unveils latest iPhone lineup, including a foldable model called Duo",
+      "source": {
+        "name": "ABC7 Bay Area",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Barbara Ortutay"
+        ]
+      },
+      "link": "https://abc7news.com/post/apple-event-2026-new-ceo-john-ternus-unveil-latest-foldable-iphone-lineup/19810374/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19811549_090926-ap-kgo-iphone-duo-img.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRkVWhMWmtsbWFEQkZhRzFPVFJDZkF4ampCU2dLTWdZbGRaU3RyUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Apple unveils foldable iPhone Duo and other highlights from its annual tech showcase",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aimee Picchi"
+        ]
+      },
+      "link": "https://www.cbsnews.com/news/apple-event-today-foldable-iphone/",
+      "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/e1561961-fa21-4d82-84dc-ec786141dcaf/thumbnail/640x457/cf9d7cbd1629bd05301635ffa16b207e/apple-iphone-18-pro-color-lineup-260909.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRlbkpQUTJRNFgxTk1hMVIwVFJDLUFSaUtBaWdCTWdhUklZd0xHUW8",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "iPhone Duo Deals: What We Know Before Preorders Even Open",
+      "source": {
+        "name": "CNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aashna Gheewalla"
+        ]
+      },
+      "link": "https://www.cnet.com/deals/best-apple-iphone-duo-preorder-deals/",
+      "thumbnail": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhVTVOWXpWTlFWWldUR1JCVFJDZkF4amlCU2dLTWdhUllvNHl1UVk",
+      "date": "09/21/2026, 10:32 AM, +0000 UTC",
+      "iso_date": "2026-09-21T10:32:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zac Hall"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJWbGR5VGtGT1VXZERWbTlHVFJDSEF4aVBCaWdLTWdhcFJJeU5vUWM",
+      "date": "09/18/2026, 05:50 PM, +0000 UTC",
+      "iso_date": "2026-09-18T17:50:00Z"
+    },
+    {
+      "position": 14,
+      "title": "iPhone Duo Will Ship With iOS 27.1, Hinting at Update's Release Date",
+      "source": {
+        "name": "macrumors.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/09/iphone-duo-ios-27-1/",
+      "thumbnail": "https://images.macrumors.com/t/E-WwIFWuP2jE2s98JhhAzf6W308=/400x0/article-new/2026/09/iphone-duo-closed-1.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRlREpXUTJaeFRVVk5XVEZZVFJEaEFSaVFBeWdLTWdZdGRZeXZyUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/article/Apple-iPhone-18-Pro-lineup-Apple-Watch-Series-12-Apple-Watch-Ultra-4-Airpods-5_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdhR0YyYVVsSFVFUXhRakpSVFJDb0FSaXNBaWdCTWdNRlFCUQ",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Apple iPhone Duo launch event: The 5 biggest announcements",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emma Roth"
+        ]
+      },
+      "link": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-524-11-04-44.jpg?quality=90&strip=all&crop=22.055927530524,0,55.888144938952,100",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdVVk4yYkd4Uk9HbFpWbTFMVFJDdUJCaWxCQ2dLTWdZSmNaUU9yUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Apple Debuts New Foldable iPhone Duo, New CEO and New (Higher) Prices",
+      "source": {
+        "name": "WSJ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rolfe Winkler"
+        ]
+      },
+      "link": "https://www.wsj.com/tech/apple-to-debut-new-foldable-iphone-new-ceo-and-new-prices-b2485b9f",
+      "thumbnail": "https://images.wsj.net/im-63041226?width=700&height=466",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtWRlV5VEV3NGEwbDZiVTlDVFJERUF4aW5CU2dLTWdZWkE0ck1MUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Apple Released iOS 27.2 Beta Before iOS 27.1 — What’s New and Why iPhone Duo Matters",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/ru/blogs/news/ios-27-2-beta-features-why-before-ios-27-1",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/ZEERAFoldWalletProCaseforiPhoneDuo_2-CardVeganLeatherWalletKickstandCasewithScreenProtector_HingeProtection20.jpg?v=1789634556",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpUMVJmVG1kRVEyaGFZMHhvVFJDcUJCaXFCQ2dLTWdtQmNZcnR1S1dDU2dJ",
+      "date": "09/17/2026, 08:42 AM, +0000 UTC",
+      "iso_date": "2026-09-17T08:42:35Z"
+    },
+    {
+      "position": 19,
+      "title": "Apple Just Unveiled a Folding iPhone, and It Looks Good",
+      "source": {
+        "name": "nytimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Caitlin McGarry",
+          "Brenda Stolyar"
+        ]
+      },
+      "link": "https://www.nytimes.com/wirecutter/reviews/apple-iphone-18-event-recap-20260909/",
+      "thumbnail": "https://cdn.thewirecutter.com/wp-content/media/2026/09/NEWS-IPHONE-18-EVENT-RECAP-iPhone_Duo-2x1-2.jpg?width=2048&quality=75&crop=2:1&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNZVFozWW1KNWIyVlFMVEJzVFJDSEF4aVBCaWdLTWdhaFlZd1JzUVU",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Apple iOS 27 release date: When you can download it",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Perry"
+        ]
+      },
+      "link": "https://mashable.com/tech/apple-ios-27-release-date-when-to-download",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/07mOKwypbAnltWUzVpYUCOD/hero-image.fill.size_1248x702.v1789134001.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFZWEJhUW5SVmJsWkNNRGhzVFJDZkF4ampCU2dLTWdhaFZZSUx6Z0k",
+      "date": "09/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-14T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Here's Why Apple Just Released an iOS 27.2 Beta Instead of iOS 27.1",
+      "source": {
+        "name": "macrumors.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Rossignol"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/",
+      "thumbnail": "https://images.macrumors.com/t/0qk8uvv9xpnnXXjGIVY8PRwLBPg=/400x0/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRWEJQUlV0NlRWcG9lVVo1VFJEaEFSaVFBeWdLTWdZVlk1Qkl0Z1k",
+      "date": "09/16/2026, 05:53 PM, +0000 UTC",
+      "iso_date": "2026-09-16T17:53:09Z"
+    },
+    {
+      "position": 22,
+      "title": "Apple Debuts Foldable iPhone Duo in Biggest-Ever Device Revamp",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Gurman"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-foldable-iphone-launch-event-gets-underway",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idDU3SaA17TY/v0/1200x800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVMGhsTUhoV1NGbFRjVmR1VFJERUF4aW1CU2dLTWdZWkE0ck1MUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Everything Apple Announced At The Foldable iPhone Duo Launch",
+      "source": {
+        "name": "Engadget",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.engadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kris Holt"
+        ]
+      },
+      "link": "https://www.engadget.com/2253955/everything-apple-announced-at-the-foldable-iphone-launch/",
+      "thumbnail": "https://www.engadget.com/img/gallery/everything-apple-announced-at-the-foldable-iphone-launch/intro-1789048019.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiMjVJUmxsTGFVVkhUVmRZVFJDZkF4ampCU2dLTWdZWlE1QnFKUWc",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZiVVZJWlZGUWVYZDRjMGs0VFJERUF4aW1CU2dLTWdhWkpaRHNJUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "When and how to preorder the iPhone 18 Pro, Pro Max, and foldable iPhone Duo",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Mangino"
+        ]
+      },
+      "link": "https://mashable.com/tech/how-to-preorder-iphone-18-pro-iphone-duo",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/02AONr238ETxb0Y38BLmMV9/hero-image.fill.size_1248x702.v1788981282.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRVVlU0ZVVKT1RWRklTVzQ0VFJDZkF4ampCU2dLTWdZSmNwSXB0Z2M",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Apple unveils foldable iPhone Duo, starting at $1,999",
+      "source": {
+        "name": "The Desert Sun",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.desertsun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "James Ward",
+          "James C. Powel",
+          "Greta Reich"
+        ]
+      },
+      "link": "https://www.desertsun.com/story/news/nation/california/2026/09/09/iphone-duo-buying-guide-cost-preorder-dates-and-features/91678511007/",
+      "thumbnail": "https://www.desertsun.com/gcdn/authoring/authoring-images/2026/09/09/USAT/91678225007-appleedit-5.jpg?crop=2526,1421,x0,y9&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdZMkkzUjJNd2QzZDRMV2c0VFJDb0FSaXNBaWdCTWdZdFpZeXZMUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "iPhone Duo could be very hard to get at launch, per report",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/15/iphone-duo-could-be-very-hard-to-get-at-launch-per-report/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5abEpIUTBzM2FDMVBaVkV0VFJDSEF4aVBCaWdLTWdhaFZJekxwUVk",
+      "date": "09/15/2026, 05:45 PM, +0000 UTC",
+      "iso_date": "2026-09-15T17:45:00Z"
+    },
+    {
+      "position": 28,
+      "title": "15 things we learned from Apple's big iPhone Duo and iPhone 18 Pro launch — from its first-ever foldable to new AirPods",
+      "source": {
+        "name": "TechRadar",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Nield"
+        ]
+      },
+      "link": "https://www.techradar.com/tech-events/15-things-we-learned-from-apples-big-iphone-duo-and-iphone-18-pro-launch-from-its-first-ever-foldable-to-new-airpods",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/FmsSY7hkCo2KKkcUhjoHyV-320-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFUM0Z4WW1ka1lXRTFhRjlTVFJDb0FSaXNBaWdCTWdrQk1JNXRyZVc0Q2dJ",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Apple releases first iOS 27.2 developer beta for iPhone",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zac Hall"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/16/apple-releases-first-ios-27-2-developer-beta-for-iphone/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b1.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlVRjlUVkdselRVdHpOaTFqVFJDSEF4aVBCaWdLTWdZTk00cExHUWc",
+      "date": "09/16/2026, 05:12 PM, +0000 UTC",
+      "iso_date": "2026-09-16T17:12:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Apple Event News Hub: iPhone 18 Pro is here, more",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chance Miller"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/09/apple-event-news-hub-iphone-duo-iphone-18-pro/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chance-03-1.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlUV1pYTjJ4cWIzSk9TbDlGVFJDSEF4aVBCaWdLTWdZQms0anB4UU0",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "What to know about the iPhone 18 lineup before the September Apple event today: iPhone 18 Pro, iPhone Duo, prices and more",
+      "source": {
+        "name": "Yahoo Tech",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://tech.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katie Teague"
+        ]
+      },
+      "link": "https://tech.yahoo.com/phones/breaking-news/article/what-to-know-about-the-iphone-18-lineup-before-the-september-apple-event-today-iphone-18-pro-iphone-duo-prices-and-more-175120221.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/5731be8864ff547f02a4587bb0055ab863371d66a8c82a6734c0857e029a60a9/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F04-single-ugc-16_9333.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDViVFZqVTNadWFsTlpkMkpUVFJDZkF4ampCU2dLTWdZaFk1QlFyUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Apple Event Today: 20 Last-Minute 'iPhone Duo' and iPhone 18 Pro Rumors",
+      "source": {
+        "name": "macrumors.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Rossignol"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/09/apple-event-20-last-minute-iphone-rumors/",
+      "thumbnail": "https://images.macrumors.com/t/6hWJSxBS866zQdsoqf2FVBDINU8=/1200x1200/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNhV1JGWkZKbVZHVk9ka1ZYVFJDcUJCaXFCQ2dLTWdZQlFJYXJwUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Everything Apple Announced at the September 2026 Event",
+      "source": {
+        "name": "macrumors.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+      "thumbnail": "https://i.ytimg.com/vi/Hgm1ZGd94Lg/mqdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhkVGczUkZScVZFcFBkbmN5VFJDb0FSaXNBaWdCTWdZRk1vZ21uUU0",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "iOS 27.1 release date: Here’s when to expect the new iPhone update",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/11/ios-27-1-release-date-heres-when-to-expect-the-new-iphone-update/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-02.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5UMGwxWDNaclpFUjRWbHBHVFJDSEF4aVBCaWdLTWdZaEU0eXRvUVk",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cameron Faulkner"
+        ]
+      },
+      "link": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-iPhone-18-Pro-color-lineup-260909.jpg?quality=90&strip=all&crop=0%2C3.335763762304%2C100%2C93.328472475392&w=2400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRWa1EzYlRNNGJHOHllbGhuVFJEREF4aW9CU2dLTWdhUkVZd0xsUW8",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Apple completely revamped iOS 27’s controls and apps for the iPhone Duo",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Terrence O'Brien"
+        ]
+      },
+      "link": "https://www.theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-508-11-03-11.jpg?quality=90&strip=all&crop=8.0838912957857%2C0%2C83.832217408429%2C100&w=2400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlNWEJYYVdsU1dGZFdlRVl5VFJER0F4aWpCU2dLTWdrQkFJUUtCcXhNandF",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "The cost of every new Apple product that debuted this week — and the price hikes since last launch",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aurielle Weiss"
+        ]
+      },
+      "link": "https://nypost.com/2026/09/11/tech/the-cost-of-every-new-apple-product-that-debuted-this-week/",
+      "thumbnail": "https://the016.com/public/core_link/9b/46/0f/fd0d12d190aef61c7463a940b088d864.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRNVGRWYkRWb1ZuaFJTVlJ1VFJDM0FSaVRBaWdCTWdtSlFZcjF0R2FhYUFJ",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "iPhone Duo will launch with iOS 27.1, Apple confirms",
+      "source": {
+        "name": "The Apple Post",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theapplepost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Joseppi"
+        ]
+      },
+      "link": "https://www.theapplepost.com/2026/09/10/72069/iphone-duo-will-launch-with-ios-27-1-apple-confirms/",
+      "thumbnail": "https://www.theapplepost.com/wp-content/uploads/2026/09/iphoneduo.video_-1280x720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJYMlZCU21ZdFFVMHdVSGxGVFJDZkF4ampCU2dLTWdhaFE0ck5yUVE",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "How to watch Apple event today: iPhone 18 Pro, iPhone Duo, more",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/09/09/how-to-watch-apples-september-event-iphone-18-pro-iphone-duo-more/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNaRkE1YVVWNE5TMVRibU5EVFJDSEF4aVBCaWdLTWdZbFJZenV0UVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Apple iPhone 18 Duo preorders: everything you need to know, including start times, deals, and pricing",
+      "source": {
+        "name": "TechRadar",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Whitelock"
+        ]
+      },
+      "link": "https://www.techradar.com/phones/iphone/apple-iphone-18-pro-and-apple-iphone-duo-preorders-everything-you-need-to-know-including-start-times-deals-and-pricing",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/uKj29UioAZf7z2fbL3H4W5.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWWFU1UzAxc1ptMUhOalJWVFJDZkF4ampCU2dLTWdZVmtZelVQQVU",
+      "date": "09/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-12T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Everything to know about the foldable iPhone Duo and iPhone 18 Pro series",
+      "source": {
+        "name": "Time Out Worldwide",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.timeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Catharina Cheung"
+        ]
+      },
+      "link": "https://www.timeout.com/hong-kong/news/foldable-iphone-duo-and-iphone-18-what-we-know-about-apples-latest-phones-prices-pre-order-dates-colourways-and-more-for-the-iphone-18-pro-pro-max-and-foldable-iphone-duo-091026",
+      "thumbnail": "https://media.timeout.com/images/106445539/750/422/image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFhSHBzTjJsU1RVTnJYekE0VFJDZkF4amlCU2dLTWdhZE1vb3RIUW8",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "The first major update to iOS 27 will be released ahead of the launch of the iPhone Duo",
+      "source": {
+        "name": "Mezha",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mezha.ua&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Myroslav Trinko"
+        ]
+      },
+      "link": "https://mezha.ua/en/news/iphone-duo-viyde-na-rinok-z-ios-27-1-315067/",
+      "thumbnail": "https://img.mezha.ua/mezha/images/doc/9/e/325711/9ed9bdec6e6cf38a12a8fa27e590553f.jpeg?w=680&q=90",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxkbHBVVkVzMk5VdGlSRjl6VFJEOEFoaW9CU2dLTWdZZGRKQ09yUVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "After iPhone 18 Pro and Duo, Apple’s next wave of Macs, iPads is coming",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/tech/after-iphone-18-pro-and-duo-apples-next-wave-of-macs-ipads-is-coming-14045871.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/09/Macbooks-2026-09-a6771b7d75cf6b34b59559ff0a52f363-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUplRVJXZG5sdU5tVmxWMjV6VFJDZkF4ampCU2dLTWdrQlE1Qnh1ZVhJaHdJ",
+      "date": "09/15/2026, 02:31 AM, +0000 UTC",
+      "iso_date": "2026-09-15T02:31:44Z"
+    },
+    {
+      "position": 44,
+      "title": "Want a New iPhone 18 Pro or iPhone Duo? Here's How Much They Cost With Apple Upgrade",
+      "source": {
+        "name": "PCMag UK",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://uk.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jason Cohen"
+        ]
+      },
+      "link": "https://uk.pcmag.com/mobile-phones/166413/how-much-cost-iphone-18-pro-iphone-duo-apple-upgrade-leasing-program",
+      "thumbnail": "https://sm.pcmag.com/t/pcmag_uk/explainers/w/want-a-new/want-a-new-iphone-18-pro-or-iphone-duo-heres-how-much-they-c_en5u.1920.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhOa2RNU21KTE9DMUtZV0p5VFJDb0FSaXNBaWdCTWdZQmNJcEtyZ2M",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Apple iPhone Duo, iPhone 18 Pro and iPhone 18 Pro Max launched: Check India prices, availability and all",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Arghanshu Bose"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-iphone-18-pro-and-iphone-18-pro-max-launched-check-india-prices-availability-and-all-other-details/articleshow/133994614.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133994684,width-1280,height-720,imgsize-330069,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxiM051YlVkRmFFVnBhRjlIVFJDZkF4ampCU2dLTWdhQklveE1tUW8",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "iOS 27 RC Released: the Final Update Brings One Big Surprise",
+      "source": {
+        "name": "Geeky Gadgets",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geeky-gadgets.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Roland Hutchinson"
+        ]
+      },
+      "link": "https://www.geeky-gadgets.com/ios-27-rc-released/",
+      "thumbnail": "https://www.geeky-gadgets.com/wp-content/uploads/2026/09/ios-27-4.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlSSFpWTFdsQ1lraDVSWGwxVFJDZkF4ampCU2dLTWdZZEpZek5IUWM",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "iPhone Duo: Price, release date, specs, and features",
+      "source": {
+        "name": "TechCabal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcabal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chukwuebuka Mgbojikwe"
+        ]
+      },
+      "link": "https://techcabal.com/2026/09/10/iphone-duo-price-release-date-specs-features/",
+      "thumbnail": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/09/iPhone-Duo-3-300x169.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hbkl6ZFZwVVZtUkZUV3RHVFJDb0FSaXJBaWdCTWdZRlFZNFZMUWc",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "iPhone Duo to launch in Netherlands at nearly €2,350",
+      "source": {
+        "name": "NL Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nltimes.nl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nltimes.nl/2026/09/10/iphone-duo-launch-netherlands-nearly-eu2350",
+      "thumbnail": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_mobile_1x/public/2026-09/Apple-iPhone-Duo-display-sizes-260909.jpg.webp?h=8f74817f",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpZMEp4TFhac1ptbFlkWEZJVFJEc0FSaXNBeWdLTWdtUllvaEpPYVpVU3dJ",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Apple iPhone Duo, first foldable iPhone, launched: Price in India, specifications and features",
+      "source": {
+        "name": "timesofindia.indiatimes.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-iphone-duo-launched-specifications-features-and-price/articleshow/133980600.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133980630,width-1280,height-720,imgsize-482145,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNWR05tUTJ0RmIwVjJVRmsxVFJDZkF4ampCU2dLTWdhaGNaRHdNQVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Apple confirms iOS 27 release date, satellite connectivity remains free (for now)",
+      "source": {
+        "name": "Notebookcheck",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.notebookcheck.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hannes Brecher"
+        ]
+      },
+      "link": "https://www.notebookcheck.net/Apple-confirms-iOS-27-release-date-satellite-connectivity-remains-free-for-now.1395039.0.html",
+      "thumbnail": "https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/News/_nc5/iOS-2768-q82-w2560-h.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFOUzFWVjJkU2NXNTBiRzlrVFJEMEF4am1CQ2dLTWdtbEE0cnNCU3hjclFF",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Apple launches iPhone Duo, 18 Pro series, AirPods 5, and more: Highlights",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harsh Shivam"
+        ]
+      },
+      "link": "https://www.business-standard.com/technology/tech-news/apple-event-launch-iphone-duo-iphone-18-pro-airpods-5-watch-series-12-126091000026_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/10/full/1788980263-7787.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRhR2xhT1ZKeVdGaEtWV3R5VFJDZkF4ampCU2dLTWdrQmtKTEd2R2U1TEFJ",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Apple launches foldable iPhone Duo, hopes to rule tough premium segment",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nandagopal Rajan"
+        ]
+      },
+      "link": "https://indianexpress.com/article/technology/apple-iphone-duo-foldable-premium-segment-10870714/",
+      "thumbnail": "https://images.indianexpress.com/2026/09/Apple-iPhone-Duo-Foldable-2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxTekJTT0ZaRFNFMTVPRXc1VFJDZkF4ampCU2dLTWdZcEE0NlFHUWs",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "iOS 27.1 Expected in Mid-October Ahead of iPhone Duo Launch",
+      "source": {
+        "name": "finance.biggo.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.biggo.com/news/12b7778d-d4ea-48eb-9933-144edb724fe2",
+      "thumbnail": "https://img.biggo.com/60tQXLwe5ernAIGwp4A_YzN4NqJzMxcEc5qrnm9rSeA/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzEyYjc3NzhkLWQ0ZWEtNDhlYi05OTMzLTE0NGVkYjcyNGZlMl8xNzg5MTU3MjcwX2RlZmF1bHQuanBn.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhla2RETlZWS01VTlVTbXByVFJDZkF4ampCU2dLTWdZbGhaRE10UVk",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Apple unveils iPhone Duo at iPhone 18 launch event",
+      "source": {
+        "name": "Kursiv Media Узбекистан",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://uz.kursiv.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nigora Umarova"
+        ]
+      },
+      "link": "https://uz.kursiv.media/en/2026-09-09/apple-iphone-duo-iphone-18-launch/",
+      "thumbnail": "https://cdn-uz.kursiv.media/wp-content/uploads/2026/09/snimok-ekrana-2026-09-10-091325.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVblZPV0d4UVREa3lhRm8xVFJDU0F4ajdCU2dLTWdhZFU0NXJxUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Apple unveils its foldable iPhone Duo",
+      "source": {
+        "name": "SMH.com.au",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.smh.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Swan"
+        ]
+      },
+      "link": "https://www.smh.com.au/technology/apple-unveils-its-foldable-iphone-duo-20260909-p60vzj.html",
+      "thumbnail": "https://static.ffx.io/images/$zoom_0.946%2C$multiply_0.7725%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/072c2959dafe46a3e7b32cdf363153be6476964ca32322a2e396a149e0edb196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpSMEZRTmpGbmFIZzVWM2htVFJDRkF4aklCQ2dLTWdhaFU0eXRKUVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Apple debuts passport-shaped foldable phone, called Duo",
+      "source": {
+        "name": "The Straits Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.straitstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.straitstimes.com/world/united-states/apple-begins-folding-phone-event-with-new-ceo-ternus-in-command",
+      "thumbnail": "https://cassette.sphdigital.com.sg/image/straitstimes/4572d66993f4dd1c2d7e835f0b1b8979a15cbdf3e1e3a923c49af5c2d27ce7fa",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVZWEJ6WkVsUk5FcFJiVUkzVFJERUF4aW1CU2dLTWdhVk1vb3hHUVU",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Apple iPhone Duo Starts At Rs. 2.99 Lakh: iPhone 18 Pro, Watches And AirPods Full India Price List",
+      "source": {
+        "name": "Brut",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.brut.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.brut.media/in/articles/science-technology/technology/apple-iphone-duo-starts-at-rs-2-99-lakh-iphone-18-pro-watches-and-airpods-full-india-price-list",
+      "thumbnail": "https://cdn.prod.website-files.com/6638f8a6eb6d568220f98b00/6aa28e30b964653247b54678_6aa28d1a63ec29c15a97636f_WEB_THUMBNAIL-Apple%2520Event%25202026.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHpOREJoYWxBd1oxbHhTbUpuVFJEb0FoamtCU2dLTWdzQlVZUWpXdUl0UjlxY2N3",
+      "date": "09/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-14T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Apple indicated when it would come out iOS 27.1. It will be much sooner than you think",
+      "source": {
+        "name": "Letem světem Applem",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.letemsvetemapplem.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jiri Filip"
+        ]
+      },
+      "link": "https://www.letemsvetemapplem.eu/en/2026/09/11/apple-naznacil-kdy-vyjde-ios-27-1-bude-to-podstatne-driv-nez-si-myslite/",
+      "thumbnail": "https://www.letemsvetemapplem.eu/wp-content/uploads/2026/09/Snimek-obrazovky-2026-09-09-v-20.16.43.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkemh4WXpneFRYTnliVE5wVFJDbUF4aldCU2dLTWdZbGRJcU9MUVk",
+      "date": "09/11/2026, 09:04 AM, +0000 UTC",
+      "iso_date": "2026-09-11T09:04:21Z"
+    },
+    {
+      "position": 59,
+      "title": "UAE: Apple’s Dh8,499 iPhone Duo has a surprisingly similar Xiaomi rival",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gulfnews.com/technology/apple-iphone-duo-vs-xiaomi-18-fold-comparison-1.500669625",
+      "thumbnail": "https://media.assettype.com/gulfnews%2F2026-09-10%2Fnukgl7e5%2FIPHONE-DUO?w=480&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtiMG8wUjE4NU5sTmZXSEpHVFJEb0FoamdBeWdLTWdZRmdKSzN1QVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kali Hays",
+          "Lily Jamali"
+        ]
+      },
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/320xn/p0p8wcqy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJYMWhHTlY5ZlRGQTNNM1phVFJDNEJCakFBaWdLTWdhaHBKQ051UVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Apple debuts $3400 passport-shaped foldable phone, called Duo",
+      "source": {
+        "name": "RNZ",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rnz.co.nz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kenrick Cai",
+          "Stephen Nellis"
+        ]
+      },
+      "link": "https://www.rnz.co.nz/news/business/1320134/apple-debuts-3400-passport-shaped-foldable-phone-called-duo",
+      "thumbnail": "https://media.rnztools.nz/rnz/image/upload/s--UHmkK9ch--/t_kt-crop-16x10/w_800/f_auto/q_auto:eco/4JIJ4WR_Screenshot_2026_09_10_074847_1_png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlXWE0xUkU1NlJsRlBTVXB2VFJDeEFSaWNBaWdCTWdZVlVvNHBxUWM",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "iPhone Duo, New Watches and AirPods 5: Everything Apple Just Launched",
+      "source": {
+        "name": "Techeconomy",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://techeconomy.ng&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://techeconomy.ng/apple-iphone-duo-iphone-18-pro-watch-series-12-airpods-5",
+      "thumbnail": "https://techeconomy.ng/media-proxy/uploads/Apple%20iPhone%2018%20launch-900x600.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNablpOTlVZeVRFNDFVa3RCVFJERUF4aW1CU2dLTWdhRmNaSXZOUWM",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "US, UAE, Saudi, UK or India? Where iPhone Duo and iPhone 18 Pro are cheapest to buy",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nivetha Dayanand"
+        ]
+      },
+      "link": "https://gulfnews.com/business/retail/us-uae-saudi-uk-or-india-where-iphone-duo-and-iphone-18-pro-are-cheapest-to-buy-1.500669754",
+      "thumbnail": "https://media.assettype.com/gulfnews/2026-09-09/ymwe7t0o/newsml_afp_com_20260909T194316Z_doc_c7uf98n.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVWMVpHYjBwMk5XNDNjbVJvVFJERUF4aW1CU2dLTWdrQklKS1dGQ3JZaFFJ",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Apple launches iPhone Duo, iPhone 18 Pro in UAE: Prices, release dates revealed",
+      "source": {
+        "name": "Gulf News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gulfnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nathaniel Lacsina"
+        ]
+      },
+      "link": "https://gulfnews.com/technology/consumer-electronics/apple-launches-iphone-duo-iphone-18-pro-in-uae-prices-release-dates-revealed-1.500669064",
+      "thumbnail": "https://media.assettype.com/gulfnews/2026-09-09/2dw13gkf/Apple-iPhone-Duo-opening-iPhone-Duo-260909-lp.jpg.landing-big2x.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlTSEpwUVhabFdrTjBWa05PVFJEZ0F4aUFCU2dLTWdZVllwQkpyUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Apple unveils its first foldable iPhone, NZ pricing",
+      "source": {
+        "name": "1News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.1news.co.nz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.1news.co.nz/2026/09/10/apple-unveils-its-first-foldable-iphone-nz-pricing/",
+      "thumbnail": "https://cloudfront-ap-southeast-2.images.arcpublishing.com/tvnz/CSMCBAXLIBDL3E5BWIBCKQEO7U.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVObnBOZHpkZk5uWjZNRFp4VFJERUF4aW5CU2dLTWdhbE00N01HUWM",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Apple iPhone Duo in UAE: Prices hit $3,700 for foldable phone as release date revealed",
+      "source": {
+        "name": "Arabian Business",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.arabianbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Will Milner"
+        ]
+      },
+      "link": "https://www.arabianbusiness.com/business/retail/apple-iphone-duo-uae-price-date",
+      "thumbnail": "https://www.arabianbusiness.com/cloud/2026/09/09/UAE-apple-Duo-2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdkVTFOTFcxTVNHeENMWFIzVFJERUF4aW5CU2dLTWdrTmxZaXRzZWF4RXdF",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Apple event – live: New iPhone Duo unveiled alongside iPhone 18 Pro at biggest tech launch of 2026",
+      "source": {
+        "name": "Newswav",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://newswav.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newswav.com/article/apple-event-live-new-iphone-duo-unveiled-alongside-iphone-18-pro-at-biggest-A2609_8mY2YQ",
+      "thumbnail": "https://imgproxy.newswav.com/1000x0,q50=/https://static.independent.co.uk/2026/09/09/18/35/Screenshot-2026-09-09-195728.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXhaVGxNWW05QlJYWldZbVV3VFJDc0FSaW1BaWdCTWdNQlFBdw",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Apple Seeds Second Beta of iOS 27.2 to Developers Ahead of iPhone Duo Launch",
+      "source": {
+        "name": "SSBCrack",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.ssbcrack.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.ssbcrack.com/apple-seeds-second-beta-of-ios-27-2-to-developers-ahead-of-iphone-duo-launch/",
+      "thumbnail": "https://news.ssbcrack.com/wp-content/uploads/2026/09/Apple-Releases-First-Beta-of-iOS-272-Skipping-iOS-271-860x484.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlZa3N5WVUxemExWk1NVVpSVFJDZkF4amlCU2dLTWdZVlk1Qkl0Z1k",
+      "date": "09/22/2026, 02:08 AM, +0000 UTC",
+      "iso_date": "2026-09-22T02:08:14Z"
+    },
+    {
+      "position": 69,
+      "title": "Apple launches foldable iPhone Duo priced from $1,999, while iOS 27 introduces significant updates",
+      "source": {
+        "name": "SSBCrack",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.ssbcrack.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.ssbcrack.com/apple-launches-foldable-iphone-duo-priced-from-1999-while-ios-27-introduces-significant-updates/",
+      "thumbnail": "https://news.ssbcrack.com/wp-content/uploads/2026/09/Apple-launches-foldable-iPhone-Duo-priced-from-1999-while-iOS-860x484.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVZkMDFYTlc1WGJIcGpURGhuVFJDZkF4amlCU2dLTWdB",
+      "date": "09/16/2026, 02:56 PM, +0000 UTC",
+      "iso_date": "2026-09-16T14:56:13Z"
+    },
+    {
+      "position": 70,
+      "title": "iPhone 18 Pro, iPhone Duo, Watch Ultra 4 And More: Everything Apple Launched At Sept 9 Event",
+      "source": {
+        "name": "Times Now",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Govind Choudhary"
+        ]
+      },
+      "link": "https://www.timesnownews.com/technology-science/iphone-18-pro-iphone-duo-watch-ultra-4-and-more-everything-apple-launched-at-sept-9-event-article-156129957",
+      "thumbnail": "https://images.timesnownews.com/thumb/msid-156129968,thumbsize-559643,width-1280,height-720,resizemode-75/156129968.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFZVkpyT1dGUU5rUmxPVWRTVFJDZkF4ampCU2dLTWdZQnNKRFh3QVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Apples First Foldable, iPhone Duo, Is Here. But That Rs 4.5 Lakh Price Tag Is Insane",
+      "source": {
+        "name": "ABP Live English",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shayak Majumder"
+        ]
+      },
+      "link": "https://news.abplive.com/technology/gadgets/apple-iphone-duo-foldable-launch-live-updates-price-india-specifications-features-1866001",
+      "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/09/2bd6abb1564365bb710c8c4c1f08dc401788976911822402_original.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFXVVpHTVRaQ1NESm9UR0pCVFJDZkF4ampCU2dLTWdZbFJJcXVvUVU",
+      "date": "09/09/2026, 06:03 PM, +0000 UTC",
+      "iso_date": "2026-09-09T18:03:51Z"
+    },
+    {
+      "position": 72,
+      "title": "iPhone 18 and iPhone Duo: Release date, price, dimensions, and new features",
+      "source": {
+        "name": "The Sun",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thesun.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Nelson"
+        ]
+      },
+      "link": "https://www.thesun.co.uk/tech/40330961/iphone-18-duo-release-date-price-features/",
+      "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2026/09/new-foldable-iphone-duo-display-1106912080.jpg?w=960",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9jVWxMU25oMWNtTk5TbGMzVFJEREF4aW5CU2dLTWdhVk1vb3hHUVU",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Apple Event 2026 LIVE: iPhone 18 Pro Launch, Price, Features and Biggest Announcements",
+      "source": {
+        "name": "ascendants.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ascendants.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ascendants.in/industry_events/apple-event-2026-live-updates-iphone-18-pro-launch-price-features/",
+      "thumbnail": "https://ascendants.in/wp-content/uploads/2026/09/apple-event-2026-surprise-and-shine-live.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRObVptWjFGYWJtRjRlRWxZVFJDZkF4ampCU2dLTWdZQlU1aURLUWs",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Apple Upgrade Explained: How does it work for iPhone 18, foldable iPhone Duo? Is it available in India?",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sanchari Ghosh"
+        ]
+      },
+      "link": "https://www.livemint.com/technology/tech-news/what-is-apple-upgrade-how-does-it-work-is-it-available-in-india-11788975475234.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/maxresdefault_1788982193816_e95d4275-b4d9-4a30-b345-f655c7eed1d6_1788982198946_a22ba97d-64fc-409e-beb6-e02e3dd7952b_80bbff3d-8afb-436c-9c5f-73fe49a93e5b_e57a34d9-ebe1-4e4a-a9b4-706d3ca4ff34.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJYelo2Y3poaVEwdE1NMUJOVFJDZkF4ampCU2dLTWdhcFpZak5MUVk",
+      "date": "09/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-10T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

@@ -864,19 +864,7 @@ def fetch_investigation_trends(
         )
 
     analysis = analyze_claim(investigation.claim)
-    
-    # Filter out very common/generic words from keywords to build a robust Trends query
-    useful_keywords = [
-        kw for kw in analysis.keywords 
-        if len(kw) > 3 and kw not in {
-            "really", "actually", "claim", "claims", "true", "false",
-            "does", "said", "that", "this", "from", "about", "just",
-            "what", "when", "where", "which", "will", "would", "could",
-            "been", "being", "have", "make", "much", "very", "after",
-            "before", "into", "more", "also", "than", "other", "some",
-        }
-    ]
-    topic = " ".join(useful_keywords[:4]) if useful_keywords else " ".join(analysis.keywords[:3])
+    topic = analysis.trends_topic
 
     db.query(TrendSignal).filter(
         TrendSignal.investigation_id == investigation_id

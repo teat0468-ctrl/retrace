@@ -1,0 +1,375 @@
+{
+  "search_metadata": {
+    "id": "6ab2becf71b492efbd8fb378",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/l-9ZS6sN97BMcvv6z6q0cTebmJtdFQftgteq6HI1JV4/6ab2becf71b492efbd8fb378.json",
+    "markdown_endpoint": "https://serpapi.com/searches/l-9ZS6sN97BMcvv6z6q0cTebmJtdFQftgteq6HI1JV4/6ab2becf71b492efbd8fb378.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/l-9ZS6sN97BMcvv6z6q0cTebmJtdFQftgteq6HI1JV4/6ab2becf71b492efbd8fb378.json_with_pixel_position",
+    "created_at": "2026-09-22 17:45:51 UTC",
+    "processed_at": "2026-09-22 17:45:51 UTC",
+    "google_url": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+2025&oq=indian+pakistani+naval+vessels+collided+india+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/l-9ZS6sN97BMcvv6z6q0cTebmJtdFQftgteq6HI1JV4/6ab2becf71b492efbd8fb378.html",
+    "total_time_taken": 0.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "indian pakistani naval vessels collided india 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "indian pakistani naval vessels collided india 2025",
+    "total_results": 4780000000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Why is removing abandoned boats from puget sound important?",
+      "type": "ai_overview",
+      "page_token": "Te24HnicHdBfbpswHABg7TJ9bHAImRYpmkYxkG6Y8sM2f14msJMQsMFJUWn8tivsDDvVTrNqF_gevl9_1GUc_n763c2zed2tVsuyPJ6n6ayOj2LSq-b1PoqVaJRqGzHstp-36OtJ7PGb8J9uws-YMTwAhwYkT0rTSO3ZfFQuVdJrKNyByqjFYcoKdD1q6RfM21BkZo5rTh2k0rLTnBOHcf5dOu95q5El7mHN48ptFflBYklaFb60cWeTNVH1wLXAZs2x18sgPMiYLTCcHZ6ja1V-8EFmWaEudC1jyasNjLXJ42eQQeXJkMesDK85ZwvBH1Zc93SUkBbqiaIvtwbBXQQ1ywvT06jbJMMcpbxDwP2Y0W_vrK8t0R7gTm6Jrb2qBFQ5GBFHLWkAWVIe7qwHoDBdMgZW9Eozha1UPqmj59txkElGedhYv89cGCAyBY3QC8seTuJt7z78v97_POl5Z27T-R_MUYxB",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Te24HnicHdBfbpswHABg7TJ9bHAImRYpmkYxkG6Y8sM2f14msJMQsMFJUWn8tivsDDvVTrNqF_gevl9_1GUc_n763c2zed2tVsuyPJ6n6ayOj2LSq-b1PoqVaJRqGzHstp-36OtJ7PGb8J9uws-YMTwAhwYkT0rTSO3ZfFQuVdJrKNyByqjFYcoKdD1q6RfM21BkZo5rTh2k0rLTnBOHcf5dOu95q5El7mHN48ptFflBYklaFb60cWeTNVH1wLXAZs2x18sgPMiYLTCcHZ6ja1V-8EFmWaEudC1jyasNjLXJ42eQQeXJkMesDK85ZwvBH1Zc93SUkBbqiaIvtwbBXQQ1ywvT06jbJMMcpbxDwP2Y0W_vrK8t0R7gTm6Jrb2qBFQ5GBFHLWkAWVIe7qwHoDBdMgZW9Eozha1UPqmj59txkElGedhYv89cGCAyBY3QC8seTuJt7z78v97_POl5Z27T-R_MUYxB",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1EweDBSeTF1TmpGVVFXd3hjRFptZHpGcWRrVkVabHBLUlRFMVZUaEZNbVphVTFOek0ydGhkWFU1TjFwalptVkZURGxRUVRSSk1XaFJXRkF6WkhsamMxRlRjV2x1VDJadk4zTTNObTVyUnpWUU4xcFRXVk55WVRCVVFSSVhlamMyZVdGMGRXTkJOVGRKY0RnMFVERnlNbEkwVVUwYUlrRkVjM0k1WmxKUk1UQk9jbmR1WlRVNFl6QlROREIyUkZwd2RVTnhNbHBIT0ZFIiwiZmN2IjoiMyIsImVpIjoiejc2eWF0dWNBNTdJcDg0UDFyMlI0UU0iLCJxYyI6ImMtTXl5c3hMeVV6TVV5aEl6TTRzTGtuTXkxVElTeXhMekZFb1N5MHVUczBwVmtqT3o4bkpURWxOVVFDclV6QXlNRElWWUtobE12U3hCd0EiLCJxdWVzdGlvbiI6IldoeSBpcyByZW1vdmluZyBhYmFuZG9uZWQgYm9hdHMgZnJvbSBwdWdldCBzb3VuZCBpbXBvcnRhbnQ/IiwibGsiOiJjd1hCd1JHQU1BZ0V3RDU4WFIxMlF3YU1QSUFNRUIyN2RfYzQzX3VERmxJc0h2VUpHdVFjTG93UjFJVXJ3N0QybEViRmRvYmFpbXp5X2dFIiwiYnMiOiJjNTNNc1E2Q1FCQ0U0ZGhlWlUxaDVoV2tWQk5hclEyaFhyd0RMdkYyeWUwaUliNjhpb1c5OVh6X3VLYzdOc09DcU1naHlTTnlEMnFKdlhEd2FJVk0wV1ZKR0tjLUdGUW05b2hwbEd6RVZwV240akRfbmJ2YTdjOHk0MGFNQzN6VVVUUkFPcVJsYlJFWkRlbndmalZoWEkwc1ZDV0szVHAtUGQweF80aC15SGJ6QWciLCJpZCI6ImZjX3o3NnlhdHVjQTU3SXA4NFAxcjJSNFFNXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1EweDBSeTF1TmpGVVFXd3hjRFptZHpGcWRrVkVabHBLUlRFMVZUaEZNbVphVTFOek0ydGhkWFU1TjFwalptVkZURGxRUVRSSk1XaFJXRkF6WkhsamMxRlRjV2x1VDJadk4zTTNObTVyUnpWUU4xcFRXVk55WVRCVVFSSVhlamMyZVdGMGRXTkJOVGRKY0RnMFVERnlNbEkwVVUwYUlrRkVjM0k1WmxKUk1UQk9jbmR1WlRVNFl6QlROREIyUkZwd2RVTnhNbHBIT0ZFIiwiZmN2IjoiMyIsImVpIjoiejc2eWF0dWNBNTdJcDg0UDFyMlI0UU0iLCJxYyI6ImMtTXl5c3hMeVV6TVV5aEl6TTRzTGtuTXkxVElTeXhMekZFb1N5MHVUczBwVmtqT3o4bkpURWxOVVFDclV6QXlNRElWWUtobE12U3hCd0EiLCJxdWVzdGlvbiI6IldoeSBpcyByZW1vdmluZyBhYmFuZG9uZWQgYm9hdHMgZnJvbSBwdWdldCBzb3VuZCBpbXBvcnRhbnQ%2FIiwibGsiOiJjd1hCd1JHQU1BZ0V3RDU4WFIxMlF3YU1QSUFNRUIyN2RfYzQzX3VERmxJc0h2VUpHdVFjTG93UjFJVXJ3N0QybEViRmRvYmFpbXp5X2dFIiwiYnMiOiJjNTNNc1E2Q1FCQ0U0ZGhlWlUxaDVoV2tWQk5hclEyaFhyd0RMdkYyeWUwaUliNjhpb1c5OVh6X3VLYzdOc09DcU1naHlTTnlEMnFKdlhEd2FJVk0wV1ZKR0tjLUdGUW05b2hwbEd6RVZwV240akRfbmJ2YTdjOHk0MGFNQzN6VVVUUkFPcVJsYlJFWkRlbndmalZoWEkwc1ZDV0szVHAtUGQweF80aC15SGJ6QWciLCJpZCI6ImZjX3o3NnlhdHVjQTU3SXA4NFAxcjJSNFFNXzIifQ%3D%3D"
+    },
+    {
+      "question": "How can I dispose of my boat in Washington State?",
+      "type": "ai_overview",
+      "page_token": "UK1oanicHdBhrpowAADg7DLv57OF4KKJWR5S5JFHXQttaf8s0IooxTJlovzbFXaGnWqn2bITfMn387c9Xbo_n3614zjc1ovFNE2vR-eO9vCqXb-obs-LXujK2rrS3Xr5eQm_NHqD7jrcXnVI2DDwiILc6zyxsyHhqVVo1WSCTTzhWd3h1CQK7RPbqJ1iFMV3Mqd-_YRKd-3HgY0-t-3WnPF35qXuQ6iGcemZhCotDNFRGxUMZwKNpYilr4UbiQhc3aGAx910iNhDW3xS5VtAAJdmVkHOV7s6MjcjVpPoLcGRnvasfehEghzFP2iisrzA98zyvkIAmC0EueDLCkpYXMJYedixJ0zUmdtsluO-xFR7lhU5DIvkHaDWLPE_R5YUSoAgBnbaR5Rk5fuTnSktqDsRRmd9tj1H6cC7YazAqjsUBDLAr_VFfZVesMv8YS7n44ORl0bfN_7L_-vNt6Yf18PVHf8C-1KMGQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UK1oanicHdBhrpowAADg7DLv57OF4KKJWR5S5JFHXQttaf8s0IooxTJlovzbFXaGnWqn2bITfMn387c9Xbo_n3614zjc1ovFNE2vR-eO9vCqXb-obs-LXujK2rrS3Xr5eQm_NHqD7jrcXnVI2DDwiILc6zyxsyHhqVVo1WSCTTzhWd3h1CQK7RPbqJ1iFMV3Mqd-_YRKd-3HgY0-t-3WnPF35qXuQ6iGcemZhCotDNFRGxUMZwKNpYilr4UbiQhc3aGAx910iNhDW3xS5VtAAJdmVkHOV7s6MjcjVpPoLcGRnvasfehEghzFP2iisrzA98zyvkIAmC0EueDLCkpYXMJYedixJ0zUmdtsluO-xFR7lhU5DIvkHaDWLPE_R5YUSoAgBnbaR5Rk5fuTnSktqDsRRmd9tj1H6cC7YazAqjsUBDLAr_VFfZVesMv8YS7n44ORl0bfN_7L_-vNt6Yf18PVHf8C-1KMGQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1EweDBSeTF1TmpGVVFXd3hjRFptZHpGcWRrVkVabHBLUlRFMVZUaEZNbVphVTFOek0ydGhkWFU1TjFwalptVkZURGxRUVRSSk1XaFJXRkF6WkhsamMxRlRjV2x1VDJadk4zTTNObTVyUnpWUU4xcFRXVk55WVRCVVFSSVhlamMyZVdGMGRXTkJOVGRKY0RnMFVERnlNbEkwVVUwYUlrRkVjM0k1WmxKUk1UQk9jbmR1WlRVNFl6QlROREIyUkZwd2RVTnhNbHBIT0ZFIiwiZmN2IjoiMyIsImVpIjoiejc2eWF0dWNBNTdJcDg0UDFyMlI0UU0iLCJxYyI6ImMtTXl5c3hMeVV6TVV5aEl6TTRzTGtuTXkxVElTeXhMekZFb1N5MHVUczBwVmtqT3o4bkpURWxOVVFDclV6QXlNRElWWUtobE12U3hCd0EiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBkaXNwb3NlIG9mIG15IGJvYXQgaW4gV2FzaGluZ3RvbiBTdGF0ZT8iLCJsayI6IkdoNWliMkYwSUdScGMzQnZjMkZzSUhkaGMyaHBibWQwYjI0Z2MzUmhkR1UiLCJicyI6ImM1M01zUTZDUUJDRTRkaGVaVTFoNWhXa1ZCTmFyUTJoWHJ3REx2RjJ5ZTBpSWI2OGlvVzk5WHpfdUtjN05zT0NxTWdoeVNOeUQycUp2WER3YUlWTTBXVkpHS2MtR0ZRbTlvaHBsR3pFVnBXbjRqRF9uYnZhN2M4eTQwYU1DM3pVVVRSQU9xUmxiUkVaRGVud2ZqVmhYSTBzVkNXSzNUcC1QZDB4XzRoLXlIYnpBZyIsImlkIjoiZmNfejc2eWF0dWNBNTdJcDg0UDFyMlI0UU1fMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1EweDBSeTF1TmpGVVFXd3hjRFptZHpGcWRrVkVabHBLUlRFMVZUaEZNbVphVTFOek0ydGhkWFU1TjFwalptVkZURGxRUVRSSk1XaFJXRkF6WkhsamMxRlRjV2x1VDJadk4zTTNObTVyUnpWUU4xcFRXVk55WVRCVVFSSVhlamMyZVdGMGRXTkJOVGRKY0RnMFVERnlNbEkwVVUwYUlrRkVjM0k1WmxKUk1UQk9jbmR1WlRVNFl6QlROREIyUkZwd2RVTnhNbHBIT0ZFIiwiZmN2IjoiMyIsImVpIjoiejc2eWF0dWNBNTdJcDg0UDFyMlI0UU0iLCJxYyI6ImMtTXl5c3hMeVV6TVV5aEl6TTRzTGtuTXkxVElTeXhMekZFb1N5MHVUczBwVmtqT3o4bkpURWxOVVFDclV6QXlNRElWWUtobE12U3hCd0EiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBkaXNwb3NlIG9mIG15IGJvYXQgaW4gV2FzaGluZ3RvbiBTdGF0ZT8iLCJsayI6IkdoNWliMkYwSUdScGMzQnZjMkZzSUhkaGMyaHBibWQwYjI0Z2MzUmhkR1UiLCJicyI6ImM1M01zUTZDUUJDRTRkaGVaVTFoNWhXa1ZCTmFyUTJoWHJ3REx2RjJ5ZTBpSWI2OGlvVzk5WHpfdUtjN05zT0NxTWdoeVNOeUQycUp2WER3YUlWTTBXVkpHS2MtR0ZRbTlvaHBsR3pFVnBXbjRqRF9uYnZhN2M4eTQwYU1DM3pVVVRSQU9xUmxiUkVaRGVud2ZqVmhYSTBzVkNXSzNUcC1QZDB4XzRoLXlIYnpBZyIsImlkIjoiZmNfejc2eWF0dWNBNTdJcDg0UDFyMlI0UU1fMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "LmXj-niczZVbkqJIFIYXMOsYX6wWwXtFEB2ZKSheyspSy9AXg1ulKIiQKOpbL2B2Maua1UyCN6TVqu6HickIzQsnD4eT58v_x9-2tVz888dfsyBY0WeOC8MwR1yX2GZOdx1Opbulzn24NvX12ffdRixkdCrmM6Yl7ivlnRqsdVCqKKtq8ZX3hbci7mbiLeJUU6k5Zx63c8pNOfa3-LNQZ5MczZnL3LS9U-f-Nqxpek7IC4Vcj1MdZgD-uyZhgqK-D6QHRgAoX_KGMWDeWpcFhE4OTo1EE8L8oWgRReObTZEAjnpLOuwCPfThjKoANM4b9PsBJ51CEnuC8LDYR-DuS2-3wzfIp8AemcKHy-3TXEkYPvKHx9eBsOR9EAgvm5Kb2fIssTV62DiMSwAWXwFqIuA-Ch65oO5gqGDwqBhiSx8Nw-O4A3iWIc4grHDznOazjucsfabHA59G9YwGtbwruZrtvcN5Q1iUgz21gvKbsqeevJdlzOkas7Nd1TCN6Wya_x7PeYEv5WuFSvUpBkmnZ5JokqQ6mtc3Umk58he5Tg7yJ4zQOT_oOnyJzdGtvEN0NEXpJ3rk6nQa5-wggOWEkXLeLWHQtVJ-hmZUdd3LQl0AoJi0uGQ9Wv0Zo3RoEUZgGI_i4bGsky6ViEl82XBuzfQXglunLsHjMZNG6glOpQiBvsIcnFyk7jDC8EMKhgeMvGKc_BA0khYtEn3G2f8xIgik-BuidoHmMFJIgjeJJUKKSl5CLLY3JEHMbjVycgaju-4YqpXi_2YtRMctgZH0xasv3eTPTSJsjrykyv8Km8nbx7pVddeDYN1ptrVhh9RLe7XHOy1yGxPX0X5BcfT_FUgHPVKOenQfJOVLIGGM7uvRYXjRowgkRAi5A5J0AOknPWre0KM0SBJJgPSJHv0qSMojkOBDkNq3QFIegBTp0TVIiys9Qrf16AzS7-iR_Jt6FHNlHrprcVrPyV2Rkhf7l3JPkfduv5RvF3hZn8Cus56aWzP8VKQ-nODZUQ37aWoZz1BoBTvjacoW3GfTyHiitTQsdZldqQuLBurSyi7VjWpnNyalpk2zumvbFnOdje2yDM9SxrF9V8yr5YWJJ2SojleOMOqE8rDWqMBWYTeoeqBRFgZG2Qrt9-6g-W4IhYoH99sSosF4slKCnhrIaqvzbfkyDtoqdrthH9jV1QTrW55q9qxravKgFbg13BY0rbmpLnZed2iMa8K806QjySedbrVSRhVHYu_cBl7Nm3oyH0dGxW-7V6-_05VGb5FxfF1ktVwk4AWDEWE4oDGTCVbt7CAxCtmvDLAEM1RXpybdiKpWqJWL-WJB5TV2FxkZhwS7lVjLZ-jSF_l_AUxgRLw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LmXj-niczZVbkqJIFIYXMOsYX6wWwXtFEB2ZKSheyspSy9AXg1ulKIiQKOpbL2B2Maua1UyCN6TVqu6HickIzQsnD4eT58v_x9-2tVz888dfsyBY0WeOC8MwR1yX2GZOdx1Opbulzn24NvX12ffdRixkdCrmM6Yl7ivlnRqsdVCqKKtq8ZX3hbci7mbiLeJUU6k5Zx63c8pNOfa3-LNQZ5MczZnL3LS9U-f-Nqxpek7IC4Vcj1MdZgD-uyZhgqK-D6QHRgAoX_KGMWDeWpcFhE4OTo1EE8L8oWgRReObTZEAjnpLOuwCPfThjKoANM4b9PsBJ51CEnuC8LDYR-DuS2-3wzfIp8AemcKHy-3TXEkYPvKHx9eBsOR9EAgvm5Kb2fIssTV62DiMSwAWXwFqIuA-Ch65oO5gqGDwqBhiSx8Nw-O4A3iWIc4grHDznOazjucsfabHA59G9YwGtbwruZrtvcN5Q1iUgz21gvKbsqeevJdlzOkas7Nd1TCN6Wya_x7PeYEv5WuFSvUpBkmnZ5JokqQ6mtc3Umk58he5Tg7yJ4zQOT_oOnyJzdGtvEN0NEXpJ3rk6nQa5-wggOWEkXLeLWHQtVJ-hmZUdd3LQl0AoJi0uGQ9Wv0Zo3RoEUZgGI_i4bGsky6ViEl82XBuzfQXglunLsHjMZNG6glOpQiBvsIcnFyk7jDC8EMKhgeMvGKc_BA0khYtEn3G2f8xIgik-BuidoHmMFJIgjeJJUKKSl5CLLY3JEHMbjVycgaju-4YqpXi_2YtRMctgZH0xasv3eTPTSJsjrykyv8Km8nbx7pVddeDYN1ptrVhh9RLe7XHOy1yGxPX0X5BcfT_FUgHPVKOenQfJOVLIGGM7uvRYXjRowgkRAi5A5J0AOknPWre0KM0SBJJgPSJHv0qSMojkOBDkNq3QFIegBTp0TVIiys9Qrf16AzS7-iR_Jt6FHNlHrprcVrPyV2Rkhf7l3JPkfduv5RvF3hZn8Cus56aWzP8VKQ-nODZUQ37aWoZz1BoBTvjacoW3GfTyHiitTQsdZldqQuLBurSyi7VjWpnNyalpk2zumvbFnOdje2yDM9SxrF9V8yr5YWJJ2SojleOMOqE8rDWqMBWYTeoeqBRFgZG2Qrt9-6g-W4IhYoH99sSosF4slKCnhrIaqvzbfkyDtoqdrthH9jV1QTrW55q9qxravKgFbg13BY0rbmpLnZed2iMa8K806QjySedbrVSRhVHYu_cBl7Nm3oyH0dGxW-7V6-_05VGb5FxfF1ktVwk4AWDEWE4oDGTCVbt7CAxCtmvDLAEM1RXpybdiKpWqJWL-WJB5TV2FxkZhwS7lVjLZ-jSF_l_AUxgRLw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Vessel Golf Bags | Premium Golf Equipment & Accessories",
+      "link": "https://vesselgolf.com/?srsltid=AU7gw4XiPf5C9YxbdDT5T56YRvfLYkTZ7ykyh9ZrEN1vZwfNxoEaLKUl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFelTMOHQcZ2fX_M0cILGYc31XtpuEuF36mPI8R7H0R5Hjhi1IKvbJi1ZwY-EvMUaAWtln-SH4ywGZN-tAWz9JtqqX7RjkTHOiv-ob-aelRq5z9c0POhL1VtgpdQXHqsfybz42oxAFd1kJnFhfl_vdH2PIXqZXj07ljZ7kCJev1GiklbclMpBvjEDPFs&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://vesselgolf.com",
+      "snippet": "Experience luxury with Vessel's premium golf bags and accessories. Designed for performance and style, our products cater to golfers seeking the best.",
+      "snippet_highlighted_words": [
+        "Vessel's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.9",
+            "store rating (7.3K)",
+            "Free delivery over $500",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Experience luxury with Vessel's premium golf bags and accessories. Designed for performance and style, our products cater to golfers seeking the best.",
+          "source_info_link": "https://vesselgolf.com/?srsltid=AU7gw4XiPf5C9YxbdDT5T56YRvfLYkTZ7ykyh9ZrEN1vZwfNxoEaLKUl",
+          "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglpAAvmEYl_2HlRQXgQ4Ymowa89Mr5ORM5_yigAAP73eY2jIipTjPxBWsemJtAWFMMinsbLfrxw3tZfkWEi7OJ4xDrsN2-vPq2-bBxvpdnd-ZGpDzeH1vLEwNTG0nnZ_ObcJ05UqOpVxX2n0xB3DgQmzRql9Upvidj-ckIB4Ozwk_T_km5b9-eAKA2CsS0FzOoMFLJO4erNqJ8LN5f_kVkT8dP5CBZoS-ltrP4Jt1Wneqy9qUG6inxYiTA-rPvqjGnSS7w66TgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlbFRNT0hRY1oyZlhfTTBjSUxHWWMzMVh0cHVFdUYzNm1QSThSN0gwUjVIamhpMUlLdmJKaTFad1ktRXZNVWFBV3Rsbi1TSDR5d0daTi10QVd6OUp0cXFYN1Jqa1RIT2l2LW9iLWFlbFJxNXo5YzBQT2hMMVZ0Z3BkUVhIcXNmeWJ6NDJveEFGZDFrSm5GaGZsX3ZkSDJQSVhxWlhqMDdsalo3a0NKZXYxR2lrbGJjbE1wQnZqRURQRnMSBBoCCAAasQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCLAwgAEAAYACAAKh4KBmluZGlhbhUAAAAAGg9pbmRpYW5wYWtpc3RhbmkyeS9nb3RvP3VybD1DQUVTVHdIck96QVY3c0MxLTc4MUNQWF80ODNjV3pzZTU5eTlFNU1vYWRWVUkwaXZ6QUo5Zl8zTVBCel9Xd3RSQlRWTFVzdGpEX0FOS29NdGpFcDFWTzlBVDR5TTZDRG9TazRQMUh1ZURFaDFhRkU6QjxiPlZlc3NlbDwvYj4gR29sZiBCYWdzIHwgUHJlbWl1bSBHb2xmIEVxdWlwbWVudCAmYW1wOyBBY2Nlc3Nvcmllc0KhAUV4cGVyaWVuY2UgbHV4dXJ5IHdpdGggPGI-VmVzc2VsJiMzOTtzPC9iPiBwcmVtaXVtIGdvbGYgYmFncyBhbmQgYWNjZXNzb3JpZXMuIERlc2lnbmVkIGZvciBwZXJmb3JtYW5jZSBhbmQgc3R5bGUsIG91ciBwcm9kdWN0cyBjYXRlciB0byBnb2xmZXJzIHNlZWtpbmcgdGhlIGJlc3QuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlbFRNT0hRY1oyZlhfTTBjSUxHWWMzMVh0cHVFdUYzNm1QSThSN0gwUjVIamhpMUlLdmJKaTFad1ktRXZNVWFBV3Rsbi1TSDR5d0daTi10QVd6OUp0cXFYN1Jqa1RIT2l2LW9iLWFlbFJxNXo5YzBQT2hMMVZ0Z3BkUVhIcXNmeWJ6NDJveEFGZDFrSm5GaGZsX3ZkSDJQSVhxWlhqMDdsalo3a0NKZXYxR2lrbGJjbE1wQnZqRURQRnMSBBoCCAAasQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCLAwgAEAAYACAAKh4KBmluZGlhbhUAAAAAGg9pbmRpYW5wYWtpc3RhbmkyeS9nb3RvP3VybD1DQUVTVHdIck96QVY3c0MxLTc4MUNQWF80ODNjV3pzZTU5eTlFNU1vYWRWVUkwaXZ6QUo5Zl8zTVBCel9Xd3RSQlRWTFVzdGpEX0FOS29NdGpFcDFWTzlBVDR5TTZDRG9TazRQMUh1ZURFaDFhRkU6QjxiPlZlc3NlbDwvYj4gR29sZiBCYWdzIHwgUHJlbWl1bSBHb2xmIEVxdWlwbWVudCAmYW1wOyBBY2Nlc3Nvcmllc0KhAUV4cGVyaWVuY2UgbHV4dXJ5IHdpdGggPGI-VmVzc2VsJiMzOTtzPC9iPiBwcmVtaXVtIGdvbGYgYmFncyBhbmQgYWNjZXNzb3JpZXMuIERlc2lnbmVkIGZvciBwZXJmb3JtYW5jZSBhbmQgc3R5bGUsIG91ciBwcm9kdWN0cyBjYXRlciB0byBnb2xmZXJzIHNlZWtpbmcgdGhlIGJlc3QuIgIQAUgAWABoAA",
+      "source": "Vessel Golf Bags"
+    },
+    {
+      "position": 2,
+      "title": "Vessels",
+      "link": "https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAV17_ZY7Lbu3J3w2-uOkpPhBxEnQHXxlI3rJ1kVigKrnjfpgp2imemzVu3LwihTOKUNqLHu_1VZwlxbYhktNvsl6hMGnr2LW7-gjri3Bng8W40RFGXyBjiK4194Dhif_tbf3B5INd_DPid&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://open.spotify.com › artist",
+      "snippet": "British indie electronic band Vessels formed in 2005 after they reshuffled the lineup of their previous outfit,",
+      "snippet_highlighted_words": [
+        "Vessels"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "British indie electronic band Vessels formed in 2005 after they reshuffled the lineup of their previous outfit,",
+          "source_info_link": "https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb",
+          "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjE3X1pZN0xidTNKM3cyLXVPa3BQaEJ4RW5RSFh4bEkzckoxa1ZpZ0tybmpmcGdwMmltZW16VnUzTHdpaFRPS1VOcUxIdV8xVlp3bHhiWWhrdE52c2w2aE1HbnIyTFc3LWdqcmkzQm5nOFc0MFJGR1h5QmppSzQxOTREaGlmX3RiZjNCNUlOZF9EUGlkEgQaAggAGoUDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3wIIABAAGAAgACoeCgZpbmRpYW4VNPSoQBoPaW5kaWFucGFraXN0YW5pMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjE3X1pZN0xidTNKM3cyLXVPa3BQaEJ4RW5RSFh4bEkzckoxa1ZpZ0tybmpmcGdwMmltZW16VnUzTHdpaFRPS1VOcUxIdV8xVlp3bHhiWWhrdE52c2w2aE1HbnIyTFc3LWdqcmkzQm5nOFc0MFJGR1h5QmppSzQxOTREaGlmX3RiZjNCNUlOZF9EUGlkOhg8Yj5WZXNzZWxzPC9iPiB8IFNwb3RpZnlCdkJyaXRpc2ggaW5kaWUgZWxlY3Ryb25pYyBiYW5kIDxiPlZlc3NlbHM8L2I-IGZvcm1lZCBpbiAyMDA1IGFmdGVyIHRoZXkgcmVzaHVmZmxlZCB0aGUgbGluZXVwIG9mIHRoZWlyIHByZXZpb3VzIG91dGZpdCwiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjE3X1pZN0xidTNKM3cyLXVPa3BQaEJ4RW5RSFh4bEkzckoxa1ZpZ0tybmpmcGdwMmltZW16VnUzTHdpaFRPS1VOcUxIdV8xVlp3bHhiWWhrdE52c2w2aE1HbnIyTFc3LWdqcmkzQm5nOFc0MFJGR1h5QmppSzQxOTREaGlmX3RiZjNCNUlOZF9EUGlkEgQaAggAGoUDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3wIIABAAGAAgACoeCgZpbmRpYW4VNPSoQBoPaW5kaWFucGFraXN0YW5pMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjE3X1pZN0xidTNKM3cyLXVPa3BQaEJ4RW5RSFh4bEkzckoxa1ZpZ0tybmpmcGdwMmltZW16VnUzTHdpaFRPS1VOcUxIdV8xVlp3bHhiWWhrdE52c2w2aE1HbnIyTFc3LWdqcmkzQm5nOFc0MFJGR1h5QmppSzQxOTREaGlmX3RiZjNCNUlOZF9EUGlkOhg8Yj5WZXNzZWxzPC9iPiB8IFNwb3RpZnlCdkJyaXRpc2ggaW5kaWUgZWxlY3Ryb25pYyBiYW5kIDxiPlZlc3NlbHM8L2I-IGZvcm1lZCBpbiAyMDA1IGFmdGVyIHRoZXkgcmVzaHVmZmxlZCB0aGUgbGluZXVwIG9mIHRoZWlyIHByZXZpb3VzIG91dGZpdCwiAhABSABYAGgA",
+      "source": "Spotify - Web Player: Music for everyone"
+    },
+    {
+      "position": 3,
+      "title": "Merchant Vessels of the United States - dco.uscg.mil",
+      "link": "https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Office-of-Investigations-Casualty-Analysis/Merchant-Vessels-of-the-United-States/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAIB6zswFVPmhMZ9F_zF25v55835Kb0XuVr-RTpO4PfRsXge4ikH8UFehDu5idHPinSbu2ocVl2e6G7qld_fX5bt57XJIyQA9SvWk0uSDWn93j-ID5OXX2rbEIySvQusCnrkEa-MYCxf3JpVsYhXDHd_Z1yBQ1zRyhDrj68CCjtakhgV1rzk-wOhYUiBHH6IPyz0s9meaH0414JHYV5FKBA80qXD6CWzDmjPMpmSboeRGSBcjp042l9KC7FKLjOqF7NTqaV0Bx7PfUa1xjj2GxZL9F9HyB5kGho6zwOjgHJeZHcHGG5T_-_ERNEGztaKnY7EkIq6VKEEHh_eTRS-siM41VhZ3Q&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.dco.uscg.mil › Our-Organization › Merchan...",
+      "snippet": "Merchant Vessels of the United States is a data file of merchant and recreational vessels documented under the laws of the United States by the U.S. Coast Guard ...",
+      "snippet_highlighted_words": [
+        "Vessels",
+        "vessels"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Merchant Vessels of the United States is a data file of merchant and recreational vessels documented under the laws of the United States by the U.S. Coast Guard ...",
+          "source_info_link": "https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Office-of-Investigations-Casualty-Analysis/Merchant-Vessels-of-the-United-States/",
+          "icon": "https://serpapi.com/images/i/UklGRr4AAABXRUJQVlA4ILIAAACQAgCdASoQABAAAsBMJZACdApgE8X5Jhh-HC-vAAD-wr4EvncbmzVWzpmTUzLfMdCzCKxQ5Uq1wpb66_TJjZZTWjyfJc052p3kzPIr8KHt532sFlpGfUldzjZeczn0XBu_drKYqdf_qfaogiYsluGx1dO8tuHx__12SiIbvF5_RL-TrCp7fh399Dh6dzLJNSwReiobYvmWYVL9wTcLZmPrds1Pd14Ed1n77YmYmMfRAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwCL2dvdG8_dXJsPUNBRVNoQUlCNnpzd0ZWUG1oTVo5Rl96RjI1djU1ODM1S2IwWHVWci1SVHBPNFBmUnNYZ2U0aWtIOFVGZWhEdTVpZEhQaW5TYnUyb2NWbDJlNkc3cWxkX2ZYNWJ0NTdYSkl5UUE5U3ZXazB1U0RXbjkzai1JRDVPWFgycmJFSXlTdlF1c0NucmtFYS1NWUN4ZjNKcFZzWWhYREhkX1oxeUJRMXpSeWhEcmo2OENDanRha2hnVjFyemstd09oWVVpQkhINklQeXowczltZWFIMDQxNEpIWVY1RktCQTgwcVhENkNXekRtalBNcG1TYm9lUkdTQmNqcDA0Mmw5S0M3RktMak9xRjdOVHFhVjBCeDdQZlVhMXhqajJHeFpMOUY5SHlCNWtHaG82endPamdISmVaSGNIR0c1VF8tX0VSTkVHenRhS25ZN0VrSXE2VktFRUhoX2VUUlMtc2lNNDFWaFozURIEGgIIABq0BRICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQI4FCAAQABgAIAAqHgoGaW5kaWFuFfhpj0AaD2luZGlhbnBha2lzdGFuaTLsAi9nb3RvP3VybD1DQUVTaEFJQjZ6c3dGVlBtaE1aOUZfekYyNXY1NTgzNUtiMFh1VnItUlRwTzRQZlJzWGdlNGlrSDhVRmVoRHU1aWRIUGluU2J1Mm9jVmwyZTZHN3FsZF9mWDVidDU3WEpJeVFBOVN2V2swdVNEV245M2otSUQ1T1hYMnJiRUl5U3ZRdXNDbnJrRWEtTVlDeGYzSnBWc1loWERIZF9aMXlCUTF6UnloRHJqNjhDQ2p0YWtoZ1YxcnprLXdPaFlVaUJISDZJUHl6MHM5bWVhSDA0MTRKSFlWNUZLQkE4MHFYRDZDV3pEbWpQTXBtU2JvZVJHU0JjanAwNDJsOUtDN0ZLTGpPcUY3TlRxYVYwQng3UGZVYTF4amoyR3haTDlGOUh5QjVrR2hvNnp3T2pnSEplWkhjSEdHNVRfLV9FUk5FR3p0YUtuWTdFa0lxNlZLRUVIaF9lVFJTLXNpTTQxVmhaM1E6O01lcmNoYW50IDxiPlZlc3NlbHM8L2I-IG9mIHRoZSBVbml0ZWQgU3RhdGVzIC0gZGNvLnVzY2cubWlsQrcBTWVyY2hhbnQgPGI-VmVzc2VsczwvYj4gb2YgdGhlIFVuaXRlZCBTdGF0ZXMgaXMgYSBkYXRhIGZpbGUgb2YgbWVyY2hhbnQgYW5kIHJlY3JlYXRpb25hbCA8Yj52ZXNzZWxzPC9iPiBkb2N1bWVudGVkIHVuZGVyIHRoZSBsYXdzIG9mIHRoZSBVbml0ZWQgU3RhdGVzIGJ5IHRoZSBVLlMuIENvYXN0IEd1YXJkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwCL2dvdG8_dXJsPUNBRVNoQUlCNnpzd0ZWUG1oTVo5Rl96RjI1djU1ODM1S2IwWHVWci1SVHBPNFBmUnNYZ2U0aWtIOFVGZWhEdTVpZEhQaW5TYnUyb2NWbDJlNkc3cWxkX2ZYNWJ0NTdYSkl5UUE5U3ZXazB1U0RXbjkzai1JRDVPWFgycmJFSXlTdlF1c0NucmtFYS1NWUN4ZjNKcFZzWWhYREhkX1oxeUJRMXpSeWhEcmo2OENDanRha2hnVjFyemstd09oWVVpQkhINklQeXowczltZWFIMDQxNEpIWVY1RktCQTgwcVhENkNXekRtalBNcG1TYm9lUkdTQmNqcDA0Mmw5S0M3RktMak9xRjdOVHFhVjBCeDdQZlVhMXhqajJHeFpMOUY5SHlCNWtHaG82endPamdISmVaSGNIR0c1VF8tX0VSTkVHenRhS25ZN0VrSXE2VktFRUhoX2VUUlMtc2lNNDFWaFozURIEGgIIABq0BRICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQI4FCAAQABgAIAAqHgoGaW5kaWFuFfhpj0AaD2luZGlhbnBha2lzdGFuaTLsAi9nb3RvP3VybD1DQUVTaEFJQjZ6c3dGVlBtaE1aOUZfekYyNXY1NTgzNUtiMFh1VnItUlRwTzRQZlJzWGdlNGlrSDhVRmVoRHU1aWRIUGluU2J1Mm9jVmwyZTZHN3FsZF9mWDVidDU3WEpJeVFBOVN2V2swdVNEV245M2otSUQ1T1hYMnJiRUl5U3ZRdXNDbnJrRWEtTVlDeGYzSnBWc1loWERIZF9aMXlCUTF6UnloRHJqNjhDQ2p0YWtoZ1YxcnprLXdPaFlVaUJISDZJUHl6MHM5bWVhSDA0MTRKSFlWNUZLQkE4MHFYRDZDV3pEbWpQTXBtU2JvZVJHU0JjanAwNDJsOUtDN0ZLTGpPcUY3TlRxYVYwQng3UGZVYTF4amoyR3haTDlGOUh5QjVrR2hvNnp3T2pnSEplWkhjSEdHNVRfLV9FUk5FR3p0YUtuWTdFa0lxNlZLRUVIaF9lVFJTLXNpTTQxVmhaM1E6O01lcmNoYW50IDxiPlZlc3NlbHM8L2I-IG9mIHRoZSBVbml0ZWQgU3RhdGVzIC0gZGNvLnVzY2cubWlsQrcBTWVyY2hhbnQgPGI-VmVzc2VsczwvYj4gb2YgdGhlIFVuaXRlZCBTdGF0ZXMgaXMgYSBkYXRhIGZpbGUgb2YgbWVyY2hhbnQgYW5kIHJlY3JlYXRpb25hbCA8Yj52ZXNzZWxzPC9iPiBkb2N1bWVudGVkIHVuZGVyIHRoZSBsYXdzIG9mIHRoZSBVbml0ZWQgU3RhdGVzIGJ5IHRoZSBVLlMuIENvYXN0IEd1YXJkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "United States Coast Guard (.mil)",
+      "read_more_link": "https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/Office-of-Investigations-Casualty-Analysis/Merchant-Vessels-of-the-United-States/#:~:text=Merchant%20Vessels%20of%20the%20United,by%20the%20U.S.%20Coast%20Guard."
+    },
+    {
+      "position": 4,
+      "title": "Vessels (@vessels.band) • Instagram photos and videos",
+      "link": "https://www.instagram.com/vessels.band/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVogFeP4H0KNDsNgF3a2KQGNXE48VQJlwKH_kaMA9K_3UdhcOd0lV1f-WajB1bcxlAVHSPc_greyslindnvuAtyb1SFSDjRfrc5LrYmBFWISgqsy_aMynmY0yw_daszbsd&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECBoQAQ&uoh=1",
+      "displayed_link": "3.2K+ followers",
+      "snippet": "Roll on August 2025... we're playing @arctangentfestival on 16 August 2025. a little mid-October treat",
+      "snippet_highlighted_words": [
+        "2025",
+        "2025"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Roll on August 2025... we're playing @arctangentfestival on 16 August 2025. a little mid-October treat",
+          "source_info_link": "https://www.instagram.com/vessels.band/?hl=en",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm9nRmVQNEgwS05Ec05nRjNhMktRR05YRTQ4VlFKbHdLSF9rYU1BOUtfM1VkaGNPZDBsVjFmLVdhakIxYmN4bEFWSFNQY19ncmV5c2xpbmRudnVBdHliMVNGU0RqUmZyYzVMclltQkZXSVNncXN5X2FNeW5tWTB5d19kYXN6YnNkEgQaAggAGqgDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAggMIABAAGAAgACoeCgZpbmRpYW4VLd-GQBoPaW5kaWFucGFraXN0YW5pMpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm9nRmVQNEgwS05Ec05nRjNhMktRR05YRTQ4VlFKbHdLSF9rYU1BOUtfM1VkaGNPZDBsVjFmLVdhakIxYmN4bEFWSFNQY19ncmV5c2xpbmRudnVBdHliMVNGU0RqUmZyYzVMclltQkZXSVNncXN5X2FNeW5tWTB5d19kYXN6YnNkOkU8Yj5WZXNzZWxzPC9iPiAoQDxiPnZlc3NlbHM8L2I-LmJhbmQpIOKAoiBJbnN0YWdyYW0gcGhvdG9zIGFuZCB2aWRlb3NCeFJvbGwgb24gQXVndXN0IDxiPjIwMjU8L2I-Li4uIHdlJiMzOTtyZSBwbGF5aW5nIEBhcmN0YW5nZW50ZmVzdGl2YWwgb24gMTYgQXVndXN0IDxiPjIwMjU8L2I-LiBhIGxpdHRsZSBtaWQtT2N0b2JlciB0cmVhdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm9nRmVQNEgwS05Ec05nRjNhMktRR05YRTQ4VlFKbHdLSF9rYU1BOUtfM1VkaGNPZDBsVjFmLVdhakIxYmN4bEFWSFNQY19ncmV5c2xpbmRudnVBdHliMVNGU0RqUmZyYzVMclltQkZXSVNncXN5X2FNeW5tWTB5d19kYXN6YnNkEgQaAggAGqgDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAggMIABAAGAAgACoeCgZpbmRpYW4VLd-GQBoPaW5kaWFucGFraXN0YW5pMpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm9nRmVQNEgwS05Ec05nRjNhMktRR05YRTQ4VlFKbHdLSF9rYU1BOUtfM1VkaGNPZDBsVjFmLVdhakIxYmN4bEFWSFNQY19ncmV5c2xpbmRudnVBdHliMVNGU0RqUmZyYzVMclltQkZXSVNncXN5X2FNeW5tWTB5d19kYXN6YnNkOkU8Yj5WZXNzZWxzPC9iPiAoQDxiPnZlc3NlbHM8L2I-LmJhbmQpIOKAoiBJbnN0YWdyYW0gcGhvdG9zIGFuZCB2aWRlb3NCeFJvbGwgb24gQXVndXN0IDxiPjIwMjU8L2I-Li4uIHdlJiMzOTtyZSBwbGF5aW5nIEBhcmN0YW5nZW50ZmVzdGl2YWwgb24gMTYgQXVndXN0IDxiPjIwMjU8L2I-LiBhIGxpdHRsZSBtaWQtT2N0b2JlciB0cmVhdCICEAFIAFgAaAA",
+      "source": "Instagram · vessels.band"
+    },
+    {
+      "position": 5,
+      "title": "Ocean-Going Vessels At Berth Regulation",
+      "link": "http://ww2.arb.ca.gov/our-work/programs/ocean-going-vessels-berth-regulation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFdE78MwsJ24IwhPn8WktDQBFbiB7BcuFzbh_CNRFOApIh_CWfau0Bt7BWF1_yKC8egmC6DDTB_-PPyXh2kcqM19rt2voo6Rji5zwpI9pyOrd2z7DanogEWA9kmY6yWTP0YgEfVjhyZw6ZcGlO5KVEgJlz7Tc0bb1PreNsY6Qdns&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECBkQAQ&uoh=1",
+      "displayed_link": "http://ww2.arb.ca.gov › our-work › programs › ocean-...",
+      "snippet": "At Berth Regulation is to increase emissions reductions from ocean-going vessels. January 1, 2025 Roll-on-roll-off vessels (for visits to all regulated ...",
+      "snippet_highlighted_words": [
+        "vessels",
+        "2025",
+        "vessels"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "At Berth Regulation is to increase emissions reductions from ocean-going vessels. January 1, 2025 Roll-on-roll-off vessels (for visits to all regulated ...",
+          "source_info_link": "http://ww2.arb.ca.gov/our-work/programs/ocean-going-vessels-berth-regulation",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADwBQCdASocABwAPtEutFooIagoGAEAGglqALEM5mpA9w52fFUaF98_mfcdyWgJKdkgywXXh8VKYAD-887odaxe2AOAKNucX2UURBc5wFcaph8740xAB03MLaShwJtNlqv53vLYBEjTHypJPLFMk8fUG4YKTrOOrBKeAXySCZlzX7E8WQPsNhBaGRri_64HBXXVSf6OuxEk3YJEOv_LHstp5C45ZUSO0cUTqzzHoiOBceAAv2_eGSfYftf0_MMwIP3qymYuekjIG7xNgcqIv10_NjXvFVI8LqCuP343GaW5R0lYnngjikHPh21Xywz4dtCvSk5kaVTlqY3G_WWmatEsO_wZexssVT_A-rFCYgEf1k4jFmlIT4WBtPQK37nwF2dqIcHQkStnQAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZkRTc4TXdzSjI0SXdoUG44V2t0RFFCRmJpQjdCY3VGemJoX0NOUkZPQXBJaF9DV2ZhdTBCdDdCV0YxX3lLQzhlZ21DNkREVEJfLVBQeVhoMmtjcU0xOXJ0MnZvbzZSamk1endwSTlweU9yZDJ6N0Rhbm9nRVdBOWttWTZ5V1RQMFlnRWZWamh5Wnc2WmNHbE81S1ZFZ0psejdUYzBiYjFQcmVOc1k2UWRucxIEGgIIABr6AxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQNQDCAAQABgAIAAqHgoGaW5kaWFuFYrvtUAaD2luZGlhbnBha2lzdGFuaTLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGZEU3OE13c0oyNEl3aFBuOFdrdERRQkZiaUI3QmN1RnpiaF9DTlJGT0FwSWhfQ1dmYXUwQnQ3QldGMV95S0M4ZWdtQzZERFRCXy1QUHlYaDJrY3FNMTlydDJ2b282UmppNXp3cEk5cHlPcmQyejdEYW5vZ0VXQTlrbVk2eVdUUDBZZ0VmVmpoeVp3NlpjR2xPNUtWRWdKbHo3VGMwYmIxUHJlTnNZNlFkbnM6Lk9jZWFuLUdvaW5nIDxiPlZlc3NlbHM8L2I-IEF0IEJlcnRoIFJlZ3VsYXRpb25CtQFBdCBCZXJ0aCBSZWd1bGF0aW9uIGlzIHRvIGluY3JlYXNlIGVtaXNzaW9ucyByZWR1Y3Rpb25zIGZyb20gb2NlYW4tZ29pbmcgPGI-dmVzc2VsczwvYj4uIEphbnVhcnkgMSwgPGI-MjAyNTwvYj4gUm9sbC1vbi1yb2xsLW9mZiA8Yj52ZXNzZWxzPC9iPiAoZm9yIHZpc2l0cyB0byBhbGwgcmVndWxhdGVkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZkRTc4TXdzSjI0SXdoUG44V2t0RFFCRmJpQjdCY3VGemJoX0NOUkZPQXBJaF9DV2ZhdTBCdDdCV0YxX3lLQzhlZ21DNkREVEJfLVBQeVhoMmtjcU0xOXJ0MnZvbzZSamk1endwSTlweU9yZDJ6N0Rhbm9nRVdBOWttWTZ5V1RQMFlnRWZWamh5Wnc2WmNHbE81S1ZFZ0psejdUYzBiYjFQcmVOc1k2UWRucxIEGgIIABr6AxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQNQDCAAQABgAIAAqHgoGaW5kaWFuFYrvtUAaD2luZGlhbnBha2lzdGFuaTLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGZEU3OE13c0oyNEl3aFBuOFdrdERRQkZiaUI3QmN1RnpiaF9DTlJGT0FwSWhfQ1dmYXUwQnQ3QldGMV95S0M4ZWdtQzZERFRCXy1QUHlYaDJrY3FNMTlydDJ2b282UmppNXp3cEk5cHlPcmQyejdEYW5vZ0VXQTlrbVk2eVdUUDBZZ0VmVmpoeVp3NlpjR2xPNUtWRWdKbHo3VGMwYmIxUHJlTnNZNlFkbnM6Lk9jZWFuLUdvaW5nIDxiPlZlc3NlbHM8L2I-IEF0IEJlcnRoIFJlZ3VsYXRpb25CtQFBdCBCZXJ0aCBSZWd1bGF0aW9uIGlzIHRvIGluY3JlYXNlIGVtaXNzaW9ucyByZWR1Y3Rpb25zIGZyb20gb2NlYW4tZ29pbmcgPGI-dmVzc2VsczwvYj4uIEphbnVhcnkgMSwgPGI-MjAyNTwvYj4gUm9sbC1vbi1yb2xsLW9mZiA8Yj52ZXNzZWxzPC9iPiAoZm9yIHZpc2l0cyB0byBhbGwgcmVndWxhdGVkJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "California Air Resources Board (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Normalization of Tumor Vessels by Tie2 Activation and ...",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27960088/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVWaJepFq7Adc2Uy3FBM4QqZwpB76DHAcXfYUuJ4_Fay7Hs3EJVe7hXPlUDhIidTq19_yHBv7UT6sljKQTkVei9hQaPGUY4eZYPjuShiiIcwLAshYFfiwhhtdCl6s&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov › ...",
+      "author": "by JS Park",
+      "snippet": "A destabilized tumor vasculature leads to limited drug delivery, hypoxia, detrimental tumor microenvironment, and even metastasis.",
+      "about_this_result": {
+        "source": {
+          "description": "A destabilized tumor vasculature leads to limited drug delivery, hypoxia, detrimental tumor microenvironment, and even metastasis.",
+          "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/27960088/",
+          "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAAAQBgCdASocABwAPtEutFooIagoGAEAGglqAMitAAZ4Jl_dAKyYiryPMWSx2JIZFiNPqeWP8LReWgAA_vQSh8balF9FPssL40xpXuZr-cohY6Dgm-GCPcw9Be2M8Tr4fajRDEe64L6D3425b_KycCBqO3zbdPz_M-o8snUv4Z8hpHcWbDv3llFfvvnqsQ_fr4s4-fhNtGM1R0r2geRp4qx5cmxTSmQ3Adt5msKjZn_khO8pTQ2_Z6XXXuwfx386puZGaUTZCdt7kTO9wFSJBqhaaa9o2SGg_pRUeh5BpEZYsoLnzNOR2o0gq9pzLwLJTMk9WyH-SoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVldhSmVwRnE3QWRjMlV5M0ZCTTRRcVp3cEI3NkRIQWNYZllVdUo0X0ZheTdIczNFSlZlN2hYUGxVRGhJaWRUcTE5X3lIQnY3VVQ2c2xqS1FUa1ZlaTloUWFQR1VZNGVaWVBqdVNoaWlJY3dMQXNoWUZmaXdoaHRkQ2w2cxIEGgIIABquAxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIgDCAAQABgAIAAqHgoGaW5kaWFuFSmkRUAaD2luZGlhbnBha2lzdGFuaTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZXYUplcEZxN0FkYzJVeTNGQk00UXFad3BCNzZESEFjWGZZVXVKNF9GYXk3SHMzRUpWZTdoWFBsVURoSWlkVHExOV95SEJ2N1VUNnNsaktRVGtWZWk5aFFhUEdVWTRlWllQanVTaGlpSWN3TEFzaFlGZml3aGh0ZENsNnM6RU5vcm1hbGl6YXRpb24gb2YgVHVtb3IgPGI-VmVzc2VsczwvYj4gYnkgVGllMiBBY3RpdmF0aW9uIGFuZCBBbmcyIC4uLkKCAUEgZGVzdGFiaWxpemVkIHR1bW9yIHZhc2N1bGF0dXJlIGxlYWRzIHRvIGxpbWl0ZWQgZHJ1ZyBkZWxpdmVyeSwgaHlwb3hpYSwgZGV0cmltZW50YWwgdHVtb3IgbWljcm9lbnZpcm9ubWVudCwgYW5kIGV2ZW4gbWV0YXN0YXNpcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVldhSmVwRnE3QWRjMlV5M0ZCTTRRcVp3cEI3NkRIQWNYZllVdUo0X0ZheTdIczNFSlZlN2hYUGxVRGhJaWRUcTE5X3lIQnY3VVQ2c2xqS1FUa1ZlaTloUWFQR1VZNGVaWVBqdVNoaWlJY3dMQXNoWUZmaXdoaHRkQ2w2cxIEGgIIABquAxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIgDCAAQABgAIAAqHgoGaW5kaWFuFSmkRUAaD2luZGlhbnBha2lzdGFuaTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZXYUplcEZxN0FkYzJVeTNGQk00UXFad3BCNzZESEFjWGZZVXVKNF9GYXk3SHMzRUpWZTdoWFBsVURoSWlkVHExOV95SEJ2N1VUNnNsaktRVGtWZWk5aFFhUEdVWTRlWllQanVTaGlpSWN3TEFzaFlGZml3aGh0ZENsNnM6RU5vcm1hbGl6YXRpb24gb2YgVHVtb3IgPGI-VmVzc2VsczwvYj4gYnkgVGllMiBBY3RpdmF0aW9uIGFuZCBBbmcyIC4uLkKCAUEgZGVzdGFiaWxpemVkIHR1bW9yIHZhc2N1bGF0dXJlIGxlYWRzIHRvIGxpbWl0ZWQgZHJ1ZyBkZWxpdmVyeSwgaHlwb3hpYSwgZGV0cmltZW50YWwgdHVtb3IgbWljcm9lbnZpcm9ubWVudCwgYW5kIGV2ZW4gbWV0YXN0YXNpcy4iAhABSABYAGgA",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Derelict Vessel Inventory and Funding - WA DNR",
+      "link": "https://dnr.wa.gov/aquatics/recovering-derelict-vessels/derelict-vessel-inventory-and-funding",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFUxkJqGyueWMHFsjlHw1DtQJw5c5x0xbawonygm_Tpq6TSZHIpz9PEnT7kjOoXz2oIz_BhfxNxdmdEAb3EYDcOeQcKxWxBKZFZmm2gALxQTGoKl9sr0FwX_J0ujG7fA6ukS3_8-k8A0VeYefgOypXMQBsS0J4aGpF6AtKXborTL2I0wYg8w_WGrNc7x7_RaVFw&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://dnr.wa.gov › aquatics › recovering-derelict-vessels",
+      "snippet": "Washington State's Derelict Vessel Removal Program – 20.6 million (2025-2027 Biennium) $8.1 million. List of vessels that DNR has identified as potentially ...",
+      "snippet_highlighted_words": [
+        "Vessel",
+        "2025",
+        "vessels"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Washington State's Derelict Vessel Removal Program – 20.6 million (2025-2027 Biennium) $8.1 million. List of vessels that DNR has identified as potentially ...",
+          "source_info_link": "https://dnr.wa.gov/aquatics/recovering-derelict-vessels/derelict-vessel-inventory-and-funding",
+          "icon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAACQCACdASogACAAPrkurlcnIacnG_DgFwlsALEehLZnmQTC2_3YpzdawI8EMt8aH0j7BPSM9AD9QCs62YScF0nz-JGLdCYZwISabinNvAD-9-ma38oNXd_UONuKxaAIqBI9OYufIN7tqewvkL3fj1RZeUaAEAe_h_O3jbFrHIQXPEEvPmrv20k3xmiC0IY0DDj2iKTW48AXEWEsifsfY-ZdoUBUhcGlF4lYzOPlH6ObcTXyHcc-Kv_AU5qp58MMO1W71PSI-C_X0d5eoptBmdcSgzGdi8iIeVJjcJ7Kmf1qH9ORE7i7eg_jKZZxcmZAWpa9PfOb5uX-OMbfqsX_qmNsD_CIWrKUWLThiSsUXZ_3FOft_68SkBQBbgWw0HpFhVrQ7a1bFFahwLMO0G9tiOcP1A08-WVNPifrtLP_3VDZrlmuf7ym-4JK3_la90YK2YBvVpboLX0dnRStxD1iwB9mcz1dRWEWLJjpoKRMaMbzpbRXfxCDbj2Zy-_N7FwOaui8HNeWwVqVRS70o9H4QOhTPD5QZiF665Cpl8AyLrvpzGHTGF3AMbZSo3pMPVObUH4VznRaTDC32XQmd7Z92x1TLrsnvBR8pAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZVeGtKcUd5dWVXTUhGc2psSHcxRHRRSnc1YzV4MHhiYXdvbnlnbV9UcHE2VFNaSElwejlQRW5UN2tqT29YejJvSXpfQmhmeE54ZG1kRUFiM0VZRGNPZVFjS3hXeEJLWkZabW0yZ0FMeFFUR29LbDlzcjBGd1hfSjB1akc3ZkE2dWtTM184LWs4QTBWZVllZmdPeXBYTVFCc1MwSjRhR3BGNkF0S1hib3JUTDJJMHdZZzh3X1dHck5jN3g3X1JhVkZ3EgQaAggAGqIEEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA_AMIABAAGAAgACoeCgZpbmRpYW4VgQTfPxoPaW5kaWFucGFraXN0YW5pMtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZVeGtKcUd5dWVXTUhGc2psSHcxRHRRSnc1YzV4MHhiYXdvbnlnbV9UcHE2VFNaSElwejlQRW5UN2tqT29YejJvSXpfQmhmeE54ZG1kRUFiM0VZRGNPZVFjS3hXeEJLWkZabW0yZ0FMeFFUR29LbDlzcjBGd1hfSjB1akc3ZkE2dWtTM184LWs4QTBWZVllZmdPeXBYTVFCc1MwSjRhR3BGNkF0S1hib3JUTDJJMHdZZzh3X1dHck5jN3g3X1JhVkZ3OjVEZXJlbGljdCA8Yj5WZXNzZWw8L2I-IEludmVudG9yeSBhbmQgRnVuZGluZyAtIFdBIEROUkK_AVdhc2hpbmd0b24gU3RhdGUmIzM5O3MgRGVyZWxpY3QgPGI-VmVzc2VsPC9iPiBSZW1vdmFsIFByb2dyYW0g4oCTIDIwLjYgbWlsbGlvbiAoPGI-MjAyNTwvYj4tMjAyNyBCaWVubml1bSkgJDguMSBtaWxsaW9uLiBMaXN0IG9mIDxiPnZlc3NlbHM8L2I-IHRoYXQgRE5SIGhhcyBpZGVudGlmaWVkIGFzIHBvdGVudGlhbGx5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZVeGtKcUd5dWVXTUhGc2psSHcxRHRRSnc1YzV4MHhiYXdvbnlnbV9UcHE2VFNaSElwejlQRW5UN2tqT29YejJvSXpfQmhmeE54ZG1kRUFiM0VZRGNPZVFjS3hXeEJLWkZabW0yZ0FMeFFUR29LbDlzcjBGd1hfSjB1akc3ZkE2dWtTM184LWs4QTBWZVllZmdPeXBYTVFCc1MwSjRhR3BGNkF0S1hib3JUTDJJMHdZZzh3X1dHck5jN3g3X1JhVkZ3EgQaAggAGqIEEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA_AMIABAAGAAgACoeCgZpbmRpYW4VgQTfPxoPaW5kaWFucGFraXN0YW5pMtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZVeGtKcUd5dWVXTUhGc2psSHcxRHRRSnc1YzV4MHhiYXdvbnlnbV9UcHE2VFNaSElwejlQRW5UN2tqT29YejJvSXpfQmhmeE54ZG1kRUFiM0VZRGNPZVFjS3hXeEJLWkZabW0yZ0FMeFFUR29LbDlzcjBGd1hfSjB1akc3ZkE2dWtTM184LWs4QTBWZVllZmdPeXBYTVFCc1MwSjRhR3BGNkF0S1hib3JUTDJJMHdZZzh3X1dHck5jN3g3X1JhVkZ3OjVEZXJlbGljdCA8Yj5WZXNzZWw8L2I-IEludmVudG9yeSBhbmQgRnVuZGluZyAtIFdBIEROUkK_AVdhc2hpbmd0b24gU3RhdGUmIzM5O3MgRGVyZWxpY3QgPGI-VmVzc2VsPC9iPiBSZW1vdmFsIFByb2dyYW0g4oCTIDIwLjYgbWlsbGlvbiAoPGI-MjAyNTwvYj4tMjAyNyBCaWVubml1bSkgJDguMSBtaWxsaW9uLiBMaXN0IG9mIDxiPnZlc3NlbHM8L2I-IHRoYXQgRE5SIGhhcyBpZGVudGlmaWVkIGFzIHBvdGVudGlhbGx5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "WA DNR (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "Vessels",
+      "link": "https://www.youtube.com/watch?v=TJVxwPoHRSM",
+      "displayed_link": "445.5K+ views · 7 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab2becf71b492efbd8fb378/images/JljHa71VnH58AJpjLWBbd5djR1HyqABjQYW8xJWSjJI.jpeg",
+      "snippet": "Provided to YouTube by Universal Music Group Vessels · Philip Glass Koyaanisqatsi ℗ 1983 The Island Def Jam Music Group Released on: ...",
+      "duration": "8:06",
+      "about_this_result": {
+        "source": {
+          "description": "Provided to YouTube by Universal Music Group Vessels · Philip Glass Koyaanisqatsi ℗ 1983 The Island Def Jam Music Group Released on: ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnBGdHg2bk9Bc0VPUTg0WGItVXAtSVhGbmVLazEtYVg0cS1Bb25iU3FxaGlWYlBVdTdvZGNYMndwUkJZYnJVMHVfd2c4ZkpVaTVVbDhlRmloMlhRazlqcTRJSzNzcmhhNURPRnlGdEY3ZmZsS1ZDbUU2Y0x4SUppOHEyRkw0URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnBGdHg2bk9Bc0VPUTg0WGItVXAtSVhGbmVLazEtYVg0cS1Bb25iU3FxaGlWYlBVdTdvZGNYMndwUkJZYnJVMHVfd2c4ZkpVaTVVbDhlRmloMlhRazlqcTRJSzNzcmhhNURPRnlGdEY3ZmZsS1ZDbUU2Y0x4SUppOHEyRkw0URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · Philip Glass - Topic"
+    },
+    {
+      "position": 9,
+      "title": "52.247-64 Preference for Privately Owned U.S.-Flag ...",
+      "link": "https://www.acquisition.gov/far/52.247-64",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVS2HuoQG4HKgW_E4ZGHUO-KrQI6o1G76t26Flp4RmCzVFC5LsCvkzXJrGG7dqV6TnuF0E89RMbuo1SrbwEFAyl-3pfulUKUD9zUzSWn4Obu7CzYwOWMmshaLZVk8&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQFnoECEoQAQ&uoh=1",
+      "displayed_link": "https://www.acquisition.gov › far",
+      "snippet": "As prescribed in 47.507(a), insert the following clause: Preference for Privately Owned U.S.-Flag Commercial Vessels (Nov 2021).",
+      "snippet_highlighted_words": [
+        "Vessels"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "As prescribed in 47.507(a), insert the following clause: Preference for Privately Owned U.S.-Flag Commercial Vessels (Nov 2021).",
+          "source_info_link": "https://www.acquisition.gov/far/52.247-64",
+          "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAACQAgCdASoQABAAAsBMJYwCdH8G6AA0F3WHjGIUYAD--hvVYlq0rYykeZ_DTZafmGXj4RsJsk64Erw7fdPSHInm8yuj7vP0NXPnW4XfNNredmzE-hO2j96MQKJdqCN_ASlmrs1ZXcoWUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVlMySHVvUUc0SEtnV19FNFpHSFVPLUtyUUk2bzFHNzZ0MjZGbHA0Um1DelZGQzVMc0N2a3pYSnJHRzdkcVY2VG51RjBFODlSTWJ1bzFTcmJ3RUZBeWwtM3BmdWxVS1VEOXpVelNXbjRPYnU3Q3pZd09XTW1zaGFMWlZrOBIEGgIIABqkAxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQP4CCAAQABgAIAAqHgoGaW5kaWFuFX74nUAaD2luZGlhbnBha2lzdGFuaTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZTMkh1b1FHNEhLZ1dfRTRaR0hVTy1LclFJNm8xRzc2dDI2RmxwNFJtQ3pWRkM1THNDdmt6WEpyR0c3ZHFWNlRudUYwRTg5Uk1idW8xU3Jid0VGQXlsLTNwZnVsVUtVRDl6VXpTV240T2J1N0N6WXdPV01tc2hhTFpWazg6NjUyLjI0Ny02NCBQcmVmZXJlbmNlIGZvciBQcml2YXRlbHkgT3duZWQgVS5TLi1GbGFnIC4uLkKHAUFzIHByZXNjcmliZWQgaW4gNDcuNTA3KGEpLCBpbnNlcnQgdGhlIGZvbGxvd2luZyBjbGF1c2U6IFByZWZlcmVuY2UgZm9yIFByaXZhdGVseSBPd25lZCBVLlMuLUZsYWcgQ29tbWVyY2lhbCA8Yj5WZXNzZWxzPC9iPiAoTm92IDIwMjEpLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVlMySHVvUUc0SEtnV19FNFpHSFVPLUtyUUk2bzFHNzZ0MjZGbHA0Um1DelZGQzVMc0N2a3pYSnJHRzdkcVY2VG51RjBFODlSTWJ1bzFTcmJ3RUZBeWwtM3BmdWxVS1VEOXpVelNXbjRPYnU3Q3pZd09XTW1zaGFMWlZrOBIEGgIIABqkAxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQP4CCAAQABgAIAAqHgoGaW5kaWFuFX74nUAaD2luZGlhbnBha2lzdGFuaTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZTMkh1b1FHNEhLZ1dfRTRaR0hVTy1LclFJNm8xRzc2dDI2RmxwNFJtQ3pWRkM1THNDdmt6WEpyR0c3ZHFWNlRudUYwRTg5Uk1idW8xU3Jid0VGQXlsLTNwZnVsVUtVRDl6VXpTV240T2J1N0N6WXdPV01tc2hhTFpWazg6NjUyLjI0Ny02NCBQcmVmZXJlbmNlIGZvciBQcml2YXRlbHkgT3duZWQgVS5TLi1GbGFnIC4uLkKHAUFzIHByZXNjcmliZWQgaW4gNDcuNTA3KGEpLCBpbnNlcnQgdGhlIGZvbGxvd2luZyBjbGF1c2U6IFByZWZlcmVuY2UgZm9yIFByaXZhdGVseSBPd25lZCBVLlMuLUZsYWcgQ29tbWVyY2lhbCA8Yj5WZXNzZWxzPC9iPiAoTm92IDIwMjEpLiICEAFIAFgAaAA",
+      "source": "Acquisition.GOV (.gov)",
+      "read_more_link": "https://www.acquisition.gov/far/52.247-64#:~:text=As%20prescribed%20in%2047.507(a)%2C%20insert,U.S.%2DFlag%20Commercial%20Vessels%20(Nov%202021)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Indian pakistani naval vessels collided india 2025 live",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=Indian+pakistani+naval+vessels+collided+india+2025+live&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Indian+pakistani+naval+vessels+collided+india+2025+live"
+    },
+    {
+      "block_position": 1,
+      "query": "Vessel Golf hoodie",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=Vessel+Golf+hoodie&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Vessel+Golf+hoodie"
+    },
+    {
+      "block_position": 1,
+      "query": "Merchant Marine ships list",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=Merchant+Marine+ships+list&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Merchant+Marine+ships+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Vessels band",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=Vessels+band&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Vessels+band"
+    },
+    {
+      "block_position": 1,
+      "query": "VESSEL golf bag 14-way",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=VESSEL+golf+bag+14-way&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=VESSEL+golf+bag+14-way"
+    },
+    {
+      "block_position": 1,
+      "query": "Vessel Golf phone number",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=Vessel+Golf+phone+number&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Vessel+Golf+phone+number"
+    },
+    {
+      "block_position": 1,
+      "query": "Vessel uk",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=Vessel+uk&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Vessel+uk"
+    },
+    {
+      "block_position": 1,
+      "query": "Vessel golf Bags USA",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&q=Vessel+golf+Bags+USA&sa=X&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Vessel+golf+Bags+USA"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&ei=z76yatucA57Ip84P1r2R4QM&start=10&sa=N&sstk=AS6-VmI5wc-3Ueq3bHBZ6dYJic3U7t2ceQChj4074sUHwaYN6oF6K2ylooRS_w5OW9bpxvFB1lzX1QJxWFZBGG9KlN8Mm7LOWRoByw&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ8NMDegQIPRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&ei=z76yatucA57Ip84P1r2R4QM&start=10&sa=N&sstk=AS6-VmI5wc-3Ueq3bHBZ6dYJic3U7t2ceQChj4074sUHwaYN6oF6K2ylooRS_w5OW9bpxvFB1lzX1QJxWFZBGG9KlN8Mm7LOWRoByw&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ8tMDegQIPRAE",
+      "3": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&ei=z76yatucA57Ip84P1r2R4QM&start=20&sa=N&sstk=AS6-VmI5wc-3Ueq3bHBZ6dYJic3U7t2ceQChj4074sUHwaYN6oF6K2ylooRS_w5OW9bpxvFB1lzX1QJxWFZBGG9KlN8Mm7LOWRoByw&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ8tMDegQIPRAG",
+      "4": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&ei=z76yatucA57Ip84P1r2R4QM&start=30&sa=N&sstk=AS6-VmI5wc-3Ueq3bHBZ6dYJic3U7t2ceQChj4074sUHwaYN6oF6K2ylooRS_w5OW9bpxvFB1lzX1QJxWFZBGG9KlN8Mm7LOWRoByw&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ8tMDegQIPRAI",
+      "5": "https://www.google.com/search?q=indian+pakistani+naval+vessels+collided+india+2025&sca_esv=ab3964043a1b023d&sxsrf=APpeQnuCaqb1CHQmR9nKYUsaMGyzhgO5ug:1790099151059&ei=z76yatucA57Ip84P1r2R4QM&start=40&sa=N&sstk=AS6-VmI5wc-3Ueq3bHBZ6dYJic3U7t2ceQChj4074sUHwaYN6oF6K2ylooRS_w5OW9bpxvFB1lzX1QJxWFZBGG9KlN8Mm7LOWRoByw&ved=2ahUKEwibwIuA34KXAxUe5MkDHdZeJDwQ8tMDegQIPRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indian+pakistani+naval+vessels+collided+india+2025&start=40"
+    }
+  }
+}

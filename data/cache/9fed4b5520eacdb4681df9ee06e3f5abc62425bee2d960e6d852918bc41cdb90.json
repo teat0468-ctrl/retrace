@@ -1,0 +1,338 @@
+{
+  "search_metadata": {
+    "id": "6ab36b749c2312b4cf7c1f1b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TSjYjvxgjHeRL3h3aK1eAvKMjC9kAUpQ8JzhT2LCJFo/6ab36b749c2312b4cf7c1f1b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TSjYjvxgjHeRL3h3aK1eAvKMjC9kAUpQ8JzhT2LCJFo/6ab36b749c2312b4cf7c1f1b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/TSjYjvxgjHeRL3h3aK1eAvKMjC9kAUpQ8JzhT2LCJFo/6ab36b749c2312b4cf7c1f1b.json_with_pixel_position",
+    "created_at": "2026-09-23 06:02:28 UTC",
+    "processed_at": "2026-09-23 06:02:28 UTC",
+    "google_url": "https://www.google.com/search?q=growth+government+secretly+manipulated+before%3A2026-01-01&oq=growth+government+secretly+manipulated+before%3A2026-01-01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/TSjYjvxgjHeRL3h3aK1eAvKMjC9kAUpQ8JzhT2LCJFo/6ab36b749c2312b4cf7c1f1b.html",
+    "total_time_taken": 24.93
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "growth government secretly manipulated before:2026-01-01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "growth government secretly manipulated before:2026-01-01",
+    "total_results": 8510000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "pC6Ma3iczVbbcqpIFP2A-Y7xJVEQDRqrqFPdLWp7SUTjqHmxoMEGBToCSjxv8x3zOl81XzMNKiGJmnPOw9R0WUI33Wvvxd7L5Z9_u46__ue3v-woegkbghDHcYkyRl2rRJgn6OHeJ8KSuWFA7G8h2wbEckyF2AHzrMJ-p1QKJFTEguUojrT9rm8IrMmPGylevBYD-RnQQoqgLAw9tFY8wOsqFBYC_1r_XmnySSksWX5pVCmOOnFdcx7XJUmUKqVHQff4BvDfDQ0BFQAKMb-HFzfxHT8CBjkCB1rnlvDxZA57DlCCh7V0hi4g0xQtAcAwOcAvi-egCkHvhAXji4mgfDw-SUKpKCWSMnV-hE2OQzLUDBNd3X2OzwGBh1dPK4PcUxVcGOhDJ0w4eh0MMLCPCx8qprL8rJt8NQ_hl6Aaq9VR62rm_O1MYnjXA1-WuwVGPj2SwijiJ6FgUt65omAE_FIWHGKT9CYIk4ZGT_ci68z7vdp4T_rPT7DpllvUdqW1L31vVUNNIAbf5zLdtMyFvRC_pfOyVL4T7yu1-m2qJBJmUgrzUgK9duVe1Dc1aVDql2D5pCOUvfmsZIebpBcQfs8pnUJ03PGpxkkLwbf1tzevqvkq9I5YfLuEQRY_PaLJh1JnVR1iACnOt0KGm5w7p6PDoBkZemjuJC2WZZdnRrmMsgTzrAZn9f5xTetkGWD4aWM-Jwwx5bS1DD4_UNLl2E4eTvhL7tOjAkkOAz5AVQMnAHRimjBH7YyYmqeo5sM4HCkVxmoMku5n3UONtQMYfpP9JElfA1ksAPO8c3JUQxCD7nW9Xxr4i9-JY-STYD70f1436rxbmQTr2a4vD7u7J3S_8efyVBuK8Q6c1wnzjJ_wHPK_UtLJkXrps8tKSvrmSyXx5sdXHSm9PzpS96AkRC8qKbWkT470eNaR3isJgdGbknrwqiP9vJLQVSXRI9MzSuKOdE5J60tKSh3pvZLsusYd6TVj_U5JmSO9KelXHAn9miOlwrIOl_f2tF3Rizal2oMRpfW1Me_N6Ehd7-sdd1YjomP16Zc2tfSihqeb7u3CMRtQ6kZ783bBF1jDMgsbhQYsjuwbynZW4HuWH91wtQZW5O5vPN13XrauHlnmjWEtWWA1uD7loljmn4LnBkwRdTnqwsl8S_B4_zi7fxnupLVeWXnTzuKFTTe2uVm2aq0prLanWCRWrzl8NZbFDQbREjjleFPrtFaGWBvr-9fn4q65a2I5jLbtO5nugNZujx-cmBhiRwtF3WV4EDENArHmIWuyD8BwNpX_gH1TxT2Q5hMqhhtQdTp82OJ6wQuIwutU9RMdTSlvSDTnYqZgojN-jXkAGWgqLIREX1gh_w9N9PLSIPXqXXlpLk254NFo_6JUq4XQD5Tyv6pTRuU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pC6Ma3iczVbbcqpIFP2A-Y7xJVEQDRqrqFPdLWp7SUTjqHmxoMEGBToCSjxv8x3zOl81XzMNKiGJmnPOw9R0WUI33Wvvxd7L5Z9_u46__ue3v-woegkbghDHcYkyRl2rRJgn6OHeJ8KSuWFA7G8h2wbEckyF2AHzrMJ-p1QKJFTEguUojrT9rm8IrMmPGylevBYD-RnQQoqgLAw9tFY8wOsqFBYC_1r_XmnySSksWX5pVCmOOnFdcx7XJUmUKqVHQff4BvDfDQ0BFQAKMb-HFzfxHT8CBjkCB1rnlvDxZA57DlCCh7V0hi4g0xQtAcAwOcAvi-egCkHvhAXji4mgfDw-SUKpKCWSMnV-hE2OQzLUDBNd3X2OzwGBh1dPK4PcUxVcGOhDJ0w4eh0MMLCPCx8qprL8rJt8NQ_hl6Aaq9VR62rm_O1MYnjXA1-WuwVGPj2SwijiJ6FgUt65omAE_FIWHGKT9CYIk4ZGT_ci68z7vdp4T_rPT7DpllvUdqW1L31vVUNNIAbf5zLdtMyFvRC_pfOyVL4T7yu1-m2qJBJmUgrzUgK9duVe1Dc1aVDql2D5pCOUvfmsZIebpBcQfs8pnUJ03PGpxkkLwbf1tzevqvkq9I5YfLuEQRY_PaLJh1JnVR1iACnOt0KGm5w7p6PDoBkZemjuJC2WZZdnRrmMsgTzrAZn9f5xTetkGWD4aWM-Jwwx5bS1DD4_UNLl2E4eTvhL7tOjAkkOAz5AVQMnAHRimjBH7YyYmqeo5sM4HCkVxmoMku5n3UONtQMYfpP9JElfA1ksAPO8c3JUQxCD7nW9Xxr4i9-JY-STYD70f1436rxbmQTr2a4vD7u7J3S_8efyVBuK8Q6c1wnzjJ_wHPK_UtLJkXrps8tKSvrmSyXx5sdXHSm9PzpS96AkRC8qKbWkT470eNaR3isJgdGbknrwqiP9vJLQVSXRI9MzSuKOdE5J60tKSh3pvZLsusYd6TVj_U5JmSO9KelXHAn9miOlwrIOl_f2tF3Rizal2oMRpfW1Me_N6Ehd7-sdd1YjomP16Zc2tfSihqeb7u3CMRtQ6kZ783bBF1jDMgsbhQYsjuwbynZW4HuWH91wtQZW5O5vPN13XrauHlnmjWEtWWA1uD7loljmn4LnBkwRdTnqwsl8S_B4_zi7fxnupLVeWXnTzuKFTTe2uVm2aq0prLanWCRWrzl8NZbFDQbREjjleFPrtFaGWBvr-9fn4q65a2I5jLbtO5nugNZujx-cmBhiRwtF3WV4EDENArHmIWuyD8BwNpX_gH1TxT2Q5hMqhhtQdTp82OJ6wQuIwutU9RMdTSlvSDTnYqZgojN-jXkAGWgqLIREX1gh_w9N9PLSIPXqXXlpLk254NFo_6JUq4XQD5Tyv6pTRuU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "In Deep: The FBI, the CIA, and the Truth about America's \" ...",
+      "link": "https://www.newamerica.org/insights/deep/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVlDkUOj0u-69Lquq36O2vVlmdstO0F2PabDgbjCkvdtjNQ6izX1TFe0FPER0RC53bpMRUWSq1PNO1AWCrCggXshuwb77YcqLudiFXSvvj_oGSMf5OKKZJEMo1Ze0&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.newamerica.org › insights › deep",
+      "date": "Jan 14, 2020",
+      "snippet": "Three-quarters of Americans believe that a group of unelected government and military officials secretly manipulate or direct national policy in the United ...",
+      "snippet_highlighted_words": [
+        "government",
+        "secretly manipulate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Three-quarters of Americans believe that a group of unelected government and military officials secretly manipulate or direct national policy in the United ...",
+          "source_info_link": "https://www.newamerica.org/insights/deep/",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADwBQCdASocABwAPtEutFooIagoGAEAGglsALsR__SgBgApj_kHQb-8lxOgDDT-ntMiQaOp_lDOAAD-9gJaH6JD8nL73keCdl9MW_PZe6g_AjfFurW6gwtQ_v9DnPMw_mvyt_1ikw3Vzv9S-bylwWc0-CJ3li9fwWwJ7hWotGq5xSEPRZ5nSgd7LHDuCyw6_qvGvf9L4i8HKi-XblTthD_MM5Au_jwccj48TeTyDON1srrXm-1-D1QF7MfnAqeRUPDu-96SjvlNKL8AGCMdFfrEbxer2Jl2oR75Ul_zMxybhb-kC-0DU0XJt-l944TnLMqfgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVmxEa1VPajB1LTY5THF1cTM2TzJ2VmxtZHN0TzBGMlBhYkRnYmpDa3ZkdGpOUTZpelgxVEZlMEZQRVIwUkM1M2JwTVJVV1NxMVBOTzFBV0NyQ2dnWHNodXdiNzdZY3FMdWRpRlhTdnZqX29HU01mNU9LS1pKRU1vMVplMBIEGgIIABq_BRIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCbBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBUEBoY_Ggxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FazZFj8aCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFQAAAAAaCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVmxEa1VPajB1LTY5THF1cTM2TzJ2VmxtZHN0TzBGMlBhYkRnYmpDa3ZkdGpOUTZpelgxVEZlMEZQRVIwUkM1M2JwTVJVV1NxMVBOTzFBV0NyQ2dnWHNodXdiNzdZY3FMdWRpRlhTdnZqX29HU01mNU9LS1pKRU1vMVplMDpASW4gRGVlcDogVGhlIEZCSSwgdGhlIENJQSwgYW5kIHRoZSBUcnV0aCBhYm91dCBBbWVyaWNhJiMzOTtzIC4uLkKyAVRocmVlLXF1YXJ0ZXJzIG9mIEFtZXJpY2FucyBiZWxpZXZlIHRoYXQgYSBncm91cCBvZiB1bmVsZWN0ZWQgPGI-Z292ZXJubWVudDwvYj4gYW5kIG1pbGl0YXJ5IG9mZmljaWFscyA8Yj5zZWNyZXRseSBtYW5pcHVsYXRlPC9iPiBvciBkaXJlY3QgbmF0aW9uYWwgcG9saWN5IGluIHRoZSBVbml0ZWQmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVmxEa1VPajB1LTY5THF1cTM2TzJ2VmxtZHN0TzBGMlBhYkRnYmpDa3ZkdGpOUTZpelgxVEZlMEZQRVIwUkM1M2JwTVJVV1NxMVBOTzFBV0NyQ2dnWHNodXdiNzdZY3FMdWRpRlhTdnZqX29HU01mNU9LS1pKRU1vMVplMBIEGgIIABq_BRIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCbBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBUEBoY_Ggxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FazZFj8aCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFQAAAAAaCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVmxEa1VPajB1LTY5THF1cTM2TzJ2VmxtZHN0TzBGMlBhYkRnYmpDa3ZkdGpOUTZpelgxVEZlMEZQRVIwUkM1M2JwTVJVV1NxMVBOTzFBV0NyQ2dnWHNodXdiNzdZY3FMdWRpRlhTdnZqX29HU01mNU9LS1pKRU1vMVplMDpASW4gRGVlcDogVGhlIEZCSSwgdGhlIENJQSwgYW5kIHRoZSBUcnV0aCBhYm91dCBBbWVyaWNhJiMzOTtzIC4uLkKyAVRocmVlLXF1YXJ0ZXJzIG9mIEFtZXJpY2FucyBiZWxpZXZlIHRoYXQgYSBncm91cCBvZiB1bmVsZWN0ZWQgPGI-Z292ZXJubWVudDwvYj4gYW5kIG1pbGl0YXJ5IG9mZmljaWFscyA8Yj5zZWNyZXRseSBtYW5pcHVsYXRlPC9iPiBvciBkaXJlY3QgbmF0aW9uYWwgcG9saWN5IGluIHRoZSBVbml0ZWQmbmJzcDsuLi4iAhABSABYAGgA",
+      "missing": [
+        "growth"
+      ],
+      "must_include": {
+        "word": "growth",
+        "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&q=%22growth%22+government+secretly+manipulated+before:2026-01-01&sa=X&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ5t4CegQIKxAB"
+      },
+      "source": "New America",
+      "read_more_link": "https://www.newamerica.org/insights/deep/#:~:text=Three%2Dquarters%20of%20Americans%20believe%20that,policy%20in%20the%20United%20States."
+    },
+    {
+      "position": 2,
+      "title": "It's 'not easy to manipulate data', warns former labor ...",
+      "link": "https://www.theguardian.com/us-news/2025/aug/08/trump-labor-statistics-jobs-numbers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFfrbjejQWMymoORBvmerpVdUSLw8ynZdl4kHKRI83wt5L-2h-LGsVNKeXciFCK52lECMoR3KXZPkNMaWbGJr9M_nZELgL1AxH8kpgIfeDi7O051Qu7ajGQO3a02sTIctq3a8zObidrhZ4YSEarw-ngJ5x6rqOMv_1T5YmmOCv0FF3hpIjpd1&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.theguardian.com › us-news › aug › trump-...",
+      "date": "Aug 8, 2025",
+      "snippet": "government statistical agencies were exposed for falsifying data, with profound economic and political consequences.",
+      "snippet_highlighted_words": [
+        "government"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "government statistical agencies were exposed for falsifying data, with profound economic and political consequences.",
+          "source_info_link": "https://www.theguardian.com/us-news/2025/aug/08/trump-labor-statistics-jobs-numbers",
+          "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBQCdASocABwAPtE-tFooIigoFAEAGglmAJ0y3yWP_YIMMTqF2dgphbNqxNSDYKilhEhPUqtQAAD-7pbZSKamBLYQ5IBmGNjRJ5JKVYps-Saq1Tps5dl3F83hYYU6R012lTPPKfXbDfWzApV5rpBTgKJJf7kbSCqDZl7EI5YmO4YT4xGbfZyNc4C5DenXfymfCXRWq_VKeltjuVCLYfqzhF4d1vwxmHP53yPE_h4odBKP5PLQj8BHE62FdWRx0tu2s4-fOAumnTGe5cD-arZENwimfsWj1lGY9YMn-mjOgwX8_pinZuOw-7PIBHccNjjZ58_GM6PBoHc7ry82sgqTP1Ky1vaV__KfNTmoDJk0nQ9tqffT6ypxtwySatf6I_e2L2d4D051ADE02QSmU8_g87yAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZmcmJqZWpRV015bW9PUkJ2bWVycFZkVVNMdzh5blpkbDRrSEtSSTgzd3Q1TC0yaC1MR3NWTktlWGNpRkNLNTJsRUNNb1IzS1haUGtOTWFXYkdKcjlNX25aRUxnTDFBeEg4a3BnSWZlRGk3TzA1MVF1N2FqR1FPM2EwMnNUSWN0cTNhOHpPYmlkcmhaNFlTRWFydy1uZ0o1eDZycU9Ndl8xVDVZbW1PQ3YwRkYzaHBJanBkMRIEGgIIABraBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLQFCAAQABgAIAAqMwoGZ3Jvd3RoFelC8TwaC2RldmVsb3BtZW50GgRncm93Ggdncm93aW5nGghpbmNyZWFzZSosCgpnb3Zlcm5tZW50FZfOhj4aDGdvdmVybm1lbnQncxoLZ292ZXJubWVudHMqOgoIc2VjcmV0bHkVAAAAABoIY292ZXJ0bHkaBnNlY3JldBoNaXY7cDtzZWNyZXRseRoIc2VjdXJpdHkqZwoLbWFuaXB1bGF0ZWQVJJANPRoKbWFuaXB1bGF0ZRoLbWFuaXB1bGF0ZXMaDG1hbmlwdWxhdGluZxoMbWFuaXB1bGF0aW9uGgxtYW5pcHVsYXRpdmUaEGl2O3A7bWFuaXB1bGF0ZWQyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RmZyYmplalFXTXltb09SQnZtZXJwVmRVU0x3OHluWmRsNGtIS1JJODN3dDVMLTJoLUxHc1ZOS2VYY2lGQ0s1MmxFQ01vUjNLWFpQa05NYVdiR0pyOU1fblpFTGdMMUF4SDhrcGdJZmVEaTdPMDUxUXU3YWpHUU8zYTAyc1RJY3RxM2E4ek9iaWRyaFo0WVNFYXJ3LW5nSjV4NnJxT012XzFUNVltbU9DdjBGRjNocElqcGQxOlhJdCYjMzk7cyAmIzM5O25vdCBlYXN5IHRvIDxiPm1hbmlwdWxhdGU8L2I-IGRhdGEmIzM5Oywgd2FybnMgZm9ybWVyIGxhYm9yIHN0YXRpc3RpY3MgLi4uQns8Yj5nb3Zlcm5tZW50PC9iPiBzdGF0aXN0aWNhbCBhZ2VuY2llcyB3ZXJlIGV4cG9zZWQgZm9yIGZhbHNpZnlpbmcgZGF0YSwgd2l0aCBwcm9mb3VuZCBlY29ub21pYyBhbmQgcG9saXRpY2FsIGNvbnNlcXVlbmNlcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZmcmJqZWpRV015bW9PUkJ2bWVycFZkVVNMdzh5blpkbDRrSEtSSTgzd3Q1TC0yaC1MR3NWTktlWGNpRkNLNTJsRUNNb1IzS1haUGtOTWFXYkdKcjlNX25aRUxnTDFBeEg4a3BnSWZlRGk3TzA1MVF1N2FqR1FPM2EwMnNUSWN0cTNhOHpPYmlkcmhaNFlTRWFydy1uZ0o1eDZycU9Ndl8xVDVZbW1PQ3YwRkYzaHBJanBkMRIEGgIIABraBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLQFCAAQABgAIAAqMwoGZ3Jvd3RoFelC8TwaC2RldmVsb3BtZW50GgRncm93Ggdncm93aW5nGghpbmNyZWFzZSosCgpnb3Zlcm5tZW50FZfOhj4aDGdvdmVybm1lbnQncxoLZ292ZXJubWVudHMqOgoIc2VjcmV0bHkVAAAAABoIY292ZXJ0bHkaBnNlY3JldBoNaXY7cDtzZWNyZXRseRoIc2VjdXJpdHkqZwoLbWFuaXB1bGF0ZWQVJJANPRoKbWFuaXB1bGF0ZRoLbWFuaXB1bGF0ZXMaDG1hbmlwdWxhdGluZxoMbWFuaXB1bGF0aW9uGgxtYW5pcHVsYXRpdmUaEGl2O3A7bWFuaXB1bGF0ZWQyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RmZyYmplalFXTXltb09SQnZtZXJwVmRVU0x3OHluWmRsNGtIS1JJODN3dDVMLTJoLUxHc1ZOS2VYY2lGQ0s1MmxFQ01vUjNLWFpQa05NYVdiR0pyOU1fblpFTGdMMUF4SDhrcGdJZmVEaTdPMDUxUXU3YWpHUU8zYTAyc1RJY3RxM2E4ek9iaWRyaFo0WVNFYXJ3LW5nSjV4NnJxT012XzFUNVltbU9DdjBGRjNocElqcGQxOlhJdCYjMzk7cyAmIzM5O25vdCBlYXN5IHRvIDxiPm1hbmlwdWxhdGU8L2I-IGRhdGEmIzM5Oywgd2FybnMgZm9ybWVyIGxhYm9yIHN0YXRpc3RpY3MgLi4uQns8Yj5nb3Zlcm5tZW50PC9iPiBzdGF0aXN0aWNhbCBhZ2VuY2llcyB3ZXJlIGV4cG9zZWQgZm9yIGZhbHNpZnlpbmcgZGF0YSwgd2l0aCBwcm9mb3VuZCBlY29ub21pYyBhbmQgcG9saXRpY2FsIGNvbnNlcXVlbmNlcy4iAhABSABYAGgA",
+      "source": "The Guardian"
+    },
+    {
+      "position": 3,
+      "title": "Can the government's economic books be cooked?",
+      "link": "https://www.marketplace.org/story/2019/07/03/possible-manipulate-government-statistics",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFcqANCI1YRnRN-ZPYGCL2lrFcCcH4dj1NZZG0C11gzbNnjjqZw43l1XCqOBrMGScvXZP5Jk3WeM5llA5DMgRbHGC39p78ZDMSp9earfXz9hu5cfkQ6HXA0-SlIfRofOG3ndqOcyUc-M9Um0S3Uh7zFDbOdr5s22mqJhVyI9sckbXyXOlxraoTwo_&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.marketplace.org › story › 2019/07/03 › po...",
+      "date": "Jul 3, 2019",
+      "snippet": "And there is one documented case of a president — Richard Nixon — trying to secretly manipulate the Bureau of Labor Statistics and “go directly after the data,” ...",
+      "snippet_highlighted_words": [
+        "secretly manipulate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "And there is one documented case of a president — Richard Nixon — trying to secretly manipulate the Bureau of Labor Statistics and “go directly after the data,” ...",
+          "source_info_link": "https://www.marketplace.org/story/2019/07/03/possible-manipulate-government-statistics",
+          "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADwBgCdASocABwAPtEutFooIagoGAEAGglsALEe9mK94CfrqAaEz1Fe8WkQ5ugBvukJhUtWHHB5I_H4V8S3FAAAAP72BdpTn6lo9g9hwAia0028upBgYgm2wRb7JPiDG5P3LxL87Y7cojOLMtG8d8umF7x4pxdmBpUN-TSnecuV53zf0PN0qwrqkJDnAsP9fY2_db5WD_9r2-ODOz8cFlz-pn-RB1Mf_pl_E3BXxh5DylzPtDa8l_uC8xf9su4U3n6xBd_TmA0uFdqB3tD7ci4Ax-wlGT4uVMTX55bs8PwbMdpiwAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZjcUFOQ0kxWVJuUk4tWlBZR0NMMmxyRmNDY0g0ZGoxTlpaRzBDMTFnemJObmpqcVp3NDNsMVhDcU9Cck1HU2N2WFpQNUprM1dlTTVsbEE1RE1nUmJIR0MzOXA3OFpETVNwOWVhcmZYejlodTVjZmtRNkhYQTAtU2xJZlJvZk9HM25kcU9jeVVjLU05VW0wUzNVaDd6RkRiT2RyNXMyMm1xSmhWeUk5c2NrYlh5WE9seHJhb1R3b18SBBoCCAAa_QUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDXBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBUsN3NAGgxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FVnMCT8aCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFVSCNz8aCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZjcUFOQ0kxWVJuUk4tWlBZR0NMMmxyRmNDY0g0ZGoxTlpaRzBDMTFnemJObmpqcVp3NDNsMVhDcU9Cck1HU2N2WFpQNUprM1dlTTVsbEE1RE1nUmJIR0MzOXA3OFpETVNwOWVhcmZYejlodTVjZmtRNkhYQTAtU2xJZlJvZk9HM25kcU9jeVVjLU05VW0wUzNVaDd6RkRiT2RyNXMyMm1xSmhWeUk5c2NrYlh5WE9seHJhb1R3b186OUNhbiB0aGUgPGI-Z292ZXJubWVudCYjMzk7czwvYj4gZWNvbm9taWMgYm9va3MgYmUgY29va2VkP0K4AUFuZCB0aGVyZSBpcyBvbmUgZG9jdW1lbnRlZCBjYXNlIG9mIGEgcHJlc2lkZW50IOKAlCBSaWNoYXJkIE5peG9uIOKAlCB0cnlpbmcgdG8gPGI-c2VjcmV0bHkgbWFuaXB1bGF0ZTwvYj4gdGhlIEJ1cmVhdSBvZiBMYWJvciBTdGF0aXN0aWNzIGFuZCDigJxnbyBkaXJlY3RseSBhZnRlciB0aGUgZGF0YSzigJ0mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZjcUFOQ0kxWVJuUk4tWlBZR0NMMmxyRmNDY0g0ZGoxTlpaRzBDMTFnemJObmpqcVp3NDNsMVhDcU9Cck1HU2N2WFpQNUprM1dlTTVsbEE1RE1nUmJIR0MzOXA3OFpETVNwOWVhcmZYejlodTVjZmtRNkhYQTAtU2xJZlJvZk9HM25kcU9jeVVjLU05VW0wUzNVaDd6RkRiT2RyNXMyMm1xSmhWeUk5c2NrYlh5WE9seHJhb1R3b18SBBoCCAAa_QUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDXBQgAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBUsN3NAGgxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FVnMCT8aCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFVSCNz8aCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZjcUFOQ0kxWVJuUk4tWlBZR0NMMmxyRmNDY0g0ZGoxTlpaRzBDMTFnemJObmpqcVp3NDNsMVhDcU9Cck1HU2N2WFpQNUprM1dlTTVsbEE1RE1nUmJIR0MzOXA3OFpETVNwOWVhcmZYejlodTVjZmtRNkhYQTAtU2xJZlJvZk9HM25kcU9jeVVjLU05VW0wUzNVaDd6RkRiT2RyNXMyMm1xSmhWeUk5c2NrYlh5WE9seHJhb1R3b186OUNhbiB0aGUgPGI-Z292ZXJubWVudCYjMzk7czwvYj4gZWNvbm9taWMgYm9va3MgYmUgY29va2VkP0K4AUFuZCB0aGVyZSBpcyBvbmUgZG9jdW1lbnRlZCBjYXNlIG9mIGEgcHJlc2lkZW50IOKAlCBSaWNoYXJkIE5peG9uIOKAlCB0cnlpbmcgdG8gPGI-c2VjcmV0bHkgbWFuaXB1bGF0ZTwvYj4gdGhlIEJ1cmVhdSBvZiBMYWJvciBTdGF0aXN0aWNzIGFuZCDigJxnbyBkaXJlY3RseSBhZnRlciB0aGUgZGF0YSzigJ0mbmJzcDsuLi4iAhABSABYAGgA",
+      "missing": [
+        "growth"
+      ],
+      "must_include": {
+        "word": "growth",
+        "link": "https://www.google.com/search?sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&q=%22growth%22+government+secretly+manipulated+before:2026-01-01&sa=X&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ5t4CegQIIBAB"
+      },
+      "source": "marketplace.org",
+      "read_more_link": "https://www.marketplace.org/story/2019/07/03/possible-manipulate-government-statistics#:~:text=And%20there%20is%20one%20documented,said%20Princeton%20historian%20Julian%20Zelizer."
+    },
+    {
+      "position": 4,
+      "title": "The Trump Administration Is Using Americans' Sensitive ...",
+      "link": "https://www.americanprogress.org/article/the-trump-administration-is-using-americans-sensitive-data-to-build-a-digital-watchtower/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuwEB6zswFZkCtFwHo3wHwUrDSiTlZU1A9XLUTC3hO4-BZCtrRpRuuvr8tBeoH0EOKubXhFPmrQC5HnS0XyNTky-f-N-JsUsmay86OLJ9wcBH7zglup-NxqgpcZ-oOXbFHplyHg5KQXFslNquK3x944fcKyn2cxprEBKrrzg0_YCs11084b4S83xMdtqws8mQH06WYZ1Kj_PL54AiXGLGZxuqdBQ2_QmrABL_dKX9AED-3XJFIxWA3BNUHjzg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.americanprogress.org › article › the-trump...",
+      "date": "Aug 25, 2025",
+      "snippet": "The Trump administration's abusive efforts to repurpose millions of federal records and funnel them into a centralized government database represent a ...",
+      "snippet_highlighted_words": [
+        "government"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Trump administration's abusive efforts to repurpose millions of federal records and funnel them into a centralized government database represent a ...",
+          "source_info_link": "https://www.americanprogress.org/article/the-trump-administration-is-using-americans-sensitive-data-to-build-a-digital-watchtower/",
+          "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAABQCACdASocABwAPtEutFooIagoGAEAGglqAJ0y3W7RgN6NYADKBPQIsAuFf-Z9KbQwqAfqiMyljlpg1WgcccHNvIaOl68KAvHhoAAA_tfKAh9J9lRmnCYQ_3b9LhdD93nQV1J5gQeMF50l9_evxCVUUU5pX2SU62Qrtuuf0G80oGX3PbIhCU7wFfgeQCbn4e-Xl0D4T9-2mE6DYBq3jwydpY0_p3zDRVkq-zf1wfnz8Mf__EH_fzguN9H4erTnN_beJk2SNF4-_vj_5QvyeBf8_rocRV9FHMBXkDuU1-ImF0ymeGRnc0SDZQPyfu1fxqkvwsl1zsQjxWWHJfIr9wR95u75_-wg-p9__qzhB3_31duzGgc4zOvZQTjGh_G8rJ91U6ktoNeoW_MSN_Zpwu4UNh608Y44EbclG950EcujZ5Fo_YiKBKc6JlF13bWBzU7XNsJARAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zaa0N0RndIbzN3SHdVckRTaVRsWlUxQTlYTFVUQzNoTzQtQlpDdHJScFJ1dXZyOHRCZW9IMEVPS3ViWGhGUG1yUUM1SG5TMFh5TlRreS1mLU4tSnNVc21heTg2T0xKOXdjQkg3emdsdXAtTnhxZ3BjWi1vT1hiRkhwbHlIZzVLUVhGc2xOcXVLM3g5NDRmY0t5bjJjeHByRUJLcnJ6ZzBfWUNzMTEwODRiNFM4M3hNZHRxd3M4bVFIMDZXWVoxS2pfUEw1NEFpWEdMR1p4dXFkQlEyX1FtckFCTF9kS1g5QUVELTNYSkZJeFdBM0JOVUhqemcSBBoCCAAatQYSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCPBggAEAAYACAAKjMKBmdyb3d0aBW3mHM9GgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBXkEpM_Ggxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFc_zFT0aCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zaa0N0RndIbzN3SHdVckRTaVRsWlUxQTlYTFVUQzNoTzQtQlpDdHJScFJ1dXZyOHRCZW9IMEVPS3ViWGhGUG1yUUM1SG5TMFh5TlRreS1mLU4tSnNVc21heTg2T0xKOXdjQkg3emdsdXAtTnhxZ3BjWi1vT1hiRkhwbHlIZzVLUVhGc2xOcXVLM3g5NDRmY0t5bjJjeHByRUJLcnJ6ZzBfWUNzMTEwODRiNFM4M3hNZHRxd3M4bVFIMDZXWVoxS2pfUEw1NEFpWEdMR1p4dXFkQlEyX1FtckFCTF9kS1g5QUVELTNYSkZJeFdBM0JOVUhqemc6Q1RoZSBUcnVtcCBBZG1pbmlzdHJhdGlvbiBJcyBVc2luZyBBbWVyaWNhbnMmIzM5OyBTZW5zaXRpdmUgRGF0YSAuLi5CqgFUaGUgVHJ1bXAgYWRtaW5pc3RyYXRpb24mIzM5O3MgYWJ1c2l2ZSBlZmZvcnRzIHRvIHJlcHVycG9zZSBtaWxsaW9ucyBvZiBmZWRlcmFsIHJlY29yZHMgYW5kIGZ1bm5lbCB0aGVtIGludG8gYSBjZW50cmFsaXplZCA8Yj5nb3Zlcm5tZW50PC9iPiBkYXRhYmFzZSByZXByZXNlbnQgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zaa0N0RndIbzN3SHdVckRTaVRsWlUxQTlYTFVUQzNoTzQtQlpDdHJScFJ1dXZyOHRCZW9IMEVPS3ViWGhGUG1yUUM1SG5TMFh5TlRreS1mLU4tSnNVc21heTg2T0xKOXdjQkg3emdsdXAtTnhxZ3BjWi1vT1hiRkhwbHlIZzVLUVhGc2xOcXVLM3g5NDRmY0t5bjJjeHByRUJLcnJ6ZzBfWUNzMTEwODRiNFM4M3hNZHRxd3M4bVFIMDZXWVoxS2pfUEw1NEFpWEdMR1p4dXFkQlEyX1FtckFCTF9kS1g5QUVELTNYSkZJeFdBM0JOVUhqemcSBBoCCAAatQYSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCPBggAEAAYACAAKjMKBmdyb3d0aBW3mHM9GgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBXkEpM_Ggxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFc_zFT0aCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zaa0N0RndIbzN3SHdVckRTaVRsWlUxQTlYTFVUQzNoTzQtQlpDdHJScFJ1dXZyOHRCZW9IMEVPS3ViWGhGUG1yUUM1SG5TMFh5TlRreS1mLU4tSnNVc21heTg2T0xKOXdjQkg3emdsdXAtTnhxZ3BjWi1vT1hiRkhwbHlIZzVLUVhGc2xOcXVLM3g5NDRmY0t5bjJjeHByRUJLcnJ6ZzBfWUNzMTEwODRiNFM4M3hNZHRxd3M4bVFIMDZXWVoxS2pfUEw1NEFpWEdMR1p4dXFkQlEyX1FtckFCTF9kS1g5QUVELTNYSkZJeFdBM0JOVUhqemc6Q1RoZSBUcnVtcCBBZG1pbmlzdHJhdGlvbiBJcyBVc2luZyBBbWVyaWNhbnMmIzM5OyBTZW5zaXRpdmUgRGF0YSAuLi5CqgFUaGUgVHJ1bXAgYWRtaW5pc3RyYXRpb24mIzM5O3MgYWJ1c2l2ZSBlZmZvcnRzIHRvIHJlcHVycG9zZSBtaWxsaW9ucyBvZiBmZWRlcmFsIHJlY29yZHMgYW5kIGZ1bm5lbCB0aGVtIGludG8gYSBjZW50cmFsaXplZCA8Yj5nb3Zlcm5tZW50PC9iPiBkYXRhYmFzZSByZXByZXNlbnQgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Center for American Progress",
+      "read_more_link": "https://www.americanprogress.org/article/the-trump-administration-is-using-americans-sensitive-data-to-build-a-digital-watchtower/#:~:text=The%20Trump%20administration's%20abusive%20efforts,centralized%20government%20database%20represent%20a"
+    },
+    {
+      "position": 5,
+      "title": "So how manipulated is the economic data really? : r/economy",
+      "link": "https://www.reddit.com/r/economy/comments/18ak7wa/so_how_manipulated_is_the_economic_data_really/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFXm50P0CIzvsf9GPcXU93tXRPM1M-Kebk0Guh5CSBD_2RE1ZYua0QSou_Admc6D4wYhdf0GNyRL7h2rM4NSUBn_d662Tzh6xKtqCwk7lk89nPF4PSk7Q7BBWcKzQbWyoziygkzFkRd5y3Nj9vdEEOgDJiZTE2buWoARS7gmi5ocnHS8GnUmp0mZGPFMniuP4lh7oGS0&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECDwQAQ&uoh=1",
+      "displayed_link": "110+ comments · 2 years ago",
+      "snippet": "The numbers dont add up. We are in the supposedly bestest economy evar - yet a majority of people can barely survive. A majority of people cant afford ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Possibility of inflation manipulation : r/bonds",
+            "link": "https://www.reddit.com/r/bonds/comments/1iqimh4/possibility_of_inflation_manipulation/",
+            "answer_count": 105,
+            "date": "Feb 15, 2025"
+          },
+          {
+            "title": "What is your secret society that manipulates everyone ...",
+            "link": "https://www.reddit.com/r/worldbuilding/comments/lfbr7h/what_is_your_secret_society_that_manipulates/",
+            "answer_count": 18,
+            "date": "Feb 8, 2021"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Biden administration is saying that employment, wages, and job growth are very positive - which is true, but which don't overcome the pain from high ...",
+          "source_info_link": "https://www.reddit.com/r/economy/comments/18ak7wa/so_how_manipulated_is_the_economic_data_really/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYbTUwUDBDSXp2c2Y5R1BjWFU5M3RYUlBNMU0tS2ViazBHdWg1Q1NCRF8yUkUxWll1YTBRU291X0FkbWM2RDR3WWhkZjBHTnlSTDdoMnJNNE5TVUJuX2Q2NjJUemg2eEt0cUN3azdsazg5blBGNFBTazdRN0JCV2NLelFiV3lveml5Z2t6RmtSZDV5M05qOXZkRUVPZ0RKaVpURTJidVdvQVJTN2dtaTVvY25IUzhHblVtcDBtWkdQRk1uaXVQNGxoN29HUzASBBoCCAAahAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4AUIABAAGAAgACozCgZncm93dGgVOEILPhoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKiwKCmdvdmVybm1lbnQVKN0rPhoMZ292ZXJubWVudCdzGgtnb3Zlcm5tZW50cyo6CghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5GghzZWN1cml0eSpnCgttYW5pcHVsYXRlZBWyE-g_GgptYW5pcHVsYXRlGgttYW5pcHVsYXRlcxoMbWFuaXB1bGF0aW5nGgxtYW5pcHVsYXRpb24aDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZDLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGWG01MFAwQ0l6dnNmOUdQY1hVOTN0WFJQTTFNLUtlYmswR3VoNUNTQkRfMlJFMVpZdWEwUVNvdV9BZG1jNkQ0d1loZGYwR055Ukw3aDJyTTROU1VCbl9kNjYyVHpoNnhLdHFDd2s3bGs4OW5QRjRQU2s3UTdCQldjS3pRYld5b3ppeWdrekZrUmQ1eTNOajl2ZEVFT2dESmlaVEUyYnVXb0FSUzdnbWk1b2NuSFM4R25VbXAwbVpHUEZNbml1UDRsaDdvR1MwOj9TbyBob3cgPGI-bWFuaXB1bGF0ZWQ8L2I-IGlzIHRoZSBlY29ub21pYyBkYXRhIHJlYWxseT8gLSBSZWRkaXRCrAFUaGUgQmlkZW4gYWRtaW5pc3RyYXRpb24gaXMgc2F5aW5nIHRoYXQgZW1wbG95bWVudCwgd2FnZXMsIGFuZCBqb2IgPGI-Z3Jvd3RoPC9iPiBhcmUgdmVyeSBwb3NpdGl2ZSAtIHdoaWNoIGlzIHRydWUsIGJ1dCB3aGljaCBkb24mIzM5O3Qgb3ZlcmNvbWUgdGhlIHBhaW4gZnJvbSBoaWdoJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZYbTUwUDBDSXp2c2Y5R1BjWFU5M3RYUlBNMU0tS2ViazBHdWg1Q1NCRF8yUkUxWll1YTBRU291X0FkbWM2RDR3WWhkZjBHTnlSTDdoMnJNNE5TVUJuX2Q2NjJUemg2eEt0cUN3azdsazg5blBGNFBTazdRN0JCV2NLelFiV3lveml5Z2t6RmtSZDV5M05qOXZkRUVPZ0RKaVpURTJidVdvQVJTN2dtaTVvY25IUzhHblVtcDBtWkdQRk1uaXVQNGxoN29HUzASBBoCCAAahAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4AUIABAAGAAgACozCgZncm93dGgVOEILPhoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKiwKCmdvdmVybm1lbnQVKN0rPhoMZ292ZXJubWVudCdzGgtnb3Zlcm5tZW50cyo6CghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5GghzZWN1cml0eSpnCgttYW5pcHVsYXRlZBWyE-g_GgptYW5pcHVsYXRlGgttYW5pcHVsYXRlcxoMbWFuaXB1bGF0aW5nGgxtYW5pcHVsYXRpb24aDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZDLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGWG01MFAwQ0l6dnNmOUdQY1hVOTN0WFJQTTFNLUtlYmswR3VoNUNTQkRfMlJFMVpZdWEwUVNvdV9BZG1jNkQ0d1loZGYwR055Ukw3aDJyTTROU1VCbl9kNjYyVHpoNnhLdHFDd2s3bGs4OW5QRjRQU2s3UTdCQldjS3pRYld5b3ppeWdrekZrUmQ1eTNOajl2ZEVFT2dESmlaVEUyYnVXb0FSUzdnbWk1b2NuSFM4R25VbXAwbVpHUEZNbml1UDRsaDdvR1MwOj9TbyBob3cgPGI-bWFuaXB1bGF0ZWQ8L2I-IGlzIHRoZSBlY29ub21pYyBkYXRhIHJlYWxseT8gLSBSZWRkaXRCrAFUaGUgQmlkZW4gYWRtaW5pc3RyYXRpb24gaXMgc2F5aW5nIHRoYXQgZW1wbG95bWVudCwgd2FnZXMsIGFuZCBqb2IgPGI-Z3Jvd3RoPC9iPiBhcmUgdmVyeSBwb3NpdGl2ZSAtIHdoaWNoIGlzIHRydWUsIGJ1dCB3aGljaCBkb24mIzM5O3Qgb3ZlcmNvbWUgdGhlIHBhaW4gZnJvbSBoaWdoJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Reddit · r/economy"
+    },
+    {
+      "position": 6,
+      "title": "How the American government is trying to control what you ...",
+      "link": "https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFSPOrTmOz7cHrHo1WCKktBq9lToJhCWSRQLl55_K10QBOr_5cJN_zG21ihpJo4phhnSNGGkWL0UzWl9eINyix63DusfJDNV5rZJmrf_dg7Xh3T435nWGc-znxNK5aH9nStwCS2CQop_8jAYV0M5jtc2k43DZvHlesNAw3j6snAL2IPmMmTWPn5CA_c7MqS5n2hB-LUm_aSwliQV2sHWfFSKiz5rhEXK-wLp4T44x7KlBRB2lAcng1MwifbzMdqvyEUg2Iw&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://www.washingtonpost.com › ... › PostEverything",
+      "date": "Sep 24, 2015",
+      "snippet": "Government agencies historically have made a habit of crossing the blurry line between informing the public and propagandizing. Treasury Secretary Alexander ...",
+      "snippet_highlighted_words": [
+        "Government"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Government agencies historically have made a habit of crossing the blurry line between informing the public and propagandizing. Treasury Secretary Alexander ...",
+          "source_info_link": "https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAADwBQCdASocABwAPrkurlcnIacnG_DgFwlpAAzpX3Bc1P9p5M2EejdmcVK-hmqRt6aBL7f5B8qAAAD-9oT--j9D7u9bAZMpl52QLX615NauP6LO0t9vRnarQBjBM7UG_ezyH4-miQGw-0_JGEnvObJrNcCRmj-6r7KqWd_Mx3oPpaR4f_nLlfK_7_Xv-US6XMPa50Ibf5_4TP_7AMnNy7j_nmQIApvVLPCVx8Ptepn_kegnv4oLpM_517I_OR8IW9wFSvS1Wf9LdHyryYfFxl_qa7z-otnP_YJ5vnrpT_KsQYT8PBbjPQpfzFaeehgczdAGYiXiPTY4030OCalH0WnGPuVd2AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZTUE9yVG1PejdjSHJIbzFXQ0trdEJxOWxUb0poQ1dTUlFMbDU1X0sxMFFCT3JfNWNKTl96RzIxaWhwSm80cGhoblNOR0drV0wwVXpXbDllSU55aXg2M0R1c2ZKRE5WNXJaSm1yZl9kZzdYaDNUNDM1bldHYy16bnhOSzVhSDluU3R3Q1MyQ1FvcF84akFZVjBNNWp0YzJrNDNEWnZIbGVzTkF3M2o2c25BTDJJUG1NbVRXUG41Q0FfYzdNcVM1bjJoQi1MVW1fYVN3bGlRVjJzSFdmRlNLaXo1cmhFWEstd0xwNFQ0NHg3S2xCUkIybEFjbmcxTXdpZmJ6TWRxdnlFVWcySXcSBBoCCAAazAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCmBggAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBXLymxAGgxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFQAAAAAaCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZTUE9yVG1PejdjSHJIbzFXQ0trdEJxOWxUb0poQ1dTUlFMbDU1X0sxMFFCT3JfNWNKTl96RzIxaWhwSm80cGhoblNOR0drV0wwVXpXbDllSU55aXg2M0R1c2ZKRE5WNXJaSm1yZl9kZzdYaDNUNDM1bldHYy16bnhOSzVhSDluU3R3Q1MyQ1FvcF84akFZVjBNNWp0YzJrNDNEWnZIbGVzTkF3M2o2c25BTDJJUG1NbVRXUG41Q0FfYzdNcVM1bjJoQi1MVW1fYVN3bGlRVjJzSFdmRlNLaXo1cmhFWEstd0xwNFQ0NHg3S2xCUkIybEFjbmcxTXdpZmJ6TWRxdnlFVWcySXc6RkhvdyB0aGUgQW1lcmljYW4gPGI-Z292ZXJubWVudDwvYj4gaXMgdHJ5aW5nIHRvIGNvbnRyb2wgd2hhdCB5b3UgdGhpbmtCrAE8Yj5Hb3Zlcm5tZW50PC9iPiBhZ2VuY2llcyBoaXN0b3JpY2FsbHkgaGF2ZSBtYWRlIGEgaGFiaXQgb2YgY3Jvc3NpbmcgdGhlIGJsdXJyeSBsaW5lIGJldHdlZW4gaW5mb3JtaW5nIHRoZSBwdWJsaWMgYW5kIHByb3BhZ2FuZGl6aW5nLiBUcmVhc3VyeSBTZWNyZXRhcnkgQWxleGFuZGVyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZTUE9yVG1PejdjSHJIbzFXQ0trdEJxOWxUb0poQ1dTUlFMbDU1X0sxMFFCT3JfNWNKTl96RzIxaWhwSm80cGhoblNOR0drV0wwVXpXbDllSU55aXg2M0R1c2ZKRE5WNXJaSm1yZl9kZzdYaDNUNDM1bldHYy16bnhOSzVhSDluU3R3Q1MyQ1FvcF84akFZVjBNNWp0YzJrNDNEWnZIbGVzTkF3M2o2c25BTDJJUG1NbVRXUG41Q0FfYzdNcVM1bjJoQi1MVW1fYVN3bGlRVjJzSFdmRlNLaXo1cmhFWEstd0xwNFQ0NHg3S2xCUkIybEFjbmcxTXdpZmJ6TWRxdnlFVWcySXcSBBoCCAAazAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCmBggAEAAYACAAKjMKBmdyb3d0aBUAAAAAGgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBXLymxAGgxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFQAAAAAaCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZTUE9yVG1PejdjSHJIbzFXQ0trdEJxOWxUb0poQ1dTUlFMbDU1X0sxMFFCT3JfNWNKTl96RzIxaWhwSm80cGhoblNOR0drV0wwVXpXbDllSU55aXg2M0R1c2ZKRE5WNXJaSm1yZl9kZzdYaDNUNDM1bldHYy16bnhOSzVhSDluU3R3Q1MyQ1FvcF84akFZVjBNNWp0YzJrNDNEWnZIbGVzTkF3M2o2c25BTDJJUG1NbVRXUG41Q0FfYzdNcVM1bjJoQi1MVW1fYVN3bGlRVjJzSFdmRlNLaXo1cmhFWEstd0xwNFQ0NHg3S2xCUkIybEFjbmcxTXdpZmJ6TWRxdnlFVWcySXc6RkhvdyB0aGUgQW1lcmljYW4gPGI-Z292ZXJubWVudDwvYj4gaXMgdHJ5aW5nIHRvIGNvbnRyb2wgd2hhdCB5b3UgdGhpbmtCrAE8Yj5Hb3Zlcm5tZW50PC9iPiBhZ2VuY2llcyBoaXN0b3JpY2FsbHkgaGF2ZSBtYWRlIGEgaGFiaXQgb2YgY3Jvc3NpbmcgdGhlIGJsdXJyeSBsaW5lIGJldHdlZW4gaW5mb3JtaW5nIHRoZSBwdWJsaWMgYW5kIHByb3BhZ2FuZGl6aW5nLiBUcmVhc3VyeSBTZWNyZXRhcnkgQWxleGFuZGVyJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "The Washington Post",
+      "read_more_link": "https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/#:~:text=Government%20agencies%20historically%20have%20made,nation%20into%20a%20commercial%20republic."
+    },
+    {
+      "position": 7,
+      "title": "Made in Beijing: The Plan for Global Market Domination",
+      "link": "https://www.fbi.gov/video-repository/made-in-beijing-030722.mp4/view",
+      "displayed_link": "https://www.fbi.gov · Mar 7, 2022",
+      "thumbnail": "https://serpapi.com/searches/6ab36b749c2312b4cf7c1f1b/images/OwyzRoSCrrMQgW1gTghpwB4VP5Vca33ETdr9-PLaQ8g.jpeg",
+      "snippet": "Experts believe the Chinese Communist Party's goal is to control entire supply chains and manipulate global and domestic market conditions.",
+      "duration": "32:54",
+      "about_this_result": {
+        "source": {
+          "description": "Experts believe the Chinese Communist Party's goal is to control entire supply chains and manipulate global and domestic market conditions.",
+          "icon": "https://serpapi.com/images/i/UklGRu4BAABXRUJQVlA4IOIBAACQCACdASocABwAPrUurVanIacnG_DgFolsAJ0y47YLtkqKrmvipfgaSmYp4uPpj2BelOTuPv1DV7uY8y-_EJKJh2yV3AjzX2pzFXuAAAD--RfBHEAhS4WvgrQfOlsNIHZgGPkssvfXAHxE5fgM443WamsDvcASRhrkbwW_RrPvO9dzOTRjsvpX3ent2USvXJ_Bx5NgM-HOV1X-zNmztQpa21BKMWWsA9SnscMC8yWRb95ObWc9ZuSHKIWcO-CObKysHRTfvqasLC1CwgLk6FGHqw-ABZzzALbSisAP76lU-0tDw-qeekmiSRy-UNtKpZINkgW4Pmcvd4CaH_IrUUo8wfGPEY5BoXs1hEYLOHXUVlAAuZvrnvsSouP6y1y73FXl16OGzAcCHtYMclDjvuT2O9Sr8UN3G3w_NYr56-yHYx9hH46coM2f0sxZr3AQr-iunavOMpWMSpN-nJtABk6ZPq1msYXUq_3ysbiQAETNCfiLJ_2ITbcYYXoHEQrPb32d335a5LjLLb5x0v7n_7_pmRgvO7YHGfaWsAVar3HDSVHRzURenJfL8-KUdwYOirjTbz-Oxqz_qt4wqlaTQrV_Jkto9w9_Vzlrde7ApRwSn1s5pKP-_sMsb3ICRHMNJwAAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlNHdzJwSGJBdEFLMDc3S1FuUmhFTE5kVENSRjRfamg2ZUhENFltUjdYQlplR1pyUC1nd044amJaU01LVmlxa2Iwd0ZKSi0tcTV1bUxxTWVKQzUtemVkNFBtTGNPOFhORzBjdDNPcmk4SDAtUEVpTVJJaFNiRjhhOHJjS3FKemdpQXBnZGJWR2dUZnU3WmVLT2djem5uT0ptTWlEVlRibxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlNHdzJwSGJBdEFLMDc3S1FuUmhFTE5kVENSRjRfamg2ZUhENFltUjdYQlplR1pyUC1nd044amJaU01LVmlxa2Iwd0ZKSi0tcTV1bUxxTWVKQzUtemVkNFBtTGNPOFhORzBjdDNPcmk4SDAtUEVpTVJJaFNiRjhhOHJjS3FKemdpQXBnZGJWR2dUZnU3WmVLT2djem5uT0ptTWlEVlRibxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "FBI · FBI – Federal Bureau of Investigation"
+    },
+    {
+      "position": 8,
+      "title": "The truth behind statistics and data manipulation",
+      "link": "https://www.facebook.com/TurnbullBrockmeyerLawGroup/posts/statistics-are-like-bikinis-what-they-reveal-is-suggestivebut-what-they-conceal-/1087467063419533/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1QEB6zswFfM7uBAlD2IcV5T5ylnLfJJRMYzJNFSOcFqB1Uf5pf5NvK5SNTrY3Y7dzYPNtDANs4CCpLWEVat7A7x3V3bkHTtkgrd8-8_PWdTCafckRDOdPl8jy3ohtCPsMtIhzITTsZjs8Qgfof_oIy2LXixqJYyw51PHGPg35ozMJ2Y5UA_2dp2pqN9lddBaAvkLwzBeHhT51eiVh92rWhrcfcSVm6NNLGSkocNEqRpGW9laduYGAX0hKAWuL4nZGi4l5Ssc3BgHXW3nafc0WMa-Y_5_TmI&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECDkQAQ&uoh=1",
+      "displayed_link": "30+ reactions",
+      "snippet": "The statistics are very intentionally and cynically manipulated to be misused to advocate for growing government programs and dependency.",
+      "snippet_highlighted_words": [
+        "manipulated",
+        "growing government"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The statistics are very intentionally and cynically manipulated to be misused to advocate for growing government programs and dependency.",
+          "source_info_link": "https://www.facebook.com/TurnbullBrockmeyerLawGroup/posts/statistics-are-like-bikinis-what-they-reveal-is-suggestivebut-what-they-conceal-/1087467063419533/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0CL2dvdG8_dXJsPUNBRVMxUUVCNnpzd0ZmTTd1QkFsRDJJY1Y1VDV5bG5MZkpKUk1ZekpORlNPY0ZxQjFVZjVwZjVOdks1U05UclkzWTdkellQTnREQU5zNENDcExXRVZhdDdBN3gzVjNia0hUdGtncmQ4LThfUFdkVENhZmNrUkRPZFBsOGp5M29odENQc010SWh6SVRUc1pqczhRZ2ZvZl9vSXkyTFhpeHFKWXl3NTFQSEdQZzM1b3pNSjJZNVVBXzJkcDJwcU45bGRkQmFBdmtMd3pCZUhoVDUxZWlWaDkycldocmNmY1NWbTZOTkxHU2tvY05FcVJwR1c5bGFkdVlHQVgwaEtBV3VMNG5aR2k0bDVTc2MzQmdIWFczbmFmYzBXTWEtWV81X1RtSRIEGgIIABrDBhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCfBggAEAAYACAAKjMKBmdyb3d0aBXB2ZU-GgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBX061s_Ggxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFU-VoT4aCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMq0CL2dvdG8_dXJsPUNBRVMxUUVCNnpzd0ZmTTd1QkFsRDJJY1Y1VDV5bG5MZkpKUk1ZekpORlNPY0ZxQjFVZjVwZjVOdks1U05UclkzWTdkellQTnREQU5zNENDcExXRVZhdDdBN3gzVjNia0hUdGtncmQ4LThfUFdkVENhZmNrUkRPZFBsOGp5M29odENQc010SWh6SVRUc1pqczhRZ2ZvZl9vSXkyTFhpeHFKWXl3NTFQSEdQZzM1b3pNSjJZNVVBXzJkcDJwcU45bGRkQmFBdmtMd3pCZUhoVDUxZWlWaDkycldocmNmY1NWbTZOTkxHU2tvY05FcVJwR1c5bGFkdVlHQVgwaEtBV3VMNG5aR2k0bDVTc2MzQmdIWFczbmFmYzBXTWEtWV81X1RtSTpDVGhlIHRydXRoIGJlaGluZCBzdGF0aXN0aWNzIGFuZCBkYXRhIDxiPm1hbmlwdWxhdGlvbjwvYj4gLSBGYWNlYm9va0KXAVRoZSBzdGF0aXN0aWNzIGFyZSB2ZXJ5IGludGVudGlvbmFsbHkgYW5kIGN5bmljYWxseSA8Yj5tYW5pcHVsYXRlZDwvYj4gdG8gYmUgbWlzdXNlZCB0byBhZHZvY2F0ZSBmb3IgPGI-Z3Jvd2luZyBnb3Zlcm5tZW50PC9iPiBwcm9ncmFtcyBhbmQgZGVwZW5kZW5jeS4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0CL2dvdG8_dXJsPUNBRVMxUUVCNnpzd0ZmTTd1QkFsRDJJY1Y1VDV5bG5MZkpKUk1ZekpORlNPY0ZxQjFVZjVwZjVOdks1U05UclkzWTdkellQTnREQU5zNENDcExXRVZhdDdBN3gzVjNia0hUdGtncmQ4LThfUFdkVENhZmNrUkRPZFBsOGp5M29odENQc010SWh6SVRUc1pqczhRZ2ZvZl9vSXkyTFhpeHFKWXl3NTFQSEdQZzM1b3pNSjJZNVVBXzJkcDJwcU45bGRkQmFBdmtMd3pCZUhoVDUxZWlWaDkycldocmNmY1NWbTZOTkxHU2tvY05FcVJwR1c5bGFkdVlHQVgwaEtBV3VMNG5aR2k0bDVTc2MzQmdIWFczbmFmYzBXTWEtWV81X1RtSRIEGgIIABrDBhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCfBggAEAAYACAAKjMKBmdyb3d0aBXB2ZU-GgtkZXZlbG9wbWVudBoEZ3JvdxoHZ3Jvd2luZxoIaW5jcmVhc2UqLAoKZ292ZXJubWVudBX061s_Ggxnb3Zlcm5tZW50J3MaC2dvdmVybm1lbnRzKjoKCHNlY3JldGx5FQAAAAAaCGNvdmVydGx5GgZzZWNyZXQaDWl2O3A7c2VjcmV0bHkaCHNlY3VyaXR5KmcKC21hbmlwdWxhdGVkFU-VoT4aCm1hbmlwdWxhdGUaC21hbmlwdWxhdGVzGgxtYW5pcHVsYXRpbmcaDG1hbmlwdWxhdGlvbhoMbWFuaXB1bGF0aXZlGhBpdjtwO21hbmlwdWxhdGVkMq0CL2dvdG8_dXJsPUNBRVMxUUVCNnpzd0ZmTTd1QkFsRDJJY1Y1VDV5bG5MZkpKUk1ZekpORlNPY0ZxQjFVZjVwZjVOdks1U05UclkzWTdkellQTnREQU5zNENDcExXRVZhdDdBN3gzVjNia0hUdGtncmQ4LThfUFdkVENhZmNrUkRPZFBsOGp5M29odENQc010SWh6SVRUc1pqczhRZ2ZvZl9vSXkyTFhpeHFKWXl3NTFQSEdQZzM1b3pNSjJZNVVBXzJkcDJwcU45bGRkQmFBdmtMd3pCZUhoVDUxZWlWaDkycldocmNmY1NWbTZOTkxHU2tvY05FcVJwR1c5bGFkdVlHQVgwaEtBV3VMNG5aR2k0bDVTc2MzQmdIWFczbmFmYzBXTWEtWV81X1RtSTpDVGhlIHRydXRoIGJlaGluZCBzdGF0aXN0aWNzIGFuZCBkYXRhIDxiPm1hbmlwdWxhdGlvbjwvYj4gLSBGYWNlYm9va0KXAVRoZSBzdGF0aXN0aWNzIGFyZSB2ZXJ5IGludGVudGlvbmFsbHkgYW5kIGN5bmljYWxseSA8Yj5tYW5pcHVsYXRlZDwvYj4gdG8gYmUgbWlzdXNlZCB0byBhZHZvY2F0ZSBmb3IgPGI-Z3Jvd2luZyBnb3Zlcm5tZW50PC9iPiBwcm9ncmFtcyBhbmQgZGVwZW5kZW5jeS4iAhABSABYAGgA",
+      "source": "Facebook · Turnbull Brockmeyer Law Group"
+    },
+    {
+      "position": 9,
+      "title": "How “Manipulation Armies” Are Undermining Democracies",
+      "link": "https://www.psychologytoday.com/us/blog/side-effects/201711/how-manipulation-armies-are-undermining-democracies",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFdL6gaWeU5zbfyJeKndwtsG49egBzPwPSXZMFWA7zFInz1M3qav0lzjhTAtkVsPW2OYEdVgWJDMZU1FiGN31fK0P07WUL1PgR3PdLrJuPT9rGfuR5t54njURMFS696WemhvU2MhQZzbPgqa4m4YkxRMvuFiyJgymGmSLF-jJ2S__wD-pYUXz3kZnvs-OzrAuXLI7ttW27BolGlCwXVoIBc-UJQ&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.psychologytoday.com › blog › side-effects",
+      "date": "Nov 18, 2017",
+      "snippet": "Today, powered by secret algorithms and psychographic profiling, offshore troll farms and unscrupulous political actors, they are better known as “manipulation ...",
+      "snippet_highlighted_words": [
+        "secret",
+        "manipulation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Today, powered by secret algorithms and psychographic profiling, offshore troll farms and unscrupulous political actors, they are better known as “\nmanipulation ...",
+          "source_info_link": "https://www.psychologytoday.com/us/blog/side-effects/201711/how-manipulation-armies-are-undermining-democracies",
+          "icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0y44KncA6VwiNw36ddeBD_DmU_frSGeohwAADs8-o-RCggPRBbw6_7Xo_9wO-gcQ6UVvu6MzEHfOi2ABwJ0_zNhq6K8x6s2WrHrwUXg5y-h2U-cd2h2bB46gFS4UvpCT2_XcCedH6MBVlt2KtMykHuI58vxcGk88SokvDdhaOri8TFOfhQ3L-9MkdgY0DnTxv9YOt9fDIkRSvnx3Fh4cPNtjgue9OeuNS7YGTsUG4g8cxH-Kkzrk5h-Jn4swgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZkTDZnYVdlVTV6YmZ5SmVLbmR3dHNHNDllZ0J6UHdQU1haTUZXQTd6RkluejFNM3FhdjBsempoVEF0a1ZzUFcyT1lFZFZnV0pETVpVMUZpR04zMWZLMFAwN1dVTDFQZ1IzUGRMckp1UFQ5ckdmdVI1dDU0bmpVUk1GUzY5NldlbWh2VTJNaFFaemJQZ3FhNG00WWt4Uk12dUZpeUpneW1HbVNMRi1qSjJTX193RC1wWVVYejNrWm52cy1PenJBdVhMSTd0dFcyN0JvbEdsQ3dYVm9JQmMtVUpREgQaAggAGqYGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgAYIABAAGAAgACozCgZncm93dGgVHsSHOhoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKiwKCmdvdmVybm1lbnQVbccQPhoMZ292ZXJubWVudCdzGgtnb3Zlcm5tZW50cyo6CghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5GghzZWN1cml0eSpnCgttYW5pcHVsYXRlZBUAAAAAGgptYW5pcHVsYXRlGgttYW5pcHVsYXRlcxoMbWFuaXB1bGF0aW5nGgxtYW5pcHVsYXRpb24aDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZDLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGZEw2Z2FXZVU1emJmeUplS25kd3RzRzQ5ZWdCelB3UFNYWk1GV0E3ekZJbnoxTTNxYXYwbHpqaFRBdGtWc1BXMk9ZRWRWZ1dKRE1aVTFGaUdOMzFmSzBQMDdXVUwxUGdSM1BkTHJKdVBUOXJHZnVSNXQ1NG5qVVJNRlM2OTZXZW1odlUyTWhRWnpiUGdxYTRtNFlreFJNdnVGaXlKZ3ltR21TTEYtakoyU19fd0QtcFlVWHoza1pudnMtT3pyQXVYTEk3dHRXMjdCb2xHbEN3WFZvSUJjLVVKUTpASG93IOKAnDxiPk1hbmlwdWxhdGlvbjwvYj4gQXJtaWVz4oCdIEFyZSBVbmRlcm1pbmluZyBEZW1vY3JhY2llc0K4AVRvZGF5LCBwb3dlcmVkIGJ5IDxiPnNlY3JldDwvYj4gYWxnb3JpdGhtcyBhbmQgcHN5Y2hvZ3JhcGhpYyBwcm9maWxpbmcsIG9mZnNob3JlIHRyb2xsIGZhcm1zIGFuZCB1bnNjcnVwdWxvdXMgcG9saXRpY2FsIGFjdG9ycywgdGhleSBhcmUgYmV0dGVyIGtub3duIGFzIOKAnDxiPm1hbmlwdWxhdGlvbjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZkTDZnYVdlVTV6YmZ5SmVLbmR3dHNHNDllZ0J6UHdQU1haTUZXQTd6RkluejFNM3FhdjBsempoVEF0a1ZzUFcyT1lFZFZnV0pETVpVMUZpR04zMWZLMFAwN1dVTDFQZ1IzUGRMckp1UFQ5ckdmdVI1dDU0bmpVUk1GUzY5NldlbWh2VTJNaFFaemJQZ3FhNG00WWt4Uk12dUZpeUpneW1HbVNMRi1qSjJTX193RC1wWVVYejNrWm52cy1PenJBdVhMSTd0dFcyN0JvbEdsQ3dYVm9JQmMtVUpREgQaAggAGqYGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgAYIABAAGAAgACozCgZncm93dGgVHsSHOhoLZGV2ZWxvcG1lbnQaBGdyb3caB2dyb3dpbmcaCGluY3JlYXNlKiwKCmdvdmVybm1lbnQVbccQPhoMZ292ZXJubWVudCdzGgtnb3Zlcm5tZW50cyo6CghzZWNyZXRseRUAAAAAGghjb3ZlcnRseRoGc2VjcmV0Gg1pdjtwO3NlY3JldGx5GghzZWN1cml0eSpnCgttYW5pcHVsYXRlZBUAAAAAGgptYW5pcHVsYXRlGgttYW5pcHVsYXRlcxoMbWFuaXB1bGF0aW5nGgxtYW5pcHVsYXRpb24aDG1hbmlwdWxhdGl2ZRoQaXY7cDttYW5pcHVsYXRlZDLwAS9nb3RvP3VybD1DQUVTcHdFQjZ6c3dGZEw2Z2FXZVU1emJmeUplS25kd3RzRzQ5ZWdCelB3UFNYWk1GV0E3ekZJbnoxTTNxYXYwbHpqaFRBdGtWc1BXMk9ZRWRWZ1dKRE1aVTFGaUdOMzFmSzBQMDdXVUwxUGdSM1BkTHJKdVBUOXJHZnVSNXQ1NG5qVVJNRlM2OTZXZW1odlUyTWhRWnpiUGdxYTRtNFlreFJNdnVGaXlKZ3ltR21TTEYtakoyU19fd0QtcFlVWHoza1pudnMtT3pyQXVYTEk3dHRXMjdCb2xHbEN3WFZvSUJjLVVKUTpASG93IOKAnDxiPk1hbmlwdWxhdGlvbjwvYj4gQXJtaWVz4oCdIEFyZSBVbmRlcm1pbmluZyBEZW1vY3JhY2llc0K4AVRvZGF5LCBwb3dlcmVkIGJ5IDxiPnNlY3JldDwvYj4gYWxnb3JpdGhtcyBhbmQgcHN5Y2hvZ3JhcGhpYyBwcm9maWxpbmcsIG9mZnNob3JlIHRyb2xsIGZhcm1zIGFuZCB1bnNjcnVwdWxvdXMgcG9saXRpY2FsIGFjdG9ycywgdGhleSBhcmUgYmV0dGVyIGtub3duIGFzIOKAnDxiPm1hbmlwdWxhdGlvbjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Psychology Today",
+      "read_more_link": "https://www.psychologytoday.com/us/blog/side-effects/201711/how-manipulation-armies-are-undermining-democracies#:~:text=Today%2C%20powered%20by%20secret%20algorithms,undermining%20democracies%20the%20world%20over."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=10&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8NMDegQILBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=10&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAE",
+      "3": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=20&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAG",
+      "4": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=30&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAI",
+      "5": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=40&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAK",
+      "6": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=50&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAM",
+      "7": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=60&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAO",
+      "8": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=70&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAQ",
+      "9": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=80&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAS",
+      "10": "https://www.google.com/search?q=growth+government+secretly+manipulated+before:2026-01-01&sca_esv=3ca1fbc8451fdfd6&sxsrf=APpeQntgBavbVn-itX35h5Rx4WzRZ3cYHA:1790143371007&ei=i2uzaqcB76Oq2w_x-r6ZAg&start=90&sa=N&sstk=AS6-VmJQsA_yJcPkY_LUkf2l9Ji53LE86ZNCP3eGK2u9pOuz5k8SKiRQaotG_ELX7-PbLXlQJNHeG8aG8dHtmh4jVN55k5ZbYnUuYg&ved=2ahUKEwjn8ubdg4SXAxXvkWoFHXG9LyMQ8tMDegQILBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=growth+government+secretly+manipulated+before%3A2026-01-01&start=90"
+    }
+  }
+}

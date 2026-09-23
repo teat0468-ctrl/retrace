@@ -1,0 +1,109 @@
+{
+  "search_metadata": {
+    "id": "6ab3665fc83b3fa963f6b21a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fSm4WeKqts_BBtjYcqeAk7y19CdNuJZY99kGOw7CdDk/6ab3665fc83b3fa963f6b21a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/fSm4WeKqts_BBtjYcqeAk7y19CdNuJZY99kGOw7CdDk/6ab3665fc83b3fa963f6b21a.md",
+    "created_at": "2026-09-23 05:40:47 UTC",
+    "processed_at": "2026-09-23 05:40:47 UTC",
+    "google_news_url": "https://news.google.com/search?q=The+Tata+Sons%E2%80%93Tata+Trusts+dispute+is+escalating%2C+with+newly+appointed+board+members+and+legal+teams+now+clashing+over+the+company%27s+leadership+and+governance",
+    "raw_html_file": "https://serpapi.com/searches/fSm4WeKqts_BBtjYcqeAk7y19CdNuJZY99kGOw7CdDk/6ab3665fc83b3fa963f6b21a.html",
+    "total_time_taken": 5.75
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "The Tata Sons–Tata Trusts dispute is escalating, with newly appointed board members and legal teams now clashing over the company's leadership and governance"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Chair of India's Tata to step down after tension with controlling charity",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditya Kalra",
+          "Chandini Monnappa"
+        ]
+      },
+      "link": "https://www.reuters.com/world/india/indias-tata-sons-chairman-chandrasekaran-may-step-down-ahead-shareholder-meeting-2026-08-12/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/B3WIZ2AZYNKYPK4OS5YIKZBBWI.jpg?auth=4c725cc842e04706dc1119a27cd3c05cd9ebcda053c7c94b7e48eefb738ac3ab&width=1080&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtSSE5DTkdKRlZqZ3plRzF6VFJETEF4aWRCU2dLTWdtcFpJQ1FUYUo3Q3dJ",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Standoff with Noel Tata: What led to N Chandrasekaran’s exit as Tata Sons chairman",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/standoff-with-noel-tata-what-led-to-n-chandrasekarans-exit-as-tata-sons-chairman/articleshow/133174654.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133174871,width-1280,height-720,imgsize-356844,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlPRFIzWlRnM1NGSlBURlZyVFJDZkF4ampCU2dLTWdhcEZaRE5FUW8",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Why Tata Sons and Tata Trusts Are Heading for a Legal Showdown",
+      "source": {
+        "name": "Dynamite News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dynamitenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dynamitenews.com/business/why-tata-sons-and-tata-trusts-are-heading-for-a-legal-showdown",
+      "thumbnail": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/09/Untitled-design-84.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlkRzlwVjFGbmVXdEVXVlpvVFJDZkF4ampCU2dLTWdZRk1JeWtIZ1k",
+      "date": "09/21/2026, 08:29 AM, +0000 UTC",
+      "iso_date": "2026-09-21T08:29:41Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "search_metadata": {
+    "id": "6ab368484c437f6d9ba4ce50",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7LsAeoAFA26Wdg24SQIQiq03oMmSkIXQE2XEGRErjiE/6ab368484c437f6d9ba4ce50.json",
+    "markdown_endpoint": "https://serpapi.com/searches/7LsAeoAFA26Wdg24SQIQiq03oMmSkIXQE2XEGRErjiE/6ab368484c437f6d9ba4ce50.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7LsAeoAFA26Wdg24SQIQiq03oMmSkIXQE2XEGRErjiE/6ab368484c437f6d9ba4ce50.json_with_pixel_position",
+    "created_at": "2026-09-23 05:48:56 UTC",
+    "processed_at": "2026-09-23 05:48:56 UTC",
+    "google_url": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&oq=tata+sons+trusts+dispute+escalating+newly+2025&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7LsAeoAFA26Wdg24SQIQiq03oMmSkIXQE2XEGRErjiE/6ab368484c437f6d9ba4ce50.html",
+    "total_time_taken": 0.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "tata sons trusts dispute escalating newly 2025",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "tata sons trusts dispute escalating newly 2025",
+    "total_results": 157000,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Tata Group Faces A High-Profile Battle For Control",
+      "link": "https://www.youtube.com/watch?v=rNdnHiuyzEg",
+      "thumbnail": "https://serpapi.com/searches/6ab368484c437f6d9ba4ce50/images/t_Q0T2TQTyYzTPTybQo7fOt2hBvt-C0MgRTZEyRfYiw.jpeg",
+      "channel": "CNBC-TV18",
+      "duration": "18:31",
+      "platform": "YouTube",
+      "date": "2 days ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRec4Ciz6oTOvNaTKic-kFXz_VAJ0ChdISZBQ"
+    },
+    {
+      "position": 2,
+      "title": "Noel Tata, Chandrasekaran | Harish Salve | Abhishek Singhvi",
+      "link": "https://www.youtube.com/watch?v=eUc-FeGF9Mw",
+      "thumbnail": "https://serpapi.com/searches/6ab368484c437f6d9ba4ce50/images/bx_hwGEkN7htzgH75MoFdtHMyAOzkIJSGzF66Utgbnc.jpeg",
+      "channel": "NEWS9 Live",
+      "duration": "9:22",
+      "platform": "YouTube",
+      "date": "1 day ago",
+      "snippet": "The dispute centers on N. Chandrasekaran's chairmanship, Tata Sons' potential stock market listing, and Tata Trusts' special rights."
+    },
+    {
+      "position": 3,
+      "title": "Noel Tata, Tata Trusts & Board Face-Off Explained",
+      "link": "https://www.youtube.com/watch?v=6Ag-x88bDK0",
+      "thumbnail": "https://serpapi.com/searches/6ab368484c437f6d9ba4ce50/images/Zp352oczqAs0CbcVHfw88FBLT05-Qkb6EP7KB2QeuLc.jpeg",
+      "channel": "Business Today",
+      "duration": "1:32",
+      "platform": "YouTube",
+      "date": "2 days ago",
+      "snippet": "The Tata Sons boardroom tussle could move to court as Tata Trust prepares to challenge the board's decision to reappoint the chairman."
+    },
+    {
+      "position": 4,
+      "title": "Top Legal Eagles Flock To Tata Sons & Tata Trusts As ...",
+      "link": "https://www.youtube.com/watch?v=kd_4b98pPyc",
+      "thumbnail": "https://serpapi.com/searches/6ab368484c437f6d9ba4ce50/images/AOrI-SeuwpzDGKFq2oHV-bey0GZqKj-zNeD_iRJ1Tj4.jpeg",
+      "channel": "Business Today",
+      "duration": "4:51",
+      "platform": "YouTube",
+      "date": "1 day ago",
+      "snippet": "Tata Trusts and Tata Sons are headed to court over a boardroom clash, with legal eagles lining up for a protracted battle.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFXq83rnLa9PMzwELgZE7nm6i4WKg5OYX0AQ"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the latest news on Tata Sons?",
+      "type": "ai_overview",
+      "page_token": "Jrui0HicHZBLboJAAEDTy7hUGAqNJqYJlVFQsDPMB9g0MIOiDDD-lV3v0lP1NDVdvtV7ed8_atfWvy_X6nzWp8lodLvdhtuu26pyKLpmlJ8erRiJXKkiF_XEeXPM942Yehff_Tj4LqJasxk2YmAyxDw7bt1LyfWCKE1ELUPauiFmMJLQXWMDGtKwkfSyRcrtOzLUMjLUjhreg7aKxlTb2SxY05btSL-1CFQZasZYKlxJEhxzpgNiuU4BAodYES893TOgM0Rv90JVaTSXn9TAVLR-n5LAz2GUIBYAWmfHYqFyyuFaPLlM4CGkcp8As8-4xqukIikI7XBWwXBuLvlcWd7TiIFy0oSlsmZ3DIVJmjESPAAImG7kdjtEcS_2qmHeWDOO62fHa6lwHDV-X9Q2X3ETYBN2McNzigYbcZ1ag_-f069Nc57oY7f9A9jLgRE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jrui0HicHZBLboJAAEDTy7hUGAqNJqYJlVFQsDPMB9g0MIOiDDD-lV3v0lP1NDVdvtV7ed8_atfWvy_X6nzWp8lodLvdhtuu26pyKLpmlJ8erRiJXKkiF_XEeXPM942Yehff_Tj4LqJasxk2YmAyxDw7bt1LyfWCKE1ELUPauiFmMJLQXWMDGtKwkfSyRcrtOzLUMjLUjhreg7aKxlTb2SxY05btSL-1CFQZasZYKlxJEhxzpgNiuU4BAodYES893TOgM0Rv90JVaTSXn9TAVLR-n5LAz2GUIBYAWmfHYqFyyuFaPLlM4CGkcp8As8-4xqukIikI7XBWwXBuLvlcWd7TiIFy0oSlsmZ3DIVJmjESPAAImG7kdjtEcS_2qmHeWDOO62fHa6lwHDV-X9Q2X3ETYBN2McNzigYbcZ1ag_-f069Nc57oY7f9A9jLgRE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXRlc3QgbmV3cyBvbiBUYXRhIFNvbnM/IiwibGsiOiJHaGhzWVhSbGMzUWdibVYzY3lCdlppQjBZWFJoSUhOdmJuTSIsImJzIjoiYzIyUFBRdkNRQkJFc2IzS1VnNDA0MGYtZ0VYYUlHSWhsZ1pTbjNybURzSXRaRGZjM3plSlNDS2tucmR2WnRWWnBhVXpBczhRWjFFYnNTd0lOaklvb0RCaWNLZkEtVkhyMVZfNGh2UWhkNkU2cVUzcENFOEswbEROeUxLMEJ5YlhpVjdIR1dKVTNOUi11c016dHhiUmlfdGFpcVpsNlR3SHZZdnoyS0NTQVZNWGhTdVA5YWpJaHdwQ2VIUWZlaGI3eW85Ym5mU1MzNEFaWnJuNEFBIiwiaWQiOiJmY19TR2l6YXVYdkVxRFc1Tm9QcWJ2Q21BNF85In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXRlc3QgbmV3cyBvbiBUYXRhIFNvbnM%2FIiwibGsiOiJHaGhzWVhSbGMzUWdibVYzY3lCdlppQjBZWFJoSUhOdmJuTSIsImJzIjoiYzIyUFBRdkNRQkJFc2IzS1VnNDA0MGYtZ0VYYUlHSWhsZ1pTbjNybURzSXRaRGZjM3plSlNDS2tucmR2WnRWWnBhVXpBczhRWjFFYnNTd0lOaklvb0RCaWNLZkEtVkhyMVZfNGh2UWhkNkU2cVUzcENFOEswbEROeUxLMEJ5YlhpVjdIR1dKVTNOUi11c016dHhiUmlfdGFpcVpsNlR3SHZZdnoyS0NTQVZNWGhTdVA5YWpJaHdwQ2VIUWZlaGI3eW85Ym5mU1MzNEFaWnJuNEFBIiwiaWQiOiJmY19TR2l6YXVYdkVxRFc1Tm9QcWJ2Q21BNF85In0%3D"
+    },
+    {
+      "question": "Who controls 66% of Tata Sons?",
+      "type": "ai_overview",
+      "page_token": "cE3AHnicHdBRTsIwAIDheBkfhXZzCgkxjLULMxTbrmXjxXTdQG27TZgM9uZdPJWnkXiA_3v4v3_se21-b05vXdcep6NR3_d3-6bZ2-pON26kjpdaj7SytlDaTIOHADzt9Ax9LcPF5zKkom1lxMYcGE_G6FJwwKhNlkXEDgJNXsj4PiKO5dxDQMerXrkkIDg8KmclS1GnBvxMBTFE0J4PiV_FgCs898kwH_J0DrJrVyKWF3HiNhg30oZIoglX2TbgUQkqB-AWlp-52BIOz6GIuxMDW6awbcuhVGQBoBaP_greC1UTU2DhlQasGca0-gijaiP8lenq1LFGD7RXmJ0qA2r0VqYM2iDPZF4aeWZYg9RNqN4kkEIQkrB5p4IN-sO6q1jLTX4Wns2otGfqQMzHAhYIZ-uUdLzOfUpvd_o0827_f85ed66btodm_wff2ICB",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cE3AHnicHdBRTsIwAIDheBkfhXZzCgkxjLULMxTbrmXjxXTdQG27TZgM9uZdPJWnkXiA_3v4v3_se21-b05vXdcep6NR3_d3-6bZ2-pON26kjpdaj7SytlDaTIOHADzt9Ax9LcPF5zKkom1lxMYcGE_G6FJwwKhNlkXEDgJNXsj4PiKO5dxDQMerXrkkIDg8KmclS1GnBvxMBTFE0J4PiV_FgCs898kwH_J0DrJrVyKWF3HiNhg30oZIoglX2TbgUQkqB-AWlp-52BIOz6GIuxMDW6awbcuhVGQBoBaP_greC1UTU2DhlQasGca0-gijaiP8lenq1LFGD7RXmJ0qA2r0VqYM2iDPZF4aeWZYg9RNqN4kkEIQkrB5p4IN-sO6q1jLTX4Wns2otGfqQMzHAhYIZ-uUdLzOfUpvd_o0827_f85ed66btodm_wff2ICB",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJXaG8gY29udHJvbHMgNjYlIG9mIFRhdGEgU29ucz8iLCJsayI6IkdoMTNhRzhnWTI5dWRISnZiSE1nTmpZbElHOW1JSFJoZEdFZ2MyOXVjdyIsImJzIjoiYzIyUFBRdkNRQkJFc2IzS1VnNDA0MGYtZ0VYYUlHSWhsZ1pTbjNybURzSXRaRGZjM3plSlNDS2tucmR2WnRWWnBhVXpBczhRWjFFYnNTd0lOaklvb0RCaWNLZkEtVkhyMVZfNGh2UWhkNkU2cVUzcENFOEswbEROeUxLMEJ5YlhpVjdIR1dKVTNOUi11c016dHhiUmlfdGFpcVpsNlR3SHZZdnoyS0NTQVZNWGhTdVA5YWpJaHdwQ2VIUWZlaGI3eW85Ym5mU1MzNEFaWnJuNEFBIiwiaWQiOiJmY19TR2l6YXVYdkVxRFc1Tm9QcWJ2Q21BNF85In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJXaG8gY29udHJvbHMgNjYlIG9mIFRhdGEgU29ucz8iLCJsayI6IkdoMTNhRzhnWTI5dWRISnZiSE1nTmpZbElHOW1JSFJoZEdFZ2MyOXVjdyIsImJzIjoiYzIyUFBRdkNRQkJFc2IzS1VnNDA0MGYtZ0VYYUlHSWhsZ1pTbjNybURzSXRaRGZjM3plSlNDS2tucmR2WnRWWnBhVXpBczhRWjFFYnNTd0lOaklvb0RCaWNLZkEtVkhyMVZfNGh2UWhkNkU2cVUzcENFOEswbEROeUxLMEJ5YlhpVjdIR1dKVTNOUi11c016dHhiUmlfdGFpcVpsNlR3SHZZdnoyS0NTQVZNWGhTdVA5YWpJaHdwQ2VIUWZlaGI3eW85Ym5mU1MzNEFaWnJuNEFBIiwiaWQiOiJmY19TR2l6YXVYdkVxRFc1Tm9QcWJ2Q21BNF85In0%3D"
+    },
+    {
+      "question": "What is the issue with Tata Trusts?",
+      "type": "ai_overview",
+      "page_token": "1dIRoHicHdBfbpswHABg9TJ5bMApbI0UTWUYEhS7wtg_E79MYCAkmD9taQi89S491U4zad8Rvq9vc-mavw-3ehyHj-16PU3T47nvz6Z81H27zj7mTq91Zkye6Wbr_nDtX5Xe4c-D9_vt4MViGMBnViKd6hViWwildFDXsgMGEkYpJkdwdkgWvEn4y5NGvUPQEKqAmSMEbzk3kQwBM05ZHkRhFmJErnDNuacSad651djZJpoFVjduBbJsyFya2i-AeQSfLY7H4VVOC23uc7lnCfXJTEJVlSG9QQNeuhSnoyg62NOKIOrkPl1UCDFN-5l0Bmt5v5zayGg_otovRimdSKeqw3XBGTLuKYVT0cCdBdrm7XOsZYRiZHvU6y-xYIu-mla0P50CBWNqAad4cNVebQR6dhUEGVmor69RrKZVpW-7zer_5-5P1Y7b4b0__wPi3YKa",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1dIRoHicHdBfbpswHABg9TJ5bMApbI0UTWUYEhS7wtg_E79MYCAkmD9taQi89S491U4zad8Rvq9vc-mavw-3ehyHj-16PU3T47nvz6Z81H27zj7mTq91Zkye6Wbr_nDtX5Xe4c-D9_vt4MViGMBnViKd6hViWwildFDXsgMGEkYpJkdwdkgWvEn4y5NGvUPQEKqAmSMEbzk3kQwBM05ZHkRhFmJErnDNuacSad651djZJpoFVjduBbJsyFya2i-AeQSfLY7H4VVOC23uc7lnCfXJTEJVlSG9QQNeuhSnoyg62NOKIOrkPl1UCDFN-5l0Bmt5v5zayGg_otovRimdSKeqw3XBGTLuKYVT0cCdBdrm7XOsZYRiZHvU6y-xYIu-mla0P50CBWNqAad4cNVebQR6dhUEGVmor69RrKZVpW-7zer_5-5P1Y7b4b0__wPi3YKa",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBpc3N1ZSB3aXRoIFRhdGEgVHJ1c3RzPyIsImxrIjoiR2lKM2FHRjBJR2x6SUhSb1pTQnBjM04xWlNCM2FYUm9JSFJoZEdFZ2RISjFjM1J6IiwiYnMiOiJjMjJQUFF2Q1FCQkVzYjNLVWc0MDQwZi1nRVhhSUdJaGxnWlNuM3JtRHNJdFpEZmMzemVKU0NLa25yZHZadFZacGFVekFzOFFaMUVic1N3SU5qSW9vREJpY0tmQS1WSHIxVl80aHZRaGQ2RTZxVTNwQ0U4SzBsRE55TEswQnliWGlWN0hHV0pVM05SLXVzTXp0eGJSaV90YWlxWmw2VHdIdll2ejJLQ1NBVk1YaFN1UDlhaklod3BDZUhRZmVoYjd5bzlibmZTUzM0QVpacm40QUEiLCJpZCI6ImZjX1NHaXphdVh2RXFEVzVOb1BxYnZDbUE0XzkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBpc3N1ZSB3aXRoIFRhdGEgVHJ1c3RzPyIsImxrIjoiR2lKM2FHRjBJR2x6SUhSb1pTQnBjM04xWlNCM2FYUm9JSFJoZEdFZ2RISjFjM1J6IiwiYnMiOiJjMjJQUFF2Q1FCQkVzYjNLVWc0MDQwZi1nRVhhSUdJaGxnWlNuM3JtRHNJdFpEZmMzemVKU0NLa25yZHZadFZacGFVekFzOFFaMUVic1N3SU5qSW9vREJpY0tmQS1WSHIxVl80aHZRaGQ2RTZxVTNwQ0U4SzBsRE55TEswQnliWGlWN0hHV0pVM05SLXVzTXp0eGJSaV90YWlxWmw2VHdIdll2ejJLQ1NBVk1YaFN1UDlhaklod3BDZUhRZmVoYjd5bzlibmZTUzM0QVpacm40QUEiLCJpZCI6ImZjX1NHaXphdVh2RXFEVzVOb1BxYnZDbUE0XzkifQ%3D%3D"
+    },
+    {
+      "question": "Is Tata Sons going to be listed?",
+      "type": "ai_overview",
+      "page_token": "nH8SX3icHdBNUoMwGIDh8TJd2gAFa2c6zmAJFAVNIAmwcSBIf_JRsGJDu_MunsrT2HH_zrN4v39gd1C_N6ftMPSfi-lUa3276boNvN_Krp2Wn-eDnMoSoCqlWjh3jvHQyKX3tXYfP9YuYX3PVxQlzHCjfWQzNbdo1nuFPxskgmd5iTuWhTrK6IfwQAt_jtK0hmeh0LuXo9KQl9ofL6WxLSnGwIOiSTKlazXOKmaX1So0XwLcsGufmGosLExS6AX1ABiOtISY54iuqMJuYvZJjGJUAbVzNurMipHww9WL4MdqH4rC64_pznCk4nZpzHXEtyPH8BSZc1QdlF1hZUu_oHU7HrxtnVITnDzjea34SLE00vaeSBGaxDTc2O12hNGL3EPL_SG42q88gzPhWHERrikOCcmURZhtVWYc1HrSyNPSmvz_XL417bDoj93mD1sdgbc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nH8SX3icHdBNUoMwGIDh8TJd2gAFa2c6zmAJFAVNIAmwcSBIf_JRsGJDu_MunsrT2HH_zrN4v39gd1C_N6ftMPSfi-lUa3276boNvN_Krp2Wn-eDnMoSoCqlWjh3jvHQyKX3tXYfP9YuYX3PVxQlzHCjfWQzNbdo1nuFPxskgmd5iTuWhTrK6IfwQAt_jtK0hmeh0LuXo9KQl9ofL6WxLSnGwIOiSTKlazXOKmaX1So0XwLcsGufmGosLExS6AX1ABiOtISY54iuqMJuYvZJjGJUAbVzNurMipHww9WL4MdqH4rC64_pznCk4nZpzHXEtyPH8BSZc1QdlF1hZUu_oHU7HrxtnVITnDzjea34SLE00vaeSBGaxDTc2O12hNGL3EPL_SG42q88gzPhWHERrikOCcmURZhtVWYc1HrSyNPSmvz_XL417bDoj93mD1sdgbc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJJcyBUYXRhIFNvbnMgZ29pbmcgdG8gYmUgbGlzdGVkPyIsImxrIjoiR2g5cGN5QjBZWFJoSUhOdmJuTWdaMjlwYm1jZ2RHOGdZbVVnYkdsemRHVmsiLCJicyI6ImMyMlBQUXZDUUJCRXNiM0tVZzQwNDBmLWdFWGFJR0lobGdaU24zcm1Ec0l0WkRmYzN6ZUpTQ0trbnJkdlp0VlpwYVV6QXM4UVoxRWJzU3dJTmpJb29EQmljS2ZBLVZIcjFWXzRodlFoZDZFNnFVM3BDRThLMGxETnlMSzBCeWJYaVY3SEdXSlUzTlItdXNNenR4YlJpX3RhaXFabDZUd0h2WXZ6MktDU0FWTVhoU3VQOWFqSWh3cENlSFFmZWhiN3lvOWJuZlNTMzRBWlpybjRBQSIsImlkIjoiZmNfU0dpemF1WHZFcURXNU5vUHFidkNtQTRfOSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIzUlVkRE5TY0VaM1pETkljRzlyT1hWbVRYSTFXVzUzWW5wS05GRTNibTQyYW5FMFRXMHliSGR3UVZOZlh6QTJjVkkzVmpJMk9HOHdZMG93YTNKTVdHbHdOREk0WkdkYVlWUllNR2hDUTFCTk9WUTJVV2hzUjBaMlFSSVhVMGRwZW1GMVdIWkZjVVJYTlU1dlVIRmlka050UVRRYUlrRkVjM0k1WmxGcmFsVXlOMUIxVkUxVWNWazFZVGgzUlVWNFVHeFBaM0Y1YmtFIiwiZmN2IjoiMyIsImVpIjoiU0dpemF1WHZFcURXNU5vUHFidkNtQTQiLCJxYyI6IkNpNTBZWFJoSUhOdmJuTWdkSEoxYzNSeklHUnBjM0IxZEdVZ1pYTmpZV3hoZEdsdVp5QnVaWGRzZVNBeU1ESTFFQUI5cTRzcVB3IiwicXVlc3Rpb24iOiJJcyBUYXRhIFNvbnMgZ29pbmcgdG8gYmUgbGlzdGVkPyIsImxrIjoiR2g5cGN5QjBZWFJoSUhOdmJuTWdaMjlwYm1jZ2RHOGdZbVVnYkdsemRHVmsiLCJicyI6ImMyMlBQUXZDUUJCRXNiM0tVZzQwNDBmLWdFWGFJR0lobGdaU24zcm1Ec0l0WkRmYzN6ZUpTQ0trbnJkdlp0VlpwYVV6QXM4UVoxRWJzU3dJTmpJb29EQmljS2ZBLVZIcjFWXzRodlFoZDZFNnFVM3BDRThLMGxETnlMSzBCeWJYaVY3SEdXSlUzTlItdXNNenR4YlJpX3RhaXFabDZUd0h2WXZ6MktDU0FWTVhoU3VQOWFqSWh3cENlSFFmZWhiN3lvOWJuZlNTMzRBWlpybjRBQSIsImlkIjoiZmNfU0dpemF1WHZFcURXNU5vUHFidkNtQTRfOSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "kcyCSXiczVVbkqJIFF3ArGP8sRBU8FERREeSopWiVY2WpVU_BAKmyEtJlLL_eguzhllVr6YTVERbrer-mJiM4JHJzXPvyXsP9_u_ru07P_76Zx5FS3LPsnEcl3AQYNcqGYHH6mTrG-wscElozL-QYB0alm2KxjwMPKuw3YjVgkFErmDZ4rBjf9PXk428ao2Fx-DrarqBHuALKYSoTXViLaiH9wVhNZbenL-rLTopkZLllwZVZvAQN1T7ySlVuEq19MTqHjUA_91QIZABwBKi79JVI2rxGTCJIlAgJ7eE9jtz2K8AJnhITWfwCjJO0RIAJCUb6EN7C3kJKAcsqF4NBOb90UliKcOUSMrU_gybHIdkyBkmvGl9ic8OgbqXDyv93FcZXBnwrBJGFL0B-gjM9wtnGZOD_Kyb3Fo79zPAxzI_aN-MnJ7OKJYEBXyY7jYY-HhPCsGI7pRYE9PK5dhpSB9l1jbmRvoSkqSg4XOTC9qDGa9IsT5j_NryzVR6I2b0iIG1HSoqa0ypnRvopmVqc437ks7LlbLANav1xl2qJINkUiJ5KQGlU21y-qpe6Zd6Jal80BHMTv4sZUktQHSBmAT3phdzLB3Xjycvy_ksKLszSc6ygkDmP92i1tJUH7P6FQEJo3wpZLjJvks62g2cscK74k7CCrLo8swwlVEWYJ5V_6Lez9fUhywCJP1imI8JSQhT2gdRnrBKHMsAzZOPI3rIPbxXoHGKkRyPehIqTpnDzjmxgyZzbmyKlApjMQRJ9QfdJMdSAgh3Ow6yH4Hdco7MlX8fATHo3tb7tYE--E_sPR8Ec1b_ed08TL-p26rW0Zk33XhobYY254cTaxNaY3BZJ4E3_Y2eY_yvlHToSEr67bqS8GeURIsf3exI6fu-I3V3SoL4qpLSlvRLR3q62JFOKwqCwVFJinSzI_2-kuBNJeE90wtKoh3pkpKca0pKT_xUSfOGetKRTngfO1KmpD_pSPDPOlIqLGv3OG1P6wW-2qbkiV9jlM5g5hJhKjC1llIf4sjtx8L44zY186J7TzfdO80276VKN9qadxpdCO4ts7ASIz3SiyTwSTEK1yQiRdMmy3VkFS1i6K4e2T4u-lbsbotUm0LBc8NA5PS6U12PGW0avvGdBuKXaofXBqvRcvLUHfCNJhq3Nd9507iO2n7pjLcG5zmTZ2TFc9loe-qkhR097hmIlxZ9ZrYdqfilJ2jehJltujVmJmjPyovNjGfr9-rzu8lUnMELjhbzBueacdWBniBYzBiqrprGQ8TXJo68BfPOrFHBCw2RZofH4FEFY0zLEL5SCdP6hQG9YnrVgCpLBcpPs8hGrJfNsjmd1nVO4Cpms17wcLRdik2uQPxQLP8EBytB_Q",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kcyCSXiczVVbkqJIFF3ArGP8sRBU8FERREeSopWiVY2WpVU_BAKmyEtJlLL_eguzhllVr6YTVERbrer-mJiM4JHJzXPvyXsP9_u_ru07P_76Zx5FS3LPsnEcl3AQYNcqGYHH6mTrG-wscElozL-QYB0alm2KxjwMPKuw3YjVgkFErmDZ4rBjf9PXk428ao2Fx-DrarqBHuALKYSoTXViLaiH9wVhNZbenL-rLTopkZLllwZVZvAQN1T7ySlVuEq19MTqHjUA_91QIZABwBKi79JVI2rxGTCJIlAgJ7eE9jtz2K8AJnhITWfwCjJO0RIAJCUb6EN7C3kJKAcsqF4NBOb90UliKcOUSMrU_gybHIdkyBkmvGl9ic8OgbqXDyv93FcZXBnwrBJGFL0B-gjM9wtnGZOD_Kyb3Fo79zPAxzI_aN-MnJ7OKJYEBXyY7jYY-HhPCsGI7pRYE9PK5dhpSB9l1jbmRvoSkqSg4XOTC9qDGa9IsT5j_NryzVR6I2b0iIG1HSoqa0ypnRvopmVqc437ks7LlbLANav1xl2qJINkUiJ5KQGlU21y-qpe6Zd6Jal80BHMTv4sZUktQHSBmAT3phdzLB3Xjycvy_ksKLszSc6ygkDmP92i1tJUH7P6FQEJo3wpZLjJvks62g2cscK74k7CCrLo8swwlVEWYJ5V_6Lez9fUhywCJP1imI8JSQhT2gdRnrBKHMsAzZOPI3rIPbxXoHGKkRyPehIqTpnDzjmxgyZzbmyKlApjMQRJ9QfdJMdSAgh3Ow6yH4Hdco7MlX8fATHo3tb7tYE--E_sPR8Ec1b_ed08TL-p26rW0Zk33XhobYY254cTaxNaY3BZJ4E3_Y2eY_yvlHToSEr67bqS8GeURIsf3exI6fu-I3V3SoL4qpLSlvRLR3q62JFOKwqCwVFJinSzI_2-kuBNJeE90wtKoh3pkpKca0pKT_xUSfOGetKRTngfO1KmpD_pSPDPOlIqLGv3OG1P6wW-2qbkiV9jlM5g5hJhKjC1llIf4sjtx8L44zY186J7TzfdO80276VKN9qadxpdCO4ts7ASIz3SiyTwSTEK1yQiRdMmy3VkFS1i6K4e2T4u-lbsbotUm0LBc8NA5PS6U12PGW0avvGdBuKXaofXBqvRcvLUHfCNJhq3Nd9507iO2n7pjLcG5zmTZ2TFc9loe-qkhR097hmIlxZ9ZrYdqfilJ2jehJltujVmJmjPyovNjGfr9-rzu8lUnMELjhbzBueacdWBniBYzBiqrprGQ8TXJo68BfPOrFHBCw2RZofH4FEFY0zLEL5SCdP6hQG9YnrVgCpLBcpPs8hGrJfNsjmd1nVO4Cpms17wcLRdik2uQPxQLP8EBytB_Q"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Tata Group's boardroom clash rocks India's most storied ...",
+      "link": "https://www.reuters.com/world/india/tata-groups-boardroom-clash-rocks-indias-most-storied-conglomerate-2026-09-18/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFRWR2V35CFONVhhh5y-kmiN0JSlVWcVr1y5V5eGustDLIxMG-Wt_cInzv3jHk5BBtUYreQFys1SEns_zvVjcz3eRlHVDnJyTUmv0ILwsbVqbQqetekk-0zEzU46GiYwQTNYXDFBausjwKI_MN4V3n6LDVK5ML-k5jlZQE3kTYrnDrk-qfsa4ThwKexkPWZtQXagrpAmKXhc4kRIx2V7AILzGqxA2-g&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.reuters.com › world › india › tata-groups-b...",
+      "date": "5 days ago",
+      "snippet": "Tata Sons and its controlling charity arm, Tata Trusts, have been at odds for months ‌over issues including a potential listing of Tata Sons, ...",
+      "snippet_highlighted_words": [
+        "Tata Sons",
+        "Trusts",
+        "Tata Sons"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Sons and its controlling charity arm, Tata Trusts, have been at odds for months ‌over issues including a potential listing of Tata Sons, ...",
+          "source_info_link": "https://www.reuters.com/world/india/tata-groups-boardroom-clash-rocks-indias-most-storied-conglomerate-2026-09-18/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAcBAMAAABi_9neAAAAMFBMVEVHcEzWQADWQADWQADWQADWQADWQADWQADWQADWQADWQADVQADWQADWQADWQADWQAAMYMgbAAAAEHRSTlMAcv8VN8ac8yFO6Aey2oVbn-X8aAAAAOtJREFUeAE1ziFMAgEAQNEHAJ4Dxg2LNrzhmEwRbbabwWJhBEa82QNj2hnRZNbi3OxnMEhiBHuxOoJ9FIMmrxD_fnmARliIAQxNxrN9gGLk4b5xAGAP89bbCAwBy2NwCxh0AObhJXc3gMdZvwHflFty7YAgUYp6aidZIljZimKVmCug-AU-QW4Fp7RBte-1Z7KQAizHnhNAYer6yTsvIN-0ncIvKC-geggEIbtctBkh31XvcHbETsV5pgu6BGvkV4N4CtSjWG76gxQZvA_UmlCLkhTkEqh81KPeJqAUhY0w3wLI7mS8uUj9rYF_OuYuZknO4GoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSV1IyVjM1Q0ZPTlZoaGg1eS1rbWlOMEpTbFZXY1ZyMXk1VjVlR3VzdERMSXhNRy1XdF9jSW56djNqSGs1QkJ0VVlyZVFGeXMxU0Vuc196dlZqY3ozZVJsSFZEbkp5VFVtdjBJTHdzYlZxYlFxZXRla2stMHpFelU0NkdpWXdRVE5ZWERGQmF1c2p3S0lfTU40VjNuNkxEVks1TUwtazVqbFpRRTNrVFlybkRyay1xZnNhNFRod0tleGtQV1p0UVhhZ3JwQW1LWGhjNGtSSXgyVjdBSUx6R3F4QTItZxIEGgIIABrvBhICCAEaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwYIABAAGAAgACogCgR0YXRhFecUpEAaCHRhdGFzb25zGglpdjtwO3RhdGEqJQoEc29ucxUQPQNAGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFXYW2T8aBXRydXN0GgtpdjtwO3RydXN0cypUCgdkaXNwdXRlFasGOD8aCGNvbmZsaWN0Ggtjb250cm92ZXJzeRoIZGlzcHV0ZXMaCWRpc3B1dGluZxoKbGl0aWdhdGlvbhoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSoWCgQyMDI1FUXsNT8aCWl2O247MjAyNTL0AS9nb3RvP3VybD1DQUVTcWdFQjZ6c3dGUldSMlYzNUNGT05WaGhoNXkta21pTjBKU2xWV2NWcjF5NVY1ZUd1c3RETEl4TUctV3RfY0luenYzakhrNUJCdFVZcmVRRnlzMVNFbnNfenZWamN6M2VSbEhWRG5KeVRVbXYwSUx3c2JWcWJRcWV0ZWtrLTB6RXpVNDZHaVl3UVROWVhERkJhdXNqd0tJX01ONFYzbjZMRFZLNU1MLWs1amxaUUUza1RZcm5EcmstcWZzYTRUaHdLZXhrUFdadFFYYWdycEFtS1hoYzRrUkl4MlY3QUlMekdxeEEyLWc6SjxiPlRhdGE8L2I-IEdyb3VwJiMzOTtzIGJvYXJkcm9vbSBjbGFzaCByb2NrcyBJbmRpYSYjMzk7cyBtb3N0IHN0b3JpZWQgLi4uQq0BPGI-VGF0YSBTb25zPC9iPiBhbmQgaXRzIGNvbnRyb2xsaW5nIGNoYXJpdHkgYXJtLCBUYXRhIDxiPlRydXN0czwvYj4sIGhhdmUgYmVlbiBhdCBvZGRzIGZvciBtb250aHMg4oCMb3ZlciBpc3N1ZXMgaW5jbHVkaW5nIGEgcG90ZW50aWFsIGxpc3Rpbmcgb2YgPGI-VGF0YSBTb25zPC9iPiwmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSV1IyVjM1Q0ZPTlZoaGg1eS1rbWlOMEpTbFZXY1ZyMXk1VjVlR3VzdERMSXhNRy1XdF9jSW56djNqSGs1QkJ0VVlyZVFGeXMxU0Vuc196dlZqY3ozZVJsSFZEbkp5VFVtdjBJTHdzYlZxYlFxZXRla2stMHpFelU0NkdpWXdRVE5ZWERGQmF1c2p3S0lfTU40VjNuNkxEVks1TUwtazVqbFpRRTNrVFlybkRyay1xZnNhNFRod0tleGtQV1p0UVhhZ3JwQW1LWGhjNGtSSXgyVjdBSUx6R3F4QTItZxIEGgIIABrvBhICCAEaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwYIABAAGAAgACogCgR0YXRhFecUpEAaCHRhdGFzb25zGglpdjtwO3RhdGEqJQoEc29ucxUQPQNAGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFXYW2T8aBXRydXN0GgtpdjtwO3RydXN0cypUCgdkaXNwdXRlFasGOD8aCGNvbmZsaWN0Ggtjb250cm92ZXJzeRoIZGlzcHV0ZXMaCWRpc3B1dGluZxoKbGl0aWdhdGlvbhoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSoWCgQyMDI1FUXsNT8aCWl2O247MjAyNTL0AS9nb3RvP3VybD1DQUVTcWdFQjZ6c3dGUldSMlYzNUNGT05WaGhoNXkta21pTjBKU2xWV2NWcjF5NVY1ZUd1c3RETEl4TUctV3RfY0luenYzakhrNUJCdFVZcmVRRnlzMVNFbnNfenZWamN6M2VSbEhWRG5KeVRVbXYwSUx3c2JWcWJRcWV0ZWtrLTB6RXpVNDZHaVl3UVROWVhERkJhdXNqd0tJX01ONFYzbjZMRFZLNU1MLWs1amxaUUUza1RZcm5EcmstcWZzYTRUaHdLZXhrUFdadFFYYWdycEFtS1hoYzRrUkl4MlY3QUlMekdxeEEyLWc6SjxiPlRhdGE8L2I-IEdyb3VwJiMzOTtzIGJvYXJkcm9vbSBjbGFzaCByb2NrcyBJbmRpYSYjMzk7cyBtb3N0IHN0b3JpZWQgLi4uQq0BPGI-VGF0YSBTb25zPC9iPiBhbmQgaXRzIGNvbnRyb2xsaW5nIGNoYXJpdHkgYXJtLCBUYXRhIDxiPlRydXN0czwvYj4sIGhhdmUgYmVlbiBhdCBvZGRzIGZvciBtb250aHMg4oCMb3ZlciBpc3N1ZXMgaW5jbHVkaW5nIGEgcG90ZW50aWFsIGxpc3Rpbmcgb2YgPGI-VGF0YSBTb25zPC9iPiwmbmJzcDsuLi5SA25ldyICEAFIAFgAaAA",
+      "source": "Reuters",
+      "read_more_link": "https://www.reuters.com/world/india/tata-groups-boardroom-clash-rocks-indias-most-storied-conglomerate-2026-09-18/#:~:text=Tata%20Sons%20and%20its%20controlling,exit%20of%20a%20minority%20shareholder."
+    },
+    {
+      "position": 2,
+      "title": "Why the Tata Sons Board and majority-owner Tata Trusts ...",
+      "link": "https://www.thehindu.com/business/Industry/why-are-the-tata-sons-board-and-majority-owner-tata-trusts-in-conflict-explained/article71479912.ece",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFYcMu9rpIZr7J_GlsuvMiDy4eYaFCVB5GjKDrW0m5za9f3PjHDjquTGYvuqr4KAQ6nYTyl89pVj1nrcrckVbNCPBJOZ9N12AU4otRjkmjKfr9YpLMr2AAHacndHo1IKtidtXKPAR0o__rLMNmwvDxv7aM-KR1GNsDpLpM6wLGaSUbCTQgUJG6BJTjN5aN8CBuPK-WG0H10Ty2SUCHgAO8_4HCDmoAAQAEi5H-_5iPdssOT44Ejpaz-5IhvPYB6ma-xZcLQ&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.thehindu.com › Business › Industry",
+      "date": "5 days ago",
+      "snippet": "Explore the conflict between Tata Sons and Tata Trusts over N. Chandrasekaran's reappointment and potential listing issues.",
+      "snippet_highlighted_words": [
+        "Explore the conflict between Tata Sons and Tata Trusts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore the conflict between Tata Sons and Tata Trusts over N. Chandrasekaran's reappointment and potential listing issues.",
+          "source_info_link": "https://www.thehindu.com/business/Industry/why-are-the-tata-sons-board-and-majority-owner-tata-trusts-in-conflict-explained/article71479912.ece",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACQBQCdASocABwAPtE-tFooIigoFAEAGglpABFNHTyIVMUfZ-dKdIMcZYyQn-G_V7kfyGH4AAD-9gohqrsLtqE8Cp27-JC617SqGVuAfyxOP5cqu7uFo6CkpTByFXkRU9vUtQbckAwVSJRC0_A_Lboij3l6a2mQwPJ0MzS8XsM3sQxDspQ1kbvOOnCsyX9mz0-WHTbYOxc_l8qn8gPBt58Wit53hbts9oAnX92OrIpjQcTwOJhbMmDBBGcvToAonRYWf36_sH-cLguRGBej_YxH8elqg_oA5Xcob-ACwPhyteGQduXTv769ecounkvFwnFSMkcyO40tikGC8dNvxedU8M_v9US66bphNfm2zu2rC-l-FJxDfdNv7YD862QAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZZY011OXJwSVpyN0pfR2xzdXZNaUR5NGVZYUZDVkI1R2pLRHJXMG01emE5ZjNQakhEanF1VEdZdnVxcjRLQVE2bllUeWw4OXBWajFucmNyY2tWYk5DUEJKT1o5TjEyQVU0b3RSamttaktmcjlZcExNcjJBQUhhY25kSG8xSUt0aWR0WEtQQVIwb19fckxNTm13dkR4djdhTS1LUjFHTnNEcExwTTZ3TEdhU1ViQ1RRZ1VKRzZCSlRqTjVhTjhDQnVQSy1XRzBIMTBUeTJTVUNIZ0FPOF80SENEbW9BQVFBRWk1SC1fNWlQZHNzT1Q0NEVqcGF6LTVJaHZQWUI2bWEteFpjTFESBBoCCAAa8gYSAggAGgAiAggBKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMoGCAAQABgAIAAqIAoEdGF0YRVi_JdAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiUKBHNvbnMVil2IQBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxUIV4dAGgV0cnVzdBoLaXY7cDt0cnVzdHMqVAoHZGlzcHV0ZRVPRJU-Gghjb25mbGljdBoLY29udHJvdmVyc3kaCGRpc3B1dGVzGglkaXNwdXRpbmcaCmxpdGlnYXRpb24aDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFQAAAAAaCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqFgoEMjAyNRX0LoM-GglpdjtuOzIwMjUynAIvZ290bz91cmw9Q0FFU3lBRUI2enN3RlljTXU5cnBJWnI3Sl9HbHN1dk1pRHk0ZVlhRkNWQjVHaktEclcwbTV6YTlmM1BqSERqcXVUR1l2dXFyNEtBUTZuWVR5bDg5cFZqMW5yY3Jja1ZiTkNQQkpPWjlOMTJBVTRvdFJqa21qS2ZyOVlwTE1yMkFBSGFjbmRIbzFJS3RpZHRYS1BBUjBvX19yTE1ObXd2RHh2N2FNLUtSMUdOc0RwTHBNNndMR2FTVWJDVFFnVUpHNkJKVGpONWFOOENCdVBLLVdHMEgxMFR5MlNVQ0hnQU84XzRIQ0Rtb0FBUUFFaTVILV81aVBkc3NPVDQ0RWpwYXotNUlodlBZQjZtYS14WmNMUTpMV2h5IHRoZSA8Yj5UYXRhIFNvbnM8L2I-IEJvYXJkIGFuZCBtYWpvcml0eS1vd25lciBUYXRhIDxiPlRydXN0czwvYj4gYXJlIC4uLkKGATxiPkV4cGxvcmUgdGhlIGNvbmZsaWN0IGJldHdlZW4gVGF0YSBTb25zIGFuZCBUYXRhIFRydXN0czwvYj4gb3ZlciBOLiBDaGFuZHJhc2VrYXJhbiYjMzk7cyByZWFwcG9pbnRtZW50IGFuZCBwb3RlbnRpYWwgbGlzdGluZyBpc3N1ZXMuUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCNnpzd0ZZY011OXJwSVpyN0pfR2xzdXZNaUR5NGVZYUZDVkI1R2pLRHJXMG01emE5ZjNQakhEanF1VEdZdnVxcjRLQVE2bllUeWw4OXBWajFucmNyY2tWYk5DUEJKT1o5TjEyQVU0b3RSamttaktmcjlZcExNcjJBQUhhY25kSG8xSUt0aWR0WEtQQVIwb19fckxNTm13dkR4djdhTS1LUjFHTnNEcExwTTZ3TEdhU1ViQ1RRZ1VKRzZCSlRqTjVhTjhDQnVQSy1XRzBIMTBUeTJTVUNIZ0FPOF80SENEbW9BQVFBRWk1SC1fNWlQZHNzT1Q0NEVqcGF6LTVJaHZQWUI2bWEteFpjTFESBBoCCAAa8gYSAggAGgAiAggBKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQMoGCAAQABgAIAAqIAoEdGF0YRVi_JdAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiUKBHNvbnMVil2IQBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxUIV4dAGgV0cnVzdBoLaXY7cDt0cnVzdHMqVAoHZGlzcHV0ZRVPRJU-Gghjb25mbGljdBoLY29udHJvdmVyc3kaCGRpc3B1dGVzGglkaXNwdXRpbmcaCmxpdGlnYXRpb24aDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFQAAAAAaCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqFgoEMjAyNRX0LoM-GglpdjtuOzIwMjUynAIvZ290bz91cmw9Q0FFU3lBRUI2enN3RlljTXU5cnBJWnI3Sl9HbHN1dk1pRHk0ZVlhRkNWQjVHaktEclcwbTV6YTlmM1BqSERqcXVUR1l2dXFyNEtBUTZuWVR5bDg5cFZqMW5yY3Jja1ZiTkNQQkpPWjlOMTJBVTRvdFJqa21qS2ZyOVlwTE1yMkFBSGFjbmRIbzFJS3RpZHRYS1BBUjBvX19yTE1ObXd2RHh2N2FNLUtSMUdOc0RwTHBNNndMR2FTVWJDVFFnVUpHNkJKVGpONWFOOENCdVBLLVdHMEgxMFR5MlNVQ0hnQU84XzRIQ0Rtb0FBUUFFaTVILV81aVBkc3NPVDQ0RWpwYXotNUlodlBZQjZtYS14WmNMUTpMV2h5IHRoZSA8Yj5UYXRhIFNvbnM8L2I-IEJvYXJkIGFuZCBtYWpvcml0eS1vd25lciBUYXRhIDxiPlRydXN0czwvYj4gYXJlIC4uLkKGATxiPkV4cGxvcmUgdGhlIGNvbmZsaWN0IGJldHdlZW4gVGF0YSBTb25zIGFuZCBUYXRhIFRydXN0czwvYj4gb3ZlciBOLiBDaGFuZHJhc2VrYXJhbiYjMzk7cyByZWFwcG9pbnRtZW50IGFuZCBwb3RlbnRpYWwgbGlzdGluZyBpc3N1ZXMuUgNuZXciAhABSABYAGgA",
+      "source": "The Hindu"
+    },
+    {
+      "position": 3,
+      "title": "Tata Sons: India's corporate crown braces for upheaval ...",
+      "link": "https://www.bbc.com/news/articles/c670lkvdzkn2o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAV2hs9B9BBcyoyBJOySCafsXXxTJ4WCd51oveAXkq0v2KMpzgvl0rjzk3j3xaoHIDWKQxJp_RxAzj9vBWEDHoDy4iOwloN_uAo9h0gQHcUBkV7_3pntgYPNpPFDU_YbKji4eE&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://www.bbc.com › news › articles",
+      "date": "4 days ago",
+      "snippet": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "snippet_highlighted_words": [
+        "Tata"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+          "source_info_link": "https://www.bbc.com/news/articles/c670lkvdzkn2o",
+          "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjJoczlCOUJCY3lveUJKT3lTQ2Fmc1hYeFRKNFdDZDUxb3ZlQVhrcTB2MktNcHpndmwwcmp6azNqM3hhb0hJRFdLUXhKcF9SeEF6ajl2QldFREhvRHk0aU93bG9OX3VBbzloMGdRSGNVQmtWN18zcG50Z1lQTnBQRkRVX1liS2ppNGVFEgQaAggAGtgFEgIIARoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCwBQgAEAAYACAAKiAKBHRhdGEVrEqRQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSolCgRzb25zFcPgZ0AaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMVJF65PxoFdHJ1c3QaC2l2O3A7dHJ1c3RzKlQKB2Rpc3B1dGUVAAAAABoIY29uZmxpY3QaC2NvbnRyb3ZlcnN5GghkaXNwdXRlcxoJZGlzcHV0aW5nGgpsaXRpZ2F0aW9uGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjJoczlCOUJCY3lveUJKT3lTQ2Fmc1hYeFRKNFdDZDUxb3ZlQVhrcTB2MktNcHpndmwwcmp6azNqM3hhb0hJRFdLUXhKcF9SeEF6ajl2QldFREhvRHk0aU93bG9OX3VBbzloMGdRSGNVQmtWN18zcG50Z1lQTnBQRkRVX1liS2ppNGVFOks8Yj5UYXRhIFNvbnM8L2I-OiBJbmRpYSYjMzk7cyBjb3Jwb3JhdGUgY3Jvd24gYnJhY2VzIGZvciB1cGhlYXZhbCAuLi4gLSBCQkNCcVRoZSA8Yj5UYXRhPC9iPiBib2FyZHJvb20gYmF0dGxlIGhhcyBpbnRlbnNpZmllZCBvdmVyIGEgcmUtYXBwb2ludG1lbnQgb2YgaXRzIGNoYWlybWFuIGFuZCBhIGRpa3RhdCB0byBnbyBwdWJsaWMuUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjJoczlCOUJCY3lveUJKT3lTQ2Fmc1hYeFRKNFdDZDUxb3ZlQVhrcTB2MktNcHpndmwwcmp6azNqM3hhb0hJRFdLUXhKcF9SeEF6ajl2QldFREhvRHk0aU93bG9OX3VBbzloMGdRSGNVQmtWN18zcG50Z1lQTnBQRkRVX1liS2ppNGVFEgQaAggAGtgFEgIIARoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCwBQgAEAAYACAAKiAKBHRhdGEVrEqRQBoIdGF0YXNvbnMaCWl2O3A7dGF0YSolCgRzb25zFcPgZ0AaA3NvbhoIdGF0YXNvbnMaCWl2O3A7c29ucyohCgZ0cnVzdHMVJF65PxoFdHJ1c3QaC2l2O3A7dHJ1c3RzKlQKB2Rpc3B1dGUVAAAAABoIY29uZmxpY3QaC2NvbnRyb3ZlcnN5GghkaXNwdXRlcxoJZGlzcHV0aW5nGgpsaXRpZ2F0aW9uGgxpdjtwO2Rpc3B1dGUqTgoKZXNjYWxhdGluZxUAAAAAGghlc2NhbGF0ZRoJZXNjYWxhdGVkGgllc2NhbGF0ZXMaCmVzY2FsYXRpb24aD2l2O3A7ZXNjYWxhdGluZyobCgVuZXdseRUAAAAAGgNuZXcaCHJlY2VudGx5KhYKBDIwMjUVAAAAABoJaXY7bjsyMDI1MpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjJoczlCOUJCY3lveUJKT3lTQ2Fmc1hYeFRKNFdDZDUxb3ZlQVhrcTB2MktNcHpndmwwcmp6azNqM3hhb0hJRFdLUXhKcF9SeEF6ajl2QldFREhvRHk0aU93bG9OX3VBbzloMGdRSGNVQmtWN18zcG50Z1lQTnBQRkRVX1liS2ppNGVFOks8Yj5UYXRhIFNvbnM8L2I-OiBJbmRpYSYjMzk7cyBjb3Jwb3JhdGUgY3Jvd24gYnJhY2VzIGZvciB1cGhlYXZhbCAuLi4gLSBCQkNCcVRoZSA8Yj5UYXRhPC9iPiBib2FyZHJvb20gYmF0dGxlIGhhcyBpbnRlbnNpZmllZCBvdmVyIGEgcmUtYXBwb2ludG1lbnQgb2YgaXRzIGNoYWlybWFuIGFuZCBhIGRpa3RhdCB0byBnbyBwdWJsaWMuUgNuZXciAhABSABYAGgA",
+      "source": "BBC"
+    },
+    {
+      "position": 4,
+      "title": "The dispute between Tata Trusts and Tata Sons has sparked a ...",
+      "link": "https://www.facebook.com/BusinessToday/videos/the-dispute-between-tata-trusts-and-tata-sons-has-sparked-a-legal-debate-over-sh/1740909520471532/",
+      "displayed_link": "20+ reactions · 1 day ago",
+      "thumbnail": "https://serpapi.com/searches/6ab368484c437f6d9ba4ce50/images/j3M9E-W0zV9EXUGyDoJuQMAL1Dzysylm4A8FNXnk4dE.jpeg",
+      "snippet": "The dispute between Tata Trusts and Tata Sons has sparked a legal debate over shareholder rights, trust governance and the future structure ...",
+      "duration": "5:18",
+      "about_this_result": {
+        "source": {
+          "description": "The dispute between Tata Trusts and Tata Sons has sparked a legal debate over shareholder rights, trust governance and the future structure ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZUOE1vNVZuNlRCenNVUlFEUC05MFZjc2QzMVJ6Mk5KckhXMklYRFlFUlFlaUxiRnprVjFLV1JGaHB6bUhfNGV4RmR3enpIMG9tRmxpVnZMZEo0TjYyM3p6MmNOT1huckZvcllQclhaNTdSbnJGQmcxblQ2Y3VramxPOVlOMXZDU1NsSGMtLVRsUEZxUnRlYTIwenNPMWp2RDYwRDJraFh1VXJPbVQxMXZOWmxrVFl2OU9veExjbHdLc09hY2Y3MkhJMXgzU0NlVVNhVWNNOGtQM05vZVFEVGYxZm1KUDB0THZjSFJLT0JjTnY2V3hTQ1pVcHhtSUM4ZjhmWThhellQQlI0d3dNEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZUOE1vNVZuNlRCenNVUlFEUC05MFZjc2QzMVJ6Mk5KckhXMklYRFlFUlFlaUxiRnprVjFLV1JGaHB6bUhfNGV4RmR3enpIMG9tRmxpVnZMZEo0TjYyM3p6MmNOT1huckZvcllQclhaNTdSbnJGQmcxblQ2Y3VramxPOVlOMXZDU1NsSGMtLVRsUEZxUnRlYTIwenNPMWp2RDYwRDJraFh1VXJPbVQxMXZOWmxrVFl2OU9veExjbHdLc09hY2Y3MkhJMXgzU0NlVVNhVWNNOGtQM05vZVFEVGYxZm1KUDB0THZjSFJLT0JjTnY2V3hTQ1pVcHhtSUM4ZjhmWThhellQQlI0d3dNEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · Business Today"
+    },
+    {
+      "position": 5,
+      "title": "The Tata Sons internal conflict challenges its legacy of trust ...",
+      "link": "https://www.facebook.com/thefinancialexpress/posts/the-tata-sons-internal-conflict-challenges-its-legacy-of-trust-as-tata-trusts-di/1547648184057435/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFbYSCgsaWZbuScZFVtDLPnf4ENeFVi6pMyOYYAqHgvj7l7ysY4g0QgAo9af4sSlI_P1JrGAmZnwZgJNWUkLeSz33Kp8TO0vd_8v04RLb5XhkIe7AwVMDhWFbvjJwLWy0UFOnrHY9Mrr0uY9U_yVPlmLRqlvo9NvZGoW0M6fMGRrkVk-Nd35FI6_dxIp-cKe2manvZlJCkmzyb7ioonBuoYqWq0qABTTwZq9rzyKI9opWmhILUsReBj4xI_nJqJlPXQ0TF-blrTrubA&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQFnoECDYQAQ&uoh=1",
+      "displayed_link": "3 reactions · 4 days ago",
+      "snippet": "Tata Trusts disputes N Chandrasekaran's reappointment amid ownership, control, and IPO listing controversies. The group's future remains ...",
+      "snippet_highlighted_words": [
+        "Tata Trusts disputes N Chandrasekaran's reappointment"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tata Trusts disputes N Chandrasekaran's reappointment amid ownership, control, and IPO listing controversies. The group's future remains ...",
+          "source_info_link": "https://www.facebook.com/thefinancialexpress/posts/the-tata-sons-internal-conflict-challenges-its-legacy-of-trust-as-tata-trusts-di/1547648184057435/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZiWVNDZ3NhV1pidVNjWkZWdERMUG5mNEVOZUZWaTZwTXlPWVlBcUhndmo3bDd5c1k0ZzBRZ0FvOWFmNHNTbElfUDFKckdBbVpud1pnSk5XVWtMZVN6MzNLcDhUTzB2ZF84djA0UkxiNVhoa0llN0F3Vk1EaFdGYnZqSndMV3kwVUZPbnJIWTlNcnIwdVk5VV95VlBsbUxScWx2bzlOdlpHb1cwTTZmTUdScmtWay1OZDM1Rkk2X2R4SXAtY0tlMm1hbnZabEpDa216eWI3aW9vbkJ1b1lxV3EwcUFCVFR3WnE5cnp5S0k5b3BXbWhJTFVzUmVCajR4SV9uSnFKbFBYUTBURi1ibHJUcnViQRIEGgIIABqgBxIAGgAiAggBKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPoGCAAQABgAIAAqIAoEdGF0YRW0L8dAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiUKBHNvbnMVv02YQBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxWRhFNAGgV0cnVzdBoLaXY7cDt0cnVzdHMqVAoHZGlzcHV0ZRVlibs_Gghjb25mbGljdBoLY29udHJvdmVyc3kaCGRpc3B1dGVzGglkaXNwdXRpbmcaCmxpdGlnYXRpb24aDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFQAAAAAaCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqFgoEMjAyNRXNguI8GglpdjtuOzIwMjUypAIvZ290bz91cmw9Q0FFU3pnRUI2enN3RmJZU0Nnc2FXWmJ1U2NaRlZ0RExQbmY0RU5lRlZpNnBNeU9ZWUFxSGd2ajdsN3lzWTRnMFFnQW85YWY0c1NsSV9QMUpyR0FtWm53WmdKTldVa0xlU3ozM0twOFRPMHZkXzh2MDRSTGI1WGhrSWU3QXdWTURoV0ZidmpKd0xXeTBVRk9uckhZOU1ycjB1WTlVX3lWUGxtTFJxbHZvOU52WkdvVzBNNmZNR1Jya1ZrLU5kMzVGSTZfZHhJcC1jS2UybWFudlpsSkNrbXp5Yjdpb29uQnVvWXFXcTBxQUJUVHdacTlyenlLSTlvcFdtaElMVXNSZUJqNHhJX25KcUpsUFhRMFRGLWJsclRydWJBOlpUaGUgPGI-VGF0YSBTb25zPC9iPiBpbnRlcm5hbCA8Yj5jb25mbGljdDwvYj4gY2hhbGxlbmdlcyBpdHMgbGVnYWN5IG9mIDxiPnRydXN0PC9iPiBhcyAuLi5CoAE8Yj5UYXRhIFRydXN0cyBkaXNwdXRlcyBOIENoYW5kcmFzZWthcmFuJiMzOTtzIHJlYXBwb2ludG1lbnQ8L2I-IGFtaWQgb3duZXJzaGlwLCBjb250cm9sLCBhbmQgSVBPIGxpc3RpbmcgY29udHJvdmVyc2llcy4gVGhlIGdyb3VwJiMzOTtzIGZ1dHVyZSByZW1haW5zJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCNnpzd0ZiWVNDZ3NhV1pidVNjWkZWdERMUG5mNEVOZUZWaTZwTXlPWVlBcUhndmo3bDd5c1k0ZzBRZ0FvOWFmNHNTbElfUDFKckdBbVpud1pnSk5XVWtMZVN6MzNLcDhUTzB2ZF84djA0UkxiNVhoa0llN0F3Vk1EaFdGYnZqSndMV3kwVUZPbnJIWTlNcnIwdVk5VV95VlBsbUxScWx2bzlOdlpHb1cwTTZmTUdScmtWay1OZDM1Rkk2X2R4SXAtY0tlMm1hbnZabEpDa216eWI3aW9vbkJ1b1lxV3EwcUFCVFR3WnE5cnp5S0k5b3BXbWhJTFVzUmVCajR4SV9uSnFKbFBYUTBURi1ibHJUcnViQRIEGgIIABqgBxIAGgAiAggBKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPoGCAAQABgAIAAqIAoEdGF0YRW0L8dAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiUKBHNvbnMVv02YQBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxWRhFNAGgV0cnVzdBoLaXY7cDt0cnVzdHMqVAoHZGlzcHV0ZRVlibs_Gghjb25mbGljdBoLY29udHJvdmVyc3kaCGRpc3B1dGVzGglkaXNwdXRpbmcaCmxpdGlnYXRpb24aDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFQAAAAAaCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqFgoEMjAyNRXNguI8GglpdjtuOzIwMjUypAIvZ290bz91cmw9Q0FFU3pnRUI2enN3RmJZU0Nnc2FXWmJ1U2NaRlZ0RExQbmY0RU5lRlZpNnBNeU9ZWUFxSGd2ajdsN3lzWTRnMFFnQW85YWY0c1NsSV9QMUpyR0FtWm53WmdKTldVa0xlU3ozM0twOFRPMHZkXzh2MDRSTGI1WGhrSWU3QXdWTURoV0ZidmpKd0xXeTBVRk9uckhZOU1ycjB1WTlVX3lWUGxtTFJxbHZvOU52WkdvVzBNNmZNR1Jya1ZrLU5kMzVGSTZfZHhJcC1jS2UybWFudlpsSkNrbXp5Yjdpb29uQnVvWXFXcTBxQUJUVHdacTlyenlLSTlvcFdtaElMVXNSZUJqNHhJX25KcUpsUFhRMFRGLWJsclRydWJBOlpUaGUgPGI-VGF0YSBTb25zPC9iPiBpbnRlcm5hbCA8Yj5jb25mbGljdDwvYj4gY2hhbGxlbmdlcyBpdHMgbGVnYWN5IG9mIDxiPnRydXN0PC9iPiBhcyAuLi5CoAE8Yj5UYXRhIFRydXN0cyBkaXNwdXRlcyBOIENoYW5kcmFzZWthcmFuJiMzOTtzIHJlYXBwb2ludG1lbnQ8L2I-IGFtaWQgb3duZXJzaGlwLCBjb250cm9sLCBhbmQgSVBPIGxpc3RpbmcgY29udHJvdmVyc2llcy4gVGhlIGdyb3VwJiMzOTtzIGZ1dHVyZSByZW1haW5zJm5ic3A7Li4uUgNuZXciAhABSABYAGgA",
+      "source": "Facebook · The Financial Express"
+    },
+    {
+      "position": 6,
+      "title": "Tata Sons vs Tata Trusts set for courtroom showdown",
+      "link": "https://www.indiatoday.in/business/story/tata-sons-legal-battle-tata-trusts-lawyers-n-chandrasekaran-camp-lawyers-list-salve-vs-singhvi-2999224-2026-09-21",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0wEB6zswFaRwat0g0e0IKvJgzE13mvhviy1javCXvRJRyhkgs9nrIHUL6IqcF3vd9fJHO86TSSapjXQ2_Td1xuc_YqeE4anyLCWxtaDn4UTDypT5JrGioCvyo3Xb9CB7cBVFHiQziqC_puV5ZGILW8hHxVPHOHWBxoDv-2rbizUxwN-tXqmhBHW_sLA_2qqgYqBtXAjaydIoaeXJx3OR5POFxNGtXq6rpeVW9RWeL_x-h11QaAh4TAqAWpY6vmR_riR1vTyuc-T2tOQr2UAfeT6uD4oN&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://www.indiatoday.in › Business",
+      "date": "2 days ago",
+      "snippet": "Tata Sons board had unanimously resolved. Tata Trust had separately passed unanimous resolutions in July 2025 supporting the same position.",
+      "snippet_highlighted_words": [
+        "Tata Sons board had unanimously resolved"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.1,
+            "reviews": 17500
+          },
+          "extensions": [
+            "4.1(17,500)",
+            "Free",
+            "Android",
+            "Reference"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Tata Sons board had unanimously resolved. Tata Trust had separately passed unanimous resolutions in July 2025 supporting the same position.",
+          "source_info_link": "https://www.indiatoday.in/business/story/tata-sons-legal-battle-tata-trusts-lawyers-n-chandrasekaran-camp-lawyers-list-salve-vs-singhvi-2999224-2026-09-21",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEztHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCTtHCQv5JQPAAAAEHRSTlMA1Bn_LsLz5lEJjHmZaESmp1sL6wAAALFJREFUeAFjGDjAqOwQlC7BziAC4bKpJQgZTFZmKYVyFVcHGfBcZlVXgHDV2YoM2J0nFy-AcvmMDLOZTzMYADkdLxq0d3J2ODBwOjximMdwxuZ07uYmq88XuAyuM8gyMBgoM3CaCDCYsK1l7BMActcwMEQLMKy-NY0zbQKQu5-BQVqA4WyF24NVDGDFTCYCTBb1XwPAXF6bz06mwo4NDEYgrgPDjAecLgosDAyaSvQLKABOjSqlayl5egAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZhUndhdDBnMGUwSUt2Smd6RTEzbXZodml5MWphdkNYdlJKUnloa2dzOW5ySUhVTDZJcWNGM3ZkOWZKSE84NlRTU2FwalhRMl9UZDF4dWNfWXFlRTRhbnlMQ1d4dGFEbjRVVER5cFQ1SnJHaW9DdnlvM1hiOUNCN2NCVkZIaVF6aXFDX3B1VjVaR0lMVzhoSHhWUEhPSFdCeG9Edi0ycmJpelV4d04tdFhxbWhCSFdfc0xBXzJxcWdZcUJ0WEFqYXlkSW9hZVhKeDNPUjVQT0Z4Tkd0WHE2cnBlVlc5UldlTF94LWgxMVFhQWg0VEFxQVdwWTZ2bVJfcmlSMXZUeXVjLVQydE9RcjJVQWZlVDZ1RDRvThIEGgIIABqBBxICCAAaACICCAEqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA2QYIABAAGAAgACogCgR0YXRhFbjD5EAaCHRhdGFzb25zGglpdjtwO3RhdGEqJQoEc29ucxWgxcVAGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFSXkwkAaBXRydXN0GgtpdjtwO3RydXN0cypUCgdkaXNwdXRlFalVB0AaCGNvbmZsaWN0Ggtjb250cm92ZXJzeRoIZGlzcHV0ZXMaCWRpc3B1dGluZxoKbGl0aWdhdGlvbhoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSoWCgQyMDI1FWvuqT0aCWl2O247MjAyNTKqAi9nb3RvP3VybD1DQUVTMHdFQjZ6c3dGYVJ3YXQwZzBlMElLdkpnekUxM212aHZpeTFqYXZDWHZSSlJ5aGtnczlucklIVUw2SXFjRjN2ZDlmSkhPODZUU1NhcGpYUTJfVGQxeHVjX1lxZUU0YW55TENXeHRhRG40VVREeXBUNUpyR2lvQ3Z5bzNYYjlDQjdjQlZGSGlRemlxQ19wdVY1WkdJTFc4aEh4VlBIT0hXQnhvRHYtMnJiaXpVeHdOLXRYcW1oQkhXX3NMQV8ycXFnWXFCdFhBamF5ZElvYWVYSngzT1I1UE9GeE5HdFhxNnJwZVZXOVJXZUxfeC1oMTFRYUFoNFRBcUFXcFk2dm1SX3JpUjF2VHl1Yy1UMnRPUXIyVUFmZVQ2dUQ0b046QTxiPlRhdGEgU29uczwvYj4gdnMgVGF0YSA8Yj5UcnVzdHM8L2I-IHNldCBmb3IgY291cnRyb29tIHNob3dkb3duQpIBPGI-VGF0YSBTb25zIGJvYXJkIGhhZCB1bmFuaW1vdXNseSByZXNvbHZlZDwvYj4uIFRhdGEgVHJ1c3QgaGFkIHNlcGFyYXRlbHkgcGFzc2VkIHVuYW5pbW91cyByZXNvbHV0aW9ucyBpbiBKdWx5IDIwMjUgc3VwcG9ydGluZyB0aGUgc2FtZSBwb3NpdGlvbi5SA25ldyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZhUndhdDBnMGUwSUt2Smd6RTEzbXZodml5MWphdkNYdlJKUnloa2dzOW5ySUhVTDZJcWNGM3ZkOWZKSE84NlRTU2FwalhRMl9UZDF4dWNfWXFlRTRhbnlMQ1d4dGFEbjRVVER5cFQ1SnJHaW9DdnlvM1hiOUNCN2NCVkZIaVF6aXFDX3B1VjVaR0lMVzhoSHhWUEhPSFdCeG9Edi0ycmJpelV4d04tdFhxbWhCSFdfc0xBXzJxcWdZcUJ0WEFqYXlkSW9hZVhKeDNPUjVQT0Z4Tkd0WHE2cnBlVlc5UldlTF94LWgxMVFhQWg0VEFxQVdwWTZ2bVJfcmlSMXZUeXVjLVQydE9RcjJVQWZlVDZ1RDRvThIEGgIIABqBBxICCAAaACICCAEqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA2QYIABAAGAAgACogCgR0YXRhFbjD5EAaCHRhdGFzb25zGglpdjtwO3RhdGEqJQoEc29ucxWgxcVAGgNzb24aCHRhdGFzb25zGglpdjtwO3NvbnMqIQoGdHJ1c3RzFSXkwkAaBXRydXN0GgtpdjtwO3RydXN0cypUCgdkaXNwdXRlFalVB0AaCGNvbmZsaWN0Ggtjb250cm92ZXJzeRoIZGlzcHV0ZXMaCWRpc3B1dGluZxoKbGl0aWdhdGlvbhoMaXY7cDtkaXNwdXRlKk4KCmVzY2FsYXRpbmcVAAAAABoIZXNjYWxhdGUaCWVzY2FsYXRlZBoJZXNjYWxhdGVzGgplc2NhbGF0aW9uGg9pdjtwO2VzY2FsYXRpbmcqGwoFbmV3bHkVAAAAABoDbmV3GghyZWNlbnRseSoWCgQyMDI1FWvuqT0aCWl2O247MjAyNTKqAi9nb3RvP3VybD1DQUVTMHdFQjZ6c3dGYVJ3YXQwZzBlMElLdkpnekUxM212aHZpeTFqYXZDWHZSSlJ5aGtnczlucklIVUw2SXFjRjN2ZDlmSkhPODZUU1NhcGpYUTJfVGQxeHVjX1lxZUU0YW55TENXeHRhRG40VVREeXBUNUpyR2lvQ3Z5bzNYYjlDQjdjQlZGSGlRemlxQ19wdVY1WkdJTFc4aEh4VlBIT0hXQnhvRHYtMnJiaXpVeHdOLXRYcW1oQkhXX3NMQV8ycXFnWXFCdFhBamF5ZElvYWVYSngzT1I1UE9GeE5HdFhxNnJwZVZXOVJXZUxfeC1oMTFRYUFoNFRBcUFXcFk2dm1SX3JpUjF2VHl1Yy1UMnRPUXIyVUFmZVQ2dUQ0b046QTxiPlRhdGEgU29uczwvYj4gdnMgVGF0YSA8Yj5UcnVzdHM8L2I-IHNldCBmb3IgY291cnRyb29tIHNob3dkb3duQpIBPGI-VGF0YSBTb25zIGJvYXJkIGhhZCB1bmFuaW1vdXNseSByZXNvbHZlZDwvYj4uIFRhdGEgVHJ1c3QgaGFkIHNlcGFyYXRlbHkgcGFzc2VkIHVuYW5pbW91cyByZXNvbHV0aW9ucyBpbiBKdWx5IDIwMjUgc3VwcG9ydGluZyB0aGUgc2FtZSBwb3NpdGlvbi5SA25ldyICEAFIAFgAaAA",
+      "source": "India Today"
+    },
+    {
+      "position": 7,
+      "title": "The Fight Is Now Over Who Controls Tata Sons' Leadership",
+      "link": "https://www.youtube.com/watch?v=J0oBFBq1NGY",
+      "displayed_link": "51.2K+ views · 4 days ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKXMcXpHEJXBotjpcQXOkw7uHpvYvBuYYaBgaTGna8P03J_cXnTNEUAw&s",
+      "snippet": "With the Trusts controlling about two-thirds of Tata Sons, the dispute could shape who leads the group and how it evolves in the post-Ratan Tata ...",
+      "duration": "8:02",
+      "about_this_result": {
+        "source": {
+          "description": "With the Trusts controlling about two-thirds of Tata Sons, the dispute could shape who leads the group and how it evolves in the post-Ratan Tata ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjl1d1J2QnI3azVpVDNFR1F3ZXpkN2pZeVhQYmtobVR0enNrTFVRUDFLejNOeXlFR2xudjBzX0I5RDF1bjd2YS1JRjNiZ0d6Ums1TE5EX2dHTWNDMTFjaHo0TGctY0tXcExPZk1WellxQ0lwcHVHVDM1Z3dTbzRsSk1KZnZhURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjl1d1J2QnI3azVpVDNFR1F3ZXpkN2pZeVhQYmtobVR0enNrTFVRUDFLejNOeXlFR2xudjBzX0I5RDF1bjd2YS1JRjNiZ0d6Ums1TE5EX2dHTWNDMTFjaHo0TGctY0tXcExPZk1WellxQ0lwcHVHVDM1Z3dTbzRsSk1KZnZhURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT2a6AOpN3QUEO9g83U0ErDDluruEH1ookYjQ",
+      "source": "YouTube · The Indian Express"
+    },
+    {
+      "position": 8,
+      "title": "Tata Group stocks face fresh risk as Trusts-Sons row ...",
+      "link": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-face-fresh-risk-as-trusts-sons-row-escalates-which-stock-looks-most-attractive-now-11789989497661.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES4wEB6zswFQZA-YwlRWGaYLeXT-Jphboxgg8Av9NjO69KuzCCW1BCo1hbuHvLwZKdiRjxaci9jwyxQhWHb4DprF95goby91ls6IofnpkAUMJZpqbR58Qtzu091yRmiQIWgWrk_eF7h1-usp03WV6rI6zZzRoIN2z0bKGk71mmqvmjTXQxudoQLo-fgZplNcll8bnoLfRm13KnmjpwdR29JUc5Z7C6Dy7iVANeomCtWwazlnvO4j5-_XQRxzVAV2gWCeFOAu_hOLry828flTQjDh9D8E5zN7kU5DQR3Jpvs1JD3OP5Zg&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "2 days ago",
+      "snippet": "The Tata Trusts-Tata Sons dispute raises concerns among investors regarding governance and stock volatility. Trent shows the strongest ...",
+      "snippet_highlighted_words": [
+        "Trusts",
+        "Tata Sons dispute"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Tata Trusts-Tata Sons dispute raises concerns among investors regarding governance and stock volatility. Trent shows the strongest ...",
+          "source_info_link": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-face-fresh-risk-as-trusts-sons-row-escalates-which-stock-looks-most-attractive-now-11789989497661.html",
+          "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0vd_nN6GxAt_8B6IEr5Sa3OnZh3gObpTQY9ojIUAD-kqv0KFfJdZC2Z-5KaKLQeVwl0qFmm66U2or_4tCYT2WQHIIm_CMv-G0m-zrnNQQuvrPn68PyAvSiX9BUhBh6eMFt0wPCpHtTtrrr3Y8tYwWsdLOz_By74Fp_uf-Pvr3_g3J6gcEvN9VaQPkp_rnp53JmtE1Cxef4RuhJ1IDkC4MivffCdKl3y1kKmten5wTgtvpuP7pNh87u0Uv4O1c21B-8tb98gUOXFGjg1UBb7rFkuMpYAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsACL2dvdG8_dXJsPUNBRVM0d0VCNnpzd0ZRWkEtWXdsUldHYVlMZVhULUpwaGJveGdnOEF2OU5qTzY5S3V6Q0NXMUJDbzFoYnVIdkx3WktkaVJqeGFjaTlqd3l4UWhXSGI0RHByRjk1Z29ieTkxbHM2SW9mbnBrQVVNSlpwcWJSNThRdHp1MDkxeVJtaVFJV2dXcmtfZUY3aDEtdXNwMDNXVjZySTZ6WnpSb0lOMnowYktHazcxbW1xdm1qVFhReHVkb1FMby1mZ1pwbE5jbGw4Ym5vTGZSbTEzS25tanB3ZFIyOUpVYzVaN0M2RHk3aVZBTmVvbUN0V3dhemxudk80ajUtX1hRUnh6VkFWMmdXQ2VGT0F1X2hPTHJ5ODI4ZmxUUWpEaDlEOEU1ek43a1U1RFFSM0pwdnMxSkQzT1A1WmcSBBoCCAAauwcSAggBGgAiAggBKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJMHCAAQABgAIAAqIAoEdGF0YRU2fvxAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiUKBHNvbnMVn7rUQBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxXCHdlAGgV0cnVzdBoLaXY7cDt0cnVzdHMqVAoHZGlzcHV0ZRVsQQpAGghjb25mbGljdBoLY29udHJvdmVyc3kaCGRpc3B1dGVzGglkaXNwdXRpbmcaCmxpdGlnYXRpb24aDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFRO_Lj8aCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUywAIvZ290bz91cmw9Q0FFUzR3RUI2enN3RlFaQS1Zd2xSV0dhWUxlWFQtSnBoYm94Z2c4QXY5TmpPNjlLdXpDQ1cxQkNvMWhidUh2THdaS2RpUmp4YWNpOWp3eXhRaFdIYjREcHJGOTVnb2J5OTFsczZJb2ZucGtBVU1KWnBxYlI1OFF0enUwOTF5Um1pUUlXZ1dya19lRjdoMS11c3AwM1dWNnJJNnpaelJvSU4yejBiS0drNzFtbXF2bWpUWFF4dWRvUUxvLWZnWnBsTmNsbDhibm9MZlJtMTNLbm1qcHdkUjI5SlVjNVo3QzZEeTdpVkFOZW9tQ3RXd2F6bG52TzRqNS1fWFFSeHpWQVYyZ1dDZUZPQXVfaE9Mcnk4MjhmbFRRakRoOUQ4RTV6TjdrVTVEUVIzSnB2czFKRDNPUDVaZzpaPGI-VGF0YTwvYj4gR3JvdXAgc3RvY2tzIGZhY2UgZnJlc2ggcmlzayBhcyA8Yj5UcnVzdHM8L2I-LTxiPlNvbnM8L2I-IHJvdyA8Yj5lc2NhbGF0ZXM8L2I-Qp0BVGhlIFRhdGEgPGI-VHJ1c3RzPC9iPi08Yj5UYXRhIFNvbnMgZGlzcHV0ZTwvYj4gcmFpc2VzIGNvbmNlcm5zIGFtb25nIGludmVzdG9ycyByZWdhcmRpbmcgZ292ZXJuYW5jZSBhbmQgc3RvY2sgdm9sYXRpbGl0eS4gVHJlbnQgc2hvd3MgdGhlIHN0cm9uZ2VzdCZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsACL2dvdG8_dXJsPUNBRVM0d0VCNnpzd0ZRWkEtWXdsUldHYVlMZVhULUpwaGJveGdnOEF2OU5qTzY5S3V6Q0NXMUJDbzFoYnVIdkx3WktkaVJqeGFjaTlqd3l4UWhXSGI0RHByRjk1Z29ieTkxbHM2SW9mbnBrQVVNSlpwcWJSNThRdHp1MDkxeVJtaVFJV2dXcmtfZUY3aDEtdXNwMDNXVjZySTZ6WnpSb0lOMnowYktHazcxbW1xdm1qVFhReHVkb1FMby1mZ1pwbE5jbGw4Ym5vTGZSbTEzS25tanB3ZFIyOUpVYzVaN0M2RHk3aVZBTmVvbUN0V3dhemxudk80ajUtX1hRUnh6VkFWMmdXQ2VGT0F1X2hPTHJ5ODI4ZmxUUWpEaDlEOEU1ek43a1U1RFFSM0pwdnMxSkQzT1A1WmcSBBoCCAAauwcSAggBGgAiAggBKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJMHCAAQABgAIAAqIAoEdGF0YRU2fvxAGgh0YXRhc29ucxoJaXY7cDt0YXRhKiUKBHNvbnMVn7rUQBoDc29uGgh0YXRhc29ucxoJaXY7cDtzb25zKiEKBnRydXN0cxXCHdlAGgV0cnVzdBoLaXY7cDt0cnVzdHMqVAoHZGlzcHV0ZRVsQQpAGghjb25mbGljdBoLY29udHJvdmVyc3kaCGRpc3B1dGVzGglkaXNwdXRpbmcaCmxpdGlnYXRpb24aDGl2O3A7ZGlzcHV0ZSpOCgplc2NhbGF0aW5nFRO_Lj8aCGVzY2FsYXRlGgllc2NhbGF0ZWQaCWVzY2FsYXRlcxoKZXNjYWxhdGlvbhoPaXY7cDtlc2NhbGF0aW5nKhsKBW5ld2x5FQAAAAAaA25ldxoIcmVjZW50bHkqFgoEMjAyNRUAAAAAGglpdjtuOzIwMjUywAIvZ290bz91cmw9Q0FFUzR3RUI2enN3RlFaQS1Zd2xSV0dhWUxlWFQtSnBoYm94Z2c4QXY5TmpPNjlLdXpDQ1cxQkNvMWhidUh2THdaS2RpUmp4YWNpOWp3eXhRaFdIYjREcHJGOTVnb2J5OTFsczZJb2ZucGtBVU1KWnBxYlI1OFF0enUwOTF5Um1pUUlXZ1dya19lRjdoMS11c3AwM1dWNnJJNnpaelJvSU4yejBiS0drNzFtbXF2bWpUWFF4dWRvUUxvLWZnWnBsTmNsbDhibm9MZlJtMTNLbm1qcHdkUjI5SlVjNVo3QzZEeTdpVkFOZW9tQ3RXd2F6bG52TzRqNS1fWFFSeHpWQVYyZ1dDZUZPQXVfaE9Mcnk4MjhmbFRRakRoOUQ4RTV6TjdrVTVEUVIzSnB2czFKRDNPUDVaZzpaPGI-VGF0YTwvYj4gR3JvdXAgc3RvY2tzIGZhY2UgZnJlc2ggcmlzayBhcyA8Yj5UcnVzdHM8L2I-LTxiPlNvbnM8L2I-IHJvdyA8Yj5lc2NhbGF0ZXM8L2I-Qp0BVGhlIFRhdGEgPGI-VHJ1c3RzPC9iPi08Yj5UYXRhIFNvbnMgZGlzcHV0ZTwvYj4gcmFpc2VzIGNvbmNlcm5zIGFtb25nIGludmVzdG9ycyByZWdhcmRpbmcgZ292ZXJuYW5jZSBhbmQgc3RvY2sgdm9sYXRpbGl0eS4gVHJlbnQgc2hvd3MgdGhlIHN0cm9uZ2VzdCZuYnNwOy4uLlIDbmV3IgIQAUgAWABoAA",
+      "source": "Livemint"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=10&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8NMDegQILhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=10&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAE",
+      "3": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=20&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAG",
+      "4": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=30&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAI",
+      "5": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=40&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAK",
+      "6": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=50&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAM",
+      "7": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=60&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAO",
+      "8": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=70&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAQ",
+      "9": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=80&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAS",
+      "10": "https://www.google.com/search?q=tata+sons+trusts+dispute+escalating+newly+2025&sca_esv=71d1dbb7a0502d97&ei=SGizauXvEqDW5NoPqbvCmA4&start=90&sa=N&sstk=AS6-VmKONCJC7bBGeJGTKTef3FRZ0zrDe87Pi_GjBeXqdy7aF4UXb63-HsnAplfTQlZJw_-kPvpwVzyGtV2hdibKWdlOcgg0O_D-Pw&ved=2ahUKEwjls-XPgISXAxUgK1kFHamdEOMQ8tMDegQILhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tata+sons+trusts+dispute+escalating+newly+2025&start=90"
+    }
+  }
+}

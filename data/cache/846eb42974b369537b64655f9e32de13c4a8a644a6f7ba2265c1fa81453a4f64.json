@@ -1,0 +1,1139 @@
+{
+  "search_metadata": {
+    "id": "6ab36f52b9fc5f2d125b4cd2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/oA-7huZB_z_nSRyopRrTf2i09DHCg7m6OIdpP6jQXNQ/6ab36f52b9fc5f2d125b4cd2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oA-7huZB_z_nSRyopRrTf2i09DHCg7m6OIdpP6jQXNQ/6ab36f52b9fc5f2d125b4cd2.md",
+    "created_at": "2026-09-23 06:18:58 UTC",
+    "processed_at": "2026-09-23 06:18:58 UTC",
+    "google_news_url": "https://news.google.com/search?q=Apple+Apple+Vision+Air+product+duo+launching+new+update",
+    "raw_html_file": "https://serpapi.com/searches/oA-7huZB_z_nSRyopRrTf2i09DHCg7m6OIdpP6jQXNQ/6ab36f52b9fc5f2d125b4cd2.html",
+    "total_time_taken": 2.23
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Apple Apple Vision Air product duo launching new update"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Apple unveils iPhone Duo",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "thumbnail": "https://www.apple.com/newsroom/videos/2026/autoplay/09/apple-unveils-iphone-duo/apple-iphone-duo-opening/posters/Apple-iPhone-Duo-opening-iPhone-Duo-260909.jpg.large_2x.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXbEF4Y1VoS1NYbzRXR04wVFJDZkF4ampCU2dLTWdZdFZZek9xUVk",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/article/Apple-iPhone-18-Pro-2up-260909_inline.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtjVEpxTTJoRlQwWlNkbEZhVFJDUUJSalVBeWdLTWdNUk13dw",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Gurman: New Apple Vision Pro Won't Arrive for at Least Two Years",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/05/11/new-vision-pro-wont-arrive-at-least-two-years/",
+      "thumbnail": "https://images.macrumors.com/t/z2v-4lf2cDe3mFPAvhxAiXBbzAI=/400x0/article-new/2025/10/Vision-Pro-M5-Demo.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURhVUpDWDB0bFZsaE5NbmhvVFJEaEFSaVFBeWdLTWdZaE1KRE1IUWs",
+      "date": "05/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Apple Glasses: Apple’s AI Smart Glasses Release Date, Specs, Features and Latest Rumors",
+      "source": {
+        "name": "zeera wireless",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zeerawireless.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://zeerawireless.com/blogs/news/apple-glasses-ai-smart-glasses-release-date-specs",
+      "thumbnail": "http://zeerawireless.com/cdn/shop/articles/Apple_Glasses_Apple_s_AI_Smart_Glasses_Release_Date_Specs_Features_and_Latest_Rumors1.png?v=1787333209",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtPV1JVYUhaaFgyUkdlak56VFJEZ0F4aUFCU2dLTWdZQkVJekx0UWM",
+      "date": "05/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Everything Apple could still launch before the end of 2026",
+      "source": {
+        "name": "Macworld",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Karen haslam"
+        ]
+      },
+      "link": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "thumbnail": "https://www.macworld.com/wp-content/uploads/2026/09/671090-0-64066300-1789031316-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNWazVoZEhCb2RETldXSG96VFJERUF4aW1CU2dLTWdZSlFvU3ByUVU",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Major updates for Apple’s software platforms are now available",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/article/Apple-OS-availability-hero_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFSMFo2VEV0Zk9YQlVURUZuVFJDZkF4ampCU2dLTWdrTlVaSzFwT2loU0FJ",
+      "date": "09/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-14T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Upcoming Apple Products Guide: What's Coming in 2026",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/guide/upcoming-apple-products/",
+      "thumbnail": "https://images.macrumors.com/t/NzGDck9pcpkMBOOuSDDdTQC3rLI=/400x0/article-new/2025/12/Apple-26-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJTMlJ2ZUVOTlgxQXpRMlJNVFJEaEFSaVFBeWdLTWdhSllaSUt1UWM",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Inside Apple’s Pivot From a ‘Vision Air’ Headset to Meta-Like Smart Glasses",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Gurman"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/newsletters/2025-10-12/inside-apple-s-glasses-pivot-when-apple-is-launching-m5-macbook-pro-ipad-pro",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibmVT5Y07vQI/v1/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhjVTlzYmtWa1dFZExkRkozVFJERUF4aW1CU2dLTWdrRmtJekxQV1c1REFJ",
+      "date": "10/12/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-12T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/article/Apple-iPhone-18-Pro-lineup-Apple-Watch-Series-12-Apple-Watch-Ultra-4-Airpods-5_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdhR0YyYVVsSFVFUXhRakpSVFJDZkF4ampCU2dLTWdNRlFCUQ",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Apple Vision Pro Just Got Even More Expensive",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/06/25/apple-vision-pro-just-got-even-more-expensive/",
+      "thumbnail": "https://images.macrumors.com/t/5DQwPPOl9Eopsx8eKkN34cgMiSk=/400x0/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlTR2xIV21WVmFtcE9SME0zVFJEaEFSaVFBeWdLTWdtVmNZN3NPS1p6U3dJ",
+      "date": "06/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-25T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Kuo: Apple's Vision Pro Successors Off the Table as Focus Shifts to Smart Glasses",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/",
+      "thumbnail": "https://images.macrumors.com/t/w-ss2ALP1qVX004NfRULp_Y2TNM=/400x0/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdUVlpUY25aR2NqaE9hMGN5VFJEaEFSaVFBeWdLTWdZSmtwSnZ1UWM",
+      "date": "06/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-03T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Apple Upgrade launches in the United States",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/07/apple-upgrade-launches-in-the-united-states/article/Apple-Upgrade-hero_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxTMjVFY1hVeVUxbDFPREZtVFJDZkF4amlCU2dLTWdhcEU0aHZRUVE",
+      "date": "07/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-28T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Cheaper, Lighter Apple Vision Pro Successor Could Arrive in Late 2028",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/06/01/slimmer-lighter-apple-vision-pro-late-2028/",
+      "thumbnail": "https://images.macrumors.com/t/CYkC4mK-4W8cvqZHh7pRnpcnDp8=/400x0/article-new/2025/10/Vision-Pro-M5-Announcement.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpiVk53T1V3eVVDMVpRMDl1VFJEY0FSaVFBeWdLTWdZWlU0Nk1JUWM",
+      "date": "06/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-01T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Apple Reportedly Lays Off 60 Vision Products Group Employees",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
+      "thumbnail": "https://images.macrumors.com/t/5DQwPPOl9Eopsx8eKkN34cgMiSk=/400x0/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlTR2xIV21WVmFtcE9SME0zVFJEaEFSaVFBeWdLTWdtVmNZN3NPS1p6U3dJ",
+      "date": "08/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-21T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Apple Has Given Up on the Vision Pro After M5 Refresh Flop",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/",
+      "thumbnail": "https://images.macrumors.com/t/5ede1e2daB0QR7MLROLqfSzilJk=/400x0/article-new/2025/10/M5-Vision-Pro-Thumb-2.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJlSFp4VDA5ak1qVkhhMFJtVFJEaEFSaVFBeWdLTWdZQmNKQ05zUVk",
+      "date": "04/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-29T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Apple Event Plans: New Products Coming in 2026",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/guide/apple-event/",
+      "thumbnail": "https://images.macrumors.com/t/B7781nYQxXBVDAG12iuDpBTWk_g=/400x0/article-new/2025/12/Apple-26-Feature-2.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtWa1JmY1VNMlprNTBjVlIyVFJEaEFSaVFBeWdLTWdhTmdaTEh0QVk",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "More All-Black Apple Vision Pro Parts Surface Online",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/05/27/more-all-black-apple-vision-pro-parts/",
+      "thumbnail": "https://images.macrumors.com/t/TIuPJiktP7BLojtVuSxb4T7_a1c=/400x0/article-new/2026/05/black-vision-pro-parts.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNbWgzWTFKNGFFUkZObUZPVFJEaEFSaVFBeWdLTWdhQkFvUnRFUU0",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Apple's 2026 and 2027 Product Roadmap: Foldable iPhone, iPhone 18 Pro, M5 Macs, and More",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/12/16/apple-product-roadmap-2026/",
+      "thumbnail": "https://images.macrumors.com/t/GE2arSJGowUmLVW6ckpqMdzKOaI=/400x0/article-new/2025/06/apple-beta-26-lineup.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWRFpOY2pGeFkyTnViMjlrVFJEaEFSaVFBeWdLTWdZQmdKVHVOQWM",
+      "date": "12/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-16T08:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Vision Pro Future Uncertain as All Headset Development Is Seemingly Paused",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/10/11/vision-pro-future-uncertain/",
+      "thumbnail": "https://images.macrumors.com/t/B5DWG5LPPxi5VSviPK0plzN4KXg=/400x0/article-new/2024/07/apple-vision-pro-orange.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpWWEJMY0ZZNFJUbFpVbEZpVFJEaEFSaVFBeWdLTWdhVlVveEpwUWM",
+      "date": "10/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-11T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Apple Updates iPad Pro, MacBook Pro, Vision Pro With M5 Chip",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Welch"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2025-10-15/apple-updates-ipad-pro-macbook-pro-vision-pro-with-its-m5-chip",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSztvLqOEtzQ/v0/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR1ZFU1RsRU5URXRVVkJ4VFJDYkF4anFCU2dLTWdZWlU0Nk1JUWM",
+      "date": "10/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-15T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Apple advances health and fitness capabilities using Apple Intelligence",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/article/Apple-iPhone-18-Pro-Apple-Watch-Series-12-redesigned-Health-app-260909_inline.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFTR0ZNTm5WTkxWSkpNVXBNVFJEckJCanZBeWdLTWdZWlk0cEtxZ2c",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Apple Shelves Vision Headset Revamp to Prioritize Meta-Like AI Glasses",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Gurman"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2025-10-01/apple-shelves-vision-headset-revamp-to-prioritize-meta-like-ai-smart-glasses",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0bdiQqVE0CA/v1/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURWMDl2TVZwR1JVdzVhMlZMVFJERUF4aW1CU2dLTWdZQkFKeVBuUWs",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-01T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Apple Puts Hardware Chief John Ternus in the Succession Spotlight",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Gurman"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is2NfZABe85k/v2/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXVFZUV1VaVFJsSldWVVJRVFJERUF4aW1CU2dLTWdhQmtKS090UWM",
+      "date": "10/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-05T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/article/Apple-John-Ternus-Tim-Cook_Full-Bleed-Image.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRZbEo2T1ZaMU4wRlVibHAzVFJDZkF4ampCU2dLTWdhSkZwb25rZ28",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/article/Apple-AirPods-5-hero-260909_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhNMVJRWlhaeWJsZElYMGhzVFJERUF4aW1CU2dLTWdhcFJKU3RJUWs",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Report: Apple to Launch These New Products in 2026",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/11/02/apple-to-launch-these-new-products-in-2026/",
+      "thumbnail": "https://images.macrumors.com/t/-ExMtbhwKwtSkj33nseqBNpPVP0=/400x0/article-new/2023/09/Apple-Logo-Spotlight.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBaVkJDVWpSZmIwTklOUzFOVFJEaEFSaVFBeWdLTWdhaEk1SndHUWs",
+      "date": "11/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-11-02T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Apple introduces the new MacBook Air with M5",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/article/Apple-MacBook-Air-hero-260303_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlWMnByTFVSVU9VOW5Va2RoVFJERUF4aW1CU2dLTWdhWlk0ektMUVk",
+      "date": "03/03/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-03T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Introducing iPhone Air, a powerful new iPhone with a breakthrough design",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/article/Apple-iPhone-Air-hero-250909_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5VamczVlRoRFprSkhWbDkwVFJDZkF4ampCU2dLTWdPUmNpUQ",
+      "date": "09/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-09T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Apple introduces the new iPad Air, powered by M4",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/article/Apple-iPad-Air-M4-multitasking-260302_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRRWGQyTVhWZlZFTmZiMDg0VFJEVUF4aVBCU2dLTWdhUlFwSXhIUWc",
+      "date": "03/02/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-02T08:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Report: Cheaper Apple Vision Pro Display Work Winds Down at Samsung",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/07/08/cheaper-apple-vision-pro-display-work-ended/",
+      "thumbnail": "https://images.macrumors.com/t/CYkC4mK-4W8cvqZHh7pRnpcnDp8=/400x0/article-new/2025/10/Vision-Pro-M5-Announcement.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpiVk53T1V3eVVDMVpRMDl1VFJEY0FSaVFBeWdLTWdZWlU0Nk1JUWM",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Apple Stops Work on Lighter Vision Pro to Fast-Track AI Smart Glasses",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/10/01/apple-ai-smart-glasses-focus/",
+      "thumbnail": "https://images.macrumors.com/t/m_y5ZCdUD_BA-kyBItZ9AzXiFDY=/400x0/article-new/2025/07/Apple-Galsses-Feature-Redux-2.5.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlWbXRqY0dVM01FZE5jakozVFJEaEFSaVFBeWdLTWdhQkFvaUxuUVk",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-01T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "FCC Accidentally Leaks Apple's Next Vision Pro",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/09/30/fcc-apple-vision-pro/",
+      "thumbnail": "https://images.macrumors.com/t/SYMAIJ8vHuAZwB-Ztm6lANK-3sY=/400x0/article-new/2025/09/fcc-vision-pro-leak.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJZbTFIVWkwNWRGaElObXczVFJEaUFSaVFBeWdLTWdZWk01YUxvUW8",
+      "date": "09/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-30T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Apple Vision Pro Launched Two Years Ago Today",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/02/02/apple-vision-pro-launched-two-years-ago/",
+      "thumbnail": "https://images.macrumors.com/t/VmVCSqR0ONFxGbgbH3ZAmWF4EdI=/400x0/article-new/2025/02/Apple-Vision-Pro-Turns-One-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hVGRzTkVKZk9HWkVNakZFVFJEaEFSaVFBeWdLTWdZbFpaS3NMUWM",
+      "date": "02/02/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-02T08:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Vision Products Roadmap Faces a John Ternus Reset - AppleMagazine",
+      "source": {
+        "name": "AppleMagazine",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://applemagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://applemagazine.com/vision-products-roadmap/",
+      "thumbnail": "https://applemagazine.com/wp-content/uploads/2025/05/vision-pro-10.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllRW90U2xoTlRrY3phVFJSVFJERUF4aW1CU2dLTWdZTm9veXJ2UVU",
+      "date": "06/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-04T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Apple AI glasses launch pushed back to late 2027, Vision Air to arrive by 2029: report",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Burkhardt"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/05/31/apple-glasses-launching-late-2027-with-vision-air-to-follow-by-2029/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBWMDlMV1d0VGNtUklPRTh4VFJDSEF4aVBCaWdLTWdZaFpJeU1xUVU",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Top Stories: MacBook Ultra, Vision Pro, and iPhone Ultra Rumors",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.macrumors.com/2026/05/02/top-stories-macbook-ultra-rumors/",
+      "thumbnail": "https://images.macrumors.com/t/H7a4-nWUc23TIdClJb3phiD0FNM=/400x0/article-new/2026/05/top-stories-2026-05-02.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWlNV2xwYmpscmQwRmpTVlZPVFJEaEFSaVFBeWdLTWdzQklJU1ZsS3F4SlZuTk5B",
+      "date": "05/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-02T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Apple's Smart Glasses Could Become Its Next Health Device",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/08/03/apple-smart-glasses-could-become-health-device/",
+      "thumbnail": "https://images.macrumors.com/t/Lt3TTU8p0rgKqqVBDKF4uIDZRRM=/400x0/article-new/2021/01/Apple-Glasses-Pink-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFRMGQ1UzI1V1dUVjFNbk4yVFJEaEFSaVFBeWdLTWdZSmtwSlBQUWc",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Apple Vision Air: Release Delayed to 2029, New Timeline, Price & Everything We Know",
+      "source": {
+        "name": "Memeburn",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://memeburn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://memeburn.com/apple-vision-air-release-delayed-to-2029/",
+      "thumbnail": "https://memeburn.com/wp-content/uploads/2026/06/Apple-Vision-Air-Release-Delayed-to-2029-New-Timeline-Price-Everything-We-Know.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlVMTl4VGs0elIyZElNWFp2VFJDZkF4ampCU2dLTWdhQnNJN0Z3Z1U",
+      "date": "06/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-02T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "More All-Black Vision Pro Prototype Parts Surface Online",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/12/07/more-black-vision-pro-parts-surface-online/",
+      "thumbnail": "https://images.macrumors.com/t/qpJrdAdV_ojASrCgfxEGLH9Hm-I=/400x0/article-new/2025/12/kosutami-black-vision-pro.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJUVWhtUlcxVFJYWkRZVmRqVFJEaEFSaVFBeWdLTWdZaFVaTHJvUWc",
+      "date": "12/07/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-07T08:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "A delayed Vision Air could easily become a cancellation",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Lovejoy"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/10/02/a-delayed-vision-air-could-easily-become-a-cancellation/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/A-delayed-Vision-Air-could-easily-become-a-cancellation.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJNbEZxTm1rMFJYQTNjelJOVFJDSEF4aVBCaWdLTWdZWmdveExzUVU",
+      "date": "10/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-02T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Apple Seemingly Discontinuing Vision Pro Travel Case Around the World",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/06/10/apple-seemingly-discontinuing-vision-pro-case/",
+      "thumbnail": "https://images.macrumors.com/t/N3x_KQSwAml8LIA7Yidrvhs04rw=/400x0/article-new/2024/01/vision-pro-case-feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVM2hUTWtVeWMwWjZhVEJaVFJEaEFSaVFBeWdLTWdZZFpKQ0xMUWM",
+      "date": "06/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-10T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Lighter, Cheaper Vision Air Coming in 2027",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/09/02/vision-air-2027/",
+      "thumbnail": "https://images.macrumors.com/t/QhCU-LmEHBp5EuNPjz7yyiYlGb0=/400x0/article-new/2025/04/Midnight-Vision-Pro-Mock-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNZVzF3YlhOSFFsRnVkbkY1VFJEaEFSaVFBeWdLTWdZWmc0NnF1UVU",
+      "date": "09/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-02T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "New ‘Vision Air’: Here’s how much lighter and less expensive it might be",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/09/02/new-vision-air-heres-how-much-lighter-and-less-expensive-it-might-be/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-vision-air-liquid-glass.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFibmd0YkRGdGRVcE5RMDFvVFJDSEF4aVBCaWdLTWdZWmdveExNUVk",
+      "date": "09/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-02T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Apple has an incredibly ambitious roadmap for smart glasses and headsets, report claims",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stan Schroeder"
+        ]
+      },
+      "link": "https://mashable.com/article/apple-smart-glasses-roadmap",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/05RIsfy6M9xcNgtcg9wi5Yw/hero-image.fill.size_1248x702.v1751279100.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWVE5HWjNocFYwUkRhR1JqVFJDZkF4ampCU2dLTWdhQkFwVE1NUWM",
+      "date": "06/30/2025, 11:14 AM, +0000 UTC",
+      "iso_date": "2025-06-30T11:14:38Z"
+    },
+    {
+      "position": 45,
+      "title": "Upcoming Apple products revealed in the macOS 26.7 release candidate",
+      "source": {
+        "name": "Macworld",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Roman Loyola"
+        ]
+      },
+      "link": "https://www.macworld.com/article/3214949/upcoming-apple-products-revealed-in-macos-26-7-release-candidate.html",
+      "thumbnail": "https://www.macworld.com/wp-content/uploads/2026/08/3214949-0-87938500-1787253008-Apple-logo.jpg?quality=50&strip=all&w=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZUMTk0YW1STlpWZFdSWEZNVFJERUF4aW5CU2dLTWdhaGM0Nk5MUWM",
+      "date": "08/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-18T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Apple Releases visionOS 26.3",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/02/11/apple-releases-visionos-26-3/",
+      "thumbnail": "https://images.macrumors.com/t/EJOzio46nQDI3hIlKipo6-emp6Y=/400x0/article-new/2025/05/visionOS-26-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRSR2Q0TmtkeGRIUkZRV1ZRVFJEaEFSaVFBeWdLTWdhTmtaS0xOUVk",
+      "date": "02/11/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-11T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Apple Vision Air reportedly shelved over smart glasses development",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcus Mendes"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/10/01/apple-vision-air-reportedly-shelved-over-meta-ai-glasses-competitors/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/Apple-Glasses-race-heats-up-as-Meta-changes-its-headset-plans.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURZMFJSUTA4Mk4ybDVlVGxZVFJDSEF4aVBCaWdLTWdhZElvNUtyUVk",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-01T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "The MacRumors Show: Apple's Big Plan for 5 New Vision Products",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/07/11/the-macrumors-show-apple-plans-5-new-vision-products/",
+      "thumbnail": "https://i.ytimg.com/vi/Ea0idMDC4Co/mqdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJiMDV6UkdWVlRITnZValJCVFJDMEFSakFBaWdLTWdtQk1JU1lUT1BJMUFB",
+      "date": "07/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-11T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Everything Apple Announced at the September 2026 Event",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+      "thumbnail": "https://i.ytimg.com/vi/Hgm1ZGd94Lg/mqdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhkVGczUkZScVZFcFBkbmN5VFJDb0FSaXNBaWdCTWdZRk1vZ21uUU0",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Apple to Upgrade Vision Pro in Two Ways Later This Year",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/07/09/apple-vision-pro-2025-features/",
+      "thumbnail": "https://images.macrumors.com/t/l0j6pu-kIxCbUKzuFDY2DyV9_jc=/400x0/article-new/2024/01/Apple-Vision-Pro-Dual-Loop-Band-Orange-Feature-2.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlTSHBNVGsxbFVFWTBWVWRSVFJEaEFSaVFBeWdLTWdZdGhJaHZOUVU",
+      "date": "07/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-09T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Apple Raises Prices Globally: Which Devices Cost More Now?",
+      "source": {
+        "name": "Ubergizmo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ubergizmo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ubergizmo.com/2026/06/apple-raises-prices-globally/",
+      "thumbnail": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2026/03/apple-macbook-neo-scaled.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNbWxDUzJ0bGVGTXhRM0p2VFJDN0F4aTBCU2dLTWdZaGc0eU9zUVk",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Apple Code Confirms Vision Pro With M5 Chip",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Juli Clover"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/08/13/apple-code-confirms-vision-pro-with-m5-chip/",
+      "thumbnail": "https://images.macrumors.com/t/_xpwPDbSmFvhaI9aWWyUffwlL4U=/400x0/article-new/2024/03/Apple-Vision-Pro-2-Feature-1.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUljazVQV0VwdWJHY3dlRXhTVFJEaEFSaVFBeWdLTWdhWlVvNnFxUVk",
+      "date": "08/13/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-13T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "iPhone Duo: Launch, Pricing, and What to Expect From Apple's Foldable",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tim Hardwick"
+        ]
+      },
+      "link": "https://www.macrumors.com/2026/09/09/iphone-fold-launch-pricing-what-to-expect/",
+      "thumbnail": "https://images.macrumors.com/t/_iNqR5xd8BchLEOmjs091BpKEO4=/400x0/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFaVWd6WjE4Mk0xSnZNek5YVFJEaEFSaVFBeWdLTWdZcFE0eFJvUVE",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Report Reveals Apple's Secretive Vision Products Roadmap",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hartley Charlton"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/06/30/report-reveals-apple-vision-roadmap/",
+      "thumbnail": "https://images.macrumors.com/t/w-ss2ALP1qVX004NfRULp_Y2TNM=/400x0/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdUVlpUY25aR2NqaE9hMGN5VFJEaEFSaVFBeWdLTWdZSmtwSnZ1UWM",
+      "date": "06/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-30T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Here’s what we’re expecting with future generations of Apple Vision Pro: roadmap",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Burkhardt"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/08/31/what-to-expect-with-future-apple-vision-pro-models/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/Vision-Pro-v2.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5TamxMZURocFlrdGhTMkZaVFJDSEF4aVBCaWdLTWdhbFVaU3RNUWM",
+      "date": "08/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-31T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/article/Apple-iPad-Air-hero-250304_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpTMWRaZDI5Vk4xb3RSVXgyVFJDZkF4ampCU2dLTWdZVlFvd3FyZ1k",
+      "date": "03/04/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-03-04T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Here are all of the new Apple products worth waiting for, and what to avoid buying now",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Burkhardt"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/04/18/upcoming-apple-product-launches-worth-waiting-for-later-this-year/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5NblJRV21rdGNucFVkV1p1VFJDSEF4aVBCaWdLTWdrQklJZzNQQ1hBVUFF",
+      "date": "04/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-18T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Everything Apple Announced At The Foldable iPhone Duo Launch",
+      "source": {
+        "name": "Engadget",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.engadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kris Holt"
+        ]
+      },
+      "link": "https://www.engadget.com/2253955/everything-apple-announced-at-the-foldable-iphone-launch/",
+      "thumbnail": "https://www.engadget.com/img/gallery/everything-apple-announced-at-the-foldable-iphone-launch/intro-1789048019.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiMjVJUmxsTGFVVkhUVmRZVFJDZkF4ampCU2dLTWdZWlE1QnFKUWc",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Apple to Kick Off Three-Year Plan to Reinvent Its Iconic iPhone",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Gurman"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/newsletters/2025-08-24/apple-to-launch-iphone-17-pro-iphone-17-air-in-september-iphone-fold-next-year-mepmzpcj",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isIDX91UspRc/v3/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRPVEZGTUZKbU1WUjNUbGN0VFJEQ0F4aXBCU2dLTWdrWkE0NnVqZXhyRFFJ",
+      "date": "08/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-24T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Here's What Tim Cook Thinks About Apple's Vision Pro After Low Sales",
+      "source": {
+        "name": "MacRumors",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macrumors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Rossignol"
+        ]
+      },
+      "link": "https://www.macrumors.com/2025/08/01/tim-cook-comments-on-apple-vision-pro/",
+      "thumbnail": "https://images.macrumors.com/t/IpT0FS40GTPbAu_4bvXYPEsWdyk=/400x0/article-new/2023/11/Apple-WWCD23-Vision-Pro-EyeSight-230605.jpg?lossy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVkVUZZV1U1aVRWWlVkV0prVFJEaEFSaVFBeWdLTWdZcFpZTE9MUVk",
+      "date": "08/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-01T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "5 new Apple products we won't see at the Apple Event 2025",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Hindy"
+        ]
+      },
+      "link": "https://mashable.com/article/products-you-wont-see-apple-event-2025",
+      "thumbnail": "https://helios-i.mashable.com/imagery/articles/07n3eZPQQ3j9RTksGMbeUfX/hero-image.fill.size_1248x702.v1756925079.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFSMkUxZUV4dWJrZG1OemgxVFJDZkF4ampCU2dLTWdZSkFvcXR4UVE",
+      "date": "09/03/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-03T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Apple Could Be Planning Affordable Vision Pro And Smart Glasses Launch By 2026",
+      "source": {
+        "name": "Ubergizmo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ubergizmo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ubergizmo.com/2025/04/apple-planning-affordable-vision-pro-and-smart-glasses/",
+      "thumbnail": "https://i0.wp.com/cdnbunny.ubergizmo.com/wp-content/uploads/2025/04/apple-vision-air-mockup.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJSSFpIWDNoc1FVdDNPVXBwVFJDcUJCaXFCQ2dLTWdrRmtveUd0YVpiY3dF",
+      "date": "04/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-28T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Waiting for the next Apple event? Here's when it will take place",
+      "source": {
+        "name": "Macworld",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Karen haslam"
+        ]
+      },
+      "link": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "thumbnail": "https://www.macworld.com/wp-content/uploads/2026/09/672537-0-63148200-1788961222-Generic-Apple-Event-with-rainbow-arch.jpg?quality=50&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRWbTlpYjJJMFoxbEhUMDUxVFJERUF4aW1CU2dLTWdhVlZJYnNLUVU",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Apple Glasses now rumored to follow rare strategy for launch",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/10/02/apple-glasses-now-rumored-to-follow-rare-strategy-for-launch/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-ai.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtZbkF3U2xaNFIyNVNZVko2VFJDSEF4aVBCaWdLTWdhbFJJeXRvUVk",
+      "date": "10/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-02T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Apple introduces the new MacBook Air with the M4 chip and a sky blue color",
+      "source": {
+        "name": "Apple",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.apple.com/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/",
+      "thumbnail": "https://www.apple.com/newsroom/images/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/article/Apple-MacBook-Air-hero-250305_big.jpg.large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlZbUp2U1hWdFZGaFhRVUZhVFJDZkF4ampCU2dLTWdhTlFvNUxJUVk",
+      "date": "03/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-03-05T08:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Who is new Apple CEO John Ternus and what product changes can we expect?",
+      "source": {
+        "name": "t3.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.t3.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rik Henderson"
+        ]
+      },
+      "link": "https://www.t3.com/tech/laptops/who-is-new-apple-ceo-john-ternus-and-what-product-changes-can-we-expect",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/2GjV6SZHVkBhFXwC2rGgUU.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFha2RIV0hGbFdGOVVUR3A1VFJDZkF4ampCU2dLTWdhdEZZTE9rUW8",
+      "date": "04/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-21T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "New Apple products are coming this week, here’s everything that might launch",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Christoffel"
+        ]
+      },
+      "link": "https://9to5mac.com/2025/10/14/new-apple-products-coming-this-week-october-launch/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5NblJRV21rdGNucFVkV1p1VFJDSEF4aVBCaWdLTWdrQklJZzNQQ1hBVUFF",
+      "date": "10/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-14T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Kuo shares detailed roadmap for Apple’s smart glasses and next Vision headsets - GSMArena.com news",
+      "source": {
+        "name": "GSMArena.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gsmarena.com/kuo_shares_detailed_roadmap_for_apples_smart_glasses_and_next_vision_headsets_-news-68438.php",
+      "thumbnail": "https://st.gsmarena.com/imgroot/news/25/06/kuo-apple-glasses-vision-roadmap/-1220x526/gsmarena_0000.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxUQzEyZVd4NFUzaFVWbEJGVFJEckFoak1CaWdLTWdPSmdRNA",
+      "date": "06/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-30T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Apple’s Vision Pro launch may be just a few short weeks away",
+      "source": {
+        "name": "Macworld",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.macworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Simon"
+        ]
+      },
+      "link": "https://www.macworld.com/article/2190490/vision-pro-launch-early-2024-january-shipping.html",
+      "thumbnail": "https://www.macworld.com/wp-content/uploads/2024/01/apple-vision-pro-lenses-6.jpg?quality=50&strip=all&w=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUlOazgxWkRSUlFrbFFWVVJKVFJERUF4aW5CU2dLTWdPVmdnNA",
+      "date": "01/02/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-02T08:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Apple unveils iPhone Duo at iPhone 18 launch event",
+      "source": {
+        "name": "Kursiv Media Узбекистан",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://uz.kursiv.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nigora Umarova"
+        ]
+      },
+      "link": "https://uz.kursiv.media/en/2026-09-09/apple-iphone-duo-iphone-18-launch/",
+      "thumbnail": "https://cdn-uz.kursiv.media/wp-content/uploads/2026/09/snimok-ekrana-2026-09-10-091325.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVblZPV0d4UVREa3lhRm8xVFJDU0F4ajdCU2dLTWdhZFU0NXJxUWM",
+      "date": "09/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-09T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Apple could launch 7 head-worn devices by 2028 - Latest Apple Vision Pro launch imminent",
+      "source": {
+        "name": "TechNave",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://technave.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://technave.com/gadget/Apple-could-launch-7-head-worn-devices-by-2028-Latest-Apple-Vision-Pro-launch-imminent-43194.html",
+      "thumbnail": "https://technave.com/data/files/article/202506300338246807.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZibUkxU2tSRmMweG5lVEZqVFJDSkF4anVCU2dLTWdhSmc0Nm1OUVk",
+      "date": "06/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-30T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}
